@@ -1375,13 +1375,11 @@ In order to assess Howlitzers' nature, we may look at the equipment, representat
 
   This implies a more solid link to identifying howlitzers as ancestors of at minimum salamanders, which presents us a possibility of aeial wyverns and terrestrial drakes, apart from dragons themselves.
 
-With the architecture within those castles, the position of howlitzer may also be framed as overseers or guardians, given their __depiction within wall arches as overlooking the contents below__ -- be it fire bowls or devilite statues, -- which  ties to their either sybolic of literal placement above the observed location, in the clouds.
+There is death animation of tier 3 howlitzers, which home in and self-destruct on the knight in the last attempt to defeat them. While a hypothesis, but given short roster of identities, we would consider this capacity of temporary flight unrestricted as an argument in favour of their living nature as airbourne.
 
-Lastly, there is death animation of tier 3 howlitzers, which home in and self-destruct on the knight in the last attempt to defeat them. While a hypothesis, but given short roster of identities, we would consider this capacity to temporary fly unrestricted as an argument in favour of their living nature as airbourne.
+If heavenly kingdom is physically located above ground, as Scralet Fortress, then _gun puppies would represent stationary units incapable of flight due to their inspiration from drakes_, flying howlitzers would inherit their aerial nature from _either dragons and be identified as wyverns_.
 
-If heavenly kingdom is physically located above ground, as Scralet Fortress, then gun puppies would represent stationary units incapable of flight due to their inpiration from drakes, flying howlitzers would inherit their aerial nature from either dragons and be identified as wyverns.
-
-While we are unaware of the role of dragons for Spiral Order, the sharp design of wyvern and dragon-inspired gear and mythical framing of dragons, makes us to poposes howlitzers as either dragons or wyverns, with _wyverns being fit for species without cosmic influence onto reality_, preserving that role for the creation myth as associated with dragons.
+While we are unaware of the role of dragons for Spiral Order, the sharp design of wyvern or dragon-inspired gear and mythical framing of dragons, makes us to poposes howlitzers as either dragons or wyverns, with _wyverns being fit for species without cosmic influence onto reality_, preserving that role for the creation myth as associated with dragons.
 
 <center class="chapter-break">
   <span class="energy">🜕</span>
@@ -1391,7 +1389,7 @@ While we are unaware of the role of dragons for Spiral Order, the sharp design o
 
 ### _Chapter `V` &#160;<br>_ Spiral Order
 
-Spiral Order is established as a military organization with charecteristic elements of their past spread through main story and equipment descriptions. Through those items, eventually, is revealed this civilization's supposed homewolrd and their name.
+Spiral Order is established as a military organization with charecteristic elements of their past spread through main story and equipment descriptions. Through those items this civilization's supposed homeworld and name are revealed.
 
 Spiral Order supposedly originates from a planet called Isora, them referring to themselves as Isorans:
 
@@ -1405,7 +1403,7 @@ A certain presentation of Spiral Order is offered when this period of time befor
 - `Whether its crest is a relic from the Order of old or a creation from the Knights' time on Cradle is not immediately clear` ([Aegis](https://wiki.spiralknights.com/Aegis)) -- Aegis's description can be interpretad in multiple ways. `Order of old`, given context of Spiral Order, is the most distint presentation of that order, one, that could potentially be a predecessor of modern Spiral Order.
 - `A special saber used to resemble Isoran spacefarers of old as they sliced across the night sky` ([Celestial Saber](https://wiki.spiralknights.com/Celestial_Saber)) -- the term `Isoran spacefarers of old` does not identify an order as in the previous item, yet application of this term within context of a weapon suggests a presence of organization. Existence of a saber implies a potential inspiration behind Isoran past military tradition.
 
-The term `extrasolar` ([Stellar Sentinel Suit](https://wiki.spiralknights.com/Stellar_Sentinel_Suit)) itself _lacks any danger or implication of conflict_, contrasting a recent and _potentally frantic search for energy source due to Morai Wars_. This term, coupled with the present dream-like theme of [Equinox prize box](https://wiki.spiralknights.com/Spring_Equinox_Box_2016) emits a sence of near-limitless, unburdened by external factors, potential, which is a powerful tool used here to create a sence of remoteness only bridged by a momentary recognition: `The Strangers pause at the equinox to recognize the brief moment of cosmic balance on Cradle. For just a breath of time, there is harmony between night and day, the sun and moon, and symmetry in the celestial sphere` ([Balance of the Equinox!](https://forums.spiralknights.com/en/node/98178)). The prize box and its items are charactarized _by a lack of that freedom, interwoven with a sence of longing_ for that period of time:
+The term `extrasolar` ([Stellar Sentinel Suit](https://wiki.spiralknights.com/Stellar_Sentinel_Suit)) itself _lacks any danger or implication of conflict_, contrasting a recent and _potentally frantic_ search for energy source due an ongoing Morai conflict. This term, coupled with the present dream-like theme of [Equinox prize box](https://wiki.spiralknights.com/Spring_Equinox_Box_2016) emits a sence of near-limitless, unburdened by external factors, potential, which is a powerful tool used here to create a sence of distance only bridged by a momentary recognition: `The Strangers pause at the equinox to recognize the brief moment of cosmic balance on Cradle. For just a breath of time, there is harmony between night and day, the sun and moon, and symmetry in the celestial sphere` ([Balance of the Equinox!](https://forums.spiralknights.com/en/node/98178)). The prize box and its items are charactarized by a lack of that freedom, interwoven with a sence of _longing for that period of time_:
 
 - `A special saber used to resemble Isoran spacefarers of old as they sliced across the night sky` ([Celestial Saber](https://wiki.spiralknights.com/Celestial_Saber)).
 - `This suit was once worn by Isoran starfarers of eons long passed that stood watch over extrasolar operations` ([Stellar Sentinel Suit](https://wiki.spiralknights.com/Stellar_Sentinel_Suit)).
@@ -1426,27 +1424,28 @@ The [Azure Guardian Helm](https://wiki.spiralknights.com/Azure_Guardian_Helm) de
 
 Scales suggest physical presence of dragons, meaning, that Isorans had encountered dragons at some point, weather it was within confinements of Isora or during their `extrasolar` expeditions.
 
-_Cradle is not framed_ as a planet possessing a lasting relation with Isorans, apart from ever-present imagery of a spiral, due to lack of recognition of its civilizations, which otherwise might have been related to Isora. Of cource, there is Almire, which was not acknowledged from the very beginning of their narrative. Contrasting to Almire, gremlins have a distinct introduction: `The Clockworks seems to have been built by 'gremlins,' a furry race of malevolent monsters that have not taken kindly to our presence` ([First Contact - Kora](https://wiki.spiralknights.com/First_Contact)).
+_Cradle is not framed as a planet possessing a lasting relation with Isorans_, apart from ever-present imagery of a spiral, due to lack of recognition of its civilizations or cultures, which otherwise might have been related to Isora or noted upon by them. Of cource, there is Almire, which was not acknowledged from the very beginning of their narrative. And contrasting to Almire, gremlins possess a distinct introduction: `The Clockworks seems to have been built by 'gremlins,' a furry race of malevolent monsters that have not taken kindly to our presence` ([First Contact - Kora](https://wiki.spiralknights.com/First_Contact)).
 
-This framing of Cradle as a distinctly separate planet, albeit on the extreme end of its semi-artifical nature, we would so far propose, allows for a more grounded interpretation, where __dragons would inhabit Isora__, otherwise we are offered with a more space-oriented narrative. For now we will assume that dragons were present on Isora, wherein Isorans have discovered their scales, _valuable enough to incorporate them into an elite armor_.
+This framing of Cradle as a distinctly separate planet, albeit on the extreme end of its semi-artifical nature, we would so far propose, allows for a more grounded interpretation, where __dragons would inhabit Isora__, otherwise we are offered with a more fantastic narrative. For now we will assume that dragons were present on Isora, wherein Isorans have discovered and utilized their scales, _valuable enough to incorporate them into elite armor_.
 
-As [Azure Guardian Armor](https://wiki.spiralknights.com/Azure_Guardian_Armor) is described as `a grand set of armor commonly donned by the leaders of the Spiral Order`, considering sparse presence items required for "better" gear, Spiral Order can be analyzed through a lens of inspirations used to create current theme of Spiral Order, that is, military traditions and implied culture.
+In that regard [Azure Guardian Armor](https://wiki.spiralknights.com/Azure_Guardian_Armor) -- `a grand set of armor commonly donned by the leaders of the Spiral Order`, and [Azure Guardian Helm](https://wiki.spiralknights.com/Azure_Guardian_Helm) -- `the technique which weaves dragon scale seamlessly into the metal is a closely guarded secret`, incorporate this rare material.
+
+This correlation between rarity of the materials and gear they are used in within the context of a military organization, Spiral Order must be analyzed through a lens of inspirations used to create current theme of Spiral Order, that is, _military traditions and culture_.
 
 At the [Sunset Steppes](https://wiki.spiralknights.com/A_Revelation_in_Flames/Sunset_Steppes) Rhedon mentions that [drakon battle sprites](#dragons) look similar to dragons: `They seem friendly. In fact they seem to behave just like the battle sprites I know. Only difference is they, uh, well, look like dragons`. This implies, that members of Spiral Order did know, prior to crash landing on Cradle, _how dragons had looked in their appearance to be recognizable_. Weather those dragons were extinct on Isora, or their presence was rare, the impression formed by homeworld culture has persisted into modern day Spiral Order as draconic imagery or a motif:
 
 - `Armor once worn by a member of the 'Iron Dragons,' a squad of fearless knights that specialized in the elimination of high-profile Morai targets. After disbanding, their surviving members were united with other squads by Desna to form the Recon Rangers` -- the [Gold and Iron Dragons](https://wiki.spiralknights.com/Dragon_Armor) are military units. It suggesting a symbolic weight to a dragon as a creature.
 
-  This means that Spiral Order had taken dragons, either from myths, or by observing their living instances, for a naming scheme in their military structure. Such naming sceheme is usually utilized to symbolize specific characteristics of said animals in the context of warfare.
+  This means that Spiral Order had taken dragons, either as a created myth or by observation, for a naming paradigm in their military structure.
 
-- `Mythical armor crafted from the scales of a creature of legend` -- [Dragon Scale Mail](https://wiki.spiralknights.com/Dragon_Scale_Mail) calls dragon as a `creature of legend`, as if they were in fact extinct, being preserved through language, image and an idea.
+  Such naming convention is usually utilized to symbolize specific characteristics of said animals in the context of warfare.
 
-  This framing coexists with one presented in the description of [dragon scales](https://wiki.spiralknights.com/Dragon_Scale): `An armored scale from what was thought to be an extinct creature`, that dragons had gone extict. Here, presence of dragon scales suggests, that __Isoran civilization is old enough to witness dragons first-hand__, _as their depicted apperance does not differ from ones of tortomega and Valkyries_.
-
-  Furthermore, the composition of the `armor crafted from the scales of a creature of legend` is similar to `the technique which weaves dragon scale seamlessly into the metal is a closely guarded secret` ([Azure Guardian Helm](https://wiki.spiralknights.com/Azure_Guardian_Helm)), through application of scales connects those two designs.
-
+- `Mythical armor crafted from the scales of a creature of legend` -- [Dragon Scale Mail](https://wiki.spiralknights.com/Dragon_Scale_Mail) calls dragon as a `creature of legend`, as if they were in fact extinct, being preserved through language, image and idea.
 - Interface of the battle sprite has a distinct facing to each other dragon heads with an item slot located between them.
 
-Those 3 elements if considered with prior instances of dragons' presence, we would propose, imply presence of dragons on Isora, as their images remain reflected within corresponding culture, -- not their architecture, but armor, as Spiral Order is the primary lens through which Isoran civilization is presented.
+  Dragon images remain reflected within Isoran culture, -- not their architecture, but armor, as Spiral Order is the primary lens through which Isoran civilization is presented.
+
+This framing of dragons as creatures from legends of myths coexists with the narrative of dragons being extinct while their modern appearances through of dragon-like species are acknowledged with high precision, to the point of _their depicted apperances remaining identical to ones of tortomega drakes and Valkyries_. We propose, that __Isoran civilization is old enough to witness dragons first-hand__. Whether Isorans are responsble for dragons' extinction is unknown.
 
 #### Juxtoposition of Two Genres of Speculative Fiction
 
@@ -1485,6 +1484,8 @@ Yet no dragons were encountered on Cradle physically. This allows us to derive f
 2. Spiral Order's beliefs of that dragons being extinct are proven to be false by greater reality of Cradle beyond game's scope.
 
   The primaty argumenr in favour of this interpreation is still found in the description of a [dragon scale](https://wiki.spiralknights.com/Dragon_Scale): `An armored scale from what was thought to be an extinct creature`.
+
+  The animalistic imagery is also prevalent for [Padded Armor](https://wiki.spiralknights.com/Padded_Armor) alchemy tree, as grizzly, firefly, snakebite, or falcon.
 
 The scales are used in military, of high ranking armors. Considering the ongoing war with Morai, source of such material would possess a strategic value.
 
@@ -1843,43 +1844,47 @@ A safe speculation can be performed, one that is based on idea of separate histo
 
 #### Morai
 
-Now there are Morai and the Morai Wars, which had brought Isorans to the brink of extinction (`The Morai Wars have brought us to the brink of extinction` - [Spiral Knights: Prologue](https://www.youtube.com/watch?v=d5CrSNU-Wyg)).
-
-Dragons were likely hunted by Spiral Order, with the reason behind it being the resource of dragon scales. It is valuable enough to be considered a military secret. This also implies that scales have some valuable properties.
-
-What are those properties? All cobalt branch of alchemy does have piercing defenses:
-
-- [Riftlocker](https://wiki.spiralknights.com/Riftlocker) and [Breach Blaster](https://wiki.spiralknights.com/Breach_Blaster) are piercing damage type weapons.
-- [Cobalt](https://wiki.spiralknights.com/Cobalt_Armor) armor and [Defender](https://wiki.spiralknights.com/Defender) alchemy trees have piercing defense.
-
-This can lead, based on enemy types present across Clockworks, that Morai, while they could be same as Isorans, were possibly beings, vulnerable to piercing damage, with their machinery also (`These firearms proved instrumental during the siege of Isora in breaking through the war machines of the Morai` - [Riftlocker](https://wiki.spiralknights.com/Riftlocker)) susceptible to piercing damage, as well as their armor (`An enhanced pierce blaster designed to break through hostile armor` - [Breach Blaster](https://wiki.spiralknights.com/Breach_Blaster)).
-
-If items' descriptions are written by the Spiral Order researchers, then, it can be plausible for the [damage](https://wiki.spiralknights.com/Damage) and [monster classification](https://wiki.spiralknights.com/Monster) be also of the same origin.
-
-##### Entity Classification of Morai
-
-There are 2 cases to cover: weather Morai are an Isoran colony and are of the same specie, or, Morai are a different specie, based on their relation to piercing damage classification.
-
-Beasts and fiends are weak to piercing damage, but only beasts and slimes can deal it. Yet there are no constructs nor armors that are vulnerable to piercing - this is a novel concept, as it does not fit to an established damage framework.
+Morai civilization and Morai Wars are introduced as the intial, driving factor for the story, as without them the narrative of energy search and eventual crash landing of Skylark on Cradle would not be possible: `The Morai Wars have brought us to the brink of extinction. We, the crew of the Skylark, fled to the stars seeking a source of incredible power, our last hope to save our homeworld. What we discovered was beyond imagination. We discovered Cradle` - [Spiral Knights: Prologue](https://www.youtube.com/watch?v=d5CrSNU-Wyg).
 
 There are only a few members of Skylark Crew that are confirmed to fight in Morai Wars:
 
 - [Desna and Reckon Rangers](https://wiki.spiralknights.com/Desna)
 - [Rhendon and Scarlet Scouts](https://wiki.spiralknights.com/Rhendon)
 - [Euclid and Alpha Squad](https://wiki.spiralknights.com/Euclid)
-- [Captain Ozlo](https://wiki.spiralknights.com/Ozlo)
 
-In relation to the siege of Isora: [Pathfinder Armor](https://wiki.spiralknights.com/Padded_Armor) and its alchemy tree have specific strategic roles. From this earlier period of time, armors such as [Circuit Breaker Armor](https://wiki.spiralknights.com/Circuit_Breaker_Armor), [Frostbreaker Armor](https://wiki.spiralknights.com/Frostbreaker_Armor), and [Emberbreak Armor](https://wiki.spiralknights.com/Emberbreak_Armor) all refer to an elemental core present within the armor and being hacked (`Armor with a hacked elemental core aimed at resisting fire. However, this non-standard modification creates other elemental weaknesses.` - [Emberbreak Armor](https://wiki.spiralknights.com/Emberbreak_Armor)). This suggests that at least _basic understanding of the elements, without introduction to magic of higher rarity materials, was developed_.
+In relation to the siege of Isora [Pathfinder Armor](https://wiki.spiralknights.com/Padded_Armor) and its alchemy tree have specific strategic roles. From this earlier period of time, armors such as [Circuit Breaker Armor](https://wiki.spiralknights.com/Circuit_Breaker_Armor), [Frostbreaker Armor](https://wiki.spiralknights.com/Frostbreaker_Armor), and [Emberbreak Armor](https://wiki.spiralknights.com/Emberbreak_Armor) all refer to an elemental core present within the armor and being hacked (`Armor with a hacked elemental core aimed at resisting fire. However, this non-standard modification creates other elemental weaknesses` - [Emberbreak Armor](https://wiki.spiralknights.com/Emberbreak_Armor)). This suggests that at least _basic understanding of the elements, without introduction to magic of higher rarity materials was already developed_.
 
-Note on slimes. Slimes seem to be unique to Clockworks as then their hierarchy then would not be a novel discovery to the Spiral Order, as suggested by Kora: `Apparently, monsters within the slime family actually have a ruling aristocracy of elite slimes. These 'Royal Jellies' are enormous, selfish and ill-tempered slimes that live in opulent palaces that we can only guess have been squatted in as we do not believe slimes are capable of building structures` ([Another Trace - Kora](https://wiki.spiralknights.com/Another_Trace)).
+In order to further characterize Morai, we have to look for equipment which mentions Morai:
+
+-[Cobalt](https://wiki.spiralknights.com/Cobalt_Armor) armor and [Defender](https://wiki.spiralknights.com/Defender) alchemy trees have piercing defense.
+- 5-star [Riftlocker](https://wiki.spiralknights.com/Riftlocker) `A deadly handgun said to be capable of sundering heavy armor with a single shot. These firearms proved instrumental during the siege of Isora in breaking through the war machines of the Morai` and 4-star [Breach Blaster](https://wiki.spiralknights.com/Breach_Blaster) `An enhanced pierce blaster designed to break through hostile armor` are piercing damage type weapons.
+
+This equipment comes from more recent Isoran pre-Cradle past, wherein danger of Morai is already present, while associated with properties of Morai armor and technology, suggesting their weakness to piercing damage.
+
+##### Classification of Morai
+
+As damage types and enemy classification systems are predefined, we can assume that those systems are also applied during pre-Cradle exploration, and specifcally, to Morai.
+
+There are 2 scenarios to cover:
+
+- Whether Morai are Isorans;
+- Morai are a different species.
+
+_Beasts_ and _fiends_ are weak to piercing damage, but only _beasts_ and _slimes_ can deal it. Yet there are no constructs nor armors that are vulnerable to piercing -- this is a novel concept, as it does not fit into the established damage framework, as not only Cobalt armor but armor in general is through of as one to offer protection from piercing damage.
+
+Slimes seem to be unique to Clockworks as then their hierarchy then would not be a novel discovery to the Spiral Order, as suggested by Kora: `Apparently, monsters within the slime family actually have a ruling aristocracy of elite slimes. These 'Royal Jellies' are enormous, selfish and ill-tempered slimes that live in opulent palaces that we can only guess have been squatted in as we do not believe slimes are capable of building structures` ([Another Trace - Kora](https://wiki.spiralknights.com/Another_Trace)).
 
 Could presence of Riftlocker also mean that the personnel of said war machines was the target, but not the constructs? This is plausible, but currently does not help with the identification.
 
 If Morai are fiends, then this would certainly lead to Spiral Order's discovery of shadow damage and Underworld. While the prior is practically true, awareness of Underworld apart from Cradle is unknown. The only way we can look into Isoran understanding of Underworld is through their response on existence of fiends and lingering spirits on Cradle. Considering many different mentions of Underworld, and specifically mission description of [Whipping and Mishandling](https://wiki.spiralknights.com/Whipping_and_Mishandling): `After Recon Knights discovered a fiendish city known as Sol' Fork, Spiral HQ deployed a research team to station itself in the heart of the city and study the devilites within. Their finding have become the basis for our understanding of devilite culture and their motives for working with gremlins`, it seems that Underworld was discovered as it is, a separate realm, only on Cradle.
 
-Lastly, the most likely scenario - Morai are simply Isoran colony, which had not, same as Isorans, encountered any non-material realm entities even with entirety of their technology. As Isorans are a spacefaring civilization, as most directly proven by existence of Skylark, Morai are one of Isoran colonies. As it was stated by celestial sets, that explicitly Isorans were spacefaring, it makes it seem as Isora was the homeworld for this civilization.
+Lastly, less complex scenatio asserts that Morai are an Isoran colony.
 
-Due to those factors, we suggest, that if we ever to place morai into this entity classification table, they would possess similar properties to gremlins - bearing their insignia, as gremlins have their's, and being separate in their damage types and resistances, compared to other enemy types.
+As Isorans are a spacefaring civilization, as most directly proven by existence of Skylark, Morai are distinguished not by their species but world -- _as Isorans are identified as people of Isora, so do Morai_. As it was stated by celestial sets, that explicitly Isorans were spacefaring, it makes it seem as Isora was the homeworld for this civilization.
+
+Here, as [Riftlocker](https://wiki.spiralknights.com/Riftlocker) states that `firearms proved instrumental during the siege of Isora in breaking through the war machines of the Morai`, we suggest that the distance between Isora and a supposed homeworld of Morai is close enough for Morai `war machines` to be effective.
+
+Due to those factors, we suggest, that if we ever to place Morai into this entity classification table, they would possess similar properties to gremlins -- bearing their insignia, as gremlins are identified in the classification system by their insignia, and being distinct in their damage types and resistances, compared to other enemy types, as, potentially, weak to piercing damage and afflicting piercing damage.
 
 #### Isora and Cradle
 
@@ -1889,7 +1894,7 @@ As Isorans are a spacefaring civilization, we will discuss further several simil
 
 Across Raiders' equipment, [Raider Buckler](https://wiki.spiralknights.com/Raider_Buckler) has the same Spiral Order symbol, but seems to be from a different period of time, preceding the celestial items. This can be resolved it 2 ways:
 
-1. Spiral imagery is seen in celestial equipment, suggesting that it was utilized by Isorans from very early times, during the less technological age, one inspired by northern cultures. This similarity to valkyries and heavenly kingdom will be kept in mind.
+1. Spiral imagery is seen in celestial equipment, suggesting that it was utilized by Isorans from very early times, during the less technologically advanced age, one inspired by northern or scandinavian cultures. This _similarity to Valkyries_ and heavenly kingdom will be kept in mind.
 2. It is not of native Isoran origin. It seem that at least a few other items could support that theory, - [Raiders Prize Box](https://wiki.spiralknights.com/Raiders_Prize_Box) has [Firestorm Raider Tunic](https://wiki.spiralknights.com/Firestorm_Raider_Tunic#Firestorm_Raider_Tunic): `Treasure is at your fingertips and ash in your wake with this soot laden coat`, [Firestorm Raider Helm](https://wiki.spiralknights.com/Firestorm_Raider_Helm#Firestorm_Raider_Helm): `A pristine raider helmet, save for a few dings and a thick coat of ash`, and [Firestorm Skeggox](https://wiki.spiralknights.com/Firestorm_Skeggox): `An ornate, fiery axe favored by raiders for its versatility`, - these items of raider roster have fiery/ash themes, and as the name itself suggest, are meant to be associated with the Firestorm Citadel, or, although less likely, [firestorm skill](https://wiki.spiralknights.com/Firestorm) of [drakon](https://wiki.spiralknights.com/Drakon), which is also referencing dragons: `Summon the power of true dragon fire to burn everything in your path`.
 
 Note that there is gear of other elements: of frost and squall. Weather those elements are related to original three of dragons - rage, frenzy, storms, - is unlikely, but the pattern itself of naming common elements differently seems to be present also here.
