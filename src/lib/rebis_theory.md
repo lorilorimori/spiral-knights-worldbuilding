@@ -1442,6 +1442,11 @@ At the [Sunset Steppes](https://wiki.spiralknights.com/A_Revelation_in_Flames/Su
 
   Such naming convention is usually utilized to symbolize specific characteristics of said animals in the context of warfare.
 
+  In that same regard, the animal motif is also found in:
+
+  - [Hazardous Hedge Coat](https://wiki.spiralknights.com/Hazardous_Hedge_Coat#Hazardous_Hedge_Coat): `A battle-ravaged coat worn by the squad leaders of the Scarlet Scouts, nicknamed "hedges." The name was likely coined due to their incredible flanking abilities or perhaps it is a reference to the spikes that adorn their armor`.
+  - [Dangerous Hound Coat](https://wiki.spiralknights.com/Dangerous_Hound_Coat#Dangerous_Hound_Coat): `A battle-ravaged coat worn by the squad leaders of the Recon Rangers, nicknamed 'hounds.' The name was likely coined due to their incredible tracking abilities or perhaps the fact that they fight like wild dogs in battle`.
+
 - `Mythical armor crafted from the scales of a creature of legend` -- [Dragon Scale Mail](https://wiki.spiralknights.com/Dragon_Scale_Mail) calls dragon as a `creature of legend`, as if they were in fact extinct, being preserved through language, image and idea.
 - Interface of the battle sprite has a distinct facing to each other dragon heads with an item slot located between them.
 
@@ -1850,9 +1855,8 @@ Morai civilization and Morai Wars are introduced as the intial, driving factor f
 
 There are only a few members of Skylark Crew that are confirmed to fight in Morai Wars:
 
-- [Desna and Reckon Rangers](https://wiki.spiralknights.com/Desna)
-- [Rhendon and Scarlet Scouts](https://wiki.spiralknights.com/Rhendon)
-- [Euclid and Alpha Squad](https://wiki.spiralknights.com/Euclid)
+- [Desna and Reckon Rangers](https://wiki.spiralknights.com/Desna): [Iron Wolf Helm](https://wiki.spiralknights.com/Iron_Wolf_Helm#Iron_Wolf_Helm): `A helm once worn by a member of the 'Iron Wolves,' a squad of fearless knights that specialized in the elimination of high-profile Morai targets. After disbanding, their surviving members were united with other squads by Desna to form the Recon Rangers`.
+- [Euclid and Alpha Squad](https://wiki.spiralknights.com/Euclid): `Euclid wasn't your typical knight. By the time most in his division were getting their Squire crest, he had already achieved Vanguard. As a Squad Leader, he lead a series of successful assaults against the Morai during the liberation of Isora. A brilliant tactician, he was known for getting the job done with half the knights of other squads` ([The Pioneers](https://wiki.spiralknights.com/The_Pioneers#Dialogue)).
 
 In relation to the siege of Isora [Pathfinder Armor](https://wiki.spiralknights.com/Padded_Armor) and its alchemy tree have specific strategic roles. From this earlier period of time, armors such as [Circuit Breaker Armor](https://wiki.spiralknights.com/Circuit_Breaker_Armor), [Frostbreaker Armor](https://wiki.spiralknights.com/Frostbreaker_Armor), and [Emberbreak Armor](https://wiki.spiralknights.com/Emberbreak_Armor) all refer to an elemental core present within the armor and being hacked (`Armor with a hacked elemental core aimed at resisting fire. However, this non-standard modification creates other elemental weaknesses` - [Emberbreak Armor](https://wiki.spiralknights.com/Emberbreak_Armor)). This suggests that at least _basic understanding of the elements, without introduction to magic of higher rarity materials was already developed_.
 
@@ -1920,8 +1924,6 @@ There are also elemnts of frost and squall. Weather those elements are related t
 
 All of these items have spiral imagery, as weapons have spiral carved onto them, and costumes have spiral on their belt and other elements of equipment. Considering that dragons were a possible inspiration both for Spiral Order and Valkyries, with both containing Norse mythology motifs, -- can they be further drawn closer in _attempt to identify Valkyries and Isorans as the same species_?
 
-<!--Although it can be fitting, this does seem to align with current themes. Those themes are that of being a greater focus on Cradle and its inhabitants. For example the Equinox, which being on Cradle, but the theme of items relates to Isoran past. As Almire will be explored as being a civilization of the same species as Isorans, there's a very high possibility of different Isoran civilization being present near that time, one that invaded Almire and had witnesses Lord Vanaduke's actions first-hand. _If not for fire-themed items, raiders could very much fit to Isora rather than Cradle_, and this very reason seems to us as a relatively strong argument that there were other Isoran civilizations existing with Almire, of different culture and different location.-->
-
 ##### Spacefarers of Old
 
 The terms `spacefarers of old` ([Celestial Nav Helm](https://wiki.spiralknights.com/Celestial_Nav_Helm)) and `Isoran starfarers of old` ([Celestial Nav Suit](https://wiki.spiralknights.com/Celestial_Nav_Suit)) as noted earlier, sets explicit ambiguity within the timeline stemmig from [Aegis](https://wiki.spiralknights.com/Aegis): `Whether its crest is a relic from the Order of old`.
@@ -1970,6 +1972,12 @@ There are many items pointing to Isorans being _symbolically_ related to Cradle:
   - `To recognize this special event, Spiral HQ has created new costumes and accessories for the Knights of the Spiral Order. ..., and meditate on the workings of the universe. Then, refreshed, delve back into the clockworks with equipment that is out of this world!` ([Balance of the Equinox!](https://forums.spiralknights.com/en/node/98178)).
 - More so, as much as Almirian Crusader armor is transmuted from Isoarn Azure armor as myth-driven counterpart, so is [Cold Iron Vanquisher](https://wiki.spiralknights.com/Cold_Iron_Vanquisher), `A powerful cold iron blade forged for the singular purpose of hunting down and destroying the undead`, to [Warden's Leviathan Blade](https://wiki.spiralknights.com/Leviathan_Blade).
 
+   In that regard we are yet to justify more fantasy-themed weapons, such as [Troika 5-star upgrades](https://wiki.spiralknights.com/Troika#Alchemy_Path) and the [Cold Iron Vanquisher](https://wiki.spiralknights.com/Cold_Iron_Vanquisher) line of Calibur, making it similar to [Almirian Crusader Armor](https://wiki.spiralknights.com/Almirian_Crusader_Armor) from the design of alchemy tree progression, as a derivation at a later stage of alchemy tree.
+
+- Avenger line of swords ending with [Divine Avenger](https://wiki.spiralknights.com/Divine_Avenger) which might belong through design of glowing lines to [Heavenly set](https://wiki.spiralknights.com/Heavenly_Guardian_Armor), but at that same degree might come from a different time, where curse was found and reversed, as seen in the sword's design itself, wherein eyes do not represent curse but benevolent force with elemntal damage type.
+
+  It constrasts with heavenly kingdom's absent knowledge of seals and evil eye imagery. Valkyries from ealier period of time lack a notion or capacity to reverse or neutralize curse, while Owlites, as descendants of Valkyries, possess stronger relation to curse, including their relation with Kat Tribe.
+
 If those items indeed belong to Isorans in the past, they frame Spiral Order in a light similar to one of Valkyries, as emerging from mythology and deific ancestry, similar to th _legend-like framing of the seige of heavenly kingdom_:
 
 - `The helm of one who defied the gods and stormed the gates of a heavenly kingdom. Some say the thunderclaps are the eternal echoes of her siege` ([Storm Champion Helm](https://wiki.spiralknights.com/Storm_Champion_Helm#Storm_Champion_Helm)).
@@ -1981,162 +1989,191 @@ Yet, Isorans lack the thematic connection with those gods, as they are _not depi
 
 In that regard we could reestablish an idea, that Isorans have adapted Valkyrian gear due to their shared imagery of a spiral, and yet, there are motifs of wings and an identity of Valkyries as guardians:
 
-- **Motif of Wings**: Wings within Isoran culture are present even in their modern depiction, [Plasma Wings](https://wiki.spiralknights.com/Plasma_Wings), in their Solar and Cosmic variants within [Equinox Prize Box](https://wiki.spiralknights.com/Equinox_Prize_Box)
+- **Motif of Wings**: Wings within Isoran culture are present even in their modern depiction, [Plasma Wings](https://wiki.spiralknights.com/Plasma_Wings), in their Solar and Cosmic variants within [Equinox Prize Box](https://wiki.spiralknights.com/Equinox_Prize_Box), as well as presence of wings on Almirian restored designs.
 - **Guardian motif**: Isoran narrative of protection of Cradle in the end of rank missions campaign shapes Spiral Order as the next civilization to protect Cradle. Herein also the deific motif makes itself present through Sleeper as a _deity-like figure within the narrative_ of the campaign.
 - **Themes of Handguns**: Handguns of [Antigua](https://wiki.spiralknights.com/Antigua) [alchemy tree](https://wiki.spiralknights.com/Antigua#Alchemy_Path) explicitly dissolve the boundary between themes of corresponding handguns, including dragons, while introducing weird-west genre through them, identified as _Gunslinger Priests_ faction. Those handguns introduce a deep awareness of Underworld in its many aspects, and yet Spiral Order visibly, _slowly comes to that degree of understanding only throughout the campaign_.
 
 Given those arguments, will adhere to our primary interpretation and a working theory of Isorans remaining similar to Valkyries, but devoid of their explicitly mythological narrative. And then, Isorans -- __Spiral Order shapes itself into the image and position of heavenly guardians__ from the past through the course of the campaign.
 
-We will explore this idea in greater detail from perspective of a narrative, where protection of Cradle becomes the primary point or _a role to uphold -- an imposed duty_ for unrelated civilizations across the timeline.
+We will explore this idea in greater detail from perspective of a narrative, where protection of Cradle becomes the primary point or _a role to uphold -- a duty_ for unrelated civilizations across the timeline.
 
 ##### Paradox of Isorans on Cradle
 
-Another point of discussion, if the Knights were at some point on Cradle, -- is the conditions of their arrival on Cradle or a separate planet which was taken up by the Core. Were Knights present at the time of [the Lesser Creation Myth](#lesser-creaton-myth)?
+If Valkyries are Isorans, how would they appear on Cradle?
 
-There are some parallels of Spiral Knights gear and warriors of Heavenly Kingdom:
+If the Knights were at some point on Cradle, what were the conditions of their arrival on Cradle or a separate planet before Cradle in the same period of time as Tortomega. Were knights present or directly involved into [the Lesser Creation Myth](#lesser-creaton-myth)?
 
-- Presence of [Sun Silver](https://wiki.spiralknights.com/Sun_Silver), used in Almire-related gear and Azure Guardian Armor.
-  - Application in [Azure Guardian Armor](https://wiki.spiralknights.com/Azure_Guardian_Armor) and [Valkyrie Armor](https://wiki.spiralknights.com/Valkyrie_Mail).
-  - Revisiting [Aegis](https://wiki.spiralknights.com/Aegis) and [Crest of Almire](https://wiki.spiralknights.com/Crest_of_Almire) shields. If Isorans were in fact ancestors of Almire, Crest of Almire then can be justified to be made in an image of Aegis as the latter is made by the Spiral Order: `Whether its crest is a relic from the Order of old or a creation from the Knights' time on Cradle is not immediately clear` ([Aegis](https://wiki.spiralknights.com/Aegis)), but Spiral Order's instance of Crest of Almire is the most prominent [redesign](#technology-alchemy-and-Isoran-redesigns), specifically one that follows Aegis, but with the introduction of shadow defense in place of piercing.
-  - Avenger line of swords ending with [Divine Avenger](https://wiki.spiralknights.com/Divine_Avenger) which might belong to [Heavenly set](https://wiki.spiralknights.com/Heavenly_Guardian_Armor), but most certainly comes from a different time and place, where curse was found and reversed, as seen in the swords design, - that is heavenly kingdom with knowledge of seals and evil eye imagery, as it will be discussed later in the [Legion of Ur section](#legion-of-ur).
+There are two emerging scenarios, which we will base of Sun Silver material as a distict example of the issue.
 
-Although this fact is presented only now, the history of valkyries being that civilization of heavenly kingdom seems to more thematically fitting, which would not fit to more militarized, less related to mythology, less fantasy-themed, Spiral Order, even in its earlier state before it took name of a Spiral Order.
+The material of [Sun Silver](https://wiki.spiralknights.com/Sun_Silver) is used in Almire-related gear and Azure Guardian Armor. While Almire had existed on planet preceeding Cradle of being captured by Cradle, Azure Guardian Armor is distincly Isoran invention.
 
-This suggestion would then lead us to the prior idea of __gear of other civilizations being adapted to anatomy of Isorans through mastered application of alchemy__.
-
-This would also mean, that there are 2 emerging scenarios:
-
-1. Knights of old order arrived at Cradle and there their conceived armors and gear utilizing Sun Silver present there. Yet, for now we can't offer a solid foundation for the difference of technological advancement before and after this suggested event.
-
-   In that regard we are yet to justify more fantasy-themed weapons, such as [Troika 5-star upgrades](https://wiki.spiralknights.com/Troika#Alchemy_Path) and the [Cold Iron Vanquisher](https://wiki.spiralknights.com/Cold_Iron_Vanquisher) line of Calibur, making it similar to [Almirian Crusader Armor](https://wiki.spiralknights.com/Almirian_Crusader_Armor) from the _design of alchemy tree progression_.
-
-2. Dragons and Sun Silver would be universal to material realm, dragons were of different, primordial element, as it was earlier discussed, which would give them an unprecedented power nearing the gods. Although not associated with the gods in heavenly kingdom referred in [rider mantles](https://wiki.spiralknights.com/Rider_Mantle), unless the it was of dragons, then this would raise an anachronism.
+1. Knights of old order -- an `Order of old`, -- have arrived at Cradle and then transmuted their fantasy-themed gear utilizing Sun Silver present on that planet. Yet, for now we can't offer a solid argument for the difference of technological advancement before and after this suggested event.
+2. Dragons and Sun Silver would be universal to material realm, dragons were of different, primordial element, as it was earlier discussed, which would give them an unprecedented power as alchemical dragons.
 
 ##### Lack of Damage Types
 
-One important aspect to address - if Isorans are as old as Heavenly Kingdom and aware of it, they would likely know of Shadow and Elemental damage, but this did not happen, evident by:
+One important aspect between similarity of Valkyries and Israns had to be adressed -- if Isorans are as old as Heavenly Kingdom, they would plausibly be aware of Shadow and Elemental damage, but it had not happened, evident by:
 
-- `An exceptional handgun that fires powerful, elemental shots that many Spiral Knights refer to as 'magic missiles'` [Arcana](https://wiki.spiralknights.com/Arcana) - elemental damage being referred to as magic.
+- `An exceptional handgun that fires powerful, elemental shots that many Spiral Knights refer to as 'magic missiles'` [Arcana](https://wiki.spiralknights.com/Arcana) -- elemental damage being referred to as magic.
 - In Hall of Heroes, [Archilus](https://wiki.spiralknights.com/Archilus) tells that Owlites likely discovered elemental damage an it was adapted by the Spiral Order, so it was known technology, but not one used across entirety of the Order: `Elemental resistant armor and shields are adapted from Owlite technology. Though the Owlites themselves no longer exist, their amazing elemental mastery lives on in this gear`.
-- `Phantamos represents one of the most recent additions to the Spiral Knight's arsenal, as containing shadow energy of this degree took a great deal of research` [Phantamos](https://wiki.spiralknights.com/Phantamos) - shadow damage was discovered on Cradle or very recently, before Skylark was launched.
-- [Riftlocker](https://wiki.spiralknights.com/Riftlocker) and [Valiance](https://wiki.spiralknights.com/Valiance) on the other hand had already existed even during war at Morai.
+- `Phantamos represents one of the most recent additions to the Spiral Knight's arsenal, as containing shadow energy of this degree took a great deal of research` [Phantamos](https://wiki.spiralknights.com/Phantamos) -- shadow damage was discovered on Cradle or very recently, before Skylark was launched.
+
+  [Riftlocker](https://wiki.spiralknights.com/Riftlocker) and [Valiance](https://wiki.spiralknights.com/Valiance), on the other hand, had already existed during Morai Wars.
+
 - [Celestial Vortex](https://wiki.spiralknights.com/Celestial_Vortex) and [Arcana](https://wiki.spiralknights.com/Arcana) are a few instances of elemental damage in Spiral Order's history.
-- Earlier mentioned [Celestial Shield](https://wiki.spiralknights.com/Celestial_Shield) being one of a few shields combining shadow damage and piercing defenses. Herein shadow damage is associated with cold - `Cradle's equinox inspired the dual nature of this specialist shield, which protects against the dazzling light of day and the chill of the night in equal measure` ([Celestial Shield](https://wiki.spiralknights.com/Celestial_Shield)), - similar to [Winter Grave](https://wiki.spiralknights.com/Winter_Grave) and [Permafroster](https://wiki.spiralknights.com/Permafroster).
+- Earlier mentioned [Celestial Shield](https://wiki.spiralknights.com/Celestial_Shield) being one of a few shields combining shadow damage and piercing defenses. Herein shadow damage is associated with cold - `Cradle's equinox inspired the dual nature of this specialist shield, which protects against the dazzling light of day and the chill of the night in equal measure` ([Celestial Shield](https://wiki.spiralknights.com/Celestial_Shield)), similar to [Winter Grave](https://wiki.spiralknights.com/Winter_Grave) and [Permafroster](https://wiki.spiralknights.com/Permafroster).
 
-This would mean that [Sun Silver](https://wiki.spiralknights.com/Sun_silver) - `An extraordinary metal imbued with the radiant light of the sky`, is ever-present as Shadow Steel. Here we also propose, that the [Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore), through its relation to heavens, we suggest it preceding Sun Silver, as yet unrefined ore becoming metal.
+This would mean that [Sun Silver](https://wiki.spiralknights.com/Sun_silver) - `An extraordinary metal imbued with the radiant light of the sky`, is ever-present as Shadow Steel.
 
-Moreover as heavens are referred to as a seemingly different realm, although given the mythological motifs, it can be related to a physical or metaphysical location of an unknown third realm: `An extremely rare metal of great power said to be from the heavens above` ([Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore)). The celestial naming scheme was repeated at least twice - in relation to Isorans and Valkyries.
+Here we also propose, that the [Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore), through its relation to heavens, we suggest it preceding Sun Silver, _as an unrefined ore becoming metal_.
 
-Although addressed earlier, - if Spiral Order did arrive or emerge on Cradle, Cradle or composing it planets must have had to be far more advanced, at least same as the devices/gear of the implied celestials.
+Moreover as heavens are referred to as a seemingly different realm, although given the mythological motifs, it can be related to a physical or metaphysical location of an unknown third realm: `An extremely rare metal of great power said to be from the heavens above` ([Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore)). The _celestial naming convention was repeated twice_ -- in relation to Isorans from the past, and Valkyries.
 
-Ancient structures are preserved, as proven by presence of Scarlet Fortress and Tortodrones. The lack of knowledge of Spiral HQ's side on the shadow and elemental damage, as if it is was only present on Cradle in most powerful form, would suggest that the supposed dragons did not have those powers outside of related to the creation myth dragons.
+Although addressed earlier, if Spiral Order did arrive on Cradle, they must have had to be far more advanced, at least preserving qualities of celestial gear.
 
-By presence of primordial dragons, Isorans would discover shadow and elemental damage on their own far in the past. As for Spiral Order to extract their scales for the Azure Guardian Armor, some of them had to be present. A suggestion we would propose here, is that _only one family of dragons was present on Isora_ - such as dragons of rage as ones most related to normal damage, and not associated with frenzy/shadow nor divinity/storms/elemental damage.
+By presence of primordial dragons, Isorans would discover shadow and elemental damage on their own far in the past. As for Spiral Order to extract dragon scales for the Azure Guardian Armor, some traces of dragons had to exist. A suggestion we would propose here, is that _only one family of dragons was present on Isora_ - such as dragons of rage as ones most related to normal damage, and not associated with frenzy/shadow nor divinity/storms/elemental damage.
 
-Based on that knowledge, we lean to a conclusion of Isorans being an extraterrestrial to Cradle species. Cradle does not have technology more advanced than of Almire or of gremlins found on Cradle, apart from the event of the [Iron Hulk](https://wiki.spiralknights.com/Ghosts_in_the_Machine). Cradle is not Isoran homeworld, but its inhabitants have similar myths to Isoran culture.
+Based on that knowledge, we lean to an idea of Isorans being an extraterrestrial to Cradle species. Cradle does not have technology more advanced than of Almire or of gremlins found on Cradle, apart from the events of the [Ghost in the Machine](https://wiki.spiralknights.com/Ghosts_in_the_Machine). Cradle is not Isoran homeworld, but _its inhabitants have similar myths and folklore to Isoran culture_. It is a differnt framing of the same idea of Valkyries and Isorans being similar in their cultures at least from that perspectve of corresponding military organizations.
 
-And, relating back to dragons, on Isora there were dragons of rage, demons within mountains, mythical personifications of Death.
+<!--And, relating back to dragons, on Isora there were dragons of rage, demons within mountains, mythical personifications of Death.
 
-From Isora interstellar expansion of Isorans began, at some point arriving to Cradle, as seen in case of the [Iron Hulk](https://wiki.spiralknights.com/Ghosts_in_the_Machine). If celestial gear is considered, the technology of those times was advanced enough to allow existence of starships, similar to Skylark.
+From Isora interstellar expansion of Isorans began, at some point arriving to Cradle, as seen in case of the [Iron Hulk](https://wiki.spiralknights.com/Ghosts_in_the_Machine). If celestial gear is considered, the technology of those times was advanced enough to allow existence of starships, similar to Skylark.-->
 
 ##### Padded Armor
 
 On the other hand, in contrast to previous theme of [lack of damage types](#lack-of-damage-types), there is [padded armor alchemy tree](https://wiki.spiralknights.com/Padded_Armor#Alchemy_Path), within which all damage types are present.
 
-Based on [Woven Falcon Pathfinder Armor](https://wiki.spiralknights.com/Woven_Falcon_Pathfinder_Armor) - `A flexible suit of armor built for mobility and interlaced with slime fibers to protect against prickly and thorny foes`, we propose that those armors, as they adhere to the same design pattern, were all created in a small period of time, as potentially, Spiral Order's in-Universe solution for varying dangers of Clockworks. We arrive to this conclusion, as _slime family of monsters was only discovered on Cradle_. In this context, [Plated Falcon Pathfinder Armor](https://wiki.spiralknights.com/Plated_Falcon_Pathfinder_Armor) - `A hardened set of armor made to protect against even the most voracious of monsters while exploring the unknown`, - seem to be referring to the unknown as to Clockworks.
+Based on [Woven Falcon Pathfinder Armor](https://wiki.spiralknights.com/Woven_Falcon_Pathfinder_Armor) -- `A flexible suit of armor built for mobility and interlaced with slime fibers to protect against prickly and thorny foes`, -- we suggest that those armors, as they adhere to the same design pattern, were all created in a small period of time, as potentially, Spiral Order's solution for varying dangers of Clockworks.
 
-The base [Sentinel Armor](https://wiki.spiralknights.com/Sentinel_Armor) - `A suit of armor imbued with the power to repel the various afflictions that knights might encounter in the line of duty` refers to an elemental source, given its elemental defenses, which grants it ability to `repel`. This is similar to the [initial set of elemental armors](https://wiki.spiralknights.com/Emberbreak_Armor): `Armor with a hacked elemental core aimed at resisting fire. However, this non-standard modification creates other elemental weaknesses` - with a `hacked core`. We suggest this power both to repel and resist is the same entity of a power core.
+We arrive to this conclusion, as _slime family of monsters was only discovered on Cradle_. In this context, [Plated Falcon Pathfinder Armor](https://wiki.spiralknights.com/Plated_Falcon_Pathfinder_Armor) - `A hardened set of armor made to protect against even the most voracious of monsters while exploring the unknown`, -- seem to be referring to the unknown as of Clockworks, rather than generalized unknown, given aforementioned context.
 
-The [Woven Falcon Sentinel Armor](https://wiki.spiralknights.com/Woven_Falcon_Sentinel_Armor) 3-star line mentions a wolver: `A suit of armor imbued with interwoven wolver hair to protect against even the harshest elements` ([Woven Falcon Sentinel Armor](https://wiki.spiralknights.com/Woven_Falcon_Sentinel_Armor)), which sets it at least after the time wolvers are discovered. Weather wolvers were previously present on Isora is unknown, as such descriptions as `The Gloaming Wildwoods is home to packs of wild beasts that have proven deadly for squads in the past` ([Shadow of the Beast](https://wiki.spiralknights.com/Shadow_of_the_Beast)) make it vague. This particular wording may be referring to a previous rank mission of [Strength in Unity](https://wiki.spiralknights.com/Strength_in_Unity): `Something has riled up a pack of beasts in the Aurora Isles and they have descended upon a Geo Knight research team. Cornered, the team has sent a distress signal and Spiral HQ has issued the task of saving them to you`.
+The base [Sentinel Armor](https://wiki.spiralknights.com/Sentinel_Armor) -- `A suit of armor imbued with the power to repel the various afflictions that knights might encounter in the line of duty`, -- refers to an elemental source, given its elemental defenses, which grants it ability to `repel`. This is similar to the [initial set of elemental armors](https://wiki.spiralknights.com/Emberbreak_Armor): `Armor with a hacked elemental core aimed at resisting fire. However, this non-standard modification creates other elemental weaknesses`, with its `hacked core`. We suggest this power both to repel and resist is the same object, _a power core_.
 
-A 4-star [Plated Falcon Sentinel Armor](https://wiki.spiralknights.com/Plated_Falcon_Sentinel_Armor) `A suit of armor reinforced with gremlin plating to defend against a range of dangerous elements` further suggests gremlins' specialization on elemental damage, which contradicts the fact constructs on Cradle are weak to elemental damage.
+The [Woven Falcon Sentinel Armor](https://wiki.spiralknights.com/Woven_Falcon_Sentinel_Armor) 3-star line mentions a wolver -- `A suit of armor imbued with interwoven wolver hair to protect against even the harshest elements`, -- which sets it at least after the time wolvers are discovered. Whether wolvers were previously present on Isora is unknown, as such descriptions as `The Gloaming Wildwoods is home to packs of wild beasts that have proven deadly for squads in the past` ([Shadow of the Beast](https://wiki.spiralknights.com/Shadow_of_the_Beast)) make it vague.
+
+A 4-star [Plated Falcon Sentinel Armor](https://wiki.spiralknights.com/Plated_Falcon_Sentinel_Armor) `A suit of armor reinforced with gremlin plating to defend against a range of dangerous elements` further suggests gremlins' specialization on elemental damage as _elemental damage is framed here as emviromnetal, natural hazard_, rather than magic.
 
 Finally, there is 2-star [Shade Armor](https://wiki.spiralknights.com/Shade_Armor): `A suit of armor infused with dark matter that allows its wearer to shoot straight and surprise foes from the shadows`. Paired with [Plated Falcon Shade Armor](https://wiki.spiralknights.com/Plated_Falcon_Shade_Armor)" `A suit of fiendish fabric interlaced with dark matter to conceal its wearer while they creep in camouflaged corners`, seems as if both dark matter and fiendish fabric were utilized after Skylark crash landing, rather than on Isora.
 
-Due to all of those items' descriptions, we would consider padded armor's creation being located on Cradle.
+Due to all of those items' descriptions, we propose that __padded armor was engineered on Cradle__, despite its utilitarian design.
+
+Otherwise, those description would be referring to current application of those armors, which would conflict with their properties -- _how specifically in the past those armors would possess special damage types, if Spiral Order is unaware of the latter_?
 
 #### Morai Wars
 
-It is unknown for how long Morai Wars have already lasted, but it is known that during Skylark expedition it was not only ongoing, but severely crippling for Isorans. Several members of the Skylark crew had fought there, for example Euclid of the Alpha Squad - `Euclid wasn't your typical knight. By the time most in his division were getting their Squire crest, he had already achieved Vanguard. As a Squad Leader, he lead a series of successful assaults against the Morai during the liberation of Isora. A brilliant tactician, he was known for getting the job done with half the knights of other squads` ([The Pioneers](https://wiki.spiralknights.com/The_Pioneers#Dialogue)).
+It is unknown for how long Morai Wars have already lasted, but it is known that during Skylark expedition it was not only ongoing, but severely crippling for Isorans.
 
-Current proposal, one that we derive from the discussion on the identity of Morai, is of another star system, containing planet or colony of Morai, is colonized by Isorans. But, this colony should not be too far for Isora to siege it: `These firearms proved instrumental during the siege of Isora in breaking through the war machines of the Morai` ([Riftlocker](https://wiki.spiralknights.com/Riftlocker)). The idea of Morai being located in a different star system can be affirmed both by [Skylark's](#skylark) identified __usage of tearium to open spacial tunnels, wormholes, to travel long distances__, and previously covered themes and descriptions of individual items found in the [Equinox Prize Box](https://wiki.spiralknights.com/Equinox_Prize_Box).
+Several members of the Skylark crew had fought there, for example, Euclid of the Alpha Squad: `Euclid wasn't your typical knight. By the time most in his division were getting their Squire crest, he had already achieved Vanguard. As a Squad Leader, he lead a series of successful assaults against the Morai during the liberation of Isora. A brilliant tactician, he was known for getting the job done with half the knights of other squads` ([The Pioneers](https://wiki.spiralknights.com/The_Pioneers#Dialogue)).
+
+Current proposal, one that we derive from the discussion on the identity of Morai, is of another star system, containing planet or colony of Morai, is colonized by Isorans. But, this colony should not be too far for Isora to siege it: `These firearms proved instrumental during the siege of Isora in breaking through the war machines of the Morai` ([Riftlocker](https://wiki.spiralknights.com/Riftlocker)). The idea of Morai being located in a different star system can be affirmed both by [Skylark's](#skylark) identified __usage of tearium to open spacial tunnels, wormholes, to travel long distances__, and previously covered themes and descriptions of individual items found in the [Equinox Prize Box](https://wiki.spiralknights.com/Equinox_Prize_Box) of long-distance interstellar travel.
 
 Isora was sieged by Morai, which is a possible reason behind lack of energy, as Morai in that position would have virtually all planetary surface and infrastructure covered.
 
-The total lack of energy in this war was a reason behind Skylark expedition for another energy source. This would suggest that the homeworld of Isora could not provide that energy, and capable enough, likely after the siege of Isora, to at least launch those ships.
+The total lack of energy in this war was a reason behind Skylark expedition for another energy source. This would suggest that the homeworld of Isora could not provide that energy.
 
-##### Celestial Bomb
+##### Celestial Vortex and Weaponization of Stars
 
-Another suggestion, one that seems plausible in a setting of artificial planets with Cores of near-limitless energy, is based on the [Celestial Vortex](https://wiki.spiralknights.com/Celestial_Vortex): `A Celestial Bomb modified with a payload of a dying sun`. If this is not considered a metaphor, then Isorans had to counter death of a star. And, considering bomb's usage and naming of a vortex, being similar to [Graviton](https://wiki.spiralknights.com/Graviton_Vortex) and [Electron](https://wiki.spiralknights.com/Electron_Vortex) vortexes, the result of the celestial vortex specifically could be related to a phenomenon of black holes or, in the context of graviton nature of the setting, a different method of opening up different realms. In case of graviton, it will be Underworld, as we will cover graviton technology in [its according section](#undercorps-graviton-technology).
+Another suggestion, one that seems plausible in this **space opera**-type part of setting is based on the [Celestial Vortex](https://wiki.spiralknights.com/Celestial_Vortex): `A Celestial Bomb modified with a payload of a dying sun`.
 
-This could render Isoran system potentially uninhabitable, but also give more context for the [Stellar Sentinel Suit](https://wiki.spiralknights.com/Stellar_Sentinel_Suit) due to its description: `With this equipped, you feel like you could dive into the heart of a star`.
+If this description is not to be considered a metaphor, then __Isorans had to witness death of a star__.
 
-The ability to create bombs of this magnitude would also give a better understanding of Morai military power, as they are compared to Isorans, and framed as the greatest to date danger: `Euclid wasn't your typical knight. By the time most in his division were getting their Squire crest, he had already achieved Vanguard. As a Squad Leader, he lead a series of successful assaults against the Morai during the liberation of Isora. A brilliant tactician, he was known for getting the job done with half the knights of the other squads. ... After all, if you cut your teeth battling under Morai fire you could probably handle anything right? But maybe the Clockworks proved too much for even his ability` ([The Pioneers - Kora](https://wiki.spiralknights.com/The_Pioneers)). It is known that Euclid survived: `Euclid volunteered to help The Sleeper. I'm sure he's in here somewhere battling The Swarm even as we speak` ([Dreams and Nightmares - Refuge - Parma's Scout](https://wiki.spiralknights.com/Refuge)).
+And, considering bomb's usage and naming of a vortex, being similar to [Graviton](https://wiki.spiralknights.com/Graviton_Vortex) and [Electron](https://wiki.spiralknights.com/Electron_Vortex) vortexes, the result of the celestial vortex specifically could be related to a phenomenon of black holes or, in the context of graviton nature of the setting, a different method of opening up different realms. In case of graviton, it will be Underworld, as we will cover graviton technology in [its corrsponding section on graviton technology](#undercorps-graviton-technology).
 
-And yet, the reasons for Morai war to erupt, remain unknown.
+This could render Isoran system potentially uninhabitable, but also give more literal context to [Stellar Sentinel Suit](https://wiki.spiralknights.com/Stellar_Sentinel_Suit): `With this equipped, you feel like you could dive into the heart of a star`, as then this practice of _tampering with star would become plausible_.
 
-In the context of Morai and Isorans one thing in particular is left, a context of the [Ghost in the Machine](https://wiki.spiralknights.com/Ghosts_in_the_Machine) danger mission and technology of battlepods.
+The ability to create bombs of this magnitude would also give a better understanding of Morai military power, as they are compared to Isorans, and framed as _the greatest to date danger_: `Euclid wasn't your typical knight. By the time most in his division were getting their Squire crest, he had already achieved Vanguard. As a Squad Leader, he lead a series of successful assaults against the Morai during the liberation of Isora. A brilliant tactician, he was known for getting the job done with half the knights of the other squads. ... After all, if you cut your teeth battling under Morai fire you could probably handle anything right? But maybe the Clockworks proved too much for even his ability` ([The Pioneers - Kora](https://wiki.spiralknights.com/The_Pioneers)). It is known that Euclid survived: `Euclid volunteered to help The Sleeper. I'm sure he's in here somewhere battling The Swarm even as we speak` ([Dreams and Nightmares - Refuge - Parma's Scout](https://wiki.spiralknights.com/Refuge)).
+
+Yet, the reasons for Morai war to erupt, remain unknown. In the context of Morai and Isorans one element in particular is left, a context of the [Ghost in the Machine](https://wiki.spiralknights.com/Ghosts_in_the_Machine) danger mission and technology of battlepods.
 
 ##### Ghosts in the Machine
 
 Depth of [Iron Hulk](https://wiki.spiralknights.com/Iron_Hulk) is located in the [dry docks](https://wiki.spiralknights.com/Ghosts_in_the_Machine/Dry_Dock) of the Clockworks. Dry docks are build in similar manner as Clockwork tunnels and deconstruction zones, both of which are presumably constructed by gremlins and contained within their corresponding individual skydomes.
 
-In that context, paired with the [cargo bay](https://wiki.spiralknights.com/Cargo_Bay) and bridge-like room at the end of iron hulk behind the Big Iron battlepod, _we can identify the entire structure as a spacefaring vessel_. Moreover, uniform of pilots on the bridge is extremely similar to Isoran armors, such as [Stellar Sentinel Suit](https://wiki.spiralknights.com/Stellar_Sentinel_Suit), which may prove that the spacecraft belong to Isoran or even Morai.
+In that context, paired with the [cargo bay](https://wiki.spiralknights.com/Cargo_Bay) and bridge-like room at the end of iron hulk behind the Big Iron battlepod, __we can identify the entire structure as a_ **spacefaring vessel**.
 
-Why would this ship be on Cradle? To explain this, we introduce a following possible scenario.
+Moreover, uniform of pilots on the bridge is extremely similar to Isoran armors, such as [Stellar Sentinel Suit](https://wiki.spiralknights.com/Stellar_Sentinel_Suit), which may prove that the spacecraft belong to Isoran or, potentially, even Morai.
 
-From both warring sides starships are sent to search an energy source to assist at war: from Isora Skylark was sent, from Morai, on the other hand, a candidate can be presented in a form of ship which became the [Iron Hulk](https://wiki.spiralknights.com/Iron_Hulk). Far earlier, depending on Skylark physics. As we have concluded that [Skylark](#skylark) can seemingly travel large distances utilizing a technology, allowing for creating tunnels, we can suggest, that this vessel was launched far earlier in the past.
+Why would this ship be on Cradle?
 
-Iron Hulk, for lack of a better term, either crash-landed or was captured on Cradle, as there are [dry docks](https://wiki.spiralknights.com/Ghosts_in_the_Machine/Dry_Dock) within which the vessel is placed. Weather dry docks were constructed for the ship, while it was transported at lower depths, or the ship safely arrived there, is unknown.
+First, we have to explude a scenario of this vessel being Skylark after its destruction, as the bodies at the bridge are said to be hundereds of years old: `What happened here? These remains look to be hundreds of years old...` ([Ghosts in the Machine - Iron Hulk - Recon Ranger](https://wiki.spiralknights.com/Ghosts_in_the_Machine/Iron_Hulk)). The narrative implies that the _phenomenon of haunted technology remains unknown_ at least for Reckon Rangers at that point of the timeline.
 
-Considering sheer amounts of resources required to build Clockworks, the ship and its layout had remained mostly untouched, but rather sealed in the docks, with the cargo bay remaining as it was, the fact that it remained may point to a fact that it was a risky operation to salvage it. There are constructs surrounding the ship, which are of gremlin origin, as well presence of souls and undead, including undead [Dreadnaughts](https://wiki.spiralknights.com/Static_Deadnaught).
+Now we can explore possible explanations for this ship's presence on Cradle.
 
-The only reason why gremlins had to contain it and not disassemble, is likely due to a greater risk, one introduced by the souls and gremlin vulnerability to shadow damage of undead, which are likely the crew influenced by the same phenomenon observed in the rest of the Clockworks and graveyards. As it was explored in the [graveyards section](#graveyards), zombies are seem to be undead Almirians.
+##### Haunted Vessel before Skylark
 
-This would mean that Isorans are also capable of being transformed into the undead after initial death, as explored in the [corporeal body section](#corporeal-body).
+From both warring sides starships are sent to search an energy source to assist at war: from Isora Skylark was sent, from Morai, on the other hand, a candidate can be presented in a form of ship which became the [Iron Hulk](https://wiki.spiralknights.com/Iron_Hulk). Far earlier, depending on Skylark physics. As we have concluded that [Skylark](#skylark) can travel large distances utilizing a technology, allowing for creating tunnels, we can suggest, that this vessel was launched far earlier in the past. Or, if we lean into more grounded interpretation of such type of interstallar travel, it would be Skylark, for which time has passed _relatively faster_, while the rest of the Universe had moved with its own pace, accumulating for hundereds of years on Cradle.
 
-Then there is the crew at vessel's bridge. Their position indicated that the death was either sudden, or that they were already dead when the ship arrived to Cradle's surface, and that could be a reason behind haunting, as the undeath of Cradle is not seen by the Spiral Order anywhere else.
+Iron Hulk, for lack of a better term, either crash landed or was captured on Cradle, as there are [dry docks](https://wiki.spiralknights.com/Ghosts_in_the_Machine/Dry_Dock) within which the vessel is placed. Weather dry docks were constructed for the ship, while it was transported at lower depths, or the ship safely arrived there, is unknown. Given hostile nature of gremlins, we would suggests that the vessel was also shot down by gremlins.
 
-Yet, no other place apart from Cradle has the tendency of undead and spirits returning, meaning that the haunting had to happen on Cradle or in its proximity (`Why spirits return to the material realm is unknown` - [Weight of Darkness](https://wiki.spiralknights.com/Weight_of_Darkness)). This would not explain presence of [static souls](https://wiki.spiralknights.com/Static_Soul#Static_Soul), as the presence of souls on itself is a phenomenon, which, yet again, requires analysis of Cradle itself.
+Considering sheer amounts of resources required to build Clockworks, the ship and its layout had remained mostly untouched, but rather sealed in the docks, with the cargo bay remaining as it was, the fact that it remained may point to a fact that it was a risky operation to salvage it. There are constructs surrounding the ship, which are of gremlin origin, as well presence of souls and undead, including [undead Static Dreadnaughts](https://wiki.spiralknights.com/Static_Deadnaught).
 
-And then there is a battlepod - [Big Iron](https://wiki.spiralknights.com/The_Big_Iron#The_Big_Iron). Gremlins utilize battlepods in many instances, including rank missions. Presence of a unique battlepod within Isoran vessel is unconventional. Moreover, there are wires and cables connecting entire place. While they could be explained by the fact that this is an interstellar vessel, does not explain battlepod itself, as well as it being seemingly a focal point of spirits in control of the place, or their final line of defenses, as suggested by the quote:
+The only reason why gremlins had to contain it and not disassemble, is likely due to a greater risk introduced by the souls and gremlin vulnerability to shadow damage -- the latter _property explicitly weaponized_ by Seerus through [Dark Retribution](https://wiki.spiralknights.com/Dark_Retribution).
 
-`Do not hold back` / `WE WILL NOT HOLD BACK.`
+The souls, as they are haunting the vessel, are most certainly _the vessel's crew_ influenced by the same phenomenon observed in the rest of the Clockworks and graveyards -- of spirit returning to material realm, as it was explored in the [graveyards section](#graveyards).
 
-This quote differs from the most, as it is the one of two instances of so called machine referencing itself, the other one is:
+This would mean that Isorans are also capable of being transformed into the undead after initial death, as explored in the [corporeal body section](#corporeal-body), as their bones remain permanently animated by their souls.
 
-`They will kill us they will kill you.` / `THEY WILL KILL US THEY WILL KILL YOU.`
+Then there is the crew at vessel's bridge. Their position indicated that the death was either sudden, or that they have ceased when the ship arrived to Cradle's surface, and that could be a reason behind haunting, as the undeath of Cradle is _not seemingly seen by the Spiral Order anywhere else_.
+
+Yet, no other place apart from Cradle has the tendency of undead and spirits returning, meaning that the haunting had to happen on Cradle or in its proximity: `Why spirits return to the material realm is unknown` ([Weight of Darkness](https://wiki.spiralknights.com/Weight_of_Darkness)). This would not explain presence of [static souls](https://wiki.spiralknights.com/Static_Soul#Static_Soul), as the presence of souls on itself is a phenomenon, which, yet again, requires analysis of _Cradle itself and its unique metaphysics revolving around Underworld_.
+
+So far we would suggest crew's transformation to undead because of their proximity to Cradle.
+
+And then there is a battlepod -- [Big Iron](https://wiki.spiralknights.com/The_Big_Iron#The_Big_Iron). Gremlins utilize battlepods in many instances, including rank missions. Presence of a unique battlepod within Isoran vessel is unconventional.
+
+Moreover, there are wires and cables connecting entire location. While they could be explained by the fact that this is an interstellar vessel, this argumant does not explain battlepod itself, as well as it being seemingly a focal point of spirits in control of the place, or their final line of defenses, as suggested by the quote:
+
+`Do not hold back` / `WE WILL NOT HOLD BACK`
+
+This positioning proves itself, as there is a distinct passage revealed behind the battlepod, as it was not inended to be placed there by vessel's design.
+
+The quote itself differs from the most, as it is the single instance of the haunted machine referencing itself as "WE", the other one is:
+
+`They will kill us they will kill you` / `THEY WILL KILL US THEY WILL KILL YOU`
 
 Here, as by missions name, inspiration must be sought in the 1993 film of the same name. The synopsis is that the soul of a serial killer is transferred to digital space of a computer network and electrical grid due to faulted MRI scan during electrical storm, which allowed him to continues his killings from the electrical grid and computer network. In the end, he was defeated through an introduction of a computer virus, which trapped him within a network segment and then through application of extreme magnetic field, killed him.
 
-We can attempt to draw parallels with the events on Cradle in regards to the ship.
+We can attempt to draw parallels with the events on Cradle in regards to the vessel.
 
-The entrapment part seems to be something implied by the presence of gremlin constructs. And to go not so far ahead of the timeline, this is one of a few instances of gremlins building their own containments against the shadow-related entities.
+The entrapment part may be implied by the presence of gremlin constructs. And to go not so far ahead of the timeline, this is one of a few instances of gremlins building their own containments against the shadow-related entities.
 
-This would also suggest that some event might have caused this haunting. From many things related to undeath, energy of the Core could serve as a device which had caused the spirits to haunt the machines under some currently unknown conditions. Although we will cover the influence of Undercorp and Underworld in further sections, in relation to this theory, we believe that a less occult-like and related to Underworld reason stands for this shift between life and death across material realm.
+This would also suggest that some event might have caused this haunting. From many phenomenon related to undeath, energy of the Core may be seen as life-animating, could serve as a source which had caused the spirits to haunt the machines under currently unknown condition, potentially, through access to Underworld -- a phenomemnon similar in concept to one observed during [Shadowplay](https://wiki.spiralknights.com/Shadowplay): `Though the nature sprites have been steadily making progress in fighting the flames, something or someone has recently caused a violent resurgence in its destructive power. Spiral HQ requests that you gather together a crack squad of knights and return to the collapsing ruins of Firestorm Citadel in order to discover the source of the disturbance`, -- wherein activity of **the Core, its energy, was the source of curse's reanimation** _without Lord Vanaduke_ to serve as an `eternal will` for the citadel: `You can feel it in the smoldering air - an eternal will holding this place together, never allowing its inhabitants to rest. No creature deserves such a fate, it is beyond my understanding` ([Recon Module: Firestorm Citadel - Grantz](https://wiki.spiralknights.com/Artifact)).
 
-Considering all of it, the battlepod might be seen as a security measure installed by gremlins during earlier time with the case of cargo bay, either constructed prior or post-factum the vessel arriving.
+Considering it, the battlepod may be seen as a _security measure installed by gremlins_.
 
-In relation to gremlins, due to lack of any candidates, they are the ones referred to as "they" by the machine:
+In relation to gremlins, due to lack of any candidates, "they" are the ones referred to as "they" by the machine, rather than "WE" (`Do not hold back` / `WE WILL NOT HOLD BACK`):
 
 `THEY WILL KILL US THEY WILL KILL YOU.`
 
-As it was established by the lowercase ghost quotes, their "they" is the machine itself. The machine referring to somebody else, other then themselves, should point to a presence of a third party. Based on a conclusion that the battlepod and constructs of the cargo bay may belong to gremlins, may suggest that machine's "they" refers to gremlins.
+As it was established by the lowercase ghost's quotes, their "they" is _the machine itself_. The machine referring to somebody else, _other then themselves_, should point to a _presence of a third party_. Based on a conclusion that the battlepod and constructs of the cargo bay may belong to gremlins, we propose that machine's **"THEY" refers to gremlins**.
 
-Presence of the crew on the bridge would not be explained by this. Although an earlier discussed scenario can be reintroduced here, that those members of the crew were dead during the landing of the ship, but then above quote would not fit here, as the gremlins would not be ones responsible in that case.
+laternatively, the other explanation may be derived from the initial motive of the second voice:
 
-##### Battlepods and Laser Technology
+- `Help us` / `SITUATION RESOLVED. PLEASE EXIT THE FACILITY`
+- `They are waiting to ambush you ahead` / `MEDICAL SUPPLIES AVAILABLE HERE`
 
-Then there are lasers of Big Iron battlepod. Their amount indicates presence of the similar to Roarmulus Twins technology, which in the latter case is the laser cannons, most clearly seen at the end of [Warfare Workshop of the Ironclaw Munitions Factory](https://wiki.spiralknights.com/Ironclaw_Munitions_Factory/Warfare_Workshop). The same cannons are installed into the Roarmulus Twins. But in case of the battlepod, their place takes circular set of artilleries hidden within battlepod's hulk.
+In that interpretaion the "THEY" of the machine may refer to a differnt nonexistent enity in attempt to mislead the knight. While this scenario is plausible, presence of gremlin technology would allow them to be the perpetrators behind containment of the vessel in the docks.
 
-If the idea of this battlepod being manufactured by gremlins is true, this would mean that [Ironclaw Munitions Factory](https://wiki.spiralknights.com/Ironclaw_Munitions_Factory) itself is also more that a hundred years old. Considering its dilapidated state, suggested both by internal design and naming such as its [Abandoned Assembly](https://wiki.spiralknights.com/Ironclaw_Munitions_Factory/Abandoned_Assembly), it is highly possible. In that notion, the state of gremlin clans is also not seen as particularly stable, even if gremlin nature taken in consideration:
+#### Battlepods and Laser Technology
+
+Then there are lasers of Big Iron battlepod.
+
+Their amount indicates presence of the _similar to Roarmulus Twins' technology, Seerus's technology_ which in the prior case is the technology of laser cannons, most clearly seen at the end of [Warfare Workshop of the Ironclaw Munitions Factory](https://wiki.spiralknights.com/Ironclaw_Munitions_Factory/Warfare_Workshop). The same cannons are installed into the Roarmulus Twins. But in case of the battlepod, their place takes circular set of artilleries hidden within battlepod's armor.
+
+If the idea of this battlepod being manufactured by gremlins is true, this would mean that [Ironclaw Munitions Factory](https://wiki.spiralknights.com/Ironclaw_Munitions_Factory) itself is _also_ **more that a hundred years old**.
+
+Considering its dilapidated state, suggested both by internal design and naming such as its [Abandoned Assembly](https://wiki.spiralknights.com/Ironclaw_Munitions_Factory/Abandoned_Assembly), it is highly possible due to a sequence of event which had led to its deteriorated state. In that notion, the state of gremlin clans is also not seen as particularly stable, even if gremlin folklore origins and in-Universe nature are taken in consideration:
 
 - King Tinkinzar is absent: `Tinkinzar not seen for many many years. Crimson Order carries out Tinkinzar's plans for Cradle. Emberlight was blight on master plan because built by outcasts. Haven was probably the same, founded by non-Gremlins` ([Pakrat](https://wiki.spiralknights.com/Pakrat#Dialogue)).
-- [Instability](#gremlin-military-industrial-complex) within the Crimson Order and explicit and likely recent power shifts.
+- [Instability](#gremlin-military-industrial-complex) within the Crimson Order and extreme and recent power shift.
 - Emberlight still remains and is home for outcasts of the Great Colony: `Emberlight founded by Gremlin outcasts from Great Colony. Gremlins of Emberlight not obey the Iron Law, so flee or die. We start over with Emberlight. New colony home to few of us: most ex-schemers, some merchants, some fighters, all traitors in the eyes of Great Colony Gremlins` ([Pakrat](https://wiki.spiralknights.com/Pakrat#Dialogue)).
-- Cradle's defenses are not controlled by gremlins directly, as implied by the quote: `Once, the gremlins were in charge of maintaining Cradle's defenses. But they had their own plans` ([Dreams and Nightmares - Refuge - Parma's Scout](https://wiki.spiralknights.com/Refuge)), but as Skylark was shot down, we will return to the nature of those defenses in the [analysis of gremlins](#gremlin-empire).
+- Cradle's defenses are not potentially controlled by gremlins directly, as implied by the quote: `Once, the gremlins were in charge of maintaining Cradle's defenses. But they had their own plans` ([Dreams and Nightmares - Refuge - Parma's Scout](https://wiki.spiralknights.com/Refuge)), but as Skylark was shot down, we will return to the nature of those defenses in the [analysis of gremlins](#gremlin-empire).
 
-Now, as for the **identity of the ship, we propose that it belongs to species of Isora**. Then it can be attributed to either Morai or Isorans, and as we suggest, it being the prior, mainly due to the fact that we know of them very little, and at the same time Spiral Order would have known of its interstellar vessel disappearing or at least be capable of identifying it though prominence of the Spiral Order insignia of a Spiral Warden. This emblem is not present in the Iron Hulk. On the other hand, there are cases of Raiders and kingdom of Almire being completely ignored or recognized as bearing or invoking any similarity to Isorans from their perspective.
+Now, as for the **identity of the ship, we propose it belongs to Isorans**. Then it can be attributed to either Morai or Isorans, and we suggest, it being Morai, mainly due to the assumption that Spiral Order would have known of its interstellar vessel disappearing or at least be capable of identifying it though prominence of the Spiral Order insignia of a Spiral Warden, which the vessel lacks.
+
+Spiral Order emblem is not present across Iron Hulk including its bridge. On the other hand, there are cases of Raiders and kingdom of Almire _not recognized as bearing or invoking any similarity to Isorans_ from their perspective, which would leave a possibility of the vessel belonging to Isorans.
+
+Yet, in both cases _such scenario_ **introduces a concept of Isoran civilization reaching Cradle in the past -- before Skylark**.
 
 <center class="chapter-break">
   <span class="energy">🜩</span>
