@@ -1843,7 +1843,7 @@ Currently, it is known, that the Knights have incorporated concept of spiral at 
 
 At that point, the question of who build the Artifact and the Core, while is of separate nature, remains, and eventually will be explored in the [according section](#divine-and-whitespace-clockworks). But, this concept of a spiral must be examined as one extending beyond Cradle which requires understanding Cradle an its history first, in order to draw conclusions.
 
-There must exist a fundamental paradigm at the base of reasoning behind Isoran military to be named with a spiral in their name. Simialr to a symbol of _sun wheel_ or _sun cross_, the spiral is __incorporated and transformed from a physical order of reality into symbolic order__.
+There must exist a fundamental paradigm at the base of reasoning behind Isoran military to be named with a spiral in their name. __The spiral becomes symbolic__.
 
 The _spiral attains symbolic meaning_ not only for Isorans, but for civilizations of Cradle too, which albeit indirectly, humanizes them through shared acknowledgement of those symbols -- a more so important aspect given alien nature of those civilization within science fiction genre and speculative fiction in general.
 
@@ -10093,6 +10093,38 @@ The look and feel, themes of the game, its adventure-friendly art style, design 
 The format, target audience, and art style of the game results in seemingly intended dilution of the in-Universe perception of Clockworks by its characters, as an inherently dangerous place. And yet, this distinction further attributes to the perceived feel of the game. This perception becomes the foundation, in simple terms, of a greater feedback loop, which creates a space between individual definitions of what is canon. But, the latter is eventually rooted in the foundations of the prior, - both in perceived themes and narrative of the story.
 
 In this duality of the story and its directly perceived story and gameplay elements, we believe, the setting of Spiral Knight thrives.
+
+#### JRPG Escalation of Power and Axis Mundi
+
+While rank mission could be separated ontto 3 distinct acts of a calssical narrative, the continuous progression of stakes and their escalation allows for a different perspective, emergiing from a genre of RPG broad genre - a Final Fantasy-esque escalation of power colloqually represented as a following contrast:
+
+mission 1: save the dog
+mission 100: kill god
+
+the same philosophy is applicable to the rank missions, and the tutorial as an encapsulation of those ideas:
+
+tutorial - fight slime cubes
+tutorial end - kill the antagonist within a collapsing structure and retrive the mucguffin
+
+squire / mission 1-1 : find sprites
+vanguarg and beyond : fight abstract force of negation
+
+More so, the appearance of Swarm's avatar in dreams and nightmares as a distint entity which establishes swarms motifs of eyes and cubes practically demoonstrates the next antagonist through Herex and a mediator. The prior narrative allow ffor gradual escalation of stakes
+
+battle sprites and collector, whimsical nature of gloaming windwoods
+
+new threat establishes gretaer stakes of stolen artifact and phase of exploration - jelly palace and current antagonists, gremlins, through roarmulus twins
+
+then comes the supernatural - underworld, Legion of trojans, space for solemn narratives such as arkus and introduction to Almire, elaboration on ceasation of Owlites. Afyer them comes lord vanduke - a tragic, cursed, deathless monarch of a ruined kingdom from a bygone age and out of its place and time, a literal "ending in fire"
+
+and then, the accumulation of those narratives as spanning across clockworks, become stepping stones for the last narrative of gremlins and the swarm through most detailed elaboration on gremlins, - their many perspectives, from mystery of schematics, relief of Winterfest and Emberlight, action sequences of Cromson Hammer - endning at planet's Core while concluding lasting narratives of alhpa squad and herex at a single point and united by a single goal. The swarm becomes the final escalation of power introduced near the end, while being hinted at from the end of act 1, -- an entity which greatly surpasses prior measurement systems, as the stakes are presented by Sleeper in the manner, which frames Cradle as the Axis Mundi of this Universe -- the most important location, where worlds meet, and so they are
+
+- collapsed and out-of-time realities of material realm within man-made megastructue
+- heaven behind Whitespace
+- Hell and curses of Underworld
+- frozen Abyss at the bottom of Hell
+- lovecraftian out-of-place realm of Apocrea
+- the primorial Void as world's foundations, weaponized and wielded by the Swarm, - a synergy of aspects from each of realms above
 
 #### Tropes
 
