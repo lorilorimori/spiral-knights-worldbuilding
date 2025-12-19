@@ -10791,6 +10791,14 @@ As for the Swarm, there is no end present in the story. Aspect of Swarm's scale 
 
 We have covered the symbolyms of Unknown Passage and we believe it persists weather or not Rebis theory works as a tool to explain the story, as themes Swarm represents remain mostly unaffected. While Rebis theory privides an explanation for Swarm's inception, it does not ameliorate the narrative Swarm defines.
 
+<!--#### The Swarm: Idea of Negation
+
+Lastly, there is the Swarm and Apocrea as two distinct antagonistic in calssical sence forces. Apocrea is framed as a deity with identity and motivation, achieved though complex manipulations. It attempts to negate a reality as a goal, to which it may bring the living beings. It uses souls and has high possiility of using them to exist.
+
+The Swarm on the other hand, is not a natural in cosmogonic sence enity -- it is a mindless creation of primordial void and curse resulted of complexity. It is a force of nature. Its animalistic nature coexists with poacrea goal of self-preservation, but lacking calculated nature of Apocrea. The Swarm only exists and expands. And becouse of its simple but unrecociliable exsitence as a force of nature, it provides existential property to its narrative. It negates reality, mirroring it within itself, while lacking anything understandable even if we consider blue-and-oragne morality of an eldritch deity.
+
+As with Apocrea, Swarm's actors are agents of chaos, but for the Swarm, the opposition is existence without acknowledgement of self as the single entity exissting with it.-->
+
 #### Metanarrative-defined Ending
 
 We observer two distinct narrative forces within the unfinished main story of rank missions.
