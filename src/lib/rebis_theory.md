@@ -478,7 +478,7 @@ Those scales could relate to Underworld or to general supernatural aspect by the
 
 The rage and normal damage thematic parity is also seen in [tortodrones](https://wiki.spiralknights.com/Tortodrone): `handgun empowered by the limitless fury of a tortodrone. While wielding it you can feel the berserk energy within eager to be unleashed` ([Grand Tortofist](https://wiki.spiralknights.com/Grand_Tortofist)). Tortofist deals pure normal damage, yet possesses lighning on par with other finalized tortodrone equipment. Tortodrones themselves are associated with rage not only by their equipment and design of cosmetics, but the design of an [enraged tortodrone](https://wiki.spiralknights.com/March_of_the_Tortodrones_(Mission)) of missions card.
 
-While corrupted (`A handgun alchemized from the shell of a corrupted tortodrone` - [Grim Buster](https://wiki.spiralknights.com/Grim_Buster)) tortodrones are fought in [Call of the Colossi](https://wiki.spiralknights.com/March_of_the_Tortodrones/Call_of_the_Colossi). The colossi in question, due to tortodrones' size, we suggest, are related to tortodrones. They still deal normal and elemental damage, despite their corrupted weaponry likely being [Gorgofist](https://wiki.spiralknights.com/Gorgofist), as it is a shadow damage weapon. So far, we will not delve into the specifics of Tortodrones, as they will be revisited in a [later section](#chapter-vi-arrival-of-undercorp), where this motif will be explored in greater depth.
+While corrupted (`A handgun alchemized from the shell of a corrupted tortodrone` - [Grim Buster](https://wiki.spiralknights.com/Grim_Buster)) tortodrones are fought in [Call of the Colossi](https://wiki.spiralknights.com/March_of_the_Tortodrones/Call_of_the_Colossi). The colossi in depth's name, due to tortodrones' presence and size, we suggest, _are referring to tortodrones_. They still deal normal and elemental damage, despite their corrupted weaponry likely being [Gorgofist](https://wiki.spiralknights.com/Gorgofist), as it is a shadow damage weapon. So far, we will not delve into the specifics of Tortodrones, as they will be revisited in a [later section](#chapter-vi-arrival-of-undercorp), where this motif will be explored in greater depth.
 
 Due to this we propose that:
 
@@ -791,7 +791,7 @@ We will offer 2 hypothesis on this design choice:
 
 This symbolism of a tortoise had to be acknowledged, as we attempt to identify the creators of tortodrones. So far we will assume that __tortoises are terrestrial descendats of drakes__
 
-#### Omega Shell and Tortomega
+#### Omega Shell and Tortomega: Motif of Resiliency
 
 As we develop the proposal of tortoises being descendants of dragons, we may may approach th identitis of those species from items, transmuted from [ancient shells](https://wiki.spiralknights.com/Ancient_Shell) (`A fragment of resilient Tortodrone shell. It is rumored that by sleeping on a Tortodrone shell, one can feel the subtle vibrations that call these mighty beings towards the Long Migration's mysterious final destination`), recovered from tortodrones as those are reminiscent of tortoises.
 
@@ -2169,9 +2169,9 @@ Considering its dilapidated state, suggested both by internal design and naming 
 - Emberlight still remains and is home for outcasts of the Great Colony: `Emberlight founded by Gremlin outcasts from Great Colony. Gremlins of Emberlight not obey the Iron Law, so flee or die. We start over with Emberlight. New colony home to few of us: most ex-schemers, some merchants, some fighters, all traitors in the eyes of Great Colony Gremlins` ([Pakrat](https://wiki.spiralknights.com/Pakrat#Dialogue)).
 - Cradle's defenses are not potentially controlled by gremlins directly, as implied by the quote: `Once, the gremlins were in charge of maintaining Cradle's defenses. But they had their own plans` ([Dreams and Nightmares - Refuge - Parma's Scout](https://wiki.spiralknights.com/Refuge)), but as Skylark was shot down, we will return to the nature of those defenses in the [analysis of gremlins](#gremlin-empire).
 
-Now, as for the **identity of the ship, we propose it belongs to Isorans**. Then it can be attributed to either Morai or Isorans, and we suggest, it being Morai, mainly due to the assumption that Spiral Order would have known of its interstellar vessel disappearing or at least be capable of identifying it though prominence of the Spiral Order insignia of a Spiral Warden, which the vessel lacks.
+Now, as for the **identity of the ship, we propose it belongs to Isorans**. Then it can be attributed to either Morai or Isorans within an aforementioned thought framework of Morai being an Isoran colony.
 
-Spiral Order emblem is not present across Iron Hulk including its bridge. On the other hand, there are cases of Raiders and kingdom of Almire _not recognized as bearing or invoking any similarity to Isorans_ from their perspective, which would leave a possibility of the vessel belonging to Isorans.
+We could develop this thoughfurther and propose that the vessel belongs to Morai, mainly due to the assumption that Spiral Order would have known of its interstellar vessel disappearing or at least be capable of identifying it though prominence of the _Spiral Order insignia of a Spiral Warden_, which the vessel lacks. Spiral Order emblem is not present across Iron Hulk including its bridge. On the other hand, there are cases of Raiders and kingdom of Almire _not recognized as bearing or invoking any similarity to Isorans_ from their perspective.
 
 Yet, in both cases _such scenario_ **introduces a concept of Isoran civilization reaching Cradle in the past -- before Skylark**.
 
@@ -2183,31 +2183,73 @@ Yet, in both cases _such scenario_ **introduces a concept of Isoran civilization
 
 ### _Chapter `VI` &#160;<br>_ Undercorp
 
-Tortomega, the [titans](#chapter-titans), descendants of tortoises and far descendants of dragons, were pressed back into the wildwoods after a [war with valkyries of heavenly kingdom](#fiendisj-statues). Presence of a war taking place we proposed in the [analysis of decorated fiendish statues](#fiendish-statues) in the halls of several castle structures in Clockworks.
+Tortomega, the [titans](#chapter-titans), descendants of tortoises and far descendants of dragons, exist in their ancestral home -- a [veiled homeland](#ancient-titans), encompassing:
 
-This conclusion we made based on the similarity of tortomega as a supposed civilization behind the prevalent ruins, and valkyries, as they both have significant element, attributed to norse mythology, specifically of Jotun, the giants, and valkyries and gods of Asgard, partially inspired by their relationship from the myths.
+- Gloaming Wildwoods
+- [Ancient Grove](https://wiki.spiralknights.com/Ancient_Grove)
+- [Aurora Isles](https://wiki.spiralknights.com/Aurora_Isles)
+- [Jigsaw Valley](https://wiki.spiralknights.com/Jigsaw_Valley)
+- [Wolver Dens](https://wiki.spiralknights.com/Wolver_Den)
+- [Starlight Cradle](https://wiki.spiralknights.com/Starlight_Cradle)
 
-In the scenarios of titans being at war with valkyries or only assisting them in the construction of the castles, in [chapter 3](#ancient-titans) we concluded, that Gloaming Wildwoods and [Ancient Grove](https://wiki.spiralknights.com/Ancient_Grove) had to belong to titans' territory. And, due to a hypothesized location of [veiled homeland](#veiled-homeland), we proposed that Gloaming Wildwoods are not the birthplace of titans, with homeland referring to a location which, through the analysis of strata of ruins, fractured into [Aurora Isles](https://wiki.spiralknights.com/Aurora_Isles), [Jigsaw Valley](https://wiki.spiralknights.com/Jigsaw_Valley), [Wolver Dens](https://wiki.spiralknights.com/Wolver_Den), and [Starlight Cradle](https://wiki.spiralknights.com/Starlight_Cradle).
+Those areas, composing now fractured veiled homeland, are identified by tortomega strata of architecture, discussed in the [analysis of titans](#veiled-tortodrone-homeland).
 
-As tortodrones are most recent physically present lead to understanding Tortomega, we will start this analysis from what was found during the long migration of tortodrones, specifically, in the [Ancient Grove](https://wiki.spiralknights.com/Ancient_Grove).
+As tortodrones are _the most physically present_ lead to understanding Tortomega, and the least hypothetical, we will start this analysis from what was found during the long migration of tortodrones, specifically, in the [Ancient Grove](https://wiki.spiralknights.com/Ancient_Grove). Through this analysis, given name of this chapter we intend to transition into in-depth analysis of Underworld and Undercorp.
 
-The connection between fiends of Undercorp and tortodrones is posed almost instantly, as to encounter working tortodrones, albeit in a corrupted state, Spiral Knights need to collect [fiendish glyphs](https://wiki.spiralknights.com/Fiendish_ID_Card#Recipe) and make an [identification card](https://wiki.spiralknights.com/Fiendish_ID_Card) in order to gain access to the depths of Ancient Grove, wherein tortodrones are located, [Call of the Colossi](https://wiki.spiralknights.com/Call_of_the_Colossi). Spiral HQ suggests that `the Fiends are somehow linked to the disappearance of those once-mythical beings` ([March of the Tortodrones](https://wiki.spiralknights.com/March_of_the_Tortodrones_(Mission))).
+The connection between fiends of Undercorp and tortodrones is posed instantly, as to encounter working tortodrones, albeit in a corrupted state, Spiral Order need to collect [fiendish glyphs](https://wiki.spiralknights.com/Fiendish_ID_Card#Recipe) and transmute a [fiendish identification card](https://wiki.spiralknights.com/Fiendish_ID_Card) in order to gain access to the depths of Ancient Grove, wherein tortodrones are located, at the [Call of the Colossi](https://wiki.spiralknights.com/Call_of_the_Colossi).
+
+We take note of the name itself -- colossi, -- as a term most likely referring to tortodrones themselves and a "call," while keeping in mind the animal motif and [motif of resiliency](#omega-shell-and-tortomega-motif-of-resiliency) of tortodrones, in particular, the migration cycle of giant tortoises.
 
 #### Ritual Circles, Circle of Art, Pentacles
 
-We will start from a particular ritual circle around inactive tortodrone near the elevator at the end of [Call of the Colossi](https://wiki.spiralknights.com/Call_of_the_Colossi) beyond the grim gates located in the [Ancient Grove](https://wiki.spiralknights.com/Ancient_Grove).
+We will start from a _white ritual circle around inactive tortodrone_ near the exit elevator of [Call of the Colossi](https://wiki.spiralknights.com/Call_of_the_Colossi).
 
-This circle has all of the same fiendish sigils, used occasionally across Clockworks in locations containing mineral pillars. Currently we will not analyze nature of those rooms in Clockwork tunnels. Circle of the same color, - pale white, - but smaller and without fiendish sigils can be found before the Call of The Colossi arena, surrounding inactive tortodrone part.
+This circle has same _fiendish sigils_, used across Clockworks in locations _containing mineral pillars_ -- this configuration introduces a pattern of ritual circles being composed of minerals, _other than dark mater_.
 
-Based on the notion of fiends having in possession working but corrupted tortodrones, we can suggest, although it is a speculation currently, that those circles of different color and currently unknown mineral seem to possess a warding property, protecting the encircled entity. In our case, of an inactive tortodrone and its parts. We will revisit this speculation of the warding motif, developing it further, as we analyze the imagery of devilite ritual circles.
+Circle of the same color, -- pale white, -- but significantly smaller and lacking fiendish sigils can be found before the Call of The Colossi arena _surrounding an inactive tortodrone part_.
 
-The identification of those tortodrones as ones being corrupted stems from the differences in the design, compared both to regular tortodrones found marching in the end of Call of the Colossi, and an enraged tortodrone depicted at mission's card. The corruption is visible mainly by presence of _purple color_, likely of dark matter, _cracked arms_, _stitched shells_, and _carved sigils on shell's plates in place of eyes_.
+Based on the notion of fiends having in possession working, but modified tortodrones, earlier referred as corrupted, we can suggest, that those circles of different color, -- currently unknown mineral, -- through encircling of non-corrupt tortodrone parts allow us for vague identification of their functional purpose.
 
-Fiendish ritual circles are purple, same as dark matter mineral, the circles found in the Call of the Colossi are ghostly white.
+##### Warding Circles
 
-This practice of using different color is observed at the [Everfrost Tower](https://wiki.spiralknights.com/Everfrost_Tower), in a [ritual circle in the Moorcroft Manor](https://wiki.spiralknights.com/File:Konjuring_Kat-Overworld.png), [Inner Sanctum](https://wiki.spiralknights.com/Inner_Sanctum), and during [Departure of Shroud of Apocrea](https://wiki.spiralknights.com/File:SotA-Gameplay_End.png). Due to consistency of dark matter color, we can conclude that dark matter is not used in the latter instances, as they are not purple. Currently we won't consider different physics of the ritual circles depending on their mineral, but, it is important to note, that _there exists an aspect of minerals capable of being charged, which results, as we will soon see, in their color shifting_.
+There are instances of dark matter circles, which establish that the observed _location is under devilite control_. Then there are rooms across Clockwork tunnels, which contain mineral pillars placed within mineral circles of the same design as ones found across Daark Cities. The purpose of this pattern of placement of objects within the circes, herein being mineral pillars, we propose, is identical to one of encircled tortodrone parts -- a __metaphysical warding quality__ _of those ritual circles_.
 
-The sigils themselves, including ritual circles, seem to be inspired by the composition of Solomon seals or the pentacles from "The Kay of Solomon the King", and pinpointed to a few patterns, as suggested by [Kentngo on Spiral Knights forums](https://forums.spiralknights.com/en/node/7857#comment-40758): `The Fifth Pentacle of Saturn combined with the meaning of the Seventh Pentacle of the Sun. Two circles, denoting the angels names between the two. The center shows a resemblance to the Third Pentacle of Mercury. Although the angelic names are gibberish in this case`.
+Yet, the pale circles found in Call of the Colossi are made of a different mineral, which, we may suggest, implies a _different party responsible for their creation_ in conjunction with the fact of tortodrone parts within, as within this base system of relataions, _there is no distinct reason for devilites specifically to establish those warding sites_.
+
+This warding property emerges from a _contrast_ between distinctly repurposed tortodone appearances with dark matter and one unmodified through affiliation with Undercorp as a primary suspect for this change.
+
+##### Quality of Tortodrone Corruption
+
+We will revisit this hypothesis of the warding quality as we analyze the imagery of devilite ritual circles outside of this context of tortodrones specifically.
+
+The identification of fought tortodrones as ones being corrupted stems from the differences in the design, compared both to regular tortodrones found marching in the end of Call of the Colossi, and an **enraged tortodrone depicted at mission's card**. The "corruption" or tampering is visible mainly by presence of:
+
+- _purple color_ within _cracked surfaces_, most likely of dark matter
+- _stitched shells_, dark matter potruding from top of tortodrones' shells
+- _carved sigils on shell's plates in place of eyes_, wherein the eyes are observed on red enraged tortodrone and transmuted 5-star gear
+
+##### Other Instances of Ritual Circles
+
+This leads us back to the importance of dark matter mineral to devilites. Fiendish ritual circles are purple, same as dark matter mineral, the circles found in the Call of the Colossi are ghostly white.
+
+This practice of using different color is observed in other locations:
+
+- At the [Everfrost Tower](https://wiki.spiralknights.com/Everfrost_Tower) across Amu Sol, and more distincly around the Everprost Pillar, encircling prize boxes
+- In a [Margrel ritual circle in the Moorcroft Manor](https://wiki.spiralknights.com/File:Konjuring_Kat-Overworld.png)
+- [Inner Sanctum](https://wiki.spiralknights.com/Inner_Sanctum), wherein a valestone-like circle surrounds a tome stand with Almirian Codex
+- Gold circles at the [Departure of Shroud of Apocrea](https://wiki.spiralknights.com/File:SotA-Gameplay_End.png)
+- [Gold](https://wiki.spiralknights.com/File:Level_Shroud_of_the_Apocrea_puzzle_tower_gold.png) and [Purple floating circles](https://wiki.spiralknights.com/File:Devilite_Apocrea_Ritual.png) across [Grasping Plateau](https://wiki.spiralknights.com/Shroud_of_the_Apocrea/The_Grasping_Plateau)
+- Antechamber of [Charred Court of Firestorm Citadel](https://wiki.spiralknights.com/Firestorm_Citadel/Charred_Court), wherein spirit wells are located, has a _warding and purifying_ quality of dispelling fire from Knight and lifting the curse from Nature Sprites is identified by circles of valestone
+
+Due to consistency of dark matter color, we can conclude that dark matter is not used in those instances, as they are not distinctly purple.
+
+Currently we won't consider different physics of the ritual circles depending on their mineral, but, it is important to note, that _there exists an aspect of minerals capable of being charged, which results, as we will soon see, in their color shifting_.
+
+And most importantly, if those circles operate under the same metaphysical laws, this would unite all currently established minerals, potentially with expception of Whitespace Gold Keys, under a single system.
+
+##### Devilite Sigils
+
+The sigils themselves, including ritual circles, seem to be inspired in their  composition or a layout by the **Solomon seals, the pentacles** of `The Key of Solomon the King`, and, could be pinpointed to a few distinct pentacles, as suggested by [Kentngo on Spiral Knights forums](https://forums.spiralknights.com/en/node/7857#comment-40758): `The Fifth Pentacle of Saturn combined with the meaning of the Seventh Pentacle of the Sun. Two circles, denoting the angels names between the two. The center shows a resemblance to the Third Pentacle of Mercury. Although the angelic names are gibberish in this case`.
 
 <BookCitation source="The Key of Solomon the King">
 
