@@ -2370,7 +2370,7 @@ In the Moorcroft Manor, black kat Margrel of the Kat Tribe is summoned through t
 
 Margrel summoning is characterized by a formation of a dark-pink maelstrom enveloping the space below the manor. The maelstrom itself is extremely similar to one later observed across the grim gates, once [their open portal is destroyed at the end of devilite onslaught, with a blue-purple core](#grim-gtes-portal-collapse).
 
-##### Summoing of Devilites
+##### Summoning of Devilites
 
 We will look into the grim gates, as technology, soon enough. But, as of currently, it seems likely that in general, by the pattern of the ritual circle itself, entities can be brought in, and combined with the analysis of grim gates, the location in question may be the Underworld, while _grim gates are capable of linkin not only material realm and Underworld_, but __different points of material realm__ -- as seen in the transition between grim gates of Ancient Grove and Call of The Colossi.
 
