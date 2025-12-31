@@ -2785,71 +2785,99 @@ As it was established, dark matter and crimsonite can be charged. This ability a
 
 ##### Introduction to Mineral Charge
 
-At that, luminite also can be charged, as stated: `A shard bomb formed from a small explosive encased in solar-charged Luminite` ([Sun Shards](https://wiki.spiralknights.com/Sun_Shards)).
+At that, luminite also can be charged, as stated: `A shard bomb formed from a small explosive encased in solar-charged Luminite` ([Sun Shards](https://wiki.spiralknights.com/Sun_Shards)). As luminite has relation to the light and sun both in its description -- `A fabled mineral of a radiant, golden color said to contain the faith, wisdom, and zeal of the life surrounding it`, -- and name as derivative of _lumen_, a visible light, those elemnts can serve as an explanation of a `solar-charged` state of Luminite of [Sun Shards](https://wiki.spiralknights.com/Sun_Shards).
 
-Based on shard missiles of tortodrone-derived weapons, [Savage Tortofist](https://wiki.spiralknights.com/Savage_Tortofist) should be covered separately -- it uses valestone in alchemy, but the color of ammo suggest it being luminite, which is usually yellow.
+Based on shard missiles of tortodrone-derived weapons, [Savage Tortofist](https://wiki.spiralknights.com/Savage_Tortofist) uses valestone in its alchemy, but the color of ammo suggests it being luminite, as it is usually yellow.
 
 This change in color, apart from being a potential design inconsistency, can be resolved through later described tendency of minerals, once charged, to change color, as suggested by other weapons:
 
 - _Sun-charged luminite is greener_, as seen in [Sun Shards bomb](https://wiki.spiralknights.com/Sun_Shards): `A shard bomb formed from a small explosive encased in solar-charged Luminite`. Luminite is used in recipe of the [Omega Tortofist](https://wiki.spiralknights.com/Omega_Tortofist).
-- _Red shards of Crimsonite are not as dark in the missiles_ of [Grand Tortofist](https://wiki.spiralknights.com/Grand_Tortofist), compared to the shards shot by a corrupted tortodrone. Tortodrone uses crimsonite projectiles from its core of power pistons, likely as a _weaponized mechanism of disposing depleted crimsonite_.
+- _Red shards of Crimsonite are not as dark in the missiles_ of [Grand Tortofist](https://wiki.spiralknights.com/Grand_Tortofist), compared to the shards shot by a corrupted tortodrone. Tortodrone uses crimsonite projectiles from its core of power pistons, potentially as a weaponized mechanism of disposing depleted crimsonite.
 - _Charged dark matter is pink_, it will be covered in [case of Arkus](#arkus-the-design) and [trojans](#trojans). It will be the foundation, through which we will develop the proposed here nature of minerals in [greater detail](#minerals-and-souls-part-2-mineral-charge) as we parse through the timeline.
 
 This might suggest that mounted or equipped cannons use charged minerals as they are remade from tortodrones' designs as explicit weapons wielded by Spiral Order.
 
-Based on this, we can conclude, that __all minerals found in the Clockworks posses an internal charge, making them an applicable power source__.
+Based not on color but application through items' description we can make an extrapolation, that __all minerals found in the Clockworks posses an internal charge, rendering them an applicable power source__.
 
-##### Everfrost and Moonstone
+##### Trojans: Everfrost and Dark Matter
 
-During the [Heart Of Ice](https://wiki.spiralknights.com/Heart_of_ice), [Everfrost Tower](https://wiki.spiralknights.com/Heart_of_Ice/Everfrost_Tower) may hint at the source of this charge. It is said that Everfrost, the tower of which very much resembles [moonstone](https://wiki.spiralknights.com/Minerals#Moonstone) is utilized by fiends in `large deposits of the stuff to trap the souls of the lost within it, like some kind of icy prison` ([Everfrost Tower - Recon Ranger](https://wiki.spiralknights.com/Heart_of_Ice/Everfrost_Tower)).
+The charge, -- a capacity to contain an amount of energy, -- potentially may be understood through a particular similarity between minerals and everfrost, in particular, the _physical and narrative properties of everfrost_.
 
-Moonstone and everfrost are separate materials, as well as their usage in crafting does differ, yet _everfrost itself has similar properties to a mineral_, as it is capable of being arranged into a form similar to a mineral pillar.
+Everfrost becomes central to the narrative of danger mission [Heart Of Ice](https://wiki.spiralknights.com/Heart_of_ice) in the form of [Everfrost Tower](https://wiki.spiralknights.com/Heart_of_Ice/Everfrost_Tower): `Spiral HQ has detected a sudden climate shift emanating from deep within the Clockworks. Freak snowstorms and blizzards have begun surging through the depths seeming to originate from an inhospitable, fiendish city known as 'Amu-Sol.' The Recon Rangers have been dispatched to infiltrate Amu-Sol and discover the source of these freezing storms` ([Heart of ice](https://wiki.spiralknights.com/Heart_of_ice)):
 
-More similarities to minerals and everfrost are found by the fact, that __everfrost is present in Maulos' back as the dark matter shard in trojans__. And only in case of Maulos everfrost is seen protruding from his skull, partially covering it. Once Maulos is defeated, __everfrost shard shatters, same as dark matter, when trojan is defeated__.
+- `large deposits of the stuff to trap the souls of the lost within it, like some kind of icy prison` ([Everfrost Tower - Recon Ranger](https://wiki.spiralknights.com/Heart_of_Ice/Everfrost_Tower)).
+- `A 'towering pillar' of everfrost and 'all the frozen souls it brings forth'` ([Fiendish Memo](https://wiki.spiralknights.com/Heart_of_Ice/Amu-Sol)).
 
-This property of everfrost to immitate dark matter of trojans, unless it is nature of trojans which directs this development, can suggest a shared with minerals nature.
+When Everfrost Tower is found at its [corresponding depth](https://wiki.spiralknights.com/Heart_of_Ice/Everfrost_Tower) within Amu-Sol, appearance of everfrost is identical to Moonstone, but surrounded with ice. At the same time Maulos presents a fascinating study of effects of everfrost.
 
-<!--Through this connection of similar nature and themes, we will examine, what material was used to draw pale circles near Everfrost Tower and Call of the Colossi. There is also a ritual circle in the Moorcroft Manor, but it will be discussed separately in the context of [Kat Tribe](#chapter-viii-kat-tribe) due tits distinct color.-->
+Moonstone and everfrost are separate minerals and their role in alchemy differs, yet _everfrost itself has similar properties to a mineral_ due to a common pattern:
 
-Could moonstone and minerals' power originate from nature of trapped souls as in case of everfrost?
+1. Everfrost and minerals are capable of being arranged into a form of a pillar.
+2. More similarities to minerals and everfrost are found by the fact, that __everfrost is present in Maulos's back as the dark matter shard across trojans__.
+3. Once Maulos is defeated, __everfrost shard shatters identical to dark matter of trojans__.
 
-This may seem far fetched, but at the same time there is dark matter mineral is used as a food source for [Maskeraith](https://wiki.spiralknights.com/Maskeraith) battle sprites, making it relatively equal at least in application as other sprite food, -- crimsonite and luminite. Yet, everfrost is unique at least for now, as it follows a theme of explicitly being tied to physics of souls.
+The similarities between Moonstone and everfrost are found through identification of Maulos as a trojan, which poses a question of trojans' nature -- __through which means dark matter or everfrost at that had become essential for trojans' animation?__
 
-<!--Even if we consider different cases of the cause and effect presented between trojan and dark matter, the relation is too consistent for it to be coincidence, even without introducing [Arkus](#arkus-the-design) and [other instances of dark matter](#dark-matter-as-manifestation-of-curse) to this theme. On the other hand, everfrost is used within the Underworld, by Undercorp as they went out for it, represented by Morgral'm, further playing into the [earlier idea](#glyph-technology-data-and-energy-storage) of utilitarian usage of souls and energy.-->
+Whether everfrost and Dark Matter identical in their nature and influence, which takes a specfific observed effect on species of trojans, or it is a deliberate act of trojans' creation, -- in both scenarios the __common effect of those minerals on trojan physiology creates means of identifying everfrost as physically close to other minerals__.
 
-All [Everfrost-related gear](https://wiki.spiralknights.com/Everfrost#Usage) uses [valestone](https://wiki.spiralknights.com/Valestone#Valestone) in recipes (`A fabled mineral of a vibrant green color said to contain the essence of all natural life` - [Valestone](https://wiki.spiralknights.com/Valestone#Valestone)).
+##### Everfrost and Souls
 
-Could it be that the stated `essence of all natural life` is the soul, a _lingering, utilitarian presence of a soul required to be trapped in everfrost to power the equipment_? Due to how consistent application of minerals is within alchemy, there, we believe, a metaphysical explanation exists, but one we don't have full grasp so far. The idea of _an essence, a crystallized in valestone manifestation of life being sealed in everfrost_ seems as a solid concept on its own, but one we can not apply somewhere, apart from Apocrea and its narrative of hunger for souls.
+Through the course of everfrost establishment as an important for Underworld mineral its capacity to contain souls becomes central to Maulos's plot. At that, everfrost is framed as supernatural in its origin: `A small patch of ice crystals that never seem to melt, even when exposed to direct heat` ([Everfrost](https://wiki.spiralknights.com/Everfrost)): `The intel we've collected so far suggests that fiends utilize large deposits of the stuff to trap the souls of the lost within it, like some kind of icy prison. It would seem that Maulos, that horrible arch-fiend you just took down, had a different use in mind and was actually destroying this everfrost to unleash swarms of angry, frozen souls into the Clockworks. Had he finished the job, well, I don't even want to think about how many sweaters we would all be needing right now` ([Heart of Ice - Everfrost Tower - Recon Ranger](https://wiki.spiralknights.com/Heart_of_Ice/Everfrost_Tower)).
+
+Here we have to acknowledge, that souls imprisoned in everfrost does not constitute them being mortal, -- souls may likely be eternal in most colloqual understanding, -- but rather everfrost seems as a trap, capable of intersecting with natural life-cycle of a souls, as a soul is held perpetually in everfrost.
+
+Whether lost souls' _aggressive nature_ is inherent to their state, is unknwon, as we have found both sentient, non-aggerssive _lost_ souls, such as those related to Apocrean narrative.
+
+In regards to dark matter, it is more mysterious mineral predominetly despite its larger screen time due to its framing and multifaceted application, even being reflected in its name as a _dark matter_, -- a _far more_ __utilitarian__ _name contrary to more established naming convension across fantasy minerals, such as Moonstone or Valestone_. The theme of utulity, then, ties back to themes of progress and industry of devilites, which we have discussed in relation to fuel of grim gates and ritual circles.
+
+Yet, despite framing of dark matter as more mysterious, first through its name, followed by its application and association with Underworld and Undercorp, at the same time dark matter mineral is used as a food source for [Maskeraith](https://wiki.spiralknights.com/Maskeraith) battle sprite, making it relatively equal at least in application as other mineral-based sprite food, -- Crimsonite and Luminite, -- _surpassing the boundary of physiological differences between those battle sprites_ through a common association of them as _companions_.
+
+While each of those sprite has different symbolic meaning and, potentially, physiology, all of them are derivations or mutations of the initial E-class battle sprite found on Skylark. This is an argument in favour of a _shared, common nature of dark matter and the rest of minerals_, apart from their initial application to be used to configure Clockwork gates.
 
 Apocrean Realm is the other actor, which works with souls, and is seen to hunt and capture them as the [Apocrean Harvester's ability to drain souls](https://wiki.spiralknights.com/Apocrean_Harvester). The above description, as we will discuss further, is closely similar to the idea of [Apocrean Engines](#analysis-of-apocrean-realm), as far as [Allister Danford's metaphors allow](https://wiki.spiralknights.com/Shroud_of_the_Apocrea): `Only souls keep these engines roaring, heard screaming across distant stars. Only souls can fill their void, sublime in its vast emptiness. Oh such beautiful souls! Bright and vibrant like fruit warming on the branch from a summer’s sun, longing for the pull of the earth below, the chance to seed and grow and birth anew`.
 
-This theme of a _natural element being kept perpetually alive against natural laws_ was also seen in the analysis of [Snarbolax's curse](#snarbolax-and-haunting-span-classthrough-cursethrough-cursespan) and will be explored in the context of _curse's effect onto material realm_ and through narrative of Lord Vanaduke.
+At that we come to a coloowing proposal. If _everfrost can interface with souls_, as _dark matter and other mineral are used as power source_, and as _Apocrean narrative positions souls as fuel_ -- __could capacity of everfrost to interface with souls be extrapolated into the rest of minerals__?
 
-Here we have to acknowledge, that souls imprisoned in everfrost does not constitute them being mortal, but rather _everfrost seems as a trap, capable of intersecting with natural life-cycle of a perished creature_. That the soul should depart somewhere, rather than remain sealed, in particular, by a corporate entity of Undercorp or greater Underworld. From this perspective this __capacity of everfrost to interract with souls while being similar to minerals implies, with consideration of minerals' descriptions, their affiliation with souls__.
+Everfrost's proximity to minerals both through its narrative and physical properties can be seen as an emergent property, which deepens the worldbuilding aspect of the setting while providing means of explaining multiplle supernatural phenomena through a forming __symbolic framework__ _of a spiritual, yet transactional and quantifiable value of a soul_.
 
-<!--The only place so far being close to Heaven is the heavenly kingdom, but it remains related to a literal heavenly kingdom, which we concluded to be of valkyries and their physicality, with no introduction of souls -- _as if Underworld is not Hell in general, western understanding, but a mix of many interpretations. A separate, complex, self-contained dimension, -- a realm with its own politics, culture and, of course, corporations_.-->
+Those notions of power or energy of souls are refelctions of a single concept, most directly presented by Apocrean narrative -- __that souls are a medium for energy__.
+
+##### Wisps and Energy
+
+Sparks present a concept of wisps:
+
+- `A small wisp of the essential spirit of technology and progress` ([Forge Spark](https://wiki.spiralknights.com/Primal_Spark#Treasure_Box_Tokens)).
+- `A small wisp of the essential spirit of darkness and decay` ([Grim Spark](https://wiki.spiralknights.com/Primal_Spark#Treasure_Box_Tokens)).
+- `A small wisp of the essential spirit of nature` ([Primal Spark](https://wiki.spiralknights.com/Primal_Spark#Treasure_Box_Tokens)).
+
+As those are quantifiable items -- sparks, -- they are characterized as wisps, and individually present a transactional value, a value derived of their fundamental nature.
+
+While spirits' affiliations may evoke a similarity to planets in occult, `The Key of Solomon the King` in particular, we are interested in comparing those spirits with the minerals, which possess internal power, spirically, Valestone: `A fabled mineral of a vibrant green color said to contain the essence of all natural life` ([Valestone](https://wiki.spiralknights.com/Valestone#Valestone)).
+
+The idea of an essence being consiered a power, as it is present within Valestone is similar to idea of a spirit of nature of Primal Spark.
+
+At that, the spark itself may be considered a medium of energy, not explicitly as a Spart of Life, but one which would relate back to the metaphysical soul, or aura at that, wherein the latter evidently possess energy as found through Black Kats' narrative, is another but more symbolic link to the initial idea of souls being a medium of energy.
 
 ##### Mineral Energy and Grim Gates' Power Source
 
-Now, while keeping those concepts in mind, one more suggestion we must present. As known ritual circles utilize some mineral in their composition -- does a mineral serve as a requirement to perform the function presupposed by the pentacle?
+Now, while keeping those concepts in mind, one more suggestion we must present. As known ritual circles utilize a mineral in their composition -- _does a mineral become an essential in order for ritual circle to perform its function_?
 
-In other world, _is the power of a ritual circle drawn from the mineral itself?_
+_Where ritual circle draws its power from?_ Is it a mineral itself or a shape or configuration of a pentacle?
 
 We have a few evidence of this relation to energy:
 
-- Aforementioned internal charge of a mineral, capable enough to be used in weaponry.
-- A motif not strictly magical, but both rooted in science fiction and alchemy. An energy exchange then should play a bigger role compared to soft magic systems, and, as for Spiral Order the focus on energy is a significant one, with the only supposedly unlimited source of energy being the Core, the reflection of this theme in other energy-based systems, from Underworld in particular, seems as a natural development.
-- Referring to other energy based systems, fiendish Sigils are ones that power grim gates through transmutation of fiendish ID card.
+- Aforementioned internal charge of a mineral, capable enough to be used in weapon production.
+- Referring to other energy based systems, fiendish Sigils are ones that power grim gates through transmutation of fiendish ID card. Even if the card itself is the container for energy, for its transmutation sigils, which are depicted as essences, are still required.
 
-  Even if the card itself is the container for energy, for its transmutation sigils, which are depicted as essences, are still required. Burning is a form of an an energy exchange.
+As ritual circles are created from minerals, which so far are the only source of energy, we suggest, that ritual circles tap into power of minerals to operate.
 
-The mundane elements attaining a magical property of an inner metaphysical energy hint at the _nature of ritual circles being powered by this lingering charge within minerals_, rather than their form, or, potentially, a combination of both. This complexity will be further explored in the analysis of Wolite tomes possessing auras, which could be sences by curse-ridden Black Kats.
+There are also Owlite tomes, which possess auras, which draw in Black Kats -- we will discuss the tomes later, as for now we will apply aforementioned concept as our primary method to interpret observed phenomena across Clockworks.
 
-If we take this concept further and apply to grim gates, this seems as a natural progression, earlier identified by industrial scale of gim gates -- Undercorp is no longer required to draw and inscribe a pentacle with a specific purpose, preemptively finding dark matter to power it.
+Then, as we have proposed earlier the _industrialisation of transportation -- from ritual circles to grim gates_, -- the importance of the shape of a pentacle itself may serve as a channel of mineral power for specific purposes, while the gates operate only for transportation.
 
-Grim gates in that regard would be a big technical advancement, where devilite does not even required to carry dark matter, as its energy, even in different form is present within the alchemical or magical language, [contained in their glyphs](#glyph-technology-data-and-energy-storage) -- a far more compact and efficient medium.
+Grim gates in that regard would become a technical achievement and an advancement, as devilite are not required to carry dark matter, as its energy in different form is present within _glyphs_ -- more [compact, efficient and multipurposed medium](#glyph-technology-data-and-energy-storage).
 
-##### Rock Salt and Alchemical Primes
+<!--##### Rock Salt and Alchemical Primes
 
 Apart from regular minerals, there is [Rock Salt](https://wiki.spiralknights.com/Rock_Salt): `A small amount of Clockworks mineral that's been infused with absolutely nothing. It hungrily draws at nearby essences and flavors, making it a staple in cooking, and the bane of jellies everywhere`.
 
@@ -2873,22 +2901,20 @@ There are mercurial sets, such as [Mercurial Mail set](https://wiki.spiralknight
 
 One element from the patterns found earlier we can attempt to distill. In alchemy, it was believed that minerals, through their properties correspond to spiritual aspects of the soul. And, minerals themselves possessed, in that framework, souls, which were more of a characteristics and qualities reflected in its physical properties.
 
-Apart from those ideas, the theme of Rock Salt lacking infusion and through this attracting everything is also found in one other instance of the setting, it will be explored later.
+Apart from those ideas, the theme of Rock Salt lacking infusion and through this attracting everything is also found in one other instance of the setting, it will be explored later.-->
 
-##### Everfrost and Moonstone in Amu-Sol
+##### Amu-Sol's Writings
 
-Devilites use dark matter. The presence of everfrost is marked by ice, as seen around the Everfrost Tower and Amu-Sol. But Everfrost Tower, when discovered, is seen to be made of moonstone. _Presence of moonstone in the everfrost tower is confusing, as Maulos has distinct everfrost shard present in his back, same as other trojans have dark matter_. What is moonstone then is ambiguous.
+The writings, connecting treasure boxes on the solid ground around the everfrost tower would be not of rock salt or everfrost, as the circles glow, so we are left with an aforerementioned potentioal of moonstone being used.
 
-The writings, connecting treasure boxes on the solid ground around the everfrost tower would be not of rock salt, as it has no reason to be there, unless rock salt was used to protect the encircled items, those being piles of snow and treasures. The theme of rock salt is vague, mainly due to lack of any connections apart from slime family of monsters.
-
-And, as the entirety of the depth is covered with those _glowing writings_, as if protecting the tower, we would consider them being same as ones in the Ancient Grove. But, their color is different, ever so slightly. This cold pale color is consistent across all writings found in Amu-Sol, which, we believe, frames them as an intentional design choice in the context of the Amu-Sol setting and ideas it is intended to convey.
+And, as the entirety of the depth is covered with those _glowing writings_, as if protecting the tower, we would consider them being same as ones in the Ancient Grove. But, their color is different, ever so slightly. This cold pale color is consistent across all writings found in Amu-Sol, which, we believe, frames them as an intentional design choice in the context of the Amu-Sol's setting and ideas it is intended to convey.
 
 As Rock Salt is used in [Shocking Salt Bomb](https://wiki.spiralknights.com/Shocking_Salt_Bomb): `For nutritional purposes, this particular chunk of salt has been enriched with dangerous amounts of electricity`, and the latter has arcs of electricity, we may attempt to link it to the patterns of the writings across [Heart of Ice](https://wiki.spiralknights.com/Heart_of_ice) depths -- intended to inspire electric motif disregarding their physical composition:
 
 - Before Amu-Sol, [Frozen Highway](https://wiki.spiralknights.com/Heart_of_Ice/Frozen_Highway) has those same elements used to connect Howlitzers, transforming them functionally into switches for the gates' grid.
 - In [Amu-Sol](https://wiki.spiralknights.com/Heart_of_Ice/Amu-Sol) those patters are seen near mechanical switches and buttons.
 
-While preserving electrical motif, those writings could be either of everfrost, rock salt, or moonstone.
+While preserving _electrical motif_, those writings could be either of everfrost, rock salt, or moonstone.
 
 - Due to absence of everfrost being used in this more mundane context, we would consider the writings across Amu-Sol being of salt or moonstone.
 
@@ -2900,7 +2926,7 @@ While preserving electrical motif, those writings could be either of everfrost, 
 
 - Rock Salt is seen in the [Pinch of Salt](https://wiki.spiralknights.com/A_Pinch_of_Salt) at the [Research Site](https://wiki.spiralknights.com/A_Pinch_of_Salt#Gate_Map), wherein it is depicted exactly as on the inventory icon.
 
-  A conflict may arise here, one related to the design of [salt bomb](https://wiki.spiralknights.com/Rock_Salt_Bomb) -- as it is very similar to [splinter bomb](https://wiki.spiralknights.com/Deadly_Splinter_Bomb), which uses luminite, but also is referred to as made of a synthetic mineral, yet capable of charge: `A large chunk of synthetic mineral primed with a potent explosive` ([splinter bomb](https://wiki.spiralknights.com/Deadly_Splinter_Bomb)). This can be resolved through a thought, that the bombs also attempt to use charged minerals, then, salt would change its color as seen with other minerals.
+  A conflict may arise here, one related to the design of [salt bomb](https://wiki.spiralknights.com/Rock_Salt_Bomb), as it is very similar to [splinter bomb](https://wiki.spiralknights.com/Deadly_Splinter_Bomb), which uses Luminite, but also is referred to as made of a synthetic mineral, yet capable of charge: `A large chunk of synthetic mineral primed with a potent explosive` ([splinter bomb](https://wiki.spiralknights.com/Deadly_Splinter_Bomb)). This can be resolved through a thought, that the bombs also utilize charged minerals, then, salt would change its color as seen with other minerals.
 
 - Moonstone is seen to glow, paralleling dark matter ritual circles, and other previous examples, including Moorcroft Manor's ritual site.
 
@@ -2908,7 +2934,9 @@ While preserving electrical motif, those writings could be either of everfrost, 
 
   Rock Salt of [Pinch of Salt](https://wiki.spiralknights.com/A_Pinch_of_Salt) at the [Research Site](https://wiki.spiralknights.com/A_Pinch_of_Salt#Gate_Map) does not glow, which would most definitely explude it as a candidate for nature of glow at Amu-Sol or Ancient Grove.
 
-Due to everfrost's themes and more explored applications of moonstone, we suggest, that an underlying logic connects the two, but, as far as designs go, specifically of Triglav, mentioned earlier, we consider _writings of Amu-Sol to be made of moonstone_, while _Call of The Colossi mineral remains ambigious, potentially moonstone_, too.
+Due to everfrost's themes and more explored applications of moonstone, we suggest, that an underlying logic connects the two, but, as far as designs go, specifically of Triglav, mentioned earlier, we consider writings of Amu-Sol to be made of everfrost through its reaffirmation of the similarity of everfrost to minerals.
+
+Through this connection the initial conflict of differing appearance of Everfrost Tower can be resolved.
 
 ##### Apocrean Circles
 
