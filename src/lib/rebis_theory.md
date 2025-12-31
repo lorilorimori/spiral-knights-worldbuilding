@@ -2903,7 +2903,7 @@ One element from the patterns found earlier we can attempt to distill. In alchem
 
 Apart from those ideas, the theme of Rock Salt lacking infusion and through this attracting everything is also found in one other instance of the setting, it will be explored later.-->
 
-##### Amu-Sol's Writings
+##### Writings Of Amu-Sol
 
 The writings, connecting treasure boxes on the solid ground around the everfrost tower would be not of rock salt or everfrost, as the circles glow, so we are left with an aforerementioned potentioal of moonstone being used.
 
@@ -2938,25 +2938,27 @@ Due to everfrost's themes and more explored applications of moonstone, we sugges
 
 Through this connection the initial conflict of differing appearance of Everfrost Tower can be resolved.
 
-##### Apocrean Circles
+##### Apocrean Ritual Circles and Eldritch Narrative
 
 Where Underworld is present, there we expect ritual circles to be drawn. So far we have related the function of ritual circles to security and transportation. The circles are drawn with a select mineral.
 
-For Underworld it is dark matter and potentially moonstone. Earlier we have proposed a nature of the relation between properties of minerals and greater concept of a souls and energy as all being containers for a vague and omnipresent type of energy, which allows both for complex mechanisms and magic to function.
+For Underworld it is dark matter, potentially moonstone and everfrost. Earlier we have proposed a nature of the relation between properties of minerals and greater concept of a souls and energy as all being containers for a vague and omnipresent type of energy, which allows both for complex mechanisms and magic to function.
 
 With this, we now have to move to the Apocrean Realm and its relation to the ritual circles.
 
 In a reveal of inner appearances of the Apocrean Realm across its adjacent location, there are [yellow or gold ritual circles](https://wiki.spiralknights.com/File:SotA-Gameplay_End.png) at the [Departure](https://wiki.spiralknights.com/Shroud_of_the_Apocrea/Departure) and [Grasping Plateau](https://wiki.spiralknights.com/Shroud_of_the_Apocrea/The_Grasping_Plateau) during [Shroud of Apocrea mission](https://wiki.spiralknights.com/Shroud_of_the_Apocrea_(Mission)).
 
-Those patterns have [less common shape](https://wiki.spiralknights.com/File:SotA-Gameplay_End.png), yet seem to be made of seemingly known mineral of [luminite](https://wiki.spiralknights.com/Luminite#Luminite): `A fabled mineral of a radiant, golden color said to contain the faith, wisdom, and zeal of the life surrounding it`.
+Those patterns have [less common shape](https://wiki.spiralknights.com/File:SotA-Gameplay_End.png), a __floral pattern reminiscent of Nature Sprites'__. The circles are made of a yellow mineral, which so far lacks association with souls other than symbolic, we may identify it as [luminite](https://wiki.spiralknights.com/Luminite#Luminite): `A fabled mineral of a radiant, golden color said to contain the faith, wisdom, and zeal of the life surrounding it`, in order to reduce amount of unadaentified mineral, similar to appearance of Everfrost Pillar and [glowing writings across Amu-Sol](#writings-of-amu-sol).
 
-Apocrea, by being inspired by Lovecraftian eldritch deities, given this theme, may be preceived as one of the first civilizations, potentially preceding even Underworld, due to the trope behind its inspiration.
+Apocrea, by being inspired by Lovecraftian eldritch deities, given this themes, may be preceived as one of the first civilizations, potentially preceding even Underworld, due to the trope behind its inspiration, a _civilization as old as reality itself_.
 
-If we to take this generalized idea of eldritch beings and apply to the setting, then ritual circles would be one of the most ancient methods of using magic across known realms --  a notion we suggested to exist at the beginning, as we [compared grim gates and ritual circles in their transportation capabilities and limitations](#summoning-from-underworld).
+If we to take this generalized idea of eldritch beings and apply to the setting, then _ritual circles would be one of the most ancient methods of using magic across known realms_ --  a notion we suggested to exist at the beginning, as we [compared grim gates and ritual circles in their transportation capabilities and limitations](#summoning-from-underworld), but at significantly lesser scope of strictly development of Underoworld and its introduction of this technolofy to civilizations of material realm.
 
-In that case, ritual circles could originate from Apocrean Realm, and only then be adapted by Underworld with more occult motifs of `The Key of Solomon the King`.
+Within an updated framing which includes Apocrean Realm, ritual circles could originate from Apocrean Realm, and only then be adapted by Underworld with more occult motifs of `The Key of Solomon the King`, reminiscent of the _occult motifs_ of South and West associtaed at their core with traces of eldritch being on Earth within Lovecraft's fictional universe, reflected in character of `Abdul Alhazred`, `Joseph Curwen` and `Randolph Carter`, -- __exploring through their stories effects of eldritch reality onto normalcy__.
 
-Whether it is the Underworld or Apocrean Relam to be the source of the circles, it would reach material realm, and due to more notable presence of Underworld predominantly across Clockworks, we suggest, this was achieved through Underworld.
+This pattern of exploration, while negligible, we suggest, is found in relation to Dark Matter throughout aforementioned and yet unexplored narratives involving both Dark Matter itself as well as other minerals.
+
+##### Presence of Apocrean Ritual Circles
 
 Then it is the nature of Apocrean ritual circles which remains unknown. Why, potentially, luminite was applied for those circles, specifically, given context of [Departure](), to souls? Is luminite connected to the idea of [minerals defining pentacle's application and proper function](#ritual-circles-circle-of-art-pentacles) as proposed in the analysis of [fiendish glyphs](#fiendish-glyphs)?
 
