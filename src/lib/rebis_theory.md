@@ -2938,7 +2938,7 @@ Due to everfrost's themes and more explored applications of moonstone, we sugges
 
 Through this connection the initial conflict of differing appearance of Everfrost Tower can be resolved.
 
-##### Apocrean Ritual Circles and Eldritch Narrative
+##### Lovecraftian Narrative
 
 Where Underworld is present, there we expect ritual circles to be drawn. So far we have related the function of ritual circles to security and transportation. The circles are drawn with a select mineral.
 
@@ -2946,21 +2946,33 @@ For Underworld it is dark matter, potentially moonstone and everfrost. Earlier w
 
 With this, we now have to move to the Apocrean Realm and its relation to the ritual circles.
 
-In a reveal of inner appearances of the Apocrean Realm across its adjacent location, there are [yellow or gold ritual circles](https://wiki.spiralknights.com/File:SotA-Gameplay_End.png) at the [Departure](https://wiki.spiralknights.com/Shroud_of_the_Apocrea/Departure) and [Grasping Plateau](https://wiki.spiralknights.com/Shroud_of_the_Apocrea/The_Grasping_Plateau) during [Shroud of Apocrea mission](https://wiki.spiralknights.com/Shroud_of_the_Apocrea_(Mission)).
+In a reveal of appearances of the Apocrean Realm through adjacent to it location, there are [yellow or gold ritual circles](https://wiki.spiralknights.com/File:SotA-Gameplay_End.png) at the [Departure](https://wiki.spiralknights.com/Shroud_of_the_Apocrea/Departure) and [Grasping Plateau](https://wiki.spiralknights.com/Shroud_of_the_Apocrea/The_Grasping_Plateau) during [Shroud of Apocrea mission](https://wiki.spiralknights.com/Shroud_of_the_Apocrea_(Mission)).
 
-Those patterns have [less common shape](https://wiki.spiralknights.com/File:SotA-Gameplay_End.png), a __floral pattern reminiscent of Nature Sprites'__. The circles are made of a yellow mineral, which so far lacks association with souls other than symbolic, we may identify it as [luminite](https://wiki.spiralknights.com/Luminite#Luminite): `A fabled mineral of a radiant, golden color said to contain the faith, wisdom, and zeal of the life surrounding it`, in order to reduce amount of unadaentified mineral, similar to appearance of Everfrost Pillar and [glowing writings across Amu-Sol](#writings-of-amu-sol).
+Those patterns have [less common shape](https://wiki.spiralknights.com/File:SotA-Gameplay_End.png), a floral pattern reminiscent of Nature Sprites' magic and [magic of Mystical Tome Stand](https://wiki.spiralknights.com/Mystical_Tome_Stand#Mystical_Tome_Stand).
 
-Apocrea, by being inspired by Lovecraftian eldritch deities, given this themes, may be preceived as one of the first civilizations, potentially preceding even Underworld, due to the trope behind its inspiration, a _civilization as old as reality itself_.
+The circles are made of a yellow mineral, which so far lacks association with souls other than symbolic, we may identify it as [Luminite](https://wiki.spiralknights.com/Luminite#Luminite): `A fabled mineral of a radiant, golden color said to contain the faith, wisdom, and zeal of the life surrounding it`, in order to reduce amount of unadaentified mineral, similar to appearance of Everfrost Pillar and [glowing writings across Amu-Sol](#writings-of-amu-sol).
 
-If we to take this generalized idea of eldritch beings and apply to the setting, then _ritual circles would be one of the most ancient methods of using magic across known realms_ --  a notion we suggested to exist at the beginning, as we [compared grim gates and ritual circles in their transportation capabilities and limitations](#summoning-from-underworld), but at significantly lesser scope of strictly development of Underoworld and its introduction of this technolofy to civilizations of material realm.
+Apocrea, by being inspired by Lovecraftian eldritch deities, given this themes, may be preceived as one of the first civilizations, potentially preceding even Underworld, due to the nature of the source material, a _civilization as old as reality itself_.
 
-Within an updated framing which includes Apocrean Realm, ritual circles could originate from Apocrean Realm, and only then be adapted by Underworld with more occult motifs of `The Key of Solomon the King`, reminiscent of the _occult motifs_ of South and West associtaed at their core with traces of eldritch being on Earth within Lovecraft's fictional universe, reflected in character of `Abdul Alhazred`, `Joseph Curwen` and `Randolph Carter`, -- __exploring through their stories effects of eldritch reality onto normalcy__.
+<!--and at its extreme end -- the case of Azathoth's act of dreaming and its court, -- directly responsible for existence. Here we also note on the motif of _dreaming as an act of creation or definition of reality_, as in case of Azathoth his perpetual dream is the humananity-inhabited reality.-->
 
-This pattern of exploration, while negligible, we suggest, is found in relation to Dark Matter throughout aforementioned and yet unexplored narratives involving both Dark Matter itself as well as other minerals.
+If we to take this generalized idea of eldritch beings and apply to the setting, then _ritual circles would be one of the most ancient methods of using magic across known realms_ -- a notion we have suggested to exist at the beginning, as we [compared grim gates and ritual circles in their transportation capabilities and limitations](#summoning-from-underworld), but at significantly lesser scope of strictly Underoworld and introduction of this technology to civilizations of material realm.
 
-##### Presence of Apocrean Ritual Circles
+Within this updated framing -- which includes Apocrean Realm, -- ritual circles could originate from Apocrean Realm, and only then be adapted by Underworld with more occult motifs applied onto them through `The Key of Solomon the King`.
 
-Then it is the nature of Apocrean ritual circles which remains unknown. Why, potentially, luminite was applied for those circles, specifically, given context of [Departure](), to souls? Is luminite connected to the idea of [minerals defining pentacle's application and proper function](#ritual-circles-circle-of-art-pentacles) as proposed in the analysis of [fiendish glyphs](#fiendish-glyphs)?
+This proposed reversal in the perception of the ritual -- as initially an eldritch device becoming one of colloqua means of communication with the immaterial and spiritual, with inclusion and base of eldritch existence, is reminiscent of the _occult motifs_ of South and West associtaed at their core with traces of eldritch beings on Earth of Lovecraft's initial fictional universe, _Yog-Sothothery_, reflected in character of `Abdul Alhazred`, `Joseph Curwen`, `Randolph Carter` and others who are presented as _bearers and practitioners_ of the knowledge recored in Necronomicon.
+
+It is through those characters and their narratives an __exploration of effects of eldritch reality onto normalcy__ is performed.
+
+In case of Spiral knights, Underworld and primarily Undercorp becomes so far the primary carrier of the occult or forbidden knowledge. There are other instances of a carrier, such as Owlites and to smaller degree gremlins, Almirians and Isorans, but as each of those civilizations relates back to Underworld due to nature of the _soul, energy and curse meachnics_, will be covered separately while deepening the image of Underworld as _far more expansive in its influence_.
+
+This pattern of exploration, while negligible, we propse, also _manifests in relation and application of Dark Matter_ throughout aforementioned and yet unexplored narratives involving both Dark Matter itself, as well as other minerals.
+
+#### Apocrean Ritual Circles
+
+Then it is the nature of Apocrean ritual circles which remains unknown. Why potentially Luminite was applied for those circles specifically, and given context of [Departure]() made _to be associated with souls_?
+
+Is Luminite connected to the idea of [minerals defining pentacle's application and proper function](#ritual-circles-circle-of-art-pentacles) as proposed in the analysis of [fiendish glyphs](#fiendish-glyphs)?
 
 The only proposal so far we possess is the idea of juxtaposing the Sun, as luminite, to universal and omnipotent darkness, one referred by Echo Stones found in the [Sanctuary](): `HOLD DEARLY THIS FIRE IN YOU, FOR DARKNESS WILL CONSUME ALL THE NIGHT IF ITS STARS BEGIN TO FADE` ([Echo Stone: Royal Jelly Palace](https://wiki.spiralknights.com/Echo_Stone:_Royal_Jelly_Palace)), as potentially extended by the Swarm, given Sleeeper's narrative. We will keep a more general _idea of Apocrean darkness possessing an eldritch nature_.
 
