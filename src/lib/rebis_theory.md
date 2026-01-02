@@ -2938,11 +2938,13 @@ Due to everfrost's themes and more explored applications of moonstone, we sugges
 
 Through this connection the initial conflict of differing appearance of Everfrost Tower can be resolved.
 
-##### Lovecraftian Narrative
+#### Apocrean Ritual Circles
 
 Where Underworld is present, there we expect ritual circles to be drawn. So far we have related the function of ritual circles to security and transportation. The circles are drawn with a select mineral.
 
 For Underworld it is dark matter, potentially moonstone and everfrost. Earlier we have proposed a nature of the relation between properties of minerals and greater concept of a souls and energy as all being containers for a vague and omnipresent type of energy, which allows both for complex mechanisms and magic to function.
+
+##### Lovecraftian Narrative
 
 With this, we now have to move to the Apocrean Realm and its relation to the ritual circles.
 
@@ -2968,19 +2970,31 @@ In case of Spiral knights, Underworld and primarily Undercorp becomes so far the
 
 This pattern of exploration, while negligible, we propse, also _manifests in relation and application of Dark Matter_ throughout aforementioned and yet unexplored narratives involving both Dark Matter itself, as well as other minerals.
 
-#### Apocrean Ritual Circles
+##### Biblical Narrative
 
-Then it is the nature of Apocrean ritual circles which remains unknown. Why potentially Luminite was applied for those circles specifically, and given context of [Departure]() made _to be associated with souls_?
+Then it is the nature of Apocrean ritual circles which remains unknown. Why Luminite as the only gold-colored mineral was applied for those circles specifically, and given context of [Departure]() made _to be associated with souls_ apart from [minerals defining pentacle's application and function](#ritual-circles-circle-of-art-pentacles) as proposed in the analysis of [fiendish glyphs](#fiendish-glyphs)?
 
-Is Luminite connected to the idea of [minerals defining pentacle's application and proper function](#ritual-circles-circle-of-art-pentacles) as proposed in the analysis of [fiendish glyphs](#fiendish-glyphs)?
+We offer a symbolic framework, which may tie Apocrea, souls and application of Luninite together.
 
-The only proposal so far we possess is the idea of juxtaposing the Sun, as luminite, to universal and omnipotent darkness, one referred by Echo Stones found in the [Sanctuary](): `HOLD DEARLY THIS FIRE IN YOU, FOR DARKNESS WILL CONSUME ALL THE NIGHT IF ITS STARS BEGIN TO FADE` ([Echo Stone: Royal Jelly Palace](https://wiki.spiralknights.com/Echo_Stone:_Royal_Jelly_Palace)), as potentially extended by the Swarm, given Sleeeper's narrative. We will keep a more general _idea of Apocrean darkness possessing an eldritch nature_.
+Through Danford Apocrea is characterised as an agent of negation: `The daylight, the starlight; all hope is merely waiting for their dark shroud to return this cosmic play to its primordial black` ([Allister Danford, Dean of Antiquities](https://forums.spiralknights.com/en/node/91276)).
 
-There is a ray of light emanating from the floor surrounded by the circle, implying a portal, similar to the elevator's exit purple portal, which itself is identical to the portal which transports the knight to the [Obsidian Nexus]() in the first place.
+The primordial black is similar to the character Echo Stones give to the Swarm: `HOLD DEARLY THIS FIRE IN YOU, FOR DARKNESS WILL CONSUME ALL THE NIGHT IF ITS STARS BEGIN TO FADE` ([Echo Stone: Royal Jelly Palace](https://wiki.spiralknights.com/Echo_Stone:_Royal_Jelly_Palace)).
 
-As for the shape of those writings, they are reminiscent of the floral, nature-inspired designs of magic belonging to the [Spirit Mother and Nature Sprites](#almire-and-spirit-mother), as aura, found surrounding the spirit wells of [Charred Court of Firestorm Citadel](). What those floral patterns are meant to represent?
+While the Swarm if not the focus the similarity of being _existential threats_ are a chared trait of both Apocrea and the Swarm.
 
-This relation to light and protection may be also suggested by the several types of puzzles within the [Grasping Plateau](https://wiki.spiralknights.com/Shroud_of_the_Apocrea/The_Grasping_Plateau) -- specifially, the locations, involving both purple rirutal cirrcles and gold, ones of luminite, which secure the souls.
+The Luminite, which we identified as the only mineral of yellow color to exist in abundance, other than mineral of Core's gold keys, is described as `A fabled mineral of a radiant, golden color said to contain the faith, wisdom, and zeal of the life surrounding it` ([Luminite](https://wiki.spiralknights.com/Mineral#Luminite)).
+
+As the souls are a desirable object of Apocrea's intent -- `Only souls keep these engines roaring, heard screaming across distant stars. Only souls can fill their void, sublime in its vast emptiness. Oh such beautiful souls`, -- to set up traps -- `The Apocrea are stuff of nightmares: a terrible legion of otherworldly phantasms whose only ambition seems to be trapping and devouring the souls of all life. Though you may venture beyond this nexus, you will undoubtedly fall into one of their traps along the way` ([Shroud of the Apocrea - The Obsidian Nexus - Lost Soul](https://wiki.spiralknights.com/The_Obsidian_Nexus)), -- and as souls are associated with thematically sun-based mineral, the __souls themselves become an extentions of that light__.
+
+This is a classic in terms of themes scenario, which emerges from a confrontation of eternal light and darkness, but reframed through a culture of 21st century.
+
+##### Function of Luminite for Souls
+
+There is a ray of light emanating from the floor surrounded by the circle, implying a portal, similar to the elevator's exit purple portal, which itself is identical to the portal which transports the knight to the [Obsidian Nexus]() in the first place. Through the portan consistenly harmless lost souls emerge upwards. While we are unaware of the nature of that portal, it offers a possibility of APocrean rerlam being connected to other relams, including material realm as well as potentially other realms.
+
+<!--As for the shape of those writings, they are reminiscent of the floral, nature-inspired designs of magic belonging to the [Spirit Mother and Nature Sprites](#almire-and-spirit-mother), as aura, found surrounding the spirit wells of [Charred Court of Firestorm Citadel](). What those floral patterns are meant to represent?-->
+
+The yellow ritual circles, potentially related to act of protection may be also suggested by the several types of puzzles within the [Grasping Plateau](https://wiki.spiralknights.com/Shroud_of_the_Apocrea/The_Grasping_Plateau) -- specifially, the locations, involving both purple rirutal cirrcles and gold, ones of luminite, which secure the souls.
 
 Most important among those is a [pentacle of 3 stacked on top of each other, floating circles surrounding an obelisk](https://wiki.spiralknights.com/File:Devilite_Apocrea_Ritual.png), as this is the only instance of ritual circle being suspended, with a corresponding, albeit lesser in scale and complexity pentacle, surrounding another obelisk, [securing souls and made of luminite](https://wiki.spiralknights.com/File:Level_Shroud_of_the_Apocrea_puzzle_tower_gold.png), a _behavior similar to everfrost and warding nature of ritual circles_.
 
