@@ -2836,7 +2836,13 @@ While each of those sprite has different symbolic meaning and, potentially, phys
 
 Apocrean Realm is the other actor, which works with souls, and is seen to hunt and capture them as the [Apocrean Harvester's ability to drain souls](https://wiki.spiralknights.com/Apocrean_Harvester). The above description, as we will discuss further, is closely similar to the idea of [Apocrean Engines](#analysis-of-apocrean-realm), as far as [Allister Danford's metaphors allow](https://wiki.spiralknights.com/Shroud_of_the_Apocrea): `Only souls keep these engines roaring, heard screaming across distant stars. Only souls can fill their void, sublime in its vast emptiness. Oh such beautiful souls! Bright and vibrant like fruit warming on the branch from a summer’s sun, longing for the pull of the earth below, the chance to seed and grow and birth anew`.
 
-At that we come to a coloowing proposal. If _everfrost can interface with souls_, as _dark matter and other mineral are used as power source_, and as _Apocrean narrative positions souls as fuel_ -- __could capacity of everfrost to interface with souls be extrapolated into the rest of minerals__?
+If:
+
+- _everfrost can interface with souls_
+- as _dark matter and other mineral are used as power source_;
+- as _Apocrean narrative positions souls as fuel_;
+
+__Could capacity of everfrost to interface with souls be extrapolated into the rest of minerals__?
 
 Everfrost's proximity to minerals both through its narrative and physical properties can be seen as an emergent property, which deepens the worldbuilding aspect of the setting while providing means of explaining multiplle supernatural phenomena through a forming __symbolic framework__ _of a spiritual, yet transactional and quantifiable value of a soul_.
 
@@ -2877,6 +2883,15 @@ Then, as we have proposed earlier the _industrialisation of transportation -- fr
 
 Grim gates in that regard would become a technical achievement and an advancement, as devilite are not required to carry dark matter, as its energy in different form is present within _glyphs_ -- more [compact, efficient and multipurposed medium](#glyph-technology-data-and-energy-storage).
 
+##### Power of Souls and Minerals
+
+As everfrost is particularly similar to minerals, and minerals have to draw their power of a charged state from unknown source, with addition of devilite evolution of technology, we have arrived to a symbolic framework, where the energy becomes the foundation for souls, minerals and glyphs, wherein each of those quantifiable objects becomes a container for energy and means of its transportation and utilization through select means, a technology.
+
+The mediums of that energy can be sentient, as souls and [wisps](#wisps-and-energy), and as minerals and glyphs.
+
+If we add the technological advancement of Isorans to this system, we can identify the Energy which Spiral Order utilizes for operation of their weapons, as the most plausible identity of the aforementioned energy, potentially filtered through Isoran and gremlin technology as a recognizable blue-hued rectangular pattern.
+
+
 <!--##### Rock Salt and Alchemical Primes
 
 Apart from regular minerals, there is [Rock Salt](https://wiki.spiralknights.com/Rock_Salt): `A small amount of Clockworks mineral that's been infused with absolutely nothing. It hungrily draws at nearby essences and flavors, making it a staple in cooking, and the bane of jellies everywhere`.
@@ -2903,7 +2918,7 @@ One element from the patterns found earlier we can attempt to distill. In alchem
 
 Apart from those ideas, the theme of Rock Salt lacking infusion and through this attracting everything is also found in one other instance of the setting, it will be explored later.-->
 
-##### Writings Of Amu-Sol
+#### Writings Of Amu-Sol
 
 The writings, connecting treasure boxes on the solid ground around the everfrost tower would be not of rock salt or everfrost, as the circles glow, so we are left with an aforerementioned potentioal of moonstone being used.
 
@@ -2990,17 +3005,21 @@ This is a classic in terms of themes scenario, which emerges from a confrontatio
 
 ##### Function of Luminite for Souls
 
-There is a ray of light emanating from the floor surrounded by the circle, implying a portal, similar to the elevator's exit purple portal, which itself is identical to the portal which transports the knight to the [Obsidian Nexus]() in the first place. Through the portan consistenly harmless lost souls emerge upwards. While we are unaware of the nature of that portal, it offers a possibility of APocrean rerlam being connected to other relams, including material realm as well as potentially other realms.
+There is a ray of light emanating from the floor surrounded by the circle, implying a portal, similar to the elevator's exit purple portal, which itself is identical to the portal which transports the knight to the [Obsidian Nexus]() in the first place. Through the portan consistenly harmless lost souls emerge upwards. While we are unaware of the nature of that portal, it offers a possibility of Apocrean realm ro be connected to other relams, including material realm, as well as potentially other realms, _if we were to extrapolate the instances of Apocrean purple portals as revealing deeper depths of Apocrean realm_.
 
-<!--As for the shape of those writings, they are reminiscent of the floral, nature-inspired designs of magic belonging to the [Spirit Mother and Nature Sprites](#almire-and-spirit-mother), as aura, found surrounding the spirit wells of [Charred Court of Firestorm Citadel](). What those floral patterns are meant to represent?-->
+For the knight, there are ritual circles placed an the entrance and exit elevator platforms, which may be interpreted both as means of _transportation_ and _warding_.
 
-The yellow ritual circles, potentially related to act of protection may be also suggested by the several types of puzzles within the [Grasping Plateau](https://wiki.spiralknights.com/Shroud_of_the_Apocrea/The_Grasping_Plateau) -- specifially, the locations, involving both purple rirutal cirrcles and gold, ones of luminite, which secure the souls.
+<!--The shape of those writings, as we earlier noted on the floral, nature-inspired motif, they are similar to magic belonging to the [Spirit Mother and Nature Sprites](#almire-and-spirit-mother), an aura, found surrounding the spirit wells of [Charred Court of Firestorm Citadel]().-->
 
-Most important among those is a [pentacle of 3 stacked on top of each other, floating circles surrounding an obelisk](https://wiki.spiralknights.com/File:Devilite_Apocrea_Ritual.png), as this is the only instance of ritual circle being suspended, with a corresponding, albeit lesser in scale and complexity pentacle, surrounding another obelisk, [securing souls and made of luminite](https://wiki.spiralknights.com/File:Level_Shroud_of_the_Apocrea_puzzle_tower_gold.png), a _behavior similar to everfrost and warding nature of ritual circles_.
+The yellow ritual circles, potentially related to act of protection or weaponized captive function may be also suggested by the several types of puzzles within the [Grasping Plateau](https://wiki.spiralknights.com/Shroud_of_the_Apocrea/The_Grasping_Plateau) -- specifially, the locations, involving both purple ritual circles and gold, ones of Luminite, _which secure the souls_.
 
-The pattern of the dark matter pentacle, apart from summoning devilites once traversed, is most similar to a depiction of alchemy orb with its 2 arms. We make this connection due to other appearance of the stylized pattern of the orb of alchemy, such as [Tomes of Rage](https://wiki.spiralknights.com/Tome_of_Rage), which contains this pattern on its cover. We will keep this tome in mind, as we will discuss it properly in relation to Owlites.
+Among those circles there is a [pentacle of 3 stacked on top of each other, floating circles surrounding an obelisk](https://wiki.spiralknights.com/File:Devilite_Apocrea_Ritual.png), as this is the only instance of ritual circle being suspended, with a corresponding, albeit lesser in scale and complexity pentacle, surrounding another obelisk, [indicating placement of souls and made of Luminite](https://wiki.spiralknights.com/File:Level_Shroud_of_the_Apocrea_puzzle_tower_gold.png), a _behavior similar to everfrost and warding nature of ritual circles_ but utilized in the manner, which would allow to hold in-place [now-freed souls](https://wiki.spiralknights.com/Freed_Soul#Freed_Soul).
+
+The pattern of the dark matter pentacle, apart from summoning devilites once traversed, is most similar to a depiction of _alchemy orb with its 2 gold arms_. We make this connection due to other appearance of the stylized pattern of the orb of alchemy, such as [Tomes of Rage](https://wiki.spiralknights.com/Tome_of_Rage), which contains this pattern on its cover. We will keep this tome and general design in mind, as we will discuss it in relation to Owlites.
 
 If we assume that the nature of those circles is one of minerals, then it would provide more instances of minerals capable of floating, as their fragments freely surround the main body of a mineral pillar, and more importantly, elaborating on the _multipurpose application of minerals_.
+
+While so far we have omitted the appearance and description of [freed souls](https://wiki.spiralknights.com/Freed_Soul#Freed_Soul), we will keep them in mind as we discuss a particular _motif of chains_ and captivity both in relation to those souls, as well as other subtle instances of chains being a symbol of magical restrains.
 
 #### Cradle Metaphysics
 
