@@ -2985,7 +2985,7 @@ In case of Spiral knights, Underworld and primarily Undercorp becomes so far the
 
 This pattern of exploration, while negligible, we propse, also _manifests in relation and application of Dark Matter_ throughout aforementioned and yet unexplored narratives involving both Dark Matter itself, as well as other minerals.
 
-##### Biblical Narrative
+##### Apocrea's Goal as Negation of Existence
 
 Then it is the nature of Apocrean ritual circles which remains unknown. Why Luminite as the only gold-colored mineral was applied for those circles specifically, and given context of [Departure]() made _to be associated with souls_ apart from [minerals defining pentacle's application and function](#ritual-circles-circle-of-art-pentacles) as proposed in the analysis of [fiendish glyphs](#fiendish-glyphs)?
 
@@ -3003,6 +3003,10 @@ As the souls are a desirable object of Apocrea's intent -- `Only souls keep thes
 
 This is a classic in terms of themes scenario, which emerges from a confrontation of eternal light and darkness, but reframed through a culture of 21st century.
 
+In particular, when perceived from a perspective of the living or any sentient entity which does not share Apocrea's intent, the presented existential threat of `return this cosmic to its primordial black` creates an environment or a narrative wherein a nuance of evil, herein being Apocrea and later the Swarm, is removed -- as Apocrea represents a power of _negation of existence in its conventional sence from perspective of the living_.
+
+The `primordial black` while will be anayzed from a perspective of an alchemical narrative, most plausibly _disallows a nuance essential to complex existence_, hence we will refer to this narrative as one following [black-and-white morality](https://tvtropes.org/pmwiki/pmwiki.php/Main/BlackAndWhiteMorality), representative of an unredimable evil -- an actor of negation, -- positioned against a general good, -- all of the living, -- framed in a context of a battle for existence itself, _rather than_ for a control or reign over it.
+
 ##### Function of Luminite for Souls
 
 There is a ray of light emanating from the floor surrounded by the circle, implying a portal, similar to the elevator's exit purple portal, which itself is identical to the portal which transports the knight to the [Obsidian Nexus]() in the first place. Through the portan consistenly harmless lost souls emerge upwards. While we are unaware of the nature of that portal, it offers a possibility of Apocrean realm ro be connected to other relams, including material realm, as well as potentially other realms, _if we were to extrapolate the instances of Apocrean purple portals as revealing deeper depths of Apocrean realm_.
@@ -3011,7 +3015,7 @@ For the knight, there are ritual circles placed an the entrance and exit elevato
 
 <!--The shape of those writings, as we earlier noted on the floral, nature-inspired motif, they are similar to magic belonging to the [Spirit Mother and Nature Sprites](#almire-and-spirit-mother), an aura, found surrounding the spirit wells of [Charred Court of Firestorm Citadel]().-->
 
-The yellow ritual circles, potentially related to act of protection or weaponized captive function may be also suggested by the several types of puzzles within the [Grasping Plateau](https://wiki.spiralknights.com/Shroud_of_the_Apocrea/The_Grasping_Plateau) -- specifially, the locations, involving both purple ritual circles and gold, ones of Luminite, _which secure the souls_.
+The yellow ritual circles, potentially related to _act of protection_ or __weaponized captive function__ may be suggested by the several types of puzzles within the [Grasping Plateau](https://wiki.spiralknights.com/Shroud_of_the_Apocrea/The_Grasping_Plateau) -- specifially, the locations, involving both purple ritual circles and gold, ones of Luminite, _which secure the souls_.
 
 Among those circles there is a [pentacle of 3 stacked on top of each other, floating circles surrounding an obelisk](https://wiki.spiralknights.com/File:Devilite_Apocrea_Ritual.png), as this is the only instance of ritual circle being suspended, with a corresponding, albeit lesser in scale and complexity pentacle, surrounding another obelisk, [indicating placement of souls and made of Luminite](https://wiki.spiralknights.com/File:Level_Shroud_of_the_Apocrea_puzzle_tower_gold.png), a _behavior similar to everfrost and warding nature of ritual circles_ but utilized in the manner, which would allow to hold in-place [now-freed souls](https://wiki.spiralknights.com/Freed_Soul#Freed_Soul).
 
