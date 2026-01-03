@@ -2101,23 +2101,29 @@ Now we can explore possible explanations for this ship's presence on Cradle.
 
 ##### Haunted Vessel before Skylark
 
-From both warring sides starships are sent to search an energy source to assist at war: from Isora Skylark was sent, from Morai, on the other hand, a candidate can be presented in a form of ship which became the [Iron Hulk](https://wiki.spiralknights.com/Iron_Hulk). Far earlier, depending on Skylark physics. As we have concluded that [Skylark](#skylark) can travel large distances utilizing a technology, allowing for creating tunnels, we can suggest, that this vessel was launched far earlier in the past. Or, if we lean into more grounded interpretation of such type of interstallar travel, it would be Skylark, for which time has passed _relatively faster_, while the rest of the Universe had moved with its own pace, accumulating for hundereds of years on Cradle.
+A hypothetiocal narrative: from both warring sides starships are sent to search an energy source to assist at war. From Isora Skylark was sent, from Morai a candidate can be presented in a form of ship which became the [Iron Hulk](https://wiki.spiralknights.com/Iron_Hulk). this latter vessel would be launched far earlier, depending on Skylark physics. As we have concluded that [Skylark](#skylark) can travel large distances utilizing a technology, allowing for creating tunnels, we can suggest, that this vessel was launched far earlier in the past.
 
-Iron Hulk, for lack of a better term, either crash landed or was captured on Cradle, as there are [dry docks](https://wiki.spiralknights.com/Ghosts_in_the_Machine/Dry_Dock) within which the vessel is placed. Weather dry docks were constructed for the ship, while it was transported at lower depths, or the ship safely arrived there, is unknown. Given hostile nature of gremlins, we would suggests that the vessel was also shot down by gremlins.
+Or, if we lean into more grounded interpretation of such type of interstallar travel, it would be Skylark, for which time has passed _relatively faster_, while the rest of the Universe had moved with its own pace, accumulating for hundereds of years on Cradle. As the concept behind Skylark logic is not presented as central to the narrarive, we are leaning to an interpretation, where interstellar travel is instantaneous for any observer, removing time dilation from the narrative alltogether.
+
+Across both cases the state of haunting by undeath on Cradle would exist at least as old as this vessel.
+
+Iron Hulk -- the vessel, -- either crash landed or was captured on Cradle, as there are [identified dry docks](https://wiki.spiralknights.com/Ghosts_in_the_Machine/Dry_Dock) within which the vessel is placed. Weather dry docks were constructed for the ship, while it was transported at lower depths, or the ship safely arrived there, is unknown. Given hostile nature of gremlins, we would suggests that the vessel was also shot down by gremlins in a manner, similar to Skylark.
 
 Considering sheer amounts of resources required to build Clockworks, the ship and its layout had remained mostly untouched, but rather sealed in the docks, with the cargo bay remaining as it was, the fact that it remained may point to a fact that it was a risky operation to salvage it. There are constructs surrounding the ship, which are of gremlin origin, as well presence of souls and undead, including [undead Static Dreadnaughts](https://wiki.spiralknights.com/Static_Deadnaught).
 
-The only reason why gremlins had to contain it and not disassemble, is likely due to a greater risk introduced by the souls and gremlin vulnerability to shadow damage -- the latter _property explicitly weaponized_ by Seerus through [Dark Retribution](https://wiki.spiralknights.com/Dark_Retribution).
+The only reason why gremlins had to contain the vessel rather than disassemble it similar to deconstruction zones, is likely due to a greater risk introduced by the souls and gremlin vulnerability to shadow damage -- the latter _property explicitly weaponized_ by Seerus through [Dark Retribution](https://wiki.spiralknights.com/Dark_Retribution).
 
-The souls, as they are haunting the vessel, are most certainly _the vessel's crew_ influenced by the same phenomenon observed in the rest of the Clockworks and graveyards -- of spirit returning to material realm, as it was explored in the [graveyards section](#graveyards).
+#### Cradle Metaphysics: Part 1
 
-This would mean that Isorans are also capable of being transformed into the undead after initial death, as explored in the [corporeal body section](#corporeal-body), as their bones remain permanently animated by their souls.
+The souls, as they are haunting the vessel, are most certainly __the vessel's crew__ influenced by the same phenomenon observed in the rest of the Clockworks and graveyards -- of spirit returning to material realm, as it was explored in the [graveyards section](#graveyards).
 
-Then there is the crew at vessel's bridge. Their position indicated that the death was either sudden, or that they have ceased when the ship arrived to Cradle's surface, and that could be a reason behind haunting, as the undeath of Cradle is _not seemingly seen by the Spiral Order anywhere else_.
+Such interpretation of the fate of vessel's crew would fit with identification of _all zombies across Cradle as Isoran species_, while providing further detain on the life-cycle of death within those metaphysics.
 
-Yet, no other place apart from Cradle has the tendency of undead and spirits returning, meaning that the haunting had to happen on Cradle or in its proximity: `Why spirits return to the material realm is unknown` ([Weight of Darkness](https://wiki.spiralknights.com/Weight_of_Darkness)). This would not explain presence of [static souls](https://wiki.spiralknights.com/Static_Soul#Static_Soul), as the presence of souls on itself is a phenomenon, which, yet again, requires analysis of _Cradle itself and its unique metaphysics revolving around Underworld_.
+Crew' state would mean that Isorans are also capable of being transformed into the undead after initial death, as explored in the [corporeal body section](#corporeal-body), as their _bones remain permanently animated by their souls most of the time devoid of consciousness_.
 
-So far we would suggest crew's transformation to undead because of their proximity to Cradle.
+Then there is the crew at vessel's bridge. Their position indicated that the death was either sudden, or that they have ceased when the ship arrived to Cradle's surface, and that could be a reason behind haunting, as the undeath of Cradle is _not seemingly seen by the Spiral Order anywhere else_. At that, if such scenario had taken place, then anyone perishing in proximity of Cradle would be reanimated through __soul either returning to meterial realm or not allowed to leave it in the first place__.
+
+Yet, no other place apart from Cradle has the tendency of undead and spirits returning, other than potential outskirts of Apocrean Realm as there are distinct Lost Souls present, meaning that the haunting had to happen on Cradle or in its proximity: `Why spirits return to the material realm is unknown` ([Weight of Darkness](https://wiki.spiralknights.com/Weight_of_Darkness)). This would not explain presence of [static souls](https://wiki.spiralknights.com/Static_Soul#Static_Soul), as the presence of souls on itself is a phenomenon, which, yet again, requires analysis of _Cradle itself and its unique metaphysics revolving around Underworld_.
 
 And then there is a battlepod -- [Big Iron](https://wiki.spiralknights.com/The_Big_Iron#The_Big_Iron). Gremlins utilize battlepods in many instances, including rank missions. Presence of a unique battlepod within Isoran vessel is unconventional.
 
@@ -2137,7 +2143,13 @@ We can attempt to draw parallels with the events on Cradle in regards to the ves
 
 The entrapment part may be implied by the presence of gremlin constructs. And to go not so far ahead of the timeline, this is one of a few instances of gremlins building their own containments against the shadow-related entities.
 
-This would also suggest that some event might have caused this haunting. From many phenomenon related to undeath, energy of the Core may be seen as life-animating, could serve as a source which had caused the spirits to haunt the machines under currently unknown condition, potentially, through access to Underworld -- a phenomemnon similar in concept to one observed during [Shadowplay](https://wiki.spiralknights.com/Shadowplay): `Though the nature sprites have been steadily making progress in fighting the flames, something or someone has recently caused a violent resurgence in its destructive power. Spiral HQ requests that you gather together a crack squad of knights and return to the collapsing ruins of Firestorm Citadel in order to discover the source of the disturbance`, -- wherein activity of **the Core, its energy, was the source of curse's reanimation** _without Lord Vanaduke_ to serve as an `eternal will` for the citadel: `You can feel it in the smoldering air - an eternal will holding this place together, never allowing its inhabitants to rest. No creature deserves such a fate, it is beyond my understanding` ([Recon Module: Firestorm Citadel - Grantz](https://wiki.spiralknights.com/Artifact)).
+This would also suggest that some event might have caused this haunting. From many phenomenon related to undeath, energy of the Core may be seen as life-animating, could serve as a source which had caused the spirits to haunt the machines under currently unknown condition, potentially, through access to Underworld -- a phenomenon similar in concept to one observed during [Shadowplay](https://wiki.spiralknights.com/Shadowplay): `Though the nature sprites have been steadily making progress in fighting the flames, something or someone has recently caused a violent resurgence in its destructive power. Spiral HQ requests that you gather together a crack squad of knights and return to the collapsing ruins of Firestorm Citadel in order to discover the source of the disturbance`, -- wherein activity of **the Core, its energy, was the source of curse's reanimation** _without Lord Vanaduke_ to serve as an `eternal will` for the citadel: `You can feel it in the smoldering air - an eternal will holding this place together, never allowing its inhabitants to rest. No creature deserves such a fate, it is beyond my understanding` ([Recon Module: Firestorm Citadel - Grantz](https://wiki.spiralknights.com/Artifact)).
+
+With this we propose, that both a recount of spirits to material realm and animation of perished entities are the result of Core's energy-related effect. We can interpret the act of returning to metrial realm as soul's intent to live on, while the Core had offered a possibility of such transition, or, the souls is forbidden to move on. As Lord Vanaduke's initial analysis suggested that his will does not allow souls to move on, we have to consider such scenario at a planetary scale.
+
+While we do not possess an accurate explanation, the fact of Core's activity influenceing the curse at Firestorm Citadel leads us to carefully propose, that nature of undeath is universal, while energy of the __Core amplifies__ those physical processes, -- __thinnening the boundary between states of death and undeath__, -- and as a result, allowing not only souls to traverse across the realms with no issue, but entire regions, as the cases of Almirian Graveyards and Owlite Academy.
+
+#### Ghost in the Machine: Duality of Souls' intent
 
 Considering it, the battlepod may be seen as a _security measure installed by gremlins_.
 
@@ -3025,9 +3037,19 @@ If we assume that the nature of those circles is one of minerals, then it would 
 
 While so far we have omitted the appearance and description of [freed souls](https://wiki.spiralknights.com/Freed_Soul#Freed_Soul), we will keep them in mind as we discuss a particular _motif of chains_ and captivity both in relation to those souls, as well as other subtle instances of chains being a symbol of magical restrains.
 
-#### Cradle Metaphysics
+#### State of Cradle Metaphysics
 
-Owlites, Valkyries, and Kingdom of Almire are all far more aware of elemental and shadow damage by the time we discover them. And it is while the souls don't leave material realm on Cradle, and Spiral Order with Isorans existing for eons wasn't aware of likely supernatural nature shadow nor elemental physics for [eons](#chapter-v-Isorans).
+Owlites, Valkyries, and Kingdom of Almire are all far more aware of special damage types by the time Spiral Order discovers them in an environment where souls don't leave material realm on Cradle, and Spiral Order with Isorans existing for eons wasn't aware of likely supernatural nature shadow nor elemental physics for [eons](#chapter-v-Isorans).
+
+Then we have discovered that energy of the Core is the primary candidate for altered metaphysics of Cradle, as [explored through other than Skylark Isoran vessel during Ghost in The Machine danger mission](#cradle-metaphysics-part-1). More so, the spirits might not only return to material realm, but when their bodies perish on Cradle, they are either not allowed to move on into afterlife or Underworld or return back by instinct.
+
+In order to draw out a single proinciple behind this effect of Core's activity, we have proposed that the Core had thinned the boundary between state of the living and undead, which would allow for undeath to exist beyond Cradle.
+
+After this we have covered devilite activity and similarity of everfrost to minerals, proposing a fundamental common nature between minerals and everfrost, manifested and utilized in multiple methods, including powering tortodrones and ritual circles, wherein the latter drew its power from charged state of minerals.
+
+The charge of mineral is derived from it being a cntainer for the same type of energy, which provides value to souls for them to power Apocrean Engines, eventually leading to idea of Energy, which Spiral Order usulizes being a refined universal energy, which provides power to souls, glyphs and minerals.
+
+#### Cradle Metaphysics: Part 2
 
 Due to this vague timeline positioning, where in the Core became a tangible gremlin-aligned force, the knowledge of those elements could not be attained by a status quo of souls returning. Unless this state is what allowed for greater manipulation of magic, compared to [Arcana](https://wiki.spiralknights.com/Arcana): `An exceptional handgun that fires powerful, elemental shots that many Spiral Knights refer to as 'magic missiles'`.
 
