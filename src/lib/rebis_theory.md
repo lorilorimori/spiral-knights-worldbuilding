@@ -3047,7 +3047,11 @@ Owlites, Valkyries, and Kingdom of Almire are all far more aware of special dama
 
 Then we have discovered that energy of the Core is the primary candidate for altered metaphysics of Cradle, as [explored through other than Skylark Isoran vessel during Ghost in The Machine danger mission](#cradle-metaphysics-part-1). More so, the spirits might not only return to material realm, but when their bodies perish on Cradle, they are either not allowed to move on into afterlife being Underworld or return back by instinct, haunting the bones as zombies.
 
-In order to draw out a single proinciple behind this effect of Core's activity, we have proposed that _the Core had thinned the boundary between states of the living and undead_, which would allow for undeath to exist beyond Cradle, as well as acknowledge the outliers such as undeath of Almire.
+In order to draw out a single principle behind this effect of Core's activity, we have proposed that _the Core had_ __thinned the boundary between states of the living and death__, which would allow for undeath to exist beyond Cradle without Core's presence, as well as acknowledge the outliers such as undeath of Almire.
+
+_For the living,_ __presence of the Core amplifies life__ and [transcends time](#technology-alchemy-and-isoran-redesigns) _reminiscent of alchemy without a catalyst_ but by its own omnipresent and [foundational nature as energy](#energy), manifested through reincarnation of [battle sprites](#battle-sprites-energy-signature), tiers of Clockworks and existence of mist energy as a sign of _energy excess_ within Isoran worldview.
+
+If we had to develop this idea further, we would suggest the Core and consequently Cradle becoming a point in space where multiple realms intersect, similar to a concept of a World Tree -- Axus Mundi, -- through presence of Energy, which, if not unifies, at least connects those realms under a harmonic topology, countrary to Undercorp's invasive presence within material realm.
 
 After this we have covered devilite activity and similarity of everfrost to minerals, [proposing a fundamental common nature between minerals and everfrost](#minerals-and-souls-part-1), manifested and utilized in multiple methods, including powering tortodrones and ritual circles, wherein the latter drew its power from charged state of minerals.
 
@@ -3059,13 +3063,11 @@ Through nature of Black Kats we have proposed that aura, as much as a soul, is a
 
 #### Cradle Metaphysics: Part 2
 
-Due to this vague timeline positioning, where in the Core became a tangible gremlin-aligned force as part of Clockworks, the knowledge of those elements could not be attained by a status quo of souls returning. Unless this state is what allowed for greater manipulation of magic, compared to [Arcana](https://wiki.spiralknights.com/Arcana): `An exceptional handgun that fires powerful, elemental shots that many Spiral Knights refer to as 'magic missiles'`.
+The events of all of so far covered kingdoms are framed in a genre of fantasy, be it a cursed kingdom of Almire, mythology-inspired valkyries of heavenly kingdom, tortomega as forest titans, pre-industrial interventions of Underworld, or dark halls of a fallen Owlite Academy of Magics.
 
-The events of all of the kingdoms above, even without their details are framed in a genre of fantasy, be it a lost kingdom, mythology-inspired heavenly valkyries and earthly titans, interventions of Underworld, or dark halls of a fallen magic academy.
+Then there is the Core concealing Whitespace as completely alien to any other location, and the rest of Clockworks which hold and contain aforementioned individual regions. With the Core, the rest of megastructure -- Clockworks, -- is grouped together under current assumption of being man-made creation -- gremlins'.
 
-On the other hand there is the Core and its internal structure as completely alien to everything above, abstract.
-
-If we consider a possibility of the Whitespace, or what it was prior to the Core, being the reason for greater magical capabilities, and if all of civilizations above do belong to this single planet, - then the property of spirits returning to material realm would be connected to all of those magical phenomena, while justifying them.
+If we consider a possibility of the Whitespace in some physical shape to exist prior to construction of the Core not as a gremlin technology but as an artificial shell made of metal, how , or what it was prior to construction of the Core, being the reason for greater magical capabilities, and if all of civilizations above do belong to this single planet, - then the property of spirits returning to material realm would be connected to all of those magical phenomena, while justifying them without an explicit requirement for opeation of the Core as it work in a sealed state.
 
 If the effects of the Core observed, as of spirits returning to material realm, exist on their own, only being manifested in cases such of the [Ghost in The Machine](#ghosts-in-the-machine), then magic does exist separately from this metaphysical condition, allowing for all of the fantasy events to happen without being tied to the Core's internal logic. This seems as moe plausible solution so far, as Spiral Order was partially aware of elemental damage.
 
@@ -3100,7 +3102,7 @@ In other words, **excess presence of primordial energy of the Core accelerates n
 
 <!--Lastly, the we are yet to identify the time period of both [western-themed handguns](https://wiki.spiralknights.com/Antigua) and [corresponding armor sets](https://wiki.spiralknights.com/Gunslinger_Sash) to be identified, as well as of the [Cold Iron Vanquisher](https://wiki.spiralknights.com/Cold_Iron_Vanquisher), as they may stir in the correct direction the initial proposal described above.-->
 
-##### Consoles: Part 1 - Gremlin Containments and Consoles
+#### Consoles: Part 1 - Gremlin Containments and Consoles
 
 Gauntlet's second depth is a deconstruction zone with a nontrivial name -- `Reign of Fire` with characteristic presence of gremlins. Then there is Gauntlet's last depth -- [`Last Stand`](https://wiki.spiralknights.com/The_Gauntlet/Last_Stand), -- has architecture of the Scarlet Fortress and always has gremlins present at the final, fire-themed arena, accompanied by elite constructs and elemental fiery gun puppies.
 
