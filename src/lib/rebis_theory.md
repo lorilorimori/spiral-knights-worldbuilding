@@ -3129,8 +3129,22 @@ This arrangement of events may seem contradictive, as the Citadel is framed as a
 
 Across Cradle there is a perpetual, yet subtle presence of an eye, mainly recognized in its 2 distinct designs:
 
-- One we were referring as an antique design, seen, for example, on Heavy statues and Graviton Bombs.
-- The other is featureless, most commonly associated with the Shadow Lairs and curse, also found on Sealed Sword 4 and 5-star upgrades.
+- An _antique design_, seen across:
+
+  - _Heavy statues_
+  - _Graviton Bomb's front-facing plate_
+  - __Apparition during Graviton Bomb's explosion__
+  - Explosive attack of __the Collector__
+
+- A _featureless_ eye, commonly associated with:
+
+  - _Shadow Lairs' icon_
+  - _Curse status effect_
+  - _Sealed Sword and its seals_
+  - _Black Kat seals_
+  - _Tortodrones' shells_ at an enraged state
+  - _Tortodrone-derived Spiral Order equipment_
+  - _Enemy gates across the Core_
 
 Throughout this document we were referring to both instances collectively as an evil eye in order to distinguish this motif.
 
