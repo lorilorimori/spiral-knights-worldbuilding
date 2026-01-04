@@ -3157,7 +3157,7 @@ The evil eye design first appeared across [greavers' helms and wings](https://wi
 
 Eventually, it was adopted by Underworld's army as Greavers' helm was engraved with this eye, and as tortodrone stone shells were designed with this symbol in mind, only being revealed at tortodrones' enraged state. This development is reminiscent of _symbol of a spiral_ [as it was adopted](#omnipresence-of-the-spiral) _across the material realm_. But, as symbol of a spiral plausibly has metaphysical meaning, we would not discard such possibility for the eye, albeit with a lesser chance.
 
-##### Heavy Statue and Antique Evil Eye
+#### Heavy Statue and Antique Evil Eye
 
 We propose, that the _antique_ instance of an evil eye is the result of the collision of cultures -- introduction of Underworld and its occult physicality to titans' civilization, which had resulted in integration of fiendish evil eye into titans' designs, _as no Underworld-native object other than potential Graviton Bomb possess antique eye appearance_.
 
@@ -3175,7 +3175,7 @@ There are other gremlin-adjacent entities with cyclopean motif: [gremlin elite s
 
 Evidently, this motif of an eye persists over the ages across Cradle _and relates back to Underworld_.
 
-##### Grim Totems: Part 1
+#### Grim Totems: Part 1
 
 The eye symbolism as an initially organic design from Greavers' wings may contribute to a general _anatomical motif_ of Underowld devices prior to Undercorp -- specifically, faces of grim totems and faces of locked enemy gates across Clockworks. Grim totems will be later analyzed in the context of Almire. But, one concept worth mentioning here is the potential relation of grim totems to the [state of Cradle as allowing for spirits to return into material realm](#cradle-metaphysics-part-1).
 
@@ -3185,7 +3185,7 @@ At that point we would suggest, that the ability to resurrect emerges from a man
 
 The exact meachanics of this process are yet to be understood, the role of souls within this system seems central, particularly important.
 
-##### Monster Doors
+#### Monster Doors: Security Flaw of Clockworks
 
 The other seemingly soul-based concept is tied to the [Monster Doors](https://wiki.spiralknights.com/File:Exploration-Monster_Door.png).
 
@@ -3197,13 +3197,15 @@ Existence of souls, their acknowledgement, as well as later themes regarding cap
 
 As there is a [framework of energy and minerals being related, as souls provide a source of energy](#minerals-and-souls-part-1), the possibility of direct integration and consideration of those principles into those designs is not discarded, albeit not intentionally.
 
-Within this framework gremlins' connection to Underworkls and Undercorp in particular can be used as an explanation of the __widescale application of Underworld technology across Clockworks__ while building up a narrative of Undercorp attaining an unprecedented control over megastructure's operation, __reminiscent of tortomega__ and their [eventual fall](#the-titans-tortomega-the-fall).
+Within this framework gremlins' connection to Underworkls and Undercorp in particular can be used as an explanation of the __widescale application of Underworld technology across Clockworks__ while building up a narrative of Undercorp attaining an unprecedented control over megastructure's operation, __reminiscent of tortomega__ and their [eventual annihilation by hijacked tortodrones under Undercorp's control](#the-titans-tortomega-the-fall).
 
-##### Nefarious Imp and Underworld's Malachim Alphabet
+As far as we can predict the future development of megstructure without analyzing gremlins proper, within such narrative, __the megastructure is severely compromised__.
+
+#### Nefarious Imp and Underworld's Malachim Alphabet
 
 As returning to the topic of the evil eye, its symbolism within Underworld and previously mentioned topic of Underworld armor, we have a figurehead, which connects those themes, as well as introduces some clarity for the reasons, why Undercorp would expand into material realm. This entity is the Nefarious Imp.
 
-Nefarious imp is directly mentioned in the armor-costume set, comprised of the [Nefarious Raiment](https://wiki.spiralknights.com/Nefarious_Raiment) and a [Nefarious Hood](https://wiki.spiralknights.com/Nefarious_Hood). The latter has the _evil eye incorporated in the most advanced manner ever witnessed_, looking seemingly the same as evil eye in [Gran faust](https://wiki.spiralknights.com/Gran_faust), with trident-like marks to the sides of an eye. Those marks are present on the hilt of Gran Faust: `an upgraded Faust forged from pristine-quality shadow steel` ([Gran faust](https://wiki.spiralknights.com/Gran_faust)) forged in the Underworld (`A powerful, cursed sword forged in the underworld.` [Faust](https://wiki.spiralknights.com/Faust)).
+Nefarious imp is directly mentioned in the costume set, comprised of the [Nefarious Raiment](https://wiki.spiralknights.com/Nefarious_Raiment) and a [Nefarious Hood](https://wiki.spiralknights.com/Nefarious_Hood). The latter has the _evil eye incorporated in the most advanced manner ever witnessed_, looking seemingly the same as evil eye in [Gran faust](https://wiki.spiralknights.com/Gran_faust), with trident-like marks to the sides of an eye. Those marks are present on the hilt of Gran Faust: `an upgraded Faust forged from pristine-quality shadow steel` ([Gran faust](https://wiki.spiralknights.com/Gran_faust)) forged in the Underworld (`A powerful, cursed sword forged in the underworld.` [Faust](https://wiki.spiralknights.com/Faust)).
 
 And, based on both recipe and context, [Shadow Steel](https://wiki.spiralknights.com/Shadow_Steel): `An extraordinary metal imbued with the creeping darkness of the Underworld` seems as a prime material for this fiendish alchemy, being an antithesis of the divine themes of [Sun Silver](https://wiki.spiralknights.com/Sun_silver): `An extraordinary metal imbued with the radiant light of the sky`. And, based on its purple color as well as many shadow related technology, the steel itself is purple. Weather it is related to dark matter - is unknown, but we wager those are connected, as we will see in the [analysis of metals, imbued with elemental magic](#volcanic-elements).
 
