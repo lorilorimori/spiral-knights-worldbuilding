@@ -3133,8 +3133,9 @@ Across Cradle there is a perpetual, yet subtle presence of an eye, mainly recogn
 
   - _Heavy statues_
   - _Graviton Bomb's front-facing plate_
-  - __Apparition during Graviton Bomb's explosion__
-  - Explosive attack of __the Collector__
+  - __Apparition of Graviton Bomb's explosion__
+  - __Apparition of Collector's explosive attack__
+  - __Collector's face plate surrounding the ocular__
 
 - A _featureless_ eye, commonly associated with:
 
@@ -3145,24 +3146,34 @@ Across Cradle there is a perpetual, yet subtle presence of an eye, mainly recogn
   - _Tortodrones' shells_ at an enraged state
   - _Tortodrone-derived Spiral Order equipment_
   - _Enemy gates across the Core_
+  - __Greavers' helm__
+  - __Greaver wings' color patterns__
 
-Throughout this document we were referring to both instances collectively as an evil eye in order to distinguish this motif.
+We were referring to both instances of an eye collectively as the evil eye in order to bbroadly identify this motif.
 
-This design stems from Underworld, and meant to represent its presence in material realm. As we have discussed earlier in the [analysis of Undercorp's initial advancements](#undercorps-initial-advancements), the symbol originates from fiendish wildlife, seemingly used in Underworld's army. The evil eye design first appeared within [greavers' helms](https://wiki.spiralknights.com/Greaver), and later applied to tortodrone shells, in similar manner as it was present on Greavers' wings being attributed to its natural for the Underworld presence, as tortodrones were build by tortomega through assistance of Undercorp.
+As far as eye's presence allows, the design stems from Underworld, and meant to represent Underworld's presence across material realm.
 
-We propose, that the latter, antique instance of an evil eye is the result of the collision of cultures - introduction of Underworld and its occult physicality to titans' civilization, their mixing, and integration of fiendish evil eye into titans' designs during active development of the latter.
+The evil eye design first appeared across [greavers' helms and wings](https://wiki.spiralknights.com/Greaver), and later applied to tortodrone shells. The __organic appearance on Greavers' wings__, we propose, is the primary argument in favour of the symbol originating from Underworld as, potentially, a simple pattern with no inherent metaphysical role. Only after Underworld had adopted this pattern and imbued it with symbolic value, it bacame representative of Underworld, of curase and adjacent concepts throughout culture's development.
 
-As a potential sign of this connection with the Underworld, this transition was depicted in [Heavy Statues](https://wiki.spiralknights.com/File:Exploration-Heavy_Statue.png), when titans were still using the heavy cleaver weapons such as [Troika](https://wiki.spiralknights.com/Troika). To this ancient-colored theme we have approached several times from different points of view.
+Eventually, it was adopted by Underworld's army as Greavers' helm was engraved with this eye, and as tortodrone stone shells were designed with this symbol in mind, only being revealed at tortodrones' enraged state. This development is reminiscent of _symbol of a spiral_ [as it was adopted](#omnipresence-of-the-spiral) _across the material realm_. But, as symbol of a spiral plausibly has metaphysical meaning, we would not discard such possibility for the eye, albeit with a lesser chance.
 
-Why heavy statues have ears similar to fiend enemy symbol? Our guess is is use usage of the greavers' helm, adapter for draconic, or rather, tortoise-like anatomy of titans. And despite this, the design itself had remained the same, as it has essential to it elements, as devilite ears, and, of course, the eye.
+##### Heavy Statue and Antique Evil Eye
 
-Once devilite and titan cultures were connected, they transferred a different mythology, one that was present in Underworld as seen in, again, greavers' helms, a depiction of eye. This depiction of titans, armored in Underworld equipment, but related to stone, had to be seen by gremlins in order to construct gates with their imagery. Moreover, we can identify the precise details of this supposed Underworld armor.
+We propose, that the _antique_ instance of an evil eye is the result of the collision of cultures -- introduction of Underworld and its occult physicality to titans' civilization, which had resulted in integration of fiendish evil eye into titans' designs, _as no Underworld-native object other than potential Graviton Bomb possess antique eye appearance_.
 
-This might be a lead to a greater presence of cyclopean entities with a single eye. From those mythological entities the single-eyed helm could've been designed. On par with it, there is a theme of transformation - embodied by gorgos, notably, with a single eye. [Gorgo](https://wiki.spiralknights.com/Gorgo) are already referred in the [Gorgofist](https://wiki.spiralknights.com/Gorgofist): `A terrifying handgun that combines the dual-crushing power of a gorgo and the mythical tortomega`.
+As a potential sign of this connection with the Underworld, this transition was depicted in [Heavy Statues](https://wiki.spiralknights.com/File:Exploration-Heavy_Statue.png), when titans were [still utilizing](#unreconciled-duality-of-fury-and-serenity) the heavy cleaver-like weapons such as [Troika](https://wiki.spiralknights.com/Troika).
 
-If we are to take this ide even further the single eye design with a jagged mouth below - a feature of gorgos, is also found far later into the timeline and will be properly attributed - the Collector has the same feature-rich design, comprised of an antique eye and a painted spiked mouth.
+Why heavy statues have _ears similar to fiends' of fiend family emblem_? Our guess is is use usage of the greavers' helm, adapter for draconic, or rather, tortoise-like anatomy of titans, as tortomega. And despite this, the design itself had remained the same, as it has essential to it elements, as devilite ears, and, of course, the eye, features meant to convey the cultural alignment.
 
-This persisting over the ages motif seems intentional.
+This depiction of titans, armored in Underworld equipment, yet still related to stone, had to be seen by gremlins in order to draw _gates' icon with their imagery_. Moreover, we can identify the precise details of this supposed Underworld armor.
+
+This might be a lead to a greater presence of cyclopean entities with a single eye. From those mythological entities the single-eyed helm could've been designed. On par with it, there is a theme of transformation -- embodied by gorgos, notably, with a single eye. [Gorgo](https://wiki.spiralknights.com/Gorgo) are already referred in the [Gorgofist](https://wiki.spiralknights.com/Gorgofist): `A terrifying handgun that combines the dual-crushing power of a gorgo and the mythical tortomega`.
+
+If we are to take this idea even further the single eye design with a jagged mouth below -- an anatomical trait of gorgos, -- is also found far later into the timeline and will be properly attributed, as the Collector has the similar feature-rich design, comprised of an antique eye and a painted spiked mouth below it, while being one of constructs which directly tap into Underworld's symbolism.
+
+There are other gremlin-adjacent entities with cyclopean motif: gremlin elite scorchers and Swarm's ["avatar"](https://wiki.spiralknights.com/File:Area-The_Core-The_Path_is_Revealed-2.png) encountered at the beginning of Dreams and Nightmares' [Path Is Revealed depth above the Core](https://wiki.spiralknights.com/Dreams_and_Nightmares/The_Path_is_Revealed).
+
+Evidently, this motif of an eye persists over the ages across Cradle _and relates back to Underworld_.
 
 ##### Grim Totems: Part 1
 
