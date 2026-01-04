@@ -3177,19 +3177,27 @@ Evidently, this motif of an eye persists over the ages across Cradle _and relate
 
 ##### Grim Totems: Part 1
 
-This eye symbolism may be related to a more general anatomical themes of Underworld, specifically, existence of grim totems. Grim totems will be later analyzed in the context of Almire. As for now, both scenarios of totems being introduced with Undercorp or later fit to the timeline at that point in time.
+The eye symbolism as an initially organic design from Greavers' wings may contribute to a general _anatomical motif_ of Underowld devices prior to Undercorp -- specifically, faces of grim totems and faces of locked enemy gates across Clockworks. Grim totems will be later analyzed in the context of Almire. But, one concept worth mentioning here is the potential relation of grim totems to the [state of Cradle as allowing for spirits to return into material realm](#cradle-metaphysics-part-1).
 
-But, one concept worth mentioning here is the potential relation of grim totems to the [state of Cradle as allowing for spirits to return into material realm](#cradle-metaphysics).
+Both totems and undead Dreadnoughs possess a power to resurrect fallen zombies _from their skulls_. The role of the skull becomes more important as we are reminded of the [skulls' haunting by lost souls](#lost-souls-with-skulls), which follows the idea of a souls' need to reside within a body in order to _exude a degree of control over material realm_, as [the body, in the material realm being manifestation of the aura](#corporeal-body), is the arrangement of bones.
 
-We believe this connection exists, solely due to a unique resurrection property of totems and undead Dreadnoughts. Commonly a resurrection of a an already perished creature, already being undead would account for its soul finally leaving from a corpse to be tethered back to the corporeal body. This is similar to the general notion of lost souls appearing across Cradle, and now we observe, that Underworld is at least capable of such manipulations with the lingering in spirit. But, further analysis, such as explanation of lack of heat in resurrected instances requires a deeper dive into the nature of grim totems.
+At that point we would suggest, that the ability to resurrect emerges from a manipulation with the recently severed connection of a souls to a body as one capable of being mended in a similar method of potentially ceased gremlins being _revived_ by a [gremlin mender](https://wiki.spiralknights.com/Mender#Darkfang_Mender).
+
+The exact meachanics of this process are yet to be understood, the role of souls within this system seems central, particularly important.
 
 ##### Monster Doors
 
-The other seemingly soul-related concept is tied to the [Monster Doors](https://wiki.spiralknights.com/File:Exploration-Monster_Door.png).
+The other seemingly soul-based concept is tied to the [Monster Doors](https://wiki.spiralknights.com/File:Exploration-Monster_Door.png).
 
 If devilites did work with gremlins, then monster doors would have a high possibility of belonging to them. The door has the same anatomical, facial design with a familiar lightning arcs, which will be later discussed in the [context of trojans](#legion-of-ur). The idea of gates deactivating when no enemies are present, and attributed as such to a generic evil design, can have a meaning befitting to Underworld.
 
-Existence of souls, their acknowledgement, as well as later themes regarding capabilities of soul-manipulation may point to a soul-fueld operation of Underworld devices, and, _as a mechanism reacting on presence of an intruder_. As there was a [framework of energy and minerals being related, as souls did provide a potential source of energy through them](#minerals-and-souls-part-1), the possibility of direct integration and consideration of those principles into those designs is not disregarded.
+Then, the application of this design across entirety of Clockworks with an exception of the Core may be explained as follows.
+
+Existence of souls, their acknowledgement, as well as later themes regarding capabilities of soul-manipulation may point to a soul-fueled operation of Underworld devices, and for doors it is _a mechanism, reacting on presence of an intruder_.
+
+As there is a [framework of energy and minerals being related, as souls provide a source of energy](#minerals-and-souls-part-1), the possibility of direct integration and consideration of those principles into those designs is not discarded, albeit not intentionally.
+
+Within this framework gremlins' connection to Underworkls and Undercorp in particular can be used as an explanation of the __widescale application of Underworld technology across Clockworks__ while building up a narrative of Undercorp attaining an unprecedented control over megastructure's operation, __reminiscent of tortomega__ and their [eventual fall](#the-titans-tortomega-the-fall).
 
 ##### Nefarious Imp and Underworld's Malachim Alphabet
 
