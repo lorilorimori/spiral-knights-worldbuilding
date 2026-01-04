@@ -724,7 +724,7 @@ Relevant to the current context in tracking down influences and presence of Unde
 
 - Some tombstones are cracked and have green essence flowing through their cracks
 - Green fires on crypt walls are unique to this location
-- Graveyards, as the depths themselves, seem to be located only partially in the material realm. This ethereal motif will be kept track of as we will explore [Kat Tribe and Kataclysm](#chapter-viii-kat-tribe): `Graveyards are an unnatural place, a world between worlds where lost souls gather, hungry for the life of any live soul that must pass through` ([Information Module: Graveyard](https://wiki.spiralknights.com/Information_Module:_Graveyard)). Our suggestion consists of those locations being in between material realm and Underworld, and are related to the state Cradle is found, connected with the phenomenon of spirits returning to material realm (`Why spirits return to the material realm is unknown, trough it is clear that many of the spirits within the Clockworks have come from other worlds.` - [Weight of Darkness](https://wiki.spiralknights.com/Weight_of_Darkness))
+- Graveyards, as the depths themselves, seem to be located only partially in the material realm. This ethereal motif will be kept track of as we will explore [Kat Tribe and Kataclysm](#chapter-viii-kat-tribe): `Graveyards are an unnatural place, a world between worlds where lost souls gather, hungry for the life of any live soul that must pass through` ([Information Module: Graveyard](https://wiki.spiralknights.com/Information_Module:_Graveyard)). Our suggestion consists of those locations being in between material realm and Underworld, and are related to the state Cradle is found, connected with the phenomenon of spirits returning to material realm (`Why spirits return to the material realm is unknown, trough it is clear that many of the spirits within the Clockworks have come from other worlds` - [Weight of Darkness](https://wiki.spiralknights.com/Weight_of_Darkness))
 
 The green color motif may be attributed to several supernatural materials:
 
@@ -3133,6 +3133,7 @@ Across Cradle there is a perpetual, yet subtle presence of an eye, mainly recogn
 
   - _Heavy statues_
   - _Graviton Bomb's front-facing plate_
+  - _Transmuted gear of Kat tribe_
   - __Apparition of Graviton Bomb's explosion__
   - __Apparition of Collector's explosive attack__
   - __Collector's face plate surrounding the ocular__
@@ -3146,6 +3147,7 @@ Across Cradle there is a perpetual, yet subtle presence of an eye, mainly recogn
   - _Tortodrones' shells_ at an enraged state
   - _Tortodrone-derived Spiral Order equipment_
   - _Enemy gates across the Core_
+  - _Nefarious gear_
   - __Greavers' helm__
   - __Greaver wings' color patterns__
 
@@ -3201,19 +3203,46 @@ Within this framework gremlins' connection to Underworkls and Undercorp in parti
 
 As far as we can predict the future development of megstructure without analyzing gremlins proper, within such narrative, __the megastructure is severely compromised__.
 
+#### Cradle Antagonists
+
+Among distinct characters aligned with Underworld or Undercorp we have previously selected Morgral'm and Maulos. Then we have proposed existence of [fiendish cults](#fiendish-cults) and a faction of gods inhabiting Underworld which possess themes of natural elements, in particular:
+
+- Vog as a deity associated with fire
+- Unnamed deity associated with poisons, whom we labelled the Vile Deity
+- A hypothetical deity of frost, proposed to exist due to similarities between Lord Vanaduke and Maulos, given Lord Vanaduke's connection to Vog
+
+All of those deities incorporate death and supernaturally fatal nature of their elements into their nature.
+
+Then we have shortly [hypothesized on the meaning](#glyph-names-and-metaphysics-of-color) of trojan legion's name -- Legion of Ur, -- [proposing a naming convention](#name-of-ur) which frames `Ur` as a word used as a characteristic title within speculative fiendish language.
+
+Yet, the role of an antagonist across all narratives was forming initially vaguely around Underworld, followed by a Undercorp due to latter's distinct actions. Yet, despite this characteritic of Undercorp, we do not possess knowledge on the goals of Undercorp's expansion into material realm, unless we would include the Core as a source of energy more refined than souls, which contributes to energy-based operation of Underworld, identical to the premise of Isorans' goal to capture this source of energy.
+
+At that, while Undercorp may be seen as a recurring villian within the narrative, and its goals remain ambigious, Apocrea becomes a defined, less present but magnitudes more threatening long-term antagonist, as [its goals conflict with currently established structure of reality](#apocreas-goal-as-negation-of-existence).
+
+Among those entities there exists one more figure, which may be identified as a greater antagonist emerging from Underworld -- `Nefarious Imp`.
+
 #### Nefarious Imp and Underworld's Malachim Alphabet
 
-As returning to the topic of the evil eye, its symbolism within Underworld and previously mentioned topic of Underworld armor, we have a figurehead, which connects those themes, as well as introduces some clarity for the reasons, why Undercorp would expand into material realm. This entity is the Nefarious Imp.
+Nefarious Imp is established through its gear:
 
-Nefarious imp is directly mentioned in the costume set, comprised of the [Nefarious Raiment](https://wiki.spiralknights.com/Nefarious_Raiment) and a [Nefarious Hood](https://wiki.spiralknights.com/Nefarious_Hood). The latter has the _evil eye incorporated in the most advanced manner ever witnessed_, looking seemingly the same as evil eye in [Gran faust](https://wiki.spiralknights.com/Gran_faust), with trident-like marks to the sides of an eye. Those marks are present on the hilt of Gran Faust: `an upgraded Faust forged from pristine-quality shadow steel` ([Gran faust](https://wiki.spiralknights.com/Gran_faust)) forged in the Underworld (`A powerful, cursed sword forged in the underworld.` [Faust](https://wiki.spiralknights.com/Faust)).
+- `A raiment said to be crafted by a nefarious imp. The ethereal plates will defend against heinous harassment while they shroud you in darkness` ([Nefarious Raiment](https://wiki.spiralknights.com/Nefarious_Raiment)).
+- `A hood said to be crafted by a nefarious imp. The floating hood is certain to cloak you during clandestine campaigns` ([Nefarious Hood](https://wiki.spiralknights.com/Nefarious_Hood)).
 
-And, based on both recipe and context, [Shadow Steel](https://wiki.spiralknights.com/Shadow_Steel): `An extraordinary metal imbued with the creeping darkness of the Underworld` seems as a prime material for this fiendish alchemy, being an antithesis of the divine themes of [Sun Silver](https://wiki.spiralknights.com/Sun_silver): `An extraordinary metal imbued with the radiant light of the sky`. And, based on its purple color as well as many shadow related technology, the steel itself is purple. Weather it is related to dark matter - is unknown, but we wager those are connected, as we will see in the [analysis of metals, imbued with elemental magic](#volcanic-elements).
+The gear connects motif of evil eye and armor reminiscent of [Kat tribe equipment](https://wiki.spiralknights.com/Black_kat_raiment), as both possess symbol of the eye, but only Nefarious Gear has a distinct variation of the eye, _identical to symbol of curse, with 3 radial lines extending below the eye downwards_.
 
-Ths metallic, lined design is also found on the [Wicked Idol](https://wiki.spiralknights.com/Wicked_Idol). We have previously proposed in the [analysis of Apocrean Circles](#apocrean-circles), that the darkness of Underworld or even Apocrea is the same darkness Sleeper was referring to. Here we have another instance of darkness referred to as a metaphysical presence. Shadow steel is described as `An extraordinary metal imbued with the creeping darkness of the Underworld`. While we will not commit to this concept, its peculiarity - its themes, framing of darkness is something to remember.
+The eye is incorporated in armor's design in the most advanced manner found so far -- compared to smithwork of Kat tribe armors, imp's armor and helm use a different metal, most reminiscent of [Gran Faust](https://wiki.spiralknights.com/Gran_faust), wherein _both incorporate a similar pattern of inner angular contour and an eye with its horizontal line extending to the sides_.
 
-The symbol of 3 lines extending from an eye with a circular dots is reminiscent of _Alphabet of Magic_ from `The Key of Solomon thr King`, specifically one of its inspirations, the _Malachim Alphabet_. By designs it is meant to resemble constellations, and often this family of magical systems, which had influenced the script in the Key, is believe to be deeply related to the _Sacred Geometry_. The symbol in question is most similar to the letter Aleph. Yet, further connections of this symbolism within the cosmology, remains unknown.
+And, as Gran Faust utilizes Shadow Steel -- `an upgraded Faust forged from pristine-quality shadow steel` ([Gran faust](https://wiki.spiralknights.com/Gran_faust)), -- forged in the Underworld -- `A powerful, cursed sword forged in the underworld` ([Faust](https://wiki.spiralknights.com/Faust)), we can identify imp's armor as created from the [Shadow Steel](https://wiki.spiralknights.com/Shadow_Steel): `An extraordinary metal imbued with the creeping darkness of the Underworld`.
 
-Furthermore, this connection of Nefarious imp to curse is affirmed by the description of the [Wicked Prize Box](https://wiki.spiralknights.com/Wicked_Prize_Box) - [Something Wicked This Way Comes](https://forums.spiralknights.com/en/node/110021): `Today Spiral HQ introduces a line of gear that should help you blend into environs riddled with cursed monsters. We bring these to you in the Wicked Prize Box, with contents including the following: Wicked helms, Wicked armors, Wicked accessories, Crest of Curse (new), Nefarious Hood (new), Nefarious Raiment (new)`.
+In that regard of exploring devilite designs, a similar to contoured design is found on [Wicked Idol](https://wiki.spiralknights.com/Wicked_Idol), which possesses a _more alien and technological design of symmetrical curved lines across figure's surface_.
+
+<!--We have previously proposed in the [analysis of Apocrean Circles](#apocrean-circles), that the darkness of Underworld or even Apocrea is the same darkness Sleeper was referring to. Here we have another instance of darkness referred to as a metaphysical presence. Shadow steel is described as `An extraordinary metal imbued with the creeping darkness of the Underworld`. While we will not commit to this concept, its peculiarity - its themes, framing of darkness is something to remember.-->
+
+As [Wicked Prize Box](https://wiki.spiralknights.com/Wicked_Prize_Box) is the source of Nafarious gear, we may veiw it from a perspective of being connected both to Nefarious Imp and Underworld.
+
+Its announcement, [Something Wicked This Way Comes](https://forums.spiralknights.com/en/node/110021), states: `Today Spiral HQ introduces a line of gear that should help you blend into environs riddled with cursed monsters. We bring these to you in the Wicked Prize Box, with contents including the following: Wicked helms, Wicked armors, Wicked accessories, Crest of Curse (new), Nefarious Hood (new), Nefarious Raiment (new)`. Through this identification with curse, we can outline nature of curse as inherently `wicked`, further implied by presence of [Crest of Curse](https://wiki.spiralknights.com/Crest_of_Curse#Crest_of_Curse) within box's item pool, shwich depicts a variation of symbol of curse of minimalist design.
+
+Through this connection to curse and advanced designs which incorporate symbol of specifically curse, we propose, that _Neafarious Imp is one of a few leading antagonists behind Underworld's expansion onto Cradle_.
 
 ##### Arctic Plot
 
