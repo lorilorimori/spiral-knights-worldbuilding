@@ -3171,7 +3171,7 @@ This might be a lead to a greater presence of cyclopean entities with a single e
 
 If we are to take this idea even further the single eye design with a jagged mouth below -- an anatomical trait of gorgos, -- is also found far later into the timeline and will be properly attributed, as the Collector has the similar feature-rich design, comprised of an antique eye and a painted spiked mouth below it, while being one of constructs which directly tap into Underworld's symbolism.
 
-There are other gremlin-adjacent entities with cyclopean motif: gremlin elite scorchers and Swarm's ["avatar"](https://wiki.spiralknights.com/File:Area-The_Core-The_Path_is_Revealed-2.png) encountered at the beginning of Dreams and Nightmares' [Path Is Revealed depth above the Core](https://wiki.spiralknights.com/Dreams_and_Nightmares/The_Path_is_Revealed).
+There are other gremlin-adjacent entities with cyclopean motif: [gremlin elite scorchers or incenerators](https://wiki.spiralknights.com/Scorcher#Gremlin_Incinerator) and Swarm's ["avatar"](https://wiki.spiralknights.com/File:Area-The_Core-The_Path_is_Revealed-2.png) encountered at the beginning of Dreams and Nightmares' [Path Is Revealed depth above the Core](https://wiki.spiralknights.com/Dreams_and_Nightmares/The_Path_is_Revealed).
 
 Evidently, this motif of an eye persists over the ages across Cradle _and relates back to Underworld_.
 
