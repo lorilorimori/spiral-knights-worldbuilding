@@ -655,7 +655,7 @@ The notion is of trojans being summoned by devilites, as described in [The Retur
 Actions of Maulos and his forming cult of devilites is not approved by Undercorp:
 
 - `The entirety of Amu-Sol is swarming with frozen souls and deep within the heart of the city lies the source of it all: the cult's powerful leader, Maulos and a towering column of pure everfrost.` ([Patch Notes: Heart of Ice](https://forums.spiralknights.com/en/node/61137))
-- `You are receiving this mail as a result of an incorrect/cryptic entry in your recent resource allocation request` ([Heart of Ice - Amu-Sol - Fiendish Memos (from Morgral'm)](https://wiki.spiralknights.com/Morgralm))
+- `You are receiving this mail as a result of an incorrect/cryptic entry in your recent resource allocation request` ([Heart of Ice - Amu-Sol - Fiendish Memos - Morgral'm](https://wiki.spiralknights.com/Morgralm))
 
 The operation at Amu-Sol seemingly went in a different direction, as it was not approved by Undercorp at least at that point in time. As far as presence of maulos suggests, the initial activity within Amu-Sol could have been one related to devilites' attempting to bring back Legion of Ur.
 
@@ -2693,13 +2693,15 @@ As for the [Grand Tortoise](https://wiki.spiralknights.com/Grand_Tortoise): `A s
 
 Within this system special damage type variants of tortodrone gear remain unknwon. While we could not come to a distinct explanation, the specifics of their nature further establsihed the role of symbolic order over causal within current alchemy-based system.
 
-- In case of special damage type tortodrone gear being a recent invenstion, thn whic would make Mysterious Alchemy Station furthemore complex, as well as characterise Spiral Order through their expanded underestanding of magic on Cradle compared to their initial position prior to Cradle, as __inhereting and incorporating both Undercorp and Owlite technology into their own__ -- a notion, that was [already established](#application-of-magic) with progressing application of magic by Spiral Order.
+- In case of special damage type tortodrone gear being a recent invenstion, it would characterise Mysterious Alchemy Station furthemore complex, as well as deepen Spiral Order understanding of this technology through magic on Cradle compared to their initial position prior to Cradle, as __inhereting and incorporating both Undercorp and Owlite technology into their own__ -- a notion, that was [already established](#application-of-magic) with progressing application of magic by Spiral Order.
 
-  Quotes such as `A shield alchemized from the shell of a corrupted tortodrone` ([](https://wiki.spiralknights.com/Grim_Shell)) characteize those states as external to tortodrone, while `hardened tortodrone shell` of [Wild Shell](https://wiki.spiralknights.com/Wild_Shell) and explicitly stated `elemntal resiliency` of [Barrier Shell](https://wiki.spiralknights.com/Barrier_Shell) may be interpreted both as existing in the past as well as only on modern-day Cradle, as ownership of modified states of those shells is left ambigious.
+  Quotes such as `A shield alchemized from the shell of a corrupted tortodrone` ([](https://wiki.spiralknights.com/Grim_Shell)) characteize those states as external to tortodrone, while `hardened tortodrone shell` of [Wild Shell](https://wiki.spiralknights.com/Wild_Shell) and explicitly stated `elemental resiliency` of [Barrier Shell](https://wiki.spiralknights.com/Barrier_Shell) may be interpreted both as existing in the past as well as only on modern-day Cradle, as ownership of modified states of those shells is left ambigious.
 
 - In case of special damage type gear being attributed to tortomega, this would imply existence of those tortodrones far in the past, expanding on their complexities and complex relation between Undercorp and tortomega. Rediscovery of those variants in the future -- of modern-day Cradle, -- would still allow Spiral Order to symbolically inherit whis technology and further integrate it into theirs, as [it was explored with kingdom of Almire](#isoran-designs-of-almire).
 
-  In that regard even corruted tortodrones may exist in the past to the point of being the primary undercorp-controlled force during tortomega extinction. Such interpretation would aloow to attribute both elemntal and hardened tortodrones shells as existing in the past, but, in game's scope remaining unexplored exlicitly in the same manner as existence of [multiple citadel across kingdom of Almire](#veiled-tortodrone-homeland) was left unseen.
+  In that regard even corruted tortodrones may exist in the past to the point of being the primary Undercorp-controlled force during tortomega extinction. Such interpretation would allow to attribute both elemntal and hardened tortodrones shells as existing in the past, but, in game's scope remaining unexplored exlicitly in the same manner as existence of [multiple citadel across kingdom of Almire](#veiled-tortodrone-homeland) was left unseen.
+
+As far as current depiction of modified tortodrones allows, we would consider only Dark Matter-powered tortodrones as one belonging explicitly to Undercorp, while the rest of tortodrone variants would exist as a tangible possibility, which deviates from the _established motif of rage_.
 
 #### Undercorp's Plot: Creation of Tortodrone
 
@@ -3209,7 +3211,7 @@ Among distinct characters aligned with Underworld or Undercorp we have previousl
 
 - Vog as a deity associated with fire
 - Unnamed deity associated with poisons, whom we labelled the Vile Deity
-- A hypothetical deity of frost, proposed to exist due to similarities between Lord Vanaduke and Maulos, given Lord Vanaduke's connection to Vog
+- A hypothetical deity of frost -- Hail Deity, -- proposed to exist due to similarities between Lord Vanaduke and Maulos, as an extrapolation of Lord Vanaduke's connection to Vog
 
 All of those deities incorporate death and supernaturally fatal nature of their elements into their nature.
 
@@ -3221,7 +3223,7 @@ At that, while Undercorp may be seen as a recurring villian within the narrative
 
 Among those entities there exists one more figure, which may be identified as a greater antagonist emerging from Underworld -- `Nefarious Imp`.
 
-#### Nefarious Imp and Underworld's Malachim Alphabet
+#### Nefarious Imp
 
 Nefarious Imp is established through its gear:
 
@@ -3230,9 +3232,9 @@ Nefarious Imp is established through its gear:
 
 The gear connects motif of evil eye and armor reminiscent of [Kat tribe equipment](https://wiki.spiralknights.com/Black_kat_raiment), as both possess symbol of the eye, but only Nefarious Gear has a distinct variation of the eye, _identical to symbol of curse, with 3 radial lines extending below the eye downwards_.
 
-The eye is incorporated in armor's design in the most advanced manner found so far -- compared to smithwork of Kat tribe armors, imp's armor and helm use a different metal, most reminiscent of [Gran Faust](https://wiki.spiralknights.com/Gran_faust), wherein _both incorporate a similar pattern of inner angular contour and an eye with its horizontal line extending to the sides_.
+The eye is incorporated in armor's design in the most advanced manner found so far -- compared to smithwork of Kat tribe armors, Imp's armor and helm use a different metal, most reminiscent of [Gran Faust](https://wiki.spiralknights.com/Gran_faust), wherein _both incorporate a similar pattern of inner angular contour and an eye with its horizontal line extending to the sides_.
 
-And, as Gran Faust utilizes Shadow Steel -- `an upgraded Faust forged from pristine-quality shadow steel` ([Gran faust](https://wiki.spiralknights.com/Gran_faust)), -- forged in the Underworld -- `A powerful, cursed sword forged in the underworld` ([Faust](https://wiki.spiralknights.com/Faust)), we can identify imp's armor as created from the [Shadow Steel](https://wiki.spiralknights.com/Shadow_Steel): `An extraordinary metal imbued with the creeping darkness of the Underworld`.
+And, as Gran Faust utilizes Shadow Steel -- `an upgraded Faust forged from pristine-quality shadow steel` ([Gran faust](https://wiki.spiralknights.com/Gran_faust)), -- forged in the Underworld -- `A powerful, cursed sword forged in the underworld` ([Faust](https://wiki.spiralknights.com/Faust)), we can identify imp's armor as created from the [Shadow Steel](https://wiki.spiralknights.com/Shadow_Steel): `An extraordinary metal imbued with the creeping darkness of the Underworld`. The `creeping darkness of the Underworld` given context of [graveyards](#graveyards) and other locations falling into Underworld, we would consider _a tangible metaphysical essence_.
 
 In that regard of exploring devilite designs, a similar to contoured design is found on [Wicked Idol](https://wiki.spiralknights.com/Wicked_Idol), which possesses a _more alien and technological design of symmetrical curved lines across figure's surface_.
 
@@ -3240,84 +3242,76 @@ In that regard of exploring devilite designs, a similar to contoured design is f
 
 As [Wicked Prize Box](https://wiki.spiralknights.com/Wicked_Prize_Box) is the source of Nafarious gear, we may veiw it from a perspective of being connected both to Nefarious Imp and Underworld.
 
-Its announcement, [Something Wicked This Way Comes](https://forums.spiralknights.com/en/node/110021), states: `Today Spiral HQ introduces a line of gear that should help you blend into environs riddled with cursed monsters. We bring these to you in the Wicked Prize Box, with contents including the following: Wicked helms, Wicked armors, Wicked accessories, Crest of Curse (new), Nefarious Hood (new), Nefarious Raiment (new)`. Through this identification with curse, we can outline nature of curse as inherently `wicked`, further implied by presence of [Crest of Curse](https://wiki.spiralknights.com/Crest_of_Curse#Crest_of_Curse) within box's item pool, shwich depicts a variation of symbol of curse of minimalist design.
+Its announcement, [Something Wicked This Way Comes](https://forums.spiralknights.com/en/node/110021), states: `Today Spiral HQ introduces a line of gear that should help you blend into environs riddled with cursed monsters. We bring these to you in the Wicked Prize Box, with contents including the following: Wicked helms, Wicked armors, Wicked accessories, Crest of Curse (new), Nefarious Hood (new), Nefarious Raiment (new)`. Through this identification with curse, we can characterize nature of curse as `wicked`, further implied by presence of [Crest of Curse](https://wiki.spiralknights.com/Crest_of_Curse#Crest_of_Curse) within box's item pool, which depicts a variation of symbol of curse of minimalist design with purple circle, reminiscent of Obsidian Nexus, although this could be a coincidence.
 
-Through this connection to curse and advanced designs which incorporate symbol of specifically curse, we propose, that _Neafarious Imp is one of a few leading antagonists behind Underworld's expansion onto Cradle_.
+Lastly, the items frame the imp in a specific manner -- `A raiment said to be crafted by a nefarious imp` ([Nefarious Raiment](https://wiki.spiralknights.com/Nefarious_Raiment)), -- utilizing a language which emphasizes on this act of creation as a folktale or a legend, similar to:
+
+- `A plated robe said to be worn by wandering arctic acolytes. 'we saw them heading straight towards the mountains, off into the interior of the vast frozen continent, but why?'` ([Arctic Acolyte Mantle](https://wiki.spiralknights.com/Arctic_Acolyte_Mantle)).
+- `A plated mail said to be crafted in the image of a venomous fiend. It comes with a sinister skin suit that pulses with a vile essence` ([Venom Fiend Mail](https://wiki.spiralknights.com/Venom_Fiend_Mail#Venom_Fiend_Mail))
+
+The singular use of a figure `imp` coupled with a character trait of `nefarious`, we suggest, emphasizes its individuality -- a single imp, responsible for creation of that armor made of Shadow Steel. Individuality of Nefarious Imp may be further established by a similarity to description of Arctic Rogue gear:
+
+- `A mask said to be crafted by an arctic rogue. The shattered ice will conceal your identity during clandestine arctic expeditions` ([Arctic Rogue Mask](https://wiki.spiralknights.com/Arctic_Rogue_Mask)).
+- `A plated mail said to be crafted by an arctic rogue. It comes augmented with ice plating to conceal your location during arctic expeditions` ([Arctic Rogue mail](https://wiki.spiralknights.com/Arctic_Rogue_Mail)).
+
+As Artcic Rogue gear appears damaged, which within the narrative Glacial Prize Box offers, we suggest, might imply ownership by a single person, which had eventually defected, a rogue, _rather than a mass-produced armor_.
+
+As for nefarious gear -- it is designed with secrecy and concealing of presence of the wearer in mind:
+
+- `shroud you in darkness` (`A raiment said to be crafted by a nefarious imp. The ethereal plates will defend against heinous harassment while they shroud you in darkness` - [Nefarious Raiment](https://wiki.spiralknights.com/Nefarious_Raiment)).
+- `during clandestine campaigns` (`A hood said to be crafted by a nefarious imp. The floating hood is certain to cloak you during clandestine campaigns` - [Nefarious Hood](https://wiki.spiralknights.com/Nefarious_Hood)).
+
+This role with an emphasis on secrecy makes us think of Herex and his spanning involvement counter to Crimson Order, which at that point is a speculation.
+
+Through above connection to curse and advanced designs which incorporate symbol of specifically curse, we propose, that Nefarious Imp is one of a few potential antagonists behind propagation of Underworld potentially separate from intentions of Apocrea.
 
 ##### Arctic Plot
 
-The designs of this set may suggest that this Imp was one most connected with the evil eye designs of Underworld, as evident by [Greavers](https://wiki.spiralknights.com/Greaver) unique armor. The hood, on the other hand, is reminiscent of Apocrean cultists' [obsidian hoods](https://wiki.spiralknights.com/Obsidian_Hood_of_Rituals).
+The design of nefarious gear suggests that this Imp is most connected with the evil eye symbolism of Underworld. The hood, on the other hand, is reminiscent of Apocrean cultists' [obsidian hood](https://wiki.spiralknights.com/Obsidian_Hood_of_Rituals). In that regard a different narrative may be found, revolving around items of [Glacial Prize Box](https://wiki.spiralknights.com/Glacial_Prize_Box). The narrative of Glacial Prize Box coupled with arctic designs -- evil eye symbol on armor's belt, -- allows for a _connection to be established between occult of Underworld and lovecraftian narratives_, specifcally as [`At the Mountains of Madness`](https://lovecraft.fandom.com/wiki/At_the_Mountains_of_Madness)-inspired premise.
 
-The description of [Nefarious Hood](https://wiki.spiralknights.com/Nefarious_Hood) states: `The floating hood is certain to cloak you during clandestine campaigns`, - the `clandestine campaigns` is similar to one of [Arctic Rogue Mask](https://wiki.spiralknights.com/Arctic_Rogue_Mask): `The shattered ice will conceal your identity during clandestine arctic expeditions`. The arctic set is part of [Glacial Prize Box](https://wiki.spiralknights.com/Glacial_Prize_Box).
+Apart from [Arctic Rogue set](https://wiki.spiralknights.com/Arctic_Rogue_Mail), there is Arctic Acolyte:
 
-This is a part of [Arctic Rogue Mail](https://wiki.spiralknights.com/Arctic_Rogue_Mail) which also has evil eye symbol on its belt. With this armor comes the [Arctic Acolyte Mantle](https://wiki.spiralknights.com/Arctic_Acolyte_Mantle) and [Arctic Acolyte Hood](https://wiki.spiralknights.com/Arctic_Acolyte_Hood) which are possibly connected to the Apocrea: `A hood said to be worn by wandering arctic acolytes. 'we saw them heading straight towards the mountains, off into the interior of the vast frozen continent, but why?'`
+- `A plated robe said to be worn by wandering arctic acolytes. 'we saw them heading straight towards the mountains, off into the interior of the vast frozen continent, but why?'` ([Arctic Acolyte Mantle](https://wiki.spiralknights.com/Arctic_Acolyte_Mantle)).
+- `A hood said to be worn by wandering arctic acolytes. 'we saw them heading straight towards the mountains, off into the interior of the vast frozen continent, but why?'` ([Arctic Acolyte Hood](https://wiki.spiralknights.com/Arctic_Acolyte_Hood)).
 
-The Apocrea, being an eldrich realm in that arctic context fits the fabula of ["At the Mountains Of Madness"](https://lovecraft.fandom.com/wiki/At_the_Mountains_of_Madness), which will be discussed at the [Apocrean Engines section](#apocrean-engines), but currently we need to keep in mind a general eldritch cosmic entities' motif.
+As Arctic Rogue design possesses spirals, we would suggest its owner to be Isoran. Through grouping of Arctic Rogue and Arctic Acolytes, we can assume that acolytes were also Isoran in their physiology, eventually leading to a developed idea of _members of Spiral Order defecting in favour of Apocrea_ in a manner, similar to Danford as the most detailed and thematically-accurate example.
 
-This Arctic expedition could be a reason for [Maulos](https://wiki.spiralknights.com/Maulos#Maulos) to exist, as it was likely summoned as a trojan, in the same manner as the rest of the [Legion of Ur](https://wiki.spiralknights.com/The_Return_of_Ur).
+It is here lovecraftian narrative starts to unfold without direct presentation of Apocrean Realm. Given mysterious nature of acolytes, their purpose and similarity to obsifian gear, we can with certainty conclude the implicit connection to Apocrea. And through this connection we can explain the __initial arctic premise__ _as it coincides with the plot_ of [`At the Mountains Of Madness`](https://lovecraft.fandom.com/wiki/At_the_Mountains_of_Madness). Other than this plot point of eldritch horror and frost being grouped together, _the Arctic narrartive remains open-ended_.
 
-To continue this notion, Amu-Sol, as described in the [Heart of Ice](https://wiki.spiralknights.com/Heart_of_ice) briefing: `Freak snowstorms and blizzards have begun surging through the depths seeming to originate from an inhospitable, fiendish city known as 'Amu-Sol'`, may be a stand-in for the eldrich city in Antarctica from "At the Mountains of Madness", although this is likely a coincidence. The key element here being the city was uninhabited before the events, so, this seems fitting to a more general notion of some events being happening in regards to the Underworld and Undercorp.
+##### Blinding Abyss and Maulos
 
-Despite this intermissions, overall setting would suggest that the Nefarious Imp had to be aware of Heart of Ice plot, and, considering his armor, his knowledge of the Curse and wielding of shadow steel, and possibly, Gran Faust - considering their closely similar designs, - it would be plausible for this plan to be carried out by the rogue devilites of Undercorp, as they were becoming everfrost fanatics, but orchestrated by the Imp.
+But, given preexisting narratives, eldritch presence, and existing plots which either do not possess a distinct beginning or are related to frost, we can speculate in attempt to link those narratives back to Arctic Acolytes.
 
-If we are to apply corporate setting, this dichotomy makes us think of Undercorp as by itself a large, desynchronized to a degree corporate entity, which still takes action to enter material realm in many different directions.
+Event of summoning Maulos as a phenomenon of supernatural frost may be related to Apocrean Cultists and by extension Arctic Acolytes, as Acolytes must possess a reason to traverse into `frozen continent`, while devilites of Maulos's cult had to attain an explanaion for focus on supernatural frost specifically.
 
-The act of bringing back Maulos could also be a continuation of the same methodology of bringing back trojans from Underworld through the usage of ritual circles. And, as it was discussed earlier in relation to the function of ritual circles, the process was too slow to bring back entire legion of Ur onto Cradle. A possible solution could be to empower a few trojans with the same underlying curse that afflicted Vanaduke, that is through unnamed Hail Deity - one discussed earlier in the [Maulos section](#influences-of-underworld). But, as this theme so far seem to have no proven physical foundation, we will return to it in the direct analysis of the [legion of Ur and trojan physiology](#legion-of-ur).
+This Arctic expedition could be a reason for [Maulos](https://wiki.spiralknights.com/Maulos#Maulos) to exist, as it was likely summoned as a trojan, yet motivation of a cult surrounding Maulos evidently misaligns with goals of Undercorp: `Provided summary of need for requested resources: 'All hail the great and terrifying Maulos, true lord of the Blinding Abyss'; Please note that 'All fall under the freezing corruption of the great Maulos' is not an acceptable description of current executive hierarchy; 'The freezing corruption of lord Maulos is inescapable'` ([Heart of Ice - Amu-Sol - Fiendish Memo - Morgral'm](https://wiki.spiralknights.com/Heart_of_Ice/Amu-Sol)).
 
-The [Arctic Acolyte Set](https://wiki.spiralknights.com/Arctic_Acolyte_Mantle): `we saw them heading straight towards the mountains, off into the interior of the vast frozen continent` links acolytes of Apocrean design with the story of ["At the Mountains of Madness"](https://lovecraft.fandom.com/wiki/At_the_Mountains_of_Madness), which contains one of the possible locations for an inter-dimensional [Plateau of Leng](https://lovecraft.fandom.com/wiki/Plateau_of_Leng), which is similar to [the Grasping Plateau](https://wiki.spiralknights.com/The_Grasping_Plateau), with both housing a powerful cloaked figure: on Cradle it is Apocrean Harvester, and within Leng its [the High Priest](https://lovecraft.fandom.com/wiki/High_Priest_Not_to_Be_Described), another eldrich entity, likely being a nod to the more eldritch interpretation of the Yellow King. This interpretation of the Yellow King is modern version, different from the mostly a concept of the king from Robert Chamber's "The King in Yellow". Here, we believe, a work is being done on the __eldritch/outer god interpretation of the Yellow King of post-Lovecraftian popular culture and perception of this type of fiction__, _rather than a Yellow King from the source material_, upon which the latter would be built.
+The act of bringing back Maulos could also be a continuation of the same methodology of bringing back trojans from Underworld through the usage of ritual circles. Yet, if such scenario would be true, it seems unlikely that Undercorp would attemtp to stop this process.
 
-Apart from it, Scarabs and Lovecraftian influence could point to another theme across Lovecraftian Myths, specifically, the [Nameless City](https://lovecraft.fandom.com/wiki/Nameless_City) in the desert, and [short story "Nyarlathotep"](https://lovecraft.fandom.com/wiki/Nyarlathotep_(short_story)), as well as ["The Dream-Quest of Unknown Kadath"](https://lovecraft.fandom.com/wiki/The_Dream-Quest_of_Unknown_Kadath) which contain themes of Ancient Egypt, as Nyarlathotep is depicted often as a pharaoh in black and gold. This egyptian motif is vaguely observed across Underworld's culture, as it takes many inspirations from those regions.
+Apart from lovecraftian inpirations, we suggest, that events surrounding the state of Amu-Sol are _vaguely inspired_ by appearances of _Frozen Throne from World of Warcraft universe_.
 
-Due to those parallels, we may suggest, __due to cunning nature and scheming themes of both Nyarlathotep and Nefarious Imp, the latter seems to be a stand-in of the prior in this cosmology__.
+Specifcally, Maulos becomes the stand-in for Lich King Arthas while the Everfrost Tower becomes reaimagined Frozen Throne. Notably, the intermediate phases of Maulos's fight involve his retreating into a block of ice, reminiscent of Ner'zhul being bound within the Frozen Throne, while inner glow of Maulos's mace is reminiscent of Frostmourne.
 
-Nefarious Imp will be later addressed in the [Moorcroft manor past the heavenly kingdom section](#moorcroft-manor-past-heavenly-kingdom) in relation to Underworld expansion and then resolved in the [Resurrection of Margrel](#margrel-and-immortality-through-curse), further relation to this idea of Imp targeting Cradle.
+At that, the [intial proposal](#perma-frostifurs-and-blinding-abyss) of Blinding Abyss being at the bottom or below of colloqual underworld and Underworld of Spiral Knights, likely requiring a similar ritual to summon Maulos into material realm as trojans, as a potential prison dimension. And yet, _it assumes summoning of Maulos was perfomed while he was sealed in Blinding Abyss_, separate from Underworld.
 
-While the next connection is likely a coincidence, we have to point out mention of citadels, as if in potential relation to Almire, as a kingdom, [closely associated with the Spirit Mother](#almire-and-spirit-mother):
+This logic does not explain the reason behind Maulos unique physiology -- of affliction by everfrost, -- which at that point might remain in the same state of ambiguity as [prior discussion on existence of elemental tortodrones](#tortodrone-equipment), nor immortal nature of Perma-Frostifurs, -- as both are built on top of thematic identification of Blinding Abyss as a realm of supernatural frost and set of similarities between Lord Vanaduke and Maulos with inclusion of Magma and Hail deities' influence.
 
-<BookCitation source="H. P. Lovecraft - Fungi from Yuggoth, XXI. Nyarlathotep">
+The framing of Maulos as a lord of Blinding Abyss does not reveal, whether devilites themselves had recently created Maulos as a unique everfrost-bearing trojan or Maulos was summoned as such from Underworld or Blinding Abyss.
 
-  XXI. Nyarlathotep
+If Maulos was affiliated and imprisoned within Blinding Abyss, then his transformation into everfrost-bearing trojan had to happen in the past -- prior to imprisonment of Legion of Ur. Otherwise, depending on the inclusion and degree of inspiration with the narrative of Frozen Throne, Maulos could have been transfomed only recently, albeit his nature as a trojan would introduce a nuance before drawing parallels between both characters.
 
-  And at the last from inner Egypt came
+For now we will commit to a scenario, where Blinding Abyss is representative of supernatural frost and prison for Maulos, from which he was summoned as a trojan by devilites, as _such scenario would not introduce complex mechanics of trojans being transfigured by introduction, replacement or transformation of their Dark Matter mineral_.
 
-  The strange dark One to whom the fellahs bowed;
-
-  Silent and lean and cryptically proud,
-
-  And wrapped in fabrics red as sunset flame.
-
-  Throngs pressed around, frantic for his commands,
-
-  But leaving, could not tell what they had heard;
-
-  While through the nations spread the awestruck word
-
-  That wild beasts followed him and licked his hands.
-
-  Soon from the sea a noxious birth began;
-
-  Forgotten lands with weedy spires of gold;
-
-  The ground was cleft, and mad auroras rolled
-
-  Down on the quaking citadels of man.
-
-  Then, crushing what he chanced to mould in play,
-
-  The idiot Chaos blew Earth’s dust away.
-
-</BookCitation>
-
-##### Operation Gelid and other methods of escaping Cradle
+##### Operation Gelid
 
 At the same time, presence of Spiral Knights' armor within the [Glacial Prize Box](https://wiki.spiralknights.com/Glacial_Prize_Box) roster might suggest that Imp could be involved though the design similarities to the apocrean gear. Those being:
 
 - `A plated robe said to be worn by wandering arctic acolytes. 'we saw them heading straight towards the mountains, off into the interior of the vast frozen continent, but why?'` ([Arctic Acolyte Mantle](https://wiki.spiralknights.com/Arctic_Acolyte_Mantle)).
 - `A hood said to be worn by wandering arctic acolytes. 'we saw them heading straight towards the mountains, off into the interior of the vast frozen continent, but why?'` ([Arctic Acolyte Hood](https://wiki.spiralknights.com/Arctic_Acolyte_Hood)).
 
-Notably, in the [forum post](https://forums.spiralknights.com/en/node/107155), which is an in-universe email, it is said that `Spiral HQ has embarked upon OPERATION GELID. An assortment of items are available to you, including the following`, which in the above context might mean that Spiral HQ itself has an undisclosed relation to Underworld and Apocrea, possibly resulting in the events of [Heart of Ice](https://wiki.spiralknights.com/Heart_of_ice), as there had to be a reason behind this arctic expedition.
+Notably, in the [forum post](https://forums.spiralknights.com/en/node/107155), which is an in-universe email, it is said that `Spiral HQ has embarked upon OPERATION GELID. An assortment of items are available to you, including the following`, which in the above context might mean that _Spiral HQ has an undisclosed relation to Underworld and Apocrea_, possibly resulting in the events of [Heart of Ice](https://wiki.spiralknights.com/Heart_of_ice), and at least an expedition into the frozen continent.
 
-Considering that at that point in time the only goal of Spiral Order was to find a capable energy source and leave Cradle, and the totality of many discoveries of Spiral Order in relation to elemental and shadow damage, there is a chance of Spiral HQ, as an organizational unit, to be planning for other scenarios or methods of leaving Cradle. We suggest so due to presence of aforementioned arctic cultists peices of equipment in the prize box, as this prize box, as other boxes, is integrated into primarity Stranges', that is Haven and Spiral Order logistics and economy. On the contrary, a simpler solution would be that Spiral Order is oblivious to the context of those items within the prize box.
+On the contrary, operation Gelid while is set in a frost-themeed context, exists separately from defected knight and acolytes, being a simpler solution, wherein Spiral Order is oblivious to the context of those items.
 
 #### Strangers and Haven
 
@@ -9774,7 +9768,7 @@ Nameless Realm and material realm are connected through the Whitespace within th
 
 - Those tortodrones were modified across dark cities with the dark matter, existing primarily in Underworld, and then transported through the grim gates across targeted locations to initialize the onslaught of titans.
 
-- One of those initial location was later discovered by Spiral Order on Cradle, known as the Ancient Grove, or as referred by Undercorp - the staging area of tortodrones for the invasion.
+- One of those initial location was later discovered by Spiral Order on Cradle, known as Ancient Grove, or as referred by Undercorp -- the staging area of tortodrones for the invasion.
 
 - As Titans are at war with Undercorp, they break the connections with the Underworld through the destruction of Grim Gates. This causes an unaccounted behavior of graviton technology to destabilize.
 
