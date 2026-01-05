@@ -3267,40 +3267,43 @@ Through above connection to curse and advanced designs which incorporate symbol 
 
 ##### Arctic Plot
 
-The design of nefarious gear suggests that this Imp is most connected with the evil eye symbolism of Underworld. The hood, on the other hand, is reminiscent of Apocrean cultists' [obsidian hood](https://wiki.spiralknights.com/Obsidian_Hood_of_Rituals). In that regard a different narrative may be found, revolving around items of [Glacial Prize Box](https://wiki.spiralknights.com/Glacial_Prize_Box). The narrative of Glacial Prize Box coupled with arctic designs -- evil eye symbol on armor's belt, -- allows for a _connection to be established between occult of Underworld and lovecraftian narratives_, specifcally as [`At the Mountains of Madness`](https://lovecraft.fandom.com/wiki/At_the_Mountains_of_Madness)-inspired premise.
+The design of nefarious gear suggests that this Imp is most connected with the evil eye symbolism of Underworld. [Nefarious Hood](https://wiki.spiralknights.com/Nefarious_Hood), on the other hand, is reminiscent of Apocrean cultists' [Obsidian Hood](https://wiki.spiralknights.com/Obsidian_Hood_of_Rituals). In that regard a different narrative may be found, revolving around items of [Glacial Prize Box](https://wiki.spiralknights.com/Glacial_Prize_Box). The narrative of Glacial Prize Box coupled with arctic designs -- evil eye symbol on armor's belt, -- allows for a _connection to be established between occult of Underworld and lovecraftian storytelling_, specifcally as [`At the Mountains of Madness`](https://lovecraft.fandom.com/wiki/At_the_Mountains_of_Madness)-inspired premise.
 
 Apart from [Arctic Rogue set](https://wiki.spiralknights.com/Arctic_Rogue_Mail), there is Arctic Acolyte:
 
 - `A plated robe said to be worn by wandering arctic acolytes. 'we saw them heading straight towards the mountains, off into the interior of the vast frozen continent, but why?'` ([Arctic Acolyte Mantle](https://wiki.spiralknights.com/Arctic_Acolyte_Mantle)).
 - `A hood said to be worn by wandering arctic acolytes. 'we saw them heading straight towards the mountains, off into the interior of the vast frozen continent, but why?'` ([Arctic Acolyte Hood](https://wiki.spiralknights.com/Arctic_Acolyte_Hood)).
 
-As Arctic Rogue design possesses spirals, we would suggest its owner to be Isoran. Through grouping of Arctic Rogue and Arctic Acolytes, we can assume that acolytes were also Isoran in their physiology, eventually leading to a developed idea of _members of Spiral Order defecting in favour of Apocrea_ in a manner, similar to Danford as the most detailed and thematically-accurate example.
+As Arctic Rogue design possesses spirals, we would suggest its owner to be Isoran. Through grouping of Arctic Rogue and Arctic Acolytes, we can assume that acolytes were also Isoran in their physiology, eventually leading to a developed idea of _members of Spiral Order defecting in favour of Apocrea_ in a manner, similar to _Danford_ as the most detailed and thematically-accurate example.
 
-It is here lovecraftian narrative starts to unfold without direct presentation of Apocrean Realm. Given mysterious nature of acolytes, their purpose and similarity to obsifian gear, we can with certainty conclude the implicit connection to Apocrea. And through this connection we can explain the __initial arctic premise__ _as it coincides with the plot_ of [`At the Mountains Of Madness`](https://lovecraft.fandom.com/wiki/At_the_Mountains_of_Madness). Other than this plot point of eldritch horror and frost being grouped together, _the Arctic narrartive remains open-ended_.
+It is here lovecraftian narrative starts to unfold without direct presentation of Apocrean Realm. Given mysterious nature of acolytes, their purpose and similarity to Apocrean-obsidian gear, we can with high precision point out an implicit connection to Apocrea. And through this connection we can explain the __initial arctic theme__ _as it coincides with the premise_ of [`At the Mountains Of Madness`](https://lovecraft.fandom.com/wiki/At_the_Mountains_of_Madness). Other than this plot point of eldritch horror and frost being grouped together, _the Arctic narrative remains open-ended_.
 
-##### Blinding Abyss and Maulos
+##### Return to Blinding Abyss and Maulos
 
 But, given preexisting narratives, eldritch presence, and existing plots which either do not possess a distinct beginning or are related to frost, we can speculate in attempt to link those narratives back to Arctic Acolytes.
 
-Event of summoning Maulos as a phenomenon of supernatural frost may be related to Apocrean Cultists and by extension Arctic Acolytes, as Acolytes must possess a reason to traverse into `frozen continent`, while devilites of Maulos's cult had to attain an explanaion for focus on supernatural frost specifically.
+Event of summoning Maulos as a phenomenon of supernatural frost may be related to Apocrean Cultists and by extension Arctic Acolytes, as Acolytes must possess a reason to traverse into `frozen continent`, while devilites of Maulos's cult had to possess an initiation of the cult and a focus on supernatural frost.
 
-This Arctic expedition could be a reason for [Maulos](https://wiki.spiralknights.com/Maulos#Maulos) to exist, as it was likely summoned as a trojan, yet motivation of a cult surrounding Maulos evidently misaligns with goals of Undercorp: `Provided summary of need for requested resources: 'All hail the great and terrifying Maulos, true lord of the Blinding Abyss'; Please note that 'All fall under the freezing corruption of the great Maulos' is not an acceptable description of current executive hierarchy; 'The freezing corruption of lord Maulos is inescapable'` ([Heart of Ice - Amu-Sol - Fiendish Memo - Morgral'm](https://wiki.spiralknights.com/Heart_of_Ice/Amu-Sol)).
+This Arctic expedition can be vaguely connected to [Maulos's](https://wiki.spiralknights.com/Maulos#Maulos) sudden appearance, as it was likely summoned as a trojan, yet motivation of a cult surrounding Maulos evidently misaligns with goals of Undercorp: `Provided summary of need for requested resources: 'All hail the great and terrifying Maulos, true lord of the Blinding Abyss'; Please note that 'All fall under the freezing corruption of the great Maulos' is not an acceptable description of current executive hierarchy; 'The freezing corruption of lord Maulos is inescapable'` ([Heart of Ice - Amu-Sol - Fiendish Memo - Morgral'm](https://wiki.spiralknights.com/Heart_of_Ice/Amu-Sol)). This is a speculation, which attempts to tie those loose ends. Further on we will address an issue of Maulos's existence with current knowledge of Underworld' presence and Undercorp's operations on Cradle.
 
-The act of bringing back Maulos could also be a continuation of the same methodology of bringing back trojans from Underworld through the usage of ritual circles. Yet, if such scenario would be true, it seems unlikely that Undercorp would attemtp to stop this process.
+The act of bringing back Maulos could be a continuation of the same methodology of bringing back trojans from Underworld through the ritual circles. Yet, if such scenario would be true, it seems unlikely that Undercorp would attemtp to stop this process and at such scale, involving a devilite city.
 
-Apart from lovecraftian inpirations, we suggest, that events surrounding the state of Amu-Sol are _vaguely inspired_ by appearances of _Frozen Throne from World of Warcraft universe_.
+Apart from lovecraftian inpirations, we suggest, that events surrounding the state of Amu-Sol are potentially inspired by appearances of __Frozen Throne__ from _World of Warcraft_ universe.
 
-Specifcally, Maulos becomes the stand-in for Lich King Arthas while the Everfrost Tower becomes reaimagined Frozen Throne. Notably, the intermediate phases of Maulos's fight involve his retreating into a block of ice, reminiscent of Ner'zhul being bound within the Frozen Throne, while inner glow of Maulos's mace is reminiscent of Frostmourne.
+Within this interpretation Maulos becomes the stand-in for Lich King Arthas while the Everfrost Tower becomes reaimagined Frozen Throne. Notably, the intermediate phases of Maulos's fight involve him retreating into a block of ice, reminiscent of Ner'zhul being bound within the Frozen Throne, while inner glow of Maulos's mace is reminiscent of Frostmourne, as a unique weapon, potentially similar in its operation to [Triglav](https://wiki.spiralknights.com/Triglav), as the latter near-seamlessly incorporates everfrost.
 
-At that, the [intial proposal](#perma-frostifurs-and-blinding-abyss) of Blinding Abyss being at the bottom or below of colloqual underworld and Underworld of Spiral Knights, likely requiring a similar ritual to summon Maulos into material realm as trojans, as a potential prison dimension. And yet, _it assumes summoning of Maulos was perfomed while he was sealed in Blinding Abyss_, separate from Underworld.
+At that, the [intial proposal](#perma-frostifurs-and-blinding-abyss) of Blinding Abyss being at the bottom or below of colloqual underworld and Underworld of Spiral Knights, likely requires a similar ritual to summon Maulos into material realm as trojans, wherein Blinding Abyss is reframed as a potential _prison dimension_ or a significantly different region of Underworld in order to be acknowledged by devilites by a distinguished name.
 
-This logic does not explain the reason behind Maulos unique physiology -- of affliction by everfrost, -- which at that point might remain in the same state of ambiguity as [prior discussion on existence of elemental tortodrones](#tortodrone-equipment), nor immortal nature of Perma-Frostifurs, -- as both are built on top of thematic identification of Blinding Abyss as a realm of supernatural frost and set of similarities between Lord Vanaduke and Maulos with inclusion of Magma and Hail deities' influence.
+This logic does not explain the reason behind Maulos unique physiology -- as affliction by everfrost, -- which at that point might remain in the same state of ambiguity as [prior discussion on existence of elemental tortodrones](#tortodrone-equipment), nor immortal nature of Perma-Frostifurs, -- as both are built on top of thematic identification of Blinding Abyss as a realm of supernatural frost and a set of parallels between Lord Vanaduke and Maulos.
 
 The framing of Maulos as a lord of Blinding Abyss does not reveal, whether devilites themselves had recently created Maulos as a unique everfrost-bearing trojan or Maulos was summoned as such from Underworld or Blinding Abyss.
 
 If Maulos was affiliated and imprisoned within Blinding Abyss, then his transformation into everfrost-bearing trojan had to happen in the past -- prior to imprisonment of Legion of Ur. Otherwise, depending on the inclusion and degree of inspiration with the narrative of Frozen Throne, Maulos could have been transfomed only recently, albeit his nature as a trojan would introduce a nuance before drawing parallels between both characters.
 
-For now we will commit to a scenario, where Blinding Abyss is representative of supernatural frost and prison for Maulos, from which he was summoned as a trojan by devilites, as _such scenario would not introduce complex mechanics of trojans being transfigured by introduction, replacement or transformation of their Dark Matter mineral_.
+For now we will commit to a scenario, where Blinding Abyss is representative of supernatural frost and prison for Maulos, from which he was summoned as a trojan by devilites, as such scenario will:
+
+- Avoid complex mechanics of trojans being transfigured by introduction, replacement or transformation of their Dark Matter mineral;
+- Explaining Maulos's sudden apperance in the story as a summoned, powerfull on his own unit of Legion of Ur. And it is his unique physiology of being powered by everfrost which grants him power and frames him as a significant enough threat to be sealed in the depths of Underworld, called Blinding Abyss.
 
 ##### Operation Gelid
 
@@ -3312,6 +3315,8 @@ At the same time, presence of Spiral Knights' armor within the [Glacial Prize Bo
 Notably, in the [forum post](https://forums.spiralknights.com/en/node/107155), which is an in-universe email, it is said that `Spiral HQ has embarked upon OPERATION GELID. An assortment of items are available to you, including the following`, which in the above context might mean that _Spiral HQ has an undisclosed relation to Underworld and Apocrea_, possibly resulting in the events of [Heart of Ice](https://wiki.spiralknights.com/Heart_of_ice), and at least an expedition into the frozen continent.
 
 On the contrary, operation Gelid while is set in a frost-themeed context, exists separately from defected knight and acolytes, being a simpler solution, wherein Spiral Order is oblivious to the context of those items.
+
+Lastly, Nefarious Imp remains a one-time figure appearing only through a costume set. While we would not identify him as the primary force which coordinates Underworld in general, his nefarious characteristic, secrecy and association with curse makes us to consider him as a potential candidate for that role of an antagonist existing side-by-side with Apocrea as we analyze other _inexplicable instances of Underworld's presence_.
 
 #### Strangers and Haven
 
@@ -4279,15 +4284,15 @@ Could it be, that during Arkus's fight in the Cryptic Statuary greavers serve ro
 
 #### Minerals and Souls: Part 3 - Mineral Charge
 
-Sparks of life, or rather, an emergency revive, _supercharges dark matter shard in Arkus_, forming small arcs of purple lightning on the first revive around the crystal. On the second revive, those _arcs are seen all throughout Arkus's armor_.
+Sparks of Life, or rather, an emergency revive, _supercharges dark matter shard in Arkus_, __forming small arcs of purple lightning__ on the first revive around the crystal. On the second revive, those __arcs are seen all throughout Arkus's armor__.
 
-The last stages in that regard resemble tier 3 trojans, as both do have a characteristic purple crystal fuming, and lightning. Arkus' dark matter shard, same as trojans', glows pink and burns with the same purple flame, not seen before initial revive.
+The last stages in that regard resemble tier 3 trojans, as both do have a characteristic purple crystal fuming, and lightning. Arkus' Dark Matter shard, same as trojans', glows pink and _burns with the same purple flame_, __not seen before initial revive__.
 
-__This property of burning after a revive in mineral seems to us as a depiction of its now charged state.__
+__This property of burning after a revive in mineral, we propose, is the depiction of mineral's now charged state.__
 
-To cycle back to tortofists' ammo - there is potentially only other one instance of charged dark matter - the bullets of [Gorgofist](https://wiki.spiralknights.com/Gorgofist). In that case the crystals are the same color as pillars but have bright purple pulsing glow as the rest of tortofists' ammo.
+Revising tortofists' ammo, there is potentially only other one instance of charged Dark Matter -- the bullets of [Gorgofist](https://wiki.spiralknights.com/Gorgofist). In that case the crystals are the same color as pillars, but they have bright purple pulsing glow as the rest of tortofists' ammo.
 
-Throughout [Minerals and Souls](#minerals-and-souls-part-1), [Auras and Souls](#auras-and-souls), and [Apocrean Engines](#apocrean-engines) we had suggested, that __minerals under some conditions could contain charge made of souls__, _essentially the Energy in a specific form._
+Throughout [Minerals and Souls](#minerals-and-souls-part-1), [Auras and Souls](#auras-and-souls), and [Apocrean Engines](#apocrean-engines) we had suggested, that __minerals under unknown conditions could contain Energy-based charge__.
 
 The Energy here being the medium for souls to exist in and through, and a link for the fuel of [Apocrean Engines](#apocrean-engines) under condition of being captured by the latter. That energy is contained in minerals as charge, one used to power Clockwork Gates, as suggested by Vaelyn's team technician: `We need to analyze how mineral power affects the Core. The problem is that very little power reaches down to these depths. We can gather so much data from each gate as it launches`. Although, this dialogue could potentially refer to an old method of gate construction, as it had remained unchanged after rework of energy system. But since the dialogue is in the game, and talks about gate launches themselves, we may also suggest a role of energy here being used as-is -- an important component not intended to be removed as it sheds light on the physics of minerals.
 
@@ -4326,9 +4331,9 @@ Now we cycle back to tortodrones, but in the context of souls. What connects tor
 
     What sets him apart from trojans is the presence of everfrost onto his skull, forming a vertical spike. When he is defeated, the everfrost shard shatters with its distinct color.
 
-All of those patterns seem to point a specificity of dark matter and by extension, everfrost, being connected, but also having similar underlying nature and effects.
+All of those patterns seem to point a specificity of Dark Matter and by extension, everfrost, being connected, but also having similar underlying nature and effects.
 
-To reiterate on [Minerals and Souls part 1 conclusion](#minerals-and-souls-part-1), those properties emerging from a connection to dark matter seem as one of arguments to energy in some capacity being contained in minerals. But then, this _leads to questioning if everfrost is a subtype of moonstone_, be it Underworld counterpart, or a changed by souls of Blinding Abyss moonstone? This currently is unknown. But, as it is _capable of growing from Maulos's ribcage_, we have to point out the nature of Darkfire Lord Vanaduke's and Carnavon's __claws - made of dark matter, as if transformed__.
+To reiterate on [Minerals and Souls part 1 conclusion](#minerals-and-souls-part-1), those properties emerging from a connection to dark matter seem as one of arguments to energy in some capacity being contained in minerals. But then, this _leads to questioning if everfrost is a subtype of moonstone_, be it Underworld counterpart, or a changed by souls of Blinding Abyss moonstone? This currently is unknown, but plausible. As it is _capable of growing from Maulos's ribcage_, we have to point out the nature of Darkfire Lord Vanaduke's and Carnavon's __claws -- made of dark matter, as if transformed__.
 
 Could it be, that __dark matter shard on trojans backs is a symptom, rather than a reason for their condition__?
 
@@ -4580,7 +4585,7 @@ This concept can be applied to the distinction between Lord Vanaduke's Mask and 
 
 Finery is the one utilizing [Blighted Bone](https://wiki.spiralknights.com/Blighted_Bone) in its alchemy. This may not explicitly mean, that the departed Vanaduke's souls is rebound, but some ot its image remains, as specified by the [Soul Dust](https://wiki.spiralknights.com/Soul_Dust): `The dust of the departed. Whether it still retains any shred of a soul remains to be seen`.
 
-##### Mask's design
+##### Lord Vanaduke's Mask Design
 
 As for the design of the mask, one element we mentioned several times was the _red gem embedded into the mask_. Across cultures such symbolism is usually referred to the _Third Eye or a connection to otherworldly forces_. In case of Lord Vanaduke, we would argue that the mask is manifestation of the curse and is the face of the deity by the reasoning that Almirian Armor remains similar to Spiral Order in its medieval designs, and presence of unconventional elements is rare.
 
