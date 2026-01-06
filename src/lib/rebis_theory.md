@@ -2989,7 +2989,27 @@ The circles are made of a yellow mineral, which so far lacks association with so
 
 Apocrea, by being inspired by Lovecraftian eldritch deities, given this themes, may be preceived as one of the first civilizations, potentially preceding even Underworld, due to the nature of the source material, a _civilization as old as reality itself_.
 
-<!--and at its extreme end -- the case of Azathoth's act of dreaming and its court, -- directly responsible for existence. Here we also note on the motif of _dreaming as an act of creation or definition of reality_, as in case of Azathoth his perpetual dream is the humananity-inhabited reality.-->
+And at its extreme end -- the case of Azathoth's act of dreaming and its court in later installments, in particular, _Henry Kuttner's_ `Hydra` of _Lovecraft Circle of works_, -- directly responsible for existence. Here we also note on the motif of _dreaming as an act of creation or definition of reality_, as in case of Azathoth his perpetual dream is the humananity-inhabited reality:
+
+<BookCitation source="The dream-Quast of Unknown Kadath - H.P.Lovecraft">
+
+  ...shocking final peril which gibbers unmentionably outside the ordered universe, where no dreams reach; that last amorphous blight of nethermost confusion which blasphemes and bubbles at the centre of all infinity—the boundless daemon sultan Azathoth, whose name no lips dare speak aloud, and who gnaws hungrily in inconceivable, unlighted chambers beyond time amidst the muffled, maddening beating of vile drums and the thin, monotonous whine of accursed flutes;
+
+  ...
+
+  ...no beings as nearly human as these would dare approach the ultimate nighted throne of the daemon Azathoth in the formless central void.
+
+</BookCitation>
+
+Followed by the reveal of deity' power:
+
+<BookCitation source="Hydra - Henry Kuttner">
+
+  In that place thought was obscurely linked to energy and matter, because of an insane shrill piping (Ludwig said) that eternally filtered from beyond a veil of flickering colors. It was very near the Center, the Center of Chaos, where dwells Azathoth, the Lord of All Things. All that exists was created by the thoughts of Azathoth, and only in the Center of Ultimate Chaos could Scott find means to live again on earth in human form. There is an erasure in Edmond’s notes at this point, and it is only possible to make out the fragment: “... of thought made real.”
+
+  White-faced, hollow-cheeked, Ludwig said that he must complete his task. He must take Scott to the Center, although he confessed to a horrible fear that made him hesitate. There were dangers in the way, and pitfalls where one might easily be trapped. Worst of all, the veil shielding Azathoth was thin, and even the slightest glimpse of the Lord of All Things would mean utter and complete destruction to the beholder. Scott had spoken of that, Ludwig said, and had also mentioned the dreadful lure that would drag the young student’s eyes to the fatal spot unless he fought strongly against it.
+
+</BookCitation>
 
 If we to take this generalized idea of eldritch beings and apply to the setting, then _ritual circles would be one of the most ancient methods of using magic across known realms_ -- a notion we have suggested to exist at the beginning, as we [compared grim gates and ritual circles in their transportation capabilities and limitations](#summoning-from-underworld), but at significantly lesser scope of strictly Underoworld and introduction of this technology to civilizations of material realm.
 
@@ -3472,17 +3492,17 @@ Apocrean Harvester, given its stature and presence across the Plateau present no
 
 More so, Plateau of Leng is supposedly located at a crossing point of multiple dimensions while itself being seen both in the material realm of Earth (`In The Mountains of Madness`), but also in the Dreamlands (`The Dream-Quest of Unknown Kadath`), which is not an exact, but similar theme to Grasping Plateau being a trap, -- emphasized by its aggressive name as explicitly `Grasping`, alluding to power of the Harvester, -- located in proximity of material realm by its nature as a trap, within an the area of influence of the Apocrea through presence of the Shroud.
 
-As those notions are rooted in lovecraftian horror thematically, Danford's text are in this genre are, most confidently, reveal truth despite being framed through lens of a madman, -- a characteritic element of the modern interpretations of the genre past Lovecraft and his peers.
+As those notions are rooted in lovecraftian horror thematically, Danford's text are in this genre are, most confidently, _reveal truth despite being delivered through a len of an unreliable narrator, a madman_, -- a characteritic element of the modern interpretations of the genre past Lovecraft and his peers, which at a current point may be considered a trope on its own from a perspective of pop-cultural adoption, refraction and evolution of the genre.
 
 The idea of capturing souls is one of central elements to Apocrea's motivation, but, to asess further details on operational metaphysical principals of the realm, we have to cover its other elements.
 
-Allister Danford in the context of eldritch horror themes likely represent a similar figure, [Danforth](https://lovecraft.fandom.com/wiki/Danforth) of the events of ["In the Mountains Of Madness"](https://lovecraft.fandom.com/wiki/At_the_Mountains_of_Madness). It is also worth noting, that Apocrean activity, as eldritch entity manifests as insomnia, as stated by the memorandum: `We at Spiral HQ are concerned about a spike in the number of knights who push themselves to the limit with lack of sleep, and Medical has noted a similar uptick in knights who want to sleep, but can't. We suspect this is at least partly due to recent Apocrean activity in the Clockworks` ([Sleep is for the Strong](https://forums.spiralknights.com/en/node/111472)).
+Allister Danford in the context of eldritch horror may represent a similar character -- [Danforth](https://lovecraft.fandom.com/wiki/Danforth) of [`In the Mountains Of Madness`](https://lovecraft.fandom.com/wiki/At_the_Mountains_of_Madness). It is also worth noting, that Apocrean activity, as eldritch entity __manifests as insomnia__, as stated per memorandum: `We at Spiral HQ are concerned about a spike in the number of knights who push themselves to the limit with lack of sleep, and Medical has noted a similar uptick in knights who want to sleep, but can't. We suspect this is at least partly due to recent Apocrean activity in the Clockworks` ([Sleep is for the Strong](https://forums.spiralknights.com/en/node/111472)).
 
-Apocrea itself, as a word, may be a derivation of the word Apocrypha, referring to texts, which exist outside of Biblican canon, and, in the context of being an eldritch deity, may fall outside of the defined so far cosmology. This aspect will be important later in the context of heavenly kingdom and the Fallen.
+Apocrea, as a word, may be a derivation of the word _Apocrypha_, referring to _texts, which exist outside of Biblican canon_, and, in the context of being an eldritch deity, __may fall outside of the defined so far cosmology__, as eldritch deities as they are defined in Yog-Sothothery as a source material define reality -- the more ancient their instances are, more inseparable they become from operation of reality, [ending with Azathoth](#lovecraftian-narrative).
 
-Those factor make impression of Apocrean Realm as one of Lovecraftian origin in the broadest sence. But, there are 2 elements to Apocrea which not only allow it to be distinguished, but further relate to the myths. It is the description of concerete environments of Apocrean Relam, and motivation of Apocrea itself. Among the pantheon of deities within Yog-Sothothery, most distinct motivations are outlined for Nyarlathotep, as one to influence humanity to lead itself to annihilation.
+Those factor make impression of Apocrean Realm as one of Lovecraftian origin in the broadest sence.
 
-But, as far as Danford sets Apocrea's motivations, we have to understand them once we understand the elements of the realm.
+There are 2 elements to Apocrea which not only allow it to be distinguished, but further relate to the myths. It is the description of concerete environments of Apocrean Realm and agents of Apocrea across material realm.
 
 ##### Apocrean Materials
 
