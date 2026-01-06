@@ -3316,7 +3316,7 @@ Notably, in the [forum post](https://forums.spiralknights.com/en/node/107155), w
 
 On the contrary, operation Gelid while is set in a frost-themeed context, exists separately from defected knight and acolytes, being a simpler solution, wherein Spiral Order is oblivious to the context of those items.
 
-Lastly, Nefarious Imp remains a one-time figure appearing only through a costume set. While we would not identify him as the primary force which coordinates Underworld in general, his nefarious characteristic, secrecy and association with curse makes us to consider him as a potential candidate for that role of an antagonist existing side-by-side with Apocrea as we analyze other _inexplicable instances of Underworld's presence_.
+Lastly, Nefarious Imp remains a one-time figure appearing only through a costume set. While we would not identify him as a distinct force which coordinates Underworld in general, his nefarious characteristic, secrecy and association with curse makes us to consider him as a potential candidate for that role of an antagonist existing side-by-side with Apocrea as we analyze other _inexplicable instances of Underworld's presence_.
 
 #### Strangers and Haven
 
@@ -3370,9 +3370,7 @@ Nomadic lifestyle of Stranger can be attributed to a risk of Cradle incorporatin
 
 Outside of Haven there is a [graveyard](https://wiki.spiralknights.com/Blades_of_the_Fallen), which contains the first instance of Lost Souls. This graveyard differs drastically from the rest of graveyards, as it is characterized by a field fo revered arms, a military funeral, _most likely attributed to Spiral Order_. Yet, the fact lost souls to persist there, we link to the [same phenomenon as Isorans of the Iron Hulk during Ghost in The Machine danger mission](#ghosts-in-the-machine).
 
-During the events of [Breaking in The Recruits]() the Collector fight happens on a town square, which in its design is reminiscent of Haven, specifically, due to presence of white stonework and colored tarps. Collector's arena is a distinct city square with a building at its back, with features of armaments within, _nearly identical to the auction house_ -- suggesting this being town's center, as auction house and a community center is at the key, central position of Haven's city plan.
-
-The city itself is sunken, as evident by submerged building west of the city. There is also a distinct white arch behind the Collector's arena, which is identical to one found in Haven directly south of the town square, which might further accent cultural importance of the square.
+During the events of [Breaking in the Recruits](https://wiki.spiralknights.com/Breaking_In_the_Recruits) the Collector fight happens at a location similar to Haven town square. Collector's arena is a distinct city square with a building at its north _featuring armaments within, nearly identical to the auction house_ -- suggesting this being town's center, as auction house and a community center as central to city's plan.
 
 ##### Minerals and Souls: Part 2 - Strangers' Mining Operations, Crystal and Mist Energy
 
@@ -3402,7 +3400,7 @@ At that, the description of `Due to the intense power source at Cradle's core, t
 
 Notably, it is through the bribe several [Bombhead Masks](https://wiki.spiralknights.com/Bombhead_Mask): `A mask commissioned by King Krogmo to celebrate the launch of Blast Network that curiously resembles a live bomb. Available in a wide variety of styles, there is likely one to match any armor set`, can be acquired, including a [Cursed Bombhead Mask](https://wiki.spiralknights.com/File:Cursed_Bombhead_Mask-Equipped.png). Due to its design and _acknowledgement of curse_, it reminds of [undead Bombies](https://wiki.spiralknights.com/Bombie). Could it be, that those masks are manufactured in the same manner, as zombies are transformed after their death into bombies? As there are devilites present, even if their are not seemingly affiliated with Undercorp, we have to keep in mind their presence.
 
-##### Cradle Festivals
+##### Strangers' Festivals
 
 There are a few celebrations in Haven, attributed to Strangers' culture:
 
@@ -3422,7 +3420,7 @@ There are a few celebrations in Haven, attributed to Strangers' culture:
   In that regard, Dark Harvest -- both through it acknowledgement by Strangers and festive redecoration of Haven, -- becomes an important celebration within Strangers' culture on Cradle, **acknowledging the supernatural to far greater extent that Isorans**, _as the latter are distinctly unfamiliar with the supernatural_.
 
 - `The Strangers pause at the equinox to recognize the brief moment of cosmic balance on Cradle. For just a breath of time, there is harmony between night and day, the sun and moon, and symmetry in the celestial sphere` ([Balance of the Equinox](https://forums.spiralknights.com/en/node/98178), [Cradle Equinox](https://wiki.spiralknights.com/Equinox_Prize_Box)).
-- Not particularly and event, but a tendency of [Shroud of the Apocrea](https://wiki.spiralknights.com/Shroud_of_the_Apocrea) resurging over Cradle annually.
+- Not particularly and event, but a tendency of [Shroud of the Apocrea](https://wiki.spiralknights.com/Shroud_of_the_Apocrea) resurging over Cradle.
 
 Earlier we have discussed meaning of several [Equinox Prize Box](https://wiki.spiralknights.com/Equinox_Prize_Box) items, and how they are unique in 2 attributes: they are from Isoran past, and how alchemical meaning is weaved into them. Strangers being capable of recognizing this property would mean that in their own culture relatively similar cosmological and mythological concepts exist.
 
@@ -3430,35 +3428,51 @@ Earlier we have discussed meaning of several [Equinox Prize Box](https://wiki.sp
 
 Apocrea represents the prime instance of an eldritch deity within the established comsology.
 
-Due to this, we have to analyse metaphysical nature of Apocrean Realm from 2 major perspectives:
+Due to this, we have to analyze metaphysical nature of Apocrean Realm from 2 major perspectives:
 
-- From an in-universe cosmology, based on the established concepts of minerals, energy, and souls, and how they coincide with Apocrea's motivtion;
-- Secondly, from the understanding of Apocrean Realm having significant part of its thamtic foundation in Lovecraftian mythology, as well as works of authors, which have followed after.
+- From an in-universe cosmology, based on the established concepts of minerals, energy, and souls, and how they coincide with Apocrea's motivation, one which was [initially presented through Danford](#apocreas-goal-as-negation-of-existence) as a desire of reversion of existence into `primordial blackness`;
+- Secondly, from the understanding of Apocrean Realm having significant part of its thematic foundation in Lovecraftian mythology as a thought framework.
 
 ##### Yog-Sothothery and Myths
 
-As we will discuss Apocrean Relam from both of those approaches, we inevitably arrive to an idea of Lovecraft's Yog-Sothothery - a totality of themes, figures, motifs, principles, and a pantheon of gods, as they are defined by Lovecraft within physical laws. Those gods, in reality, do not defy the physical laws but rather represent their true depth. Within Yog-Sothothery, both in tituals and physical laws coexist within a single cosmology.
+As we will discuss Apocrean Realm from both of those approaches, we inevitably arrive to an idea of __Lovecraft's Yog-Sothothery__ _-- a totality of themes, figures, motifs, narrative and physical principles, and a pantheon of gods, as they are defined by Lovecraft_. Those gods do may be seen as defying physical laws, but, for this analysis we will approach them as representative of Lovecraft's universe physics to its farthest extent.
 
-But, as established this system is, as in Yog-Sothothery, as in Apocrean Realm, Underworld, and, as we will see later, the Swarm, - while all operate within their own corresponding Universes, the precise details, laws, and specificities are left ambiguous. They are intentionally left undefined and even contradicting by design, where the __true scope of underlying physical laws is meant to be unknowable__.
+Within Yog-Sothothery, both in rituals and physical laws coexist within a single cosmology, as we have earlier noted on that in relation to [devilite ritual circles as emergent from Apocrean Realm](#apocrean-ritual-circles).
+
+But, as established this system is, as in Yog-Sothothery, as in Apocrean Realm, Underworld, and as we will see later, the Swarm, -- while all operate within their own corresponding Universes, _the precise details, laws, and specificities are left ambiguous as not primarily important to the narrative_. They are intentionally left undefined and may contradict, where the __true scope of underlying physical laws is meant to be unknowable__.
 
 As stated in the very beginning, we are planning to analyze those details to their conclsusions and the physical laws of Spiral Knights universe.
 
 Cradle has a connection to the Underworld, in, at least, 2 instances:
 
-- First, there were tortomega, who stumbled upon Undercorp as the latter entered material realm, explored in [Arrival of Undercorp](#chapter-vi-arrival-of-undercorp),
-- Second, there are gremlins, who are reported to outsource development of projects against Spiral Knights: `Analysis of the data collected from these offices indicates that devilite corporations are outsourced by gremlins in order to design and manage various projects that include weapons specifically engineered to target Spiral Knight squads` ([Work for Idle Hands](https://wiki.spiralknights.com/Work_for_Idle_Hands)).
+1. First, there were tortomega, who stumbled upon Undercorp as the latter entered material realm, explored in [Arrival of Undercorp](#chapter-vi-arrival-of-undercorp),
+2. Second, there are gremlins, who are reported to outsource development of projects against Spiral Knights: `Analysis of the data collected from these offices indicates that devilite corporations are outsourced by gremlins in order to design and manage various projects that include weapons specifically engineered to target Spiral Knight squads` ([Work for Idle Hands](https://wiki.spiralknights.com/Work_for_Idle_Hands)).
 
-Apocrean Realm, on the other hand, remains unexplored. There is a hint to understanding its logic found in [Professor Allister Danford's journal entry](https://forums.spiralknights.com/en/node/91276), which is also the largest clue on Apocrea's motivation.
+Apocrean Realm, on the other hand, remains unexplored.
 
-`In the deep dark below, beyond the space where time wakens and yawns, beyond the shadows cast by the great leviathan of eternity, the Apocrea stir. Within cities where geometry and madness share meaning, constructed from thought, from unnatural impulse, the Apocrea dream dark machines into being. Only souls keep these engines roaring, heard screaming across distant stars. Only souls can fill their void, sublime in its vast emptiness. Oh such beautiful souls! Bright and vibrant like fruit warming on the branch from a summer’s sun, longing for the pull of the earth below, the chance to seed and grow and birth anew. What terrible naivety! What utter farce! All of them mere crops against their relentless scythe! Though they may steal sanctuary in the cracks and corners of their terrible realm, it is ever fleeting. The blinding gaze of the Apocrea is boundless. The daylight, the starlight; all hope is merely waiting for their dark shroud to return this cosmic play to its primordial black. Dear heavens! The stars grin down with lustful intent! It is an abomination, an embodiment of sublime beauty, dark and blooded! I weep and laugh before the shroud that waits! Nuul-duggath, I am seared in your gaze oh Apocrea, teeming filth of ages! Nyarrlotth-MORG! (The remaining pages are a series of indecipherable symbols and patterns, seemingly drawn with great haste)` ([Recovered from the journal of Prof. Allister Danford, Dean of Antiquities - Professor Allister Danford](https://forums.spiralknights.com/en/node/91276)).
+At that, [Professor Allister Danford's journal](https://forums.spiralknights.com/en/node/91276) is the largest source of information of the entities which inhabit Apocrean Realm -- Apocrea, -- its motivations and goals: `In the deep dark below, beyond the space where time wakens and yawns, beyond the shadows cast by the great leviathan of eternity, the Apocrea stir. Within cities where geometry and madness share meaning, constructed from thought, from unnatural impulse, the Apocrea dream dark machines into being. Only souls keep these engines roaring, heard screaming across distant stars. Only souls can fill their void, sublime in its vast emptiness. Oh such beautiful souls! Bright and vibrant like fruit warming on the branch from a summer’s sun, longing for the pull of the earth below, the chance to seed and grow and birth anew. What terrible naivety! What utter farce! All of them mere crops against their relentless scythe! Though they may steal sanctuary in the cracks and corners of their terrible realm, it is ever fleeting. The blinding gaze of the Apocrea is boundless. The daylight, the starlight; all hope is merely waiting for their dark shroud to return this cosmic play to its primordial black. Dear heavens! The stars grin down with lustful intent! It is an abomination, an embodiment of sublime beauty, dark and blooded! I weep and laugh before the shroud that waits! Nuul-duggath, I am seared in your gaze oh Apocrea, teeming filth of ages! Nyarrlotth-MORG! (The remaining pages are a series of indecipherable symbols and patterns, seemingly drawn with great haste)` ([Recovered from the journal of Prof. Allister Danford, Dean of Antiquities - Professor Allister Danford](https://forums.spiralknights.com/en/node/91276)).
 
 `The Apocrea are ... a terrible legion of otherworldly phantasms whose only ambition seems to be trapping and devouring the souls of all life ... The Apocrea bend reality, twisting the environment they invade into a trap. In these traps they stalk any life, harvesting their souls for some unimaginable purpose` ([Obsidian Nexus - Lost Soul](https://wiki.spiralknights.com/Shroud_of_the_Apocrea/The_Obsidian_Nexus)).
 
 As there are souls to be freed across the [Grasping Plateau](https://wiki.spiralknights.com/Shroud_of_the_Apocrea/The_Grasping_Plateau), which are kept seal by [Apocrean Sigils](https://wiki.spiralknights.com/Apocrean_Sigil#Apocrean_Sigil): `An otherworldly brand placed upon a soul claimed by the mysterious Apocrea. Removing it allows the captured soul to escape imprisonment within the terrible realm of the Apocrea`, we will draw an initial parallel to everfrost's capacity to contain souls.
 
-Grasping plateau itself, we believe, is related to the [Plateau of Leng](https://lovecraft.fandom.com/wiki/Plateau_of_Leng). During the exploration of Plateau of Leng, there is a hooded figure, derived of the Chamber's King in Yellow in Howard's interpretation, fitting for the eldritch horror. Apocrean Harvester, given its stature, we suggest to likely be of similar inspiration. More so, Plateau of Leng is supposedly located at a crossing point of multiple dimensions while itself being seen both in the material realm of Earth ("In The Mountains of Madness"), but also in the Dreamlands ("The Dream-Quest of Unknown Kadath"), which is not an exact, but similar theme to Grasping Plateau being a trap, located in proximity of material realm, within an the area of influence of the Apocrea due to presence of the Shroud.
+Grasping Plateau itself mey be partially inspired by [Plateau of Leng](https://lovecraft.fandom.com/wiki/Plateau_of_Leng). During the exploration of Plateau of Leng, there is a hooded figure:
 
-As those notions are rooted in lovecraftian horror thematically, Danford's text are in this genre are, most confidently, reveal truth, which is why we earlier proposed it to be a statement of Apocrea's motivation.
+<BookCitation source="The Dream-Quest of Unknown Kadath - H.P.Lovecraft">
+
+  the remote and prehistoric monastery wherein dwells uncompanioned the High-Priest not to be described, which wears a yellow silken mask over its face and prays to the Other Gods
+
+  ...
+
+  Then the figured silk slipped a trifle from one of the greyish-white paws, and Carter knew what the noisome high-priest was. And in that hideous second stark fear drove him to something his reason would never have dared to attempt, for in all his shaken consciousness there was room only for one frantic will to escape from what squatted on that golden throne. He knew that hopeless labyrinths of stone lay betwixt him and the cold table-land outside
+
+</BookCitation>
+
+Apocrean Harvester, given its stature and presence across the Plateau present not with structures of other civilizations of atemple, but a graveyard, we suggest to likely be of that inspiration.
+
+More so, Plateau of Leng is supposedly located at a crossing point of multiple dimensions while itself being seen both in the material realm of Earth (`In The Mountains of Madness`), but also in the Dreamlands (`The Dream-Quest of Unknown Kadath`), which is not an exact, but similar theme to Grasping Plateau being a trap, -- emphasized by its aggressive name as explicitly `Grasping`, alluding to power of the Harvester, -- located in proximity of material realm by its nature as a trap, within an the area of influence of the Apocrea through presence of the Shroud.
+
+As those notions are rooted in lovecraftian horror thematically, Danford's text are in this genre are, most confidently, reveal truth despite being framed through lens of a madman, -- a characteritic element of the modern interpretations of the genre past Lovecraft and his peers.
 
 The idea of capturing souls is one of central elements to Apocrea's motivation, but, to asess further details on operational metaphysical principals of the realm, we have to cover its other elements.
 
