@@ -2985,31 +2985,9 @@ In a reveal of appearances of the Apocrean Realm through adjacent to it location
 
 Those patterns have [less common shape](https://wiki.spiralknights.com/File:SotA-Gameplay_End.png), a floral pattern reminiscent of Nature Sprites' magic and [magic of Mystical Tome Stand](https://wiki.spiralknights.com/Mystical_Tome_Stand#Mystical_Tome_Stand).
 
-The circles are made of a yellow mineral, which so far lacks association with souls other than symbolic, we may identify it as [Luminite](https://wiki.spiralknights.com/Luminite#Luminite): `A fabled mineral of a radiant, golden color said to contain the faith, wisdom, and zeal of the life surrounding it`, in order to reduce amount of unadaentified mineral, similar to appearance of Everfrost Pillar and [glowing writings across Amu-Sol](#writings-of-amu-sol).
+The circles are made of a yellow mineral, which so far lacks association with souls other than symbolic. We may identify it as [Luminite](https://wiki.spiralknights.com/Luminite#Luminite): `A fabled mineral of a radiant, golden color said to contain the faith, wisdom, and zeal of the life surrounding it`, in order to reduce amount of unadaentified minerals, similar to the case of Everfrost Pillar and [glowing writings across Amu-Sol](#writings-of-amu-sol).
 
-Apocrea, by being inspired by Lovecraftian eldritch deities, given this themes, may be preceived as one of the first civilizations, potentially preceding even Underworld, due to the nature of the source material, a _civilization as old as reality itself_.
-
-And at its extreme end -- the case of Azathoth's act of dreaming and its court in later installments, in particular, _Henry Kuttner's_ `Hydra` of _Lovecraft Circle of works_, -- directly responsible for existence. Here we also note on the motif of _dreaming as an act of creation or definition of reality_, as in case of Azathoth his perpetual dream is the humananity-inhabited reality:
-
-<BookCitation source="The dream-Quast of Unknown Kadath - H.P.Lovecraft">
-
-  ...shocking final peril which gibbers unmentionably outside the ordered universe, where no dreams reach; that last amorphous blight of nethermost confusion which blasphemes and bubbles at the centre of all infinity—the boundless daemon sultan Azathoth, whose name no lips dare speak aloud, and who gnaws hungrily in inconceivable, unlighted chambers beyond time amidst the muffled, maddening beating of vile drums and the thin, monotonous whine of accursed flutes;
-
-  ...
-
-  ...no beings as nearly human as these would dare approach the ultimate nighted throne of the daemon Azathoth in the formless central void.
-
-</BookCitation>
-
-Followed by the reveal of deity' power:
-
-<BookCitation source="Hydra - Henry Kuttner">
-
-  In that place thought was obscurely linked to energy and matter, because of an insane shrill piping (Ludwig said) that eternally filtered from beyond a veil of flickering colors. It was very near the Center, the Center of Chaos, where dwells Azathoth, the Lord of All Things. All that exists was created by the thoughts of Azathoth, and only in the Center of Ultimate Chaos could Scott find means to live again on earth in human form. There is an erasure in Edmond’s notes at this point, and it is only possible to make out the fragment: “... of thought made real.”
-
-  White-faced, hollow-cheeked, Ludwig said that he must complete his task. He must take Scott to the Center, although he confessed to a horrible fear that made him hesitate. There were dangers in the way, and pitfalls where one might easily be trapped. Worst of all, the veil shielding Azathoth was thin, and even the slightest glimpse of the Lord of All Things would mean utter and complete destruction to the beholder. Scott had spoken of that, Ludwig said, and had also mentioned the dreadful lure that would drag the young student’s eyes to the fatal spot unless he fought strongly against it.
-
-</BookCitation>
+Apocrea, by being inspired by Lovecraftian deities, given this themes, may be preceived as one of the first civilizations, potentially preceding even Underworld, due to the nature of the source material, a _civilization as old as reality itself_.
 
 If we to take this generalized idea of eldritch beings and apply to the setting, then _ritual circles would be one of the most ancient methods of using magic across known realms_ -- a notion we have suggested to exist at the beginning, as we [compared grim gates and ritual circles in their transportation capabilities and limitations](#summoning-from-underworld), but at significantly lesser scope of strictly Underoworld and introduction of this technology to civilizations of material realm.
 
@@ -3498,13 +3476,31 @@ The idea of capturing souls is one of central elements to Apocrea's motivation, 
 
 Allister Danford in the context of eldritch horror may represent a similar character -- [Danforth](https://lovecraft.fandom.com/wiki/Danforth) of [`In the Mountains Of Madness`](https://lovecraft.fandom.com/wiki/At_the_Mountains_of_Madness). It is also worth noting, that Apocrean activity, as eldritch entity __manifests as insomnia__, as stated per memorandum: `We at Spiral HQ are concerned about a spike in the number of knights who push themselves to the limit with lack of sleep, and Medical has noted a similar uptick in knights who want to sleep, but can't. We suspect this is at least partly due to recent Apocrean activity in the Clockworks` ([Sleep is for the Strong](https://forums.spiralknights.com/en/node/111472)).
 
-Apocrea, as a word, may be a derivation of the word _Apocrypha_, referring to _texts, which exist outside of Biblican canon_, and, in the context of being an eldritch deity, __may fall outside of the defined so far cosmology__, as eldritch deities as they are defined in Yog-Sothothery as a source material define reality -- the more ancient their instances are, more inseparable they become from operation of reality, [ending with Azathoth](#lovecraftian-narrative).
+##### Apocrea's Symbolism: Biblical Canon and Supernatural Wrongness
 
-Those factor make impression of Apocrean Realm as one of Lovecraftian origin in the broadest sence.
+Apocrea, semantically, may be derivation of a term _Apocrypha_, referring to _texts, which exist outside of Biblican canon_. This connection allows for 2 sides of an emerging narrative to be outlined:
 
-There are 2 elements to Apocrea which not only allow it to be distinguished, but further relate to the myths. It is the description of concerete environments of Apocrean Realm and agents of Apocrea across material realm.
+1. As an eldritch deity, it may fall outside of the defined cosmology as an entity superseeding it. Such interpretation may not coincide with a perspective defined in Yog-Sothothery, as those deities exist within a finite system of principles and laws, but, more modern interpretations may to some degree adopt a previously noted capacity to redefine reality with its presence.
+2. A connection to Biblical lore was initially found in relation to heavenly kingdom of Valkyries. Herein this notion deepens as then we can interpret existence of eldritch deities as either:
+
+  - Supernaturally wrong, an _entity that was not meant to exist_, or;
+  - An _antagonistic entity opposed_ to an unknown actor, power or principle.
+
+As far as current analysis allows, we can identify the _opposition_ principle as __onе of diversity of any form of life or unlife set in looming threat of total negation of existence__ through [earlier noted concept](#apocreas-goal-as-negation-of-existence) behind Dnaford's quote `all hope is merely waiting for their dark shroud to return this cosmic play to its primordial black` ([Recovered from the journal of Prof. Allister Danford, Dean of Antiquities - Professor Allister Danford](https://forums.spiralknights.com/en/node/91276)).
+
+Yet, as we noted at point 2, there is a possibility of a divine actor opposed to Apocrea framed within a earlier narrative of a lasting conflict for existence. We propose such character behind [Echo Stones](https://wiki.spiralknights.com/Echo_Stone), as representative of that power through characteristic of the Swarm within a cohesive narrative of all four Echo Stones -- a different entity in its goals, yet it retains its existential danger -- without, as we believe, a requirement to consider Swarm's nature but only _its symbolic role_ through the quote: `YOU FALL WITH PURPOSE, BURNING EVER BRIGHTER AS YOU REACH FOR THE HEART OF THIS WORLD. HOLD DEARLY THIS FIRE IN YOU, FOR DARKNESS WILL CONSUME ALL THE NIGHT IF ITS STARS BEGIN TO FADE. HOLD DEARLY THIS FIRE IN YOU, FOR DARKNESS WILL CONSUME ALL THE NIGHT IF ITS STARS BEGIN TO FADE.` ([Echo Stone: Royal Jelly Palace](https://wiki.spiralknights.com/Echo_Stone#Echo_Stone)). The Night in Echo Stones' context may be considered as one of Swarm's presence.
+
+To address the first subpoint of Apocrea as an entity not meant to exist, while keeping awareness of the Swarm now in context of Apoacrea's analysis, the supernatural wrongness of the being may be, we suggest, attributed to greater extent instead to the Swarm because of its texual and visual represenataion, in particular, as pixalated fog. It is a phenomenon, which may be seen as artifical, both through fog's shape and 2-dimensional nature compared to environment of the Core.
+
+In that regard, the wrongness may be further identified from the characteristic of the Swarm as per quote: `WHAT IT WAS BEFORE IT IS NO MORE. NEITHER BEAST NOR GOD, IT IS A CREATION UNLIKE ALL` (Echo Stone: Firestorm Citadel). A `creation unlike all` is a term, which, given context of an entity behind Echo Stones and both symbolic and phsyical environment of the __Sanctuary__, a sacred place, can be seen as alien also according to Echo Stones author's expansive understanding of reality, even if hyperbolized.
+
+At that, we can identify Apocrea as a malevolent eldritch deity from the perspective of current complexity of existence. Apocrea's goal is one of annihilation or regression of that complexity to its initial, `primordial` state of being.
+
+It is an interpretation of a personafied force of death within a framework of classical mythology, wherein gods are representative of processes of the world and explanations for those processes. Apocrea becomes a postmodern -- as eldritch-themed, -- _god of death, which denies natural cycle of life_.
 
 ##### Apocrean Materials
+
+There are 2 elements to Apocrea which not only allow it to be distinguished, but further relate to lovecraftian mythology. It is the description of concerete environments of Apocrean Realm and agents of Apocrea across material realm.
 
 There are more items which expand on Apocrean lore and its environment:
 
@@ -3711,6 +3707,30 @@ As Dreamlands were already mentioned as a potential inspiration behind the desig
 - Carter had to travel to the Dreamlands in search of the sunset city he manifested through dreaming as a child. It is suggested by Nyarlathotep, that the city was stollen by the Old Gods due to its beauty, but this information cannot be trusted, as Carter had to seemingly cross interdimensional void to get to the stollen Sunset city.
 - Nature of dreams under certain conditions allows transportation into other realities, traversal through those realities, higher dimensions, other physical locations, and time periods. This property of dreams is examined in the stories relating to Randolph Carter.
 - Lastly, Azathoth dreams the existence itself, allowing it to exists as long as Azathoth sleeps.
+
+The case of Azathoth's act of dreaming is defined _in later installments_, in particular, _Henry Kuttner's_ `Hydra` of _Lovecraft Circle of works_, wherein Azathoth is directly responsible for existence. Here we also note on the _motif of dreaming_ as an act of creation or definition of reality, as in case of Azathoth its perpetual dream is the humananity-inhabited reality:
+
+<BookCitation source="The dream-Quast of Unknown Kadath - H.P.Lovecraft">
+
+  ...shocking final peril which gibbers unmentionably outside the ordered universe, where no dreams reach; that last amorphous blight of nethermost confusion which blasphemes and bubbles at the centre of all infinity—the boundless daemon sultan Azathoth, whose name no lips dare speak aloud, and who gnaws hungrily in inconceivable, unlighted chambers beyond time amidst the muffled, maddening beating of vile drums and the thin, monotonous whine of accursed flutes;
+
+  ...
+
+  ...no beings as nearly human as these would dare approach the ultimate nighted throne of the daemon Azathoth in the formless central void.
+
+</BookCitation>
+
+Followed by the reveal of deity' power:
+
+<BookCitation source="Hydra - Henry Kuttner">
+
+  It was very near the Center, the Center of Chaos, where dwells Azathoth, the Lord of All Things. All that exists was created by the thoughts of Azathoth, and only in the Center of Ultimate Chaos could Scott find means to live again on earth in human form. There is an erasure in Edmond’s notes at this point, and it is only possible to make out the fragment: “... of thought made real.”
+
+</BookCitation>
+
+It should be noted that Lovecraft's depiction of cosmic horror and its deities differs significantly from works of fiction within lovecaftian setting written and developed under different authors' vision, other than Lovecraft himself, _reinterpret and reimagined both to fit a different setting or as a further development of the genree in its own right, an homage_.
+
+It is within this later context role of Azathoth colloqually perceived as of a dreamer-creator god.
 
 With this, we can now approach the nature of the engines.
 
