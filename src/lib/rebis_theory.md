@@ -3476,7 +3476,7 @@ The idea of capturing souls is one of central elements to Apocrea's motivation, 
 
 Allister Danford in the context of eldritch horror may represent a similar character -- [Danforth](https://lovecraft.fandom.com/wiki/Danforth) of [`In the Mountains Of Madness`](https://lovecraft.fandom.com/wiki/At_the_Mountains_of_Madness). It is also worth noting, that Apocrean activity, as eldritch entity __manifests as insomnia__, as stated per memorandum: `We at Spiral HQ are concerned about a spike in the number of knights who push themselves to the limit with lack of sleep, and Medical has noted a similar uptick in knights who want to sleep, but can't. We suspect this is at least partly due to recent Apocrean activity in the Clockworks` ([Sleep is for the Strong](https://forums.spiralknights.com/en/node/111472)).
 
-##### Apocrea's Symbolism: Biblical Canon and Supernatural Wrongness
+##### Apocrea's Goal Of Ontological Negation
 
 Apocrea, semantically, may be derivation of a term _Apocrypha_, referring to _texts, which exist outside of Biblican canon_. This connection allows for 2 sides of an emerging narrative to be outlined:
 
@@ -3486,7 +3486,7 @@ Apocrea, semantically, may be derivation of a term _Apocrypha_, referring to _te
   - Supernaturally wrong, an _entity that was not meant to exist_, or;
   - An _antagonistic entity opposed_ to an unknown actor, power or principle.
 
-As far as current analysis allows, we can identify the _opposition_ principle as __onе of diversity of any form of life or unlife set in looming threat of total negation of existence__ through [earlier noted concept](#apocreas-goal-as-negation-of-existence) behind Dnaford's quote `all hope is merely waiting for their dark shroud to return this cosmic play to its primordial black` ([Recovered from the journal of Prof. Allister Danford, Dean of Antiquities - Professor Allister Danford](https://forums.spiralknights.com/en/node/91276)).
+As far as current analysis allows, we can identify the _opposition_ principle as __onе of diversity of any form of life or unlife set in looming threat of total negation of existence__ through [earlier noted concept](#apocreas-goal-as-negation-of-existence) behind Danford's quote `all hope is merely waiting for their dark shroud to return this cosmic play to its primordial black` ([Recovered from the journal of Prof. Allister Danford, Dean of Antiquities - Professor Allister Danford](https://forums.spiralknights.com/en/node/91276)).
 
 Yet, as we noted at point 2, there is a possibility of a divine actor opposed to Apocrea framed within a earlier narrative of a lasting conflict for existence. We propose such character behind [Echo Stones](https://wiki.spiralknights.com/Echo_Stone), as representative of that power through characteristic of the Swarm within a cohesive narrative of all four Echo Stones -- a different entity in its goals, yet it retains its existential danger -- without, as we believe, a requirement to consider Swarm's nature but only _its symbolic role_ through the quote: `YOU FALL WITH PURPOSE, BURNING EVER BRIGHTER AS YOU REACH FOR THE HEART OF THIS WORLD. HOLD DEARLY THIS FIRE IN YOU, FOR DARKNESS WILL CONSUME ALL THE NIGHT IF ITS STARS BEGIN TO FADE. HOLD DEARLY THIS FIRE IN YOU, FOR DARKNESS WILL CONSUME ALL THE NIGHT IF ITS STARS BEGIN TO FADE.` ([Echo Stone: Royal Jelly Palace](https://wiki.spiralknights.com/Echo_Stone#Echo_Stone)). The Night in Echo Stones' context may be considered as one of Swarm's presence.
 
@@ -3496,11 +3496,24 @@ In that regard, the wrongness may be further identified from the characteristic 
 
 At that, we can identify Apocrea as a malevolent eldritch deity from the perspective of current complexity of existence. Apocrea's goal is one of annihilation or regression of that complexity to its initial, `primordial` state of being.
 
-It is an interpretation of a personafied force of death within a framework of classical mythology, wherein gods are representative of processes of the world and explanations for those processes. Apocrea becomes a postmodern -- as eldritch-themed, -- _god of death, which denies natural cycle of life_.
+It is a specifc interpretation of a personafied force of death within a framework of classical mythology, wherein gods are representative of processes of the world and explanations for those cyclical processes.
+
+Within this narrative _Apocrea becomes god of death, which denies natural cycle of life_ -- __it does not maintain order or balance, it is a one-directional purposed annihilation of existence__. It is a figure respresentative of an End-of-the-World narrative, where after reaching the state of `primordial blackness` the potential __cyclical rebirth of existence of classical mythology is denied__, as suggested by the acknowledgement of this natural order: `Oh such beautiful souls! Bright and vibrant like fruit warming on the branch from a summer’s sun, longing for the pull of the earth below, the chance to seed and grow and birth anew. What terrible naivety! What utter farce! All of them mere crops against their relentless scythe!`.
+
+But, it order to further identify Apocrea's function found in physical effects, we should eventually cover nature of the [Void](#the-void-part-1) and its possible relation to `primordial blackness`, as there are a few particularly similar concepts found across other metaphysical systems worth investigating in [due time](#the-void-part-2-massa-confusa):
+
+- _Wu Chi of Taoist_
+- _Chaos of Greek mythology_
+- _Ginnungagap of Norse mythology_
+- _Sunyata of Buddhism_
+- Alchemical Void
 
 ##### Apocrean Materials
 
-There are 2 elements to Apocrea which not only allow it to be distinguished, but further relate to lovecraftian mythology. It is the description of concerete environments of Apocrean Realm and agents of Apocrea across material realm.
+There are 2 elements to Apocrea which not only allow it to be distinguished, but further relate to lovecraftian mythology:
+
+- Description of environments across Apocrean Realm
+- Descriptions of agents of Apocrea within material realm
 
 There are more items which expand on Apocrean lore and its environment:
 
