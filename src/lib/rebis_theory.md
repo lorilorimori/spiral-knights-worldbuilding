@@ -3500,7 +3500,9 @@ It is a specifc interpretation of a personafied force of death within a framewor
 
 Within this narrative _Apocrea becomes god of death, which denies natural cycle of life_ -- __it does not maintain order or balance, it is a one-directional purposed annihilation of existence__. It is a figure respresentative of an End-of-the-World narrative, where after reaching the state of `primordial blackness` the potential __cyclical rebirth of existence of classical mythology is denied__, as suggested by the acknowledgement of this natural order: `Oh such beautiful souls! Bright and vibrant like fruit warming on the branch from a summer’s sun, longing for the pull of the earth below, the chance to seed and grow and birth anew. What terrible naivety! What utter farce! All of them mere crops against their relentless scythe!`.
 
-But, it order to further identify Apocrea's function found in physical effects, we should eventually cover nature of the [Void](#the-void-part-1) and its possible relation to `primordial blackness`, as there are a few particularly similar concepts found across other metaphysical systems worth investigating in [due time](#the-void-part-2-massa-confusa):
+Eldritch deities of Yog-Sothothery nor works beyond it do not define their goals as equal to negation of existence, but usually operate on their own, often unknowable to human conciousness, principles, which may be only perceived as negative or lackig from human perspective. This ambiguity of nuanced motivation, we suggest, is absent due to Danford's elaborate explanation coinciding with focus on harvest of souls from accounts of lot souls found across the Obsidian Nexus.
+
+But, it order to further identify Apocrea's effects on physical effects, we should eventually cover nature of the [Void](#the-void-part-1) and its possible relation to `primordial blackness`, as there are a few particularly similar concepts found across other metaphysical systems worth investigating in [due time](#the-void-part-2-massa-confusa):
 
 - _Wu Chi of Taoist_
 - _Chaos of Greek mythology_
