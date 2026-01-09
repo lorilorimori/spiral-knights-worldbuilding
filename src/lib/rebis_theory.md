@@ -3492,7 +3492,12 @@ Yet, as we noted at point 2, there is a possibility of a divine actor opposed to
 
 To address the first subpoint of Apocrea as an entity not meant to exist, while keeping awareness of the Swarm now in context of Apoacrea's analysis, the supernatural wrongness of the being may be, we suggest, attributed to greater extent instead to the Swarm because of its texual and visual represenataion, in particular, as pixalated fog. It is a phenomenon, which may be seen as artifical, both through fog's shape and 2-dimensional nature compared to environment of the Core.
 
-In that regard, the wrongness may be further identified from the characteristic of the Swarm as per quote: `WHAT IT WAS BEFORE IT IS NO MORE. NEITHER BEAST NOR GOD, IT IS A CREATION UNLIKE ALL` (Echo Stone: Firestorm Citadel). A `creation unlike all` is a term, which, given context of an entity behind Echo Stones and both symbolic and phsyical environment of the __Sanctuary__, a sacred place, can be seen as alien also according to Echo Stones author's expansive understanding of reality, even if hyperbolized.
+In that regard, the wrongness may be further identified within character of the Swarm as per quote: `WHAT IT WAS BEFORE IT IS NO MORE. NEITHER BEAST NOR GOD, IT IS A CREATION UNLIKE ALL` (Echo Stone: Firestorm Citadel). A `creation unlike all` is a term, which, given context of an entity behind Echo Stones and both symbolic and phsyical environment of the __Sanctuary__, a sacred place, can be seen as alien also according to Echo Stones author's expansive understanding of reality, even if hyperbolized.
+
+If we were to compare Swarm' and Apocrea's _wrong_ nature, we suggest, we will observe 2 distinctly different types of characteristic:
+
+- For Apocrea it is its _alien nature as an eldritch being_, which, whether physical laws of this universe alow it, remains part of them and had to operate under their logic, as it creates elaborate traps within the material realm, hence retianing its remote nature as a separate realm. This is achieved predominantly by the narrative constant of lovecraftian narrative of inability for a human mind to completely and totaly understand the complexity of eldritch-encompassing reality.
+- While we are not aware of the specifics of Swarm's physiology nor whether it breaks predefined metaphysics -- whether it ever _could exist_, -- Swarm's nature so far is defined as an entity which was _not meant to exist_.
 
 At that, we can identify Apocrea as a malevolent eldritch deity from the perspective of current complexity of existence. Apocrea's goal is one of annihilation or regression of that complexity to its initial, `primordial` state of being.
 
@@ -3512,7 +3517,7 @@ But, it order to further identify Apocrea's effects on physical effects, we shou
 
 ##### Apocrean Materials
 
-There are 2 elements to Apocrea which not only allow it to be distinguished, but further relate to lovecraftian mythology:
+There are 2 elements to Apocrea which not only allow it to expand its identity, but to furher relate to lovecraftian mythology:
 
 - Description of environments across Apocrean Realm
 - Descriptions of agents of Apocrea within material realm
@@ -3520,6 +3525,9 @@ There are 2 elements to Apocrea which not only allow it to be distinguished, but
 There are more items which expand on Apocrean lore and its environment:
 
 - `An otherworldly brand placed upon a soul claimed by the mysterious Apocrea. Removing it allows the captured soul to escape imprisonment within the terrible realm of the Apocrea` ([Apocrean Sigil](https://wiki.spiralknights.com/Apocrean_Sigil#Apocrean_Sigil)).
+
+    With the context of those souls being trapped by ritual circle-like structures within Grasping Plateau, we suggest this is hte next element of souls' entrappment, which restricts their capabilities.
+
 - `A jet-black shard of unnatural stone. Holding it fills your head with imagery of a distant shore where waves crash against rocks that seem to writhe in the chill of the water` ([Obsidian Shard](https://wiki.spiralknights.com/Obsidian_Shard)). A 3-star material.
 
     The characteristic of this obsidian being jet-black was called out in the introduction of Underworld, specifically, [trojan horseshoes](https://wiki.spiralknights.com/Trojan_Horseshoe): `A jet black horseshoe. It appears relatively harmless`.
@@ -3527,16 +3535,35 @@ There are more items which expand on Apocrean lore and its environment:
 - `A strange, vile reagent thought to be harnessed by the Apocrea to build their structures. Once it gets on your skin it seems to never wash off. No, it must, you simply need to scrub harder. Harder, yes...` ([Binding Essence](https://wiki.spiralknights.com/Binding_Essence)). A 4-star material.
 - `A rare metal recovered from a shattered mountain deep within the realm of the Apocrea. Under a microscope it reveals to have a kind of impossible geometry. Perhaps more dedicated study, free from the distractions of the world would reveal its secrets` ([Perplexing Element](https://wiki.spiralknights.com/Perplexing_Element)). A 5-star material.
 
-Now, this materials, as well as the environemtn of Obsidian Nexus gives us following idea. The `distant shore where waves crash against rocks` seem to be the case of referring to Apocrean Realm as one if not associated with water and oceans, but a location, where both mountains and oceans exist in regular understanding of those terms.
+The `distant shore where waves crash against rocks` and `rare metal recovered from a shattered mountain` refer to Apocrean Realm as one if not associated with water and oceans, but a location, where both mountains and oceans exist in regular understanding of those terms.
 
-In the context of Lovecraftian fiction, this creates an impression of a realm, which may reflect a base reality of material realm, yet separate, reminiscent of Dreamlands - a reflection of Earth, or, in case of Cradle, of materila realm.
+The proximity to an ocean seems intentional as it was important enough to be reflected in material's description. The cities themselves may be built by Apocrea, if we extrapolate the quote `reagent thought to be harnessed by the Apocrea to build their structures` ([Binding Essence](https://wiki.spiralknights.com/Binding_Essence)), but, the structures may include only obsidian obelisks, rather than cities themselves: `within cities where geometry and madness share meaning, constructed from thought, from unnatural impulse, the Apocrea dream dark machines into being` (Danford), while Danford states only that dark machines are built and dreamt.
 
-The Apocrean Realm seems to be in proximity of an ocean, given that random obsidian shard invokes those themes. The cities are also stated to be an important element of the realm, as those are also built by Apocrea: `Within cities where geometry and madness share meaning, constructed from thought, from unnatural impulse, the Apocrea dream dark machines into being` (Danford).
+Presence of cities creates impression of an advanced realm with an established civilizaion.
 
-This creates an impression of an advanced realm with an established civilizaion. With those themes in mind we have a few places from the myths to think of:
+###### City of Sarkomand, Dreamlands
 
-- Northern Dreamlands in proximity of Leng, Kadath, and Sarkomand;
-- A diffent realm, one described in Cassilda's Song, where the concept of a remote location, - a distant city of Carcosa in "The King in Yellow", - is described as follows:
+With those themes we can suggest Northern Dreamlands in proximity of Leng and Sarkomand of Yog-Sothothery to be a prototype for this landscape.
+
+Sarkomand in particular, due to its remoteness and alien nature, while is a coincidence, may evoke a similar tone to Apocrean Realm with inclusion of descriptions of the environment:
+
+<BookCitation source="The Dream-Quaet of Unknown Kadath - H.P.Lovecraft">
+
+  And in those frescoes was shewn the great seaport and capital of the almost-humans; proud and pillared betwixt the cliffs and the basalt wharves, and wondrous with high fanes and carven palaces. Great gardens and columned streets led from the cliffs and from each of the six sphinx-crowned gates to a vast central plaza, and in that plaza was a pair of winged colossal lions guarding the top of a subterrene staircase.
+
+  ...
+
+  Indubitably that primal city was no less a place than storied Sarkomand, whose ruins had bleached for a million years before the first true human saw the light, and whose twin titan lions guard eternally the steps that lead down from dreamland to the Great Abyss.
+
+  ...
+
+  Ahead stretched double rows of pillars, and the fragments and pedestals of pillars, that spoke of a broad and bygone street; and from the urns and basins along the way he knew it had been a great street of gardens. Far off at its end the pillars spread to mark a vast round plaza, and in that open circle there loomed gigantic under the lurid night clouds a pair of monstrous things. Huge winged lions of diarite they were, with blackness and shadow between them. Full twenty feet they reared their grotesque and unbroken heads, and snarled derisive on the ruins around them. And Carter knew right well what they must be, for legends tells of only one such twain. They were the changeless guardians of the Great Abyss, and these dark ruins were in truth primordial Sarkomand.
+
+</BookCitation>
+
+###### City of Carcossa, The King in Yellow
+
+Other than this, presence of tombstones across the Grasping Plateau being a graveyard, reminds us _Robert Chamber's_ `Inhabitant Of Carcossa`. A diffent realm, one described in `Cassilda's Song`, where the concept of a remote location, -- a distant city of Carcosa in `The King in Yellow`, -- is described as follows:
 
 <BookCitation source="Robert Chambers - The King in Yellow - The Mask">
 
@@ -3574,9 +3601,29 @@ This creates an impression of an advanced realm with an established civilizaion.
 
 </BookCitation>
 
-The fact that a metal - a Perplexing Element, - was recovered from a shattered mountain makes us think of _great onyx canyons on the north of Dreamlands_. Onyx was used as primary building material for civilization of Inganok and a _particular onyx castle for Elder Gods at the top a monumental mountain Kadath_ as revealed by the events of the "[Dream-Quest of Unknown Kadath](https://lovecraft.fandom.com/wiki/The_Dream-Quest_of_Unknown_Kadath)". We believe, the part of __Apocrean Realm we have seen so far is partially inspired by the architecture of Kadath, made of not onyx, but obsidian__.
+The inital quote of `Along the shore the cloud waves break` is interesting to us as it establishes a similar relation to water, but devoid of city's own architecture, compared to Sarkomand of Dreamlads and Cities of Apocrean Realm, yet, as all three share a connection to water, we wonder whether its symbolic interpretation, such as surfacinfr rom depths of the unknown, may provice a hint to understanding Apocrean Realm as it is relevant for Carcossa or city of Sarkomand.
 
-As obsidian and the perplexing element are sparate materials, we can assume that the metal is excavated from natural obsidian mountains. Then, the chaotic architecture of the surrounding Obsidian Nexus land further suggests a duality of the environment, as if the proper chamber of the Nexus was built among the peaks of obsidian, from obsidian, given its name, where the regular landscape of Apocrean Realm is made of the observed obsidian jagged peaks, which at some point reach a coastal line. Presence of water makes us think of Sarkomand and Carcossa.
+###### Onyx Castle of Kadath, Dreamlands
+
+In relation to metals -- Perplexing Element, `A rare metal recovered from a shattered mountain deep within the realm of the Apocrea. Under a microscope it reveals to have a kind of impossible geometry`, -- it was recovered from a shattered mountain makes us think of _great onyx canyons on the north of Dreamlands_.
+
+Onyx was used as primary building material for civilization of Inganok and a castle for Elder Gods at the top a mountain Kadath, as revealed by the events of [`The Dream-Quest of Unknown Kadath`](https://lovecraft.fandom.com/wiki/The_Dream-Quest_of_Unknown_Kadath).
+
+We suggest, that Apocrean Relam may have been inspired by Kadath, given its greater importance to the narrative, direct relation to gods, and focus on a concrete mineral, therein being onyx and for Apocrean Realm -- obsidian.
+
+<BookCitation source="The Dream-Quest of Unknown Kadath - H.P.Lovecraft">
+
+   So close was the great black mountain that its sides sped by them dizzily as they shot upward, and in the darkness they could discern nothing upon it. Vaster and vaster loomed the tenebrous towers of the nighted castle above, and Carter could see that it was well-nigh blasphemous in its immensity. Well might its stones have been quarried by nameless workmen in that horrible gulf rent out of the rock in the hill pass north of Inganok, for such was its size that a man on its threshold stood even as an ant on the steps of earth’s loftiest fortress. The pshent of unknown stars above the myriad domed turrets glowed with a sallow, sickly flare, so that a kind of twilight hung about the murky walls of slippery onyx.
+
+  ...
+
+   All was night in the titan courtyard, and then came the deeper blackness of inmost things as a huge arched portal engulfed the column. Vortices of cold wind surged dankly through sightless labyrinths of onyx, and Carter could never tell what Cyclopean stairs and corridors lay silent along the route of his endless aërial twisting.
+
+ </BookCitation>
+
+The chaotic architecture of the surrounding Obsidian Nexus landscape further suggests a duality of the environment, as if the proper chambers of the Nexus were _built among the obsidian peaks_, from obsidian, which at some point reach a coastal line. The environemnt of the Departure is opposite to alien nature of Obsidian Nexus -- being replaced with alien architecture identified by _polished slabs of obsidian_, _floating obelisks_, and _streams of purple glowing matter_, which we intially identified as [Apocrean Ritual Circles](#apocrean-ritual-circles), herein __being reminiscent__ of [Amu-Sol's pale writings of everfrost](#writings-of-amu-sol).
+
+Because of similar application and appearance of a mineral as in Amu-Sol, despite floating nature of this mineral both across puzzles of Grasping Plateau and pillars of the ziggurat-like structure behind Obelisks of Creation, we interpret this mineral as Dark Matter, which itself is used during transmutation of [Obsifian Equipment](#obsidian-equipment), such as [Obsidian Edge](https://wiki.spiralknights.com/Obsidian_Edge).
 
 ##### Obsidian Equipment
 
