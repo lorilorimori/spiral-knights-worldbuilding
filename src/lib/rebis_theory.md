@@ -3613,17 +3613,19 @@ We suggest, that Apocrean Relam may have been inspired by Kadath, given its grea
 
 <BookCitation source="The Dream-Quest of Unknown Kadath - H.P.Lovecraft">
 
-   So close was the great black mountain that its sides sped by them dizzily as they shot upward, and in the darkness they could discern nothing upon it. Vaster and vaster loomed the tenebrous towers of the nighted castle above, and Carter could see that it was well-nigh blasphemous in its immensity. Well might its stones have been quarried by nameless workmen in that horrible gulf rent out of the rock in the hill pass north of Inganok, for such was its size that a man on its threshold stood even as an ant on the steps of earth’s loftiest fortress. The pshent of unknown stars above the myriad domed turrets glowed with a sallow, sickly flare, so that a kind of twilight hung about the murky walls of slippery onyx.
+  So close was the great black mountain that its sides sped by them dizzily as they shot upward, and in the darkness they could discern nothing upon it. Vaster and vaster loomed the tenebrous towers of the nighted castle above, and Carter could see that it was well-nigh blasphemous in its immensity. Well might its stones have been quarried by nameless workmen in that horrible gulf rent out of the rock in the hill pass north of Inganok, for such was its size that a man on its threshold stood even as an ant on the steps of earth’s loftiest fortress. The pshent of unknown stars above the myriad domed turrets glowed with a sallow, sickly flare, so that a kind of twilight hung about the murky walls of slippery onyx.
 
   ...
 
-   All was night in the titan courtyard, and then came the deeper blackness of inmost things as a huge arched portal engulfed the column. Vortices of cold wind surged dankly through sightless labyrinths of onyx, and Carter could never tell what Cyclopean stairs and corridors lay silent along the route of his endless aërial twisting.
+  All was night in the titan courtyard, and then came the deeper blackness of inmost things as a huge arched portal engulfed the column. Vortices of cold wind surged dankly through sightless labyrinths of onyx, and Carter could never tell what Cyclopean stairs and corridors lay silent along the route of his endless aërial twisting.
 
- </BookCitation>
+</BookCitation>
 
-The chaotic architecture of the surrounding Obsidian Nexus landscape further suggests a duality of the environment, as if the proper chambers of the Nexus were _built among the obsidian peaks_, from obsidian, which at some point reach a coastal line. The environemnt of the Departure is opposite to alien nature of Obsidian Nexus -- being replaced with alien architecture identified by _polished slabs of obsidian_, _floating obelisks_, and _streams of purple glowing matter_, which we intially identified as [Apocrean Ritual Circles](#apocrean-ritual-circles), herein __being reminiscent__ of [Amu-Sol's pale writings of everfrost](#writings-of-amu-sol).
+The chaotic architecture of the surrounding Obsidian Nexus landscape further suggests a duality of the environment, as if the proper chambers of the Nexus were _built among the obsidian peaks_, from obsidian, which at some point, given description of [Obsidian Shard](https://wiki.spiralknights.com/Obsidian_Shard) -- `A jet-black shard of unnatural stone. Holding it fills your head with imagery of a distant shore where waves crash against rocks that seem to writhe in the chill of the water`, -- _should reach a coastal line_.
 
-Because of similar application and appearance of a mineral as in Amu-Sol, despite floating nature of this mineral both across puzzles of Grasping Plateau and pillars of the ziggurat-like structure behind Obelisks of Creation, we interpret this mineral as Dark Matter, which itself is used during transmutation of [Obsifian Equipment](#obsidian-equipment), such as [Obsidian Edge](https://wiki.spiralknights.com/Obsidian_Edge).
+The environment of the Departure is opposite to alien nature of Obsidian Nexus -- being replaced with alien architecture identified by _polished slabs_, _angular structures_, _floating obelisks_, and _streams of purple glowing matter_, which we intially identified as [Apocrean Ritual Circles](#apocrean-ritual-circles), herein __being reminiscent__ of [Amu-Sol's pale writings in, presumably, everfrost](#writings-of-amu-sol).
+
+Because of similar application and appearance of a purple mineral similar to instances across Amu-Sol, despite floating nature of the prior mineral both across puzzles of Grasping Plateau and pillars of the _ziggurat-like structure behind_ [Obelisks of Creation](https://wiki.spiralknights.com/Obelisk_of_Creation), we stand on interpretation of this mineral as Dark Matter, which itself is used during transmutation of [Obsidian Equipment](#obsidian-equipment), such as [Obsidian Edge](https://wiki.spiralknights.com/Obsidian_Edge).
 
 ##### Obsidian Equipment
 
