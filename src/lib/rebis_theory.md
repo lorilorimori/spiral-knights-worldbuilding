@@ -3001,7 +3001,7 @@ In case of Spiral knights, Underworld and primarily Undercorp becomes so far the
 
 This pattern of exploration, while negligible, we propse, also _manifests in relation and application of Dark Matter_ throughout aforementioned and yet unexplored narratives involving both Dark Matter itself, as well as other minerals.
 
-##### Apocrea's Goal as Negation of Existence
+##### Apocrea's Goal Of Negation of Existence: Part 1
 
 Then it is the nature of Apocrean ritual circles which remains unknown. Why Luminite as the only gold-colored mineral was applied for those circles specifically, and given context of [Departure]() made _to be associated with souls_ apart from [minerals defining pentacle's application and function](#ritual-circles-circle-of-art-pentacles) as proposed in the analysis of [fiendish glyphs](#fiendish-glyphs)?
 
@@ -3476,7 +3476,9 @@ The idea of capturing souls is one of central elements to Apocrea's motivation, 
 
 Allister Danford in the context of eldritch horror may represent a similar character -- [Danforth](https://lovecraft.fandom.com/wiki/Danforth) of [`In the Mountains Of Madness`](https://lovecraft.fandom.com/wiki/At_the_Mountains_of_Madness). It is also worth noting, that Apocrean activity, as eldritch entity __manifests as insomnia__, as stated per memorandum: `We at Spiral HQ are concerned about a spike in the number of knights who push themselves to the limit with lack of sleep, and Medical has noted a similar uptick in knights who want to sleep, but can't. We suspect this is at least partly due to recent Apocrean activity in the Clockworks` ([Sleep is for the Strong](https://forums.spiralknights.com/en/node/111472)).
 
-##### Apocrea's Goal Of Ontological Negation
+##### Apocrea's Goal Of Negation Of existence: Part 2
+
+<!--may be compared to otehr wolrd-ending nihilistic threats in ch11, here we define it-->
 
 Apocrea, semantically, may be derivation of a term _Apocrypha_, referring to _texts, which exist outside of Biblican canon_. This connection allows for 2 sides of an emerging narrative to be outlined:
 
@@ -3486,7 +3488,7 @@ Apocrea, semantically, may be derivation of a term _Apocrypha_, referring to _te
   - Supernaturally wrong, an _entity that was not meant to exist_, or;
   - An _antagonistic entity opposed_ to an unknown actor, power or principle.
 
-As far as current analysis allows, we can identify the _opposition_ principle as __onе of diversity of any form of life or unlife set in looming threat of total negation of existence__ through [earlier noted concept](#apocreas-goal-as-negation-of-existence) behind Danford's quote `all hope is merely waiting for their dark shroud to return this cosmic play to its primordial black` ([Recovered from the journal of Prof. Allister Danford, Dean of Antiquities - Professor Allister Danford](https://forums.spiralknights.com/en/node/91276)).
+As far as current analysis allows, we can identify the _opposition_ principle as __onе of diversity of any form of life or unlife set in looming threat of total negation of existence__ through [earlier noted concept](#apocreas-goal-of-negation-of-existence-part-1) behind Danford's quote `all hope is merely waiting for their dark shroud to return this cosmic play to its primordial black` ([Recovered from the journal of Prof. Allister Danford, Dean of Antiquities - Professor Allister Danford](https://forums.spiralknights.com/en/node/91276)).
 
 Yet, as we noted at point 2, there is a possibility of a divine actor opposed to Apocrea framed within a earlier narrative of a lasting conflict for existence. We propose such character behind [Echo Stones](https://wiki.spiralknights.com/Echo_Stone), as representative of that power through characteristic of the Swarm within a cohesive narrative of all four Echo Stones -- a different entity in its goals, yet it retains its existential danger -- without, as we believe, a requirement to consider Swarm's nature but only _its symbolic role_ through the quote: `YOU FALL WITH PURPOSE, BURNING EVER BRIGHTER AS YOU REACH FOR THE HEART OF THIS WORLD. HOLD DEARLY THIS FIRE IN YOU, FOR DARKNESS WILL CONSUME ALL THE NIGHT IF ITS STARS BEGIN TO FADE. HOLD DEARLY THIS FIRE IN YOU, FOR DARKNESS WILL CONSUME ALL THE NIGHT IF ITS STARS BEGIN TO FADE.` ([Echo Stone: Royal Jelly Palace](https://wiki.spiralknights.com/Echo_Stone#Echo_Stone)). The Night in Echo Stones' context may be considered as one of Swarm's presence.
 
@@ -3638,17 +3640,32 @@ There are weapons are acquired both from the [Obelisk of Creation](https://wiki.
 From those 3 items, their design and behavior, we can derive following ideas:
 
 - Obelisks are capable of being repurposed into equipment
-- As all of weapons are repurposed [obsidian obelisks](https://wiki.spiralknights.com/Apocrean_Furniture), we have to look into those. All of obelisks have a supposedly identical description: `A jet-black stele of unnatural stone from the realm of the Apocrea. As you gaze upon it, the stone seems to writhe and pulse with an eternal energy that is simultaneously alluring and sinister in a most grotesque manner`. Obelisks are referred to be made of obsidian, which is called here as `unnatural stone`. This, either positions obsidian as a unique mineral in this cosmology, or the obsidian itself is what this stone resembles most, as the closest mineral from the material realm to depict the unnatural. In both cases, significance of obsidian becomes essential.
-- Given emergence of tendrils, entities of Apocrean Relam are summoned throuh utilization of weapons.
-- Obsidian Crusher specifically is reminiscent in its function to Graviton Bomb, which itself is both a requirement and a portal, which operates in the same principles as Grim Gates. This might mean, that graviton technology is also the one to link Apocrean Realm with the Underworld, or link any realms, configurable through the process of creation of the bomb. The distinction between evil eye symbol of Graviton Bombf and 3-dot pattern of Obsidian Crusher may hint at the target dimension, to which a connection is established.
+- As all of weapons are repurposed [obsidian obelisks](https://wiki.spiralknights.com/Apocrean_Furniture), we have to look into those.
 
-Apart from those notions, we observe presence of purple energy, permiating obsidian weapons as well as the floor of emerging Apocrean Realm. The latter is most distinctly seem in Haven Town Square, where eldritch architecture emerges from the ground with corresponding lines of purple light.
+  All of obelisks have an identical description: `A jet-black stele of unnatural stone from the realm of the Apocrea. As you gaze upon it, the stone seems to writhe and pulse with an eternal energy that is simultaneously alluring and sinister in a most grotesque manner`. Obelisks are referred to be made of obsidian, which is called here as `unnatural stone` -- same as [Obsidian Shard](https://wiki.spiralknights.com/Obsidian_Shard): `A jet-black shard of unnatural stone. Holding it fills your head with imagery of a distant shore where waves crash against rocks that seem to writhe in the chill of the water`.
 
-This initial concept of purple enerhy is observed both within the gear and the relam, so it is next to discuss.
+  This, either:
+
+  - Positions obsidian as a unique mineral in this nature, or;
+  - Obsidian itself is what this stone resembles most, as the closest mineral from the material realm to depict the unnatural.
+
+  In both cases, significance of obsidian becomes essential.
+
+- Given emergence of tendrils during weapons' charge attacks, entities of Apocrean Realm are summoned through utilization of weapons and, potentially, power of obelisks.
+
+Obsidian Crusher specifically is reminiscent in its function of Graviton Bomb. Graviton Bomb itself is both a requirement for Crusher's transmutaion and a weaponized by Underworld grim gates' portal. This might mean, that graviton technology and Underworld are linked to Apocrean Realm. The portal technology, similar to ritual circles could have emerged from ApocreaN relam as they entered Underworld, granting this technology to Devilites.
+
+And, as apocrean portals allow to enter Apocrean Realm from material realm, for Devilites transition between Underworld and material realm is possible, as well as across the material relam through grim gates, we suggest that this principle ma allow to reach other realms.
+
+The distinction between explosive emblem of evil eye symbol of Graviton Bomb and 3-dot pattern of Obsidian Crusher may hint at the target dimension, to which a connection is established -- this is a speculation, but one we will examine further, including instances of 3-dot patterns and their symbolism.
+
+As far as Obsidian Crusher and context of Apocrean Realm allows, Crusher's 3-dot pattern, we propose, is meant to _represent Harvester's or Apocrea's face of 3 glowing eyes_.
+
+Apart from those notions, we observe presence of purple energy, permiating obsidian weapons as well as through the broken floors of obsidian across Nexus-adjacent locations. The latter is most distinctly seen in Haven Town Square, where _obsidian obelisk emerges from the ground with the corresponding lines of purple light_.
 
 ##### Eternal energy, Obsidian and Minerals
 
-Obelisks refer to an `eternal energy` within thir descriptions: `A jet-black stele of unnatural stone from the realm of the Apocrea. As you gaze upon it, the stone seems to writhe and pulse with an eternal energy that is simultaneously alluring and sinister in a most grotesque manner` ([Obsidian Obelisks](https://wiki.spiralknights.com/Apocrean_Furniture)). Due to lack of any othr references to a specific type of energy, we propose, that this exact eternal energy is one observed in the aforementioned gear, as a purple glowing stream.
+Obelisks refer to an `eternal energy` within their descriptions: `A jet-black stele of unnatural stone from the realm of the Apocrea. As you gaze upon it, the stone seems to writhe and pulse with an eternal energy that is simultaneously alluring and sinister in a most grotesque manner` ([Obsidian Obelisks](https://wiki.spiralknights.com/Apocrean_Furniture)). Due to lack of any othr references to a specific type of energy, we propose, that this exact eternal energy is one observed in the aforementioned gear, as a purple glowing stream.
 
 The same eternal energy would become one identical to instances of glowing within the Apocrean Realm from below the floors. Within the Nexus there are 2 more instances of the floors missing, revealing presence of purple energy:
 
