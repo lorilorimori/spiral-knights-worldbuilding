@@ -3663,24 +3663,26 @@ As far as Obsidian Crusher and context of Apocrean Realm allows, Crusher's 3-dot
 
 Apart from those notions, we observe presence of purple energy, permiating obsidian weapons as well as through the broken floors of obsidian across Nexus-adjacent locations. The latter is most distinctly seen in Haven Town Square, where _obsidian obelisk emerges from the ground with the corresponding lines of purple light_.
 
-##### Eternal energy, Obsidian and Minerals
+##### Eternal Energy, Obsidian and Minerals
 
-Obelisks refer to an `eternal energy` within their descriptions: `A jet-black stele of unnatural stone from the realm of the Apocrea. As you gaze upon it, the stone seems to writhe and pulse with an eternal energy that is simultaneously alluring and sinister in a most grotesque manner` ([Obsidian Obelisks](https://wiki.spiralknights.com/Apocrean_Furniture)). Due to lack of any othr references to a specific type of energy, we propose, that this exact eternal energy is one observed in the aforementioned gear, as a purple glowing stream.
+Obelisks refer to an `eternal energy` within their descriptions: `A jet-black stele of unnatural stone from the realm of the Apocrea. As you gaze upon it, the stone seems to writhe and pulse with an eternal energy that is simultaneously alluring and sinister in a most grotesque manner` ([Obsidian Obelisks](https://wiki.spiralknights.com/Apocrean_Furniture)). Due to lack of any other references to a specific type of energy, we propose, that this exact eternal energy is one observed in the aforementioned gear, as _a purple glowing stream_.
 
-The same eternal energy would become one identical to instances of glowing within the Apocrean Realm from below the floors. Within the Nexus there are 2 more instances of the floors missing, revealing presence of purple energy:
+The same `eternal energy` would become one identical to instances of glowing within the Apocrean Realm from below the floors. Within the Nexus there are 2 more instances of the floors missing, revealing presence of purple space:
 
 - One of an obelisk seemingly [emerging from the ground](https://wiki.spiralknights.com/File:Area-Shroud_of_the_Apocrea-Obsidian_Nexus_2.png);
-- A [portal](https://wiki.spiralknights.com/File:Area-Shroud_of_the_Apocrea-Obsidian_Nexus.png) at the end of the Nexus, located above the elevator. As lines of energy extend or concentrate on the portal, we would identify those instances of purple energy as identical.
+- A [portal](https://wiki.spiralknights.com/File:Area-Shroud_of_the_Apocrea-Obsidian_Nexus.png) at the end of the Nexus, located above the elevator. As lines of energy extend or concentrate upon the portal.
 
-As light is most cases is emanating under the broken floor brickwork, we can assume that the source of this energy - an eternal energy, - is the Apocrean Realm proper, located lower below the Nexus, and, beyond the Shroud.
+As light is most cases is emanating under the broken floor brickwork, we can assume that the source of this energy is the supposed Apocrean Realm proper, located both physically and metaphysically below the Nexus, if we assume that the visited locations are not located specifically within the Apocrean Realm itself, but within a Shroud, as a transient state between the realms.
 
-This, given context of the Shroud, may lead to the Shroud partially incorporating elements of the material realm where it had appeared, being the Clockworks elevator due to an initial entrance from Clockworks, and, potentially, given themes of Leng, Grasping Plateau beig such due to specificities of the Shroud's location in proximity of graveyards.
+Those safeguards, given context of the Shroud, may lead to the Shroud partially incorporating elements of the material realm where it had appeared, being the Clockworks elevator due to an initial entrance from Clockworks, and, potentially, Grasping Plateau. For the case of Grasping Plateau its unique configuration was earlier a point for us suggesting a connection with Carcossa, but as far as over analysys allows, depending on supernaturality of this depth's origin, it would exist in other form, other than one mimicking or [incorporating Almirian architecture](#almirian-architecture).
 
-In relation to the nature of obsidian, the [Apocrean Crown](https://wiki.spiralknights.com/Apocrean_Crown) from the roster of [Obsidian Prize Box](https://wiki.spiralknights.com/Obsidian_Prize_Box) is positioned here as one of other _jewel crowns_. But it is not referred as made of obsidian, compared to the [rest of crowns](https://wiki.spiralknights.com/Apocrean_Crown#Apocrean_Crown), but rather, explicitly Apocrean.
+In relation to the nature of obsidian, the [Apocrean Crown](https://wiki.spiralknights.com/Apocrean_Crown) from the roster of [Obsidian Prize Box](https://wiki.spiralknights.com/Obsidian_Prize_Box) is positioned here as one of other _jewel crowns_. But it is not referred as made of obsidian, compared to the [rest of crowns](https://wiki.spiralknights.com/Apocrean_Crown#Apocrean_Crown), but rather Apocrean.
 
-The meaning of those crowns remains unknown so far, but, as they are constructed from suspended gemstone, we gather they are powered by the same principle as the mineral pillars across Clockworks, and obsidian obelisks, potentially being close in nature to base 5 minerals, relating to underlying principle of energy, characterized, for example, by the [Static Clinger](https://wiki.spiralknights.com/Static_Clinger): `A latent strand of energy that floats throughout the Clockworks, frequently catching onto hair and clothing. It's too large to properly distill into Energy, but it's very useful in alchemy`.
+The meaning of those crowns remains unknown so far, but, as they are constructed from suspended gemstone, we would assume they are powered by the same principle as the mineral pillars across Clockworks, and in that regard obsidian obelisks, potentially being close in nature to base 5 minerals, relate to underlying principle of energy.
 
-With this, to an established landscape of Apocrean Relam we add a concept of a native to it, eternal energy, which when observed, is colored purple.
+With this, to an established landscape of Apocrean Realm we add a concept of a native to it `eternal energy`, which when observed, is colored purple. This energy might be one aloowing for suspention in the air of earlier proposed [Apocrean ritual circles](#apocrean-ritual-circles) in an unknwon -- ethereal, -- state, which allows them to be formed into 3-dimensional structures.
+
+Despite this seeming difference, as we had a _notion of energy in different variants being central to other narratives_, presence of _color purple_ both within finite structure of colored lines and as more abstract presence within the obelisks, we would __identify eternal energy as the universal Energy__. Within this identification, Apocrea's need for souls would be explained by them being a specific -- sentient, -- configuration of tha energy, as a container.
 
 ##### Apocrean Disciples
 
