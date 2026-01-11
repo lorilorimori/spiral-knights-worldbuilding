@@ -25,17 +25,27 @@ layout: entries_rebis
   Rebis Theory <span class="energy">🜔</span>
 </h1>
 
-Spiral Knights had prooved to captivate as a setting and a story. Yet, it contains a distinct potential for expansive worldbuilding and interpretation of offered narratives.
+Spiral Knights had proven to captivate as a setting and a story. It contains a distinct potential for expansive worldbuilding beyond currently existing resources. By acknowledging this potential we aim to answer, _why setting of Spiral Knights captivates and how it achieves it_. Furthermore, how answers to those questions frame Spiral Knights setting as a __postmodern heroic epic__.
 
-By acknowledging this potential we aim to present a set of narrative devices and tropes and a system of symbols the setting utilizes to construct an immersive and believable _aesthetics_ of a fictional universe.
+We aim to present a set of narrative devices and tropes within a constructed system of symbols the setting may have utilized to present an immersive and believable aesthetics of a fictional universe.
 
 ---
 
 ## Motivation
 
-The present analysis is meant to identify, analyze and explore the ~~worldbuilding~~, ~~themes~~, ~~characters~~, ~~stories~~, ~~symbolism~~, ~~plots~~ and ~~narratives~~, which create a __sence of depth__ of [Spiral Knights](https://www.spiralknights.com/) fictional universe.
+The present analysis is meant to identify, analyze and explore:
 
-As fiction is set in its own separate reality, it can imitate depth of its world only far enough by obfuscating its boundaries up to a certain limit. By exploring the volume a fiction offers, we intend to identify the ~~underlying system~~ of narrative, thematic and symbolic relations between devices and tropes, -- the __bonding quality__, found through aesthetics, _which allows for setting's ability to captivate_ as a fictional world, a gamified microcosm, and a story.
+- Worldbuilding
+- Themes
+- Characters
+- Stories
+- Symbolism
+- Plots
+- Culture
+- Myths
+- Narratives, which create a __sence of depth__ of [Spiral Knights](https://www.spiralknights.com/) fictional universe.
+
+As fiction is set in its own separate reality, it can imitate depth of its world only far enough by obfuscating its boundaries up to a certain limit. By exploring the volume a fiction offers, we intend to identify the __underlying system__ of narrative, thematic and symbolic relations between devices and tropes, -- the bonding quality, found through aesthetics, _which allows for setting's ability to captivate_ as a fictional world, a gamified microcosm, a story, and a reflection of real-world cultures.
 
 ### Approach to Worldbuilding
 
