@@ -3252,6 +3252,10 @@ As [Wicked Prize Box](https://wiki.spiralknights.com/Wicked_Prize_Box) is the so
 
 Its announcement, [Something Wicked This Way Comes](https://forums.spiralknights.com/en/node/110021), states: `Today Spiral HQ introduces a line of gear that should help you blend into environs riddled with cursed monsters. We bring these to you in the Wicked Prize Box, with contents including the following: Wicked helms, Wicked armors, Wicked accessories, Crest of Curse (new), Nefarious Hood (new), Nefarious Raiment (new)`. Through this identification with curse, we can characterize nature of curse as `wicked`, further implied by presence of [Crest of Curse](https://wiki.spiralknights.com/Crest_of_Curse#Crest_of_Curse) within box's item pool, which depicts a variation of symbol of curse of minimalist design with purple circle, reminiscent of Obsidian Nexus, although this could be a coincidence.
 
+Yet, in that hypthetical relation to Apocrea, we should point out a similarity of this rendition fiendish armor, with its accent on the eye, to surface-level, predominetly western, pop-culture reimagining of culture of Ancient Egypt as related to eldritch deities.
+
+While we won't elaborate on the history of this concept, we acknowledge its presence -- both in the 20th century through H.P. Lovecraft's depition of Nyarlathotep (`Fungi from Yuggoth`, `The Dream-Quest of Unknown Kadath`, `Nyarlathotep`), and modern franchises, -- it is a direction, we believe, worth considering as a potential, if indirect, influence on those select few design decisions.
+
 Lastly, the items frame the imp in a specific manner -- `A raiment said to be crafted by a nefarious imp` ([Nefarious Raiment](https://wiki.spiralknights.com/Nefarious_Raiment)), -- utilizing a language which emphasizes on this act of creation as a folktale or a legend, similar to:
 
 - `A plated robe said to be worn by wandering arctic acolytes. 'we saw them heading straight towards the mountains, off into the interior of the vast frozen continent, but why?'` ([Arctic Acolyte Mantle](https://wiki.spiralknights.com/Arctic_Acolyte_Mantle)).
@@ -3268,8 +3272,6 @@ As for nefarious gear -- it is designed with secrecy and concealing of presence 
 
 - `shroud you in darkness` (`A raiment said to be crafted by a nefarious imp. The ethereal plates will defend against heinous harassment while they shroud you in darkness` - [Nefarious Raiment](https://wiki.spiralknights.com/Nefarious_Raiment)).
 - `during clandestine campaigns` (`A hood said to be crafted by a nefarious imp. The floating hood is certain to cloak you during clandestine campaigns` - [Nefarious Hood](https://wiki.spiralknights.com/Nefarious_Hood)).
-
-This role with an emphasis on secrecy makes us think of Herex and his spanning involvement counter to Crimson Order, which at that point is a speculation.
 
 Through above connection to curse and advanced designs which incorporate symbol of specifically curse, we propose, that Nefarious Imp is one of a few potential antagonists behind propagation of Underworld potentially separate from intentions of Apocrea.
 
@@ -3696,13 +3698,13 @@ Despite this seeming difference, as we had a _notion of energy in different vari
 
 ##### Apocrean Disciples
 
-Then there are cultists or the disciples. They are separated onto groups, characterized by a single property in their names.
+Then there are cultists or the disciples. They are separated into groups, characterized by a single property found in their names.
 
 - `Through my eyes you will see the path to ages. Pure is my gaze, free from the lies of reality'` ([Obsidian Mantle of Sight](https://wiki.spiralknights.com/Obsidian_Mantle_of_Sight#Obsidian_Mantle_of_Sight)).
 
-    We assume, that the hood which disciples wear, both in application and in design is meant to represent Apocrea's eyes given the same design of a face of the Harvester, as a the closest to an eldritch entity from Apocrean Realm.
+    We assume, that the hood which disciples wear, both in application and in design is meant to represent Apocrea's eyes given the same design of a face -- three eyes in triaglular pattern, -- of the Harvester, and accent on sight as motif.
 
-    With this, the aforementioned 3-dot pattern of the Obsidian Crusher's explosion is most likely the eyes of Apocrea. We will keep track of this motif of eyes accompanying connections across realms.
+    With this, the aforementioned three-dot pattern of the Obsidian Crusher's explosion is a plausible depiction of Apocrea's eyes, assuming a simlar to Harvester eldritch physiology as native to Apocrean Realm.
 
     It is also here reality is established as false or deceiving, through which Apocrea's eyes or gaze allows to see through, which is why the mask has the characteristic eyes.
 
@@ -7307,6 +7309,8 @@ What is the relation of devilites to the casino, then? The [Yesmen](https://wiki
 - `Undercorp employees get a free mug with every visit.`
 
 Those quotes, we believe, hint at a business relation, wherein devilites and companies of Underworld had their part in the existence of the casino, given they have special, although trivial, privileges. Finally, it is existence of the casino within Clockworks which may point to gremlins having a more multifaceted relation to Undercorp.
+
+Within the themes of the casino, we can identify presence of _noir_, both through environemnt of the location and addition of High Wobbler Longue, wherein the latter explores this theme slightly further through its design, separate from the rest of the casino. Herein __noir is a sign of narrative's ambigious morality seen through comedic rendition and art style__, which create a particular, _lingering contrast_.
 
 #### Gremlin Mending Rune, the Emblem
 
