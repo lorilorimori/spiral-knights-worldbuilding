@@ -3651,23 +3651,30 @@ There are weapons are acquired both from the [Obelisk of Creation](https://wiki.
 
 From those 3 items, their design and behavior, we can derive following ideas:
 
-- Obelisks are capable of being repurposed into equipment
-- As all of weapons are repurposed [obsidian obelisks](https://wiki.spiralknights.com/Apocrean_Furniture), we have to look into those.
+- Obelisks are capable of being repurposed into equipment, their functon weaponized -- a direction found for graviton technology in prior case of deveilites
+- Given emergence of tendrils during weapons' charge attacks, entities of Apocrean Realm are summoned through utilization of weapons and, potentially, power of obelisks, as those comprise the functioning and essetial part of those weapons.
 
-  All of obelisks have an identical description: `A jet-black stele of unnatural stone from the realm of the Apocrea. As you gaze upon it, the stone seems to writhe and pulse with an eternal energy that is simultaneously alluring and sinister in a most grotesque manner`. Obelisks are referred to be made of obsidian, which is called here as `unnatural stone` -- same as [Obsidian Shard](https://wiki.spiralknights.com/Obsidian_Shard): `A jet-black shard of unnatural stone. Holding it fills your head with imagery of a distant shore where waves crash against rocks that seem to writhe in the chill of the water`.
+As all of weapons are repurposed [obsidian obelisks](https://wiki.spiralknights.com/Apocrean_Furniture). All of obelisks have an identical description: `A jet-black stele of unnatural stone from the realm of the Apocrea. As you gaze upon it, the stone seems to writhe and pulse with an eternal energy that is simultaneously alluring and sinister in a most grotesque manner`. Obelisks are referred to be made of obsidian, which is called here as `unnatural stone` -- same as [Obsidian Shard](https://wiki.spiralknights.com/Obsidian_Shard): `A jet-black shard of unnatural stone. Holding it fills your head with imagery of a distant shore where waves crash against rocks that seem to writhe in the chill of the water`. This means, either:
 
-  This, either:
+- Obsidian is a mineral in its nature related and found in Apocrean Realm
+- Obsidian itself is what unnatural stone resembles the most as the closest mineral from the material realm to depict the unnatural. It is not obsidian of material realm, but a mineral most similar to it.
 
-  - Positions obsidian as a unique mineral in this nature, or;
-  - Obsidian itself is what this stone resembles most, as the closest mineral from the material realm to depict the unnatural.
+###### Unnatural Stone of Apocrean Realm
 
-  In both cases, significance of obsidian becomes essential.
+As onyx was the primary material in construction of Kadath castle, we would suggest that obsidian is the mineral which is favoured by Apocrea. This would mean abundance of obsidian or other mineral across Apocrean Realm.
 
-- Given emergence of tendrils during weapons' charge attacks, entities of Apocrean Realm are summoned through utilization of weapons and, potentially, power of obelisks.
+On the contrary, even given accent on different minerals and jewels of several prize boxes, the eldritch -- unknowable and ambigious, -- nature of obsidian, which frames it with an unresolvable vagueness, it would be a soild argument to identify a different mineral as the unnatural stone, rather than obsidian itself.
 
-Obsidian Crusher specifically is reminiscent in its function of Graviton Bomb. Graviton Bomb itself is both a requirement for Crusher's transmutaion and a weaponized by Underworld grim gates' portal. This might mean, that graviton technology and Underworld are linked to Apocrean Realm. The portal technology, similar to ritual circles could have emerged from ApocreaN relam as they entered Underworld, granting this technology to Devilites.
+As minerals are associated with cosmic forces, as dragons' species embody universal aspects, as wisps, as representaions of abstract will and share aspect of progress and consciousness, -- the thread of __spiritually symbolic value becoming a cosmic constant__ seems to us as a reasonable argument to assume that unnatural stone is obsidian because of obsidian's inherent to this universe symbolic, particularly eldritch, quality.
 
-And, as apocrean portals allow to enter Apocrean Realm from material realm, for Devilites transition between Underworld and material realm is possible, as well as across the material relam through grim gates, we suggest that this principle ma allow to reach other realms.
+##### Origin of Graviton Technology
+
+Obsidian Crusher specifically is reminiscent in its function to Graviton Bomb. Graviton Bomb itself is both a requirement for Crusher's transmutaion and a weaponized by Underworld grim gates' portal.
+
+This would mean, that graviton technology and Underworld are linked to Apocrean Realm. The portal technology, similar to ritual circles could have emerged from Apocrean Realm as they entered Underworld, granting this technology to devilites.
+
+
+And, as apocrean portals allow to enter Apocrean Realm from material realm, for Devilites transition between Underworld and material realm is possible, as well as across the material relam through grim gates, we suggest that this principle ma allow to reach other realms. Furthermore, manifestation of portions of Apocrean Realm, as at Haven Town Squre, we would conclude, renders Apocrea as most skilled actor capable of transitioning over separate realms. Whether
 
 The distinction between explosive emblem of evil eye symbol of Graviton Bomb and 3-dot pattern of Obsidian Crusher may hint at the target dimension, to which a connection is established -- this is a speculation, but one we will examine further, including instances of 3-dot patterns and their symbolism.
 
@@ -3700,50 +3707,90 @@ Despite this seeming difference, as we had a _notion of energy in different vari
 
 Then there are cultists or the disciples. They are separated into groups, characterized by a single property found in their names.
 
-- `Through my eyes you will see the path to ages. Pure is my gaze, free from the lies of reality'` ([Obsidian Mantle of Sight](https://wiki.spiralknights.com/Obsidian_Mantle_of_Sight#Obsidian_Mantle_of_Sight)).
+###### Obsidian Mantle of Sight
 
-    We assume, that the hood which disciples wear, both in application and in design is meant to represent Apocrea's eyes given the same design of a face -- three eyes in triaglular pattern, -- of the Harvester, and accent on sight as motif.
+`Through my eyes you will see the path to ages. Pure is my gaze, free from the lies of reality'` ([Obsidian Mantle of Sight](https://wiki.spiralknights.com/Obsidian_Mantle_of_Sight#Obsidian_Mantle_of_Sight)).
 
-    With this, the aforementioned three-dot pattern of the Obsidian Crusher's explosion is a plausible depiction of Apocrea's eyes, assuming a simlar to Harvester eldritch physiology as native to Apocrean Realm.
+We assume, that the hood which disciples wear, both in application and in design is meant to represent Apocrea's eyes given the same design of a face -- three eyes in triaglular pattern, -- of the Harvester, and accent on sight as motif.
 
-    It is also here reality is established as false or deceiving, through which Apocrea's eyes or gaze allows to see through, which is why the mask has the characteristic eyes.
+With this, the aforementioned three-dot pattern of Obsidian Crusher's explosion is a plausible depiction of Apocrea's eyes, assuming a simlar to Harvester eldritch physiology as native to Apocrean Realm.
 
-- `'With great practice and tender care, with an eternal heart and mind so pure: sharpen the stone, sturdy the chain, welcome the night, drink the cup of kings'` ([Obsidian Mantle of Rituals](https://wiki.spiralknights.com/Obsidian_Mantle_of_Rituals#Obsidian_Mantle_of_Rituals)).
+It is also here a narrative of false reality is established -- false or deceiving, through which Apocrea's eyes or gaze allows to see through.
 
-    As the name of the mantle contains a term ritual, we can assume that the process of:
+In terms of strictly lovecraftian narrative, it would be true, as eldritch beings possess a magnitudes more expansive understanding of reality.
 
-    - `sharpening the stone`;
-    - `sturdying the chain`;
-    - `welcoming of the night`;
-    - `drinking the cup of kings`;
+This would not characterize perceived reality as explicitly malevelent, but it will offer a different perspective on Apocrea from cultists' perspective, even considering its goal of negation of existence. Whether this would mean a formation of apocalyptic cult, is unknown.
 
-    It is the description of the ritual. There is a high probability of metaphors beign present. We will return to this ritual later.
+###### Obsidian Mantle of Rituals
 
-    The `eternal heart and mind so pure` relates to a prerequisite of one to perform the ritual. The idea of purity was mentioned above in `Pure is my gaze, free from the lies of reality'` ([Obsidian Mantle of Sight](https://wiki.spiralknights.com/Obsidian_Mantle_of_Sight#Obsidian_Mantle_of_Sight)), which may identify one performing the ritual as already under Apocrea's influence.
+`'With great practice and tender care, with an eternal heart and mind so pure: sharpen the stone, sturdy the chain, welcome the night, drink the cup of kings'` ([Obsidian Mantle of Rituals](https://wiki.spiralknights.com/Obsidian_Mantle_of_Rituals#Obsidian_Mantle_of_Rituals)).
 
-    An eternal heart, we assume, is immortality. Other than that, we are reminded of depths' names of [The Silent Legion](https://wiki.spiralknights.com/The_Silent_Legion): "Poisoned Minds" and "Cold Hearts". This is also a motif of minds and hearts e have to keep track of in case of familiar themes to be discovered later.
+As the name of the mantle contains a term "ritual", we can assume that the process of:
 
-- `'Speak with the one, true voice and they will listen. Quiet as a child's whisper, roaring like the death of this world'` ([Obsidian Mantle of Influence](https://wiki.spiralknights.com/Obsidian_Mantle_of_Influence#Obsidian_Mantle_of_Influence)).
+- `sharpening the stone`
+- `sturdying the chain`
+- `welcoming of the night`
+- `drinking the cup of kings`
 
-    The "they", the mantle refers to, is likely an abstraction of anyone outside of the cult. Given mantle's name - of influence, - is is likely, that one can wpeak with Apocrea's voice, as one of absolute influence over others.
+Is the description of said ritual. There is a high probability of metaphors beign present. We will return to this ritual later.
 
-    At that, we need to cover the apocrean engines: `Within cities where geometry and madness share meaning, constructed from thought, from unnatural impulse, the Apocrea dream dark machines into being. Only souls keep these engines roaring, heard screaming across distant stars. Only souls can fill their void, sublime in its vast emptiness ... All of them mere crops against their relentless scythe! Though they may steal sanctuary in the cracks and corners of their terrible realm, it is ever fleeting. The blinding gaze of the Apocrea is boundless. The daylight, the starlight; all hope is merely waiting for their dark shroud to return this cosmic play to its primordial black. ... I weep and laugh before the shroud that waits!` ([Recovered from the journal of Prof. Allister Danford, Dean of Antiquities - Professor Allister Danford](https://forums.spiralknights.com/en/node/91276)).
+The `eternal heart and mind so pure` relates to a prerequisite of one to perform the ritual. The idea of purity was mentioned above in `Pure is my gaze, free from the lies of reality'` ([Obsidian Mantle of Sight](https://wiki.spiralknights.com/Obsidian_Mantle_of_Sight#Obsidian_Mantle_of_Sight)), which may identify one performing the ritual as already under Apocrea's influence.
 
-    With this, we may assume, referncing analysis of the engines later, that the roaring of the engines is one to be heards across material realm are the means to return the world to its initial state. The phrase `dark shroud to return this cosmic play to its primordial black` defines Apocrea's goal from Danford's perspective as such.
+An eternal heart, we assume, is immortality. Other than that, we are reminded of depths' names of [The Silent Legion](https://wiki.spiralknights.com/The_Silent_Legion): `Poisoned Minds` and `Cold Hearts`. This is also a motif of minds and hearts we have to keep track of in case of familiar themes to be discovered later.
 
-    This is very important, but, so far, we may connect the roaring death to roaring engines as ones to bring about the end. Now, with introduction of the mantle, we also may conclude, that the one true voice is one of Apocrea, which is also heard from the engines due to application of word "roaring."
+Among those cultists a sacred ritual is established.
 
-    In `Quiet as a child's whisper`, while we do not have any relations to chldren yet, there might be a metaphor of Apocrea's, or general eldritch duality of their existence, simlar to the description of obelisks: `eternal energy that is simultaneously alluring and sinister in a most grotesque manner` ([Obsidian Obelisks](https://wiki.spiralknights.com/Apocrean_Furniture)). This allows us to confirm Danford's words regarding Apocrea's motivation.
+###### Obsidian Mantle of Influence
 
-- `'Wrap thyself in my embrace and succumb to my infinite love. Let your breath drift from you like candle smoke, dreaming deeper and deeper still'` ([Obsidian Mantle of Devotion](https://wiki.spiralknights.com/Obsidian_Mantle_of_Devotion#Obsidian_Mantle_of_Devotion)).
+`'Speak with the one, true voice and they will listen. Quiet as a child's whisper, roaring like the death of this world'` ([Obsidian Mantle of Influence](https://wiki.spiralknights.com/Obsidian_Mantle_of_Influence#Obsidian_Mantle_of_Influence)).
 
-    The act of devotion present in mantle's name, given `Wrap thyself in my embrace and succumb to my infinite love` likely measn the complete one's surrender to someone's means.
+Starting from the end, we need to cover the apocrean engines: `Only souls keep these engines roaring, heard screaming across distant stars. Only souls can fill their void, sublime in its vast emptiness ... All of them mere crops against their relentless scythe! Though they may steal sanctuary in the cracks and corners of their terrible realm, it is ever fleeting. The blinding gaze of the Apocrea is boundless. The daylight, the starlight; all hope is merely waiting for their dark shroud to return this cosmic play to its primordial black. ... I weep and laugh before the shroud that waits!` ([Recovered from the journal of Prof. Allister Danford, Dean of Antiquities - Professor Allister Danford](https://forums.spiralknights.com/en/node/91276)).
 
-    The quote `my infinite love`, allows us to conclude, that it is Apocrea speaking.
+As we will soon cover [apocrean engines](#apocrean-engines), we will identify the `roaring like the death of this world` as the roar of engines Danford describes, which are fueled by captured souls. Those engines are ones to be heard across material realm and are the means to return the world to its initial state. The phrase `dark shroud to return this cosmic play to its primordial black` defines Apocrea's goal from Danford's perspective as such.
 
-    `Let your breath drift from you like candle smoke, dreaming deeper and deeper still` quote, then, seeimngly refers to the result of this devotion. The act of smoke drifting reminds us of an ide of breth leaving the body, meaning death, but also, of yellow candles of Candlestick Keep. The act of dreaming, of course, is reminiscent of the Sleeper.
+The `quiet as a child's whisper`, while we do not have any relations to chldren yet, there might be a metaphor for Apocrea's eldritch duality as in description of obelisks: `eternal energy that is simultaneously alluring and sinister in a most grotesque manner` ([Obsidian Obelisks](https://wiki.spiralknights.com/Apocrean_Furniture)).
 
-Due to those items, it becomes clear, that the Apocrea's speech is highly metaphorical. Apart from it, we get a description of a ritual, whose purpose is left currently ambgious.
+<!--This is very important, but, so far, we may connect the roaring death to roaring engines as ones to bring about the end. Now, with introduction of the mantle, we also may conclude, that the one true voice is one of Apocrea, which is also heard from the engines due to application of word "roaring."-->
+
+The quote `Speak with the one, true voice and they will listen` may be interpreted in 2 ways:
+
+- It suggests that one -- a reader of those notes, -- will speak with true cosmic voice of Apocrea, as Apocrea was previously referring to the reader as "you," and Apocrea, ones the speakeer becomes aware of it, starts to listen. Apocrea will respond in aforementioned manner.
+- The "they", the mantle refers to anyone outside of the cult. Given mantle's name -- `of influence`, -- is may be seen as a method of communion with Apocrea, allowing one to be possessed by Apocrea's goal both mentally and, potentially, physically.
+
+Yet, as Apocrea had referred to itself as `I`:
+
+- `Through my eyes you will see the path to ages. Pure is my gaze, free from the lies of reality'` ([Obsidian Mantle of Sight](https://wiki.spiralknights.com/Obsidian_Mantle_of_Sight#Obsidian_Mantle_of_Sight))
+- `'Wrap thyself in my embrace and succumb to my infinite love. Let your breath drift from you like candle smoke, dreaming deeper and deeper still'` ([Obsidian Mantle of Devotion](https://wiki.spiralknights.com/Obsidian_Mantle_of_Devotion#Obsidian_Mantle_of_Devotion))
+
+We would suggest that among aforementioned interpretations, the latter scenario -- of influencig through Apocrea's voice, -- seems more plausible, while still referring to the cultist on individual basis. Mantle's influence emerges from bearer's supernatural worship to Apocrea.
+
+###### Obsidian Mantle of Devotion
+
+`'Wrap thyself in my embrace and succumb to my infinite love. Let your breath drift from you like candle smoke, dreaming deeper and deeper still'` ([Obsidian Mantle of Devotion](https://wiki.spiralknights.com/Obsidian_Mantle_of_Devotion#Obsidian_Mantle_of_Devotion)).
+
+The act of devotion present in mantle's name, given `Wrap thyself in my embrace and succumb to my infinite love` likely means the complete one's surrender to Apocrea's means.
+
+The quote `my infinite love`, allows us to conclude, that it is Apocrea speaking.
+
+`Let your breath drift from you like candle smoke, dreaming deeper and deeper still` quote, then, seeimngly refers to the result of this devotion. The act of smoke drifting reminds us of an idea of breath leaving the body -- death, or souls leaving the body. The act of dreaming in that regard seems supernatural, as if being possessed. In combination with smoke metaphor, we would suggest a state of possesseion, wherein one's soul is extracted, leaving the body without it in a state, similar to a slumber.
+
+The `infinite love` is peculiar, as it offers only this state of being. In combination with act of devotion we would offer an interpretation, where the act of succumbing to infinite love is one of oblivion, death, of being utilized as the fuel for the engine, as devotion is an act of giving, and according to Danford, Apocrea's ultimate goal as one of negation of existence through collection of souls and funneling them to the engines.
+
+While this is a more grim interpretation, it conflicts with individuality of those followers, as Apocrea speaks to them. But, in case of devotion, this individuality is either suppressed or removed as the last state of follower's being when devotion is absolute, and becouse of it, one may offer its conscious identity -- which is the soul, [contrary to an aura](#auras-and-souls), -- to Apocrea.
+
+From this, reversed, perspective, death becomes not an oblivion, but a desired state of being within `primordial black` or as a fuel for the engine. The latter scenario may be seen as more grim, as oblivion of the metaphysical state of `primordial black` is not achieved by the soul, but the soul is repurposed to become engine's fuel.
+
+Due to those items, it becomes clear, that the Apocrea's speech is highly metaphorical and cunning. Apart from it, we get a description of a ritual, whose purpose is left currently ambgious.
+
+###### Apocrea's Eldritch Madness
+
+As presented in [Obsidian Mantle of Devotion](#obsidian-mantle-of-devotion), Apocrea offers potentially terrible fate of becoming engine's fuel as an ambrace of `infinite love` -- this framing is opposed to Dnford's madness, in which he is seemingly acknowledges Apocrea's negative perspective, while remaining in the world of living: `What terrible naivety! What utter farce! All of them mere crops against their relentless scythe! Though they may steal sanctuary in the cracks and corners of their terrible realm, it is ever fleeting. The blinding gaze of the Apocrea is boundless. The daylight, the starlight; all hope is merely waiting for their dark shroud to return this cosmic play to its primordial black. Dear heavens! The stars grin down with lustful intent! It is an abomination, an embodiment of sublime beauty, dark and blooded! I weep and laugh before the shroud that waits!` ([Recovered from the journal of Prof. Allister Danford, Dean of Antiquities - Professor Allister Danford](https://forums.spiralknights.com/en/node/91276)).
+
+The confict becomes existential, as it reqires for perception of reality without a filter, while remaining human, -- a madness in lovecraftian and cosmic horror terms.
+
+We will keep track of this notion of madness, as we are yet to discuss a figure of the Architect, which is stated to possess madness:
+
+`IN HIS MADNESS, THE ARCHITECT BETRAYED THE PACT. TWISTING HIS CREATION INTO A GAME OF DEATH, IT NOW DEVOURS ALL WHO ENTER ITS IRON EMBRACE` ([Echo Stone: Ironclaw Munitions Factory](https://wiki.spiralknights.com/Artifact)).
 
 ##### Obsidian Prize Box
 
