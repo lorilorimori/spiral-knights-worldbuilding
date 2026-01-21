@@ -3881,9 +3881,10 @@ As Dreamlands were already mentioned as a potential inspiration behind the desig
 
 - Carter had to travel to the Dreamlands in search of the sunset city he manifested through his own act of dreaming in the past. It is suggested by Nyarlathotep, that the city was stollen in the dreamlands of Earth by the Old Gods, but this information cannot be trusted, as Carter had to cross interdimensional void to reach Sunset city.
 - Nature of dreams under certain conditions allows transportation into other realities, traversal through those realities, higher dimensions, other physical locations, and time periods. This property of dreams is examined in the stories relating to Randolph Carter.
-- Lastly, Azathoth dreams the existence itself, allowing it to exists as long as Azathoth sleeps.
 
-The case of Azathoth's act of dreaming is defined _in later installments_, in particular, _Henry Kuttner's_ `Hydra` of _Lovecraft Circle of works_, wherein Azathoth is directly responsible for existence. Here we also note on the _motif of dreaming_ as an act of creation or definition of reality, as in case of Azathoth its perpetual dream is the humananity-inhabited reality:
+Outside of Yog-Sothothery, but present in popular culture is the myth of _Azathoth dreaming the existence itself_ -- the reality exists as long as Azathoth sleeps.
+
+The case of Azathoth's act of dreaming is defined _in later installments_, in particular, _Henry Kuttner's_ `Hydra` of _Lovecraft Circle of works_, wherein Azathoth is directly responsible for existence. Here we note the _motif of dreaming_ as an act of creation or definition of reality, as in case of Azathoth its perpetual dream is the humananity-inhabited reality:
 
 <BookCitation source="The dream-Quast of Unknown Kadath - H.P.Lovecraft">
 
