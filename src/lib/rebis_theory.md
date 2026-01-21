@@ -3705,13 +3705,15 @@ Despite this seeming difference, as we had a _notion of energy in different vari
 
 ##### Apocrean Disciples
 
-Then there are cultists or the disciples. They are separated into groups, characterized by a single property found in their names.
+Then there are cultists or the disciples. They are separated into groups, characterized by a single property found in their respective titles.
 
 ###### Obsidian Mantle of Sight
 
 `Through my eyes you will see the path to ages. Pure is my gaze, free from the lies of reality'` ([Obsidian Mantle of Sight](https://wiki.spiralknights.com/Obsidian_Mantle_of_Sight#Obsidian_Mantle_of_Sight)).
 
-We assume, that the hood which disciples wear, both in application and in design is meant to represent Apocrea's eyes given the same design of a face -- three eyes in triaglular pattern, -- of the Harvester, and accent on sight as motif.
+We assume, that the hood, which disciples wear both in application and design is meant to represent Apocrea's eyes given the identical design -- three dot-like eyes in a triaglular pattern, -- to Harvester's face, and accent on sight as motif.
+
+There are [scarabs](https://wiki.spiralknights.com/Scarab), which also have a similar eye pattarn and are undead, -- this might be a coincidense or a more complex case of Apocrean, _insect-like_ lifeforms adapting to Underworld through using skeletal rib-cage as a shell, given their design.
 
 With this, the aforementioned three-dot pattern of Obsidian Crusher's explosion is a plausible depiction of Apocrea's eyes, assuming a simlar to Harvester eldritch physiology as native to Apocrean Realm.
 
@@ -3719,7 +3721,7 @@ It is also here a narrative of false reality is established -- false or deceivin
 
 In terms of strictly lovecraftian narrative, it would be true, as eldritch beings possess a magnitudes more expansive understanding of reality.
 
-This would not characterize perceived reality as explicitly malevelent, but it will offer a different perspective on Apocrea from cultists' perspective, even considering its goal of negation of existence. Whether this would mean a formation of apocalyptic cult, is unknown.
+This would not characterize perceived reality as explicitly malevelent, but it will offer a different perspective on Apocrea's vision from cultists' perspective, even considering its goal of negation of existence.
 
 ###### Obsidian Mantle of Rituals
 
@@ -3736,9 +3738,7 @@ Is the description of said ritual. There is a high probability of metaphors beig
 
 The `eternal heart and mind so pure` relates to a prerequisite of one to perform the ritual. The idea of purity was mentioned above in `Pure is my gaze, free from the lies of reality'` ([Obsidian Mantle of Sight](https://wiki.spiralknights.com/Obsidian_Mantle_of_Sight#Obsidian_Mantle_of_Sight)), which may identify one performing the ritual as already under Apocrea's influence.
 
-An eternal heart, we assume, is immortality. Other than that, we are reminded of depths' names of [The Silent Legion](https://wiki.spiralknights.com/The_Silent_Legion): `Poisoned Minds` and `Cold Hearts`. This is also a motif of minds and hearts we have to keep track of in case of familiar themes to be discovered later.
-
-Among those cultists a sacred ritual is established.
+An eternal heart, we assume, is immortality. Other than that, we are reminded of depths' names of [The Silent Legion](https://wiki.spiralknights.com/The_Silent_Legion): `Poisoned Minds` and `Cold Hearts`. This is also a motif of minds and hearts we have to keep track of in case of familiar themes to be discovered later. Among Apocrean cultists a sacred ritual is established.
 
 ###### Obsidian Mantle of Influence
 
@@ -3754,7 +3754,7 @@ The `quiet as a child's whisper`, while we do not have any relations to chldren 
 
 The quote `Speak with the one, true voice and they will listen` may be interpreted in 2 ways:
 
-- It suggests that one -- a reader of those notes, -- will speak with true cosmic voice of Apocrea, as Apocrea was previously referring to the reader as "you," and Apocrea, ones the speakeer becomes aware of it, starts to listen. Apocrea will respond in aforementioned manner.
+- It suggests that a reader of those notes will speak with true cosmic voice of Apocrea, as Apocrea was previously referring to the reader as "you," and Apocrea, ones the speaker becomes aware of it, starts to listen. Apocrea will respond in the aforementioned manner.
 - The "they", the mantle refers to anyone outside of the cult. Given mantle's name -- `of influence`, -- is may be seen as a method of communion with Apocrea, allowing one to be possessed by Apocrea's goal both mentally and, potentially, physically.
 
 Yet, as Apocrea had referred to itself as `I`:
@@ -3762,7 +3762,7 @@ Yet, as Apocrea had referred to itself as `I`:
 - `Through my eyes you will see the path to ages. Pure is my gaze, free from the lies of reality'` ([Obsidian Mantle of Sight](https://wiki.spiralknights.com/Obsidian_Mantle_of_Sight#Obsidian_Mantle_of_Sight))
 - `'Wrap thyself in my embrace and succumb to my infinite love. Let your breath drift from you like candle smoke, dreaming deeper and deeper still'` ([Obsidian Mantle of Devotion](https://wiki.spiralknights.com/Obsidian_Mantle_of_Devotion#Obsidian_Mantle_of_Devotion))
 
-We would suggest that among aforementioned interpretations, the latter scenario -- of influencig through Apocrea's voice, -- seems more plausible, while still referring to the cultist on individual basis. Mantle's influence emerges from bearer's supernatural worship to Apocrea.
+We would suggest that among aforementioned interpretations, the latter scenario -- of influencig through Apocrea's voice, -- seems more plausible, as it implies the subject neither reader nor Apocrea, while still referring to the cultist on individual basis. Mantle's influence emerges from bearer's supernatural worship to Apocrea and capacity to speak with Apocrea's voice and likely will. It may be framed as anc of supernatural, eldritch possession.
 
 ###### Obsidian Mantle of Devotion
 
@@ -3770,17 +3770,15 @@ We would suggest that among aforementioned interpretations, the latter scenario 
 
 The act of devotion present in mantle's name, given `Wrap thyself in my embrace and succumb to my infinite love` likely means the complete one's surrender to Apocrea's means.
 
-The quote `my infinite love`, allows us to conclude, that it is Apocrea speaking.
+The quote `my infinite love`, based on the other instances of first person, allows us to conclude, that it is Apocrea speaking and referring to itself.
 
-`Let your breath drift from you like candle smoke, dreaming deeper and deeper still` quote, then, seeimngly refers to the result of this devotion. The act of smoke drifting reminds us of an idea of breath leaving the body -- death, or souls leaving the body. The act of dreaming in that regard seems supernatural, as if being possessed. In combination with smoke metaphor, we would suggest a state of possesseion, wherein one's soul is extracted, leaving the body without it in a state, similar to a slumber.
+`Let your breath drift from you like candle smoke, dreaming deeper and deeper still` quote, then, seemingly refers to the result of this devotion. The act of smoke drifting reminds us of an idea of breath leaving the body -- death, or souls leaving the body. The act of dreaming in that regard seems supernatural, as if being possessed. In combination with smoke metaphor, we would suggest a state of possession, wherein one's soul is extracted, leaving the body without it in a state, similar to a slumber, but animated.
 
-The `infinite love` is peculiar, as it offers only this state of being. In combination with act of devotion we would offer an interpretation, where the act of succumbing to infinite love is one of oblivion, death, of being utilized as the fuel for the engine, as devotion is an act of giving, and according to Danford, Apocrea's ultimate goal as one of negation of existence through collection of souls and funneling them to the engines.
+The `infinite love` is peculiar, as it offers only this state of being. In combination with act of devotion we would offer an interpretation, where the act of succumbing to infinite love is one of oblivion, death, of being utilized as the fuel for the engine, as devotion is an act of giving. And, according to Danford, Apocrea's ultimate goal as one of negation of existence through collection of souls and funneling them to the engines.
 
-While this is a more grim interpretation, it conflicts with individuality of those followers, as Apocrea speaks to them. But, in case of devotion, this individuality is either suppressed or removed as the last state of follower's being when devotion is absolute, and becouse of it, one may offer its conscious identity -- which is the soul, [contrary to an aura](#auras-and-souls), -- to Apocrea.
+While this is a more grim interpretation, it conflicts with individuality of those followers, as Apocrea speaks to them. But, in case of devotion, and prior interpretation of influence, this individuality is either suppressed or removed as the last state of follower's being. When devotion is absolute, and becouse of it, the devotee may offer themselves -- which is colloqually being the soul, [contrary to an aura](#auras-and-souls), -- to Apocrea.
 
-From this, reversed, perspective, death becomes not an oblivion, but a desired state of being within `primordial black` or as a fuel for the engine. The latter scenario may be seen as more grim, as oblivion of the metaphysical state of `primordial black` is not achieved by the soul, but the soul is repurposed to become engine's fuel.
-
-Due to those items, it becomes clear, that the Apocrea's speech is highly metaphorical and cunning. Apart from it, we get a description of a ritual, whose purpose is left currently ambgious.
+From this reversed perspective death becomes not an oblivion, but a tarted by Apocrea state of being within `primordial black` or as a fuel for the engine. The latter scenario may be seen as more grim, as oblivion of the metaphysical state of `primordial black` is not achieved by the soul, but the soul is repurposed to become engine's fuel. Whether those states are identical, is unknown, as it depends on metaphysical properties of the black, -- whether it is alchemical void of potential, or it is a final state of existence devoid of energy. The priomordial of the black makes us think of the prior, alchmical interpretation of massa confusa, but the exact conclusion requires us to discuss nature of the Void proper and then its relation to `primordial black`.
 
 ###### Apocrea's Eldritch Madness
 
@@ -3788,25 +3786,23 @@ As presented in [Obsidian Mantle of Devotion](#obsidian-mantle-of-devotion), Apo
 
 The confict becomes existential, as it reqires for perception of reality without a filter, while remaining human, -- a madness in lovecraftian and cosmic horror terms.
 
-We will keep track of this notion of madness, as we are yet to discuss a figure of the Architect, which is stated to possess madness:
-
-`IN HIS MADNESS, THE ARCHITECT BETRAYED THE PACT. TWISTING HIS CREATION INTO A GAME OF DEATH, IT NOW DEVOURS ALL WHO ENTER ITS IRON EMBRACE` ([Echo Stone: Ironclaw Munitions Factory](https://wiki.spiralknights.com/Artifact)).
+We will keep track of this notion of madness, as we are yet to discuss a figure of the Architect, which is stated to possess madness: `IN HIS MADNESS, THE ARCHITECT BETRAYED THE PACT. TWISTING HIS CREATION INTO A GAME OF DEATH, IT NOW DEVOURS ALL WHO ENTER ITS IRON EMBRACE` ([Echo Stone: Ironclaw Munitions Factory](https://wiki.spiralknights.com/Artifact)).
 
 ##### Obsidian Prize Box
 
 As far as those items' origins go, we have the last one -- the Obsidian Prze Box itself, as well as its [announcement](https://forums.spiralknights.com/en/node/91276): `Plucked from the depths of the Apocrean realm, Obsidian Prize boxes are almost certainly guaranteed to not induce madness upon ownership. There is literally almost no chance you will hide one deep within your family cellar and pour over its intricate, arcane craftsmanship. And opening one will not in any way unleash a terrible, ancient entity from a world of unending, dark dreams into your own. No, instead, the Obsidian Prize Box contains an assortment of unique and very rare Apocrean treasures. These ageless, undying antiquities include: ... Plus a bonus chance for even more prizes! 25% chance for all Obsidian Prize Boxes to also contain Shadow Accessories`.
 
-The origin of the box allows us to say with high certainty, that obsidian sets come from Apocrean Realm, rather than being constructed in the material realm.
+The origin of the box allows us to suggest with high certainty, that the obsidian sets come from Apocrean Realm, rather than being constructed in the material realm, if we assuma that the originof prize box itself matches source of its contents: `Plucked from the depths of the Apocrean realm, Obsidian Prize boxes`.
 
-The reveal of those items, apart from cosmic horror tropes, introduces Apocrea to material realm: `opening one will not in any way unleash a terrible, ancient entity from a world of unending, dark dreams into your own`. As here a reference goes to a single entity we can conclude it being either an aspect of Apocrea's presence or a native to Apocrean Realm being, such as Harvester. Presence of such entity in the material realm becomes destructive.
+The reveal of those items, apart from cosmic horror tropes, introduces Apocrea to material realm: `opening one will not in any way unleash a terrible, ancient entity from a world of unending, dark dreams into your own`. As here a reference goes to a single entity we can conclude it being either an aspect of Apocrea's presence or a native to Apocrean Realm being, such as Apocrean Harvester. Presence of such entity in the material realm is framed as destructive, characteristic of lovecraftian narratives, wherein presence of alien or eldritch beings is one harmful or explicitly malevelent towards humanity.
 
-The Apocrean Realm in that case is called a `world of unending, dark dreams`. We will track this _relation to dreams and ability of Apocrea to dream_, as it is most similar to the Sleeper, as the thematic and metaphysical parallels here are most distinct.
+The Apocrean Realm in that case is called a `world of unending, dark dreams`. We will track this _relation to dreams and ability of Apocrea to dream_, as it is most similar to the Sleeper, as the thematic and metaphysical parallels here are most distinct. Yet, due to unexplored nature of Sleeper, we will cover this motif of dreams separately.
 
-And as far as disciples' gear suggests, it represents both characteristic aspects of Apocrea, and the type of relation of the disciples to the deity. All of those concepts are tied to lovecraftian horror, usually involving rituals, performed by devoted cultists, in order to summon eldritch entities, witnessing or seeing which can cause madness. This interpretaion based on lovecraftoan narrative may explain nature of the ritual as one required to open a Shroud, but with no certainty.
+As far as disciples' gear suggests, it represents both characteristic aspects of Apocrea, and the type of relation of the disciples to the deity. All of those concepts are tied to lovecraftian horror, usually involving rituals, performed by devoted cultists, in order to summon eldritch entities, witnessing or seeing which can cause madness. This interpretaion based on lovecraftian narrative may explain nature of the ritual as one required to open a Shroud, but with no certainty as we have not discussed the ritual itself in detail.
 
-The [Apocrean Disciple Wings](https://wiki.spiralknights.com/Apocrean_Disciple_Wings) imply that those are granted through the connection to Apocrea, as those have the same design as the Apocrean Crown, which is made, likely, of obsidian, given its mineral-like texture and shape, as well as ourprevious discussion [on identification of obsidian as the unatural stone](#unnatural-stone-of-apocrean-realm). In a [corresponding news art](https://wiki.spiralknights.com/File:SpiralKnights_News_94-big.png) there is a depiction of an Apocrean disciple possessing both wings and a crown, suggesting a potential hierarchy within the cult.
+The [Apocrean Disciple Wings](https://wiki.spiralknights.com/Apocrean_Disciple_Wings) imply that those are granted through the connection to Apocrea, as those have the same design as the Apocrean Crown, which is made, likely, of obsidian, given its mineral-like texture and shape, as well as our previous discussion [on identification of obsidian as the unnatural stone](#unnatural-stone-of-apocrean-realm). In a [corresponding news art](https://wiki.spiralknights.com/File:SpiralKnights_News_94-big.png) there is a depiction of an Apocrean disciple possessing both wings and a crown, which may imply a hierarchy within the cult and a varying degree of devotion.
 
-There are also some architectural motifs, but those are likely an asset reuse: Graveyard of [Blades of the Fallen](https://wiki.spiralknights.com/Blades_of_the_Fallen) outside of Haven contains an obelisk, are shaped as miniature versions of the ziggurat found in the [Obsidian Nexus](https://wiki.spiralknights.com/Shroud_of_the_Apocrea/The_Obsidian_Nexus), if a case of asset reuse to be omitted. It is important also to note in the context of tortodrones, Call of The Colossi contains the same rectangular obelisk located to to the left of the entrance elevator and before the arena, suggesting that it is the result of the same cultural and architectural phenomenon of ritual circles being spread to Cradle and its civilizations from the Underworld.
+There are also some architectural motifs, but those are likely an asset reuse: Graveyard of [Blades of the Fallen](https://wiki.spiralknights.com/Blades_of_the_Fallen) outside of Haven contains an obelisk, are shaped as miniature versions of the ziggurat found in the [Obsidian Nexus](https://wiki.spiralknights.com/Shroud_of_the_Apocrea/The_Obsidian_Nexus), if a case of asset reuse to be omitted. It is also important to note in the context of tortodrones: Call of The Colossi contains the same rectangular obelisk located to to the left of the entrance elevator and before the arena, suggesting that it is the result of the same cultural and architectural phenomenon of ritual circles being introduced to Cradle and its civilizations from the Underworld.
 
 In relation to eldritch madness, it is explicitly reintated in the announcement -- `Obsidian Prize boxes are almost certainly guaranteed to not induce madness upon ownership`, and identification of the gear as an `assortment of unique and very rare Apocrean treasures. .. ageless, undying antiquities ...`,we may suggest that those cultists' gear had existed prior to Skylark crash landing on Cradle, and, if the anatomy of this gear is depicted as it is, it would mean _existence of Isorans in the past, which had taken the role of cultists_.
 
@@ -3816,13 +3812,17 @@ Lastly, there is the motif of dreams, but before we discuss it, we will recap ex
 
 Finally it is important to specify connection of Underworld and Apocrean Realm in their common relation to souls, partially covered in the [Minerals and Souls section](#minerals-and-souls-part-1).
 
-Everfrost tower brought from Underworld functions as a prison for the souls. Then there are auras, which Black Kats consume. Apocrea sets up traps across Clockworks, which lead up to the Apocrean Harvester. In relation to Apocrea, one entity is seemingly native to Underworld -- [Scarabs](https://wiki.spiralknights.com/Scarab), - as they can be coupled with even devilites across [Grasping Plateau](https://wiki.spiralknights.com/Shroud_of_the_Apocrea/The_Grasping_Plateau).
+Everfrost tower brought from Underworld functions as a prison for souls. Then there are auras, which Black Kats consume. Apocrea creates dimensional traps, a shroud, across Clockworks, which lead up to the plateau -- the hunting grounds of Apocrean Harvester.
 
-Amongst those elements one thing in particular will be very important: `The Apocrea bend reality, twisting the environment they invade into a trap` ([Obsidian Nexus - Lost Soul](https://wiki.spiralknights.com/Shroud_of_the_Apocrea/The_Obsidian_Nexus)), -- an ability to warp reality, an eldritch ability. This ties with the prior concept of the Plateau of Leng and Grasping Plateau as connected, as both exist in an undefined state, between the dimensions or realms. In case of latter, as plateau is a trap, and harvester is there to traverse it, than Apocrean realm proper we suggest would not be far.
+<!--In relation to Apocrea, one entity may be seen as native to Underworld -- [Scarabs](https://wiki.spiralknights.com/Scarab), -- as they can be coupled with even devilites across [Grasping Plateau](https://wiki.spiralknights.com/Shroud_of_the_Apocrea/The_Grasping_Plateau).-->
 
-Due to those properties of Apocrean Realm, even without a propostion, where ritual circles and graviton technology were given to Underworld, we propose, that __Apocrea presents in a longer term far greater danger to not only Cradle, but material realm__.
+Amongst those elements one thing in particular is important: `The Apocrea bend reality, twisting the environment they invade into a trap` ([Obsidian Nexus - Lost Soul](https://wiki.spiralknights.com/Shroud_of_the_Apocrea/The_Obsidian_Nexus)), -- an ability to warp reality, a more unique ability among existing ecosystem of Cradle. This ties with the prior concept of the Plateau of Leng and Grasping Plateau as connected, as both exist in an undefined state, between the dimensions or realms, including dreams.
 
-The motivation behind Apocrea's actions suggest an essential aspect of souls to their existence as well to currently established cosmology. This would mean that souls are formed or at least arrive to material realm, and are naturally unreachable for Apocrea, likely meant to remain in Underworld.
+Due to those properties of Apocrean Realm, even without a propostion, where ritual circles and graviton technology were given to Underworld, we propose, that __Apocrea presents far greater longer term danger not only to Cradle, but material realm__.
+
+The motivation behind Apocrea's actions suggest an essential aspect of souls to their existence or [plan](#apocreas-goal-of-negation-of-existence-part-1).
+
+This relation would mean, that souls are formed or at least arrive to material realm from a different reality, which we assume to exist given prior instance of heavenly kingdom, and more broadly, __a divine realm opposed to curretly established pantheon of Underworld and eldritch deities, if we were to follow general pattaern of a mythological narrative__. Therefor, souls are naturally unreachable for Apocrea, but souls are also likely meant to remain in Underworld or Abyss as a frozen prison at the bottom of Underworld.
 
 ##### Metaphysical Stack
 
@@ -3834,13 +3834,15 @@ In the [analysis of the Blinding Abyss](#perma-frostifurs-and-blinding-abyss) an
 
 The Void, on the other hand, requires for us to analyze 3 more time periods, where in laws of this universe's cosmology are observed.
 
-Material realm is connected with Underworld. Usually only souls can leave from material realm to Underworld. Souls can choose to stay and haunt material realm. [The Core had disrupted this process](#state-of-cradle-metaphysics), allowing souls to return to material realm.
+Material realm is connected with Underworld. Usually only souls can leave from material realm to Underworld. Souls can choose to stay and haunt material realm to lesser extent. [The Core had disrupted this process](#state-of-cradle-metaphysics), allowing souls to return to material realm, breaking the boundary separating material realm and Underworld, acceleratig the transition between states of the living, death and undeath.
 
-Living beings can traverse across both realms through a ritual circle made of charged with energy minerals, or a device, such as grim gates, which uses same energy-based principles revolving around uniersal energy, which takes many forms with its ondividual properties. Some of those proprties allow existence of consciousness, creating souls. One with a soul can be trapped at the precipise of Apocrean Realm known  as the Shroud, and though same means of entering return back into material realm.
+Living beings can traverse across both Underworld andmaterial realm through a ritual circle made of charged with energy minerals, or a device, such as grim gates, which itself uses energy-based principles revolving around universal medium of energy, which in that case takes form of charged data and energy storage -- glyphs.
 
-Undercorp is located in the Underworld. Below the Underworld, it is Apocrean Realm, an even more ancient location, both might possess means of communication. All of those realms are seemingly connected and have access to the material realm, but table communications costs energy. Apocrea disrupts tranfer of souls to Underworld, instead funneling them into its engines as fuel. Those engines are designed to unmake present reality and return it to an initial state of nothingness -- `primordial black`.
+Some of other energy mediums _allow existence of consciousness, creating souls_. One with a soul can be trapped at the precipise of Apocrean Realm, the Shroud, and through those means both enter Apocreanrealm and return back into material realm with external assistance.
 
-In the end, apart from the Void, one final realm remains -- Nameless Realm: `A forbidden mantle said to grant the wearer protection within the nameless realm where all elements are said to converge into one and divide into all` ([Chaos cloak](https://wiki.spiralknights.com/Chaos_cloak)). We will revisit it later, as in order to analyze it, we have to cover rest of past history, specifically [Kingdom of Almire](#chapter-vi-kingdom-of-almire) and [Owlites, and Kat Tribe](#chapter-viii-kat-tribe).
+Undercorp is located at the Underworld. Below the Underworld, it is Apocrean Realm, an even more ancient location. Both realms might possess means of communication. Those realms have access to the material realm. Apocrea disrupts tranfer of souls to Underworld, instead funneling them into its engines as fuel. Those engines are designed to unmake present reality and return it to an initial state of nothingness -- `primordial black`.
+
+In the end, apart from the Void, one final realm remains -- Nameless Realm: `A forbidden mantle said to grant the wearer protection within the nameless realm where all elements are said to converge into one and divide into all` ([Chaos cloak](https://wiki.spiralknights.com/Chaos_cloak)). We will revisit this realm later, as in order to analyze it, we have to cover rest of past history, specifically [Kingdom of Almire](#chapter-vi-kingdom-of-almire) and [Owlites, and Kat Tribe](#chapter-viii-kat-tribe).
 
 ##### Metaphysics of Dreams: Part 1 - Apocrea
 
