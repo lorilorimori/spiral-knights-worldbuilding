@@ -61,7 +61,7 @@ With this thought framework in mind, we will go through the entirety of the stor
 
 We will analyze the setting without including details of technical impimentation, but view it at a face value, apart from elements requiring elaboration as they have changed over the development of the game since its initial release.
 
-We acknowledge, that there are undiscovered or missed inspirations and themes, which we may not be aware of.
+We acknowledge that there are undiscovered or missed inspirations and themes, which we may not be aware of.
 
 ## Method
 
@@ -87,11 +87,11 @@ In order to achieve desired level of cohesiveness of the research, we will outli
 
 - Arcade and rank missions define setting's world. Arcade specifically is considered a tool of environmental storytelling, serving as thematic foundation for the setting, including context of rank missions.
 
-    We assume, that crafting of the equipment, refered as alchemy, is generally done with the intended materials. If an inconcistency between description and recipe is found, we attempt to present first the in-universe explanation.
+    We assume that crafting of the equipment, refered as alchemy, is generally done with the intended materials. If an inconcistency between description and recipe is found, we attempt to present first the in-universe explanation.
 
     <!--We consider all present items, weapons, and equipment to be incorporated into corresponding in-universe narratives, indefinite of their [out-of-universe or Doylist](https://tvtropes.org/pmwiki/pmwiki.php/Main/WatsonianVersusDoylist) origin and refernce to other works of fiction.-->
 
-- We assume _consistency of themes_. It suggests, that both the narrative and the story are complete. We rely on the assumption, that the stories and involved in them _characters possess conclusive motivations and goals_, despite the storytelling medium being an MMO with corresponding for such genre design choices and priorities.
+- We assume _consistency of themes_. It suggests that both the narrative and the story are complete. We rely on the assumption that the stories and involved in them _characters possess conclusive motivations and goals_ despite the storytelling medium being an MMO with corresponding for such genre design choices and priorities.
 
     The potential inspirations, relations to folklore, mythology, and fiction will be introduced wherein we believe they might present a plausible explanation for elements of the identified narratives.
 
@@ -251,7 +251,7 @@ The reason for it being the source of information on the canonicity of enemy nam
 
 In the case of HUD, we suggest, it must be considered on the same level as other elements of enemy identification system, being their type, health, and weakness. While the _default animation of any opened menu_ may be considered an in-universe method of those options being observed, a stronger argument lies in characters' acknowledgement of the rest of enemies' properties.
 
-Knight's auto target of enemies shows their names, monster family and health. For the monster families specifically we come from an idea, that classification is developed by Spiral Order biotechs in the same format as it is presented by [Hahn](https://wiki.spiralknights.com/Hahn). Hahn, being Chief Biotech by the time of [Best of the Beast](https://wiki.spiralknights.com/Best_of_the_Beast) rank mission, has throughoutly analyzed [monster families and corresponding damage types](https://wiki.spiralknights.com/Hahn#Dialogue). Given this correspondence, the naming scheme of enemies is one we can rely on as most likely defined by Spiral Order.
+Knight's auto target of enemies shows their names, monster family and health. For the monster families specifically we come from an idea that classification is developed by Spiral Order biotechs in the same format as it is presented by [Hahn](https://wiki.spiralknights.com/Hahn). Hahn, being Chief Biotech by the time of [Best of the Beast](https://wiki.spiralknights.com/Best_of_the_Beast) rank mission, has throughoutly analyzed [monster families and corresponding damage types](https://wiki.spiralknights.com/Hahn#Dialogue). Given this correspondence, the naming scheme of enemies is one we can rely on as most likely defined by Spiral Order.
 
 Aforementioned identification allows to position the void as a tangible concept, despite its currently unknown nature and relation to the observed with the Swarm enemies.
 
@@ -335,7 +335,7 @@ As for the military organization of Spiral Order itself, it is worth noting a pa
 - `Hello there, ... Spiral HQ has informed me that you will be needing a quick lesson in the species of monsters within the Clockworks that inflict piercing damage, yes?` ([Pierce of Cake - Hahn](https://wiki.spiralknights.com/Pierce_of_Cake)).
 - `It seems the closer monsters get to the Core, the more their unique properties begin to surface. In most cases this takes the form of their being able to inflict special damage types that require special defenses in order to withstand properly. In Tier 2, a monster inflicting a special damage type will always produce a split normal/special damage output. Thus, normal defense is still a somewhat valid defense choice` ([Pierce of Cake - Hahn](https://wiki.spiralknights.com/Pierce_of_Cake)).
 
-The idea, that biotechs are aware of those damage types, -- shadow, elemental, and specifically piercing damage, as it is found in [cobalt line of armors](https://wiki.spiralknights.com/Cobalt_Armor) -- have a capacity to be called speial, makes them by definition as such, special in relation to other damage, which is considered normal.
+The idea that biotechs are aware of those damage types -- shadow, elemental, and specifically piercing damage, as it is found in [cobalt line of armors](https://wiki.spiralknights.com/Cobalt_Armor), -- have a capacity to be called speial, makes them by definition as such, special in relation to other damage, which is considered normal.
 
 ##### Emptied Energy Symbol
 
@@ -397,11 +397,11 @@ While we did hint at a conflicting existence of Alchemy Stations across Clockwor
 
 #### Energy of the Core
 
-Meanwhile, as its is implied that the Core itself is the energy source, a suggestion could be made, that it is the space within the Core, either [Whitespace](#environment-of-the-core-whitespace) itself or unknown location hidden within the Core is the precise source, from which energy is supplied and then distributed across Clockworks through the boundary of the Core. This approach leverages the potential of _Clockworks as a planet-scale megastructure_ with its multifaceted complexity as a machine requiring maintanance and fuel.
+Meanwhile, as its is implied that the Core itself is the energy source, a suggestion could be made that it is the space within the Core either [Whitespace](#environment-of-the-core-whitespace) itself or unknown location hidden within the Core is the precise source, from which energy is supplied and then distributed across Clockworks through the boundary of the Core. This approach leverages the potential of _Clockworks as a planet-scale megastructure_ with its multifaceted complexity as a machine requiring maintanance and fuel.
 
 The fact that the knights contribute energy to elevators in its required amount, while Spiral Order is not native to Cradle, makes energy seem as more of a universal resource.
 
-By that we suggest, that Spiral Order and gremlin technology, such as [mecha knights](https://wiki.spiralknights.com/Mecha_Knight#Mecha_Knight_Kit) and in lesser manner elevators -- as creations of a different civilization, -- would initially seem not to be able to cooperate on the same if not more advanced resource, they do.
+By that we suggest that Spiral Order and gremlin technology such as [mecha knights](https://wiki.spiralknights.com/Mecha_Knight#Mecha_Knight_Kit) and in lesser manner elevators -- as creations of a different civilization, -- would initially seem not to be able to cooperate on the same if not more advanced resource, they do.
 
 This approach evidently disregards the out-of-iniverrse purpose to provide gameplay elements to Clockworks, we operate in terms of this universe existing through those mechanics.
 
@@ -434,13 +434,13 @@ In relation to the general cosmology, there are dragons and 3 elemnts not seen i
 
     Yet, in the context of other items, all three steps seemingly are required to create or shape the world. It is worth noting that we are not yet aware of the scope of the world described.
 
-Can it be proven that these were in fact dragons and not a metaphor of "dragons?" We propose, that __transformed Battle Sprites are essential__ to resolving many questions with _such degree of ambiguity in relation to unseen actors and shaping of greater world outside of the setting of Cradle_.
+Can it be proven that these were in fact dragons and not a metaphor of "dragons?" We propose that __transformed Battle Sprites are essential__ to resolving many questions with _such degree of ambiguity in relation to unseen actors and shaping of greater world outside of the setting of Cradle_.
 
 We know that Spiral Order knew how dragons look based on Rhedon's quote: `They seem friendly. In fact they seem to behave just like the battle sprites I know. Only difference is they, uh, well, look like dragons` ([A Revelation in Flames - Sunset Steppes - Rhedon](https://wiki.spiralknights.com/A_Revelation_in_Flames/Sunset_Steppes)).
 
 Due to an unidentified relation between dragons and Spiral Order, but though the presence of dragon scales in Azure Guardian armor -- `A noble helmet reserved for the most senior members of the Spiral Order. The technique which weaves dragon scale seamlessly into the metal is a closely guarded secret` ([Azure Guardian Helm](https://wiki.spiralknights.com/Azure_Guardian_Helm)), -- the naming of Drakon here only affirms Spiral Order's _observation of them as reminiscent of dragons_, which by proxy suggests a general appearance of the latter, as close if not identical to a dragon, apart from, potentially, creature's size.
 
-We propose, that 3 sub-species of Drakons suggest existence of divine, shadow and rage dragons, which, if mapped onto earlier elements of storm, frenzy, and rage would plausibly fit to descriptions of implied dragon beasts, referred in the [Dragon Helms](https://wiki.spiralknights.com/Frenzy_Dragon_Helm#Frenzy_Dragon_Helm).
+We propose that 3 sub-species of Drakons suggest existence of divine, shadow and rage dragons, which if mapped onto earlier elements of storm, frenzy and rage, would plausibly fit to descriptions of implied dragon beasts, referred in the [Dragon Helms](https://wiki.spiralknights.com/Frenzy_Dragon_Helm#Frenzy_Dragon_Helm).
 
 We match 3 sub-species of Drakon battle sprites to 3 elements, established earlier. There are 3 variants of Drakon: [red Drakon](https://wiki.spiralknights.com/Drakon), [divine Drakon](https://wiki.spiralknights.com/Drakon_(Divine)), [shadow Drakon](https://wiki.spiralknights.com/Drakon_(Shadow)). They suggest existence of divine and shadow aspects to their evolution if we extrapolate on Morlin's explanation: `Though their cellular identity is still wholly that of a battle sprite. My hypothesis is that somehow they rapidly evolved to survive in their new environment` ([A Revelation in Flames - The Lab - Morlin](https://wiki.spiralknights.com/A_Revelation_in_Flames/The_Lab)).
 
@@ -480,7 +480,7 @@ Those combinations of meanings and symbols, we propose, open up a possibility of
 
 ##### Dragon Scales
 
-The description `its frenzy started the mighty winds, its scales became the shadows` ([Frenzy Dragon Helm](https://wiki.spiralknights.com/Frenzy_Dragon_Helm#Frenzy_Dragon_Helm)) introduces scales, that are [Dragon Scales](https://wiki.spiralknights.com/Dragon_Scale), a material, for a fact belonging to a dragon: `An armored scale from what was thought to be an extinct creature. It reflects light with an otherworldly sheen` ([Dragon Scale](https://wiki.spiralknights.com/Dragon_Scale)). The `otherworldly sheen` further suggests an elevated state of being of dragons.
+The description `its frenzy started the mighty winds, its scales became the shadows` ([Frenzy Dragon Helm](https://wiki.spiralknights.com/Frenzy_Dragon_Helm#Frenzy_Dragon_Helm)) introduces scales that are [Dragon Scales](https://wiki.spiralknights.com/Dragon_Scale) -- a material, for a fact belonging to a dragon: `An armored scale from what was thought to be an extinct creature. It reflects light with an otherworldly sheen` ([Dragon Scale](https://wiki.spiralknights.com/Dragon_Scale)). The `otherworldly sheen` further suggests an elevated state of being of dragons.
 
 Now it is a question of belonging of those scales either to shadow sub-species of dragons, based on the fact it is mentioned for frenzy dragons, or those scales could belong to an entire species of dragons, as those scales, an item, seemingly lack elemental classification but a few of items crafted with scales have piercing defence.
 
@@ -535,7 +535,7 @@ As we do not have any other examples of a world being created by such means, whi
 
     Dragons being extinct after this would be interpreted as a myth of their disappearance -- a creature powerful enough, -- so that it would not be present in a world born of their passing.
 
-- If we consider dragons immortal and deific entities, and them being potentially alive to the present-day Cradle, implies that some external force would be present far in the past, that had caused dragons' extinction, as the violent or conflict-driven narrative is not novel in the total of creation myths across human culture. This force should be powerful enough to defeat beasts implied to be wielding powers of storms, rage and frenzy, as suggested by riders' mantles.
+- If we consider dragons immortal and deific entities, and them being potentially alive to the present-day Cradle, implies that some external force would be present far in the past that had caused dragons' extinction as the violent or conflict-driven narrative is not novel in the total of creation myths across human culture. This force should be powerful enough to defeat beasts implied to be wielding powers of storms, rage and frenzy, as suggested by riders' mantles.
 
     Here, [Riders](https://wiki.spiralknights.com/Rider_Mantle) in that regard could be either literal riders of dragons, or riders of the metaphorical forces. In this case, for now, the latter interpretation seems fitting, due to riders' status as gods, capable `to carve whole worlds from stone` ([Rider Mantle](https://wiki.spiralknights.com/Rider_Mantle)).
 
@@ -617,7 +617,7 @@ Underworld is not devoid of elements of material realm, identified by common [st
 
 Most of overtimers have unique fiendish weaponry - pitchforks and axes, which have a peculiar property of being made of __stone-like mineral with visible colored cracks in areas of connection with the center being completely removed__. The color aligns with base elemental status effects found across Cradle, apart from curse.
 
-The curse status is absent as well as its imagery related to an eye. Weapons, which do not belong to any status effect have pink color and deal only normal damage. This will be kept in mind for the [intermediate analysis of the curse section](#intermission-analysis-of-curse), as color pink is particularly common across curse-infused materials and equipment. Could it be, that the curse is a natural state of existence for Underworld, and it is only identified as curse once it enters or intersects with the material realm?
+The curse status is absent as well as its imagery related to an eye. Weapons, which do not belong to any status effect have pink color and deal only normal damage. This will be kept in mind for the [intermediate analysis of the curse section](#intermission-analysis-of-curse), as color pink is particularly common across curse-infused materials and equipment. Could it be that the curse is a natural state of existence for Underworld and it is only identified as curse once it enters or intersects with the material realm?
 
 Layoafers and Blarfuls in relation to the rest of corporate hierarchy do not seem to fit in it, rather being outside of it.
 
@@ -625,7 +625,7 @@ Layoafers and Blarfuls in relation to the rest of corporate hierarchy do not see
 
 Devilite society is developed enough for corporations to exist, and even considered that devilites were from a different intellectual property, they remain in Spiral Knights' cosmology and setting.
 
-It is suggested by Spiral Order, that devilites within dark cities are stranded on Cradle: `It is speculated that all fiends within the Clockworks crossed over from a dimension known as the Underworld. While how they crossed over and what their motives are on Cradle is unclear, data collected from fiendish cities seems to indicate that they are now stranded on Cradle, much like us ... The undead on the other hand remain a mystery. Why spirits return to the material realm is unknown, trough it is clear that many of the spirits within the Clockworks have come from other worlds` ([Weight of Darkness](https://wiki.spiralknights.com/Weight_of_Darkness)).
+It is suggested by Spiral Order that devilites within dark cities are stranded on Cradle: `It is speculated that all fiends within the Clockworks crossed over from a dimension known as the Underworld. While how they crossed over and what their motives are on Cradle is unclear, data collected from fiendish cities seems to indicate that they are now stranded on Cradle, much like us ... The undead on the other hand remain a mystery. Why spirits return to the material realm is unknown, trough it is clear that many of the spirits within the Clockworks have come from other worlds` ([Weight of Darkness](https://wiki.spiralknights.com/Weight_of_Darkness)).
 
 Devilites being stranded could mean both _spacial and dimensional dislocation_, as they had not, compared to Skylark, arrived to Cradle through interstellar travel, but rather summoned or captured with the cities themselves, if dark cities belong to them.
 
@@ -752,7 +752,7 @@ All of those description relate to an inherent _wrongness of the essence, its si
 
 As for the plague essence, as its inventory icon being a flame, it can be plausibly tied to the nature of the plague as being not of earthly origin, similar to [Dark Embers](https://wiki.spiralknights.com/Dark_Ember) despite being embers, distinctly separate themselves from natural existence of material relam, as being potentially the source of unnatural fires of Firestorm Citadel in a similar pattern to everfrost being potential source of unnatural frost.
 
-For now, to avoid too much reference to unexplored topic of Almire, it can be safe to suggest, that the essence present within gravestones is related to ectoplasm, and, possibly, is the source of [dust zombies'](https://wiki.spiralknights.com/Zombie#Dust_Zombie) green eyes, -- with all of those elements eventually finding their explanation in nature of Underworld.
+For now, to avoid too much reference to unexplored topic of Almire, it can be safe to suggest that the essence present within gravestones is related to ectoplasm and, possibly, is the source of [dust zombies'](https://wiki.spiralknights.com/Zombie#Dust_Zombie) green eyes, -- with all of those elements eventually finding their explanation in nature of Underworld.
 
 <center class="chapter-break">
   <span class="energy">🜨</span>
@@ -805,13 +805,13 @@ This symbolism of a tortoise had to be acknowledged, as we attempt to identify t
 
 As we develop the proposal of tortoises being descendants of dragons, we may may approach th identitis of those species from items, transmuted from [ancient shells](https://wiki.spiralknights.com/Ancient_Shell) (`A fragment of resilient Tortodrone shell. It is rumored that by sleeping on a Tortodrone shell, one can feel the subtle vibrations that call these mighty beings towards the Long Migration's mysterious final destination`), recovered from tortodrones as those are reminiscent of tortoises.
 
-Among those items, [Primal Shell](https://wiki.spiralknights.com/Primal_Shell) describes resistance to fire and frost: `A shield alchemized from the shell of a tortodrone. The plates used in its construction provide some protection against the elements of fire and freeze`. The environmental aspect may imply that this equipment builds upon properties of the ancient shells, the description of [Barrier Shell](https://wiki.spiralknights.com/Barrier_Shell) suggests, that the resistances are inherent to tortodrones: `A shield alchemized from the shell of a tortodrone. The elemental resiliency of a tortodrone on the Long Migration should aid you on your own journeys through harsh environments.` Attunement with elements is also seen in [Barrier Cannon](https://wiki.spiralknights.com/Barrier_Cannon): `A handgun alchemized from the shell of a tortodrone. The elemental offense of a tortodrone on the Long Migration should aid you on your own expeditions.`
+Among those items, [Primal Shell](https://wiki.spiralknights.com/Primal_Shell) describes resistance to fire and frost: `A shield alchemized from the shell of a tortodrone. The plates used in its construction provide some protection against the elements of fire and freeze`. The environmental aspect may imply that this equipment builds upon properties of the ancient shells, the description of [Barrier Shell](https://wiki.spiralknights.com/Barrier_Shell) suggests that the resistances are inherent to tortodrones: `A shield alchemized from the shell of a tortodrone. The elemental resiliency of a tortodrone on the Long Migration should aid you on your own journeys through harsh environments.` Attunement with elements is also seen in [Barrier Cannon](https://wiki.spiralknights.com/Barrier_Cannon): `A handgun alchemized from the shell of a tortodrone. The elemental offense of a tortodrone on the Long Migration should aid you on your own expeditions.`
 
 Frost is reminiscent of Blinding Abyss and Underworld, but also given tortoise motif coupled with mystery of the Long Migration makes us think of the __Giant Tortoises' migration patterns__. It is also here we point out ability of tortoise to hibernate in winters, similar to a tortodrone migration: `Now, the tortodrones are being called on the Long Migration. Even the Strangers do not know the reasons for this mysterious event but these giant, robotic tortoises can be glimpsed traveling through the clockworks` ([March of the Tortodrones](https://wiki.spiralknights.com/March_of_the_Tortodrones)). While those similarities does not answer the reason for the migration, a natural or elemental theme of _resiliency_ is prevalent even if theme of tortodrone's rage is one more distinct and present.
 
-As tortoises are positioned through alchemy path as different from tortomega, that distinction had to reflect the reality. In this context creators of tortodrones had to possess excessive knowledge of tortoises in order to create machines in their image, which implies __the significance of tortoises to tortodrones' creators culture__.
+As tortoises are positioned through alchemy path as different from tortomega that distinction had to reflect the reality. In this context creators of tortodrones had to possess excessive knowledge of tortoises in order to create machines in their image, which implies __the significance of tortoises to tortodrones' creators culture__.
 
-We propose, that tortomega are those conscious species comprising the civilization responsible for creation of tortodrones, descendants of tortoises.
+We propose that tortomega are those conscious species comprising the civilization responsible for creation of tortodrones, descendants of tortoises.
 
 #### Symbolism of Power in Tortomega
 
@@ -845,7 +845,7 @@ Here we will advocate for tortodrones being built in image of a bipedal tortomeg
 
 ##### Gremlin Scenario
 
-The one and only candidate for such species with engineering skills are gremlins, which would mean, that they are far more ancient than Clockworks makes them seem. And yet, tortodrones don't fit thematically and design-wise to be gremlin creation, as it will be later explored, the themes surrounding tortodrones, apart from their character, are of an _environment identified by nature, stone megaliths and forests_, -- Gloaming Wildwoods specifically, -- and an established presence of distinct architecture.
+The one and only candidate for such species with engineering skills are gremlins, which would mean that they are far more ancient than Clockworks makes them seem. And yet, tortodrones don't fit thematically and design-wise to be gremlin creation, as it will be later explored, the themes surrounding tortodrones, apart from their character, are of an _environment identified by nature, stone megaliths and forests_, -- Gloaming Wildwoods specifically, -- and an established presence of distinct architecture.
 
 Gremlins in that regard may be linked to grim gates in the Ancient Grove, as those have several mounted monitors of similar gremlin design. On the other hand, this can be further proof of gremlins working with Undercorp in recent times, on both instances, it gremlins do not possess stonework designs.
 
@@ -859,7 +859,7 @@ The rest of connections will will be explored in the analysis of [Undercorp](#ch
 
 The observed focus of gremlin technology is mainly elemental damage and shock. Crimson Order is an exception here, as its' members -- Warmaster Seerus specifically (`It is thought to have been reserved for use against other members of the Crimson Order` - [Dark Retribution](https://wiki.spiralknights.com/Dark_Retribution)), -- utilize shadow bombs as well as several [other weapons](#cradle-defenses), making shadow damage seem as of greater danger and higher secrecy. In case of tortodrones, presence of shadow is characteristic only of corrupted tortodrone, not their natural variants seen at the end of the [Call of the Colossi depth](https://wiki.spiralknights.com/March_of_the_Tortodrones/Call_of_the_Colossi).
 
-<!--If gremlins did engineer tortodrones present on Cradle, that would mean that Clockworks were built either during that time or after, but remained within realm of gremlin influence, which would not explain presence of the _Great Colony as a term denoting colony -- not a homeworld, but a dependent region controlled externally and established by a greater empire of that specie, with an assigned emperor or a king_. One entity close to this concept is implied to exist king Tinkinzar. The truthfulness of Tinkinzar's existence will be explored later in [chapter on gremlins](#gremlin-empire). In the context of tortodrones, this would mean, that gremlins salvaged this regions for Cradle while being present there.-->
+<!--If gremlins did engineer tortodrones present on Cradle that would mean Clockworks were built either during that time or after but remained within realm of gremlin influence, which would not explain presence of the _Great Colony as a term denoting colony -- not a homeworld, but a dependent region controlled externally and established by a greater empire of that specie, with an assigned emperor or a king_. One entity close to this concept is implied to exist king Tinkinzar. The truthfulness of Tinkinzar's existence will be explored later in [chapter on gremlins](#gremlin-empire). In the context of tortodrones, this would mean, that gremlins salvaged this regions for Cradle while being present there.-->
 
 Those factors make gremlins seem as less plausible candidate for tortodrones' creators compared to mythological tortomega.
 
@@ -869,7 +869,7 @@ White sigils at [Call of the Colossi](https://wiki.spiralknights.com/Call_of_the
 
 Considering overall design of those circles, even outside of the meaning of devilite ritual circles, yet considering presence of corrupted tortodrones, this seems more of a _protective measure of deactivated tortodrones_, possibly from tampering and utilizing same magic as devilites themselves use, and, as later will be seen, [undead Kat Tribe](#kat-tribe) at Moorcroft Manor.
 
-Only a civilization with similar knowledge of minerals could them be capable of applying those circles with consideration of tortodrones' construction, which would be their creators. This may suggest, that the technology powering tortodrones is similar to one of devilites, suggesting a 2 scenarios:
+Only a civilization with similar knowledge of minerals could them be capable of applying those circles with consideration of tortodrones' construction, which would be their creators. This may suggest that the technology powering tortodrones is similar to one of devilites a 2 scenarios:
 
 - Devilites would adapt tortodrones to utilize not dark matter, but as later seen, crimsonite;
 - A different civilization has a potential to work with devilites, as gremlins did, to create tortodrones, while utilizing prior's knowledge of _minerals as a power source_.
@@ -962,13 +962,13 @@ Both across the myths -- as titans and giants, -- and as dragons of this cosmogo
 
 This, as stated earlier, requires us to look for other potential candidates at a role of titans across the timeline to fulfill similar role.
 
-We will make our _current working assumtion_, based on the above motif of stone, serenity, and in less explored manner, rage, that __titans are a colloqual term for tortomega civilization__, identified by rage.
+We will make our _current working assumtion_, based on the above motif of stone, serenity, and in less explored manner rage that __titans are a colloqual term for tortomega civilization__ identified by rage.
 
 #### Veiled Tortodrone Homeland
 
 Tortomega, as creators of tortodrones, would establish a `distant homeland`, a region which had their chacateristic architecture found only in the [Ancient Grove](https://wiki.spiralknights.com/Ancient_Grove) -- `Contains various unique items fashioned in the ancient, veiled homeland of the tortodrone` ([Ancient Prize Box](https://wiki.spiralknights.com/Ancient_Prize_Box), -- where their ruins are, reminiscent of the style of carvings on tortodrones and [related gear, transmuted from the ancient shells](https://wiki.spiralknights.com/Ancient_Shell#Usage).
 
-We propose, that Ancient Grove is part of the Gloaming Wildwoods, and all of the woods were inhabited by tortomega, as terrestial reptilian species.
+We propose that Ancient Grove is part of the Gloaming Wildwoods and all of the woods were inhabited by tortomega, as terrestial reptilian species.
 
 The connection between Wildwoods and Ancient Grove is found in the similarity of the ruins, _same strata of architecture_, evident by stone gun puppy statues, and _a unique glowing mushrooms present across the biomes_. The same statues and mushrooms are present in the [Starlight Cradle](https://wiki.spiralknights.com/Starlight_Cradle). Then, only statues remain in the [Aurora Isles](https://wiki.spiralknights.com/Aurora_Isles) and [Wolver Dens](https://wiki.spiralknights.com/Wolver_Den), suggesting that prior to those locations being divided and placed into skydomes, _those regions were in close proximity to each other within a territory inhabited by tortomega_, close enough for the biosphere to spread and allow buildings of the same architectural style to be constructed.
 
@@ -1149,7 +1149,7 @@ Yet, in the context of architecture, we are interested in the connection of Almi
 
 At the Grasping Plateau, within one of its layouts, a __burning sarcophagus__ can be found, reminiscent of [opened burning coffin of Torin](https://wiki.spiralknights.com/File:Scenario_Room-Graveyard_variant.jpg) found across the graveyards of Clockworks. Notably, this tomb is distincly simiar to its [non-burning counterpart of tier 2 of Clockworks](https://wiki.spiralknights.com/File:Scenario_Room-Graveyard_1.png). Weather is is the same coffin gaining development as rank missions start to involve kingdom of Almire, we do not know.
 
-We propose, that __graveyards belong to the kingdom of Almire__. While we do leave a possibility of graveyards to be built by a different civilization, the presence of Almirian army's resting places -- as coffins, as remanants and burials -- across those grounds we interpret as most significant symbolic connection allowing for further exploration of the kingdom's narrative in the future.
+We propose that __graveyards belong to the kingdom of Almire__. While we do leave a possibility of graveyards to be built by a different civilization, the presence of Almirian army's resting places -- as coffins, as remanants and burials -- across those grounds we interpret as most significant symbolic connection allowing for further exploration of the kingdom's narrative in the future.
 
 ##### Crypts and Undeath
 
@@ -1214,7 +1214,7 @@ Yet, both are related to dragons, and more so, as we have noted earlier, Owlites
 
 Tortomega had skills to construct defenses, traps, and specific type of gun puppies made of stone. As all of those constructs are present within most of castles, notably [Scarlet Fortress](https://wiki.spiralknights.com/Scarlet_Fortress), we have to at some point identify the creators of this technology -- the gun puppies -- after therewere being designed after image of a dragon.
 
-It may be argued that flying Scarlet Fortress has no connection to Tortomega, but the common and shared architecture itself suggest, that somebody had to create it consistently over the construction of those castles, which, given its scale may be the rider gods themselves.
+It may be argued that flying Scarlet Fortress has no connection to Tortomega, but the common and shared architecture itself suggest that somebody had to create it consistently over the construction of those castles, which, given its scale, may be the rider gods themselves.
 
 Another interpretation is found in the modern depiction of titans through specific visual cue -- the `Titan` _gates depict a creature with a single eye_, similar to a different, far more important creature found in the Underworld, harolding the widespread presence of a symbol of a single eye.
 
@@ -1230,7 +1230,7 @@ Draconic imagery is widespread across Owlite architecture. It is similar to _Dra
 
 In relation to dragons and further draconic designs, [Cryptic Statuary](https://wiki.spiralknights.com/The_Silent_Legion/Cryptic_Statuary) and [Royal Jelly Palace](https://wiki.spiralknights.com/Royal_Jelly_Palace) have the least of many draconic features, as well as being separated from the main mass of castles, freely floating across Clockworks, uncontained within the own skydomes.
 
-A handgun, [Raptor](https://wiki.spiralknights.com/Raptor): `An ancient pistol imbued with enchantments designed to smite the fiendish creatures of the Underworld`, and [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin) both have draconic designs, but here they are referred as _raptors and griffins_. Both handguns have piercing damage, suggesting, that _their targets are fiends or beasts_, meaning that either Underworld must have been uncovered at that point, or dragons, under Spiral Order classification system, may have been beasts. But, due to the descriptions, this interpretation does not fit here explicitly, despite [chromalisks](https://wiki.spiralknights.com/Chromalisk), a descendants of drakes, are beasts.
+A handgun, [Raptor](https://wiki.spiralknights.com/Raptor): `An ancient pistol imbued with enchantments designed to smite the fiendish creatures of the Underworld`, and [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin) both have draconic designs, but here they are referred as _raptors and griffins_. Both handguns have piercing damage, suggesting _their targets are fiends or beasts_ meaning that either Underworld must have been uncovered at that point, or dragons, under Spiral Order classification system, may have been beasts. But, due to the descriptions, this interpretation does not fit here explicitly, despite [chromalisks](https://wiki.spiralknights.com/Chromalisk), a descendants of drakes, are beasts.
 
 If we to take those norse mythology inspirations, and apply them to tortomega, it may be that they are a stand-in for Jotun -- a race of giants, opposing rest of families of gods -- Aesir and Vanir of norse myths relating to Valkyries. Jotun inhabiting woods, shores and mountains, seems to parallel to tortoise and tortomega inhabiting wildwoods and possibly mountains, as well as what preceded Aurora Isles.
 
@@ -1263,7 +1263,7 @@ Fiendish design of busts found within castles' halls of Scarlet Fortress, Owlite
 
     And yet, the Kats were never seen in their pre-cursed state, with equipment such as [Kat Hiss Mask](https://wiki.spiralknights.com/Kat_Hiss_Mask) being the closest to depict natural physiology of Kats, with the other candidate for their appearance being [the different coats of Seraphynx' fur](https://wiki.spiralknights.com/Seraphynx#Reskins), which we will discuss [in the corresponding chapter](#seraphynx-and-divine-kats).
 
-    Could it be, that Kats before the Kataclysm had possessed divine aspect similar to Valkyries?
+    Could it be that Kats before the Kataclysm had possessed divine aspect similar to Valkyries?
 
 But, as seemingly no devilites were encountered at that point in time -- when the castles were built, -- this architectural development could come later.
 
@@ -1289,7 +1289,7 @@ Yet, there are a few issues with this explanation, not contradictive but expansi
 
   While for titans, which will later [cooperate with devilites](#arrival-of-undercorp), it would seem more fitting, as valkyries are not connected with shadow damage and Underworld until much further in the timeline we propose. And, as no Underworld was yet discovered, and valkyries do oppose it (`helmet whose name denizens of the Underworld dare not mention` - [Valkyrie Helm](https://wiki.spiralknights.com/Valkyrie_Helm)), this seems as an inexplicable design choice.
 
-  We consider this scenario as all of those locations lasted the most, as they are populated by Spookats -- evidence of Kat Tribe's presence, -- invading those location, meaning, that Owlites were originally there, as we will discuss the relation between Kat Tribe and Owlites.
+  We consider this scenario as all of those locations lasted the most, as they are populated by Spookats -- evidence of Kat Tribe's presence, -- invading those locations, meaning that Owlites were originally there, as we will discuss the relation between Kat Tribe and Owlites.
 
   And at that, far later point of the timeline, heavenly kingdom would've encountered devilites. Carving them within their halls may be a symbolic gesture of a [yet-to-happen Valkyrian onslaught into the Underworld](#war-of-heavenly-kingdom-and-underworld). But, this speculation does not yet have any solid arguments to be justifiable.
 
@@ -1412,7 +1412,7 @@ Through those items Isorans are framed as formidably ancient, capable of long-di
 
 A certain presentation of Spiral Order is offered when this period of time before Cradle is discussed. There is appliaction of a term `eons` as a time measurement relative to Skylark crash-landing on Cradle: `This suit was once worn by Isoran starfarers of eons long passed that stood watch over extrasolar operations` ([Stellar Sentinel Suit](https://wiki.spiralknights.com/Stellar_Sentinel_Suit)). Spiral Order is not referred explicitly by its name:
 
-- `Whether its crest is a relic from the Order of old or a creation from the Knights' time on Cradle is not immediately clear` ([Aegis](https://wiki.spiralknights.com/Aegis)) -- Aegis's description can be interpretad in multiple ways. `Order of old`, given context of Spiral Order, is the most distint presentation of that order, one, that could potentially be a predecessor of modern Spiral Order.
+- `Whether its crest is a relic from the Order of old or a creation from the Knights' time on Cradle is not immediately clear` ([Aegis](https://wiki.spiralknights.com/Aegis)) -- Aegis's description can be interpretad in multiple ways. `Order of old`, given context of Spiral Order, is the most distint presentation of that order, one that could potentially be a predecessor of modern Spiral Order.
 - `A special saber used to resemble Isoran spacefarers of old as they sliced across the night sky` ([Celestial Saber](https://wiki.spiralknights.com/Celestial_Saber)) -- the term `Isoran spacefarers of old` does not identify an order as in the previous item, yet application of this term within context of a weapon suggests a presence of organization. Existence of a saber implies a potential inspiration behind Isoran past military tradition.
 
 The theming of [Equinox prize box](https://wiki.spiralknights.com/Spring_Equinox_Box_2016) _lacks any danger or implication of conflict_, contrasting a recent and _potentally frantic_ search for energy source due an ongoing Morai conflict. This non-hostile terminology, coupled with the present dream-like theme emits a sence of _unburdened by external factors potential_, which is a powerful tool used here to create a sence of distance only bridged by a momentary recognition: `The Strangers pause at the equinox to recognize the brief moment of cosmic balance on Cradle. For just a breath of time, there is harmony between night and day, the sun and moon, and symmetry in the celestial sphere` ([Balance of the Equinox!](https://forums.spiralknights.com/en/node/98178)). The prize box and its items are charactarized by a remoteness of that state of freedom, interwoven with a sence of _longing for that period of time_:
@@ -1434,7 +1434,7 @@ Further establishment of a precise time period when Isorans became a spacefaring
 
 The [Azure Guardian Helm](https://wiki.spiralknights.com/Azure_Guardian_Helm) description, apart from the shared guardian motif, states: `the technique which weaves dragon scale seamlessly into the metal is a closely guarded secret`. Awareness of dragons has its own implications.
 
-Scales suggest physical presence of dragons, meaning, that Isorans had encountered dragons at some point, weather it was within confinements of Isora or during their `extrasolar` expeditions.
+Scales suggest physical presence of dragons, meaning that Isorans had encountered dragons at some point, whether it was within confinements of Isora or during their `extrasolar` expeditions.
 
 _Cradle is not framed as a planet possessing a lasting relation with Isorans_, apart from ever-present imagery of a spiral, due to lack of recognition of its civilizations or cultures, which otherwise might have been related to Isora or noted upon by them. Of cource, there is Almire, which was not acknowledged from the very beginning of their narrative. And contrasting to Almire, gremlins possess a distinct introduction: `The Clockworks seems to have been built by 'gremlins,' a furry race of malevolent monsters that have not taken kindly to our presence` ([First Contact - Kora](https://wiki.spiralknights.com/First_Contact)).
 
@@ -1444,7 +1444,7 @@ In that regard [Azure Guardian Armor](https://wiki.spiralknights.com/Azure_Guard
 
 This correlation between rarity of the materials and gear they are used in within the context of a military organization, Spiral Order must be analyzed through a lens of inspirations used to create current theme of Spiral Order, that is, _military traditions and culture_.
 
-At the [Sunset Steppes](https://wiki.spiralknights.com/A_Revelation_in_Flames/Sunset_Steppes) Rhedon mentions that [drakon battle sprites](#dragons) look similar to dragons: `They seem friendly. In fact they seem to behave just like the battle sprites I know. Only difference is they, uh, well, look like dragons`. This implies, that members of Spiral Order did know, prior to crash landing on Cradle, _how dragons had looked in their appearance to be recognizable_. Weather those dragons were extinct on Isora, or their presence was rare, the impression formed by homeworld culture has persisted into modern day Spiral Order as draconic imagery or a motif:
+At the [Sunset Steppes](https://wiki.spiralknights.com/A_Revelation_in_Flames/Sunset_Steppes) Rhedon mentions that [drakon battle sprites](#dragons) look similar to dragons: `They seem friendly. In fact they seem to behave just like the battle sprites I know. Only difference is they, uh, well, look like dragons`. This implies that members of Spiral Order did know prior to crash landing on Cradle _how dragons had looked in their appearance to be recognizable_. Weather those dragons were extinct on Isora, or their presence was rare, the impression formed by homeworld culture has persisted into modern day Spiral Order as draconic imagery or a motif:
 
 - `Armor once worn by a member of the 'Iron Dragons,' a squad of fearless knights that specialized in the elimination of high-profile Morai targets. After disbanding, their surviving members were united with other squads by Desna to form the Recon Rangers` -- the [Gold and Iron Dragons](https://wiki.spiralknights.com/Dragon_Armor) are military units. It suggesting a symbolic weight to a dragon as a creature.
 
@@ -1462,7 +1462,7 @@ At the [Sunset Steppes](https://wiki.spiralknights.com/A_Revelation_in_Flames/Su
 
   Dragon images remain reflected within Isoran culture, -- not their architecture, but armor, as Spiral Order is the primary lens through which Isoran civilization is presented.
 
-This framing of dragons as creatures from legends of myths coexists with the narrative of dragons being extinct while their modern appearances through of dragon-like species are acknowledged with high precision, to the point of _their depicted apperances remaining identical to ones of tortomega drakes and Valkyries_. We propose, that __Isoran civilization is old enough to witness dragons first-hand__. Whether Isorans are responsble for dragons' extinction is unknown.
+This framing of dragons as creatures from legends of myths coexists with the narrative of dragons being extinct while their modern appearances through of dragon-like species are acknowledged with high precision, to the point of _their depicted apperances remaining identical to ones of tortomega drakes and Valkyries_. We propose that __Isoran civilization is old enough to witness dragons first-hand__. Whether Isorans are responsble for dragons' extinction is unknown.
 
 #### Juxtoposition of Two Genres of Speculative Fiction
 
@@ -1490,11 +1490,11 @@ Dragon scales are found across Clockworks' beast-themed depths, suggesting drago
 
 Yet no dragons were encountered on Cradle physically. This allows us to derive from the fact dragons thought to be an extinct ([dragon scales](https://wiki.spiralknights.com/Dragon_Scale)) two interpretations:
 
-1. Spiral Order believes with no subversion of the narrative, that dragons _are extinct_, that the fact dragon scales are found in Clockworks means that they did inhabit Cradle up until the time before Skylark had crashed -- that there is a population of dragons yet to be found.
+1. Spiral Order believes with no subversion of the narrative that dragons _are extinct_: the fact dragon scales are found in Clockworks means that they did inhabit Cradle up until the time before Skylark had crashed -- that there is a population of dragons yet to be found.
 
-   It is important to note, that the method dragon scales are found -- as an item drop from enemies found in their according stratums and region -- implies dragon shedding the scales or perishing. Among those thow interpretaion a less complex scenraio -- of dragon perishing would be prefferable.
+   It is important to note that the method dragon scales are found -- as an item drop from enemies found in their according stratums and region -- implies dragon shedding the scales or perishing. Among those thow interpretaion a less complex scenraio -- of dragon perishing would be prefferable.
 
-   Presence of those materials would mean, that dragon scales are consumed, are in possession, or collected and being spread across Cradle by its wildlife. Dragon scales may be that widespread, if a particular event would be at a cause, such a mass extinction, returning to the idea ofdragons being hunted.
+   Presence of those materials would mean that dragon scales are consumed and they are in possession or collected and being spread across Cradle by its wildlife. Dragon scales may be that widespread, if a particular event would be at a cause, such a mass extinction, returning to the idea ofdragons being hunted.
 
    We must be kept in sight as a 5-star material, a rare material, found at lower Clockworks' depths from beasts specifically, or potentially alchemized from [Primal Sparks](https://wiki.spiralknights.com/Primal_Spark#Treasure_Box_Tokens): `A small wisp of the essential spirit of nature. It is of extreme value to the Spiral Order`, suggests a strong connection with nature or a natural order.
 
@@ -1541,7 +1541,7 @@ Considering that Azure armor is granted to most valuable members of the Spiral O
 
 To go with this concept of utility-first alchemy further, this approach allows for manufacture of highly advanced gear in an area which is not well covered or adapted by Isorans, that being Cradle.
 
-Due to this, due to the knowledge of energy, of alchemy, of a preexisting hierarchy within Spiral Order, those factors seems to suggest, that most of the equipment themes, -- not the equipment itself, apart from carriers of the core themes, such as Azure Guardian Armor, -- are native to Isora, and only though alchemy those are adapted by application of materials, found on an alien planet.
+Due to this, due to the knowledge of energy, of alchemy, of a preexisting hierarchy within Spiral Order, those factors seems to suggest that most of the equipment themes -- not the equipment itself, apart from carriers of the core themes, such as Azure Guardian Armor, -- are native to Isora, and only through alchemy those are adapted by application of materials, found on an alien planet.
 
 Due to convenience of alchemy within this explanation would justify mainly symbolic relation of materials and resulting equipment -- as alchemy, by its real world-inspired origins and as _an emerging principle from metaphysical laws_, -- would allow for such interpretation to be valid from the perspective of the source material.
 
@@ -1581,9 +1581,9 @@ Yet, we can not explain the design choice itself, as the tree roots and white wi
 
 ###### Symbol of Salt
 
-As it was stated that `Spiral Order has relied on alchemy as their primary means of creating the very arsenals that Knights have relied upon for centuries` ([Alchemy for Beginners](https://wiki.spiralknights.com/Alchemy_for_Beginners)), we previously proposed, that the convention of energy was as old as practice of alchemy, so, we can link alchemy of Spiral Order, accompanied by the concept of energy to real-world alchemy.
+As it was stated that `Spiral Order has relied on alchemy as their primary means of creating the very arsenals that Knights have relied upon for centuries` ([Alchemy for Beginners](https://wiki.spiralknights.com/Alchemy_for_Beginners)), we previously proposed that the convention of energy was as old as practice of alchemy, so, we can link alchemy of Spiral Order, accompanied by the concept of energy to real-world alchemy.
 
-We propose, that the candidate and inspiration to energy symbol may be a concept of salt in alchemy up to its symbol "🜔" and extended usage. The inverted energy symbol is similar to another symbol - saltpetre "🜕", a key component to gunpowder, which seem to be fitting to overall medieval-like inspiration of Spiral Order designs, and to be one used to depict powered-down turrets. Apart from it, it can represent a lack of energy, symbolized by a darker red color, relating to the same color of energy counter once it reaches `0` -- as initially mentioned during [introduction of energy](#energy).
+We propose that the candidate and inspiration to energy symbol may be a concept of salt in alchemy up to its symbol "🜔" and extended usage. The inverted energy symbol is similar to another symbol - saltpetre "🜕", a key component to gunpowder, which seem to be fitting to overall medieval-like inspiration of Spiral Order designs, and to be one used to depict powered-down turrets. Apart from it, it can represent a lack of energy, symbolized by a darker red color, relating to the same color of energy counter once it reaches `0` -- as initially mentioned during [introduction of energy](#energy).
 
 ##### Isoran Plated Designs
 
@@ -1603,7 +1603,7 @@ In the announcement of [Wizard Prize Box](https://forums.spiralknights.com/en/no
 
 If we take observe the existing research of Spiral Order into Owlites, we can find such instances as the [Eternal Study](https://wiki.spiralknights.com/Edger), which further affirms this relation between magic and knights.
 
-From this, we can conclude, that the vial, and, potentially, other usable items are the result of other knight perishing in Clockworks.
+From this, we can conclude that the vial, and, potentially, other usable items are the result of other knight perishing in Clockworks.
 
 Following equipment further links Owlites to theme of magic:
 
@@ -1665,7 +1665,7 @@ As Black Kats are found in the library-like rooms, it is highly likely that thos
 
 While cursed tome is affected by the curse, having similar manifestations of curse seen across many instances, and ancient tome remains the same, the [mystical tome](https://wiki.spiralknights.com/Mystical_Tome_Stand#Mystical_Tome_Stand) is one of more interest to us: `a magical tome filled with arcane symbols, esoteric formulae, and a few particularly rude doodles`.
 
-As this tome is one associated with the Moorcroft Archives, we suggest, that it is a representation of a power, existing as the basis for auras. The nature-like motif of this implied aura will be deeper analyzed with the acquired context of [Nature Sprites](https://wiki.spiralknights.com/Nature_Sprite) mainly due to similarity of those magic arts. Nature Sprites are connected to Almire, so the kingdom will be also covered later in its own [chapter](#chapter-vii-kingdom-of-almire). This idea will be further developed in the context of [Owlite research]().
+As this tome is one associated with the Moorcroft Archives, we suggest that it is a representation of a power existing as the basis for auras. The nature-like motif of this implied aura will be deeper analyzed with the acquired context of [Nature Sprites](https://wiki.spiralknights.com/Nature_Sprite) mainly due to similarity of those magic arts. Nature Sprites are connected to Almire, so the kingdom will be also covered later in its own [chapter](#chapter-vii-kingdom-of-almire). This idea will be further developed in the context of [Owlite research]().
 
 This distinction can also be searched for across real world inspirations.
 
@@ -1673,7 +1673,7 @@ In various cultures and spiritual traditions, the concepts of the soul and aura 
 
 In Buddhism, the term `atman` as the `subtle body` of an individual -- the soul, -- it is eternal and transcends physical existence.
 
-And yet, it is subtle, its presence is felt indirectly as omnipresent energy frols around it -- `life force`, -- `prana`. This _identified concept of a circulating life force, which is also ever-present as the aura_, that surrounds the body and represents its inner state. While the atman is considered the true, subtle self, the prana is seen as a manifestation of one's state of being, its presence, universally connected.
+And yet, it is subtle, its presence is felt indirectly as omnipresent energy frols around it -- `life force`, -- `prana`. This _identified concept of a circulating life force, which is also ever-present as the aura_ that surrounds the body and represents its inner state. While the atman is considered the true, subtle self, the prana is seen as a manifestation of one's state of being, its presence, universally connected.
 
 It can be linked to the `radiating power` of the tomes, described by [Pembrooke](https://wiki.spiralknights.com/Pembrooke#Dialogue): `They were likely attracted to the power radiating from the ancient grimoires here in the Archives`. And it is also here, Lost Souls, even when their elemental alignment is acknowledged, are present as series of abstract shapes, to some degree [reminiscent of Whitespace itself](#symbolism-of-whdow-lairs). Some souls retain their individuality, as there are even ones to haunt skulls.
 
@@ -1697,7 +1697,7 @@ At the same time, Valkyries possess many aspects very reminiscent of Spiral Orde
 
 Isorans are aware of concept of graveyards and do utilize it in their own culture, as seen in [Blades of the Fallen](https://wiki.spiralknights.com/Blades_of_the_Fallen), this being evident by the ceremonial tradition of Reverse Arms. Despite this, Spiral Order and Isorans seem to be not aware in depth of Underworld and other damage calssifications, -- implications and applications of elemental and shadow damage types.
 
-As discussed in [crypts section](#crypts), presence of zombies as well as an entire roster of the forces compising legions of Almire suggest, that they have a corporeal body made of bones.
+As discussed in [crypts section](#crypts), presence of zombies as well as an entire roster of the forces compising legions of Almire suggest that they have a corporeal body made of bones.
 
 ###### Almire and Isoran Souls
 
@@ -1720,7 +1720,7 @@ There are [Fire Souls](https://wiki.spiralknights.com/Soul#Fire_Soul) after Fire
 
 Lastly, there is existence of [abstracted, regular Lost Souls, which still possess a consciousness](https://wiki.spiralknights.com/Lost_Soul_(SotA-Haven)), such as during the events of [Shroud of Apocrea](https://wiki.spiralknights.com/Shroud_of_the_Apocrea), while persisting in the material realm, albeit surrounded by [resurfacing Apocrean Realm as slabs of obsidian in Haven](https://wiki.spiralknights.com/File:Haven-Event-SotA-TownSquare.png).
 
-We suggest, that the souls are the sentient souls in common understanding -- a one's sentient and eternal being, while the omnipresent energy, -- the aura, accompanies it, granting a degree of physicality, presence, which was distincly lacking for corporeal images of Almirian crusaders, and persistency in the material realm, be it a spiritual form, as of Almirians, or allowing of presence outside of a physical object. The other case is one being bound to an object, [haunting it]().
+We suggest that the souls are the sentient souls in common understanding -- a one's sentient and eternal being, while the omnipresent energy, -- the aura, accompanies it, granting a degree of physicality, presence, which was distincly lacking for corporeal images of Almirian crusaders, and persistency in the material realm, be it a spiritual form, as of Almirians, or allowing of presence outside of a physical object. The other case is one being bound to an object, [haunting it]().
 
 To conclude, we propose an _alternative explanation_ and a current working theory, which satisfied for now Owlite and Almiritan phenomena: __aura is a container for a soul__ -- __a corporeal body__, indistinguishable, but essential element in order to exist in the material realm. But, the closer is the soul is located in proximity to other realms, the necessity in aura as a corporeal body vanishes. _Aura anchors a souls in-place and present monent_.
 
@@ -1736,9 +1736,9 @@ Over an unidentified period of time Isorans were exploring the space of material
 - `A special saber used to resemble Isoran spacefarers of old as they sliced across the night sky` ([Celestial Saber](https://wiki.spiralknights.com/Celestial_Saber)).
 - `This suit was once worn by Isoran starfarers of eons long passed that stood watch over extrasolar operations` ([Stellar Sentinel Suit](https://wiki.spiralknights.com/Stellar_Sentinel_Suit)).
 
-We assume, that items of the [Equinox Prize Box](https://wiki.spiralknights.com/Equinox_Prize_Box) _describe an era prior to establishment of modern Spiral Order_. While it is not called as such, but rather as Isorans as a whole, in reference to a planet, with an advanced enough technology for interstellar travel, we will establish a colloqual term as an `Order of old` (`Whether its crest is a relic from the Order of old or a creation from the Knights' time on Cradle is not immediately clear` - [Aegis](https://wiki.spiralknights.com/Aegis)).
+We assume that items of the [Equinox Prize Box](https://wiki.spiralknights.com/Equinox_Prize_Box) _describe an era prior to establishment of modern Spiral Order_. While it is not called as such, but rather as Isorans as a whole, in reference to a planet, with an advanced enough technology for interstellar travel, we will establish a colloqual term as an `Order of old` (`Whether its crest is a relic from the Order of old or a creation from the Knights' time on Cradle is not immediately clear` - [Aegis](https://wiki.spiralknights.com/Aegis)).
 
-Those items reveal more technological side of Spiral Order at that point in time. Specifically, a capacity to plunge into stars: `With this equipped, you feel like you could dive into the heart of a star` ([Stellar Sentinel Suit](https://wiki.spiralknights.com/Stellar_Sentinel_Suit)). While a probable exaggeration, we perceive those descriptions at face value, that being literal descriptions of Isoran technological achievements.
+Those items reveal more technological side of Spiral Order at that point in time. Specifically, a capacity to plunge into stars: `With this equipped, you feel like you could dive into the heart of a star` ([Stellar Sentinel Suit](https://wiki.spiralknights.com/Stellar_Sentinel_Suit)). While a probable exaggeration, we perceive those descriptions at face value that being literal descriptions of Isoran technological achievements.
 
 There must be a distinction or a point when Spiral Order was established. The overall roster of those items links Isorans' past to Cradle based solely on the presence of Equinox prize box and shared energy symbol, although the designs of equinox or celestial items are distinctly unique, the are common elements shared across the rest of Spiral Order equipment.
 
@@ -1819,11 +1819,11 @@ As we have pointed out a cultural and inherently symbolic importance of a spiral
 
 We note that we view imagery of a spiral not as artistic choice, but constant imagery found in reality of that fictional world.
 
-Currently, it is known, that the Knights have incorporated concept of spiral at some point through naming conventions and imagery. This spiral imagery is also widespread on Cradle. That is:
+Currently, it is known that the Knights have incorporated concept of spiral at some point through naming conventions and imagery. This spiral imagery is also widespread on Cradle. That is:
 
 - Cradle's seemingly fractured Moon has a carved image of a spiral on its near surface facing Cradle.
 
-  As the spiral is always visible from any location, during the day when Skylark crash-landed and on replica moons within Clockwork skydomes, it can be concluded with certainty, that the moon is tidally locked, either through an artificial process or celestial body mechanics.
+  As the spiral is always visible from any location, during the day when Skylark crash-landed and on replica moons within Clockwork skydomes, it can be concluded with certainty that the moon is tidally locked, either through an artificial process or celestial body mechanics.
 
   This is a question of wheather the moon is artificial, wherein either of the scenarios has its respective set of implications. In that same regard the nature of the spiral on moon's surface is one of ambigious origin. In latter case of natural emergence of a spiral would characterize it, given this universe's laws, as a _physical law recognized through an omnipresent pattern or imagery_.
 
@@ -1896,11 +1896,11 @@ If Morai are fiends, then this would certainly lead to Spiral Order's discovery 
 
 Lastly, less complex scenatio asserts that Morai are an Isoran colony.
 
-As Isorans are a spacefaring civilization, as most directly proven by existence of Skylark, Morai are distinguished not by their species but world -- _as Isorans are identified as people of Isora, so do Morai_. As it was stated by celestial sets, that explicitly Isorans were spacefaring, it makes it seem as Isora was the homeworld for this civilization.
+As Isorans are a spacefaring civilization, as most directly proven by existence of Skylark, Morai are distinguished not by their species but world -- _as Isorans are identified as people of Isora, so do Morai_. As it was stated by celestial sets that explicitly Isorans were spacefaring it makes it seem as Isora was the homeworld for this civilization.
 
 Here, as [Riftlocker](https://wiki.spiralknights.com/Riftlocker) states that `firearms proved instrumental during the siege of Isora in breaking through the war machines of the Morai`, we suggest that the distance between Isora and a supposed homeworld of Morai is close enough for Morai `war machines` to be effective.
 
-Due to those factors, we suggest, that if we ever to place Morai into this entity classification table, they would possess similar properties to gremlins -- bearing their insignia, as gremlins are identified in the classification system by their insignia, and being distinct in their damage types and resistances, compared to other enemy types, as, potentially, weak to piercing damage and afflicting piercing damage.
+Due to those factors we suggest that if we ever to place Morai into this entity classification table they would possess similar properties to gremlins -- bearing their insignia, as gremlins are identified in the classification system by their insignia, and being distinct in their damage types and resistances, compared to other enemy types, as, potentially, weak to piercing damage and afflicting piercing damage.
 
 #### Isora and Cradle
 
@@ -1997,7 +1997,7 @@ With this notion we should point out a possibility of _Rider gods to be potentia
 
 Yet, Isorans lack the thematic connection with those gods, as they are _not depicted to possess element of magic_, but rather an explicit _lack of knowledge on it_. There is a window of possibility to connect lightning of frenzy, rage and storm gear to Isorans, but, when compared in exact detail, only Energy attains visible resemblence to the theme of lightning. More so, energy on its own when separated from Isorans carries this theme of power and lightning, such as the storm-like surface of the Core at depth 29 of Clockworks -- _a location, unrelated to Isorans_.
 
-In that regard we could reestablish an idea, that Isorans have adapted Valkyrian gear due to their shared imagery of a spiral, and yet, there are motifs of wings and an identity of Valkyries as guardians:
+In that regard we could reestablish an idea that Isorans have adapted Valkyrian gear due to their shared imagery of a spiral, and yet, there are motifs of wings and an identity of Valkyries as guardians:
 
 - **Motif of Wings**: Wings within Isoran culture are present even in their modern depiction, [Plasma Wings](https://wiki.spiralknights.com/Plasma_Wings), in their Solar and Cosmic variants within [Equinox Prize Box](https://wiki.spiralknights.com/Equinox_Prize_Box), as well as presence of wings on Almirian restored designs.
 - **Guardian motif**: Isoran narrative of protection of Cradle in the end of rank missions campaign shapes Spiral Order as the next civilization to protect Cradle. Herein also the deific motif makes itself present through Sleeper as a _deity-like figure within the narrative_ of the campaign.
@@ -2035,7 +2035,7 @@ One important aspect between similarity of Valkyries and Israns had to be adress
 
 This would mean that [Sun Silver](https://wiki.spiralknights.com/Sun_silver) - `An extraordinary metal imbued with the radiant light of the sky`, is ever-present as Shadow Steel.
 
-Here we also propose, that the [Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore), through its relation to heavens, we suggest it preceding Sun Silver, _as an unrefined ore becoming metal_.
+Here we also propose that the [Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore) through its relation to heavens, we suggest it preceding Sun Silver, _as an unrefined ore becoming metal_.
 
 Moreover as heavens are referred to as a seemingly different realm, although given the mythological motifs, it can be related to a physical or metaphysical location of an unknown third realm: `An extremely rare metal of great power said to be from the heavens above` ([Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore)). The _celestial naming convention was repeated twice_ -- in relation to Isorans from the past, and Valkyries.
 
@@ -2111,7 +2111,7 @@ Now we can explore possible explanations for this ship's presence on Cradle.
 
 ##### Haunted Vessel before Skylark
 
-A hypothetiocal narrative: from both warring sides starships are sent to search an energy source to assist at war. From Isora Skylark was sent, from Morai a candidate can be presented in a form of ship which became the [Iron Hulk](https://wiki.spiralknights.com/Iron_Hulk). this latter vessel would be launched far earlier, depending on Skylark physics. As we have concluded that [Skylark](#skylark) can travel large distances utilizing a technology, allowing for creating tunnels, we can suggest, that this vessel was launched far earlier in the past.
+A hypothetiocal narrative: from both warring sides starships are sent to search an energy source to assist at war. From Isora Skylark was sent, from Morai a candidate can be presented in a form of ship which became the [Iron Hulk](https://wiki.spiralknights.com/Iron_Hulk). this latter vessel would be launched far earlier, depending on Skylark physics. As we have concluded that [Skylark](#skylark) can travel large distances utilizing a technology, allowing for creating tunnels, we can suggest that this vessel was launched far earlier in the past.
 
 Or, if we lean into more grounded interpretation of such type of interstallar travel, it would be Skylark, for which time has passed _relatively faster_, while the rest of the Universe had moved with its own pace, accumulating for hundereds of years on Cradle. As the concept behind Skylark logic is not presented as central to the narrarive, we are leaning to an interpretation, where interstellar travel is instantaneous for any observer, removing time dilation from the narrative alltogether.
 
@@ -2155,9 +2155,9 @@ The entrapment part may be implied by the presence of gremlin constructs. And to
 
 This would also suggest that an unidentified event had caused this notion of haunting. From many phenomenon related to undeath, energy of the Core may be seen as life-animating, could serve as a source which had caused the spirits to haunt the machines under currently unknown condition, potentially, through access to Underworld -- a phenomenon similar in concept to one observed during [Shadowplay](https://wiki.spiralknights.com/Shadowplay): `Though the nature sprites have been steadily making progress in fighting the flames, something or someone has recently caused a violent resurgence in its destructive power. Spiral HQ requests that you gather together a crack squad of knights and return to the collapsing ruins of Firestorm Citadel in order to discover the source of the disturbance`, -- wherein activity of **the Core, its energy, was the source of curse's reanimation** _without Lord Vanaduke_ to serve as an `eternal will` for the citadel: `You can feel it in the smoldering air - an eternal will holding this place together, never allowing its inhabitants to rest. No creature deserves such a fate, it is beyond my understanding` ([Recon Module: Firestorm Citadel - Grantz](https://wiki.spiralknights.com/Artifact)).
 
-With this we propose, that both a recount of spirits to material realm and animation of perished entities are the result of Core's energy-related effect. We can interpret the act of returning to metrial realm as soul's intent to live on, while the Core had offered a possibility of such transition, or, the souls is forbidden to move on. As Lord Vanaduke's initial analysis suggested that his will does not allow souls to move on, we have to consider such scenario at a planetary scale.
+With this we propose that both a recount of spirits to material realm and animation of perished entities are the result of Core's energy-related effect. We can interpret the act of returning to metrial realm as soul's intent to live on, while the Core had offered a possibility of such transition, or, the souls is forbidden to move on. As Lord Vanaduke's initial analysis suggested that his will does not allow souls to move on, we have to consider such scenario at a planetary scale.
 
-While we do not possess an accurate explanation, the fact of Core's activity influenceing the curse at Firestorm Citadel, as fall of kingdom of Almire _may have happened_ prior to creation of the Core, leads us to carefully propose, that _nature of undeath is universal_, while __energy of the Core amplifies__ those metaphysical processes by __thinnening the boundary between states of death and undeath__, and as a result, allowing not only souls to traverse across the realms with no issue, but entire regions, as the cases of Almirian Graveyards and Owlite Academy being pulled to Underworld through high concentration of souls or curse.
+While we do not possess an accurate explanation, the fact of Core's activity influenceing the curse at Firestorm Citadel, as fall of kingdom of Almire _may have happened_ prior to creation of the Core, leads us to carefully propose that _nature of undeath is universal_ while __energy of the Core amplifies__ those metaphysical processes by __thinnening the boundary between states of death and undeath__, and, as a result, allowing not only souls to traverse across the realms with no issue, but entire regions, as the cases of Almirian Graveyards and Owlite Academy being pulled to Underworld through high concentration of souls or curse.
 
 The case of Firestom Citadel may be seen here as an exception, which may be explained by the same logic of _Lord Vanaduke's will forcibly holding the Citadel in the material realm_, rather than allowing it to fall to Underworld, as was the case of Almirian Necropolis being a graveyard.
 
@@ -2234,7 +2234,7 @@ This circle has same _fiendish sigils_, used across Clockworks in locations _con
 
 Circle of the same color, -- pale white, -- but significantly smaller and lacking fiendish sigils could be found before the Call of The Colossi arena _surrounding an inactive tortodrone part_.
 
-Based on the notion of fiends having in possession working, but modified tortodrones, earlier referred as corrupted, we can suggest, that those circles of different color, -- currently unknown mineral, -- through encircling of non-corrupt tortodrone parts allow us for vague identification of their functional purpose.
+Based on the notion of fiends having in possession working, but modified tortodrones, earlier referred as corrupted, we can suggest that those circles of different color -- currently unknown mineral, -- through encircling of non-corrupt tortodrone parts allow us for vague identification of their functional purpose.
 
 ##### Warding Circles
 
@@ -2269,7 +2269,7 @@ This practice of using different color is observed in other locations:
 
 Due to consistency of dark matter color, we can conclude that dark matter is not used in those instances, as they are not distinctly purple.
 
-Currently we won't consider different physics of the ritual circles depending on their mineral, but, it is important to note, that _there exists an aspect of minerals capable of being charged, which results, as we will soon see, in their color shifting_.
+Currently we won't consider different physics of the ritual circles depending on their mineral, but, it is important to note that _there exists an aspect of minerals capable of being charged, which results, as we will soon see, in their color shifting_.
 
 And most importantly, if those circles operate under the same metaphysical laws, this would unite all currently established minerals, potentially with expception of Whitespace Gold Keys, under a single system.
 
@@ -2302,7 +2302,7 @@ The idea of protection for dark matter circles, if it functionally identical to 
 
 Then, through this logic, the pale circles become affiliated with a different party, as they had used a different mineral for those circles.
 
-We suggest, that while the protection aspect persists, the other, including non-dark matter instances of ritual circles, demonstrate other abilities of the circles, namely, a __capacity to summon__. We will cover this property in detail. Yet, we have to consider a following narrative:
+We suggest that while the protection aspect persists the other, including non-dark matter, instances of ritual circles demonstrate other abilities of the circles, namely -- a __capacity to summon__. We will cover this property in detail. Yet, we have to consider a following narrative:
 
 - As those circles may possess a universal warding quality, they emerge across different time periods or eras, even, -- such as Owlites, Almire, or modern-day devilites, and even areas, affiliated with Apocrean Realm, -- does this mean that _those circles are not drawn by fiends, but civilizations which had drawn them_ __possess a shared knowledge__?
 - And, if devilites are most consistent faction, which uses powers of those pentacles, making the pentacles to be associated with deveilites, does this mean that a __practice itself had to emerge from Underworld culture__?
@@ -2341,7 +2341,7 @@ With the context of devilite sigils being reminiscent of Hebrew alphabet, we can
 
 Then, from Hebrew alphabet, letter "teth" became letter _Theta "Θ"_ of _Greek alphabet_. Malachim alphabet will be relevant in the context of the Underworld designs, discussed in regards to the [Nefarious Imp](#nefarious-imp-arctic-plot).
 
-Letter theta in particular has resemblence of the symbol of energy, which we [linked](#technology-alchemy-and-Isoran-redesigns) with the _alchemical symbol of Salt -- "🜔"_. We can suggest, that the greek alphabet may be significant to the symbolism of energy, and yet, the connection to concepts attributed to the inverted symbol of energy might coincidentally iffirm the alchimical interpretation, rather than Greek mythology.
+Letter theta in particular has resemblence of the symbol of energy, which we [linked](#technology-alchemy-and-Isoran-redesigns) with the _alchemical symbol of Salt -- "🜔"_. We can suggest that the greek alphabet may be significant to the symbolism of energy, and yet, the connection to concepts attributed to the inverted symbol of energy might coincidentally iffirm the alchimical interpretation, rather than Greek mythology.
 
 The reminiscence of letter theta of the symbol of energy might sign existence of several inspirations, not directly being true but coincidental as much as the above logic of the symbol's origin through language was built.
 
@@ -2372,9 +2372,9 @@ During the events of [return of the Legion of Ur](https://wiki.spiralknights.com
 
 Here the alternative approach -- `the Legion of Ur was sealed away in the Underworld and that an alternative approach would be required for bringing them back`, -- devilites had spoken of, is _implied to be used during mission's events_, that of ritual circles.
 
-Then this must mean, that an "original" approach should also exist. Notably, from the same memo it is likely that whatever original approach was, _it does not apply for sealed in Underworld entities_.
+Then this must mean that an "original" approach should also exist. Notably, from the same memo it is likely that whatever original approach was, _it does not apply for sealed in Underworld entities_.
 
-We propose, that the __original approach exists and can be identified -- the technology of grim gates__ found in Ancient Grove and below.
+We propose that the __original approach exists and can be identified -- the technology of grim gates__ found in Ancient Grove and below.
 
 Considering that devilites use the ritual circle method on Cradle, and are considered stranded (`data collected from fiendish cities seems to indicate that they are now stranded on Cradle, much like us` - [Weight of Darkness](https://wiki.spiralknights.com/Weight_of_Darkness)), then there should be a reason why they did not use the gates, as it is the only other technology directly related to devilites.
 
@@ -2420,7 +2420,7 @@ At that, tortomega present an important perspective on Underworld, as Underworld
 
 #### Undercorp's Initial Advancements
 
-The cultural aspect of Underworld's influence onto material realm and tortomega is found in the motif of eyes. Specfifcally for tortodrones, it is found on tortodrone shells -- the shape of the eye is universal across its many instances, which we have erlier called the evil eye for reference. The argument stems from an idea, that tortomega _would not have other methods of attaining the recognizable symbol of an eye by other means, other than contact with the Underworld_.
+The cultural aspect of Underworld's influence onto material realm and tortomega is found in the motif of eyes. Specfifcally for tortodrones, it is found on tortodrone shells -- the shape of the eye is universal across its many instances, which we have erlier called the evil eye for reference. The argument stems from an idea that tortomega _would not have other methods of attaining the recognizable symbol of an eye by other means, other than contact with the Underworld_.
 
 Following this idea, we have to study the nature of [Snarbolax](#snarbolax-and-haunting-through-curse) and [miasma](#miasma) of Gloaming Wildwoods, as both relate in their respective ways to undeath and nature of shadow damage. The miasma exists largely on its own, and will be covered in the [analysis of Shadow Lairs](#analysis-of-shadow-lairs).
 
@@ -2469,12 +2469,12 @@ Glyphs' icons in the inventory also provide more context on their nature. Here w
 In the inventory fiendish glyphs _are depicted as essences_, yet being identified as glyphs -- characters in a writing system. Through this common attribute of a selected inventory icon depicting certain materials, we can establish a motif based on other instances of this inventory icon being used:
 
 - `A powerful essence that left behind when a creature perishes during a blind, fiery rage` ([Flame Soul](https://wiki.spiralknights.com/Flame_Soul)).
-- `A rare elemental found hovering in storm clouds. Their electric hum creates an almost melodic choir that can be faintly heard between thunderclaps` ([Storm Chaser](https://wiki.spiralknights.com/Storm_Chaser)). While it differs thematically from the rest, we must keep in mind, that its original name of the material was `Spark of Life` (`The old ‘Spark of Life’ crafting material has been renamed to 'Storm Chaser'` - [Release Notes: 2013.07.30](https://wiki.spiralknights.com/Release_Notes_2013-07-30)). While this context is relatively important, as it allow to trace a history of changes and out-of-iniverse vision, we will rely on the current naming convention further on.
+- `A rare elemental found hovering in storm clouds. Their electric hum creates an almost melodic choir that can be faintly heard between thunderclaps` ([Storm Chaser](https://wiki.spiralknights.com/Storm_Chaser)). While it differs thematically from the rest, we must keep in mind that its original name of the material was `Spark of Life` (`The old ‘Spark of Life’ crafting material has been renamed to 'Storm Chaser'` - [Release Notes: 2013.07.30](https://wiki.spiralknights.com/Release_Notes_2013-07-30)). While this context is relatively important, as it allow to trace a history of changes and out-of-iniverse vision, we will rely on the current naming convention further on.
 - `A powerful essence left behind when a creature perishes from a particularly putrid disease` ([Plague Essence](https://wiki.spiralknights.com/Plague_Essence)).
 - `A small patch of ice crystals that never seem to melt, even when exposed to direct heat` ([Everfrost](https://wiki.spiralknights.com/Everfrost)).
 - `A mote of burning energy salvaged from Lord Vanaduke's throne room. It slowly smolders with a sinister intensity, creating an almost hypnotic trance when gazed upon for any length of time` ([Dark Ember](https://wiki.spiralknights.com/Dark_Ember)).
 
-Those instances suggest, that it in not the representation of a burning fire, rather than one including it into a greater concept, which extends into properties of materials, not usually found in material realm -- __becoming metaphysical essences__. In this regard, the very name of essences will be used further on due to its ambigious nature, while being mentioned in relation to [Plague Essence](https://wiki.spiralknights.com/Plague_Essence) as one of multiple examples of the material category.
+Those instances suggest that it in not the representation of a burning fire, rather than one including it into a greater concept, which extends into properties of materials, not usually found in material realm -- __becoming metaphysical essences__. In this regard, the very name of essences will be used further on due to its ambigious nature, while being mentioned in relation to [Plague Essence](https://wiki.spiralknights.com/Plague_Essence) as one of multiple examples of the material category.
 
 ##### Glyph Names and Metaphysics of Color
 
@@ -2552,7 +2552,7 @@ Then there is application of glyphs in the semi-technological context. In the [G
 
 Among those lines, w of them seem particularly important, whish suggest existence of a different department of Undercorp alongside _Resource Allocations_ and _Eternal Torment Division_: _Ghastly Implements of Destruction_.
 
-In the context of glyphs it is established, that _those can be used across offices as a replacement for paper_: `The guy in Devil-IT wanted to upgrade our office to all glyph-usage, but I like wasting paper when I can` ([Golden Slime Casino - Pit Boss](https://wiki.spiralknights.com/Golden_Slime_Casino)). This quote does not explicitly reveal the nature of glyphs, but established __their application as data storage medium__, _more efficient than the paper medium_.
+In the context of glyphs it is established that _those can be used across offices as a replacement for paper_: `The guy in Devil-IT wanted to upgrade our office to all glyph-usage, but I like wasting paper when I can` ([Golden Slime Casino - Pit Boss](https://wiki.spiralknights.com/Golden_Slime_Casino)). This quote does not explicitly reveal the nature of glyphs, but established __their application as data storage medium__, _more efficient than the paper medium_.
 
 With this we have 2 very different purposes, or rather, applications of glyphs -- as an __energy storage__, and a __data storage__, _scalable enough to replace paper across the office_. As devilites are stated (`Spiral HQ suspects that the glyphs that the Fiends carry with them might be the keys to opening the gate yourself` - [March of the Tortodrones](https://wiki.spiralknights.com/March_of_the_Tortodrones_(Mission))) to carry glyphs with themselves, this suggests that the __glyphs are mass-produced__.
 
@@ -2582,7 +2582,7 @@ Yet, the gates have the capacity to transport living beings, as suggested by the
 
 The lager grim gates of Ancient Grove are used to access the staging area. Those gates are unique in their configuration, as they use tortodrone technology -- tortodrone arms with _beams of red light_, potentially crimsonite being located within. Crimsonite will be further expanded upon. We may suggest that a much larger gates could have been used to transport devilites and potentially entire cities into the material realm, taken presented variation in grim gates' scale.
 
-Another suggestion can be also made here, that "armed" grim gates are the initial portal through which a connection is made. When the knight have arrived to the Ancient Grove, the portal was already active but locked, while the other side does not have the characteristic arms as well as gremlin monitors as an interface. Could it be that the portals in Undercorp's possession are constructed in similar manner and linked to portals near the Ancient Grove? Currently, considering all of earlier instances and similarities, this proposal is applicable, as it offer a non-conflicting explanation to the logistics, which pose greater significance _within a corporate setting of Undercorp_.
+Another suggestion can be also made here that "armed" grim gates are the initial portal through which a connection is made. When the knight have arrived to the Ancient Grove, the portal was already active but locked, while the other side does not have the characteristic arms as well as gremlin monitors as an interface. Could it be that the portals in Undercorp's possession are constructed in similar manner and linked to portals near the Ancient Grove? Currently, considering all of earlier instances and similarities, this proposal is applicable, as it offer a non-conflicting explanation to the logistics, which pose greater significance _within a corporate setting of Undercorp_.
 
 #### Grim Gate Portal Collapse
 
@@ -2608,9 +2608,9 @@ In relation to the vortex itself, we note presence of curse associated with dark
 
 #### Snarbolax And <span class="through-curse">Haunting Through Curse</span>
 
-The described [portal collapse](#grim-gates-portal-collapse) releases pink hue into the material realm. We have proposed that this is an essence of Underworld in more abstract terms of speculative fiction, a residue of Underworld being linked to material realm. Now we propose, that pink hue is manifestation of curse.
+The described [portal collapse](#grim-gates-portal-collapse) releases pink hue into the material realm. We have proposed that this is an essence of Underworld in more abstract terms of speculative fiction, a residue of Underworld being linked to material realm. Now we propose that pink hue is manifestation of curse.
 
-We propose, that this usage of the gates, paired with other [weaponized graviton technology](#undercorps-graviton-technology), with the presence of curse had its own effects onto the region. The curse, originating from the grim gates, had settled in nearby wildlife, most evident by the presence of Snarbolax within the Gloaming Wildwoods and later introduction of the [miasma](#miasma).
+We propose that this usage of the gates, paired with other [weaponized graviton technology](#undercorps-graviton-technology), with the presence of curse had its own effects onto the region. The curse, originating from the grim gates, had settled in nearby wildlife, most evident by the presence of Snarbolax within the Gloaming Wildwoods and later introduction of the [miasma](#miasma).
 
 Snarbolax will serve here the first most distinct case study of __curse afflicting creatures of material realm not by detriment, but empowerment__. Here it is important to analyze nature of Snarbolax in that proposed context.
 
@@ -2647,13 +2647,13 @@ Based on those items Snarbolax has several supernatural properties. There are no
 
 Perma-[Frostifurs](https://wiki.spiralknights.com/Perma-Frostifur#Perma-Frostifur) are invincible and are not explicitly delievered by Undercorp, given [Fiendish Memo](https://wiki.spiralknights.com/Amu-Sol), as they are absent in the description of the requested items: `Please provide a detailed summary of your projected use of the following requested resources: - 999 'Open minded' devilites ... - 50 barrels of 'whatever frostifurs eat' ... - A 'towering pillar' of everfrost and 'all the frozen souls it brings forth'` ([Heart of Ice - Amu-Sol - 'Fiendish Memo'](https://wiki.spiralknights.com/Amu-Sol)).
 
-If we attempt to draw parallels of [Underworlds' influence](#influences-of-underworld), we can suggest, that as Vog cubs are transformed by a magma deity, so are Perma-Frostifurs are transformed by a Hail deity in the same manner as we see Maulos and Lord Vanaduke.
+If we attempt to draw parallels of [Underworlds' influence](#influences-of-underworld), we can suggest that as Vog cubs are transformed by a magma deity and so are Perma-Frostifurs are transformed by a Hail deity in the same manner as we see Maulos and Lord Vanaduke.
 
 Placement of the Blinding Abyss in that regard can be explained by an interpretation of Underworld paired with frost themes of Blinding Abyss as partially inspired by a layered structure of Hell in `Dante's Inferno`, wherein the Ninth Circle, compared to the rest, had themes of ice, water, and frost.
 
 Blinding Abyss can relate either to the Underworld itself, as it was referring to an entire structure of `Dante's Inferno` Hell, reaching to the center of the Earth, or, a more ancient archetype found across myths. This idea, we propose, was integrated within the structure of Underworld -- as Underworld is a different realm, the cosmology also is required to cover now metaphysics of not the single realm, but multiple.
 
-As in the Underworld [devilites](https://wiki.spiralknights.com/Devilite#Types) exist and [greavers of different elemental types](https://wiki.spiralknights.com/Greaver#Types), we propose, that __Blinding Abyss is located below the Underworld, in the process becoming a different realm of frost, identified by its name__, same as the Abyss of `Dante's Inferno` was reaching bottom of the World.
+As in the Underworld [devilites](https://wiki.spiralknights.com/Devilite#Types) exist and [greavers of different elemental types](https://wiki.spiralknights.com/Greaver#Types), we propose that __Blinding Abyss is located below the Underworld, in the process becoming a different realm of frost, identified by its name__, same as the Abyss of `Dante's Inferno` was reaching bottom of the World.
 
 ##### Cursed Fur
 
@@ -2676,7 +2676,7 @@ Apart from this miasma and a potential offering of souls in [Dark Thorn Blade](h
 
 Under this assumption, we can also explain general thematic shift of alchemy tree of high-tier Snarbolax gear. Last 2 tiers of equipment, 5 and 4 stars', are themed around shadowy Snarbolax, while 2 and 3 star gear is attributed to natural Snarbolax, prior to explicitly supernatural influence.
 
-At that, we propose, that items acquired for [Frumious Fang tokens](https://wiki.spiralknights.com/Token#Frumious_Fang) exist within an _alchemy tree representing a transformation from natural to supernatural_. Similar, if not exact themes reflected in Snarbolax trophies:
+At that, we propose that items acquired for [Frumious Fang tokens](https://wiki.spiralknights.com/Token#Frumious_Fang) exist within an _alchemy tree representing a transformation from natural to supernatural_. Similar, if not exact themes reflected in Snarbolax trophies:
 
 - `A small Snarbolax statuette, showing the savage shadow in a stunned state` ([Replica Natural Snarbolax](https://wiki.spiralknights.com/Replica_Natural_Snarbolax)).
 - `A large model Snarbolax, depicting in minute detail his jaws that bite and claws that catch` ([Replica Shadowy Snarbolax](https://wiki.spiralknights.com/Replica_Shadowy_Snarbolax)).
@@ -2703,7 +2703,7 @@ As for the [Grand Tortoise](https://wiki.spiralknights.com/Grand_Tortoise): `A s
 
 Within this system special damage type variants of tortodrone gear remain unknwon. While we could not come to a distinct explanation, the specifics of their nature further establsihed the role of symbolic order over causal within current alchemy-based system.
 
-- In case of special damage type tortodrone gear being a recent invenstion, it would characterise Mysterious Alchemy Station furthemore complex, as well as deepen Spiral Order understanding of this technology through magic on Cradle compared to their initial position prior to Cradle, as __inhereting and incorporating both Undercorp and Owlite technology into their own__ -- a notion, that was [already established](#application-of-magic) with progressing application of magic by Spiral Order.
+- In case of special damage type tortodrone gear being a recent invenstion, it would characterise Mysterious Alchemy Station furthemore complex, as well as deepen Spiral Order understanding of this technology through magic on Cradle compared to their initial position prior to Cradle, as __inhereting and incorporating both Undercorp and Owlite technology into their own__ -- a notion that was [already established](#application-of-magic) with progressing application of magic by Spiral Order.
 
   Quotes such as `A shield alchemized from the shell of a corrupted tortodrone` ([](https://wiki.spiralknights.com/Grim_Shell)) characteize those states as external to tortodrone, while `hardened tortodrone shell` of [Wild Shell](https://wiki.spiralknights.com/Wild_Shell) and explicitly stated `elemental resiliency` of [Barrier Shell](https://wiki.spiralknights.com/Barrier_Shell) may be interpreted both as existing in the past as well as only on modern-day Cradle, as ownership of modified states of those shells is left ambigious.
 
@@ -2715,7 +2715,7 @@ As far as current depiction of modified tortodrones allows, we would consider on
 
 #### Undercorp's Plot: Creation of Tortodrone
 
-Weather the aforementioned equipment has existed by the time titans encountered Undercorp, we can more certainly suggest, that both grim gates require resources larger, than can be likely passed through the ritual circles even considering trnasportation of [Everfost Pillar during events of Heart of Ice](#ritual-circles-circle-of-art-pentacles).
+Weather the aforementioned equipment has existed by the time titans encountered Undercorp, we can more certainly suggest that both grim gates require resources larger than can be likely passed through the ritual circles even considering trnasportation of [Everfost Pillar during events of Heart of Ice](#ritual-circles-circle-of-art-pentacles).
 
 Due to this we place grim gates and tortodrones temporally close, with the gates being the first, as they are the device to connect both realms. Only then tortodrones had to be engineered.
 
@@ -2744,7 +2744,7 @@ Considering that dark matter is found in those cities and laboratories, as two D
 
 It is likely that tortodrones were at least _reconstructed, modified_ -- in the Underworld and delivered to the material realm, as well as allowing for dark cities to exist already by that point in time, potentially in the Underworld.
 
-The original construction, that is the stone shell itself, the carvings of an eye and moving parts, judging by the rest of the Wildwoods, was done in the material realm by tortomega. If they were built in the Underworld, it is likely that they would've been made of the same metal that was used in weavers' helms made of metal -- with a symbol of a evil eye, as it is used often as an armor, making it expandable. Herein the shells contain eye imagery and made of stone lacking carvngs of corrupted tortodrones.
+The original construction, which is the stone shell itself, the carvings of an eye and moving parts, judging by the rest of the Wildwoods, was done in the material realm by tortomega. If they were built in the Underworld, it is likely that they would've been made of the same metal that was used in weavers' helms made of metal -- with a symbol of a evil eye, as it is used often as an armor, making it expandable. Herein the shells contain eye imagery and made of stone lacking carvngs of corrupted tortodrones.
 
 Why Undercorp would transport tortodrones? We suggest that this was done later, as part of Undercorp's plot to enter material realm. This likely led to a process of tempering tortodrones, deconstructing them, _engraving runes_, _imbuing with dark matter_ and _stitching back together_, and then finally sending them back to supress tortomega civilization.
 
@@ -2787,7 +2787,7 @@ Then there is [dark matter](https://wiki.spiralknights.com/Dark_Shard) itself, i
 
 Based on those ideas we can guess that at some point tortomega were taken advantage of, and through modification of tortodrones, remade as weapons, tortomega were annihilated. But, this process required capturing a tortodrone and tmpering with i, which may be a reason why there are still many tortodrones present in across Clockworks during the Long Migration, as wel las many instances of partially assembled tortodrones across clockworks accompanied by Underwolrd technology or perished gremlins.
 
-The nature of the migration itself does remain untold, and we can safely suggest, that this process consists of a search for the [veiled homeland](#veiled-tortodrone-homeland) of tortomega, to which Ancient Grove had to relate at some point -- located in proximity of it geographically, and the rest of the landmass comprising tortomega region of habitation, as stated in the beginning -- being fractured.
+The nature of the migration itself does remain untold, and we can safely suggest that this process consists of a search for the [veiled homeland](#veiled-tortodrone-homeland) of tortomega to which Ancient Grove had to relate at some point -- located in proximity of it geographically and the rest of the landmass comprising tortomega region of habitation, as stated in the beginning, -- being fractured.
 
 #### The Titans, Tortomega, the Fall
 
@@ -2825,7 +2825,7 @@ This change in color, apart from being a potential design inconsistency, can be 
 
 This might suggest that mounted or equipped cannons use charged minerals as they are remade from tortodrones' designs as explicit weapons wielded by Spiral Order.
 
-Based not on color but application through items' description we can make an extrapolation, that __all minerals found in the Clockworks posses an internal charge, rendering them an applicable power source__.
+Based not on color but application through items' description we can make an extrapolation that __all minerals found in the Clockworks posses an internal charge, rendering them an applicable power source__.
 
 ##### Trojans: Everfrost and Dark Matter
 
@@ -2841,7 +2841,7 @@ When Everfrost Tower is found at its [corresponding depth](https://wiki.spiralkn
 Moonstone and everfrost are separate minerals and their role in alchemy differs, yet _everfrost itself has similar properties to a mineral_ due to a common pattern:
 
 1. Everfrost and minerals are capable of being arranged into a form of a pillar.
-2. More similarities to minerals and everfrost are found by the fact, that __everfrost is present in Maulos's back as the dark matter shard across trojans__.
+2. More similarities to minerals and everfrost are found by the fact that __everfrost is present in Maulos's back as the dark matter shard across trojans__.
 3. Once Maulos is defeated, __everfrost shard shatters identical to dark matter of trojans__.
 
 The similarities between Moonstone and everfrost are found through identification of Maulos as a trojan, which poses a question of trojans' nature -- __through which means dark matter or everfrost at that had become essential for trojans' animation?__
@@ -2852,7 +2852,7 @@ Whether everfrost and Dark Matter identical in their nature and influence, which
 
 Through the course of everfrost establishment as an important for Underworld mineral its capacity to contain souls becomes central to Maulos's plot. At that, everfrost is framed as supernatural in its origin: `A small patch of ice crystals that never seem to melt, even when exposed to direct heat` ([Everfrost](https://wiki.spiralknights.com/Everfrost)): `The intel we've collected so far suggests that fiends utilize large deposits of the stuff to trap the souls of the lost within it, like some kind of icy prison. It would seem that Maulos, that horrible arch-fiend you just took down, had a different use in mind and was actually destroying this everfrost to unleash swarms of angry, frozen souls into the Clockworks. Had he finished the job, well, I don't even want to think about how many sweaters we would all be needing right now` ([Heart of Ice - Everfrost Tower - Recon Ranger](https://wiki.spiralknights.com/Heart_of_Ice/Everfrost_Tower)).
 
-Here we have to acknowledge, that souls imprisoned in everfrost does not constitute them being mortal, -- souls may likely be eternal in most colloqual understanding, -- but rather everfrost seems as a trap, capable of intersecting with natural life-cycle of a souls, as a soul is held perpetually in everfrost.
+Here we have to acknowledge that souls imprisoned in everfrost does not constitute them being mortal -- souls may likely be eternal in most colloqual understanding, -- but rather everfrost seems as a trap, capable of intersecting with natural life-cycle of a souls, as a soul is held perpetually in everfrost.
 
 Whether lost souls' _aggressive nature_ is inherent to their state, is unknwon, as we have found both sentient, non-aggerssive _lost_ souls, such as those related to Apocrean narrative.
 
@@ -2903,7 +2903,7 @@ We have a few evidence of this relation to energy:
 - Aforementioned internal charge of a mineral, capable enough to be used in weapon production.
 - Referring to other energy based systems, fiendish Sigils are ones that power grim gates through transmutation of fiendish ID card. Even if the card itself is the container for energy, for its transmutation sigils, which are depicted as essences, are still required.
 
-As ritual circles are created from minerals, which so far are the only source of energy, we suggest, that ritual circles tap into power of minerals to operate.
+As ritual circles are created from minerals, which so far are the only source of energy, we suggest that ritual circles tap into power of minerals to operate.
 
 There are also Owlite tomes, which possess auras, which draw in Black Kats -- we will discuss the tomes later, as for now we will apply aforementioned concept as our primary method to interpret observed phenomena across Clockworks.
 
@@ -2969,7 +2969,7 @@ While preserving _electrical motif_, those writings could be either of everfrost
 
 - Rock Salt is seen in the [Pinch of Salt](https://wiki.spiralknights.com/A_Pinch_of_Salt) at the [Research Site](https://wiki.spiralknights.com/A_Pinch_of_Salt#Gate_Map), wherein it is depicted exactly as on the inventory icon.
 
-  A conflict may arise here, one related to the design of [salt bomb](https://wiki.spiralknights.com/Rock_Salt_Bomb), as it is very similar to [splinter bomb](https://wiki.spiralknights.com/Deadly_Splinter_Bomb), which uses Luminite, but also is referred to as made of a synthetic mineral, yet capable of charge: `A large chunk of synthetic mineral primed with a potent explosive` ([splinter bomb](https://wiki.spiralknights.com/Deadly_Splinter_Bomb)). This can be resolved through a thought, that the bombs also utilize charged minerals, then, salt would change its color as seen with other minerals.
+  A conflict may arise here, one related to the design of [salt bomb](https://wiki.spiralknights.com/Rock_Salt_Bomb), as it is very similar to [splinter bomb](https://wiki.spiralknights.com/Deadly_Splinter_Bomb), which uses Luminite, but also is referred to as made of a synthetic mineral, yet capable of charge: `A large chunk of synthetic mineral primed with a potent explosive` ([splinter bomb](https://wiki.spiralknights.com/Deadly_Splinter_Bomb)). This can be resolved through an assumption that the bombs also utilize charged minerals. Then, salt would change its color as seen with other minerals.
 
 - Moonstone is seen to glow, paralleling dark matter ritual circles, and other previous examples, including Moorcroft Manor's ritual site.
 
@@ -2977,7 +2977,7 @@ While preserving _electrical motif_, those writings could be either of everfrost
 
   Rock Salt of [Pinch of Salt](https://wiki.spiralknights.com/A_Pinch_of_Salt) at the [Research Site](https://wiki.spiralknights.com/A_Pinch_of_Salt#Gate_Map) does not glow, which would most definitely explude it as a candidate for nature of glow at Amu-Sol or Ancient Grove.
 
-Due to everfrost's themes and more explored applications of moonstone, we suggest, that an underlying logic connects the two, but, as far as designs go, specifically of Triglav, mentioned earlier, we consider writings of Amu-Sol to be made of everfrost through its reaffirmation of the similarity of everfrost to minerals.
+Due to everfrost's themes and more explored applications of moonstone, we suggest that an underlying logic connects the two, but, as far as designs go, specifically of Triglav, mentioned earlier, we consider writings of Amu-Sol to be made of everfrost through its reaffirmation of the similarity of everfrost to minerals.
 
 Through this connection the initial conflict of differing appearance of Everfrost Tower can be resolved.
 
@@ -3095,15 +3095,15 @@ With this, we should focus on the nature and function of _Mysterious Consoles as
 
 Gauntlet's second depth is a deconstruction zone with a name `Reign of Fire` and characteristic presence of gremlins. It is followed by Gauntlet's last depth -- [`Last Stand`](https://wiki.spiralknights.com/The_Gauntlet/Last_Stand). It has architecture of the Scarlet Fortress and has gremlins present at the final, fire-themed arena, accompanied by constructs.
 
-As in the [analysis of Ghost in The Machine danger mission](#ghosts-in-the-machine), we propose, that gremlins' presence connects the corresponding location to them. We propose that this pattern of gremlin presence is not a coincidence, but an intentional design choice guided by a yet unfolding narrative, part of which constitutes _gremlins to guard the Firestorm Citadel at the_ [Gauntlet](https://wiki.spiralknights.com/Gauntlet), __as a point of interest harboring undeath__.
+As in the [analysis of Ghost in The Machine danger mission](#ghosts-in-the-machine), we propose that gremlins' presence connects the corresponding location to them. We propose that this pattern of gremlin presence is not a coincidence, but an intentional design choice guided by a yet unfolding narrative, part of which constitutes _gremlins to guard the Firestorm Citadel at the_ [Gauntlet](https://wiki.spiralknights.com/Gauntlet), __as a point of interest harboring undeath__.
 
 This hypothetical practice exists along with a different tendency -- of a specific placement of consoles.
 
 Firestorm Citadel has itself a dedicated room with a mysterious console embedded behind the throne room, which does not seem accessible from the outside of the molten cavern the citadel resides, as the rest of its residence is guarded by Lord Vanaduke. Citadel became a significant element of rank missions, as it hindered further access to the Core: `The Core was in sight. But now some kind of massive negative energy anomaly has surfaced above the Core, blocking access to it. Recon Knights have said that all they see near it is fire, endless fire` ([Ending in Fire - Kora](https://wiki.spiralknights.com/Ending_in_Fire)).
 
-Does that mean, that the console and Clockworks were already present before [kingdom of Almire had fallen](#king-in-the-mountain)? Same logic can be applied to the Royal Jelly Palace, as the artifact console is also present there, embedded into the stonework floor behind throne room. More so, Royal Jelly Palace has modern technoloy embedded into its grounds -- as pipes and search lights. Through this context of potentially external intervention, consoles must be looked at, as this pattern of being hidden behind the throne rooms is particularly notable.
+Does that mean that the console and Clockworks were already present before [kingdom of Almire had fallen](#king-in-the-mountain)? Same logic can be applied to the Royal Jelly Palace, as the artifact console is also present there, embedded into the stonework floor behind throne room. More so, Royal Jelly Palace has modern technoloy embedded into its grounds -- as pipes and search lights. Through this context of potentially external intervention, consoles must be looked at, as this pattern of being hidden behind the throne rooms is particularly notable.
 
-We must keep in mind, that Royal Jelly Palace belongs to the main structure of the Scarlet Fortress, and, by extension, heavenly kingdom, based on its architecture.
+We must keep in mind that Royal Jelly Palace belongs to the main structure of the Scarlet Fortress and, by extension, heavenly kingdom, based on its architecture.
 
 Consoles' design has a subtle common element with Clockwork elevators -- _its holographic monitor panel's sides have practically identical design to Clockwork Elevator side panels_ of __3 short cylinders extending from the edges in radial manner__, _a characteristic element of gremlin technology across Clockworks_. Moreover, the [runes present on the mysterious console and artifact seem to be the same as on the Roarmulus Twins' armor plates](#gremlin-conlang). This language of gremlins will be covered in the [gremlin conlang section](#gremlin-conlang).
 
@@ -3125,11 +3125,11 @@ Yet, as no explicit connection to those time periods apart of an surface-level i
 
 And, if the consoles were installed later, as the civilizations in charge of these castles are gone, gremlins would have ability to traverse those environments -- devoid of Owites Royal Jelly Palace, but already burning Firestorm Citadel, -- as those are the narrative states those civilizations, as far as we are aware, had ceased.
 
-As for Herex in the context of Shadowplay and current proposal, we will discuss him during the analysis of the [exact mechanics of the Artifact](#artifact-console-and-a-hatch), but here, taken our later analysis of his actions, we lean to an idea of him entering the citadel after knights have defeated Lord Vanaduke solely due to ceasation of the primary threat, compared to Citadel's still burning state, perpetuated by lingering presence of Lord Vanaduke -- `You can feel it in the smoldering air - an eternal will holding this place together, never allowing its inhabitants to rest. No creature deserves such a fate, it is beyond my understanding` ([Recon Module: Firestorm Citadel - Grantz](https://wiki.spiralknights.com/Artifact)). And that is taking in account, that Herex seemingly arrived with a squad of gremlins and construicts into the Citadel, past the Throne Room. This will be also discussed in the [chapter on gremlins](#chapter-ix-gremlin-empire).
+As for Herex in the context of Shadowplay and current proposal, we will discuss him during the analysis of the [exact mechanics of the Artifact](#artifact-console-and-a-hatch), but here, taken our later analysis of his actions, we lean to an idea of him entering the citadel after knights have defeated Lord Vanaduke solely due to ceasation of the primary threat, compared to Citadel's still burning state, perpetuated by lingering presence of Lord Vanaduke -- `You can feel it in the smoldering air - an eternal will holding this place together, never allowing its inhabitants to rest. No creature deserves such a fate, it is beyond my understanding` ([Recon Module: Firestorm Citadel - Grantz](https://wiki.spiralknights.com/Artifact)). And that is taking in account that Herex seemingly arrived with a squad of gremlins and construicts into the Citadel past the Throne Room. This will be also discussed in the [chapter on gremlins](#chapter-ix-gremlin-empire).
 
 Another question we should address is the existence of Clockwork elevators across Scarlet Fortress, Royal Jelly Palace and Firestorm Citadel.
 
-That is, are they present in the historical context of those locations? Within current framework they are, and have dedicated icons of the regions designed by gremlins themselves to navigate through. This would mean, that gremlins at least in the past had ability to handle those environments while utilizing their dangerous traits to secure the consoles.
+That is, are they present in the historical context of those locations? Within current framework they are, and have dedicated icons of the regions designed by gremlins themselves to navigate through. This would mean that gremlins at least in the past had ability to handle those environments while utilizing their dangerous traits to secure the consoles.
 
 If the console being installed later, as the Citadel was burning, while allowing for Herex's traversal, we could explain it by the sheer manpower of gremlins during, seemingly, [more stable period of time](#battlepods-and-laser-technology), while Clockworks were still under construction.
 
@@ -3171,7 +3171,7 @@ Eventually, it was adopted by Underworld's army as Greavers' helm was engraved w
 
 #### Heavy Statue and Antique Evil Eye
 
-We propose, that the _antique_ instance of an evil eye is the result of the collision of cultures -- introduction of Underworld and its occult physicality to titans' civilization, which had resulted in integration of fiendish evil eye into titans' designs, _as no Underworld-native object other than potential Graviton Bomb possess antique eye appearance_.
+We propose that the _antique_ instance of an evil eye is the result of the collision of cultures -- introduction of Underworld and its occult physicality to titans' civilization, which had resulted in integration of fiendish evil eye into titans' designs, _as no Underworld-native object other than potential Graviton Bomb possess antique eye appearance_.
 
 As a potential sign of this connection with the Underworld, this transition was depicted in [Heavy Statues](https://wiki.spiralknights.com/File:Exploration-Heavy_Statue.png), when titans were [still utilizing](#unreconciled-duality-of-fury-and-serenity) the heavy cleaver-like weapons such as [Troika](https://wiki.spiralknights.com/Troika).
 
@@ -3193,7 +3193,7 @@ The eye symbolism as an initially organic design from Greavers' wings may contri
 
 Both totems and undead Dreadnoughs possess a power to resurrect fallen zombies _from their skulls_. The role of the skull becomes more important as we are reminded of the [skulls' haunting by lost souls](#lost-souls-with-skulls), which follows the idea of a souls' need to reside within a body in order to _exude a degree of control over material realm_, as [the body, in the material realm being manifestation of the aura](#corporeal-body), is the arrangement of bones.
 
-At that point we would suggest, that the ability to resurrect emerges from a manipulation with the recently severed connection of a souls to a body as one capable of being mended in a similar method of potentially ceased gremlins being _revived_ by a [gremlin mender](https://wiki.spiralknights.com/Mender#Darkfang_Mender).
+At that point we would suggest that the ability to resurrect emerges from a manipulation with the recently severed connection of a souls to a body as one capable of being mended in a similar method of potentially ceased gremlins being _revived_ by a [gremlin mender](https://wiki.spiralknights.com/Mender#Darkfang_Mender).
 
 The exact meachanics of this process are yet to be understood, the role of souls within this system seems central, particularly important.
 
@@ -3246,7 +3246,7 @@ And, as Gran Faust utilizes Shadow Steel -- `an upgraded Faust forged from prist
 
 In that regard of exploring devilite designs, a similar to contoured design is found on [Wicked Idol](https://wiki.spiralknights.com/Wicked_Idol), which possesses a _more alien and technological design of symmetrical curved lines across figure's surface_.
 
-<!--We have previously proposed in the [analysis of Apocrean Circles](#apocrean-circles), that the darkness of Underworld or even Apocrea is the same darkness Sleeper was referring to. Here we have another instance of darkness referred to as a metaphysical presence. Shadow steel is described as `An extraordinary metal imbued with the creeping darkness of the Underworld`. While we will not commit to this concept, its peculiarity - its themes, framing of darkness is something to remember.-->
+<!--We have previously proposed in the [analysis of Apocrean Circles](#apocrean-circles) that the darkness of Underworld or even Apocrea is the same darkness Sleeper was referring to. Here we have another instance of darkness referred to as a metaphysical presence. Shadow steel is described as `An extraordinary metal imbued with the creeping darkness of the Underworld`. While we will not commit to this concept, its peculiarity - its themes, framing of darkness is something to remember.-->
 
 As [Wicked Prize Box](https://wiki.spiralknights.com/Wicked_Prize_Box) is the source of Nafarious gear, we may veiw it from a perspective of being connected both to Nefarious Imp and Underworld.
 
@@ -3273,7 +3273,7 @@ As for nefarious gear -- it is designed with secrecy and concealing of presence 
 - `shroud you in darkness` (`A raiment said to be crafted by a nefarious imp. The ethereal plates will defend against heinous harassment while they shroud you in darkness` - [Nefarious Raiment](https://wiki.spiralknights.com/Nefarious_Raiment)).
 - `during clandestine campaigns` (`A hood said to be crafted by a nefarious imp. The floating hood is certain to cloak you during clandestine campaigns` - [Nefarious Hood](https://wiki.spiralknights.com/Nefarious_Hood)).
 
-Through above connection to curse and advanced designs which incorporate symbol of specifically curse, we propose, that Nefarious Imp is one of a few potential antagonists behind propagation of Underworld potentially separate from intentions of Apocrea.
+Through above connection to curse and advanced designs which incorporate symbol of specifically curse, we propose that Nefarious Imp is one of a few potential antagonists behind propagation of Underworld potentially separate from intentions of Apocrea.
 
 ##### Arctic Plot
 
@@ -3298,7 +3298,7 @@ This Arctic expedition can be vaguely connected to [Maulos's](https://wiki.spira
 
 The act of bringing back Maulos could be a continuation of the same methodology of bringing back trojans from Underworld through the ritual circles. Yet, if such scenario would be true, it seems unlikely that Undercorp would attemtp to stop this process and at such scale, involving a devilite city.
 
-Apart from lovecraftian inpirations, we suggest, that events surrounding the state of Amu-Sol are potentially inspired by appearances of __Frozen Throne__ from _World of Warcraft_ universe.
+Apart from lovecraftian inpirations, we suggest that events surrounding the state of Amu-Sol are potentially inspired by appearances of __Frozen Throne__ from _World of Warcraft_ universe.
 
 Within this interpretation Maulos becomes the stand-in for Lich King Arthas while the Everfrost Tower becomes reaimagined Frozen Throne. Notably, the intermediate phases of Maulos's fight involve him retreating into a block of ice, reminiscent of Ner'zhul being bound within the Frozen Throne, while inner glow of Maulos's mace is reminiscent of Frostmourne, as a unique weapon, potentially similar in its operation to [Triglav](https://wiki.spiralknights.com/Triglav), as the latter near-seamlessly incorporates everfrost.
 
@@ -3336,9 +3336,9 @@ In order to understand them, we will start from their currently known town, Have
 
 Haven itself is a rather unique location. It is a small town seemingly built on the slope of a mountain. Inside the mountain is the Arcade -- a _large Clockwork terminal_ with an access to the Clockwork gates, which pathways eventually _converge at the Core Terminal_.
 
-We can suggest the Arcade being inside of the mountain based on the goal of Project Roarmulus -- `Project R appears to be in fact two massive weapons known as the 'Roarmulus Twins.' Designed by one of the Crimson Order itself, the Roarmulus Twins are some kind of construct cannon that the gremlins intend on moving up the Clockworks into the Haven Arcade! Based on what the schematics suggest, their power far exceeds standard gremlin weaponry and could be truly devastating to Haven, Spiral HQ and the strangers should it reach the Arcade.` ([Target Acquired - Kora](https://wiki.spiralknights.com/Target_Acquired)), - meaning, that entirety of Haven is vulnerable from the Arcade, so it is relatively close to Clockworks proper, rather than Cradle's crust plates. The Arcade and the rest of the town are separated by a series of sluice-like gates. The cavern housing the Arcade is reinforced with metal.
+We can suggest the Arcade being inside of the mountain based on the goal of Project Roarmulus -- `Project R appears to be in fact two massive weapons known as the 'Roarmulus Twins.' Designed by one of the Crimson Order itself, the Roarmulus Twins are some kind of construct cannon that the gremlins intend on moving up the Clockworks into the Haven Arcade! Based on what the schematics suggest, their power far exceeds standard gremlin weaponry and could be truly devastating to Haven, Spiral HQ and the strangers should it reach the Arcade.` ([Target Acquired - Kora](https://wiki.spiralknights.com/Target_Acquired)), -- meaning that entirety of Haven is vulnerable from the Arcade so it is relatively close to Clockworks proper, rather than Cradle's crust plates. The Arcade and the rest of the town are separated by a series of sluice-like gates. The cavern housing the Arcade is reinforced with metal.
 
-While this a different topic, the fact of all rotating through the Arcade gates pass through the same terminals may suggest, that other Arcade-like surface Terminals exist, which have their own sets of depth-fixed Clockwork Terminal. As for the Core Terminal -- [we eventually will discuss it](#core-terminal) later into the analysis, as it differs greatly in its design and purpose.
+While this a different topic, the fact of all rotating through the Arcade gates pass through the same terminals may suggest that other Arcade-like surface Terminals exist, which have their own sets of depth-fixed Clockwork Terminal. As for the Core Terminal -- [we eventually will discuss it](#core-terminal) later into the analysis, as it differs greatly in its design and purpose.
 
 Haven is surrounded by a brick wall, with a central entrance guarded by a _sliding mechanical gates_, identified by a gear track and a gear itself, seemingly serving as a large vault-like blast-protective door.
 
@@ -3391,7 +3391,7 @@ Strangers are known to perform mining operations in proximity of Haven, evident 
 - `A sturdy shovel modified to dole out a little extra damage to slime family monsters` ([Slime Slasher](https://wiki.spiralknights.com/Slime_Slasher)).
 - `It was suggested that this brutally sharp mining pick could probably be used to hunt both beasts AND minerals. The Clockworks were never the same` ([Big Beast Basher](https://wiki.spiralknights.com/Big_Beast_Basher)).
 
-Given mine railing in the Arcade, as well as a few storages of minerals, including mineral pillars, we can assume, that Strangers were performing mining operations near the Arcade. The same containers, as ones seen near minerals, are carrier across Haven by, now, knights of Spiral Order.
+Given mine railing in the Arcade, as well as a few storages of minerals, including mineral pillars, we can assume that Strangers were performing mining operations near the Arcade. The same containers, as ones seen near minerals, are carrier across Haven by, now, knights of Spiral Order.
 
 In this context of exploration done by Strangers, we believe, lockdown maps are to be attributed to those areas. Most of those maps have regular Clockwork designs, implying their position below the ground in a similar manner to Guild Hall and Laboratory being located within the mountain and below it. While we won't list all of those maps, as those are redundant, several instances expand on earlier established concepts:
 
@@ -3408,7 +3408,7 @@ Yet, we don't possess the evidence that minerals, despite them containing energy
 
 At that, the description of `Due to the intense power source at Cradle's core, the entire planet's atmosphere is imbued with loose, airborne mist energy` is very similar to one of [Static Clinger](https://wiki.spiralknights.com/Static_Clinger): `A latent strand of energy that floats throughout the Clockworks, frequently catching onto hair and clothing. It's too large to properly distill into Energy, but it's very useful in alchemy`. Given those factors, we propose, the glowing energy symbol found across Spiral Order armors is the mist energy collector or tank.
 
-Notably, it is through the bribe several [Bombhead Masks](https://wiki.spiralknights.com/Bombhead_Mask): `A mask commissioned by King Krogmo to celebrate the launch of Blast Network that curiously resembles a live bomb. Available in a wide variety of styles, there is likely one to match any armor set`, can be acquired, including a [Cursed Bombhead Mask](https://wiki.spiralknights.com/File:Cursed_Bombhead_Mask-Equipped.png). Due to its design and _acknowledgement of curse_, it reminds of [undead Bombies](https://wiki.spiralknights.com/Bombie). Could it be, that those masks are manufactured in the same manner, as zombies are transformed after their death into bombies? As there are devilites present, even if their are not seemingly affiliated with Undercorp, we have to keep in mind their presence.
+Notably, it is through the bribe several [Bombhead Masks](https://wiki.spiralknights.com/Bombhead_Mask): `A mask commissioned by King Krogmo to celebrate the launch of Blast Network that curiously resembles a live bomb. Available in a wide variety of styles, there is likely one to match any armor set`, can be acquired, including a [Cursed Bombhead Mask](https://wiki.spiralknights.com/File:Cursed_Bombhead_Mask-Equipped.png). Due to its design and _acknowledgement of curse_, it reminds of [undead Bombies](https://wiki.spiralknights.com/Bombie). Could it be that those masks are manufactured in the same manner as zombies are transformed after their death into bombies? As there are devilites present, even if their are not seemingly affiliated with Undercorp, we have to keep in mind their presence.
 
 ##### Strangers' Festivals
 
@@ -3486,7 +3486,7 @@ As those notions are rooted in lovecraftian horror thematically, Danford's text 
 
 The idea of capturing souls is one of central elements to Apocrea's motivation, but, to asess further details on operational metaphysical principals of the realm, we have to cover its other elements.
 
-Allister Danford in the context of eldritch horror may represent a similar character -- [Danforth](https://lovecraft.fandom.com/wiki/Danforth) of [`In the Mountains Of Madness`](https://lovecraft.fandom.com/wiki/At_the_Mountains_of_Madness). It is also worth noting, that Apocrean activity, as eldritch entity __manifests as insomnia__, as stated per memorandum: `We at Spiral HQ are concerned about a spike in the number of knights who push themselves to the limit with lack of sleep, and Medical has noted a similar uptick in knights who want to sleep, but can't. We suspect this is at least partly due to recent Apocrean activity in the Clockworks` ([Sleep is for the Strong](https://forums.spiralknights.com/en/node/111472)).
+Allister Danford in the context of eldritch horror may represent a similar character -- [Danforth](https://lovecraft.fandom.com/wiki/Danforth) of [`In the Mountains Of Madness`](https://lovecraft.fandom.com/wiki/At_the_Mountains_of_Madness). It is also worth noting that Apocrean activity, as eldritch entity, __manifests as insomnia__, as stated per memorandum: `We at Spiral HQ are concerned about a spike in the number of knights who push themselves to the limit with lack of sleep, and Medical has noted a similar uptick in knights who want to sleep, but can't. We suspect this is at least partly due to recent Apocrean activity in the Clockworks` ([Sleep is for the Strong](https://forums.spiralknights.com/en/node/111472)).
 
 ##### Apocrea's Goal Of Negation Of existence: Part 2
 
@@ -3623,7 +3623,7 @@ In relation to metals -- Perplexing Element, `A rare metal recovered from a shat
 
 Onyx was used as primary building material for civilization of Inganok and a castle for Elder Gods at the top a mountain Kadath, as revealed by the events of [`The Dream-Quest of Unknown Kadath`](https://lovecraft.fandom.com/wiki/The_Dream-Quest_of_Unknown_Kadath).
 
-We suggest, that Apocrean Relam may have been inspired by Kadath, given its greater importance to the narrative, direct relation to gods, and focus on a concrete mineral, therein being onyx and for Apocrean Realm -- obsidian.
+We suggest that Apocrean Relam may have been inspired by Kadath, given its greater importance to the narrative, direct relation to gods, and focus on a concrete mineral, therein being onyx and for Apocrean Realm -- obsidian.
 
 <BookCitation source="The Dream-Quest of Unknown Kadath - H.P.Lovecraft">
 
@@ -3671,7 +3671,7 @@ As minerals are associated with cosmic forces, as dragons' species embody univer
 
 Obsidian Crusher specifically is reminiscent in its function to Graviton Bomb. Graviton Bomb itself is both a requirement for Crusher's transmutaion and a weaponized by Underworld grim gates' portal.
 
-This would mean, that graviton technology and Underworld are linked to Apocrean Realm. The portal technology, similar to ritual circles could have emerged from Apocrean Realm as they entered Underworld, granting this technology to devilites.
+This would mean that graviton technology and Underworld are linked to Apocrean Realm. The portal technology, similar to ritual circles could have emerged from Apocrean Realm as they entered Underworld, granting this technology to devilites.
 
 
 And, as apocrean portals allow to enter Apocrean Realm from material realm, for Devilites transition between Underworld and material realm is possible, as well as across the material relam through grim gates, we suggest that this principle ma allow to reach other realms. Furthermore, manifestation of portions of Apocrean Realm, as at Haven Town Squre, we would conclude, renders Apocrea as most skilled actor capable of transitioning over separate realms. Whether
@@ -3684,7 +3684,7 @@ Apart from those notions, we observe presence of purple energy, permiating obsid
 
 ##### Eternal Energy, Obsidian and Minerals
 
-Obelisks refer to an `eternal energy` within their descriptions: `A jet-black stele of unnatural stone from the realm of the Apocrea. As you gaze upon it, the stone seems to writhe and pulse with an eternal energy that is simultaneously alluring and sinister in a most grotesque manner` ([Obsidian Obelisks](https://wiki.spiralknights.com/Apocrean_Furniture)). Due to lack of any other references to a specific type of energy, we propose, that this exact eternal energy is one observed in the aforementioned gear, as _a purple glowing stream_.
+Obelisks refer to an `eternal energy` within their descriptions: `A jet-black stele of unnatural stone from the realm of the Apocrea. As you gaze upon it, the stone seems to writhe and pulse with an eternal energy that is simultaneously alluring and sinister in a most grotesque manner` ([Obsidian Obelisks](https://wiki.spiralknights.com/Apocrean_Furniture)). Due to lack of any other references to a specific type of energy, we propose that this exact eternal energy is one observed in the aforementioned gear as _a purple glowing stream_.
 
 The same `eternal energy` would become one identical to instances of glowing within the Apocrean Realm from below the floors. Within the Nexus there are 2 more instances of the floors missing, revealing presence of purple space:
 
@@ -3715,14 +3715,14 @@ This idea of `constructed from thought, from unnatural impulse` contradicts the 
 
 We are considering the metaphysical, dream-oriented interpretaion as plausibly applicable both to cities and machines. First, we will test an interpretation of `impuse` and `thought` as characteristics of the act of dreaming, as cities had physicality and material explored through Apocrean sigils, and then we will test the grammatically accurate interpretation, wherein cities are ones constructed from thought becouse of ambigious boundary of concepts between geometry and madness of `geometry and madness share meaning`.
 
-Through `Apocrea dream dark machines into being` we can then propose physicality of those machines. `Only souls keep these engines roaring, heard screaming across distant stars. Only souls can fill their void, sublime in its vast emptiness` states, that __souls are the fuel of those machines__, labeling them engines. The act of roaring so far was attributed to engines specifically, rather than souls, so we can conclude, that its is those engines are being heard as `screaming across distant stars`, which would establish their physical presence.
+Through `Apocrea dream dark machines into being` we can then propose physicality of those machines. `Only souls keep these engines roaring, heard screaming across distant stars. Only souls can fill their void, sublime in its vast emptiness` states that __souls are the fuel of those machines__, labelling them engines. The act of roaring so far was attributed to engines specifically, rather than souls, so we can conclude that its is those engines are being heard as `screaming across distant stars`, which would establish their physical presence.
 
 Role of a metaphorical void, a negation of existence, also emerges here in reference to engines' volume:
 
 - `Only souls keep these engines roaring, heard screaming across distant stars. Only souls can fill their void, sublime in its vast emptiness` ([Professor Allister Danford](https://forums.spiralknights.com/en/node/91276)).
 - `The daylight, the starlight; all hope is merely waiting for their [Apocrea's] dark shroud to return this cosmic play to its primordial black. Dear heavens! The stars grin down with lustful intent! It is an abomination, an embodiment of sublime beauty, dark and blooded! I weep and laugh before the shroud that waits!` ([Professor Allister Danford](https://forums.spiralknights.com/en/node/91276)).
 
-As Apocrean Realm was manifestated in the Town Square, it is unlikely, that the primordial black was observed at that point. Nor its name suggests it possessing color, so the eternal energy remains linked to the specifically Apocrean Realm, as one of the components to its nature.
+As Apocrean Realm was manifestated in the Town Square, it is unlikely that the primordial black was observed at that point. Nor its name suggests it possessing color, so the eternal energy remains linked to the specifically Apocrean Realm, as one of the components to its nature.
 
 Then, what is the purpose of the engines? If we reconsider `The daylight, the starlight; all hope is merely waiting for their [Apocrea's] dark shroud to return this cosmic play to its primordial black` ([Professor Allister Danford](https://forums.spiralknights.com/en/node/91276)), then the engines provide the means to bring reality into the primordial black.
 
@@ -3744,7 +3744,7 @@ Then there are cultists or the disciples. They are separated into groups, charac
 
 `Through my eyes you will see the path to ages. Pure is my gaze, free from the lies of reality'` ([Obsidian Mantle of Sight](https://wiki.spiralknights.com/Obsidian_Mantle_of_Sight#Obsidian_Mantle_of_Sight)).
 
-We assume, that the hood, which disciples wear both in application and design is meant to represent Apocrea's eyes given the identical design -- three dot-like eyes in a triaglular pattern, -- to Harvester's face, and accent on sight as motif.
+We assume that the hood, which disciples wear both in application and design is meant to represent Apocrea's eyes given the identical design, -- three dot-like eyes in a triaglular pattern, -- to Harvester's face and accent on sight as motif.
 
 There are [scarabs](https://wiki.spiralknights.com/Scarab), which also have a similar eye pattarn and are undead, -- this might be a coincidense or a more complex case of Apocrean, _insect-like_ lifeforms adapting to Underworld through using skeletal rib-cage as a shell, given their design.
 
@@ -3783,7 +3783,7 @@ At [apocrean engines](#apocrean-engines) we have identified the `roaring like th
 
 The `quiet as a child's whisper`, while we do not have any relations to chldren yet, there might be a metaphor for Apocrea's eldritch duality as in description of obelisks: `eternal energy that is simultaneously alluring and sinister in a most grotesque manner` ([Obsidian Obelisks](https://wiki.spiralknights.com/Apocrean_Furniture)).
 
-<!--This is very important, but, so far, we may connect the roaring death to roaring engines as ones to bring about the end. Now, with introduction of the mantle, we also may conclude, that the one true voice is one of Apocrea, which is also heard from the engines due to application of word "roaring."-->
+<!--This is very important, but, so far, we may connect the roaring death to roaring engines as ones to bring about the end. Now, with introduction of the mantle, we also may conclude that the one true voice is one of Apocrea, which is also heard from the engines due to application of word "roaring."-->
 
 The quote `Speak with the one, true voice and they will listen` may be interpreted in 2 ways:
 
@@ -3803,7 +3803,7 @@ We would suggest that among aforementioned interpretations, the latter scenario 
 
 The act of devotion present in mantle's name, given `Wrap thyself in my embrace and succumb to my infinite love` likely means the complete one's surrender to Apocrea's means.
 
-The quote `my infinite love`, based on the other instances of first person, allows us to conclude, that it is Apocrea speaking and referring to itself.
+The quote `my infinite love`, based on the other instances of first person, allows us to conclude that it is Apocrea speaking and referring to itself.
 
 `Let your breath drift from you like candle smoke, dreaming deeper and deeper still` quote, then, seemingly refers to the result of this devotion. The act of smoke drifting reminds us of an idea of breath leaving the body -- death, or souls leaving the body. The act of dreaming in that regard seems supernatural, as if being possessed. In combination with smoke metaphor, we would suggest a state of possession, wherein one's soul is extracted, leaving the body without it in a state, similar to a slumber, but animated.
 
@@ -3825,7 +3825,7 @@ We will keep track of this notion of madness, as we are yet to discuss a figure 
 
 As far as those items' origins go, we have the last one -- the Obsidian Prze Box itself, as well as its [announcement](https://forums.spiralknights.com/en/node/91276): `Plucked from the depths of the Apocrean realm, Obsidian Prize boxes are almost certainly guaranteed to not induce madness upon ownership. There is literally almost no chance you will hide one deep within your family cellar and pour over its intricate, arcane craftsmanship. And opening one will not in any way unleash a terrible, ancient entity from a world of unending, dark dreams into your own. No, instead, the Obsidian Prize Box contains an assortment of unique and very rare Apocrean treasures. These ageless, undying antiquities include: ... Plus a bonus chance for even more prizes! 25% chance for all Obsidian Prize Boxes to also contain Shadow Accessories`.
 
-The origin of the box allows us to suggest with high certainty, that the obsidian sets come from Apocrean Realm, rather than being constructed in the material realm, if we assuma that the originof prize box itself matches source of its contents: `Plucked from the depths of the Apocrean realm, Obsidian Prize boxes`.
+The origin of the box allows us to suggest with high certainty that the obsidian sets come from Apocrean Realm, rather than being constructed in the material realm, if we assuma that the originof prize box itself matches source of its contents: `Plucked from the depths of the Apocrean realm, Obsidian Prize boxes`.
 
 The reveal of those items, apart from cosmic horror tropes, introduces Apocrea to material realm: `opening one will not in any way unleash a terrible, ancient entity from a world of unending, dark dreams into your own`. As here a reference goes to a single entity we can conclude it being either an aspect of Apocrea's presence or a native to Apocrean Realm being, such as Apocrean Harvester. Presence of such entity in the material realm is framed as destructive, characteristic of lovecraftian narratives, wherein presence of alien or eldritch beings is one harmful or explicitly malevelent towards humanity.
 
@@ -3851,11 +3851,11 @@ Everfrost tower brought from Underworld functions as a prison for souls. Then th
 
 Amongst those elements one thing in particular is important: `The Apocrea bend reality, twisting the environment they invade into a trap` ([Obsidian Nexus - Lost Soul](https://wiki.spiralknights.com/Shroud_of_the_Apocrea/The_Obsidian_Nexus)), -- an ability to warp reality, a more unique ability among existing ecosystem of Cradle. This ties with the prior concept of the Plateau of Leng and Grasping Plateau as connected, as both exist in an undefined state, between the dimensions or realms, including dreams.
 
-Due to those properties of Apocrean Realm, even without a propostion, where ritual circles and graviton technology were given to Underworld, we propose, that __Apocrea presents far greater longer term danger not only to Cradle, but material realm__.
+Due to those properties of Apocrean Realm, even without a propostion, where ritual circles and graviton technology were given to Underworld, we propose that __Apocrea presents far greater longer term danger not only to Cradle, but material realm__.
 
 The motivation behind Apocrea's actions suggest an essential aspect of souls to their existence or [plan](#apocreas-goal-of-negation-of-existence-part-1).
 
-This relation would mean, that souls are formed or at least arrive to material realm from a different reality, which we assume to exist given prior instance of heavenly kingdom, and more broadly, __a divine realm opposed to curretly established pantheon of Underworld and eldritch deities, if we were to follow general pattaern of a mythological narrative__. Therefor, souls are naturally unreachable for Apocrea, but souls are also likely meant to remain in Underworld or Abyss as a frozen prison at the bottom of Underworld.
+This relation would mean that souls are formed or at least arrive to material realm from a different reality, which we assume to exist given prior instance of heavenly kingdom, and more broadly, __a divine realm opposed to curretly established pantheon of Underworld and eldritch deities, if we were to follow general pattaern of a mythological narrative__. Therefor, souls are naturally unreachable for Apocrea, but souls are also likely meant to remain in Underworld or Abyss as a frozen prison at the bottom of Underworld.
 
 ##### Metaphysical Stack
 
@@ -3863,7 +3863,7 @@ It is here that we can begin to build a topology of presented realms, based on t
 
 We propose that at the very bottom of this stack it is either the Apocrean Realm, as it seemingly exists outside of a general structure -- `in the deep dark below, beyond the space where time wakens and yawns, beyond the shadows cast by the great leviathan of eternity` ([Professor Allister Danford](https://forums.spiralknights.com/en/node/91276)) with the `primordial blackness`, or 2 other candidates -- Blinding Abyss and the Void.
 
-In the [analysis of the Blinding Abyss](#perma-frostifurs-and-blinding-abyss) and its properties we came to conclusion, that it is [the frozen bottom of Underworld](#return-to-blinding-abyss-and-maulos).
+In the [analysis of the Blinding Abyss](#perma-frostifurs-and-blinding-abyss) and its properties we came to conclusion that it is [the frozen bottom of Underworld](#return-to-blinding-abyss-and-maulos).
 
 The Void, on the other hand, requires for us to analyze 3 more time periods, where in laws of this universe's cosmology are observed.
 
@@ -3885,7 +3885,7 @@ Apocrea dreams and creates into reality machines powered by souls. At the same t
 
 As Dreamlands were already mentioned as a potential inspiration behind the design of the obsidian architecture, we will touch upon the role of dreams in Yog-Sothothery:
 
-- Carter had to travel to the Dreamlands in search of the sunset city he manifested through his own act of dreaming in the past. It is suggested by Nyarlathotep, that the city was stollen in the dreamlands of Earth by the Old Gods, but this information cannot be trusted, as Carter had to cross interdimensional void to reach Sunset city.
+- Carter had to travel to the Dreamlands in search of the sunset city he manifested through his own act of dreaming in the past. It is suggested by Nyarlathotep that the city was stollen in the dreamlands of Earth by the Old Gods, but this information cannot be trusted, as Carter had to cross interdimensional void to reach Sunset city.
 - Nature of dreams under certain conditions allows transportation into other realities, traversal through those realities, higher dimensions, other physical locations, and time periods. This property of dreams is examined in the stories relating to Randolph Carter.
 
 Outside of Yog-Sothothery, but present in popular culture is the myth of _Azathoth dreaming the existence itself_ -- the reality exists as long as Azathoth sleeps.
@@ -3940,13 +3940,13 @@ The existence of 3 kingdoms, their ongoing conflict, and the aftermath are given
 
 #### Canon of "Almire's Fall"
 
-Almire's Fall lore entry [had originated on the official wiki](https://wiki.spiralknights.com/index.php?title=Firestorm_Citadel&oldid=1263), rather than forums or items' descriptions, as discovered by Spiralka-chan on the Arcade Discord server. The [edit shows](https://wiki.spiralknights.com/index.php?title=Firestorm_Citadel&oldid=1263), that the author of this story snippet is one of the core members of developers' team. We consider it as a solid proof of this entry being canon to an overarching story, but with a few caveats regarding its in-universe placement. Despite being seemingly a minor detail, we will explore it properly, as its implications of being present on the wiki open a new perspective onto capabilities and technological advancement of Spiral Order in the field.
+Almire's Fall lore entry [had originated on the official wiki](https://wiki.spiralknights.com/index.php?title=Firestorm_Citadel&oldid=1263), rather than forums or items' descriptions, as discovered by Spiralka-chan on the Arcade Discord server. The [edit shows](https://wiki.spiralknights.com/index.php?title=Firestorm_Citadel&oldid=1263) that the author of this story snippet is one of the core members of developers' team. We consider it as a solid proof of this entry being canon to an overarching story, but with a few caveats regarding its in-universe placement. Despite being seemingly a minor detail, we will explore it properly, as its implications of being present on the wiki open a new perspective onto capabilities and technological advancement of Spiral Order in the field.
 
 As the entry is present on the wiki, it marks wiki itself as present in the inner structure of Spiral Order.
 
 Most of the text on Almire so far was written by Owlites, so Almire's Fall should also be attributed to them, - it seems as a plausible explanation, given Owlites' other researches.
 
-But, on the other hand, as wiki has the same design as game's HUD, it is meant to be associated with the base game. Its design can be attributed to Spiral Order. As from player's perspective, an Isoran member of Spiral Order, access to the wiki can be considered canon, that it is accessed both from player's end, and by knight, based on the prior concept of knight's HUD following those ideas.
+But, on the other hand, as wiki has the same design as game's HUD, it is meant to be associated with the base game. Its design can be attributed to Spiral Order. As from player's perspective an Isoran member of Spiral Order, access to the wiki can be considered canon that it is accessed both from player's end, and by knight, based on the prior concept of knight's HUD following those ideas.
 
 If we would attempt to fit this snippet into Owlite tomes based on remaining texts, they would not align, suggesting them being different texts. But both texts discuss the same topic, so existence of multiple texts within Owlite civilization in regards to the kingdom is possible. Due to those factors, and the application of Forgotten Library and Eternal Study, as being researched by Spiral Order, makes source of this text being potentially taken from Owlites.
 
@@ -4031,7 +4031,7 @@ Ironwood through its name, description, and recipes, serves a strategic role as 
 
 As for the forging of ironwood, [Volcanic Plate Shield](https://wiki.spiralknights.com/Volcanic_Plate_Shield) states: `It is so resistant to high temperatures that its a mystery how exactly it was forged in the first place`, which might suggest that some skills were acquired to work with near-magical or elemental materials. Notably, it is the [flame souls](https://wiki.spiralknights.com/Flame_Soul) which are used in the alchemy of volcanic set (`A powerful essence that left behind when a creature perishes during a blind, fiery rage` - [Flame Soul](https://wiki.spiralknights.com/Flame_Soul)).
 
-Although this description does relate to a concept of rage, we believe that this is less of a connection to tortomega, but a larger universal concept of normal damage and rage being symbolically connected. Could it be, that normal-only defenses of the [Volcanic Plate Shield](https://wiki.spiralknights.com/Volcanic_Plate_Shield) compared to the elementally-resistant volcanic armor set represent this connection?
+Although this description does relate to a concept of rage, we believe that this is less of a connection to tortomega, but a larger universal concept of normal damage and rage being symbolically connected. Could it be that normal-only defenses of the [Volcanic Plate Shield](https://wiki.spiralknights.com/Volcanic_Plate_Shield) compared to the elementally-resistant volcanic armor set represent this connection?
 
 If we assume that not only ironmight set belongs to Ironmight kingdom, but also volcanic set, given their similarity in design, would Ironmight kingdom develop a skill of tempering with elemental forces to the point of discovering elemental damage and defenses?
 
@@ -4098,33 +4098,33 @@ This establishes an idea of the shadow fire being  enough to be only extinguishe
 
 As fire itself is mostly likely of Underworld origin, given our later analysis of Lord Vanaduke's affliction, does Spirit Mother's realm is framed as metaphysical opposite of Underworld? Thematically it seems so, but, this spirit realm was not encountered or mentioned in any other place across Clockworks, nor it is invulnerable to the power of curse. This makes us think, does this divine realm is known in other cultures by a different name, yet containing a similar theme of nature, purification, presence of deities, and proximity to material realm?
 
-More so, if __Nature Sprite states, that only one type of Underworldly fire can be extinguished in divine meant, would this also mean, that Spirit Mother's realm is the one Valkyries had referred as paradise__?
+More so, if __Nature Sprite states that only one type of Underworldly fire can be extinguished in divine meant, would this also mean, that Spirit Mother's realm is the one Valkyries had referred as paradise__?
 
 This seems as the strongest connection of placing this realm as one we have seen before, one, with which heavenly kingdom is closely associated, and from which the larger celestial aspect comes.
 
-The perception of the realm as one secluded to a deity of water, roots, and nature seem us as an implication of a greater hierarchy of deities. More so, as it is stated, that Underworld is known to contain many fiendish deities: `One of many statuettes carried by fiends as a means of gaining favor with their dark gods. The most valuable ones are 'MIBE' (mint in box of evil)` ([Wicked Idol](https://wiki.spiralknights.com/Wicked_Idol)), why this heavenly realm would not possess a similar pantheon?
+The perception of the realm as one secluded to a deity of water, roots, and nature seem us as an implication of a greater hierarchy of deities. More so, as it is stated that Underworld is known to contain many fiendish deities: `One of many statuettes carried by fiends as a means of gaining favor with their dark gods. The most valuable ones are 'MIBE' (mint in box of evil)` ([Wicked Idol](https://wiki.spiralknights.com/Wicked_Idol)), why this heavenly realm would not possess a similar pantheon?
 
 ###### Lesser-known Realms
 
-We do know that at least Nature Sprites outside of their realm are susceptible to curse, which makes them restrained in the material realm. They we imprisoned within the Citadel, and, given Lost Soul's framing, this had happened a long time ago: `I've heard that some kind of force of nature had once tried to right his wrongs but Lord Vanaduke imprisoned it somewhere within his fortress` ([Nameless Lost Soul of Almire](https://wiki.spiralknights.com/Lost_Soul_of_Almire_(nameless)). This does not mean, that Sprites are immortal, but it proves aforementioned belief of their vulnerability to curse as power which can influence entities of other, divine realms. On that notion of divinity, we do have to keep in mind imagery of spirals on Nature Sprites' wings.
+We do know that at least Nature Sprites outside of their realm are susceptible to curse, which makes them restrained in the material realm. They we imprisoned within the Citadel, and, given Lost Soul's framing, this had happened a long time ago: `I've heard that some kind of force of nature had once tried to right his wrongs but Lord Vanaduke imprisoned it somewhere within his fortress` ([Nameless Lost Soul of Almire](https://wiki.spiralknights.com/Lost_Soul_of_Almire_(nameless)). This does not mean that Sprites are immortal, but it proves aforementioned belief of their vulnerability to curse as power which can influence entities of other, divine realms. On that notion of divinity, we do have to keep in mind imagery of spirals on Nature Sprites' wings.
 
 This motif if vulnerability we can also see, although thematically unfitting, in the [Nameless Realm](#nameless-realm), introduced by the Chaos Cloak: `A forbidden mantle said to grant the wearer protection within the nameless realm where all elements are said to converge into one and divide into all` ([Chaos Cloak](https://wiki.spiralknights.com/Chaos_cloak)). We are reminded of it due to a special nature of this set, as one vulnerable not only to main status effects, but curse, too.
 
 Although a speculation at that point, _the fact that Nature Sprite does not name Spirit Mother's realm by a distinguished name_ may be a potential reason to be the latter being named as such, - nameless.
 
-It is important to note now, that Chaos Cloak is an Owlite armor, and considering further analysis of Owlite and their advancements in elemental magic, they regard the mantle as forbidden likely due to its connection to the Nameless Realm, which by proxy would mark the realm itself as dangerous for currently unknown reasons. Weather there is a hierarchical connection between Nameless Realm and the heavenly realm of Valkyries, we have yet to explore.
+It is important to note now that Chaos Cloak is an Owlite armor and considering further analysis of Owlite and their advancements in elemental magic, they regard the mantle as forbidden likely due to its connection to the Nameless Realm, which by proxy would mark the realm itself as dangerous for currently unknown reasons. Weather there is a hierarchical connection between Nameless Realm and the heavenly realm of Valkyries, we have yet to explore.
 
 #### Raiders and Pagan Vikings
 
 The last of 3 kingdoms remains unknown. Here we propose that the third kingdom was based on a time period of viking invasions from 8 to 11 century.
 
-We suggest this mainly due to the existence of [Raider Prize Box](https://wiki.spiralknights.com/Raiders_Prize_Box). We will attempted to analyze it in relation to Isorans with a presumption, that those items are historically accurate, that they exist in confinements of the setting according the [prior analysis of raiders](#spiral-raiders).
+We suggest this mainly due to the existence of [Raider Prize Box](https://wiki.spiralknights.com/Raiders_Prize_Box). We will attempted to analyze it in relation to Isorans with a presumption that those items are historically accurate -- that they exist in confinements of the setting according the [prior analysis of raiders](#spiral-raiders).
 
 Then there is case of total lack of any, even vague history of Isorans. Apart from them being an ancient spacefaring civilization, a period involving guns in an western theming, and of an existential war with Morai, there is no history on Isoran civilization. Due to this any equipment referencing any other less technologically advanced era should be capable of explanation. We believe, historical accuracy should be upheld here, mixed with semi-fantastic, medieval-inspired designs. At that, we should focus on one of main guiding elements of Isoran technology - [of lack of advanced damage types](#lack-of-damage-types), which are present for this ancient equipment.
 
 Due to this, a sudden release of items, relating to Isoran past, when their entire history is virtually unknown, seems odd to us, compared to the rest of items being relatively new, as modern enough for plausibility of being wielded by a spacefaring civilization.
 
-We propose, that raiding equipment, apart fom being Isoran, should fit into an established time period, which so far was not discussed. This period is the time, we suspect, was before Almire was invaded, with raiders representing the second invading kingdom.
+We propose that raiding equipment, apart fom being Isoran, should fit into an established time period, which so far was not discussed. This period is the time, we suspect, was before Almire was invaded, with raiders representing the second invading kingdom.
 
 One notion we have to also mention here, apart from a _concept of raiders not having a kingdom in the first place as going against historically accurate vikings_, is that they in later periods of time were serving as mercenaries, with their work being done even in Mediterranean Sea, albeit after their transition from paganism to Christianity. It is important as in the Raider Prize Box there are items referencing elements of their older culture.
 
@@ -4144,9 +4144,9 @@ At that, undead zombies are found across castles of heavenly kingdom, in a simil
 
 Raiders are seemingly inspired by popularized cultural perception of Vikings, which might suggest a vague time period at which we can operate as well as place the events of Almire's Fall.
 
-By presence of [Firestorm Skeggox](https://wiki.spiralknights.com/Firestorm_Skeggox) - `An ornate, fiery axe favored by raiders for its versatility`, - with an energy symbol we can confirm this inspiration and relation to Vikings.
+By presence of [Firestorm Skeggox](https://wiki.spiralknights.com/Firestorm_Skeggox) - `An ornate, fiery axe favored by raiders for its versatility`, -- with an energy symbol we can confirm this inspiration and relation to Vikings.
 
-Based on [Squall Caller](https://wiki.spiralknights.com/Squall_Caller) - `An ornate hammer infused with the power of a great storm, it's as cutting-edge as a blunt weapon can be`, - we can gather, that this period of raiding history relates to a time, to draw parallels, norse pagans,  - that is prior to their christianization and establishment of own territory to defend on the European mainland.
+Based on [Squall Caller](https://wiki.spiralknights.com/Squall_Caller): `An ornate hammer infused with the power of a great storm, it's as cutting-edge as a blunt weapon can be`, we can suggest that this period of raiding history relates to a time of norse pagans, that is prior to their christianization and establishment of own territory to defend on the European mainland.
 
 This is seems to us important, as the weapon such as Squall Caller, does resemble Mjölnir, a hammer, serving both as a weapon and a tool for thunder god Thor of Norse mythology. And potentially connection to storms of this cosmology, as elemental damage is attributed to them.
 
@@ -4162,7 +4162,7 @@ The fact that modern Spiral Order had given the Citadel such name, paralleling r
 
 Lost Souls also refer to the Citadel as such: `You stand before the gates of the Firestorm Citadel, the former heart of the great Kingdom of Almire, now a dominion twisted by fire and malice` ([King of Ashes - Blackstone Bridge - Lost Soul](https://wiki.spiralknights.com/Lost_Soul_(Blackstone_Bridge))). We consider those Lost Souls being also people of Almire due to their presence within the Citadel and hinted benevolent motives, shared between all Almirian Souls.
 
-We propose, that Raider, as their real world counterparts, __came from norse seas or regions, which allowed them to survive Lord Vanaduke's campaign from the mountains__ and _then come back to now ashen land of kingdom of Almire_ once they were defeated on the mainland.
+We propose that Raider, as their real world counterparts, __came from norse seas or regions, which allowed them to survive Lord Vanaduke's campaign from the mountains__ and _then come back to now ashen land of kingdom of Almire_ once they were defeated on the mainland.
 
 Considering many potential parallels and inspirations behind this setting we suggest that an approximate relation between kingdoms follows a pattern:
 
@@ -4210,7 +4210,7 @@ While this proposal does not completely suffice the setting of Almire, as the th
 
 As it is alchemized from Almirian Seals, it might suggest its involvement with Lord Vanaduke, albeit the same Ancient Armor does not belong to this period of time despite being acquired for Almirian Seals, as we have discussed earlier. Yet, thw sword contains Vog's supposed idea of him both granting power through fire as well as that same fire being detrimental or shadowy even.
 
-Due to this we suggest __Vog being framed as a symbolic dragon perceived by the kingdom of Almire__ though accompanying it motifs. We will see further, that presence of Vog in this period of time might be [deeper](#blackened-shrine-and-magma-deity) than the mountain shrine alone Lord Vanaduke will find.
+Due to this we suggest __Vog being framed as a symbolic dragon perceived by the kingdom of Almire__ though accompanying it motifs. We will see further that presence of Vog in this period of time might be [deeper](#blackened-shrine-and-magma-deity) than the mountain shrine alone Lord Vanaduke will find.
 
 #### King in The Mountain
 
@@ -4255,7 +4255,7 @@ The design of fanatics' gear is reminiscent of celestial gear of ancient Isorans
 
 As for the general theme, as we covered [fiendish cults](#fiendish-cults), we suggest __magmatic fanatics relating to the Magma Deity, and here we can conclude, that this deity's name is Vog__.
 
-It was established, that Vog is not a wolver, but the effects of this deity's power affect all living entities in the similar manner - this includes both Lord Vanaduke's transformation, [magmatic fanatics](https://wiki.spiralknights.com/Magmatic_Fanatic_Mail#Magmatic_Fanatic_Mail) and [vog cubs](https://wiki.spiralknights.com/Vog_Cub#Vog_Cub), and the equipment made of the latter, [Vog Cub Set](https://wiki.spiralknights.com/Vog_Cub_Coat). This set, compared to volcanic armor, has distinct design, identical to all of other manifestations of Vog's influence.
+It was established that Vog is not a wolver, but the effects of this deity's power affect all living entities in the similar manner - this includes both Lord Vanaduke's transformation, [magmatic fanatics](https://wiki.spiralknights.com/Magmatic_Fanatic_Mail#Magmatic_Fanatic_Mail) and [vog cubs](https://wiki.spiralknights.com/Vog_Cub#Vog_Cub), and the equipment made of the latter, [Vog Cub Set](https://wiki.spiralknights.com/Vog_Cub_Coat). This set, compared to volcanic armor, has distinct design, identical to all of other manifestations of Vog's influence.
 
 Lord Vanaduke resembles a fiery giant, while the rest of Almirians - Crusaders, Carnavons, and likely Royal Guards, are much less smaller in comparison. The case of guards being far larger than any Isoran can be resolved through an idea of them being skeletal figures, which in folklore and modern fiction are known to possess this property through their assembly and disassembly. We will discuss this concept further in the analysis of [Undead Dreadnoughts](#undead-dreadnoughts).
 
@@ -4269,7 +4269,7 @@ Finally, the [Vog slippers](https://wiki.spiralknights.com/File:Vog_Slippers-Equ
 
 It is important to note that the heavenly kingdom is located above magma-covered mountains: `A helm worm by heavenly guardians who watch over a kingdom hidden atop a magma-covered mountain` ([Raging Avenger Helm](https://wiki.spiralknights.com/Raging_Avenger_Helm)). Does this mean that the mountain in question is the same one the blackened shrine is located?
 
-Throughout Almire's war with neighboring kingdoms, Valkyries of heavenly kingdom had remained uninvolved, given lack of any their presence. They did not intervene with the war, but, we suggest, that at some point, with the introduction of fiendish magic, they had to take measures. Those measure eventually resulted in the banishment of Legion of Ur into the Underworld. We bring up them here due to a later event of Lord Vanaduke returning from the mountains with a fiendish army.
+Throughout Almire's war with neighboring kingdoms, Valkyries of heavenly kingdom had remained uninvolved, given lack of any their presence. They did not intervene with the war, but, we suggest that at some point, with the introduction of fiendish magic, they had to take measures. Those measure eventually resulted in the banishment of Legion of Ur into the Underworld. We bring up them here due to a later event of Lord Vanaduke returning from the mountains with a fiendish army.
 
 We can reason why valkyries haven't intervene, as in case of Undercorp's erasure of Titans, and a plausible explanation could be one where events of this chapter had happened on a remote planet, separate from heavenly kingdom. But, there is existence of Owlites, who had surpassed valkyrian divine magic, and studied the kingdom of Almire - which would seem  unfitting be both Owlites alive already on Cradle.
 
@@ -4286,7 +4286,7 @@ Not only it is located in the volcanic mountain, enshrining Kamuatatsu-hime - go
 
 This concept of a deity or a guardian is similar to Isoran myth of an Oni in the mountains: `Designed to frighten their enemies, this helm is in the visage of a fiend who lives in the mountains of a distant land. Said to guard the gate to heaven itself, it only allows those who are worthy to pass` ([Oni Helm](https://wiki.spiralknights.com/Oni_Helm)). This seems to us a very strong parallel to the perceived through retellings legend, due to which Lord Vanaduke departed into the mountains in the first place: `Going mad from the pressure, he fled from the citadel and vanished into the mountains, vowing that he would one day reclaim his throne. Leaving behind his family, his people, and his homeland, Vanaduke journeyed into the mountains to the east, driven by superstitious tales of ancient gods within their dark depths. He tirelessly searched the mountains for many years, no longer the man he was before, but a mad hermit` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)).
 
-It seems plausible to us, that Almire, while it held power over land, and as it developed, __it unearthed the volcanic iron and flame souls deep in the mountains__. And, by being a medieval kingdom, one potentially aware of other realms, at least of Spirit Mother's realm, it is _plausible for it eventually to discover Underworld in the generally similar manner as Tortomega once did_.
+It seems plausible to us that Almire, while it held power over land, and as it developed, __it unearthed the volcanic iron and flame souls deep in the mountains__. And, by being a medieval kingdom, one potentially aware of other realms, at least of Spirit Mother's realm, it is _plausible for it eventually to discover Underworld in the generally similar manner as Tortomega once did_.
 
 Through those discoveries, kept within the mountain, armor was made, forged from the volcanic iron. And, at the same time a __connection with Vog was established in the mountain, which can explain presence of both Blackened Shrine and Magma Fanatics__.
 
@@ -4296,9 +4296,9 @@ We can also suggest that near this time an unknown Vile fiendish entity was foun
 
 While being mainly a speculation, it proposes an explanation for this similarity as follows: _as Almire was at war, it can be plausible for the people of Almire to search for far more drastic measures_, and, as discussed in the [graveyards section](#graveyards), eventually someone would attempt to tap into the occult. A contact with the Underworld would be established, discovering the Vile Deity.
 
-This seems more possible if we take in consideration, that _Lord Vanaduke had originally sought after the mountains due to a legend or a tale_: `Vanaduke journeyed into the mountains to the east, driven by superstitious tales of ancient gods within their dark depths.` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)). In that proposal, graveyards did remain the same, but the occult practices around them were now present.
+This seems more possible if we take in consideration that _Lord Vanaduke had originally sought after the mountains due to a legend or a tale_: `Vanaduke journeyed into the mountains to the east, driven by superstitious tales of ancient gods within their dark depths.` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)). In that proposal, graveyards did remain the same, but the occult practices around them were now present.
 
-The graveyards are present as the [necropolis grounds](https://wiki.spiralknights.com/Legion_of_Almire/Necropolis_Grounds) where Almirian army was buried and contain [Almirian tombs](https://wiki.spiralknights.com/File:Scenario_Room-Graveyard_1.png), _we can conclude, that graveyards belong to the kingdom of Almire_. Both the necropolis and tombs we can find lingering, seemingly devilite activity:
+The graveyards are present as the [necropolis grounds](https://wiki.spiralknights.com/Legion_of_Almire/Necropolis_Grounds) where Almirian army was buried and contain [Almirian tombs](https://wiki.spiralknights.com/File:Scenario_Room-Graveyard_1.png), _we can conclude that graveyards belong to the kingdom of Almire_. Both the necropolis and tombs we can find lingering, seemingly devilite activity:
 
 - Near the necropolis have an occasional [Almirian tomb](https://wiki.spiralknights.com/File:Scenario_Room-Graveyard_variant.jpg) is found empty with shadow fires still burning in presence of cursed warrior.
 - In the necropolis, Devilite sigils and shadow fires are present near the tombs in the final arena of the [Necropolis Grounds](https://wiki.spiralknights.com/Legion_of_Almire/Necropolis_Grounds).
@@ -4313,9 +4313,9 @@ It is stated that Lord Vanaduke had returned from the mountains with a fiendish 
 
 _The one army that seems to be otherworldly and made up of fiends is the Legion of Ur_. Moreover, we find trojans across the Firestorm Citadel. But, how do they fit to the established timeline? Did Spiral Order take Legion of Ur as inspiration and a design for spiral wardens? There are many links to them starting to pile up from previous chapters of our analysis. In this section and discussion, we intend to understand them.
 
-In the previous section [we concluded](#blackened-shrine-and-magma-deity), that __fire deity Vog is the Magma Deity, he has his cult and a shrine within the mountain under reign of Almire__. Due to looming themes of fire over nature and water-themed Almire, we suggested, that volcanic iron as well as volcanic, plated armor was of Almire's design, contributing to its military power, - tied to the inner workings of the kingdom and application of mountain's heat. There, in the depths of the mountain, the deity would be found.
+In the previous section [we concluded](#blackened-shrine-and-magma-deity) that __fire deity Vog is the Magma Deity, he has his cult and a shrine within the mountain under reign of Almire__. Due to looming themes of fire over nature and water-themed Almire, we suggested that volcanic iron as well as volcanic, plated armor was of Almire's design, contributing to its military power, -- tied to the inner workings of the kingdom and application of mountain's heat. There, in the depths of the mountain, the deity would be found.
 
-And, through this connection to the Underworld, we considered it a fiend inhabiting the Underworld, in the similar manner to the earlier introduced notions of Hail and Vile Deities. We have also discussed, that this fiendish army, which had accompanied Lord Vanaduke in his return, did emerge from the erupting fires of the mountain, reminiscent of a volcano, and, as mentioned, city of Pompeii. There, as Lord Vanaduke was last known to sink into [shrine's ash](#blackened-shrine-and-magma-deity), we proposed, that its floor of coals was a portal to Underworld, from which eventually a fiendish army would emerge.
+And, through this connection to the Underworld, we considered it a fiend inhabiting the Underworld, in the similar manner to the earlier introduced notions of Hail and Vile Deities. We have also discussed that this fiendish army, which had accompanied Lord Vanaduke in his return, did emerge from the erupting fires of the mountain, reminiscent of a volcano, and, as mentioned, city of Pompeii. There, as Lord Vanaduke was last known to sink into [shrine's ash](#blackened-shrine-and-magma-deity), we proposed that its floor of coals was a portal to Underworld, from which eventually a fiendish army would emerge.
 
 Lord Vanaduke is not Undead, given his cursed state, but a fiend-like entity seemingly animated by curse, which, considering presence of shadow damage and undead animated by his powers, is not native to the material realm.
 
@@ -4335,7 +4335,7 @@ We suggest that at some point in time, Vanaduke had a conflict with heavenly kin
 
 This hypothesis may be also hinted by a specific wording in the monster codex - kingdom of Almire is referred by the monster codex of Lord Vanaduke in his Throne Room, as an Empire: `Little is known about the eternal Duke of the Almirian Empire.` ([Monstrous Codex: Lord Vanaduke](https://wiki.spiralknights.com/Vanaduke#About)).
 
-Could it be, that the kingdom of Almire did become an empire the size of the 3 warring kingdoms after Lord Vanaduke destroyed their armies - it was stated in the text of Almire's Fall - `It was ruled by a young and determined king known as Lord Vanaduke, and, despite its small size, Almire was recognized as a powerful nation for its military tradition and disciplined armies` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall))?
+Could it be that the kingdom of Almire did become an empire the size of the 3 warring kingdoms after Lord Vanaduke destroyed their armies -- it was stated in the text of Almire's Fall, -- `It was ruled by a young and determined king known as Lord Vanaduke, and, despite its small size, Almire was recognized as a powerful nation for its military tradition and disciplined armies` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall))?
 
 At the same time the reference to Almire as an Empire only once could be an oversight. The possibility of this being an oversight may be also affirmed by the fact Lord Vanaduke had returned to the citadel: `With nothing left to destroy, his legions left him and returned to the mountains, leaving the king to sit in his throne of ash and cinder, all the people of Almire dead around him. There the cursed king has remained since, ruling a burning kingdom from an ashen throne` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)).
 
@@ -4395,7 +4395,7 @@ Cold hearts are generally accepted as as [unfeeling or uncaring, "cold-hearted"]
 
 _The poisoned minds are more nuanced_, it is not a singular mind, which in that case would mean Arkus, but it refers to the _entire legion_, and maybe, the way it affects Arkus, too, - by poisoning his mind as rest of trojans. In case of legionnaires - who is the perpetrator of this plot, if we to read it literally?
 
-Considering presence of devilites, similar to how they were found in the [Gauntlet during Shock and Awe](https://wiki.spiralknights.com/Gauntlet#Gate_Map), as well inside the [penultimate arena during Last Stand](https://wiki.spiralknights.com/The_Gauntlet/Last_Stand), could it be, that devilites are indeed involved in the creation of the Legion?
+Considering presence of devilites, similar to how they were found in the [Gauntlet during Shock and Awe](https://wiki.spiralknights.com/Gauntlet#Gate_Map), as well inside the [penultimate arena during Last Stand](https://wiki.spiralknights.com/The_Gauntlet/Last_Stand), could it be that devilites are indeed involved in the creation of the Legion?
 
 We believe that is true, - _devilites are involved in the creation of the Legion of Ur_, but how? Considering that there is no other party powerful enough to perform such feats in relation to curses and haunting.
 
@@ -4403,7 +4403,7 @@ Given [Crest of Ur](https://wiki.spiralknights.com/Crest_of_Ur) description - `A
 
 Notably, __one who hold the crest, hears drums. The same phenomenon was mentioned during Almire's Fall__: `The image burned into his eyes and brain like cinders, and contained that which sounded like the screaming of foreign tongues and war drums` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)).
 
-Could it be, that _the same fiendish transformation had taken place for whoever were to become trojans_?
+Could it be that _the same fiendish transformation had taken place for whoever were to become trojans_?
 
 ##### Haunting
 
@@ -4458,7 +4458,7 @@ In continuation of the theme of silence, the [Silent Nightblade](https://wiki.sp
 
 </BookCitation>
 
-The shadow damage itself, it is stated by [Spiral Order biotech Hahn](https://wiki.spiralknights.com/Hahn), that `shadow damage is generally caused by concentrations of negative energy. Attacks that inflict shadow damage include anything from the psychic manipulation of the aforementioned negative energy to physical attacks using weapons forged from dark matter` ([The Shadow Knows - Hahn](https://wiki.spiralknights.com/The_Shadow_Knows)).
+The shadow damage itself, it is stated by [Spiral Order biotech Hahn](https://wiki.spiralknights.com/Hahn) that `shadow damage is generally caused by concentrations of negative energy. Attacks that inflict shadow damage include anything from the psychic manipulation of the aforementioned negative energy to physical attacks using weapons forged from dark matter` ([The Shadow Knows - Hahn](https://wiki.spiralknights.com/The_Shadow_Knows)).
 
 This property is similar to effects of dark matter-alchemized weapons, connecting the two. Considering the unreliability of Arkus as a narrator, it may seem unknown weather Arkus is haunted by the souls of his squad or is driven mad by the presence of dark matter, as there are no definitive evidence for the prior, and no cases of souls or spirits haunting living Isorans. Yet we can't deny the fact that spirits do return to material realm across Clockworks, and their effects on the material realm are rather vague, as well as they were seen in the material realm in such cases as Lost Souls during Shroud of Apocrea.
 
@@ -4496,7 +4496,7 @@ What their name means, symbolically? In a same manner as howlitzer are reminisce
 
 We had suggested an inspiration behind greavers' design being moths. Apart from a similar shape and wing patterns, they play a significant role in greek mythology. Moths were believed to be carriers or be guidance for souls. Apart from it, Arkus's fight is one of a few instance of a text or Spiral Knight narrating over the events: `An intense sadness radiates from his fallen form. His eys fade and a darkness washes over him. Arkus is lost.` ([Arkus - inspection](https://wiki.spiralknights.com/Arkus)).
 
-Could it be, that during Arkus's fight in the Cryptic Statuary greavers serve role of a soul being departed? Moreover, considering all of the known logic and manipulation of souls, could it be that we have witnessed __Underworld's method of capturing souls__, paralleling Apocrean Harvester, as both are insect-like creatures?
+Could it be that during Arkus's fight in the Cryptic Statuary greavers serve role of a soul being departed? Moreover, considering all of the known logic and manipulation of souls, could it be that we have witnessed __Underworld's method of capturing souls__, paralleling Apocrean Harvester, as both are insect-like creatures?
 
 #### Minerals and Souls: Part 3 - Mineral Charge
 
@@ -4508,13 +4508,13 @@ __This property of burning after a revive in mineral, we propose, is the depicti
 
 Revising tortofists' ammo, there is potentially only other one instance of charged Dark Matter -- the bullets of [Gorgofist](https://wiki.spiralknights.com/Gorgofist). In that case the crystals are the same color as pillars, but they have bright purple pulsing glow as the rest of tortofists' ammo.
 
-Throughout [Minerals and Souls](#minerals-and-souls-part-1), [Auras and Souls](#auras-and-souls), and [Apocrean Engines](#apocrean-engines) we had suggested, that __minerals under unknown conditions could contain Energy-based charge__.
+Throughout [Minerals and Souls](#minerals-and-souls-part-1), [Auras and Souls](#auras-and-souls), and [Apocrean Engines](#apocrean-engines) we had suggested that __minerals under unknown conditions could contain Energy-based charge__.
 
 The Energy here being the medium for souls to exist in and through, and a link for the fuel of [Apocrean Engines](#apocrean-engines) under condition of being captured by the latter. That energy is contained in minerals as charge, one used to power Clockwork Gates, as suggested by Vaelyn's team technician: `We need to analyze how mineral power affects the Core. The problem is that very little power reaches down to these depths. We can gather so much data from each gate as it launches`. Although, this dialogue could potentially refer to an old method of gate construction, as it had remained unchanged after rework of energy system. But since the dialogue is in the game, and talks about gate launches themselves, we may also suggest a role of energy here being used as-is -- an important component not intended to be removed as it sheds light on the physics of minerals.
 
 As no souls exit minerals, unlike everfrost, it is likely that it is rather a different form of energy contained within those minerals.
 
-As mineral pillars are explicitly placed and stored across Clockworks, we can potentially suggest, that those are in the depleted state. It is then a question of why gremlins had to store specifically depleted mineral?
+As mineral pillars are explicitly placed and stored across Clockworks, we can potentially suggest that those are in the depleted state. It is then a question of why gremlins had to store specifically depleted mineral?
 
 There is presence of dark matter in a more raw formations such as [across dark cities](https://wiki.spiralknights.com/File:Area-Devilish_Drudgery-Scenario_Room5A.png), and around tortodrone-themed arenas. On the other hand, those could be shards of tortodrone missiles in a more cinematic perspective. Lastly, given those minerals are also observed in the arenas as being hidden behind Misery Blocks, we may propose that it is the most natural state dark matter is found in - in large chunks of mineral compared to the mineral pillars.
 
@@ -4551,7 +4551,7 @@ All of those patterns seem to point a specificity of Dark Matter and by extensio
 
 To reiterate on [Minerals and Souls part 1 conclusion](#minerals-and-souls-part-1), those properties emerging from a connection to dark matter seem as one of arguments to energy in some capacity being contained in minerals. But then, this _leads to questioning if everfrost is a subtype of moonstone_, be it Underworld counterpart, or a changed by souls of Blinding Abyss moonstone? This currently is unknown, but plausible. As it is _capable of growing from Maulos's ribcage_, we have to point out the nature of Darkfire Lord Vanaduke's and Carnavon's __claws -- made of dark matter, as if transformed__.
 
-Could it be, that __dark matter shard on trojans backs is a symptom, rather than a reason for their condition__?
+Could it be that __dark matter shard on trojans backs is a symptom, rather than a reason for their condition__?
 
 Those aspects of both presence of dark matter and curse will be iterated upon in our [final analysis of curse](#intermission-analysis-of-curse).
 
@@ -4567,7 +4567,7 @@ Trojans were _sealed in the Underworld and then summoned_, and _Maulos is summon
 
 Slag Walkers, and the rest of Almire's legion were scorched by shadow fires of Lord Vanaduke, as he returned from the mountains. _This does not explicitly mean death_, as souls of Almirians remain trapped - more about it now.
 
-In that sense, we suggest, that presence of fiery souls after Firestorm Citadel' was partially cleansed by the waters from [Spirit Mother's Realm](#spirit-mothers-realm) and Vanaduke's defeat, may reveal that _they were trapped in a corporeal form of perished or ashen Almirians_, in a similar manner as Lord Vanaduke is described by the [Lost Soul of Almire](https://wiki.spiralknights.com/Lost_Soul_of_Almire_(nameless)): `Lord Vanaduke rules over the citadel now. His soul bound to some horrific armored prison. ... Allow the souls he keeps bound to this world a chance to return` ([Alone in The Dark - Lost Souls of Almire](https://wiki.spiralknights.com/Lost_Soul_of_Almire_(nameless)#Dialogue)). __That it is not the metaphysic of Cradle, which do not permit his soul to leave, but the curse itself__.
+In that sense we suggest that presence of fiery souls after Firestorm Citadel' was partially cleansed by the waters from [Spirit Mother's Realm](#spirit-mothers-realm) and Vanaduke's defeat may reveal that _they were trapped in a corporeal form of perished or ashen Almirians_ in a similar manner as Lord Vanaduke is described by the [Lost Soul of Almire](https://wiki.spiralknights.com/Lost_Soul_of_Almire_(nameless)): `Lord Vanaduke rules over the citadel now. His soul bound to some horrific armored prison. ... Allow the souls he keeps bound to this world a chance to return` ([Alone in The Dark - Lost Souls of Almire](https://wiki.spiralknights.com/Lost_Soul_of_Almire_(nameless)#Dialogue)). __That it is not the metaphysic of Cradle, which do not permit his soul to leave, but the curse itself__.
 
 Souls are bound to the citadel, which burns as long as Lord Vanaduke is alive. The quote `His soul bound to some horrific armored prison` here, we believe, has 2 interpretations:
 
@@ -4608,7 +4608,7 @@ At that, the purple chains seen to encircle freed souls within the Grasping Plat
 
 #### Arkus
 
-Could it be, that only death causes loss of consciousness given nature of zombies and Lost Souls? But in case of Arkus, Lord Vanaduke, and potentially Maulos, _they preserve it_, despite going mad or delirious.
+Could it be that only death causes loss of consciousness given nature of zombies and Lost Souls? But in case of Arkus, Lord Vanaduke, and potentially Maulos, _they preserve it_, despite going mad or delirious.
 
 This connects to each individuals' powers, as Arkus, despite being partially a trojan and a fiend, has orbiting dark orbs, similar to Vanaduke - in both cases demonstrating magic rarely seen in the wild.
 
@@ -4681,7 +4681,7 @@ For this, we will need to look into a different period of time, preceding Almire
 
 While we will not touch upon [the canon of Shadow Lairs](#shadow-lairs), what important now is to analyze nature of Darkfire, as it is associated to the most cursed location currently, be it regular Firestorm Citadel or Shadow Firestorm Citadel. We will attempt to find connections to the metaphysics of souls and minerals, and specifically _nature of curses in material realm_.
 
-It is stated that Darkfire Lord Vanaduke became such, - a distinct entity from Lord Vanaduke, due to an unknown powerful curse falling onto the firestorm citadel: `A powerful curse has overtaken the Firestorm Citadel, transforming its hordes and lead by the mighty Darkfire Lord Vanaduke!` ([Release Notes: 2011.10.19](https://wiki.spiralknights.com/Release_Notes_2011-10-19)). This curse is manifested most prominently in the different transformation of Lord Vanaduke, pink glow of volcanic chamber, and presence of Carnavons, and all are affected by the curse. Does this mean, that Darkfire Lord Vanaduke or darkfire in general is created through Vog's curse, followed by a different, more widespread and present curse, associated with the curse status effect?
+It is stated that Darkfire Lord Vanaduke became such, - a distinct entity from Lord Vanaduke, due to an unknown powerful curse falling onto the firestorm citadel: `A powerful curse has overtaken the Firestorm Citadel, transforming its hordes and lead by the mighty Darkfire Lord Vanaduke!` ([Release Notes: 2011.10.19](https://wiki.spiralknights.com/Release_Notes_2011-10-19)). This curse is manifested most prominently in the different transformation of Lord Vanaduke, pink glow of volcanic chamber, and presence of Carnavons, and all are affected by the curse. Does this mean that Darkfire Lord Vanaduke or darkfire in general is created through Vog's curse, followed by a different, more widespread and present curse associated with the curse status effect?
 
 Carnavons in that matter serve as a link of this curse being the same as one taking effects on Isorans in the form of the curse status effect, _even possessing a crudely drawn sigil of the same color on their blackened crests_.
 
@@ -4701,11 +4701,11 @@ Due to those factors, as well as unknown canonicity of Shadow Firestorm Citadel,
 
 These factors make us think of Vog's curse being still unfamiliar to Spiral Order, only seen experienced directly through the properties of [Fang of Vog](https://wiki.spiralknights.com/Fang_of_Vog), while curse status effect represents a greater Curse, a more widespread and afflicting Spiral Knights as a game mechanic. Both have a distinct, cracked or shattered design on the afflicted entities, be it equipment or creatures.
 
-In this distinction, we may suggest for now, that _there are 2 curses - one of fire of Vog, and the other of the same nature as seen outside of the Citadel_. Both of those curses originate from the Underworld and are capable of trapping or binding souls and inflict undeath onto creatures of material realm, a form of cursed immortality, as in earlier instances of this phenomenon.
+In this distinction, we may suggest for now that _there are 2 curses - one of fire of Vog, and the other of the same nature as seen outside of the Citadel_. Both of those curses originate from the Underworld and are capable of trapping or binding souls and inflict undeath onto creatures of material realm, a form of cursed immortality, as in earlier instances of this phenomenon.
 
 This can be further affirmed by the description of Citadel being cursed, __as if the curse was applied externally__, rather than an emergent property of the prior. This fits with the design of Carnavons, as _they have a crudely drawn curse symbol drawn on their Blackened Crest_ - __someone had to draw it__. But, it is unknown weather this mark and the dread seal is the source of curse, or even their general role. We are yet to cover them in the context of Black Kats and Kat Tribe.
 
-Then, by the fact of Citadel being cursed, we can suggest, that Slag Walkers became Carnavons through this curse, and, as both wear armor, we have previously attributed both to the Almirian army.
+Then, by the fact of Citadel being cursed, we can suggest that Slag Walkers became Carnavons through this curse and, as both wear armor, we had previously attributed both to the Almirian army.
 
 Not all members of legion of Almire are burning in darkfire, leaving crusaders and royal guards as ones transformed through Lord Vanaduke's initial arrival from the mountains, as they retain their color scheme.
 
@@ -4726,7 +4726,7 @@ This leaves us with 2 initial proposals:
 
     This orb of fire, as far as curse color-coded fire allows, could be a distinct presence of curse, separate from dark embers, which are explicitly purple, but thematically fitting to reddish color of curse [found prior in the collapsed grim gates](#grim-gates-portal-collapse).
 
-It is also important to note, that Dark Ember, being the boss trophy, was added [after](https://wiki.spiralknights.com/Release_Notes_2012-12-12) [introduction](https://wiki.spiralknights.com/Release_Notes_2011-10-19) of Shadow Lairs, with nearly a year of a gap. So far we will only hold onto this information until [reaching analysis of Shadow Lairs](#shadow-lairs).
+It is also important to note that Dark Ember, being a boss trophy, was added [after](https://wiki.spiralknights.com/Release_Notes_2012-12-12) [introduction](https://wiki.spiralknights.com/Release_Notes_2011-10-19) of Shadow Lairs, with nearly a year of a gap. So far we will only hold onto this information until [reaching analysis of Shadow Lairs](#shadow-lairs).
 
 Considering many instances of unreliable narrations so far, even with cases such as Nameless Realm, while is named once, darkfire, due to Vanaduke's mask argument and existence of Darkfire Lord Vanaduke, darkfire seems to us as a distinct phenomenon, attributed to dark embers. And, as latter are specified as `A mote of burning energy salvaged from Lord Vanaduke's throne room. It slowly smolders with a sinister intensity, creating an almost hypnotic trance when gazed upon for any length of time` ([Dark Ember](https://wiki.spiralknights.com/Dark_Ember)), we have to look into the canon of the events involving traversal of [Shadow Firestorm Citadel](#true-citadel-of-almirian-empire).
 
@@ -4759,7 +4759,7 @@ Trojan's [Baleful Aura](https://wiki.spiralknights.com/Baleful_Aura#Baleful_Aura
 
 Lastly, there the [Warden Armor](https://wiki.spiralknights.com/Warden_Armor) in its design, chestpiece specifically, is identical to the redwood chestpiece design of tier 1 trojans.
 
-Considering so far all of those aspects, we believe, that a long time ago, __Spiral Wardens were transformed into trojans of the Legion of Ur__ before even Skylark and Iron Hulk crash landed on Cradle. This time would precede Almire, as Lord Vanaduke had to return with this legion, but not after the it would be sealed in the Underworld by Valkyries. The transformation, which had to happen then, could potentially be similar to one Arkus has to go through, as he already identified as a fiend.
+Considering so far all of those aspects, we believe that a long time ago, __Spiral Wardens were transformed into trojans of the Legion of Ur__ before even Skylark and Iron Hulk crash landed on Cradle. This time would precede Almire, as Lord Vanaduke had to return with this legion, but not after the it would be sealed in the Underworld by Valkyries. The transformation, which had to happen then, could potentially be similar to one Arkus has to go through, as he already identified as a fiend.
 
 As mentioned earlier, we will make the second iteration of this concept, as we approach Shadow Lairs.
 
@@ -4780,7 +4780,7 @@ Compared to trojans, on defeat, Vanaduke's body completely burns up, with only h
 - `The sinister mask formerly worn by Vanaduke, Lord of the Firestorm Citadel. its far too big for a knight to wear` ([Vanaduke's Mask](https://wiki.spiralknights.com/Lord_Vanaduke%27s_Mask)). It is alchemized with the usage of [Soul Dust](https://wiki.spiralknights.com/Soul_Dust): `The dust of the departed. Whether it still retains any shred of a soul remains to be seen`.
 - `An artistic arrangement of Lord Vanaduke's mask, armor and scepter. It represents the folly of greed, the agony of despair, and how awesome fire and spikes look together` ([Finery](https://wiki.spiralknights.com/Lord_Vanaduke%27s_Finery)).
 
-Mask's description suggests that it was taken of the Lord after the events of the King of Ashes: `The sinister mask formerly worn by Vanaduke, Lord of the Firestorm Citadel. its far too big for a knight to wear` ([Lord Vanaduke's Mask](https://wiki.spiralknights.com/Lord_Vanaduke's_Mask)). Based on this, we lean to an explanation, that in canon timeline, __Lord Vanaduke's mask was salvaged__. We also suggest, as his scepter remains after death, the finery was also taken from the Citadel, despite it burning up in the mission. As for the resourced required to alchemize the mask, they do expand on the state of the mask itself. More so, compared to most of the roster of [Armero Alchemy Machine](https://wiki.spiralknights.com/Armero_Alchemy_Machine), Almire's furniture is not said to be replicated:
+Mask's description suggests that it was taken of the Lord after the events of the King of Ashes: `The sinister mask formerly worn by Vanaduke, Lord of the Firestorm Citadel. its far too big for a knight to wear` ([Lord Vanaduke's Mask](https://wiki.spiralknights.com/Lord_Vanaduke's_Mask)). Based on this, we lean to an explanation that in canon timeline __Lord Vanaduke's mask was salvaged__. We also suggest, as his scepter remains after death, the finery was also taken from the Citadel, despite it burning up in the mission. As for the resourced required to alchemize the mask, they do expand on the state of the mask itself. More so, compared to most of the roster of [Armero Alchemy Machine](https://wiki.spiralknights.com/Armero_Alchemy_Machine), Almire's furniture is not said to be replicated:
 
 - `A magnificently preserved royal seal of the lost kingdom of Almire. It probably belongs in a museum` ([Almirian Seal](https://wiki.spiralknights.com/Almirian_Seal_(Furniture))).
 - `A jolly piece of jewelry formerly borne by the Royal Jelly himself. It is jauntily perched on a gelatinous pillow` ([Royal Jelly Crown](https://wiki.spiralknights.com/Royal_Jelly_Crown_(Furniture))).
