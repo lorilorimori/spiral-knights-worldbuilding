@@ -3703,6 +3703,33 @@ With this, to an established landscape of Apocrean Realm we add a concept of a n
 
 Despite this seeming difference, as we had a _notion of energy in different variants being central to other narratives_, presence of _color purple_ both within finite structure of colored lines and as more abstract presence within the obelisks, we would __identify eternal energy as the universal Energy__. Within this identification, Apocrea's need for souls would be explained by them being a specific -- sentient, -- configuration of tha energy, as a container.
 
+##### Apocrean Engines
+
+If we strip away other context of Danford's speech, the engines are presented as ends for means of collecting souls: `Within cities where geometry and madness share meaning, constructed from thought, from unnatural impulse, the Apocrea dream dark machines into being. Only souls keep these engines roaring, heard screaming across distant stars. Only souls can fill their void, sublime in its vast emptiness. ... All of them mere crops against their relentless scythe! ...  The daylight, the starlight; all hope is merely waiting for their dark shroud to return this cosmic play to its primordial black. Dear heavens! The stars grin down with lustful intent! It is an abomination, an embodiment of sublime beauty, dark and blooded! I weep and laugh before the shroud that waits!`.
+
+Apocrea is located within the cities. Here we recall idea of an Apocrean obsidian city being parallel to onyx castle on top of Kadath in the dreamlands -- a dvelling of Great Ones, gods of Earth.
+
+The quote `geometry and madness share meaning` suggests a concept of madness being reflected in an eldritch geometry or topology of Apocrean architecture, which might result in the unexplicable nature of, for example, Perplexing Element. So far we were considering Obsidian Nexus being an instance of the city's architecture, due to its defined design. And through its depiction we have previously arrived to the idea of Kadath. If we follow those parallels further, as well as add up to them concept of `constructed from thought, from unnatural impulse`, we arrive to the idea of cities being manifested by Apocrea's will. This idea contradicts the physical construction process of cities, as suggested by the [Binding Essence](https://wiki.spiralknights.com/Binding_Essence): `A strange, vile reagent thought to be harnessed by the Apocrea to build their structures`, unless this process consists of multiple steps. Then, the act of `constructed from thought, from unnatural impulse` can  beapplied to act of dreaming `dark machines into being`.
+
+Through `Apocrea dream dark machines into being` we can then propose physicality of those machines. `Only souls keep these engines roaring, heard screaming across distant stars. Only souls can fill their void, sublime in its vast emptiness` states, that __souls are the fuel of those machines__, labeling them engines. The act of roaring so far was attributed to engines specifically, rather than souls, so we can conclude, that its is those engines are being heard as `screaming across distant stars`, which would establish their physical presence.
+
+Role of a metaphorical void, a negation of existence, also emerges here in reference to engines' volume:
+
+- `Only souls keep these engines roaring, heard screaming across distant stars. Only souls can fill their void, sublime in its vast emptiness` ([Professor Allister Danford](https://forums.spiralknights.com/en/node/91276)).
+- `The daylight, the starlight; all hope is merely waiting for their [Apocrea's] dark shroud to return this cosmic play to its primordial black. Dear heavens! The stars grin down with lustful intent! It is an abomination, an embodiment of sublime beauty, dark and blooded! I weep and laugh before the shroud that waits!` ([Professor Allister Danford](https://forums.spiralknights.com/en/node/91276)).
+
+As Apocrean Realm was manifestated in the Town Square, it is unlikely, that the primordial black was observed at that point. Nor its name suggests it possessing color, so the eternal energy remains linked to the specifically Apocrean Realm, as one of the components to its nature.
+
+Then, what is the purpose of the engines? If we reconsider `The daylight, the starlight; all hope is merely waiting for their [Apocrea's] dark shroud to return this cosmic play to its primordial black` ([Professor Allister Danford](https://forums.spiralknights.com/en/node/91276)), then the engines provide the means to bring reality into the primordial black.
+
+We can further suggest their importance due to being a single defined goal of collecting souls in the first place. _This motive as one seemingly kept in secrecy_, as it is further hinted by a Lost Soul within the Nexus: `a terrible legion of otherworldly phantasms whose only ambition seems to be trapping and devouring the souls of all life. ... The Apocrea bend reality, twisting the environment they invade into a trap. In these traps they stalk any life, harvesting their souls for some unimaginable purpose` ([Shroud of Apocrea - Obsidian Nexus - Lost Soul](https://wiki.spiralknights.com/Obsidian_Nexus)).
+
+This leads us to the idea of roaring death of the world -- `'Speak with the one, true voice and they will listen. Quiet as a child's whisper, roaring like the death of this world'` ([Obsidian Mantle of Influence](https://wiki.spiralknights.com/Obsidian_Mantle_of_Influence#Obsidian_Mantle_of_Influence)), -- as one attribued to the engines, as the voice of those `screaming` and `roaring` engines is one of Apocrea, and a method of influencing reality in a detrimental, destructive manner.
+
+In order to fuel those engines, Shroud is opened to lure or capture souls, as living beings with auras.
+
+It is unknown, whether Nefarious Imp is involved into the communication, given their armor's design resembling Apocrean disciples'.
+
 ##### Apocrean Disciples
 
 Then there are cultists or the disciples. They are separated into groups, characterized by a single property found in their respective titles.
@@ -3746,7 +3773,7 @@ An eternal heart, we assume, is immortality. Other than that, we are reminded of
 
 Starting from the end, we need to cover the apocrean engines: `Only souls keep these engines roaring, heard screaming across distant stars. Only souls can fill their void, sublime in its vast emptiness ... All of them mere crops against their relentless scythe! Though they may steal sanctuary in the cracks and corners of their terrible realm, it is ever fleeting. The blinding gaze of the Apocrea is boundless. The daylight, the starlight; all hope is merely waiting for their dark shroud to return this cosmic play to its primordial black. ... I weep and laugh before the shroud that waits!` ([Recovered from the journal of Prof. Allister Danford, Dean of Antiquities - Professor Allister Danford](https://forums.spiralknights.com/en/node/91276)).
 
-As we will soon cover [apocrean engines](#apocrean-engines), we will identify the `roaring like the death of this world` as the roar of engines Danford describes, which are fueled by captured souls. Those engines are ones to be heard across material realm and are the means to return the world to its initial state. The phrase `dark shroud to return this cosmic play to its primordial black` defines Apocrea's goal from Danford's perspective as such.
+At [apocrean engines](#apocrean-engines) we have identified the `roaring like the death of this world` as the roar of engines Danford describes, which are fueled by captured souls. Those engines are ones to be heard across material realm and are the means to return the world to its initial state. The phrase `dark shroud to return this cosmic play to its primordial black` defines Apocrea's goal from Danford's perspective as such.
 
 The `quiet as a child's whisper`, while we do not have any relations to chldren yet, there might be a metaphor for Apocrea's eldritch duality as in description of obelisks: `eternal energy that is simultaneously alluring and sinister in a most grotesque manner` ([Obsidian Obelisks](https://wiki.spiralknights.com/Apocrean_Furniture)).
 
@@ -3846,13 +3873,13 @@ In the end, apart from the Void, one final realm remains -- Nameless Realm: `A f
 
 ##### Metaphysics of Dreams: Part 1 - Apocrea
 
-Considering Apocrean Realm is an eldritch location, it must be analyzed on the notion of dreams in relation to Outer Gods of Lovecraft's universe. This notion of dreams will be later important in the context of the Core, Whitespace, Sleeper and the Swarm.
+Apocrean Realm is an eldritch location with theme of dreams, so it must be analyzed on the motif of dreams in relation to Outer Gods of Lovecraft's universe. This notion of dreams will be [later](#metaphysics-of-dreams-part-2-sleeper) important in the context of the Sleeper's name and reflection of act of dreaming onto reality.
 
-Apocrea dreams and creates into reality machines, powered by souls. At the same time, souls are sought after by Apocrea for potentially other uses. Here, they are presented as metaphorical fruits, and given the presence of the sun and a tree, we suggest it being more literal - that as if souls were flowing from a higher realm, and then in the established contexts drawn to to taken by Apocrea. It is also here we have mention of `all hope is merely waiting for their dark shroud to return this cosmic play to its primordial black` - it will be important [later](#the-void-part-2).
+Apocrea dreams and creates into reality machines powered by souls. At the same time, souls are sought after by Apocrea for potentially other uses. Here, they are presented as metaphorical fruits, and given the presence of the sun and a tree, we suggest it being more literal -- that as if souls were flowing from a higher realm, and then in the established contexts drawn to to taken by Apocrea.
 
 As Dreamlands were already mentioned as a potential inspiration behind the design of the obsidian architecture, we will touch upon the role of dreams in Yog-Sothothery:
 
-- Carter had to travel to the Dreamlands in search of the sunset city he manifested through dreaming as a child. It is suggested by Nyarlathotep, that the city was stollen by the Old Gods due to its beauty, but this information cannot be trusted, as Carter had to seemingly cross interdimensional void to get to the stollen Sunset city.
+- Carter had to travel to the Dreamlands in search of the sunset city he manifested through his own act of dreaming in the past. It is suggested by Nyarlathotep, that the city was stollen in the dreamlands of Earth by the Old Gods, but this information cannot be trusted, as Carter had to cross interdimensional void to reach Sunset city.
 - Nature of dreams under certain conditions allows transportation into other realities, traversal through those realities, higher dimensions, other physical locations, and time periods. This property of dreams is examined in the stories relating to Randolph Carter.
 - Lastly, Azathoth dreams the existence itself, allowing it to exists as long as Azathoth sleeps.
 
@@ -3876,35 +3903,11 @@ Followed by the reveal of deity' power:
 
 </BookCitation>
 
-It should be noted that Lovecraft's depiction of cosmic horror and its deities differs significantly from works of fiction within lovecaftian setting written and developed under different authors' vision, other than Lovecraft himself, _reinterpret and reimagined both to fit a different setting or as a further development of the genree in its own right, an homage_.
+It should be noted that Lovecraft's depiction of cosmic horror and its deities differs significantly from works of fiction within lovecaftian setting written and developed under collegue writers' vision, other than Lovecraft himself, _reinterpret and reimagined both to fit a different setting or as a further development of the genree in its own right, an homage_.
 
-It is within this later context role of Azathoth colloqually perceived as of a dreamer-creator god.
+It is within this later context role of Azathoth colloqually perceived as of a dreamer-creator god. For now we will consider through Azathoth the act of dreaming potentially as fundamental as creation of existence, with lesser options being varying acts of creation of matter of different complexity.
 
-With this, we can now approach the nature of the engines.
-
-##### Apocrean Engines
-
-If we strip away other context of Danford's speech, the engines are presented as ends for means of collecting souls: `Within cities where geometry and madness share meaning, constructed from thought, from unnatural impulse, the Apocrea dream dark machines into being. Only souls keep these engines roaring, heard screaming across distant stars. Only souls can fill their void, sublime in its vast emptiness. ... All of them mere crops against their relentless scythe! ...  The daylight, the starlight; all hope is merely waiting for their dark shroud to return this cosmic play to its primordial black. Dear heavens! The stars grin down with lustful intent! It is an abomination, an embodiment of sublime beauty, dark and blooded! I weep and laugh before the shroud that waits!`.
-
-Apocrea is located within the cities. Here we recall idea of an Apocrean obsidian city being parallel to onyx castle on top of Kadath in the dreamlands - a place for Great Ones.
-
-Then, `constructed from thought, from unnatural impulse` under Apocrea's logic, should be applicable to the cities, which would mean a capacity to arrange or manifest matter by will. The `geometry and madness share meaning` suggests a concept of madness being reflected in an eldritch geometry or topology of Apocrean architecture, which might result in the unexplicable nature of, for example, Perplexing Element. So far we were considering Obsidian Nexus being an instance of the city's architecture, due to its defined design. And through its depiction we have previously arrived to the idea of Kadath. If we follow those parallels further, as well as add up to them `constructed from thought, from unnatural impulse`, we arrive to the idea of cities being manifested by Apocrea's will. This idea contradicts the physical construction process of cities, as suggested by the [Binding Essence](https://wiki.spiralknights.com/Binding_Essence): `A strange, vile reagent thought to be harnessed by the Apocrea to build their structures`, unless this process consists of multiple steps.
-
-Through `Apocrea dream dark machines into being` we can then propose physicality of those machines. `Only souls keep these engines roaring, heard screaming across distant stars. Only souls can fill their void, sublime in its vast emptiness` states, that __souls are the fuel of those machines__, labeling them engines. The act of roaring so far was attributed to engines specifically, rather than souls, so we can assume those engines being tangibly heard as `screaming across distant stars`, which would further affirm their physical presence.
-
-Role of a metaphorical void also emerges here in reference to engines' volume:
-
-- `Only souls keep these engines roaring, heard screaming across distant stars. Only souls can fill their void, sublime in its vast emptiness` ([Professor Allister Danford](https://forums.spiralknights.com/en/node/91276)).
-- `The daylight, the starlight; all hope is merely waiting for their [Apocrea's] dark shroud to return this cosmic play to its primordial black. Dear heavens! The stars grin down with lustful intent! It is an abomination, an embodiment of sublime beauty, dark and blooded! I weep and laugh before the shroud that waits!` ([Professor Allister Danford](https://forums.spiralknights.com/en/node/91276)).
-
-As Apocrean Realm was manifestated in the Town Square, it is unlikely, that the primordial black was observed at that point. Nor its name suggests it possessing color, so the eternal energy remains linked to the specifically Apocrean Realm, as one of the components to its nature.
-
-Then, what is the purpose of the engines? If we reconsider `The daylight, the starlight; all hope is merely waiting for their [Apocrea's] dark shroud to return this cosmic play to its primordial black` ([Professor Allister Danford](https://forums.spiralknights.com/en/node/91276)), then the engines provide the means to bring reality into the primordial black. We can further suggest their importance due to being a single defined goal of collecting souls in the first place. This motive as one seemingly kept in secrecy, is further hinted by a Lost Soul within the Nexus: `a terrible legion of otherworldly phantasms whose only ambition seems to be trapping and devouring the souls of all life. ... The Apocrea bend reality, twisting the environment they invade into a trap. In these traps they stalk any life, harvesting their souls for some unimaginable purpose` ([Shroud of Apocrea - Obsidian Nexus - Lost Soul](https://wiki.spiralknights.com/Obsidian_Nexus)).
-
-This leads us to the idea of roaring death of the world (`'Speak with the one, true voice and they will listen. Quiet as a child's whisper, roaring like the death of this world'` - [Obsidian Mantle of Influence](https://wiki.spiralknights.com/Obsidian_Mantle_of_Influence#Obsidian_Mantle_of_Influence)) as one attribued to the engines, as if the voice of those engines is one of Apocrea, and a method of influencing reality in a detrimental manner.
-
-In order to fuel those engines, Shroud is opened to capture souls. Or, potentially, to retrieve souls by communicating through the Underworld, given potential of Nefarious Imp being involved, as well as presence of circles of art across both realms.
-
+This framework will be our sarting point on the investigation of nature of Sleeper's act of dreaming.
 
 <center class="chapter-break">
   <span class="energy">☉</span>
