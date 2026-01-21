@@ -23,7 +23,8 @@
 
 ### CONSIDER
 
-- nefarios imp is not a prominent figure. it is affiliated with Underworld but its not a primary antagonist
+- tortomega were not hunted by valkyries
+- candlestick keep statues/busts are of deveilites, not tortomega
 - lumbers - effort of gremlin industry + devilte tech of placing seals onto essences
 - howlitzers are wyverns or dragons
-- candlestick keep statues/busts are of deveilites, not tortomega
+- nefarios imp is not a prominent figure. it is affiliated with Underworld but its not a primary antagonist
