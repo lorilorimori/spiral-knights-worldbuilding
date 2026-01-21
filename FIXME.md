@@ -2,7 +2,8 @@
 
 - `that` never follows a comma, its closure is not denoted by commas, unless its a interruption (`that is`)
 
-  https://www.brandeis.edu/writing-program/resources/students/academic/style-grammar/comma-rules.html
+  - https://www.brandeis.edu/writing-program/resources/students/academic/style-grammar/comma-rules.html
+  - https://www.butte.edu/departments/cas/tipsheets/punctuation/comma.html
 
   - `\,[\s\_]+that` ch 1-6 ok
   - `\,\_+that`
