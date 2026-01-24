@@ -10443,7 +10443,7 @@ _""_
 
 </SubTitleCentered>-->
 
-Now, with consideration of everything we have covered so far -- of a timeline and elements built upon it, using established themes and narratives as guidelines, -- we want to answer as clearly, as precisely, and as thoughtfully as possible: what is the __ineffable quality of this setting -- its aesthetic, -- which provides it its staying power and a capacity to captivate__?
+Now, with consideration of everything we have covered so far -- of a timeline and elements built upon it, using established themes and narratives as guidelines, -- we want to answer as clearly, as precisely, and as thoughtfully as possible: what is the __ineffable quality of this setting which provides it its power and capability to captivate__?
 
 Cradle is presented through Isoran perspective, as the greatest wonder of their world, and then as an extreme, an engineering marvel one civilization is willing to go in order to achieve what Rebis theory proposes, while for the protagonist knight, - the player, - Cradle encompasses the world, as it is the only planet with its in-universe context experienced through the medium of the game.
 
@@ -10741,13 +10741,17 @@ Other aspects, briefly mentioned in contrast to Clockworks proper, are the conte
 - Reality can be bent is exclusive cases by eldritch gods and is characterized by different dimensions. Case of Unknown Passage as a  change from standard route in the context of [It Came from Below]() and Nexus with Shrouded Plateau of Shroud of Apocrea. Also manifestation of Apocrean Realm in Haven's Town Square seem to fall to this.
 - Presence of eldritch gods, Swarm (technically and Eldritch Abomination), Sleeper (subverted, a benevolent deity), Apocrea.
 - Occultism is always linked to Underworldly/hellish nature.
-- Underworld/Hell is a [corporation](https://tvtropes.org/pmwiki/pmwiki.php/Main/EvilInc).
+- Undercorp is a [corporation feeding on material realm](https://tvtropes.org/pmwiki/pmwiki.php/Main/EvilInc).
+- Undercorp was developing from initially classic occult aesthetics to one of magitech with occult-like themes only within its designs.
+- Undercorp as corporation existing and utilizing eldritch -- Apocrean, -- technology, and then providing it to its clients.
+- Undercorp in its prior form or Underworld working with forest or nature-themed civilization in order to achieve its goals, offers means to, first, build nature-themed golems -- tortodrones, -- and then creates its corrupted variant.
+- Nature-themed golems -- toerdrones, -- possess means to be considered one of more dangerous weapons on Cradle, in some aspects surpassing gremlins' Roarmulus Twins of modern age, being mobile dreadnoughts.
 - The laws of megastructure and the setting impose [elemental rock-paper-scissors]() while expanding meaning of those elements:
   - The newly discovered shadow damage as more than physic manipulation;
   - Elemental damage as proper magic;
   - Piercing damage also being "holy" damage.
 - Main narrative is driven by an acknowledgement of a lack or a need in energy. The megastructure, on the contrary, contains no limits in energy, affirming its unique cosmic and metaphysical position in the cosmology of Spiral Order, as player character has this perspective.
-- The civilization of builders is past their prime.
+- The civilization of builders -- gremlins, -- is past their prime.
 - Megastructure is at the end of time. It contains civilization either being long gone - used in its construction, and itself - the civilization of builder - is in a state of crisis or past their prime with seemingly drawn out end in the form of Iron Law and Swarm's eventual ascent from the deeper Clockworks.
 - Corporation is being contracted by builders of megastructure. Application of shadow damage also falls to this, as a most mysterious of technologies.
 - Theme of Hell as corporation is expanded, as a front for a [cosmic horror conspiracy](). The corporation is a front for eldritch god's actions, Apocrea, as the latter is confronts the rest of existence.
