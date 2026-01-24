@@ -14,7 +14,7 @@ layout: entries_rebis
 
   // const imgTitle = resolve('/img/custom/thumbnail_readme_no_text.png')
   const imgHeavenlyKingdom = resolve('/img/chapters/heavenly_kingdom.png')
-  const imgGremlinEmpire = resolve('/img/chapters/gremlin_empire.png')
+  const imgGremlinEmpire = resolve('/img/chapters/gremlin_empire3.png')
   const imgUnknown = resolve('/img/chapters/unknown.png')
   const imgAlchemyLogo = resolve('/img/spiral_knights/logo_alchemy.png')
 
@@ -3925,7 +3925,7 @@ This framework will be our sarting point on the investigation of nature of Sleep
 ### _Chapter `VII` &#160;<br>_ Kingdom of Almire
 
 <SubTitleCentered>
-<em>"You can feel it in the smoldering air -- an eternal will holding this place together, never allowing its inhabitants to rest." <small>- Gratz</small></em>
+<em>"You can feel it in the smoldering air -- an eternal will holding this place together, never allowing its inhabitants to rest."<small> - Gratz</small></em>
 </SubTitleCentered>
 
 We begin from a time when kingdom of Almire was invaded.
