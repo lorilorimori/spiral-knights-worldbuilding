@@ -3928,7 +3928,7 @@ This framework will be our sarting point on the investigation of nature of Sleep
 <em>"You can feel it in the smoldering air -- an eternal will holding this place together, never allowing its inhabitants to rest." <small>- Gratz</small></em>
 </SubTitleCentered>
 
-We begin from a time when kingdom of Almire was invaded by neighboring kingdoms.
+We begin from a time when kingdom of Almire was invaded.
 
 The first time a war is mentioned in the Owlite tome within the [Forgotten Library](https://wiki.spiralknights.com/An_Occurrence_at_Owlite_Keep#Gate_Map) of Owlite Keep: `... This world has seen few greater tragedies than the fall of the great Kingdom of Almire. Once a vibrant, beautiful realm of lush forests and sweeping plains ... neighboring kingdoms declared war ... seeking the power needed to turn the tide, Lord Vanaduke of Almire fled into the mountains...` ([An Occurrence at Owlite Keep - The Forgotten Library - Owlite tome](https://wiki.spiralknights.com/Owlite_tome_text_Dialogue/The_Forgotten_Library)).
 
@@ -10708,7 +10708,7 @@ and then, the accumulation of those narratives as spanning across clockworks, be
 - lovecraftian out-of-place realm of Apocrea
 - the primorial Void as world's foundations, weaponized and wielded by the Swarm, - a synergy of aspects from each of realms above
 
-#### Tropes
+#### Plots
 
 In order to broadly encompass entirety of Cradle, we will operate in terms of tropes established at the [TV Tropes page for Spiral Knights](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SpiralKnights) and general principles when referencing TV Tropes, as a catalog of materials of storytelling patterns and devices.
 
@@ -10718,17 +10718,66 @@ Clockworks' scale and grimy interior presumes dieselpunk. By being explicitly me
 
 Other aspects, briefly mentioned in contrast to Clockworks proper, are the contents of skydomes. They offer a change from prior themes.
 
+##### Cosmology
+
 - Alchemy is a common tool for production of goods, and occult symbolism stems from iconography and languages of "The Key of Solomon the King", fitting well with its application by Underworld and Apocrea.
 - [Sufficiently analyzed magic](https://tvtropes.org/pmwiki/pmwiki.php/Main/SufficientlyAnalyzedMagic) is present in a few cases:
 
     - Spiral Order did distribute mass-produced equipment acquired through alchemy.
     - Perception of elemntal damage as one close to magic for Spiral Order.
-- The megastructure is maintained by a civilization of builders, whose archetype is most reminiscent of fantasy [goblins](https://tvtropes.org/pmwiki/pmwiki.php/Main/OurGoblinsAreDifferent) with an accent on militarism.
-- The initial state - the trope of [Ghibli Hills](https://tvtropes.org/pmwiki/pmwiki.php/Main/GhibliHills) of Haven with Strangers, planet's surface in general, plus Clockwork Terminal except for the Core is one of contrasting elements and a representation of steampunk-adjacent elements.
-- [Dungeonpunk]() of Scarlet Fortress, and Royal Jelly Palace. In proximity of it, [Dark Fantasy](https://tvtropes.org/pmwiki/pmwiki.php/Main/DarkFantasy) of Candlestick Keep and [Grave Clouded](https://tvtropes.org/pmwiki/pmwiki.php/Main/GraveClouds) Graveyards.
+
+- In the system of classic elements of water/fire/earth/air a fifth element is unconventional, usually iteration/variation of the ether/void, while contrasting the rest. In case of Spiral Knight, there are status effects and the curse. Normal damage also falls to this, as it was the starting damage, but also one of the endgame, due to focus on the Swarm.
+- Undeath is prevalent and common.
+- The laws of megastructure and the setting impose [elemental rock-paper-scissors]() while expanding meaning of those elements:
+  - The newly discovered shadow damage as more than physic manipulation;
+  - Elemental damage as proper magic;
+  - Piercing damage also being "holy" damage.
+- Alchemy allows to pull items from different epochs from Cradle's past through acquisition of recipes and association of thematically embodying materials into an object. In order for alchemy to work, alchemy orbs work as the catalyst for transmutation.
+
+##### Tortomega
+
 - [Uberwald]() of Gloaming Wildwoods if Tortodrones and ruins are considered, otherwise it is [Wild Wilderness](). Tortodrones are the case of [Awakening The Sleeping Giant](https://tvtropes.org/pmwiki/pmwiki.php/Main/AwakeningTheSleepingGiant).
-- King in The Mountain being Lord Vanaduke as he desends into the mountains and reemerges from them to take the kingdom back. Here it is subverted, as the king is the reason for Almire's damnation.
+- Nature-themed golems -- tortodrones, -- possess means to be considered one of more dangerous weapons on Cradle, in some aspects surpassing gremlins' Roarmulus Twins of modern age, being mobile dreadnoughts.
+- Tortomega, while working with Undercorp, create varying configurations of tortodrones, designed for specific needs and aggressive environemnts through minerals. This concepts reaches its failed state with application of dark matter, leading to physical corruption, rot of a tortodrone.
+
+##### Underworld / Undercorp
+
 - [City of the Damned](https://tvtropes.org/pmwiki/pmwiki.php/Main/CityOfTheDamned) of Dark Cities. A [Vice City](https://tvtropes.org/pmwiki/pmwiki.php/Main/ViceCity) if not devilites' presence. Due to presence of dark matter, can be considered [Graffiti Town](https://tvtropes.org/pmwiki/pmwiki.php/Main/GraffitiTown).
+- Occultism is always linked to Underworldly/hellish nature.
+- Undercorp is a [corporation feeding on material realm](https://tvtropes.org/pmwiki/pmwiki.php/Main/EvilInc).
+- Undercorp was developing from initially classic occult aesthetics to one of magitech with occult-like themes only within its designs.
+- Undercorp as corporation existing and utilizing eldritch -- Apocrean, -- technology, and then providing it to its clients.
+- Undercorp in its prior form or Underworld working with forest or nature-themed civilization in order to achieve its goals, offers means to, first, build nature-themed golems -- tortodrones, -- and then creates its corrupted variant.
+<!--- Theme of Hell as corporation is expanded, as a front for a [cosmic horror conspiracy](). The corporation is a front for eldritch god's actions, Apocrea, as the latter is confronts the rest of existence.-->
+
+##### Valkyries / Owlites
+
+- [Dungeonpunk]() of Scarlet Fortress, and Royal Jelly Palace. In proximity of it, [Dark Fantasy](https://tvtropes.org/pmwiki/pmwiki.php/Main/DarkFantasy) of Candlestick Keep and [Grave Clouded](https://tvtropes.org/pmwiki/pmwiki.php/Main/GraveClouds) Graveyards.
+
+##### Isorans
+
+- The initial state - the trope of [Ghibli Hills](https://tvtropes.org/pmwiki/pmwiki.php/Main/GhibliHills) of Haven with Strangers, planet's surface in general, plus Clockwork Terminal except for the Core is one of contrasting elements and a representation of steampunk-adjacent elements.
+- [Tone shift](). Aforementioned [tone shift]() should be noted as a characteristic trope. On a smaller scale, such as items, there are Winter Grave, Biohazard, and Bitter End.
+
+##### Almire
+
+- King in The Mountain being Lord Vanaduke as he desends into the mountains and reemerges from them to take the kingdom back. Here it is subverted, as the king is the reason for Almire's damnation.
+
+##### Kats
+
+- Kats, seemingly divibe species, beccome mindless ghosts which bear a curse.
+
+##### Apocrea
+
+- Reality can be bent is exclusive cases by eldritch gods and is characterized by different dimensions. Case of Unknown Passage as a  change from standard route in the context of [It Came from Below]() and Nexus with Shrouded Plateau of Shroud of Apocrea. Also manifestation of Apocrean Realm in Haven's Town Square seem to fall to this.
+- Presence of eldritch gods, Swarm (technically and Eldritch Abomination), Sleeper (subverted, a benevolent deity), Apocrea.
+- Cosmic mecahnics of souls contribute to yet-to-be-seen concept of an eldritch device capable of negating existence
+- As souls, being consciousnesses, function as fuel for those engines, it affirms engines' actively nihilistic purpose and Apocrea's motivation
+- Lovecraftian tropes of presencing eldritch deity
+
+##### Gremlins and Cradle
+
+- The megastructure is maintained by a civilization of builders, whose archetype is most reminiscent of fantasy [goblins](https://tvtropes.org/pmwiki/pmwiki.php/Main/OurGoblinsAreDifferent) with an accent on militarism.
 - [Dieselpunk]() of deconstruction zones.
 - The Core and its [terminal]() has several tropes:
 
@@ -10736,27 +10785,10 @@ Other aspects, briefly mentioned in contrast to Clockworks proper, are the conte
   - [Dug Too Deep](https://tvtropes.org/pmwiki/pmwiki.php/Main/DugTooDeep) which is [Delved Too Deep](https://wiki.spiralknights.com/Delved_Too_Deep)
   - [Leaking Can Of Evil](https://tvtropes.org/pmwiki/pmwiki.php/Main/LeakingCanOfEvil) due to Swarm's presence.
 - [Tone shift](https://tvtropes.org/pmwiki/pmwiki.php/Main/ToneShift) from the surface to the core is a case of [Ascended Fridge Horror](https://tvtropes.org/pmwiki/pmwiki.php/Main/AscendedFridgeHorror). Given Swarm's nature as [eldritch horror](), it is also a case of [Cerebus Syndrome](https://tvtropes.org/pmwiki/pmwiki.php/Main/CerebusSyndrome) in the missions after [The king of Ashes](). No acknowledgement of the Swarm prior to [Dream and Nightmares]() makes it more disjointed (likely not by design), and as result, alienating.
-- In the system of classic elements of water/fire/earth/air a fifth element is unconventional, usually iteration/variation of the ether/void, while contrasting the rest. In case of Spiral Knight, there are status effects and the curse. Normal damage also falls to this, as it was the starting damage, but also one of the endgame, due to focus on the Swarm.
-- Undeath is prevalent and common.
-- Reality can be bent is exclusive cases by eldritch gods and is characterized by different dimensions. Case of Unknown Passage as a  change from standard route in the context of [It Came from Below]() and Nexus with Shrouded Plateau of Shroud of Apocrea. Also manifestation of Apocrean Realm in Haven's Town Square seem to fall to this.
-- Presence of eldritch gods, Swarm (technically and Eldritch Abomination), Sleeper (subverted, a benevolent deity), Apocrea.
-- Occultism is always linked to Underworldly/hellish nature.
-- Undercorp is a [corporation feeding on material realm](https://tvtropes.org/pmwiki/pmwiki.php/Main/EvilInc).
-- Undercorp was developing from initially classic occult aesthetics to one of magitech with occult-like themes only within its designs.
-- Undercorp as corporation existing and utilizing eldritch -- Apocrean, -- technology, and then providing it to its clients.
-- Undercorp in its prior form or Underworld working with forest or nature-themed civilization in order to achieve its goals, offers means to, first, build nature-themed golems -- tortodrones, -- and then creates its corrupted variant.
-- Nature-themed golems -- toerdrones, -- possess means to be considered one of more dangerous weapons on Cradle, in some aspects surpassing gremlins' Roarmulus Twins of modern age, being mobile dreadnoughts.
-- The laws of megastructure and the setting impose [elemental rock-paper-scissors]() while expanding meaning of those elements:
-  - The newly discovered shadow damage as more than physic manipulation;
-  - Elemental damage as proper magic;
-  - Piercing damage also being "holy" damage.
 - Main narrative is driven by an acknowledgement of a lack or a need in energy. The megastructure, on the contrary, contains no limits in energy, affirming its unique cosmic and metaphysical position in the cosmology of Spiral Order, as player character has this perspective.
 - The civilization of builders -- gremlins, -- is past their prime.
 - Megastructure is at the end of time. It contains civilization either being long gone - used in its construction, and itself - the civilization of builder - is in a state of crisis or past their prime with seemingly drawn out end in the form of Iron Law and Swarm's eventual ascent from the deeper Clockworks.
 - Corporation is being contracted by builders of megastructure. Application of shadow damage also falls to this, as a most mysterious of technologies.
-- Theme of Hell as corporation is expanded, as a front for a [cosmic horror conspiracy](). The corporation is a front for eldritch god's actions, Apocrea, as the latter is confronts the rest of existence.
-- [Tone shift](). Aforementioned [tone shift]() should be noted as a characteristic trope. On a smaller scale, such as items, there are Winter Grave, Biohazard, and Bitter End.
-- Alchemy allows to pull items from different epochs from Cradle's past through acquisition of recipes and association of thematically embodying materials into an object. In order for alchemy to work, alchemy orbs work as the catalyst for transmutation.
 - Clockworks' facilities are powered by 5-star supernatural essences - a prime example of [Magitech](https://tvtropes.org/pmwiki/pmwiki.php/Main/Magitech) and deeper exploration of elemental damage as magic.
 - Past kingdoms, specifically their very capitals, as royal palaces, have behind their throne rooms highly technological devices with symbolism, which relate back to ancient civilization designs modernized with technology. Those devices are placed across the megastruture, here being interpreted as the largest kingdom to incorporate all others, securing access to its key location.
 
