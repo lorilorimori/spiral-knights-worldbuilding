@@ -3930,41 +3930,97 @@ This framework will be our sarting point on the investigation of nature of Sleep
 
 We begin from a time when kingdom of Almire was invaded.
 
-The first time a war is mentioned in the Owlite tome within the [Forgotten Library](https://wiki.spiralknights.com/An_Occurrence_at_Owlite_Keep#Gate_Map) of Owlite Keep: `... This world has seen few greater tragedies than the fall of the great Kingdom of Almire. Once a vibrant, beautiful realm of lush forests and sweeping plains ... neighboring kingdoms declared war ... seeking the power needed to turn the tide, Lord Vanaduke of Almire fled into the mountains...` ([An Occurrence at Owlite Keep - The Forgotten Library - Owlite tome](https://wiki.spiralknights.com/Owlite_tome_text_Dialogue/The_Forgotten_Library)).
+For the first time a certain war is mentioned in the Owlite tome within the [Forgotten Library](https://wiki.spiralknights.com/An_Occurrence_at_Owlite_Keep#Gate_Map) of Owlite Keep, a library of Owlite Academia of Magics:
 
-In the same mission we have descriptions of what was left of Kingdom of Almire in modern times: `An unlikely source of intel has surfaced from the residents of Moorcroft Manor. A few of the spookats that call it home contacted one of our visiting Recon Knights and provided details of the negative energy mass that has appeared above the Core. Calling it 'a place of burning hatred' and 'a prison for dark souls' they say that you can read all about it in 'one of those weird Owlite books' in an Owlite keep they pinpointed` ([An Occurrence at Owlite Keep](https://wiki.spiralknights.com/An_Occurrence_at_Owlite_Keep)), and retelling of Recon Rangers: `Recon Knights have said that all they see near it is fire, endless fire` ([Ending in Fire - Kora](https://wiki.spiralknights.com/Ending_in_Fire)).
+- `...This world has seen few greater tragedies than the fall of the great Kingdom of Almire. Once a vibrant, beautiful realm of lush forests and sweeping plains...`
+- `...neighboring kingdoms declared war...`
+- `...seeking the power needed to turn the tide, Lord Vanaduke of Almire fled into the mountains...`
+- `...returning as something unnatural...`
+- `...endless inferno...`
+- `...Almire destroyed...`
+- `...they can never leave, they can never escape the flames...` ([An Occurrence at Owlite Keep - The Forgotten Library - Owlite tome](https://wiki.spiralknights.com/Owlite_tome_text_Dialogue/The_Forgotten_Library)).
 
-In-game content creates a vague description of the timeline, mostly outlining general themes and events, but we can find a more precise and detailed description of those events, one which connects the concept of fire deity, Lord Vanaduke, and `neighboring kingdoms` even closer.
+In the same mission we have descriptions of what was left of Kingdom of Almire by the time Isorans crash land on Cradle: `A few of the spookats that call it home contacted one of our visiting Recon Knights and provided details of the negative energy mass that has appeared above the Core. Calling it 'a place of burning hatred' and 'a prison for dark souls' they say that you can read all about it in 'one of those weird Owlite books' in an Owlite keep they pinpointed` ([An Occurrence at Owlite Keep](https://wiki.spiralknights.com/An_Occurrence_at_Owlite_Keep)), and retelling of Recon Rangers: `Recon Knights have said that all they see near it is fire, endless fire` ([Ending in Fire - Kora](https://wiki.spiralknights.com/Ending_in_Fire)). The book the spookats were referring is one at the Forgotten Library.
 
-The existence of 3 kingdoms, their ongoing conflict, and the aftermath are given by a short story of [Almire's Fall](https://wiki.spiralknights.com/index.php?title=Firestorm_Citadel&oldid=1263). So far we need to focus on the identity of the 2 kingdoms: `The citadel comes from a land divided by constant war between the nations of three kingdoms. ... It was ruled by a young and determined king known as Lord Vanaduke. Praised for his military ability, it was because of this that Almire was a powerful nation despite it being the smallest of the three. Given time it could expand to a mighty empire. It was because of this the other two kings feared him and formed a truce to invade Almire. Vanaduke's army was stretched too thin and Almire quickly began to fall under the weight of the two combined armies` ([Almire's Fall](https://wiki.spiralknights.com/index.php?title=Firestorm_Citadel&oldid=1263)). But, before it, we need to discuss the entry itself, as we won't come back to it later.
+We are presented with an omnious phrase, `they can never leave, they can never escape the flames`, and a characteristic which spookats provide as a `place of burning hatred` and `a prison for dark souls`, referring to at least Firestorm Citadel, as it is the subject of discussion during [Ending in Fire](https://wiki.spiralknights.com/Ending_in_Fire) -- `massive negative energy anomaly has surfaced above the Core` ([Ending in Fire - Kora](https://wiki.spiralknights.com/Ending_in_Fire)), -- and at worst the totality of Almire idenified by its other locations, such as the [Necropolis](https://wiki.spiralknights.com/Legion_of_Almire/Necropolis_Grounds) of [Legion of Almire](https://wiki.spiralknights.com/Legion_of_Almire) danger mission.
 
-#### Canon of "Almire's Fall"
+In-game content creates a vague description of the timeline, mostly outlining general themes and events, but we can find a more precise and detailed description of those events, one which further connects the concept of [fire deity](#fiendish-cults), Lord Vanaduke, and that war.
 
-Almire's Fall lore entry [had originated on the official wiki](https://wiki.spiralknights.com/index.php?title=Firestorm_Citadel&oldid=1263), rather than forums or items' descriptions, as discovered by Spiralka-chan on the Arcade Discord server. The [edit shows](https://wiki.spiralknights.com/index.php?title=Firestorm_Citadel&oldid=1263) that the author of this story snippet is one of the core members of developers' team. We consider it as a solid proof of this entry being canon to an overarching story, but with a few caveats regarding its in-universe placement. Despite being seemingly a minor detail, we will explore it properly, as its implications of being present on the wiki open a new perspective onto capabilities and technological advancement of Spiral Order in the field.
+#### `Almire's Fall`
 
-As the entry is present on the wiki, it marks wiki itself as present in the inner structure of Spiral Order.
+The existence of 3 kingdoms, their ongoing conflict, and the aftermath are given by a short story of [`Almire's Fall`](https://wiki.spiralknights.com/index.php?title=Firestorm_Citadel&oldid=1263), recited in its entirety:
 
-Most of the text on Almire so far was written by Owlites, so Almire's Fall should also be attributed to them, - it seems as a plausible explanation, given Owlites' other researches.
+<BookCitation source="Almire's Fall - Cory Sponseller">
 
-But, on the other hand, as wiki has the same design as game's HUD, it is meant to be associated with the base game. Its design can be attributed to Spiral Order. As from player's perspective an Isoran member of Spiral Order, access to the wiki can be considered canon that it is accessed both from player's end, and by knight, based on the prior concept of knight's HUD following those ideas.
+  The citadel comes from a land divided by constant war between the nations of three kingdoms. The smallest of the three, known as Almire, was a land of lush, beautiful trees and golden fields. It was ruled by a young and determined king known as Lord Vanaduke. Praised for his military ability, it was because of this that Almire was a powerful nation despite it being the smallest of the three. Given time it could expand to a mighty empire. It was because of this the other two kings feared him and formed a truce to invade Almire.
 
-If we would attempt to fit this snippet into Owlite tomes based on remaining texts, they would not align, suggesting them being different texts. But both texts discuss the same topic, so existence of multiple texts within Owlite civilization in regards to the kingdom is possible. Due to those factors, and the application of Forgotten Library and Eternal Study, as being researched by Spiral Order, makes source of this text being potentially taken from Owlites.
+  Vanaduke's army was stretched too thin and Almire quickly began to fall under the weight of the two combined armies. From atop the highest tower of the Grand Citadel of Almire, Vanaduke watched his kingdom crumble. Slowly going mad from the stress, he fled from the citadel and vanished into the mountains, vowing that he would one day reclaim his throne. Leaving behind his family, his people and his homeland, Vanaduke journeyed into the mountains to the east, driven by superstitious tales of ancient gods within their dark depths.
 
-We lean to Almire's Fall being not originally written by Spiral Order. Despite this, researchers of Haven Lab did discover more information regarding Almire, given present artifacts of past civilizations including Almire, as well as a dialogue with one of biotechs studying [Almirian Seal](https://wiki.spiralknights.com/Almirian_Seal_(Furniture)): `there were massive citadels housing Almire's armed forces and great estates for its noble houses ... We assume the kingdom is still a smoldering ruin somewhere`. But it is due to their research, we suggest that is how the final text of Almire's Fall was gathered, - an accumulation of both Spiral Order and Owlite research.
+  He tirelessly searched the mountains for many years, no longer the man he was before, but a mad hermit. Then one day he discovered a small cave that radiated with unnatural warmth, smelling of ash and sulfur. Within it he discovered a great chamber whose floor was waist deep in ashes. They were warm, and Vanaduke soon felt the sting of hot coals through his tattered boots. At the center of the chamber was a blackened shrine, whose deity's features were worn and indistinguishable.
 
-While we can't distinct what parts were written by Spiral Order and by Owlites, one thing seems to us most certain. The _description of the events, through which Lord Vanaduke had gone through during his time in the mountains_, had to be written by someone from that period of time, unless that part of the story is told outside of the capabilities of any civilization, while still remaining canon.
+  Vanaduke began to speak, softly at first, saying the names of his family, the names of the kings before him and the towns of Almire. He repeated this like a chant, increasing in intensity until he began shouting. With this he began shouting the names of the kings of the other kingdoms and all the wrongs they committed against his kingdom. He cried out to the god of the mountain to punish them, to give him the strength to take his kingdom back. In his frenzy he looked to the face of the deity and in it he began to see the face deform. The image burned into his eyes and brain like cinders, and contained that which sounded like the screaming of foreign tongues and war drums. With this, Vanaduke began to sink into the ash. He choked on the ash as it pulled him below, tasting sulfur his screams now sounding of roaring flames.
 
-While we have a history of Spiral Order communicating with undead in a non-violent manner, the spirit, or Lost Souls of Almire, the aforementioned events could not be told by anyone apart from Lord Vanaduke himself, _rendering this part as external to the canon of the wiki_.
+  Many days later the citizens of Almire watched as fire began to erupt from the mountains. Leading an army of terrible fiends, Vanaduke returned to his kingdom, destroying the occupied forces of the two opposing kingdoms in a single day. In time the two kingdoms fell, Vanaduke's legion burning everything in their path. When he returned to Almire, it burned as well, for everywhere he went, and everything he touched was doomed to ash. With nothing left to destroy, his legions left him and returned to the mountains, leaving the king to sit in his throne of ash and cinder, all the people of Almire dead around him.
 
-#### Three Kingdoms
+  There the cursed king has remained since, in an ashen throne of a burning kingdom, surrounded by all the lost souls of the people that once served him. And it is there that the king still mercilessly destroys any who dare enter his kingdom, however much the ashen shadow of what is was the rivers flowed with clear water and the leaves of the trees glittered like emeralds under the shining sun.
 
-Now, with Almire's Fall taken into consideration, we can start to parse through them. There are 2 kingdoms specified to exist.
+</BookCitation>
 
-It is likely that in order to invade Kingdom of Almire, they had to be located _near enough or even bordering Kingdom of Almire_ due to their reasoning of Almire having a potential of gaining more power, and, as an empire, subsequent land.
+Before we continue, we need to discuss the context and origin of entry itself.
 
-We have a potential clue in a form of the fact Lord Vanaduke did come from the mountains with an army: `Leading an army of terrible fiends, Vanaduke returned to his kingdom, destroying the occupied forces of the two opposing kingdoms in a single day. In time the two kingdoms fell, Vanaduke's legion burning everything in their path` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)), suggesting they were likely traversing over land.
+##### Diegesis of `Almire's Fall`
 
-We propose those 2 kingdoms are northern Raiders, first introduced [in the context of Isorans general](#spiral-raiders), and the kingdom of Ironmight, one never explicitly mentioned, but one we will explore in detail by gathering evidence for its existence.
+<!--So far we need to focus on the identity of the 2 kingdoms: `The citadel comes from a land divided by constant war between the nations of three kingdoms. ... It was ruled by a young and determined king known as Lord Vanaduke. Praised for his military ability, it was because of this that Almire was a powerful nation despite it being the smallest of the three. Given time it could expand to a mighty empire. It was because of this the other two kings feared him and formed a truce to invade Almire. Vanaduke's army was stretched too thin and Almire quickly began to fall under the weight of the two combined armies` ([Almire's Fall](https://wiki.spiralknights.com/index.php?title=Firestorm_Citadel&oldid=1263)). But, before we continue, we need to discuss the entry itself, as we won't come back to it later.-->
+
+Almire's Fall lore entry [had originated on the official wiki](https://wiki.spiralknights.com/index.php?title=Firestorm_Citadel&oldid=1263), rather than forums or items' descriptions, as discovered by `Spiralka-chan` on the `Arcade` Discord server.
+
+The [edit shows](https://wiki.spiralknights.com/index.php?title=Firestorm_Citadel&oldid=1263) that the author of this story snippet a member of developers' team. We will work from an assumption, that the entry is canon to the story, but with a few caveats regarding its in-universe placement.
+
+Despite being seemingly a minor detail, it has certain implications of being present on the wiki, as it opens a new perspective onto capabilities and technological advancement of Spiral Order in the field from in-universe perspective similar to description of missions.
+
+As the entry is present on the wiki, it may render wiki itself as present in the inner organization structure of Spiral Order on Cradle.
+
+Previously at chapter's introducton we discussed the tome at the Forgotten Library of Owlite Keep. It was likely wrtten by Owlites, so, as `Almire's Fall` has details which would be impossible to observe -- events within the mountain shrine's chamber while Lord Vanaduke was stated to be a lone hermit, -- we would identify the story's narrator as external to the universe.
+
+Yet, it is Owlites which acknowledge this equence of events:
+
+- `...seeking the power needed to turn the tide, Lord Vanaduke of Almire fled into the mountains...`
+- `...returning as something unnatural...`
+- `...endless inferno...`
+- `...Almire destroyed...`
+- `...they can never leave, they can never escape the flames...` ([An Occurrence at Owlite Keep - The Forgotten Library - Owlite tome](https://wiki.spiralknights.com/Owlite_tome_text_Dialogue/The_Forgotten_Library))
+
+As wiki has the same design as game's HUD, it is meant to be associated with the base game. Its design can be attributed to Spiral Order as much as game's UI follows a style guide. As from player's perspective, an Isoran within Spiral Order, access to the wiki can be considered canon -- it is accessed both from player's end and by the knight.
+
+If we would attempt to fit this snippet into Owlite tome at the Forgoten Library based on remaining texts, they would not align, suggesting them being different texts. But both texts discuss the same topic, so existence of multiple texts within Owlite civilization in regards to the kingdom is possible. Due to those factors, and the application of Forgotten Library and Eternal Study, as being researched by Spiral Order, makes source of this text being potentially taken from Owlites.
+
+We propose that `Almire's Fall` was _not originally written by Spiral Order_. Despite this, researchers of Haven Laboratory did discover more information regarding kingdom of Almire, given present artifacts of past civilizations including Almire, as well as a dialogue with one of biotechs studying [Almirian Seal](https://wiki.spiralknights.com/Almirian_Seal_(Furniture)): `there were massive citadels housing Almire's armed forces and great estates for its noble houses ... We assume the kingdom is still a smoldering ruin somewhere`.
+
+More so, there is [Almire Furniture Box](https://wiki.spiralknights.com/Almire_Furniture_Box): `Those of you who are brave enough to visit the Firestorm Citadel may have seen glimpses of the magnificence that once was the Kingdom of Almire. No, too busy being on fire? Before Vanaduke brought the curse of fire and ash, Almire was prosperous and beautiful. Haven Treasury has assembled the Almire Furniture Box to help recreate this lost kingdom. Some items are charred beyond repair. Others are carefully restored to their former glory. Find chairs, rugs, tapestries, benches and tables from Almire for your Guild Hall. The box also includes Nature Sprites and Cursed Nature Sprites. Does your guild better commune with the Spirit Mother in her faraway realm?` ([Decorate your Guild Hall with the splendors of Almire!](https://forums.spiralknights.com/en/node/102786)).
+
+Due to Isoran research, but data-first nature of the wiki, knowledge of Owlites about the general timeline coupled with _script's style_ as more characteritic -- less analytical, dramatic, -- of Owlites attempting to preserve an image of Almire, as much as Spiral Order was gathering information about Almire, __we propose that the script was recovered by Spiral Order from Owlites__.
+
+Both Owlite and Isoran civilization had to work with the currently fallen, cursed state of the kingdom, therefore we can compare the research performed by Owlites and Isorans. Notably, both Isorans and Owlites arrive to an image of Almire before it had burned, as related to nature: `... Almire, was a land of lush, beautiful trees and golden fields` ([Almire's Fall](https://wiki.spiralknights.com/index.php?title=Firestorm_Citadel&oldid=1263)):
+
+- For Owlites it is quote of: `Once a vibrant, beautiful realm of lush forests and sweeping plains...` ([An Occurrence at Owlite Keep - The Forgotten Library - Owlite tome](https://wiki.spiralknights.com/Owlite_tome_text_Dialogue/The_Forgotten_Library)).
+- For Isorans:
+  - `Before Vanaduke brought the curse of fire and ash, Almire was prosperous and beautiful. Haven Treasury has assembled the Almire Furniture Box to help recreate this lost kingdom. ... Others are carefully restored to their former glory. ... The box also includes Nature Sprites and Cursed Nature Sprites. Does your guild better commune with the Spirit Mother in her faraway realm?` ([Decorate your Guild Hall with the splendors of Almire!](https://forums.spiralknights.com/en/node/102786)).
+
+    A restoration of Almirian architecture and culture was performed with _direct acknowledgedment of_ __a divine link with the Spirit Mother__: `Does your guild better commune with the Spirit Mother in her faraway realm?` ([Decorate your Guild Hall with the splendors of Almire!](https://forums.spiralknights.com/en/node/102786)).
+
+Those elements allow us to begin to parse the timeline with most context now being provided.
+
+#### War of Three Kingdoms
+
+There are 2 kingdoms specified to exist, which had `formed a truce to invade Almire` ([Almire's Fall](https://wiki.spiralknights.com/index.php?title=Firestorm_Citadel&oldid=1263)).
+
+It is likely that in order to invade kingdom of Almire, they had to be located _near enough or even bordering Kingdom of Almire_ due to their reasoning of Almire having a potential of gaining more power, and, as an empire, subsequent land.
+
+We have a potential clue in a form of the fact Lord Vanaduke did come from the mountains with an army: `Leading an army of terrible fiends, Vanaduke returned to his kingdom, destroying the occupied forces of the two opposing kingdoms in a single day. In time the two kingdoms fell, Vanaduke's legion burning everything in their path` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)), implies they were traversing over land.
+
+<!--We have previously proposed identity of Almire as Isorans-->
+
+We propose those 2 kingdoms are northern Raiders, first introduced [in the context of Isorans general](#mythological-framing-of-spiral-raiders), and the kingdom of Ironmight, one never explicitly mentioned, but one we will explore in detail by gathering evidence for its existence.
 
 This proposal at its base stems from the idea of all 3 kingdoms being descendants of ancient, but already spacefaring [Isorans](#spacefarers-of-old) - we have discussed plausibility of this concept in the [analysis of Ghost in the Machine](#ghosts-in-the-machine). The general idea behind this logic is based on the context and designs of [Iron Hulk](#ghosts-in-the-machine) _as being an Isoran or Morai vessel_. And, as it is hundred years old, while greater Isoran spacefaring civilization is far older, _why there were not to be a second case of an even more ancient space vessel crash landing on this planet, preceding Cradle_, which would give start to the events of this chapter?
 
@@ -4252,6 +4308,8 @@ The roster of items describes an entity, a suggested fanatic, who seems to posse
 - [Magmatic Shackles](https://wiki.spiralknights.com/Magmatic_Shackles#Magmatic_Shackles)
 
 The design of fanatics' gear is reminiscent of celestial gear of ancient Isorans, but currently we can consider it only as a coincidence.
+
+##### Vog, God of The Mountain
 
 As for the general theme, as we covered [fiendish cults](#fiendish-cults), we suggest __magmatic fanatics relating to the Magma Deity, and here we can conclude, that this deity's name is Vog__.
 
