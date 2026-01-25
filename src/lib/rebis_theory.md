@@ -3970,19 +3970,15 @@ Before we continue, we need to discuss the context and origin of entry itself.
 
 ##### Diegesis of `Almire's Fall`
 
-<!--So far we need to focus on the identity of the 2 kingdoms: `The citadel comes from a land divided by constant war between the nations of three kingdoms. ... It was ruled by a young and determined king known as Lord Vanaduke. Praised for his military ability, it was because of this that Almire was a powerful nation despite it being the smallest of the three. Given time it could expand to a mighty empire. It was because of this the other two kings feared him and formed a truce to invade Almire. Vanaduke's army was stretched too thin and Almire quickly began to fall under the weight of the two combined armies` ([Almire's Fall](https://wiki.spiralknights.com/index.php?title=Firestorm_Citadel&oldid=1263)). But, before we continue, we need to discuss the entry itself, as we won't come back to it later.-->
-
 Almire's Fall lore entry [had originated on the official wiki](https://wiki.spiralknights.com/index.php?title=Firestorm_Citadel&oldid=1263), rather than forums or items' descriptions, as discovered by `Spiralka-chan` on the `Arcade` Discord server.
 
-The [edit shows](https://wiki.spiralknights.com/index.php?title=Firestorm_Citadel&oldid=1263) that the author of this story snippet a member of developers' team. We will work from an assumption, that the entry is canon to the story, but with a few caveats regarding its in-universe placement.
-
-Despite being seemingly a minor detail, it has certain implications of being present on the wiki, as it opens a new perspective onto capabilities and technological advancement of Spiral Order in the field from in-universe perspective similar to description of missions.
+The [edit shows](https://wiki.spiralknights.com/index.php?title=Firestorm_Citadel&oldid=1263) that the author of this story snippet is a member of developers' team. We will work from an assumption, that the entry is canon to the story, but with a few caveats regarding its in-universe placement.
 
 As the entry is present on the wiki, it may render wiki itself as present in the inner organization structure of Spiral Order on Cradle.
 
-Previously at chapter's introducton we discussed the tome at the Forgotten Library of Owlite Keep. It was likely wrtten by Owlites, so, as `Almire's Fall` has details which would be impossible to observe -- events within the mountain shrine's chamber while Lord Vanaduke was stated to be a lone hermit, -- we would identify the story's narrator as external to the universe.
+Previously at chapter's introducton we discussed the tome at the Forgotten Library of Owlite Keep. We assume that it was likely wrtten by Owlites, but as `Almire's Fall` contains details which would be impossible to observe -- events within the mountain shrine's chamber -- we would identify the story's narrator as external to the setting's universe.
 
-Yet, it is Owlites which acknowledge this equence of events:
+Despte this detail, Owlites do acknowledge this sequence of events of Lord Vanaduke dissappearing, `fleeing` into the mountains:
 
 - `...seeking the power needed to turn the tide, Lord Vanaduke of Almire fled into the mountains...`
 - `...returning as something unnatural...`
@@ -3990,81 +3986,90 @@ Yet, it is Owlites which acknowledge this equence of events:
 - `...Almire destroyed...`
 - `...they can never leave, they can never escape the flames...` ([An Occurrence at Owlite Keep - The Forgotten Library - Owlite tome](https://wiki.spiralknights.com/Owlite_tome_text_Dialogue/The_Forgotten_Library))
 
-As wiki has the same design as game's HUD, it is meant to be associated with the base game. Its design can be attributed to Spiral Order as much as game's UI follows a style guide. As from player's perspective, an Isoran within Spiral Order, access to the wiki can be considered canon -- it is accessed both from player's end and by the knight.
-
-If we would attempt to fit this snippet into Owlite tome at the Forgoten Library based on remaining texts, they would not align, suggesting them being different texts. But both texts discuss the same topic, so existence of multiple texts within Owlite civilization in regards to the kingdom is possible. Due to those factors, and the application of Forgotten Library and Eternal Study, as being researched by Spiral Order, makes source of this text being potentially taken from Owlites.
-
 We propose that `Almire's Fall` was _not originally written by Spiral Order_. Despite this, researchers of Haven Laboratory did discover more information regarding kingdom of Almire, given present artifacts of past civilizations including Almire, as well as a dialogue with one of biotechs studying [Almirian Seal](https://wiki.spiralknights.com/Almirian_Seal_(Furniture)): `there were massive citadels housing Almire's armed forces and great estates for its noble houses ... We assume the kingdom is still a smoldering ruin somewhere`.
 
 More so, there is [Almire Furniture Box](https://wiki.spiralknights.com/Almire_Furniture_Box): `Those of you who are brave enough to visit the Firestorm Citadel may have seen glimpses of the magnificence that once was the Kingdom of Almire. No, too busy being on fire? Before Vanaduke brought the curse of fire and ash, Almire was prosperous and beautiful. Haven Treasury has assembled the Almire Furniture Box to help recreate this lost kingdom. Some items are charred beyond repair. Others are carefully restored to their former glory. Find chairs, rugs, tapestries, benches and tables from Almire for your Guild Hall. The box also includes Nature Sprites and Cursed Nature Sprites. Does your guild better commune with the Spirit Mother in her faraway realm?` ([Decorate your Guild Hall with the splendors of Almire!](https://forums.spiralknights.com/en/node/102786)).
 
-Due to Isoran research, but data-first nature of the wiki, knowledge of Owlites about the general timeline coupled with _script's style_ as more characteritic -- less analytical, dramatic, -- of Owlites attempting to preserve an image of Almire, as much as Spiral Order was gathering information about Almire, __we propose that the script was recovered by Spiral Order from Owlites__.
+Due to Isoran research, but data-first approach of the wiki, knowledge of Owlites about the general timeline coupled with _script's style_ as more characteritic -- less analytical, dramatic, -- of Owlites attempting to preserve an image of Almire, as much as Spiral Order was gathering information about Almire, __we propose that the script was recovered by Spiral Order from Owlites__.
 
 Both Owlite and Isoran civilization had to work with the currently fallen, cursed state of the kingdom, therefore we can compare the research performed by Owlites and Isorans. Notably, both Isorans and Owlites arrive to an image of Almire before it had burned, as related to nature: `... Almire, was a land of lush, beautiful trees and golden fields` ([Almire's Fall](https://wiki.spiralknights.com/index.php?title=Firestorm_Citadel&oldid=1263)):
 
-- For Owlites it is quote of: `Once a vibrant, beautiful realm of lush forests and sweeping plains...` ([An Occurrence at Owlite Keep - The Forgotten Library - Owlite tome](https://wiki.spiralknights.com/Owlite_tome_text_Dialogue/The_Forgotten_Library)).
-- For Isorans:
-  - `Before Vanaduke brought the curse of fire and ash, Almire was prosperous and beautiful. Haven Treasury has assembled the Almire Furniture Box to help recreate this lost kingdom. ... Others are carefully restored to their former glory. ... The box also includes Nature Sprites and Cursed Nature Sprites. Does your guild better commune with the Spirit Mother in her faraway realm?` ([Decorate your Guild Hall with the splendors of Almire!](https://forums.spiralknights.com/en/node/102786)).
+- For Owlites it is a quote from their tome: `Once a vibrant, beautiful realm of lush forests and sweeping plains...` ([An Occurrence at Owlite Keep - The Forgotten Library - Owlite tome](https://wiki.spiralknights.com/Owlite_tome_text_Dialogue/The_Forgotten_Library)).
+- For Isorans: `Before Vanaduke brought the curse of fire and ash, Almire was prosperous and beautiful. Haven Treasury has assembled the Almire Furniture Box to help recreate this lost kingdom. ... Others are carefully restored to their former glory. ... The box also includes Nature Sprites and Cursed Nature Sprites. Does your guild better commune with the Spirit Mother in her faraway realm?` ([Decorate your Guild Hall with the splendors of Almire!](https://forums.spiralknights.com/en/node/102786)).
 
-    A restoration of Almirian architecture and culture was performed with _direct acknowledgedment of_ __a divine link with the Spirit Mother__: `Does your guild better commune with the Spirit Mother in her faraway realm?` ([Decorate your Guild Hall with the splendors of Almire!](https://forums.spiralknights.com/en/node/102786)).
+  A restoration of Almirian architecture and culture was performed with _direct acknowledgedment of_ __a divine link with the Spirit Mother__: `Does your guild better commune with the Spirit Mother in her faraway realm?` ([Decorate your Guild Hall with the splendors of Almire!](https://forums.spiralknights.com/en/node/102786)).
 
-Those elements allow us to begin to parse the timeline with most context now being provided.
+Those elements allow us to begin to parse the timeline with most context now being provided, as well as establish a supernatural motif found both in the cursed condition of Almire and divine nature of Spirit Mother.
 
-#### War of Three Kingdoms
+#### Three Kingdoms
 
 There are 2 kingdoms specified to exist, which had `formed a truce to invade Almire` ([Almire's Fall](https://wiki.spiralknights.com/index.php?title=Firestorm_Citadel&oldid=1263)).
 
-It is likely that in order to invade kingdom of Almire, they had to be located _near enough or even bordering Kingdom of Almire_ due to their reasoning of Almire having a potential of gaining more power, and, as an empire, subsequent land.
+It is likely that in order to invade kingdom of Almire, they had to be located in proximity of Almire, likely bordering it due to 2 notable elemnts of the short story:
 
-We have a potential clue in a form of the fact Lord Vanaduke did come from the mountains with an army: `Leading an army of terrible fiends, Vanaduke returned to his kingdom, destroying the occupied forces of the two opposing kingdoms in a single day. In time the two kingdoms fell, Vanaduke's legion burning everything in their path` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)), implies they were traversing over land.
+- Their reasoning of Almire having a potential of gaining more power, and, as an empire, subsequent land.
+- `Leading an army of terrible fiends, Vanaduke returned to his kingdom, destroying the occupied forces of the two opposing kingdoms in a single day. In time the two kingdoms fell, Vanaduke's legion burning everything in their path` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)). The timeframe of a day may be specific to Owlites writing a story while emphasizing army's danger. Despite it, the danger is present, and with a short timeframe emphasizing Lord Vanaduke's intensity, it implies traversal over land.
 
-<!--We have previously proposed identity of Almire as Isorans-->
+We have previously proposed identity of Almire as Isorans [through distinction of their auras and souls](#almire-and-isoran-souls), then, as those kingdoms are stated to be distinct nations: `The citadel comes from a land divided by constant war between the nations of three kingdoms` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)), we would identify them as, too, Isorans.
 
-We propose those 2 kingdoms are northern Raiders, first introduced [in the context of Isorans general](#mythological-framing-of-spiral-raiders), and the kingdom of Ironmight, one never explicitly mentioned, but one we will explore in detail by gathering evidence for its existence.
+We propose those 2 kingdoms are related to northern Raiders, first introduced [in the context of Isorans general](#mythological-framing-of-spiral-raiders), and the kingdom of Ironmight -- one not mentioned yet, but one we will explore in detail.
 
-This proposal at its base stems from the idea of all 3 kingdoms being descendants of ancient, but already spacefaring [Isorans](#spacefarers-of-old) - we have discussed plausibility of this concept in the [analysis of Ghost in the Machine](#ghosts-in-the-machine). The general idea behind this logic is based on the context and designs of [Iron Hulk](#ghosts-in-the-machine) _as being an Isoran or Morai vessel_. And, as it is hundred years old, while greater Isoran spacefaring civilization is far older, _why there were not to be a second case of an even more ancient space vessel crash landing on this planet, preceding Cradle_, which would give start to the events of this chapter?
+This proposal at its base stems from the idea of all 3 kingdoms being descendants of ancient, but already spacefaring [Isorans](#spacefarers-of-old) -- we have discussed plausibility of this concept in the [analysis of Ghost in the Machine](#ghosts-in-the-machine). The general idea behind this logic is based on the context and designs of [Iron Hulk](#ghosts-in-the-machine) _as being an Isoran or Morai vessel_.
 
-If Cradle or a planet preceding it was already found prior, time span of several hundred of years does not seem to us a restriction. Then, since [Isorans were eons old](#spacefarers-of-old), while being an interstellar species, seems to us probable in the context of a stumbling on Cradle through different means and in different time, referring to a planet preceding Cradle as a mechanical planet.
+And, as Iron Hulk is at least hundred years old, while greater Isoran spacefaring civilization is far older, `eons`, specifically, this would allow for a plausible narrative of Isoran vessel to be on a planet preceeding Cradle within a certain curcumstances, which would allow for Almire and other kingdoms to emerge within a far more primitive technologocal era, identified by the designs of [Raider equipment](#mythological-framing-of-spiral-raiders).
 
-#### Ironmight Kingdom
+If Cradle or a planet preceding it was already found prior is such framing, time span of several hundred of years of Iron Hulk does not become an upper limit for Isoran connection to Cradle and a planet preceeding it.
 
-The name Ironmight, if we refer to it properly, as a potential Kingdom of Ironmight, makes us think of other similar instances or naming conventions of empires and kingdoms:
+#### Kingdom of Ironmight
 
-- Kingdom of the Netherlands, meaning a lower land, lower elevation, a property of geographical location.
-- United Kingdom, one that consists of multiple entities united by a monarch.
-- Holy Roman Empire combines an adjective, - Holy, - with a city of Rome.
+The name Ironmight, or, if we refer to it properly, a Kingdom of Ironmight, makes us think of other similar instances or naming conventions of empires and kingdoms:
 
-As for Ironmight, judging by its name, it has similar morphology. It is derived from a descriptive term of might and is combined with iron, iron and might, - _the might of iron_. We suggest that it is a kingdom, one similar to Almire, with part of its identity being rooted in its military power, or as we will see, economic might. We will attempt to exclude a possibility of it being an empire - as an Ironmight Empire, - as we will attempt to fit it with the lore entry of Almire' Fall.
+- _Kingdom of the Netherlands_, meaning a lower land, lower elevation, a property of geographical location.
+- _United Kingdom_, one that consists of multiple entities united by a monarch.
+- _Holy Roman Empire_ combines an adjective with a city of Rome.
+
+"Ironmight" has a similar morphology. It is derived from a descriptive term of might and is combined with iron resulting in "the might of iron." We suggest that it is a kingdom, one similar to Almire, with part of its identity being rooted in a few potential notions:
+
+- its military power if might of iron is to be read as weapons made of iron. But kingdom of Almire already possesses that characteristic;
+- Accent on smelting and forge;
+- It is economic might, while not iron, it will be discussed as a particularly interesting interpretation given further discussion.
 
 The basis for the Ironmight, as the name itself, we extract from the [Ironmight set](https://wiki.spiralknights.com/Ironmight_Plate_Mail). Through those items we can start to notice relations between the kingdoms before their conflict.
 
-The concept of a kingdom of Ironmight was proposed separately from our research by [user Magnicth on Spiral Knight subreddit](https://www.reddit.com/r/spiral_knights/comments/zakpe/the_ironmight_theory/).
+The concept of a kingdom of Ironmight was also presented separately from our research by [user Magnicth on Spiral Knight subreddit](https://www.reddit.com/r/spiral_knights/comments/zakpe/the_ironmight_theory/) with our further analysis of crown currency coinciding with theirs.
 
-##### Ironmight Shield, Crowns, and Coins
+##### Motif of Stars
 
-The glowing emblem on the [Ironmight Plate Shield](https://wiki.spiralknights.com/Ironmight_Plate_Shield) - `A superior shield forged from sun silver. The meaning of the crest on its face has been lost to time`, - _is the same emblem of a crown, engraved on the coins found across Clockworks_, persisting on Cradle to this day.
+The glowing emblem on the [Ironmight Plate Shield](https://wiki.spiralknights.com/Ironmight_Plate_Shield) -- `A superior shield forged from sun silver. The meaning of the crest on its face has been lost to time`, -- __is identical to emblem of a crown engraved on the coins found across Clockworks__ persisting on Cradle to this day.
 
-The dimensions of the currency and shield's emblem are identical. There are _matching star symbols in cardinal direction on the outer ring_ of the emblem and of the [coins](https://wiki.spiralknights.com/Crowns#Finding_Crowns) of all nominal values.
+The dimensions of the currency and shield's emblem are identical. There are __matching star symbols at the cardinal direction on the outer ring__ of the emblem and of the [coins](https://wiki.spiralknights.com/Crowns#Finding_Crowns) _of all nominal values_.
 
-This particular coincidence does seem intentional, due to application of that symbol on the shield specifically. The other similar shield with a mysterious glowing emblem, the [Volcanic Plate Shield](https://wiki.spiralknights.com/Volcanic_Plate_Shield), also seems intentional design choice, but will be covered separately.
+This particular design seems intentional due to application of that symbol on the shield specifically.
 
-Could presence of stars mean symbolic location of the crown - the monarch of a kingdom, - in the center of the Universe or night sky, as one surrounded or protected by stars? Or, is the kingdom ruling over stars in all cardinal directions as if being located at their symbolic center, in teh center of known Universe? We refer to this motif here as often a monarch would've been considered a divine ruler, through the application of the concept of the _Divine Right of Kings_. While this can be assumed for Ironmight kingdom, we also have similar theme of divinity in Almire, due to [their connection to Spirit Mother](#almire-and-spirit-mother).
+The other similar shield with a mysterious glowing emblem, the [Volcanic Plate Shield](https://wiki.spiralknights.com/Volcanic_Plate_Shield), also is of inerest to us due to its glowing emblem, but it will be covered separately.
 
-One thing is particular may point in that thematic direction is the description of the [Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore): `An extremely rare metal of great power said to be from the heavens above. It is often completely wasted on crowns and jewelry for slime royalty` ([Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore)). From the celestial ore one other element of kingship or monarchy is made - [Ice Queen Crown](https://wiki.spiralknights.com/Ice_Queen_Crown), as it uses Celestial Ore in its alchemy.
+Could presence of stars mean symbolic location of the crown -- the monarch of a kingdom, -- in the center of the Universe or night sky, as one surrounded or protected by stars? Or, is the kingdom ruling over stars in all cardinal directions as if being located at their symbolic center, in the center of known mediavalistic Universe? We refer to this motif here as often a monarch would've been considered a divine ruler, through the application of the concept of the _Divine Right of Kings_. While this can be assumed for Ironmight kingdom, we also have similar theme of divinity in Almire, due to [their connection to Spirit Mother](#almire-and-spirit-mother).
 
-It is common across history for crowns be made of rare, precious metals, but also that same notion can be attributed coins, - in case of Spiral Knight, crowns, which are also metallic as seen from their designs.
+One thing is particular may point in that thematic direction is the description of the [Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore): `An extremely rare metal of great power said to be from the heavens above. It is often completely wasted on crowns and jewelry for slime royalty` ([Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore)). From the celestial ore one other element of kingship or monarchy is made -- [Ice Queen Crown](https://wiki.spiralknights.com/Ice_Queen_Crown), as it uses Celestial Ore in its alchemy.
 
-In this interpretation, kingdom's currency had persisted on Cradle far past the kingdom itself, while being adopted by slime royalty and other civilizations later into the timeline.
+It is common across history for crowns be made of rare, precious metals, but also that same notion can be attributed coins. In case of Spiral Knight, crowns, which are also metallic as seen from their designs.
 
-There is also presence of [sun silver](https://wiki.spiralknights.com/Sun_silver#Usage), which was present in Isoran equipment - such as [Azure Guardian armor and weapons](https://wiki.spiralknights.com/Azure_Guardian_Armor) and [Valkyrian armor](https://wiki.spiralknights.com/Valkyrie_Mail), as well as the [Divine Avenger](https://wiki.spiralknights.com/Divine_Avenger), which was discussed in relation to the [Heavenly Guardian Armor](https://wiki.spiralknights.com/Heavenly_Guardian_Armor) in [similarity of Isorans to valkyries](#similarity-to-heavenly-kingdom).
+In this interpretation, _kingdom's currency had persisted on Cradle far past the kingdom itself_, while being adopted by slime royalty and other civilizations later into the timeline, including modern-day gremlins.
 
-This does not mean that Jelly civilization is involved into the Almirian conflict, but rather serves as a modern example of common practices being applied. We should note how sun silver is already present across the Universe and other civilizations, now with the addition of celestial ore, and as both contain heavenly themes.
+There is also presence of [sun silver](https://wiki.spiralknights.com/Sun_silver#Usage), which was present in Isoran equipment -- such as [Azure Guardian armor and weapons](https://wiki.spiralknights.com/Azure_Guardian_Armor) and [Valkyrian armor](https://wiki.spiralknights.com/Valkyrie_Mail), as well as the [Divine Avenger](https://wiki.spiralknights.com/Divine_Avenger), which was discussed in relation to the [Heavenly Guardian Armor](https://wiki.spiralknights.com/Heavenly_Guardian_Armor) in [similarity of Isorans to Valkyries]().
 
-There might be a greater link to a heavenly kingdom referred by Valkyries, as not a strictly physical place, given [origins of castles](#castles), but bordering a potentially divine and less physical realm - an idea in concept resembling the myth regarding Asgard of norse mythology, introduced in the [analysis of fiendish statues across castles](#fiendish-statues).
+There might be a greater link to a heavenly kingdom referred by Valkyries, as not a strictly physical place, given [origins of castles](), but bordering a potentially divine physical realm -- an idea at its concept resembling the myth regarding Asgard of Norse mythology through existence of Valkyries within heavenly kingdom, -- as motif of stars coupled with present [metaphysics](#metaphysical-stack) may result in discovery of such divine or heavenly realm, associated with stars.
+
+As we are observing this design now separately from Ironmight kingdom, we should point out a design of Darkfire Lord Vanaduke armor, which we will later discuss in greatest details, so far only acknowledging it -- __the star or sun-shaped metallic design around the visor of his armor__.
+
+<!--Motif of stars also emerges across Royal Jelly Palace Echo Stone:
+- `WITHIN MY DREAM I SEE YOUR LEGION FALLING TO THIS WORLD LIKE BURNING STARS`
+- `YOU FALL WITH PURPOSE, BURNING EVER BRIGHTER AS YOU REACH FOR THE HEART OF THIS WORLD`
+- `HOLD DEARLY THIS FIRE IN YOU, FOR DARKNESS WILL CONSUME ALL THE NIGHT IF ITS STARS BEGIN TO FADE` ([Echo Stone: Royal Jelly Palace](https://wiki.spiralknights.com/Echo_Stone:_Royal_Jelly_Palace)).-->
 
 ##### Strategic Use of Ironwood
 
-The [Ironmight Plate Mail](https://wiki.spiralknights.com/Ironmight_Plate_Mail) mentioned rare metals in its descriptions: `Superior plate mail forged from an alloy of several rare metals. its restrictive, but incredibly strong` ([Ironmight Plate Mail](https://wiki.spiralknights.com/Ironmight_Plate_Mail)). From the currently present materials, metals specifically, in an established cosmology we have a few:
+The [Ironmight Plate Mail](https://wiki.spiralknights.com/Ironmight_Plate_Mail) mentioned rare metals in its descriptions: `Superior plate mail forged from an alloy of several rare metals. Its restrictive, but incredibly strong` ([Ironmight Plate Mail](https://wiki.spiralknights.com/Ironmight_Plate_Mail)). From the currently present materials, metals specifically, in an established cosmology we have a few:
 
 - `An extraordinary metal imbued with the radiant light of the sky` ([Sun Silver](https://wiki.spiralknights.com/Sun_Silver)). It has a relation to heavens and the sun.
 - `A rare metal recovered from a shattered mountain deep within the realm of the Apocrea` ([Perplexing Element](https://wiki.spiralknights.com/Perplexing_Element)). This metal does not seem to be related to the current case of Almire nor other kingdoms.
