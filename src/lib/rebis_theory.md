@@ -4145,7 +4145,7 @@ Nature sprites also distinguish Isorans as star-borne, `Greetings again, star-bo
 
 ##### `Nature sprites are the rain, the root, and the soil`
 
-It is here we are provided with seemingly metaphorical relation of Nature Sprites to Spirit Mother: `we nature sprites are the rain, the root, and the soil`, as if they were an embodiment of nature, as `the essence of all natural life` ([Valestone]()).
+It is here we are provided with seemingly metaphorical relation of Nature Sprites to Spirit Mother: `we nature sprites are the rain, the root, and the soil` ([Shadowplay - Overgrown Court - Nature Sprite](https://wiki.spiralknights.com/Shadowplay/Overgrown_Court)), as if they were an embodiment of nature, as `the essence of all natural life` ([Valestone]()).
 
 The fiendish sigils depicted on the sacred circle at the center of the court also possess green hue suggesting them being drawn with Valestone if the notion of circles of art made of minerals persists.
 
@@ -4189,49 +4189,51 @@ It is important to note now that Chaos Cloak is an Owlite armor and considering 
 
 #### Raiders and Pagan Vikings
 
-The last of 3 kingdoms remains unknown. Here we propose that the third kingdom was based on a time period of viking invasions from 8 to 11 century.
+The last of 3 kingdoms remains unknown. We have briefly mentioned a relation of Raiders with that period of time. Here we propose that the third kingdom was based on a time period of viking invasions from 8 to 11 century.
 
-We suggest this mainly due to the existence of [Raider Prize Box](https://wiki.spiralknights.com/Raiders_Prize_Box). We will attempted to analyze it in relation to Isorans with a presumption that those items are historically accurate -- that they exist in confinements of the setting according the [prior analysis of raiders](#spiral-raiders).
+We suggest this mainly due to the existence of [Raider Prize Box](https://wiki.spiralknights.com/Raiders_Prize_Box). We will attempted to analyze it in relation to Isorans with a presumption that those items are historically accurate -- that they exist in confinements of the setting according the [prior analysis of raiders relative to established Greek and Norse mythology](#mythological-framing-of-spiral-raiders).
 
-Then there is case of total lack of any, even vague history of Isorans. Apart from them being an ancient spacefaring civilization, a period involving guns in an western theming, and of an existential war with Morai, there is no history on Isoran civilization. Due to this any equipment referencing any other less technologically advanced era should be capable of explanation. We believe, historical accuracy should be upheld here, mixed with semi-fantastic, medieval-inspired designs. At that, we should focus on one of main guiding elements of Isoran technology - [of lack of advanced damage types](#lack-of-damage-types), which are present for this ancient equipment.
+Then there is case of total lack of any, even vague history of Isorans. Apart from them being an ancient spacefaring civilization, a period involving guns in an western theming, and of an existential war with Morai, there is no history on Isoran civilization.
+
+Due to this, any equipment referencing any other less technologically advanced era should be capable of explanation and possess a distinct inspiration even if derived from multiple sources. We suggest, historical accuracy should be upheld here reltive to awareness of _semi-fantastic_, __mediavalistic designs and context__. At that, we should focus on one of main guiding elements of Isoran technology -- [of lack of advanced damage types](#lack-of-damage-types), -- which are present for this ancient equipment.
 
 Due to this, a sudden release of items, relating to Isoran past, when their entire history is virtually unknown, seems odd to us, compared to the rest of items being relatively new, as modern enough for plausibility of being wielded by a spacefaring civilization.
 
 We propose that raiding equipment, apart fom being Isoran, should fit into an established time period, which so far was not discussed. This period is the time, we suspect, was before Almire was invaded, with raiders representing the second invading kingdom.
 
-One notion we have to also mention here, apart from a _concept of raiders not having a kingdom in the first place as going against historically accurate vikings_, is that they in later periods of time were serving as mercenaries, with their work being done even in Mediterranean Sea, albeit after their transition from paganism to Christianity. It is important as in the Raider Prize Box there are items referencing elements of their older culture.
+One notion we have to also mention here, apart from a _concept of raiders not having a kingdom in the first place as going against historically accurate vikings_, is that they in later periods of time were serving as mercenaries, with their work being done even in Mediterranean Sea, albeit after their transition from paganism to Christianity. It is important, as items of Raider Prize Box bear emblem of a Spiral Warden, a modern design meant to be associted with Spiral Order.
 
 Here we might think of raider's equipment being designed with Spiral Order or an order of old insignia, but, we only saw the case of utilitarian, functional aspects of equipment being adapted by Spiral Order and not its cultural background, and no placement for Spiral Order symbolism, which is present both on the prize box and equipment itself.
 
 Before we proceed further, we have to argue that there is heavenly kingdom of Valkyries, seemingly located above 3 mountains, one of which was `magma-covered` (`A helm worm by heavenly guardians who watch over a kingdom hidden atop a magma-covered mountain` - [Raging Avenger Helm](https://wiki.spiralknights.com/Raging_Avenger_Helm)).
 
-While they seem as a preferable candidate for the second kingdom, as they are named as such and seem old enough for this time period, _they are in the sky_, - and the Kingdom of Almire is on earth, with Lord Vanaduke's army on earth.
-
-This distinction is too significant to consider heavenly kingdom as an actor in that war, and that is without considering them being framed as a heavenly, divine kingdom, standing in opposition to Underworld. Considering this, [we do have a later connection of them and Almire](#almirian-empire).
+While they seem as a preferable candidate for the second kingdom, as they are named as such and seem old enough for this time period, _they remain in the sky after fall of Almire_, which contradicts Lord Vanaduke's crusade after his transformation at the mountain shrine.
 
 On the other hand, heavenly kingdom being the second kingdom would characterize them as more nuanced, but we have so far very small amount of evidence to suggest it, as well as this approach would be too thematically misfitting in the context of the rest of their framing in the setting.
 
-At that, undead zombies are found across castles of heavenly kingdom, in a similar manner to howlitzers, which we [have linked to war with dragons](#howlitzers-dragons-and-drakes). But, as we will discuss further, we believe this element of undeath will be proven relevant in a _period of time, happening after Lord Vanaduke's return and him defeating armies of the 2 invading kingdoms_.
-
-##### Concept of Firestorm
+At that, undead zombies are found across castles of heavenly kingdom, in a similar manner to howlitzers, which we [have linked to war with dragons](#howlitzers-dragons-and-drakes). But, as we will discuss further, we believe this element of undeath will be proven relevant in a period of time, happening after Lord Vanaduke's return and fall of other 2 invading kingdoms.
 
 Raiders are seemingly inspired by popularized cultural perception of Vikings, which might suggest a vague time period at which we can operate as well as place the events of Almire's Fall.
 
-By presence of [Firestorm Skeggox](https://wiki.spiralknights.com/Firestorm_Skeggox) - `An ornate, fiery axe favored by raiders for its versatility`, -- with an energy symbol we can confirm this inspiration and relation to Vikings.
+<!--By presence of [Firestorm Skeggox](https://wiki.spiralknights.com/Firestorm_Skeggox), `An ornate, fiery axe favored by raiders for its versatility`, with an energy symbol we can confirm this inspiration and relation to Vikings.-->
 
-Based on [Squall Caller](https://wiki.spiralknights.com/Squall_Caller): `An ornate hammer infused with the power of a great storm, it's as cutting-edge as a blunt weapon can be`, we can suggest that this period of raiding history relates to a time of norse pagans, that is prior to their christianization and establishment of own territory to defend on the European mainland.
+Based on [Squall Caller](https://wiki.spiralknights.com/Squall_Caller): `An ornate hammer infused with the power of a great storm, it's as cutting-edge as a blunt weapon can be`, we can suggest that this period of raiding history relates to a time of norse pagans prior to their christianization and their establishment on European mainland.
 
-This is seems to us important, as the weapon such as Squall Caller, does resemble Mjölnir, a hammer, serving both as a weapon and a tool for thunder god Thor of Norse mythology. And potentially connection to storms of this cosmology, as elemental damage is attributed to them.
+This is seems to us important, as the weapon such as Squall Caller, does resemble Mjölnir, a hammer, serving both as a weapon and a tool for thunder god Thor of Norse mythology. This connection to storms may coincide both with an established pattern of thunder being associated with [post-draconic pantheon of gods](#lesser-creaton-myth) and element of storms being modern elemental.
 
-At the same time, labeling them as a kingdom, sets them, considering possible mainland location of Almire near mountains, as an already established, organized kingdom, which, in case of vikings happened only some time later. Although real history does not have a distinct event, dividing pre- and post- christianization vikings, as the pagan traditions did carry on, the design decisions for the equipment allow us only to hypothesize so far.
+At the same time, labeling them as a kingdom, sets them, considering possible mainland location of Almire near mountains, as an already established, organized kingdom which in case of vikings had happened only some time later. Although real history does not have a distinct event, dividing pre- and post- christianization vikings, as the pagan traditions did carry on, the design decisions for the equipment allow us only to speculate us so far in confinements of a fantasy setting.
 
 <!-- Apart from that, one other element was not earlier addressed - the key feature of mounted warden's head - [Raider Helm Crest](https://wiki.spiralknights.com/Raider_Helm_Crest). With the general depiction of a warden, one detail is out of place - the ears, or possibly, horns. Although we can't say for sure if it is the latter and not a change in ears' shape due to model itself, this can potentially mean something. Moreover, this element is depicted on the [prize box itself](https://wiki.spiralknights.com/Raiders_Prize_Box), as it is seen above warden's eye. Two possible suggestions we can come up with: leaning forwards ears are meant to symbolize alertness, considering raiders' lifestyle, and the other - a depiction of norse myth of Sleipnir, an eight-legged Odin's horse. Sleipnir he was capable of traveling across all nine realms of Norse cosmology, including realm of the dead. -->
 
+##### Concept of Firestorm
+
 The [Firestorm Raider Helm](https://wiki.spiralknights.com/Firestorm_Raider_Helm#Firestorm_Raider_Helm) is described as `a pristine raider helmet, save for a few dings and a thick coat of ash`, suggesting that it became such after fall of Almire, as it burned, as well as continuous raids on it despite destruction of 2 kingdoms by Lord Vanaduke.
 
-Raiders did came from cold regions as seen by overall design. And _based on the significance of the context behind firestorm,_ __its usage here is meant to be associated with Firestorm Citadel__. Moreover, given [Frenzied Firestorm](https://wiki.spiralknights.com/Frenzied_Firestorm#Frenzied_Firestorm) Drakon ability upgrade, this concept of a firestorm may be more fundamental, than the adjective Firestorm Citadel is given: `All that remains is a great citadel that seems to be engulfed in never-ending flames that Spiral HQ has been calling the 'Firestorm Citadel'. From what we can tell, the whole place is swarming with undead and built like a fortress` ([Eye of the Needle - Kora](https://wiki.spiralknights.com/Eye_of_the_Needle)), as it is related to dragons to characterize one of their aspects, of resembling a storm of fire.
+The act of invasion after Lord Vanaduke's return to the Grand Citadel may be assumed from his initial reaction on Knight's presence at the throne room: `What's this? More wolves hungry for the blood of Almire? Our great kingdom shall never fall to the likes of beasts!` ([Firestorm Citadel - Throne Room - Lord Vanaduke](https://wiki.spiralknights.com/Firestorm_Citadel/Throne_Room)).
 
-The fact that modern Spiral Order had given the Citadel such name, paralleling raiders' naming convention, if the raiders did come from past, seems us another link, connection the two civilizations as related by nature of being Isorans.
+Raiders did came from cold regions as seen by overall design. And _based on the significance of the context behind firestorm,_ __its usage here is meant to be associated with Firestorm Citadel__. Moreover, given [Frenzied Firestorm](https://wiki.spiralknights.com/Frenzied_Firestorm#Frenzied_Firestorm) Drakon ability upgrade, this concept of a firestorm and character of being frenzy may be more fundamental, than the adjective itself at the Citadel's name: `All that remains is a great citadel that seems to be engulfed in never-ending flames that Spiral HQ has been calling the 'Firestorm Citadel'. From what we can tell, the whole place is swarming with undead and built like a fortress` ([Eye of the Needle - Kora](https://wiki.spiralknights.com/Eye_of_the_Needle)), as it is related to dragons to characterize one of their aspects, resembling a storm of fire.
+
+The fact that modern Spiral Order had given the Citadel such name, paralleling raiders' naming convention, if the raiders did come from past, seems us another link, which connects the two civilizations as being Isoran in their separated by time nature.
 
 Lost Souls also refer to the Citadel as such: `You stand before the gates of the Firestorm Citadel, the former heart of the great Kingdom of Almire, now a dominion twisted by fire and malice` ([King of Ashes - Blackstone Bridge - Lost Soul](https://wiki.spiralknights.com/Lost_Soul_(Blackstone_Bridge))). We consider those Lost Souls being also people of Almire due to their presence within the Citadel and hinted benevolent motives, shared between all Almirian Souls.
 
@@ -4241,33 +4243,35 @@ Considering many potential parallels and inspirations behind this setting we sug
 
 - Kingdom of Almire, being of celtic background and a nature or water goddess of Spirit Mother.
 - Spiral Raiders being pagans, as pre-Christianized vikings, yet they could have a land and own kingdom to defend as part of the setting.
-- Ironmight Kingdom, being a powerful state, which in addition to raiders has managed to suppress Almire, with many inspirations leading to events somewhere around Norman conquest of England, and potentially Ireland.
+- Ironmight Kingdom, being a powerful state, which in addition to raiders has managed to suppress Almire, with many inspirations leading to events somewhere around Norman conquest of England and Ireland.
 
 ##### Caladbolg and Irish Mythology
 
 As for the relation to Ireland, there is [Lucky Prize Box](https://wiki.spiralknights.com/Lucky_Prize_Box). Apart from being, of course, a prize box with cosmetics, it is the design of those cosmetics which we are interested in, apart from a notion of those themed items being present in gaming culture in general.
 
-But, as we will discuss, ancient Irish celtic traditions and culture have a potential of being related back to the kingdom of Almire. We have to keep in mind that the basis for those inspirations behind said kingdoms is not strictly required to resemble any real-world events, but their themes.
+But, as we will discuss, ancient Irish celtic traditions and culture have a potential of being related back to the kingdom of Almire. We have to keep in mind that the basis for those inspirations behind said kingdoms is not strictly required to resemble any real-world events, but their themes, -- _images which were reshapen by modern storytelling and narratives_.
 
-Major element of Almire's culture is based on its relation to water and Spirit Mother. As we commit to a chronology where raiders are in the similar time span as Almire and Ironmight kingdoms, we suggest a potential relation to Irish kingdoms.
+Major element of Almire's culture is based on its relation to water and Spirit Mother. As we commit to a chronology where raiders are in the similar time period as Almire and Ironmight kingdoms, we suggest a potential relation to Irish kingdoms.
 
 As it was pointed out earlier, raiders seem to belong to pagans, mainly due to their equipment with motifs from Norse mythology. It may be plausible for this instance of paganism being the alignment to ancient concepts of spiral and energy.
 
-As on the contrary, kingdom of Almire is aligned with the Spirit Mother. This concept of a connection can be vaguely seen in the _Tuatha Dé Danann civilization of Irish mythology_. Tuatha Dé Danann were a race of divine beings and among them was the goddess Danu, who was _associated with nature, fertility, earth and water_. Danu also represents the fertile ground from which life springs and is _associated with rivers and flowing water_. This connection is seen in natural motif and designs of Almirian furniture, as well as in the water fountains of Almire whose water was taken from the Spirit Mother's Realm, capable of affecting the curse set by cursed Lord Vanaduke.
+As on the contrary, kingdom of Almire is aligned with the Spirit Mother. This concept of a connection can be vaguely seen in the _Tuatha Dé Danann civilization of Irish mythology_. Tuatha Dé Danann were a race of divine beings and among them was the goddess Danu, who was __associated with nature, fertility, earth and water__, similar to Nature Sprites being `the rain, the root, and the soil`. Danu also represents the __fertile ground from which life springs emerge__ and is _associated with rivers and flowing water_. This connection is seen in natural motif and designs of Almirian furniture, as well as in the water fountains of Almire whose water was taken from the Spirit Mother's Realm, capable of negating the curse set by cursed Lord Vanaduke.
 
-A possible connection to Irish mythology may be established also through items of Lucky Prize Box, specifically [Pot O' Crowns](https://wiki.spiralknights.com/Pot_O%27_Crowns) and [Caladbolg](https://wiki.spiralknights.com/Caladbolg), both dealing elemental fire damage. The latter item, the sword, seem to us important, as by the legends of medieval Irish mythology - Ulster Cycle - Caladbolg belongs to a king of Ulster. Another name for this kingdom is Ulaid, one of five and later four kingdoms of Ireland on par with Munster, reminiscent of 3 warring kingdoms.
+A possible connection to Irish mythology may be established also through items of Lucky Prize Box, specifically [Pot O' Crowns](https://wiki.spiralknights.com/Pot_O%27_Crowns) and [Caladbolg](https://wiki.spiralknights.com/Caladbolg), both dealing elemental fire damage. The latter item, the sword, seem to us important, as by the legends of medieval Irish mythology -- the `Ulster Cycle`, -- Caladbolg belongs to a king of Ulster. Another name for this kingdom is Ulaid, one of five and later four kingdoms of Ireland on par with Munster, reminiscent of 3 warring kingdoms. While this is a speculation, the thematic parallels of nature and warring nature of those kingdoms may be a common narrative.
 
 ##### Giant Sword
 
 Another element of similar design is located in the Wolver Den, a [scenario room with a giant sword stuck in stone](https://wiki.spiralknights.com/File:Scenario_Room-Wolver_Den_2.png).
 
-The sword is said to have a star map engraved on it, reminiscent of Isoran celestial sets. This might seem as an inspiration from a close to Ireland kingdom, a myth and symbol of the sovereignty of Great Britain. But, there are 2 elements to this: the sword is large, larger than any weapon so far discovered, and it has a map of stars: `Etched within the side of the blade appears to be some kind of map of the stars`. The only connection we can derive from it, given sword's size and connection to the stars is the myth of Asgard's construction with the assistance of Giants. The Sword of Freyr comes us to mind, as it was given up in marriage of Freyr with a giantess Gerðr.
+The sword is said to have a star map engraved on it, reminiscent of Isoran celestial sets. This might seem as an inspiration from a close to Ireland kingdom, a myth and symbol of the sovereignty of Great Britain. But, there are 2 elements to this: the sword is large, larger than any weapon so far discovered, and it has a map of stars: `Etched within the side of the blade appears to be some kind of map of the stars`. The only connection we can derive from it, given sword's size and connection to the stars is the _myth of Asgard's construction with the assistance of Giants_. The Sword of Freyr comes us to mind, as it was given up in marriage of Freyr with a giantess Gerðr.
 
 Here, if we attempt to extrapolate this myth, or merging of 2 myths, it would seem to us as follows.
 
-The sword was made by Valkyries, given the star map, to assist titans in their own work. The sword was sent from the heavens and stuck in a rock, located in [fractured region we have theorized to be the veiled homeland](#veiled-tortodrone-homeland), now identified as Wolver Den, given similar architecture. The sword was never used as it was likely too late for titans, as Undercorp erased them. Given titans' past with, mainly, valkyries, it would seem uncommon for Isorans, even as raiders, to be involved here with giants around the plot of this giant sword.
+The sword was made by Valkyries, given the star map, to assist titans in their own work. The sword was sent from the heavens and stuck in a rock, located in [fractured region we have theorized to be the veiled homeland](#veiled-tortodrone-homeland), now identified as Wolver Den, given similar architecture. The sword was never used as it was likely too late for titans, as [Undercorp had acted](#the-titans-tortomega-the-fall). Given titans' past with inclusion of Valkyries seems us unconventional for Isorans, even as raiders, to be involved here with giants around the plot of the giant sword.
 
-So far we have proposed a scenario of Isorans being stranded on a planet, which was at some point incorporated into Cradle. Such case seems to us relatively plausible also due to the fact that presence of Clockworks should then be recorder by, at least, people of Almire - based on the position of Haven, Clockwork tunnels are not particularly deep below the ground, which should've been recounted.
+So far we have proposed a scenario of Isorans being stranded on a planet, which was at some point incorporated into Cradle. Such case seems to us relatively plausible also due to the fact that presence of Clockworks should then be recorder by, at least, people of Almire -- based on the position of Haven, Clockwork tunnels are not particularly deep below the ground, which should've been recounted.
+
+Yet, among all existing species, we suggest it is only Tortomega who are capable of weilding a sword of that scale at a location closely associated with their architecture.
 
 ##### Location of Firestorm Citadel
 
@@ -4281,13 +4285,17 @@ Here we think of dragons' teeth in the context of western european legends, wher
 
 While this proposal does not completely suffice the setting of Almire, as the themes, found in relation to Devil's Bit does not seem to parallel ours, the general motif of broken teeth and devil is also found here as the [Fang of Vog](https://wiki.spiralknights.com/Fang_of_Vog), `a sword said to be created from the fang of the fire beast, Vog`.
 
-As it is alchemized from Almirian Seals, it might suggest its involvement with Lord Vanaduke, albeit the same Ancient Armor does not belong to this period of time despite being acquired for Almirian Seals, as we have discussed earlier. Yet, thw sword contains Vog's supposed idea of him both granting power through fire as well as that same fire being detrimental or shadowy even.
+As it is alchemized from Almirian Seals, it might suggest its involvement with Lord Vanaduke, albeit the same Ancient Armor does not belong to this period of time despite being acquired for Almirian Seals, as we have discussed earlier. Yet, the sword contains Vog's supposed idea of him both granting power through fire as well as that same fire being detrimental or shadowy even.
 
 Due to this we suggest __Vog being framed as a symbolic dragon perceived by the kingdom of Almire__ though accompanying it motifs. We will see further that presence of Vog in this period of time might be [deeper](#blackened-shrine-and-magma-deity) than the mountain shrine alone Lord Vanaduke will find.
 
+As Ancient Plate set is transmuted for Almirian Seals, it remains a matter of further discussion, whether it may belong to Titans, as most of Brinks' gear is seemingly associated with corresponding boss figures.
+
+As the citadle Lord Vanaduke was located was referred as thr `Grand Citadel`, we would suggest that this is the capital of kingdom of Almire, a castle, a palace and a fortress.
+
 #### King in The Mountain
 
-As we approach the analysis of Lord Vanaduke himself, we should point out a mythical trope of [king being asleep in the mountains](https://tvtropes.org/pmwiki/pmwiki.php/Main/KingInTheMountain), and returning in a time of kingdom's most need. Of course, in the case of Almire this [subverted](https://tvtropes.org/pmwiki/pmwiki.php/PlayingWith/KingInTheMountain) as Lord Vanaduke became the reason for Almire's fall and application of curse.
+As we approach the analysis of Lord Vanaduke himself, we should point out a mythical trope of [king being asleep in the mountains](https://tvtropes.org/pmwiki/pmwiki.php/Main/KingInTheMountain) and returning in a time of kingdom's most need. Of course, in the case of Almire this [subverted](https://tvtropes.org/pmwiki/pmwiki.php/PlayingWith/KingInTheMountain) as Lord Vanaduke became the reason for Almire's fall, followed by a _rapid spread of curse and undeath_.
 
 As Lord Vanaduke had searched the mountains, we relate back to 2 concepts:
 
