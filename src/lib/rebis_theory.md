@@ -4131,61 +4131,70 @@ It can be concluded that those are tree branches rather that black symmetrical i
 
 The tree, as a symbolic element of a crest, is associated with nature. There are nature-themed designs are seen across [all restored furniture](https://wiki.spiralknights.com/Almire_Furniture_Box), reminiscent of water fountains of the Spirit Mother and her [Nature Sprites](https://wiki.spiralknights.com/Nature_Sprite), suggesting a deeper connection of this figure with _kingdom's lineage_.
 
-Theme of nature and root is also present for [Nature Sprite at the Overgrown Court](https://wiki.spiralknights.com/Overgrown_Court): `Yes, we nature sprites are the rain, the root, and the soil. But you are not like us. You are like the ones below. ... Good fortune, star-borne`. [Nature Sprites](https://wiki.spiralknights.com/Nature_Sprite) have colored fur coat and furry, striped ears not particularly similar to [tier 3 dust bunnies](https://wiki.spiralknights.com/Dust_bunny) in contrast to devoid of fur devilites. But, as devilites, they possess a similar to devilites body shape, elongated ears and back small wings. Wings specifically are worth looking at, as at closer inspection, they are detached from Sprites' back, while seemingly being comprised of stone-like material with an engraved spiral at thaie base.
+Theme of nature and root is also present for [Nature Sprite at the Overgrown Court](https://wiki.spiralknights.com/Overgrown_Court): `Yes, we nature sprites are the rain, the root, and the soil. But you are not like us. You are like the ones below. ... Good fortune, star-borne`. [Nature Sprites](https://wiki.spiralknights.com/Nature_Sprite) have colored fur coat and furry, striped ears. Notably, they possess a similar to devilites body shape, elongated ears and back small wings. At a closer inspection, wings are detached from Sprites' back, while seemingly being comprised of stone material with an engraved spiral at their base.
 
 Then, Sprites are capable of being cursed which restricts there power and severs a link to the realm of Spirit Mother: `Without the power of the rest of the sprites, water will never flow through this realm. It requires a focus link with the Spirit Mother to bring even the smallest drops of water into such an oppressive world. The master of this realm has seen to it that the flames surrounding him will always burn. Then you are brave as well traveler. You can find my kinsfolk throughout the whole of this court. Be very careful though, for Vanaduke's terrible minions are guarding them. Many patrol the main drag, so watch your back as you move about. Once you find a sprite, carry them back to the sacred circle you see before you. They are no doubt weakened from Vanaduke's curse and will require rejuvenation. When six others are reunited we will form a focus link with the Spirit Mother and bring water to the wells` ([Firestorm Citadel - Charred Court - Nature Sprite](https://wiki.spiralknights.com/Firestorm_Citadel/Charred_Court)).
 
-Nature Sprites have seemingly less developed civilization, as suggested by their designs of, notably, painted masks with a single wide vertical stroke. The paint also covers Sprites' ears in 2 symmetrical stokes on each ear. So far we have only observed the color of _yellow, blue, and green_. In terms of association with minerals, they may relate to less confrontational aspects thoose minerals represent:
+Nature Sprites have seemingly less developed civilization, as suggested by their designs of, notably, painted masks with a single vertical stroke. The paint also covers Sprites' ears in 2 symmetrical stokes on each ear. So far we have only observed the color of _yellow, blue, and green_. In terms of association with minerals, they may relate to less confrontational aspects thoose minerals represent:
 
 - `A fabled mineral of a radiant, golden color said to contain the faith, wisdom, and zeal of the life surrounding it` ([Luminite]()).
 - `A fabled mineral of a brilliant, blue color said to contain the knowledge and origins of all worlds` ([Moonstone]()).
 - `A fabled mineral of a vibrant green color said to contain the essence of all natural life` ([Valestone]()).
 
-Nature sprites also distinguish Isorans as star-borne, `Greetings again, star-borne one. Star-borne?; Yes, we nature sprites are the rain, the root, and the soil. But you are not like us. You are like the ones below` ([Shadowplay - Overgrown Court - Nature Sprite](https://wiki.spiralknights.com/Shadowplay/Overgrown_Court)), which ties back albeit symbolically to their characteric as `celestial` eons-old civilization.
+Nature sprites also distinguish Isorans as star-borne, `Greetings again, star-borne one. Star-borne?; Yes, we nature sprites are the rain, the root, and the soil. But you are not like us. You are like the ones below` ([Shadowplay - Overgrown Court - Nature Sprite](https://wiki.spiralknights.com/Shadowplay/Overgrown_Court)), which ties back albeit symbolically to their characteric as alien to Cradle species, or, as `celestial` civilization.
 
-##### `Nature sprites are the rain, the root, and the soil`
+##### Deific Presence
 
 It is here we are provided with seemingly metaphorical relation of Nature Sprites to Spirit Mother: `we nature sprites are the rain, the root, and the soil` ([Shadowplay - Overgrown Court - Nature Sprite](https://wiki.spiralknights.com/Shadowplay/Overgrown_Court)), as if they were an embodiment of nature, as `the essence of all natural life` ([Valestone]()).
 
-The fiendish sigils depicted on the sacred circle at the center of the court also possess green hue suggesting them being drawn with Valestone if the notion of circles of art made of minerals persists.
+The fiendish sigils depicted on the sacred circle at the center of the court possess green hue suggesting them being drawn with Valestone, if we assume the pattern of circles of art being made of minerals.
 
-Then, the act of establishing the focus link: `When six others are reunited we will form a focus link with the Spirit Mother and bring water to the wells` ([Firestorm Citadel - Charred Court - Nature Sprite](https://wiki.spiralknights.com/Firestorm_Citadel/Charred_Court)), seems in this context as _common metaphysical principal of performing a summoning_ or ,in the current case, an establishment of a link between realms, reminiscent of [the ritual at the devilish drudgery scenario room](https://wiki.spiralknights.com/File:Scenario_Room-DevilishDrudgery_1.png).
+The act of establishing the `focus link`: `When six others are reunited we will form a focus link with the Spirit Mother and bring water to the wells` ([Firestorm Citadel - Charred Court - Nature Sprite](https://wiki.spiralknights.com/Firestorm_Citadel/Charred_Court)), seems in this context as a _common metaphysical principal of performing a ritual_ here being an establishment of a link between realms, reminiscent of [the ritual at the devilish drudgery scenario room](https://wiki.spiralknights.com/File:Scenario_Room-DevilishDrudgery_1.png).
 
-As designs of the fountains are very similar to restored Almirian furniture, as both _incorporate tree branches into their composition_, this may hint at a relation between _Almirian tradition, religion_ and __deific presence__ of the Spirit Mother. The supernatural union of Almire and Spirit Mother, we suggest to exist, due to Sprites' devotion to their goal of extinguishing the fires, as it might be the reason why they would try to right Lord Vanaduke's wrongs: `I've heard that some kind of force of nature had once tried to right his wrongs but Lord Vanaduke imprisoned it somewhere within his fortress. Finding and freeing it may prove useful` ([Nameless Lost Soul of Almire](https://wiki.spiralknights.com/Lost_Soul_of_Almire_(nameless))).
+The supernatural union of Almire and Spirit Mother, other than through common motif of nature, we suggest, exists partially due to Sprites' devotion to extinguishing the fires, with an externally suggested goal to right Lord Vanaduke's actions: `I've heard that some kind of force of nature had once tried to right his wrongs but Lord Vanaduke imprisoned it somewhere within his fortress. Finding and freeing it may prove useful` ([Nameless Lost Soul of Almire](https://wiki.spiralknights.com/Lost_Soul_of_Almire_(nameless))).
 
-This connection of Almire with the Spirit Mother is further affirmed through the announcement of [Almire Furniture Box](https://wiki.spiralknights.com/Almire_Furniture_Box): `Does your guild better commune with the Spirit Mother in her faraway realm?` ([Decorate your Guild Hall with the splendors of Almire!](https://forums.spiralknights.com/en/node/102786)). __A communion is offered between Isorans, a guild in particular, and Spirit Mother__.
+This connection of Almire with the Spirit Mother -- __her deific presence__, -- is further affirmed through the announcement of [Almire Furniture Box](https://wiki.spiralknights.com/Almire_Furniture_Box): `Does your guild better commune with the Spirit Mother in her faraway realm?` ([Decorate your Guild Hall with the splendors of Almire!](https://forums.spiralknights.com/en/node/102786)). __A communion is offered between Isorans, a guild in particular, and Spirit Mother__. Nature Sprites themselves are then referred back to Spirit Mother: `A spirit of nature willing to wander rather than follow the guide of the Spirit Mother` ([Nature Sprite (Furniture)](https://wiki.spiralknights.com/Nature_Sprite_(Furniture)#Creatures)).
 
-Nature Sprites themselves are referred back to Spirit Mother: `A spirit of nature willing to wander rather than follow the guide of the Spirit Mother` ([Nature Sprite (Furniture)](https://wiki.spiralknights.com/Nature_Sprite_(Furniture)#Creatures)).
+<!--At that, Almire itself translates from a name in Urdu as "aristocratic", which might serve as a hint at more existing connection through the name's origin to south-east cultures and countries. Specifically, the translation also is suggested to be an "aristocratic lady". Could it be linked to the Spirit Mother? Maybe as a literal kingdom of Spirit Mother, since spirit mother is directly mentioned in relation to the burning kingdom, as it would be her temporary domain, a sanctuary, in the material realm?-->
 
-At that, Almire itself translates from a name in Urdu as "aristocratic", which might serve as a hint at more existing connection through the name's origin to south-east cultures and countries. Specifically, the translation also is suggested to be an "aristocratic lady". Could it be linked to the Spirit Mother? Maybe as a literal kingdom of Spirit Mother, since spirit mother is directly mentioned in relation to the burning kingdom, as it would be her temporary domain, a sanctuary, in the material realm?
+Then there is power of water from Spirit Mother's Realm: `a force of nature summoned to this realm to extinguish the unnatural fire that is consuming it. ... Now none may proceed beyond the court as columns of shadow fire block all exits. Shadow fire can only be extinguished with the water that flows from these spirit wells. The water is the purest found in all of nature, flowing directly from the springs within the realm of the Spirit Mother herself` ([Firestorm Citadel - Nature Sprite](https://wiki.spiralknights.com/Nature_Sprite)).
 
-Then there is power of water from Spirit Mother's Realm: `a force of nature summoned to this realm to extinguish the unnatural fire that is consuming it. ... Now none may proceed beyond the court as columns of shadow fire block all exits. Shadow fire can only be extinguished with the water that flows from these spirit wells. The water is the purest found in all of nature, flowing directly from the springs within the realm of the Spirit Mother herself` ([Firestorm Citadel - Nature Sprite](https://wiki.spiralknights.com/Nature_Sprite)). This water is placed in opposition to the shadow fires, whose nature we will discuss [later](#nature-of-darkfire).
+This _particular kind of water_ is framed as the __only tool__ _capable of opposing shadow fires_, latter's nature we will discuss [later](#nature-of-darkfire). This establishes an idea of the shadow fire being dangerous enough to be only extinguishable by _water of supernatural origin_.
 
-This establishes an idea of the shadow fire being dangerous enough to be only extinguished by water of a higher realm, therefore an assumption of kingdom of Almire being a proxy and a sanctuary for Spirit Mother's presence across the material Realm, other than Nature Sprites, seems plausible.
+We do not know, why among other kingdoms Almire was selected as a kingdom with deific, beneficial presence, which had remained since.
 
-As fire itself is mostly likely of Underworld origin, given our later analysis of Lord Vanaduke's affliction, does Spirit Mother's realm is framed as metaphysical opposite of Underworld? Thematically it seems so, but, this spirit realm was not encountered or mentioned in any other place across Clockworks, nor it is invulnerable to the power of curse, while Valkyries are more revelant in the context of direct opposition to Underwotld and fiends. Does this divine realm is known in other cultures by a different name, yet containing a similar theme of nature, purification, presence of deities, and proximity to material realm?
+As fire and Lord Vanaduke's effects seemingly possess Underworldly, undead nature, given our later analysis of Lord Vanaduke's affliction, does Spirit Mother's realm become a metaphysical opposite to Underworld?
 
-More so, if __Nature Sprite states that only one type of Underworldly fire can be extinguished in divine means, would this also mean, that Spirit Mother's realm is the one Valkyries had referred as paradise__?
+Thematically it seems so, but, this spirit realm was not encountered or mentioned in any other place across Clockworks while it remains vulnerable to the power of curse. While Valkyries are more revelant in the context of direct opposition to Underworld and fiends, they are contained in their own thematic context, different from one of Spirit Mother. Yet, both Valkyries and Spirit Mother present a force, capable of opposing malign presence of Underworld.
 
-This seems as the strongest connection of placing this realm as one we have seen before, one, with which heavenly kingdom is closely associated, and from which the larger celestial aspect comes.
+With this context of Underworld's presence, can we find an explanation of Spirit Mother's connection with Almire? We propose an explanation: Almire, by being the closest to the power which had _led to its supernatural damnation and annihilation of nearby kingdoms_, may be a location of interest for presence, which resides in the shrine, being most plausibly an Underworld deity. By proxy of Spirit Mother's realm, her ability to counter those flames, we can assume, creates a __narrative of a prolonged opposition of Underworld and higher realm over the material realm as the ground of direct confrontaion__.
 
-The perception of the realm as one secluded to a deity of water, roots, and nature seem us as an implication of a greater hierarchy -- a pantheon -- of deities.
+More so, if Nature Sprites state that only this supernatural fire can be extinguished in divine, supernatural means, would this also mean, that _Spirit Mother's realm is the one Valkyries had referred as paradise_?
 
-More so, as it is stated that Underworld is known to contain many fiendish deities: `One of many statuettes carried by fiends as a means of gaining favor with their dark gods. The most valuable ones are 'MIBE' (mint in box of evil)` ([Wicked Idol](https://wiki.spiralknights.com/Wicked_Idol)), why a heavenly, divine realm would not to possess a similar multitide of deities?
+- `A cursed suit of armor once worn by a celestial being cast down from paradise` ([Armor of the Fallen](https://wiki.spiralknights.com/Armor_of_the_fallen)).
+- `A cursed crown once worn by a celestial being cast down from paradise` ([Crown of the Fallen](https://wiki.spiralknights.com/Crown_of_the_Fallen)).
 
-##### Lesser-known Realms
+The perception of Spirit Mother's realm as one secluded to a deity of water, roots, and nature seem us as an implication of a greater hierarchy -- a pantheon -- of deities.
 
-We do know that at least Nature Sprites outside of their realm are susceptible to curse which had made them restrained at the Firestorm Citadel withn the material realm.
+As it is stated that Underworld is known to contain many fiendish deities: `One of many statuettes carried by fiends as a means of gaining favor with their dark gods. The most valuable ones are 'MIBE' (mint in box of evil)` ([Wicked Idol](https://wiki.spiralknights.com/Wicked_Idol)), _why a heavenly, divine realm would not to possess a similar multitide of deities and different names across multiple cultures separated by time_?
 
-Nature Sprites we imprisoned within the Citadel, and, given Lost Soul's framing, this had happened a long time ago: `I've heard that some kind of force of nature had once tried to right his wrongs but Lord Vanaduke imprisoned it somewhere within his fortress` ([Nameless Lost Soul of Almire](https://wiki.spiralknights.com/Lost_Soul_of_Almire_(nameless)). This does not explicitly mean that Nature Sprites are immortal, but it proves aforementioned belief of their vulnerability to __curse can suppress entities associated with the divine__.
+##### Deific Realms
 
-In that notion of divinity, we do have to keep in mind imagery of spirals on Nature Sprites' wings.
+We do know that at least Nature Sprites outside of their realm are susceptible to curse which had made them restrained at the Firestorm Citadel within the material realm.
 
-This motif if vulnerability we can also see, although thematically unfitting, in the [Nameless Realm](#nameless-realm), introduced by the Chaos Cloak: `A forbidden mantle said to grant the wearer protection within the nameless realm where all elements are said to converge into one and divide into all` ([Chaos Cloak](https://wiki.spiralknights.com/Chaos_cloak)). We are reminded of it due to a special nature of this set, as one vulnerable not only to main status effects, but curse, too.
+Nature Sprites we imprisoned within the Citadel and, given Lost Soul's framing, this had likely happened long time ago: `I've heard that some kind of force of nature had once tried to right his wrongs but Lord Vanaduke imprisoned it somewhere within his fortress` ([Nameless Lost Soul of Almire](https://wiki.spiralknights.com/Lost_Soul_of_Almire_(nameless)). This does not explicitly mean that Nature Sprites are immortal, but it proves aforementioned belief of their vulnerability to __curse can suppress entities associated with the divine__.
 
-Although a speculation at that point, _the fact that Nature Sprite does not name Spirit Mother's realm by a distinguished name_ may be a potential reason to be the latter being named as such, -- nameless, -- because it is less explored than any other realm?
+<!--On that notion of divinity, we do have to keep in mind imagery of spirals on Nature Sprites' wings.-->
 
-It is important to note now that Chaos Cloak is an Owlite armor and considering further analysis of Owlite and their advancements in elemental magic, they regard the mantle as forbidden likely due to its connection to the Nameless Realm, which by proxy would _mark the realm itself as dangerous for currently unknown reasons_. Whether there is a hierarchical connection between Nameless Realm and the heavenly realm of Valkyries we have yet to explore.
+The motif if vulnerability we can also see, although thematically unfitting, in the [Nameless Realm](#nameless-realm), introduced by the Chaos Cloak: `A forbidden mantle said to grant the wearer protection within the nameless realm where all elements are said to converge into one and divide into all` ([Chaos Cloak](https://wiki.spiralknights.com/Chaos_cloak)). We are reminded of it due to a special nature of this set, as one vulnerable not only to main status effects, but curse, too.
+
+Although a speculation at that point, _the fact that Nature Sprite does not name Spirit Mother's realm by a distinguished name_ may be a potential reason to be the latter being named as such, -- nameless -- because it is less explored than any other realm?
+
+If we were to apply the prior metaphysical framework of spirit -- souls with auras -- emerging from an unknown realm, would Spirit Mother's realm become this very realm, and the Spirit Mother -- source of all souls, associated and dwelling in water? We believe this is highly likely because this interpretation offers an __archetypical narrative of divine, supernatural mother of spirit with a medium of water both as a carrier for the souls and a universal purifier__.
+
+It is important to note now that Chaos Cloak is an Owlite armor and considering further analysis of Owlite and their advancements in elemental magic, they regard the mantle as forbidden likely due to its connection to the Nameless Realm, which by proxy would _mark the realm itself as dangerous for currently unknown reasons_.
+
+Whether there is a hierarchical connection between Nameless Realm, the heavenly realm of Valkyries, and Spirit Mother's realm, we have yet to explore.
 
 #### Raiders and Pagan Vikings
 
@@ -4219,7 +4228,7 @@ Raiders are seemingly inspired by popularized cultural perception of Vikings, wh
 
 Based on [Squall Caller](https://wiki.spiralknights.com/Squall_Caller): `An ornate hammer infused with the power of a great storm, it's as cutting-edge as a blunt weapon can be`, we can suggest that this period of raiding history relates to a time of norse pagans prior to their christianization and their establishment on European mainland.
 
-This is seems to us important, as the weapon such as Squall Caller, does resemble Mjölnir, a hammer, serving both as a weapon and a tool for thunder god Thor of Norse mythology. This connection to storms may coincide both with an established pattern of thunder being associated with [post-draconic pantheon of gods](#lesser-creaton-myth) and element of storms being modern elemental.
+This seems important, as the weapon such as Squall Caller, does resemble Mjölnir, a hammer, serving both as a weapon and a tool for thunder god Thor of Norse mythology. This connection to storms may coincide both with an established pattern of thunder being associated with [post-draconic pantheon of gods](#lesser-creaton-myth) and element of storms being modern elemental.
 
 At the same time, labeling them as a kingdom, sets them, considering possible mainland location of Almire near mountains, as an already established, organized kingdom which in case of vikings had happened only some time later. Although real history does not have a distinct event, dividing pre- and post- christianization vikings, as the pagan traditions did carry on, the design decisions for the equipment allow us only to speculate us so far in confinements of a fantasy setting.
 
@@ -4242,8 +4251,8 @@ We propose that Raider, as their real world counterparts, __came from norse seas
 Considering many potential parallels and inspirations behind this setting we suggest that an approximate relation between kingdoms follows a pattern:
 
 - Kingdom of Almire, being of celtic background and a nature or water goddess of Spirit Mother.
-- Spiral Raiders being pagans, as pre-Christianized vikings, yet they could have a land and own kingdom to defend as part of the setting.
-- Ironmight Kingdom, being a powerful state, which in addition to raiders has managed to suppress Almire, with many inspirations leading to events somewhere around Norman conquest of England and Ireland.
+- Spiral Raiders being pagans, as pre-Christianized vikings, yet they could have an established land -- a kingdom to defend. A not particularly plausible, but at that point our more plausible explanation.
+- Ironmight Kingdom, being a powerful state, which in addition to raiders had managed to suppress Almire, with many inspirations leading to events somewhere around Norman conquest of England or Ireland. The latter scenario will be interesting to us due to a certain prize box.
 
 ##### Caladbolg and Irish Mythology
 
@@ -4257,7 +4266,7 @@ As it was pointed out earlier, raiders seem to belong to pagans, mainly due to t
 
 As on the contrary, kingdom of Almire is aligned with the Spirit Mother. This concept of a connection can be vaguely seen in the _Tuatha Dé Danann civilization of Irish mythology_. Tuatha Dé Danann were a race of divine beings and among them was the goddess Danu, who was __associated with nature, fertility, earth and water__, similar to Nature Sprites being `the rain, the root, and the soil`. Danu also represents the __fertile ground from which life springs emerge__ and is _associated with rivers and flowing water_. This connection is seen in natural motif and designs of Almirian furniture, as well as in the water fountains of Almire whose water was taken from the Spirit Mother's Realm, capable of negating the curse set by cursed Lord Vanaduke.
 
-A possible connection to Irish mythology may be established also through items of Lucky Prize Box, specifically [Pot O' Crowns](https://wiki.spiralknights.com/Pot_O%27_Crowns) and [Caladbolg](https://wiki.spiralknights.com/Caladbolg), both dealing elemental fire damage. The latter item, the sword, seem to us important, as by the legends of medieval Irish mythology -- the `Ulster Cycle`, -- Caladbolg belongs to a king of Ulster. Another name for this kingdom is Ulaid, one of five and later four kingdoms of Ireland on par with Munster, reminiscent of 3 warring kingdoms. While this is a speculation, the thematic parallels of nature and warring nature of those kingdoms may be a common narrative.
+A possible connection to Irish mythology may be established also through items of Lucky Prize Box, specifically [Pot O' Crowns](https://wiki.spiralknights.com/Pot_O%27_Crowns) and [Caladbolg](https://wiki.spiralknights.com/Caladbolg), both dealing elemental fire damage. The latter item, the sword, seem to us important, as by the legends of medieval Irish mythology -- the `Ulster Cycle`, -- Caladbolg belongs to a king of Ulster. Another name for this kingdom is Ulaid, one of five and later four kingdoms of Ireland on par with Munster, reminiscent of 3 warring kingdoms. While this is a speculation, the thematic parallels of nature and warring nature of those kingdoms may be a common narrative rooted in mythology.
 
 ##### Giant Sword
 
@@ -4265,7 +4274,7 @@ Another element of similar design is located in the Wolver Den, a [scenario room
 
 The sword is said to have a star map engraved on it, reminiscent of Isoran celestial sets. This might seem as an inspiration from a close to Ireland kingdom, a myth and symbol of the sovereignty of Great Britain. But, there are 2 elements to this: the sword is large, larger than any weapon so far discovered, and it has a map of stars: `Etched within the side of the blade appears to be some kind of map of the stars`. The only connection we can derive from it, given sword's size and connection to the stars is the _myth of Asgard's construction with the assistance of Giants_. The Sword of Freyr comes us to mind, as it was given up in marriage of Freyr with a giantess Gerðr.
 
-Here, if we attempt to extrapolate this myth, or merging of 2 myths, it would seem to us as follows.
+If we attempt to extrapolate this myth, or merging of 2 myths, it would seem to us as follows.
 
 The sword was made by Valkyries, given the star map, to assist titans in their own work. The sword was sent from the heavens and stuck in a rock, located in [fractured region we have theorized to be the veiled homeland](#veiled-tortodrone-homeland), now identified as Wolver Den, given similar architecture. The sword was never used as it was likely too late for titans, as [Undercorp had acted](#the-titans-tortomega-the-fall). Given titans' past with inclusion of Valkyries seems us unconventional for Isorans, even as raiders, to be involved here with giants around the plot of the giant sword.
 
@@ -4273,9 +4282,9 @@ So far we have proposed a scenario of Isorans being stranded on a planet, which 
 
 Yet, among all existing species, we suggest it is only Tortomega who are capable of weilding a sword of that scale at a location closely associated with their architecture.
 
-##### Location of Firestorm Citadel
+<!--##### Location of Firestorm Citadel
 
-Under this notion of relying on norse and irish mythology, we can attempt to establish the location of the Firestorm Citadel based on the proximity to the potentially volcanic mountains, while looking at presence of several kingdoms and Vikings being involved into the conflict.
+Under this notion of relying on Norse and Irish mythology, we can attempt to establish the location of the Firestorm Citadel based on the proximity to the potentially volcanic mountains, while looking at presence of several kingdoms and Vikings being involved into the conflict.
 
 Among few medieval Irish castles, we consider Firestorm Citadel being potentially inspired by the Rock of Cashel, located in the city of Cashel in Kingdom of Munster near the Galtee Mountains. Kingdom was invaded by Uí Imair's army of pagan Vikings. Near it a certain mountain is located - Devil's Bit.
 
@@ -4283,15 +4292,17 @@ According to the legend, the devil broke his teeth and spat the Rock of Cashel f
 
 Here we think of dragons' teeth in the context of western european legends, where teeth would hold symbolic meaning as well as being powerful artifacts.
 
-While this proposal does not completely suffice the setting of Almire, as the themes, found in relation to Devil's Bit does not seem to parallel ours, the general motif of broken teeth and devil is also found here as the [Fang of Vog](https://wiki.spiralknights.com/Fang_of_Vog), `a sword said to be created from the fang of the fire beast, Vog`.
+While this proposal does not completely suffice the setting of Almire, as the themes, found in relation to Devil's Bit does not seem to parallel ours,
 
-As it is alchemized from Almirian Seals, it might suggest its involvement with Lord Vanaduke, albeit the same Ancient Armor does not belong to this period of time despite being acquired for Almirian Seals, as we have discussed earlier. Yet, the sword contains Vog's supposed idea of him both granting power through fire as well as that same fire being detrimental or shadowy even.
+The general motif of broken teeth and devil is also found here as the [Fang of Vog](https://wiki.spiralknights.com/Fang_of_Vog), `a sword said to be created from the fang of the fire beast, Vog`.
+
+As it is alchemized from Almirian Seals, it might suggest its involvement with Lord Vanaduke, albeit the same Ancient Armor does not belong to this period of time despite being acquired for Almirian Seals, as we have discussed earlier. Yet, the sword contains Vog's supposed idea of him both granting power through fire as well as that same fire being detrimental even.
 
 Due to this we suggest __Vog being framed as a symbolic dragon perceived by the kingdom of Almire__ though accompanying it motifs. We will see further that presence of Vog in this period of time might be [deeper](#blackened-shrine-and-magma-deity) than the mountain shrine alone Lord Vanaduke will find.
 
 As Ancient Plate set is transmuted for Almirian Seals, it remains a matter of further discussion, whether it may belong to Titans, as most of Brinks' gear is seemingly associated with corresponding boss figures.
 
-As the citadle Lord Vanaduke was located was referred as thr `Grand Citadel`, we would suggest that this is the capital of kingdom of Almire, a castle, a palace and a fortress.
+As the citadle Lord Vanaduke was located was referred as the `Grand Citadel`, we would suggest that this is the capital of kingdom of Almire, a castle, a palace and a fortress.-->
 
 #### King in The Mountain
 
