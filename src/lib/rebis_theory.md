@@ -22,12 +22,12 @@ layout: entries_rebis
 </script>
 
 <h1 align="center">
-  Rebis Theory <span class="energy">🜔</span>
+  Burning Stars <span class="energy">🜔</span>
 </h1>
 
-Spiral Knights had proven to captivate as a setting and a story. It contains a distinct potential for expansive worldbuilding beyond currently existing resources. By acknowledging this potential we aim to answer, _why setting of Spiral Knights captivates and how it achieves it_. Furthermore, how answers to those questions frame Spiral Knights setting as a __postmodern heroic epic__.
+Spiral Knights had proven to captivate as a setting and a story. In this analyis we aim to answer how setting of Spiral Knights succeeds through its presentation. Then we indent to indentify how answers to those questions render Spiral Knights' setting as a _postmodern heroic epic_.
 
-We aim to present a set of narrative devices and tropes within a constructed system of symbols the setting may have utilized to present an immersive and believable aesthetics of a fictional universe.
+We will present a set of narrative devices and tropes within a constructed system of symbols the setting may have utilized to present an immersive and believable aesthetics of a fictional universe.
 
 ---
 
@@ -4448,39 +4448,50 @@ Throughout Almire's war with neighboring kingdoms, Valkyries of heavenly kingdom
 
 ##### Nature of the Mountain
 
-We return to the nature of the mountain itself. We believe that the mountain in question, one that houses the shrine, is indeed a volcano by following thematic parallels:
+We now return to the nature of the mountain itself which houses the Blackened Shrine. By following thematic parallels, we propose that this is a volcano with a supernatural elemnt of souls and access to Underworld found in its depth:
 
-- Presence of volcanic armor which utilizes volcanic iron as well as fiery souls - and as we discussed, both concept are not of material realm, by concept of souls. It is a volcano in the name, essentially.
-- Inner Sanctum of Legion of Almire is most reminiscent of excavated remains of the city of Pompeii, which had fallen to a volcano.
+- Presence of volcanic armor, supposedly manufactured by kingdom of Ironmight, utilizes volcanic iron as well as fiery souls. We have discussed that both concept are not of material realm, by concept of souls.
+- `A plated mail said to have been worn by fanatics that worshiped a magma god. Its fires will protect those that are worthy` ([Magmatic Fanatic Mail](https://wiki.spiralknights.com/Magmatic_Fanatic_Mail#Magmatic_Fanatic_Mail)).
+- `A mask said to have been worn by fanatics that worshiped a magma god. Its fires will light the path to victory` ([Magmatic Fanatic Mask](https://wiki.spiralknights.com/Magmatic_Fanatic_Mask#Magmatic_Fanatic_Mask))
+- Inner Sanctum of Legion of Almire is most reminiscent of excavated remains of the _city of Pompeii_ which had fallen to a volcano.
 
-Aforementioned relation to fire deity and ashen remains of the Legion of Almire may bring up a potential inspiration behind Vog, apart from being named such from volcanic fog, a concept of volcanic deity, specifically, roman god Vulcan. Vulcan is also associated with metalwork, which could be represented by the volcanic armor, and someone forging this plated armor with the elemental knowledge.
+Through those narratives presence of Blackened Shrine may be seen as natural extension of cultists' plot, as a scared location bearing image of a deity.
 
-Apart from Vulcan, a potential inspiration for the setting could be Fujisan Sengen Shrine located in the foothills of Mount Fuji, Japan.
+Aforementioned relation to fire deity and ashen remains of legions of Almire may bring up a potential inspiration behind Vog -- a concept of volcanic deity, specifically, roman god Vulcan. Vulcan is also associated with metalwork, which can be found in volcanic plate armor and a faction forging this armor with the knowledge of spiritual, supernatural nature of elements, fire in particular.
 
-Not only it is located in the volcanic mountain, enshrining Kamuatatsu-hime - goddess of water keeping volcano from erupting, and is associated with water springs. Both volcanic and water themes are present in Almire, as well as fit into a potential geography of Almire, being located in the foothills with water springs from the mountain, given how Lord Vanaduke had resorted to this myth in the mountains.
+<!--Apart from Vulcan, coupled with motif of nature for Almire and shrine in the mountains, a potential inspiration may be seen in Fujisan Sengen Shrine located in the foothills of Mount Fuji, Japan.-->
 
-This concept of a deity or a guardian is similar to Isoran myth of an Oni in the mountains: `Designed to frighten their enemies, this helm is in the visage of a fiend who lives in the mountains of a distant land. Said to guard the gate to heaven itself, it only allows those who are worthy to pass` ([Oni Helm](https://wiki.spiralknights.com/Oni_Helm)). This seems to us a very strong parallel to the perceived through retellings legend, due to which Lord Vanaduke departed into the mountains in the first place: `Going mad from the pressure, he fled from the citadel and vanished into the mountains, vowing that he would one day reclaim his throne. Leaving behind his family, his people, and his homeland, Vanaduke journeyed into the mountains to the east, driven by superstitious tales of ancient gods within their dark depths. He tirelessly searched the mountains for many years, no longer the man he was before, but a mad hermit` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)).
+<!--Not only it is located in the volcanic mountain, enshrining Kamuatatsu-hime - goddess of water keeping volcano from erupting, and is associated with water springs. Both volcan and water themes are present in Almire, as well as fit into a potential geography of Almire, being located in the foothills with water springs from the mountain, given how Lord Vanaduke had resorted to this myth in the mountains.-->
 
-It seems plausible to us that Almire, while it held power over land, and as it developed, __it unearthed the volcanic iron and flame souls deep in the mountains__. And, by being a medieval kingdom, one potentially aware of other realms, at least of Spirit Mother's realm, it is _plausible for it eventually to discover Underworld in the generally similar manner as Tortomega once did_.
+As the narrative of Almire's Fall suggests that the legend of a shrine was sparse to the point of _being considered a superstition_, we can attribute its creation to a civilization existing before Almire: `...he fled from the citadel and vanished into the mountains, vowing that he would one day reclaim his throne. Leaving behind his family, his people and his homeland, Vanaduke journeyed into the mountains to the east, driven by superstitious tales of ancient gods within their dark depths. He tirelessly searched the mountains for many years, no longer the man he was before, but a mad hermit. Then one day he discovered a small cave...` (Almire's Fall), which had to be aware of the supernatural nature of the deiry and greater cosmology.
 
-Through those discoveries, kept within the mountain, armor was made, forged from the volcanic iron. And, at the same time a __connection with Vog was established in the mountain, which can explain presence of both Blackened Shrine and Magma Fanatics__.
+As we have covered Underworld and Undercorp, we suggest that this civilization may have possessed a connection with Underworld through symbolism of faces within their designs -- as [monster gates](#monster-doors-security-flaw-of-clockworks) and [grim totems](#grim-totems-part-1), -- with an inherent, low-tech, occult property.
+
+While it is a speculation, existence of a builder civilization which itself is aware of Vog offers an opportunity for a time period and therefore history prior even to existence of kngdom of Almire with greater focus on the occult and more explicit presence of magic.
+
+<!--This concept of a deity or a guardian is similar to Isoran myth of an Oni in the mountains: `Designed to frighten their enemies, this helm is in the visage of a fiend who lives in the mountains of a distant land. Said to guard the gate to heaven itself, it only allows those who are worthy to pass` ([Oni Helm](https://wiki.spiralknights.com/Oni_Helm)). This seems to us a very strong parallel to the perceived through retellings legend, due to which Lord Vanaduke departed into the mountains in the first place: `Going mad from the pressure, he fled from the citadel and vanished into the mountains, vowing that he would one day reclaim his throne. Leaving behind his family, his people, and his homeland, Vanaduke journeyed into the mountains to the east, driven by superstitious tales of ancient gods within their dark depths. He tirelessly searched the mountains for many years, no longer the man he was before, but a mad hermit` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)).-->
+
+<!--It seems plausible to us that Almire, while it held power over land, and as it developed, __it unearthed the volcanic iron and flame souls deep in the mountains__. And, by being a medieval kingdom, one potentially aware of other realms, at least of Spirit Mother's realm, it is _plausible for it eventually to discover Underworld in the generally similar manner as Tortomega once did_.-->
+
+<!--Through those discoveries, kept within the mountain, armor was made, forged from the volcanic iron. And, at the same time a __connection with Vog was established in the mountain, which can explain presence of both Blackened Shrine and Magma Fanatics__.-->
 
 ##### Discovery of Vile Deity
 
 We can also suggest that near this time an unknown Vile fiendish entity was found, as seen in [Venom Fiend Mask](https://wiki.spiralknights.com/Venom_Fiend_Mask#Venom_Fiend_Mask): `A mask said to be crafted in the visage of a venomous fiend. It is infused with a vile essence that is sure to frighten your foes`, and its similarity to the Magma Deity.
 
-While being mainly a speculation, it proposes an explanation for this similarity as follows: _as Almire was at war, it can be plausible for the people of Almire to search for far more drastic measures_, and, as discussed in the [graveyards section](#graveyards), eventually someone would attempt to tap into the occult. A contact with the Underworld would be established, discovering the Vile Deity.
+As Nature Sprites possess crude application of color, so are poison themed zombies -- wich evokes the same primal theme as Underworld prior to Undercorp.
 
-This seems more possible if we take in consideration that _Lord Vanaduke had originally sought after the mountains due to a legend or a tale_: `Vanaduke journeyed into the mountains to the east, driven by superstitious tales of ancient gods within their dark depths.` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)). In that proposal, graveyards did remain the same, but the occult practices around them were now present.
+<!--While being mainly a speculation, it proposes an explanation for this similarity as follows: _as Almire was at war, it can be plausible for the people of Almire to search for far more drastic measures_, paralleling Lord Vanaduke's search, and, as discussed in the [graveyards section](#graveyards), eventually someone would attempt to tap into the occult from those means. A contact with the Underworld would be established, discovering the Vile Deity, manifested in presence of green essence occasionally leaking from the tombstones.-->
 
-The graveyards are present as the [necropolis grounds](https://wiki.spiralknights.com/Legion_of_Almire/Necropolis_Grounds) where Almirian army was buried and contain [Almirian tombs](https://wiki.spiralknights.com/File:Scenario_Room-Graveyard_1.png), _we can conclude that graveyards belong to the kingdom of Almire_. Both the necropolis and tombs we can find lingering, seemingly devilite activity:
+<!--This seems more possible if we take in consideration that _Lord Vanaduke had originally sought after the mountains due to a legend or a tale_: `Vanaduke journeyed into the mountains to the east, driven by superstitious tales of ancient gods within their dark depths` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)).-->
 
-- Near the necropolis have an occasional [Almirian tomb](https://wiki.spiralknights.com/File:Scenario_Room-Graveyard_variant.jpg) is found empty with shadow fires still burning in presence of cursed warrior.
-- In the necropolis, Devilite sigils and shadow fires are present near the tombs in the final arena of the [Necropolis Grounds](https://wiki.spiralknights.com/Legion_of_Almire/Necropolis_Grounds).
+The graveyards are present as the [necropolis grounds](https://wiki.spiralknights.com/Legion_of_Almire/Necropolis_Grounds) where Almirian army was buried and contain [Almirian tombs](https://wiki.spiralknights.com/File:Scenario_Room-Graveyard_1.png), resulting in an idea of [graveyard architecture being Almirian](#almirian-architecture).
 
-But, as for whoever was drawing the sigils, we do not know. A potential lead in that regard, but one that seems more of an asset reuse - is presence of devilite sigil-like patterns on the Water Fountain in the court of the Firestorm Citadel.
+Both the necropolis and tombs we can find lingering, seemingly devilite activity, specifically, at the necropolis -- Devilite sigils are present near the tombs in the final arena of the [Necropolis Grounds](https://wiki.spiralknights.com/Legion_of_Almire/Necropolis_Grounds).
 
-On the other hand, we know that some actor was summoning Black Kats - `Someone or something has summoned a horde of cursed Black Kats into the Clockworks` ([Kataclysmic Confrontation](https://wiki.spiralknights.com/Kataclysmic_Confrontation)), - could this culprit be also found here? We will remember this theme of an unknown figure, as we will return to it in the [chapter on Kat Tribe](#chapter-viii-kat-tribe).
+But as for whoever was drawing the sigils, we do not know. A potential lead in that regard, but one that seems more of an asset reuse -- is presence of devilite sigil-like patterns on the Water Fountain in the court of the Firestorm Citadel.
+
+Those factors, we suggest, point at presence or influence of Underworld onto Almire and material realm in that region prior to establishment of those kingdom, reaching the time Undercorp had invaded material realm through Tortomega, as currently the most ancient terrestrial civiliztion.
 
 #### Legion of Ur
 
@@ -10928,6 +10939,7 @@ Other aspects, briefly mentioned in contrast to Clockworks proper, are the conte
 ##### Valkyries / Owlites
 
 - [Dungeonpunk]() of Scarlet Fortress, and Royal Jelly Palace. In proximity of it, [Dark Fantasy](https://tvtropes.org/pmwiki/pmwiki.php/Main/DarkFantasy) of Candlestick Keep and [Grave Clouded](https://tvtropes.org/pmwiki/pmwiki.php/Main/GraveClouds) Graveyards.
+- Scarlet Fortress in particular is a castle which exists despite lack of its inhabitants. Yet, comapted to explicitly haunted state of Owlite Academy of Magics, the fortress thrives, albeit as a semi-safe location with research taking place across it, such as at the Eternal Study. The character of its associated names, coupled with generally __preserved, undeterred, royal aesthetics__ makes it a unique location to visit. Most importantly, as we pointed out aspect of royalty, the other component makes its impression most distinct while solidifying it through _contrast with the complexity of industrial nature of Clockworks_ -- the __fortress is metaphorically frozen in time__. It had remained unchanged since disapperance of its owners, and its scale, comparable to a megastructure, contrary the reactive nature of the latter, _remains as an idealistic image of a bygone era effortlessly remaining unchanged across time_.
 
 ##### Isorans
 
