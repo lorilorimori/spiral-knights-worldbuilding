@@ -4236,6 +4236,15 @@ At the same time, labeling them as a kingdom, sets them, considering possible ma
 
 <!-- Apart from that, one other element was not earlier addressed - the key feature of mounted warden's head - [Raider Helm Crest](https://wiki.spiralknights.com/Raider_Helm_Crest). With the general depiction of a warden, one detail is out of place - the ears, or possibly, horns. Although we can't say for sure if it is the latter and not a change in ears' shape due to model itself, this can potentially mean something. Moreover, this element is depicted on the [prize box itself](https://wiki.spiralknights.com/Raiders_Prize_Box), as it is seen above warden's eye. Two possible suggestions we can come up with: leaning forwards ears are meant to symbolize alertness, considering raiders' lifestyle, and the other - a depiction of norse myth of Sleipnir, an eight-legged Odin's horse. Sleipnir he was capable of traveling across all nine realms of Norse cosmology, including realm of the dead. -->
 
+We propose that Raider, as their real world counterparts, __came from northern regions, which allowed them to survive Lord Vanaduke's campaign from the mountains__ and _then come back to now ashen land of kingdom of Almire_ once they were defeated on the mainland.
+
+Considering many potential parallels and inspirations behind this setting we suggest that an approximate relation between kingdoms follows a pattern:
+
+- Kingdom of Almire with a celtic background and a deific alliance with goddess of nature, spirits, and water, Spirit Mother.
+- Spiral Raiders are pagans, as pre-Christianized vikings, yet preserving the culture and symbols of Spiral Order, they could possess an established land -- a kingdom to defend on the mainland and overseas.
+- Kingdom of Ironmight, being a primarily trading state as its heraldy, stars and crowns, are used as Cradle's currency symbols by the time Skylark had crash landed.
+
+
 ##### Concept of Firestorm
 
 The [Firestorm Raider Helm](https://wiki.spiralknights.com/Firestorm_Raider_Helm#Firestorm_Raider_Helm) is described as `a pristine raider helmet, save for a few dings and a thick coat of ash`. It introduces an event, which implies a connection with:
@@ -4255,14 +4264,6 @@ The fact that modern Spiral Order had given the Citadel such name, paralleling r
 
 Lost Souls also refer to the Citadel as such: `You stand before the gates of the Firestorm Citadel, the former heart of the great Kingdom of Almire, now a dominion twisted by fire and malice` ([King of Ashes - Blackstone Bridge - Lost Soul](https://wiki.spiralknights.com/Lost_Soul_(Blackstone_Bridge))). We consider those Lost Souls being also people of Almire due to their presence within the Citadel and hinted benevolent motives, shared between all Almirian Souls. As those souls are likely Almirians, we can explain their coincidental usage of the same term in relation to the citadel as canon.
 
-We propose that Raider, as their real world counterparts, __came from northern regions, which allowed them to survive Lord Vanaduke's campaign from the mountains__ and _then come back to now ashen land of kingdom of Almire_ once they were defeated on the mainland.
-
-Considering many potential parallels and inspirations behind this setting we suggest that an approximate relation between kingdoms follows a pattern:
-
-- Kingdom of Almire with a celtic background and a deific alliance with goddess of nature, spirits, and water, Spirit Mother.
-- Spiral Raiders are pagans, as pre-Christianized vikings, yet preserving the culture and symbols of Spiral Order, they could possess an established land -- a kingdom to defend on the mainland and overseas.
-- Kingdom of Ironmight, being a primarily trading state as its symbols, stars and crowns, are used as Cradle's currency symbols by the time Skylark had crash landed.
-
 ##### Caladbolg and Irish Mythology
 
 There are a few items within [Lucky Prize Box](https://wiki.spiralknights.com/Lucky_Prize_Box) with an established narrative with tap into Irish Mythology.
@@ -4275,11 +4276,11 @@ As on the contrary, kingdom of Almire is aligned with the Spirit Mother. This co
 
 A possible connection to Irish Mythology may be established also through items of Lucky Prize Box, specifically [Pot O' Crowns](https://wiki.spiralknights.com/Pot_O%27_Crowns) and [Caladbolg](https://wiki.spiralknights.com/Caladbolg), both dealing elemental fire damage. The latter item, the sword, accroding to Irish mythology -- the `Ulster Cycle` in particular, -- Caladbolg belongs to a king of Ulster. Another name for this kingdom is Ulaid, one of five and later four kingdoms of Ireland.
 
-We may suggest a far less actualized connection of an aforementioned narrative of 3 kingdoms through inspiration from _Anglo-Norman conquest of Ireland_. The act of 2 kingdoms invading Almire may be seen as similar to invasion of Ireland in a particular event: deposed by High King of Ireland king of Leinster, Dermot MacMurrough, sought assistance of England in order to reclaim his throne, which had marked the beginning of acual invasion of Ireland.
+<!--We may suggest a far less actualized connection of an aforementioned narrative of 3 kingdoms through inspiration from _Anglo-Norman conquest of Ireland_. The act of 2 kingdoms invading Almire may be seen as similar to invasion of Ireland in a particular event: deposed by High King of Ireland king of Leinster, Dermot MacMurrough, sought assistance of England in order to reclaim his throne, which had marked the beginning of acual invasion of Ireland.
 
-As it recontextualized the narrative in a way which frames the 2 invading kingdoms as a foreign force to Ireland as Lord Vanaduke's army of fiends to material realm, rather than internal to Ireland events involving High King of Ireland, we will conclude this a false lead.
+As it recontextualized the narrative in a way which frames the 2 invading kingdoms as a foreign force to Ireland as Lord Vanaduke's army of fiends to material realm, rather than internal to Ireland events involving High King of Ireland, we will conclude this a false lead.-->
 
-Given those inconsistencies, we will propose that at present moment items of Lucky Prize Box relate to the same period of time when kigdom of Almire had prospered.
+Given mediaval origin of that gear, similar to ancient plate set, we will propose that at present moment items of Lucky Prize Box relate to the same period of time when kingdom of Almire had prospered.
 
 ##### Giant Sword
 
@@ -4300,7 +4301,7 @@ The sword was made by Valkyries to assist titans -- Tortomega -- in their own wo
 
 Among all existing species, we suggest it is only Tortomega who are capable of weilding a sword of that scale at a location closely associated with their architecture.
 
-While stars are not commonly associated with Valkyries nor heavenly kingdom, we may think of Valkyries as Isorans, but currently, we are unable to present an explanation to the meaning of stars on the sword other than an elaboration of the true nature of heavenly kingom, higher realm or paradise ( `A cursed suit of armor once worn by a celestial being cast down from paradise` - [Armor of the Fallen](https://wiki.spiralknights.com/Armor_of_the_fallen)) itself as a descrete, celestial location or realm.
+While stars are not commonly associated with Valkyries nor heavenly kingdom, we may think of Valkyries as Isorans, but currently, we are unable to present an explanation to the meaning of stars on the sword other than an elaboration of the true nature of heavenly kingom, higher realm or paradise (`A cursed suit of armor once worn by a celestial being cast down from paradise` - [Armor of the Fallen](https://wiki.spiralknights.com/Armor_of_the_fallen)) itself as a descrete, celestial location or realm.
 
 So far we have proposed a scenario of Isorans being stranded on a planet, which was at some point incorporated into Cradle. Such case seems to us relatively plausible also due to the fact that presence of Clockworks should then be recorder by, at least, people of Almire -- based on the position of Haven, Clockwork tunnels are not particularly deep below the ground, which should've been recounted.
 
@@ -4330,75 +4331,124 @@ As the citadle Lord Vanaduke was located was referred as the `Grand Citadel`, we
 
 #### King in The Mountain
 
-As we approach the analysis of Lord Vanaduke himself, we should point out a trope of [king being asleep in the mountains](https://tvtropes.org/pmwiki/pmwiki.php/Main/KingInTheMountain) and him returning in a time of kingdom's most need.
+As we approach the analysis of Lord Vanaduke himself, we should point out a trope of [`king in the mountain`](https://tvtropes.org/pmwiki/pmwiki.php/Main/KingInTheMountain) -- a king being considered gone and then returning in a time of kingdom's most need.
 
-Of course, in the case of Almire this [subverted](https://tvtropes.org/pmwiki/pmwiki.php/PlayingWith/KingInTheMountain) as Lord Vanaduke became the reason for Almire's fall, followed by a _rapid spread of curse and undeath_.
+In the case of kingdom of Almire the ending of this narrative is [subverted](https://www.medievalists.net/2022/09/kings-mountain-myths-germany-byzantium/) as Lord Vanaduke when he had returned became the reason for Almire's fall and fall of nearby invading kingdoms, followed by a _rapid spread of curse and undeath_.
 
-As Lord Vanaduke had searched the mountains, we relate back to 2 concepts:
+As `Almire's Fall` hadescribed events from, generally, Lord Vanaduke's perspective, as the narratiion was focusing onhim and the events which had happened in the mountains, we also have accounts of his return in greater detail, rather than statement of fcat of him returnung with a fiendish army and burning down the land: `In time the two kingdoms fell, Vanaduke's legion burning everything in their path. When he returned to Almire, it burned as well, for everywhere he went, and everything he touched was doomed to ash. With nothing left to destroy, his legions left him and returned to the mountains` (`Almire's Fall`):
+
+<!--As Lord Vanaduke had searched the mountains, we relate back to 2 concepts:
+
+- `A helm worm by heavenly guardians who watch over a kingdom hidden atop a magma-covered mountain` ([Avenger's Helm](https://wiki.spiralknights.com/Raging_Avenger_Helm#Storm_Avenger_Helm)).
+- `A helm worn by members of the Scarlet Scouts. Designed to frighten their enemies, this helm is in the visage of a fiend who lives in the mountains of a distant land. Said to guard the gate to heaven itself, it only allows those who are worthy to pass` ([Oni Helm](https://wiki.spiralknights.com/Oni_Helm)).-->
+
+- `Lord Vanaduke brought the fire from the mountains to our kingdom. Everything burned. His enemies. Even his family. My family was lost too. I fled the battle as soon as I saw the wave of flames in the distance. I was able to reach my home just in time to see it burn. I don't even remember how it ended. I have no memory of my passing` ([Nameless Lost Soul of Almire](https://wiki.spiralknights.com/Lost_Soul_of_Almire_(nameless)#Dialogue)).
+- `Like so many of its people, Law and Order have fled Almire. Only Justice remains, but she too has been twisted by the cursed flames that ravage our kingdom. Justice is now the burning scepter of our once great Lord Vanaduke. Justice is swift, unflinching, merciless. My position has afforded me much in my life. I used to love the view that my tower offers. From these lofty heights I thought of myself as the first one to greet the spring season, the first to smell the life in the air as the flowers bloomed. Now only death and smoke hang in the air, even from these great heights. And the fires; the unnatural fires that seem to burn eternal, the fires that turn even the most pious men into horrible nightmares, I know that these fires shall soon take me as well. I will not give my former Lord the gift of my own life. It is not his to take, to twist. This shall be my final order. This shall be my Justice` ([Legion of Almire - Inner Sanctum - Almirian Codex](https://wiki.spiralknights.com/Almirian_codex_text_Dialogue/Inner_Sanctum)).
+
+<!--The `unnatural` nature of Lord Vanaduke's shadow fire twists those it had inflicted.-->
+
+This establishes a general timeline of events. Lord Vanaduke fled into the mountains, there he spent _years_: `He tirelessly searched the mountains for many years, no longer the man he was before, but a mad hermit` ([`Almire's Fall`](https://wiki.spiralknights.com/index.php?title=Firestorm_Citadel&oldid=1263)). It is unknown weather Almire at that point had fallen under control of invading kingdoms, as the aforementioned recounts of those events do not conatin this information.
+
+[Almirian Codex](https://wiki.spiralknights.com/Almirian_codex_text_Dialogue/Inner_Sanctum) notes on people of Almire fleeing as `Like so many of its people, Law and Order have fled Almire` as well as `I fled the battle as soon as I saw the wave of flames in the distance` which make it ambigious, whether:
+
+- Shrinking population, lack of law and order, and ongoing battle are consequences of Almire being ruled by an alliance of invading of kingdoms or struggling at war years after Lord Vanaduke had fled, or;
+- Those are being direct result of Lord Vanaduke's return announced by a `wall of fire`, as those virtues are juxtaposed to `Justice`, which had remained, albeit morally degraded by presence of curse -- `Only Justice remains, but she too has been twisted by the cursed flames that ravage our kingdom. Justice is now the burning scepter of our once great Lord Vanaduke. Justice is swift, unflinching, merciless`.
+
+  Through this account we can identify Lord Vanaduke's mace he uses during the fight at Grand Citadel's throne room as his `burning scepter` -- `Justice is now the burning scepter of our once great Lord Vanaduke`.
+
+Through those texts we can identify properties of shadow fire:
+
+- Supernatural nature of fire allows it to burn eternally, `unnatural fires that seem to burn eternal` ([Legion of Almire - Inner Sanctum - Almirian Codex](https://wiki.spiralknights.com/Almirian_codex_text_Dialogue/Inner_Sanctum)), as evident by the state Firestorm Citadel is found more than 1000 years after Almire's Fall
+- Due to supernatural nature of fire it can only be extinguished with divine water from Spirit Mother's relam, specifically from spirit wells: `The water is the purest found in all of nature, flowing directly from the springs within the realm of the Spirit Mother herself` ([Firestorm Citadel - Nature Sprite](https://wiki.spiralknights.com/Nature_Sprite)).
+- Supernatural nature of fire transforms the physical apperance: `the fires that turn even the most pious men into horrible nightmares` ([Legion of Almire - Inner Sanctum - Almirian Codex](https://wiki.spiralknights.com/Almirian_codex_text_Dialogue/Inner_Sanctum)), which we proposed to be soul's aura.
+- Fire does not burn the soul, but traps it:
+  - `I will not give my former Lord the gift of my own life. It is not his to take, to twist` ([Legion of Almire - Inner Sanctum - Almirian Codex](https://wiki.spiralknights.com/Almirian_codex_text_Dialogue/Inner_Sanctum)).
+  - `There the cursed king has remained since, in an ashen throne of a burning kingdom, surrounded by all the lost souls of the people that once served him` (Almire's Fall).
+
+Meanwhile in the mountains, Lord Vanaduke found a shrine to an unknown deity. It was located in a chamber, whose floor was of ash and burning coals: `Within it he discovered a great chamber whose floor was waist deep in ashes. They were warm, and Vanaduke soon felt the sting of hot coals through his tattered boots. At the center of the chamber was a blackened shrine, whose deity's features were worn and indistinguishable` (Almire's Fall).
+
+This property of shrine's chamber design, with ash and coals present, of course, relates to fire. But it is unknown whether the mountain itself is a volcano or the unnatural warmth is delegated to only this chamber. As Lord Vanaduke was last described being in the shrine, and as it is recounted by citizens of Almire that fires began to erupt from the mountains, yet it is unknown thether the shrine itself was the source of the fires.
+
+Yet we can identify the shrine as the __location from which Lord Vanaduke's fiendish army had emerged__ -- _the ashen floor leading to the source of that army below_: `With nothing left to destroy, his legions left him and returned to the mountains, leaving the king to sit in his throne of ash and cinder` (Almire's Fall).
+
+The wall of flames described to come with Lord Vanaduke suggests magic similar to _fire snakes being cast during the fight_. SHadow fire was capable of transformation -- that seems to be the case of a burning undead across the Necropolis. Those undead are ones already discussed in the [crypts and undeath section](#crypts-and-undeath):
+
+- [Slag Walker](https://wiki.spiralknights.com/Zombie#Slag_Walker)
+- [Carnavon](https://wiki.spiralknights.com/Zombie#Carnavon)
+- [Almirian Shadow Guard](https://wiki.spiralknights.com/Almirian_Shadow_Guard#Almirian_Shadow_Guard)
+- [Almirian Crusaders](https://wiki.spiralknights.com/Almirian_Crusader)
+
+Everyone, apart from Slag Walkers which posses an armor, are related to the curse either through their appearance or ability to inflict it onto others.
+
+Yet, they are not the original army of so called fiends, which are stated in the text of Almire's Fall to come with the king and return to the mountains -- `With nothing left to destroy, his legions left him and returned to the mountains, leaving the king to sit in his throne of ash and cinder` (Almire's Fall), -- suggesting that this other army came from the shrine and differs from the ones tranformed by fire.
+
+##### Blackened Shrine and Magma Deity
+
+Before covering Lord Vanaduke's fiendish army, we will analyze the shrine within the mountains. We will refer to it as the _Blackened Shrine_ based on the text of `Almire's Fall`: `They were warm, and Vanaduke soon felt the sting of hot coals through his tattered boots. At the center of the chamber was a blackened shrine, whose deity's features were worn and indistinguishable`.
+
+We have a candidate, one fitting both with fiery and curse themes of the deity of the shrine -- the unnamed magma god, referred by the magma fanatics, first introduced in the [fiendish cults](#fiendish-cults). It is seen by their design and description: `A plated mail said to have been worn by fanatics that worshiped a magma god. Its fires will protect those that are worthy` ([Magmatic Fanatic Mail](https://wiki.spiralknights.com/Magmatic_Fanatic_Mail#Magmatic_Fanatic_Mail)). The phrase `Its fires will protect those that are worthy` seem similar to `...this helm is in the visage of a fiend who lives in the mountains of a distant land. Said to guard the gate to heaven itself, it only allows those who are worthy to pass` ([Oni Helm](https://wiki.spiralknights.com/Oni_Helm)) as the motif of worth:
 
 - `A helm worm by heavenly guardians who watch over a kingdom hidden atop a magma-covered mountain` ([Avenger's Helm](https://wiki.spiralknights.com/Raging_Avenger_Helm#Storm_Avenger_Helm)).
 - `A helm worn by members of the Scarlet Scouts. Designed to frighten their enemies, this helm is in the visage of a fiend who lives in the mountains of a distant land. Said to guard the gate to heaven itself, it only allows those who are worthy to pass` ([Oni Helm](https://wiki.spiralknights.com/Oni_Helm)).
 
-Those mythological notions are not currently applicable to the context of kingdom of Almire.
+As [Magmatic Fanatic Mail](https://wiki.spiralknights.com/Magmatic_Fanatic_Mail#Magmatic_Fanatic_Mail) refers in _omnious manner to worth and fire_, so Lord Vanaduke and the rest of the legions of Almire were cursed by the flames.
 
-Quoting [Nameless Lost Soul of Almire](https://wiki.spiralknights.com/Lost_Soul_of_Almire_(nameless)#Dialogue): `Lord Vanaduke brought the fire from the mountains to our kingdom. Everything burned. His enemies. Even his family. My family was lost too. I fled the battle as soon as I saw the wave of flames in the distance. I was able to reach my home just in time to see it burn. I don't even remember how it ended. I have no memory of my passing`.
+Through those flames _they were granted cursed immortality_, as well as, eventually, resulting in Almire defeating other kingdoms, although in a subverted, cursed and undead state: `Leading an army of terrible fiends, Vanaduke returned to his kingdom, destroying the occupied forces of the two opposing kingdoms in a single day` (Almire's Fall).
 
-Quoting [Almirian Codex](https://wiki.spiralknights.com/Almirian_codex_text_Dialogue/Inner_Sanctum): `Like so many of its people, Law and Order have fled Almire. Only Justice remains, but she too has been twisted by the cursed flames that ravage our kingdom. Justice is now the burning scepter of our once great Lord Vanaduke. Justice is swift, unflinching, merciless. My position has afforded me much in my life. I used to love the view that my tower offers. From these lofty heights I thought of myself as the first one to greet the spring season, the first to smell the life in the air as the flowers bloomed. Now only death and smoke hang in the air, even from these great heights. And the fires; the unnatural fires that seem to burn eternal, the fires that turn even the most pious men into horrible nightmares, I know that these fires shall soon take me as well. I will not give my former Lord the gift of my own life. It is not his to take, to twist. This shall be my final order. This shall be my Justice`.
+Spiral HQ has its own note on the deity behind [Magmatic Fanatic Mail](https://wiki.spiralknights.com/Magmatic_Fanatic_Mail#Magmatic_Fanatic_Mail) -- `A plated mail said to have been worn by fanatics that worshiped a magma god. Its fires will protect those that are worthy`, as: `Even more fun: by burning things while taking on the visage of a fiery deity of martial prowess` [Fire GOOD!](https://forums.spiralknights.com/en/node/111013).
 
-This establishes a general timeline of events. Lord Vanaduke fled into the mountains, there he spent _years_. It is unknown weather Almire at that point had fallen under control of invading kingdoms.
-
-Meanwhile in the mountains, Lord Vanaduke found a shrine to an unknown deity. It was located in a chamber, whose floor was of ash and burning coals.
-
-This property of shrine's chamber design, with ash and coals present, of course, relates to fire. But this is unknown weather the mountain itself is a volcano or the unnatural warmth is delegated to only this chamber.
-
-As Lord Vanaduke was last described being in the shrine, and as it is recounted by citizens of Almire that fires began to erupt from the mountains, it is likely that the shrine itself was the source of the fires, and a location from which Vanaduke's fiendish army had emerged - the ashen floor and whatever is below. It was mentioned that Vanaduke felt burning coals below the ash - so it seems as if the entirety of the chamber was laid with coal. Could it be a portal, from which fiendish army had emerged? Since we don't have any other places Lord Vanaduke had gone to, it seems very likely.
-
-The wall of flames described to come with Lord Vanaduke, suggest some magic similar to fire snakes seen being cast during th fight. That same cursed fire was capable of transformation into "nightmares" people of Almire - that seems to be the case of a few undead aligning with the Almire. Those undead are ones already discussed in the [crypts section](#crypts): [Slag Walker](https://wiki.spiralknights.com/Zombie#Slag_Walker) and [Carnavon](https://wiki.spiralknights.com/Zombie#Carnavon), [Almirian Shadow Guard](https://wiki.spiralknights.com/Almirian_Shadow_Guard#Almirian_Shadow_Guard), and [Almirian Crusaders](https://wiki.spiralknights.com/Almirian_Crusader). Everyone but the first are related to the curse either through the design or ability to inflict it on others.
-
-Yet, they are not the original army of so called fiends, which are stated in the text of Almire's Fall to return with the king, suggesting that this other army came from the shrine, potentially immune to shadow fire, and differs from the undead, transformed by those flames.
-
-We will analyze them in relation to Underworld, as it will be later seen by the implied nature of the Blackened Shrine found by Lord Vanaduke in the mountains.
-
-##### Blackened Shrine and Magma Deity
-
-Before covering Lord Vanaduke's fiendish army, we must establish some connections with the Blackened Shrine itself. We define the name of  Blackened Shrine, based on the text of Almire's Fall: `They were warm, and Vanaduke soon felt the sting of hot coals through his tattered boots. At the center of the chamber was a blackened shrine, whose deity's features were worn and indistinguishable.`
-
-We have a candidate, one fitting both with fiery and curse themes of the deity of the shrine - the unnamed magma god, referred by the magma fanatics, first introduced in the [fiendish cults](#fiendish-cults). It is seen by their design and description: `A plated mail said to have been worn by fanatics that worshiped a magma god. Its fires will protect those that are worthy.` ([Magmatic Fanatic Mail](https://wiki.spiralknights.com/Magmatic_Fanatic_Mail#Magmatic_Fanatic_Mail)). The phrase `Its fires will protect those that are worthy` seem to parallel how Lord Vanaduke and the rest of the Legions of ALmire were burned by flames. Through those flames they were granted cursed immortality, as well as, eventually, resulting in Almire defeating other kingdoms, although in a subverted, cursed and undead state.
-
-Spiral HQ has its own note on the deity, likely being the same: `Even more fun: by burning things while taking on the visage of a fiery deity of martial prowess` ([Fire GOOD!](https://forums.spiralknights.com/en/node/111013)). It is unknown, how Spiral Order regained this knowledge, but, based on the earlier discussed [Operation Gelid](#operation-gelid-and-other-methods-of-escaping-cradle), we can suggest that this case might be of similar nature, tracing back to Underworld's influence now onto Spiral Order.
+It is unknown, how Spiral Order had regained this knowledge, but, based on the earlier discussed [Operation Gelid](#operation-gelid), we can suggest that this case might be of similar nature, tracing back to expanding understanding of Underworld by Spiral Order or of Spiral HQ being compromised by an actor from Underworld.
 
 The roster of items describes an entity, a suggested fanatic, who seems to possess a portion of this deity's power:
 
 - `A plated mail said to have been worn by fanatics that worshiped a magma god. Its fires will protect those that are worthy` ([Magmatic Fanatic Mail](https://wiki.spiralknights.com/Magmatic_Fanatic_Mail#Magmatic_Fanatic_Mail)).
-- `A mask said to have been worn by fanatics that worshiped a magma god. Its fires will light the path to victory` ([Magmatic Fanatic Mask](https://wiki.spiralknights.com/Magmatic_Fanatic_Mask#Magmatic_Fanatic_Mask)).
+- `A mask said to have been worn by fanatics that worshiped a magma god. Its fires will light the path to victory` ([Magmatic Fanatic Mask](https://wiki.spiralknights.com/Magmatic_Fanatic_Mask#Magmatic_Fanatic_Mask)). Given `visage of a fiery deity of martial prowess` ([Fire GOOD!](https://forums.spiralknights.com/en/node/111013)), we can identify this mask as similar to _actual face of the magma deity_.
 - [Magmatic Fanatic Wings](https://wiki.spiralknights.com/Magmatic_Fanatic_Wings)
 - [Magmatic Shackles](https://wiki.spiralknights.com/Magmatic_Shackles#Magmatic_Shackles)
 
-The design of fanatics' gear is reminiscent of celestial gear of ancient Isorans, but currently we can consider it only as a coincidence.
+The design of fanatics' gear is reminiscent of celestial gear of ancient Isorans, but currently we can consider it only as a coincidence, as well as with addition of wings -- of Apocrean Disciples.
 
-##### Vog, God of The Mountain
+As the fanatic gear bears similar motif of a connection to Underworld, as Arctic gear to Apocrea, as it bears similar to shadow fire of Almire motifs, we propose that there is only one `fiery deity` which is inherently related to Underworld, which makes itself present in the material realm, and whose presence Spirit Mother was suppressing from her realm, __Vog__.
 
-As for the general theme, as we covered [fiendish cults](#fiendish-cults), we suggest __magmatic fanatics relating to the Magma Deity, and here we can conclude, that this deity's name is Vog__.
+##### Vog, the Fire Beast-Deity of Underworld
 
-It was established that Vog is not a wolver, but the effects of this deity's power affect all living entities in the similar manner - this includes both Lord Vanaduke's transformation, [magmatic fanatics](https://wiki.spiralknights.com/Magmatic_Fanatic_Mail#Magmatic_Fanatic_Mail) and [vog cubs](https://wiki.spiralknights.com/Vog_Cub#Vog_Cub), and the equipment made of the latter, [Vog Cub Set](https://wiki.spiralknights.com/Vog_Cub_Coat). This set, compared to volcanic armor, has distinct design, identical to all of other manifestations of Vog's influence.
+[Fang of Vog](https://wiki.spiralknights.com/Fang_of_Vog), `a sword said to be created from the fang of the fire beast, Vog`, presents the most direct acknowledgement of existence of Vog and its identity as the `fire beast`.
 
-Lord Vanaduke resembles a fiery giant, while the rest of Almirians - Crusaders, Carnavons, and likely Royal Guards, are much less smaller in comparison. The case of guards being far larger than any Isoran can be resolved through an idea of them being skeletal figures, which in folklore and modern fiction are known to possess this property through their assembly and disassembly. We will discuss this concept further in the analysis of [Undead Dreadnoughts](#undead-dreadnoughts).
+We think of dragons' teeth in the context of western european legends, where teeth would hold symbolic meaning as well as being powerful artifacts. The general motif of broken teeth is found in the [Fang of Vog](https://wiki.spiralknights.com/Fang_of_Vog), `a sword said to be created from the fang of the fire beast, Vog`, which frames Vog as a beast. Yet, it remains a _powerfull sentient deity with not explicitly malevelent, but cruel motivations_, onto which we have [elaborated previously](#blackened-shrine-and-magma-deity) as the source of shadow fire's nature.
 
-Then there are vog cubs. There are no present sources of their resemblance, but, as based on the equipment, made from their hides - the [Vog Cub set](https://wiki.spiralknights.com/Vog_Cub_Coat), - they seem to also possess same volcanic characteristics, as this set has the same blazing cracked pattern. The Vog Cub set being an upgrade of [Ash Tail set](https://wiki.spiralknights.com/Ash_Tail_Coat) also _allows us to draw parallels with_ [frostifurs](https://wiki.spiralknights.com/Perma_Frostifur#Frostifur) and [Perma-Frostifurs](https://wiki.spiralknights.com/Perma_Frostifur#Perma-Frostifur) _as both in differing capacity seem to align to the Hail Deity_, as discuss in the [influences of Underworld](#influences-of-underworld).
+As Fang of Vog is alchemized from Almirian Seals, it suggests its involvement with Almire. The crual nature of that fire is reflected in sword's debuff of a chance to inflict fire onto the weilder, __mirroring the subversion of Lord Vanaduke's fulfilled wish to reclaim his kingdom__.
 
-The title of a deity, for the simplicity, we can attribute to Vog as a continuation of the naming convention [stated by Nick](https://forums.spiralknights.com/en/node/9995#comment-55776) - `The great fire beast Vog isn't a wolver himself, but a fiery deity of sorts who embraces some creatures and grants them a bit of power. Vog's 'cubs' are more or less acquired and forced to spread his fiery love across the world. The Snarbolax has no relation to Vog`, - a fire beast-deity Vog, and by the evidence of him possessing fangs: `A sword said to be created from the fang of the fire beast, Vog` ([Fang of Vog](https://wiki.spiralknights.com/Fang_of_vog)). But, as we discussed earlier the motif of a medieval dragon, we can also suggest this item, the Fang of Vog, belonging not to the Vog himself, but his manifestation in material realm, a wolver, perhaps?
+Presence of Vog is not restricted to Almire's narrative as [fiendish cults](#fiendish-cults) continue to exist, the Blackened Shrine was carved in the mountain before kingdom of Almire was invaded. we propose _magmatic fanatics relating to the Magma Deity, and here we can propose that this deity's name is Vog_.
 
-It has the same cracked design while being constantly in flames, which, due to tricky nature of the deity, is also detrimental to its wielder.
+It was established that Vog is not a wolver  -- `The great fire beast Vog. The great fire beast Vog isn't a wolver himself, but a fiery deity of sorts who embraces some creatures and grants them a bit of power. Vog's 'cubs' are more or less acquired and forced to spread his fiery love across the world` ([Nick Popovich](https://forums.spiralknights.com/en/node/9995#comment-55776)), -- yet the effects of this deity's power affect all living entities in the similar manner:
 
-Finally, the [Vog slippers](https://wiki.spiralknights.com/File:Vog_Slippers-Equipped.png) of the [Cozy Prize Box](https://wiki.spiralknights.com/Cozy_Prize_Box) depict vog cubs as fire-themed wolvers with glowing muzzle and burning tail.
+- Lord Vanaduke's transformation
+- [magmatic fanatics](https://wiki.spiralknights.com/Magmatic_Fanatic_Mail#Magmatic_Fanatic_Mail)
+- [Vog cubs](https://wiki.spiralknights.com/Vog_Cub#Vog_Cub), and the equipment made of the latter, [Vog Cub Set](https://wiki.spiralknights.com/Vog_Cub_Coat)
+- Legions of Almire:
+  - [Slag Walker](https://wiki.spiralknights.com/Zombie#Slag_Walker)
+  - [Carnavon](https://wiki.spiralknights.com/Zombie#Carnavon)
+  - [Almirian Shadow Guard](https://wiki.spiralknights.com/Almirian_Shadow_Guard#Almirian_Shadow_Guard)
+  - [Almirian Crusaders](https://wiki.spiralknights.com/Almirian_Crusader)
+- On smaller note [Vog slippers](https://wiki.spiralknights.com/File:Vog_Slippers-Equipped.png) of the [Cozy Prize Box](https://wiki.spiralknights.com/Cozy_Prize_Box) depict vog cubs as fire-themed wolvers with glowing muzzle and burning tail, preserving this motif of burning.
 
-It is important to note that the heavenly kingdom is located above magma-covered mountains: `A helm worm by heavenly guardians who watch over a kingdom hidden atop a magma-covered mountain` ([Raging Avenger Helm](https://wiki.spiralknights.com/Raging_Avenger_Helm)). Does this mean that the mountain in question is the same one the blackened shrine is located?
+Those instances possess a distinct design, _identical to manifestations of Vog's influence_.
 
-Throughout Almire's war with neighboring kingdoms, Valkyries of heavenly kingdom had remained uninvolved, given lack of any their presence. They did not intervene with the war, but, we suggest that at some point, with the introduction of fiendish magic, they had to take measures. Those measure eventually resulted in the banishment of Legion of Ur into the Underworld. We bring up them here due to a later event of Lord Vanaduke returning from the mountains with a fiendish army.
+Lord Vanaduke resembles a fiery giant, while the rest of Almirians -- Crusaders, Carnavons, and to a degree Royal Guards, -- are much less smaller in their stature by magnitudes. The case of guards being far larger than any Isoran will be explored further in the analysis of [Undead Dreadnoughts](#undead-dreadnoughts).
 
-We can reason why valkyries haven't intervene, as in case of Undercorp's erasure of Titans, and a plausible explanation could be one where events of this chapter had happened on a remote planet, separate from heavenly kingdom. But, there is existence of Owlites, who had surpassed valkyrian divine magic, and studied the kingdom of Almire - which would seem  unfitting be both Owlites alive already on Cradle.
+Then there are vog cubs. There are no present sources of their resemblance, but, as based on the equipment, made from their hides -- the [Vog Cub set](https://wiki.spiralknights.com/Vog_Cub_Coat), -- they seem to also possess same volcanic characteristics, as _this set possesses identical blazing cracked pattern_. The Vog Cub set being an upgrade of [Ash Tail set](https://wiki.spiralknights.com/Ash_Tail_Coat) also _allows us to draw parallels with_ [frostifurs](https://wiki.spiralknights.com/Perma_Frostifur#Frostifur) and [Perma-Frostifurs](https://wiki.spiralknights.com/Perma_Frostifur#Perma-Frostifur) _as both in differing capacity seem to align to the Hail Deity_, as discuss in the [influences of Underworld](#influences-of-underworld).
 
-We now have to return to the nature of the mountain itself. We believe that the mountain in question, one that houses the shrine, is indeed a volcano by following thematic parallels:
+<!--It is important to note that the heavenly kingdom is located above magma-covered mountains: `A helm worm by heavenly guardians who watch over a kingdom hidden atop a magma-covered mountain` ([Raging Avenger Helm](https://wiki.spiralknights.com/Raging_Avenger_Helm)). Does this mean that the mountain in question is the same one the blackened shrine is located?-->
+
+As we had commited to an idea of Valkyries of heavenly kingdom existing prior to Tortomega, they would exist during medieval age of kingdoms. Yet, according to this interpretaion Valkyries had not interveneed with Undercorp seizing Tortomega, nor fiends accompanying Lord Vanaduke.
+
+Throughout Almire's war with neighboring kingdoms, Valkyries of heavenly kingdom had remained uninvolved, given lack of any their presence. They did not intervene with the war, but, we suggest that at some point with the introduction of fiendish magi, potentially through Lord Vanaduke's fiendish legon, they had to take measures. We propose those measures eventually resulted in the _banishment of Legion of Ur into the Underworld_.
+
+<!--We can reason why valkyries haven't intervene, as in case of Undercorp's erasure of Titans, and a plausible explanation could be one where events of this chapter had happened on a remote planet, separate from heavenly kingdom. But, there is existence of Owlites, who had inherited valkyrian divine magic and studied the kingdom of Almire.-->
+
+##### Nature of the Mountain
+
+We return to the nature of the mountain itself. We believe that the mountain in question, one that houses the shrine, is indeed a volcano by following thematic parallels:
 
 - Presence of volcanic armor which utilizes volcanic iron as well as fiery souls - and as we discussed, both concept are not of material realm, by concept of souls. It is a volcano in the name, essentially.
 - Inner Sanctum of Legion of Almire is most reminiscent of excavated remains of the city of Pompeii, which had fallen to a volcano.
