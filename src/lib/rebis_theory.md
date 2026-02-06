@@ -4631,9 +4631,11 @@ Dark matter itself is stated to `contain the essences of both chaos and nothingn
 
 The part involving `psychic manipulation` is important, which we suspect to be present to some extent, albeit through different means.
 
-This theme of madness from presence of dark matter, is introduced in detail in [Acheron](https://wiki.spiralknights.com/Acheron): `this dark weapon has been known to drive weak-minded knights to the brink of madness`, and, partially, [Obsidian Edge](https://wiki.spiralknights.com/Obsidian_Edge): `A sinister sword made from the obsidian obelisks found within the realm of the Apocrea. Simply holding it makes you somehow feel guilty of an unknown crime`. Despite the latter being an eldritch brandish, both are initially alchemized from the 3-star [Nightblade](https://wiki.spiralknights.com/Nightblade): `A short slicer infused with the essence of the Underworld`.
+This theme of madness from presence of dark matter, is introduced in detail in [Acheron](https://wiki.spiralknights.com/Acheron), `this dark weapon has been known to drive weak-minded knights to the brink of madness`, and, partially, [Obsidian Edge](https://wiki.spiralknights.com/Obsidian_Edge), `A sinister sword made from the obsidian obelisks found within the realm of the Apocrea. Simply holding it makes you somehow feel guilty of an unknown crime`. Despite the latter being an eldritch brandish, both are initially alchemized from the 3-star [Nightblade](https://wiki.spiralknights.com/Nightblade): `A short slicer infused with the essence of the Underworld`.
 
 In continuation of the theme of silence, the [Silent Nightblade](https://wiki.spiralknights.com/Silent_Nightblade) is described as `Crafted with some of the most devilish materials found on Cradle, this inky blade can explode with fiendish fury`. The only material added to the recipe compared to its 3-star version is the [Ghost Bell](https://wiki.spiralknights.com/Ghost_Bell), an undead-themed material while the rest are fiend-themed. [Ghost Bell](https://wiki.spiralknights.com/Ghost_Bell) is described as `A small silvery bell worn by considerate ghosts that alerts the living when they are nearby` which is an antonym of silence, and the theme of the bell itself is one of declaring presence of death.
+
+Is this `madness` which plagues Arkus, and is it also the haunting?
 
 <!--<BookCitation source="John Donne - No Man Is an Island">
 
@@ -4666,7 +4668,6 @@ In continuation of the theme of silence, the [Silent Nightblade](https://wiki.sp
   It tolls for thee.
 
 </BookCitation>-->
-
 
 If the above scenario is true -- of Arkus being haunted, -- then this presents a scenario, in its uniqueness similar to the [Ghosts in the Machine](#ghosts-in-the-machine), as those souls communicate with the living. The aspect of benevolence can be seen here. As in the Iron Hulk, those souls, trapped in the machine were helping the knight. Here, likely souls ask Arkus to leave those feelings behind -- `In the eyes of these silent warriors I see myself: cold, strong, unflinching... and crumbling. I have been asked to let it go, to move on, but this I cannot do` ([Recon Module: Cryptic Statuary - Arkus](https://wiki.spiralknights.com/The_Silent_Legion/Cryptic_Statuary)), and then the voices themselves seemingly leave Arkus -- `I could swear I heard them just now, their voices carrying in the wind. No longer screams, no longer cries- whispers. Indecipherable even in the stillness of this place. Are they leaving me here? Why must I be left behind?` ([Cryptic Statuary - Arkus](https://wiki.spiralknights.com/The_Silent_Legion/Cryptic_Statuary)).
 
@@ -4713,15 +4714,19 @@ Moths were believed to be carriers or be guidance for souls. Apart from it, Arku
 
 Could it be that during Arkus's fight in the Cryptic Statuary _greavers serve non-violent means of a soul refusing of departure_, chosing solitude over oblivion? Moreover, considering all of the known logic behind manipulation and transfer of souls, could it be that we have witnessed __Underworld's proper ancient method of capturing souls__, paralleling Apocrean Harvester, as both are insect-like creatures?
 
+With this, we may now approach the analysis of effects of dark matter onto trojan and Isoran.
+
 #### Minerals and Souls: Part 3 - Mineral Charge
 
-Sparks of Life, or rather, an emergency revive, _supercharges dark matter shard in Arkus_, __forming small arcs of purple lightning__ on the first revive around the crystal. On the second revive, those __arcs are seen all throughout Arkus's armor__.
+Sparks of Life, or rather, an emergency revive, _supercharges dark matter shard in Arkus_, __forming small arcs of purple lightning__ on the first revive around the crystal.
 
-The last stages in that regard resemble tier 3 trojans, as both do have a characteristic purple crystal fuming, and lightning. Arkus' Dark Matter shard, same as trojans', glows pink and _burns with the same purple flame_, __not seen before initial revive__.
+On the second revive, those __arcs are seen all throughout Arkus's armor__.
 
-__This property of burning after a revive in mineral, we propose, is the depiction of mineral's now charged state.__
+The last stages in that regard resemble tier 3 trojans, as both do have a characteristic purple crystal fuming and lightning arcs. Arkus's dark matter shard, same as trojans', glows pink and __burns with the same purple flame, not found before initial revive__.
 
-Revising tortofists' ammo, there is potentially only other one instance of charged Dark Matter -- the bullets of [Gorgofist](https://wiki.spiralknights.com/Gorgofist). In that case the crystals are the same color as pillars, but they have bright purple pulsing glow as the rest of tortofists' ammo.
+_This property of burning after a revive in mineral, we propose, is the depiction of mineral's now charged state._
+
+Revising tortofists' ammo, there is potentially only other one instance of charged dark matter -- the projectiles of [Gorgofist](https://wiki.spiralknights.com/Gorgofist). In that case the crystals are the same color as pillars, but they have bright purple pulsing glow as the rest of tortofists' ammo.
 
 Throughout [Minerals and Souls](#minerals-and-souls-part-1), [Auras and Souls](#auras-and-souls), and [Apocrean Engines](#apocrean-engines) we had suggested that __minerals under unknown conditions could contain Energy-based charge__.
 
