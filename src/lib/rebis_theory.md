@@ -4826,28 +4826,24 @@ For this, we will eventually need to look into a different period of time, _prec
 
 <!--As zombies are resurrected, as _Carnavons and Lord Vanaduke are animated by curse, which grants them immortality_, what have happened to Arkus, and by extension, Maulos, and the Legion of Ur in order fo them to become fiends?-->
 
-<!--As far as information about Arkus claims, he could have either metaphorically or literally perish and then be brought back to life through curse, given unidentified effects of ruinous crystal and therefore a space for speculation. This narrative would be similar to _Lord Vanaduke's traversal into the mountains_ and present grief, albeit Arkus has no final goal compared to Lord Vanaduke.-->
-
-<!--Apart from the transformation being seemingly caused by the _sheer grief and exposure to Underworld_, we have to search further, while assuming such case, as no evidence of Arkus's death before an encounter with him was found.-->
-
-<!--Trojans were _sealed in the Underworld and then summoned_, and _Maulos is summoned from Underworld or even Blinding Abyss_. Maulos brought influence of everfrost with him and is transformed by it or by being sealed in the Blinding Abyss.-->
-
-Slag Walkers, and the rest of Almire's legion were scorched by shadow fires of Lord Vanaduke, as he returned from the mountains. _This does not explicitly mean death_, as souls of Almirians remain trapped, as much the soul and will of Lord Vanaduke.
+Almire's legions were scorched by shadow fires of Lord Vanaduke as he returned from the mountains. _This does not explicitly mean death_, as souls of Almirians remain trapped, as much the soul and will of Lord Vanaduke.
 
 ##### Lord Vanaduke's Eternal Will
 
-In that sense we suggest that presence of fiery souls after Firestorm Citadel was partially cleansed by the water from [Spirit Mother's Realm](#spirit-mothers-realm) and LORD Vanaduke's defeat may reveal that _they were trapped in a corporeal form of perished or ashen Almirians_ in a similar manner as Lord Vanaduke is described by the [Lost Soul of Almire](https://wiki.spiralknights.com/Lost_Soul_of_Almire_(nameless)): `Lord Vanaduke rules over the citadel now. His soul bound to some horrific armored prison. ... Allow the souls he keeps bound to this world a chance to return` ([Alone in The Dark - Lost Souls of Almire](https://wiki.spiralknights.com/Lost_Soul_of_Almire_(nameless)#Dialogue)). And yet, as we noted on the abnormal nature of Lord Vanaduke in initial analysis of souls, it is clear that soul itself may choose by its own unconscious will to remain.
+We suggest that presence of fiery souls after Firestorm Citadel was partially cleansed by the waters from [Spirit Mother's Realm](#spirit-mothers-realm) and Lord Vanaduke's defeat may reveal that _souls were trapped in a corporeal form of ashen Almirians_ in a similar manner as Lord Vanaduke is described by the [Lost Soul of Almire](https://wiki.spiralknights.com/Lost_Soul_of_Almire_(nameless)): `Lord Vanaduke rules over the citadel now. His soul bound to some horrific armored prison. ... Allow the souls he keeps bound to this world a chance to return` ([Alone in The Dark - Lost Souls of Almire](https://wiki.spiralknights.com/Lost_Soul_of_Almire_(nameless)#Dialogue)). And yet, as we noted on the unique nature of Lord Vanaduke in initial [analysis of souls](#cradle-metaphysics-part-1), it is seems that soul itself may choose by its own unconscious will to remain in the material relam, while omitting external forces which may bound it.
 
-__That it is not metaphysics of Cradle which forbid Almire to rest, but the curse itself rendering Lord Vanaduke's body to an immortal prison for his soul__. And, if the corporeal body is manifestation of an aura, then we can _identify another property of curse as targeting soul's aura_.
+It is not metaphysics of Cradle which forbids Almire to rest, but the __curse itself rendering Lord Vanaduke's body to an immortal prison for his soul adn will__. And, if the corporeal body is manifestation of an aura, then we can _identify another property of curse -- as one targeting soul's aura_.
 
-Souls are bound to the citadel, which burns as long as Lord Vanaduke is alive. The quote `His soul bound to some horrific armored prison` here, we believe, has 2 interpretations:
+Souls are bound to the citadel, which burns as long as Lord Vanaduke is alive as his will persists. The quote `His soul bound to some horrific armored prison` here, we believe, has 2 interpretations:
 
-- Less of a reference to the citadel, _but to Lord Vanaduke's armor_, as the armor itself seems unnatural, transforming with the Lord, and by presence of word "some", which in the context of the entire dialogue seems to us as a reference to a different object, such as his armor, which becomes even more distinct for Darkfire Lord Vanaduke through its unique design.
 - Referring to the Citadel itself. Once Lord Vanaduke is defeated, Nature Sprites had regained power to put out the fire: `Firestorm Citadel continues to burn with accursed flames. Though the nature sprites have been steadily making progress in fighting the flames, something or someone has recently caused a violent resurgence in its destructive power` ([Shadowplay](https://wiki.spiralknights.com/Shadowplay)).
+- Less of a reference to the citadel, _but to Lord Vanaduke's armor_, as the armor itself seems unnatural, transforming with the Lord, and by presence of word "some", which in the context of the entire dialogue seems to us as a reference to a different object, such as his armor, which becomes even more distinct for Darkfire Lord Vanaduke through its unique design.
 
-As the most of citadel is cleansed, the souls, mentioned in the quote `Allow the souls he keeps bound to this world a chance to return`, are presented as [Fire Souls](https://wiki.spiralknights.com/Fire_Soul#Fire_Soul) in the [Overgrown Court](https://wiki.spiralknights.com/Shadowplay/Overgrown_Court).
+The acknowledgement of the citadel in a full passage, `Lord Vanaduke rules over the citadel now. His soul bound to some horrific armored prison` ([Alone in The Dark - Lost Souls of Almire](https://wiki.spiralknights.com/Lost_Soul_of_Almire_(nameless)#Dialogue)), we propose, is the key to the latter distinction of the citadel and Lord Vanaduke's own armor as it becomes his prison, rather than the Firestorm Citadel.
 
-We will keep those interpretations in mind, once we will be able to cover _Shadow Firestorm Citadel and Darkfire Lord Vanaduke_ [specifically](#darkfire-lord-vanaduke-and-damnation-through-curse).
+As the most of citadel is cleansed, the souls, mentioned in the quote `Allow the souls he keeps bound to this world a chance to return`, are presented as [Fire Souls](https://wiki.spiralknights.com/Fire_Soul#Fire_Soul) across the [Overgrown Court](https://wiki.spiralknights.com/Shadowplay/Overgrown_Court).
+
+We will keep those interpretations in mind, once this will allow us to cover _Shadow Firestorm Citadel and Darkfire Lord Vanaduke_ [specifically](#darkfire-lord-vanaduke-and-damnation-through-curse) later in the analysis of curse.
 
 ##### Static Souls
 
@@ -4875,10 +4871,7 @@ Could it be that the kingdom of Almire did become an empire the size of the 3 wa
 
 Yet it is states that Lord Vanaduke had returned to the citadel: `With nothing left to destroy, his legions left him and returned to the mountains, leaving the king to sit in his throne of ash and cinder, all the people of Almire dead around him. There the cursed king has remained since, ruling a burning kingdom from an ashen throne` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)).
 
-This characteristic of an empire, we propose, was given not to a living kingdom of Almire defined by its relation to nature, but to its state after Lord Vanaduke's return. This interpretaion allows for an empire to be defined as the __undead, cursed total of 3 fallen kingdoms held together in undeath by Lord Vanaduke's will__.
-
-Those recounts also establish a _narrative of unprecedented manpower of the accompanied trojan legion of fiends_, allowing them to be characterized as a _decisive weapon_ and __single most powerful army of the Underworld__, [reminiscent of Uncdercorp's army of tortodrones](#the-titans-tortomega-the-fall).
-
+This characteristic of an empire, we propose, was given not to a living kingdom of Almire defined by its relation to nature and patronage of the Spirit Mother, but to its state after Lord Vanaduke's return. This interpretaion allows for an empire to be defined as the __undead, cursed total of 3 fallen kingdoms held together in undeath by Lord Vanaduke's will__.
 
 #### Nature of Darkfire
 
