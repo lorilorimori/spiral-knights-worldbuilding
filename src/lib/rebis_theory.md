@@ -4925,9 +4925,7 @@ This leaves us with 2 explanations:
 
   This proposal is based on prior design similarities across all of those subjects, albeit with slight color variations.
 
-- Darkfire is the result of 2 curses merging, giving to Vog's fires this curse-bearing and curse-inflicting property, different from a transformative fiery curse, as one seen across Almirian legions.
-
-    <!--And as this purple curse seems to be far more widespread and as only it has the connection to the evil eye, and adopted it as its symbol among Spiral Order, as well as presence of Underworld's cultural imprint -- in case of Tortomega.-->
+- Darkfire is the result of 2 curses merging, giving to Vog's fires curse-bearing and curse-inflicting property, different from a transformative through fire nature, as one seen across Almirian legions.
 
     Another argument for this explanation is based on the design of a unique fire soul behind Darkfire Lord Vanaduke's mask -- no such color is present across Cradle so far, a red-pink curse aura and purple core, combining both fiery curse of Vog, but also being of color as a curse-bearing element.
 
@@ -4935,21 +4933,11 @@ This leaves us with 2 explanations:
 
 <!--It is also important to note that Dark Ember, being a boss trophy, was added [after](https://wiki.spiralknights.com/Release_Notes_2012-12-12) [introduction](https://wiki.spiralknights.com/Release_Notes_2011-10-19) of Shadow Lairs, with nearly a year of a gap. So far we will only hold onto this information until [reaching analysis of Shadow Lairs](#shadow-lairs).-->
 
-Considering many instances of unreliable narrations so far, even with cases such as Nameless Realm, while is named once, darkfire, due to Lord Vanaduke's mask appearance and existence of Darkfire Lord Vanaduke, __darkfire seems to us as a distinct phenomenon__, _while it combines already known properies of both curses_.
+Considering multiple instances of unreliable narration so far, and cases of single applications of terms, such as Nameless Realm, __darkfire seems to be a distinct phenomenon__, _while it combines already known properies of both curses_.
 
 In that regard the fires of other than Lord Vanaduke and Carnavon entities we identify as sourced solely from nature dark matter _but devoid of a unique to Vog primarily transformative through fire property_.
 
-<!--And, as latter are specified as `A mote of burning energy salvaged from Lord Vanaduke's throne room. It slowly smolders with a sinister intensity, creating an almost hypnotic trance when gazed upon for any length of time` ([Dark Ember](https://wiki.spiralknights.com/Dark_Ember)), we have to look into the canon of the events involving traversal of [Shadow Firestorm Citadel](#true-citadel-of-almirian-empire).-->
-
-As of now, we propose that both of those curses have underlying common nature, emerging from the Underworld, as well as its deities:
-
-- Vog's curse gives the curse-bearer power to exist beyond regular laws of their species, the case of Isorans it is Lord Vanaduke.
-
-    Lord Vanaduke had transcended ages while being bound to his armor, and capable of upholding entire Citadel in stasis by his supernatural will, with his mask being most important to his state, remaining unchanged after transformation to Darkfire Lord Vanaduke.
-
-- Maulos is transformed by everfrost, seem to retain mind of his own, compared to rest of trojans.
-
-    He is capable of frost magic affecting an entire fiendish city of Amu-Sol. And as trojans were already covered, we believe that the curse in question can manifest differently depending on its application, resulting in different effects and magnitude, but inevitably tracing back to the Underworld and greater understanding of nature of shadow damage.
+And yet, despite seeming difference between the two curses, both originate from Underworld, __both curses bind the beings of material realm and take toll on them, physically degrading yet never allowing them to perish__, manifesting through cracks on their corporeal forms. This degrading nature is found across Almirians, tortodrones, Margrel, and trojans. The curse will leave its mark unless it is perfectly incorporated, with instances of such much rare outcome being _Gorgofist, Black Kat Seraphynx, and Darkfire Lord Vanaduke_, precisely because they are devoid of damaged physical appearance.
 
 <!--##### Spiral Wardens and Trojans Similarity: Part 3-->
 
