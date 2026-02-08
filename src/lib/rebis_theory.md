@@ -49,6 +49,8 @@ The present analysis is meant to identify, analyze and explore:
 
 As fiction is set in its own separate reality, it can imitate depth of its world only far enough by obfuscating its boundaries up to a certain limit. By exploring the volume a fiction offers, we intend to identify the __underlying system__ of narrative, thematic and symbolic relations between devices and tropes, -- the bonding quality, found through aesthetics, _which allows for setting's ability to captivate_ as a fictional world, a gamified microcosm, a story, and a reflection of real-world cultures.
 
+The other goal we aim to achieve is the preservation, or more precisely, _documentation of the aforementioned system_ of narratives, their intersecting elements, and identification of its design principles.
+
 ### Approach to Worldbuilding
 
 Design of the world as an interconnected system of its components -- the process of worldbuilding, -- is usually found through in-universe laws, symbolism, themes, characters, factions, environments, etc., their relations and history.
@@ -2152,11 +2154,11 @@ Here, as by missions name, inspiration must be sought in the 1993 film of the sa
 
 We can attempt to draw parallels with the events on Cradle in regards to the vessel.
 
-The entrapment part may be implied by the presence of gremlin constructs. And to go not so far ahead of the timeline, this is one of a few instances of gremlins building their own containments against the shadow-related entities.
+The entrapment may be implied by the presence of gremlin constructs. And to go not so far ahead of the timeline, this is one of a few instances of gremlins building their own containments against the shadow-related entities.
 
 This would also suggest that an unidentified event had caused this notion of haunting. From many phenomenon related to undeath, energy of the Core may be seen as life-animating, could serve as a source which had caused the spirits to haunt the machines under currently unknown condition, potentially, through access to Underworld -- a phenomenon similar in concept to one observed during [Shadowplay](https://wiki.spiralknights.com/Shadowplay): `Though the nature sprites have been steadily making progress in fighting the flames, something or someone has recently caused a violent resurgence in its destructive power. Spiral HQ requests that you gather together a crack squad of knights and return to the collapsing ruins of Firestorm Citadel in order to discover the source of the disturbance`, -- wherein activity of **the Core, its energy, was the source of curse's reanimation** _without Lord Vanaduke_ to serve as an `eternal will` for the citadel: `You can feel it in the smoldering air - an eternal will holding this place together, never allowing its inhabitants to rest. No creature deserves such a fate, it is beyond my understanding` ([Recon Module: Firestorm Citadel - Grantz](https://wiki.spiralknights.com/Artifact)).
 
-With this we propose that both a recount of spirits to material realm and animation of perished entities are the result of Core's energy-related effect. We can interpret the act of returning to metrial realm as soul's intent to live on, while the Core had offered a possibility of such transition, or, the souls is forbidden to move on. As Lord Vanaduke's initial analysis suggested that his will does not allow souls to move on, we have to consider such scenario at a planetary scale.
+With this we propose that both a recount of spirits returning to material realm and animation of perished entities are the result of Core's energy-related effect. We can interpret the act of returning to matrial realm as soul's intent to live on, while the Core had offered a possibility of such transition, or, the souls is forbidden to move on. As Lord Vanaduke's initial analysis suggested that his will does not allow souls to move on, we have to consider such scenario at a planetary scale.
 
 While we do not possess an accurate explanation, the fact of Core's activity influenceing the curse at Firestorm Citadel, as fall of kingdom of Almire _may have happened_ prior to creation of the Core, leads us to carefully propose that _nature of undeath is universal_ while __energy of the Core amplifies__ those metaphysical processes by __thinnening the boundary between states of death and undeath__, and, as a result, allowing not only souls to traverse across the realms with no issue, but entire regions, as the cases of Almirian Graveyards and Owlite Academy being pulled to Underworld through high concentration of souls or curse.
 
@@ -2535,11 +2537,11 @@ The names of glyphs are also found in [fiendish cities](#dark-cities) of `Amu-So
 
 ##### Name of Ur
 
-Then there is legion of Ur. The presence of Ur name in legion's name, if taken from real world history, implies Ur being legion's commander, a single entity. Other clue stems from the history of the Roman Empire. Their legions' names had a nomenclature: numerical, which is not relevant here, and titled. The latter case seems applicable to this legion. In that context, Ur may be a figurehead's name. As names may mean concepts of qualities, the attribution of a quality as a title to a legion within language of Underworld is also plausible.
+Then there is legion of Ur. The presence of Ur name in legion's name, if taken from real world history, implies Ur being legion's commander, a single entity. Other clue stems from the history of the Roman Empire. Their legions' names had a nomenclature: numerical, which is not relevant here, and titled. The latter case seems applicable here. In that context, Ur may be a figurehead's name. As names may mean concepts of qualities, the attribution of a quality as a title to a legion within language of Underworld is also plausible.
 
-Here we suggest a following interpretation. If the inspirations of `The Key of Solomon the King` are taken into account, with addition of pup-cultural meaning, then glyphs, as written characters, have power to spell entities' names, names of devilites and deities, as colloqual understanding of those mechanics similar to a merge of a Circle of Art and pentacles. This may not conflict with the mentioned concept of glyphs, as glyphs reveal only part of that system, while there are other namg conventions, such as names like `Morgral'm`. _As Ur may symbolise a concept or quality, it may also be a name of a person_.
+Here we suggest a following interpretation. If the inspirations of `The Key of Solomon the King` are taken into account, with addition of popular culture-derived meaning, then glyphs, as written characters, have power to spell entities' names, names of devilites and deities, as colloqual understanding of those mechanics similar to a merge of a Circle of Art and pentacles. This may not conflict with the mentioned concept of glyphs, as glyphs reveal only part of that system, while there are other naming conventions, such as names like `Morgral'm`. _As Ur may symbolise a concept or quality, it may also be a name of a person_.
 
-And then, as _this is a narrative_, both the person with this name may reflect those qualities within occult system of themes and history of Underworld, as well as the __meaning of the name, name of the legion, can reflect the history of the legion__.
+Both the person with this name may reflect those qualities within occult system of themes and history of Underworld, as well as the meaning of the name, name of the legion, can reflect the history of the legion.
 
 ##### Glyph Technology: Data and Energy Storage
 
@@ -3058,7 +3060,7 @@ Owlites, Valkyries, and Kingdom of Almire are all far more aware of special dama
 
 Then we have proposed that energy of the Core is the primary candidate for altered metaphysics of Cradle, as [explored through other than Skylark Isoran vessel during Ghost in The Machine danger mission](#cradle-metaphysics-part-1). More so, the spirits might not only return to material realm, but when their bodies perish on Cradle, they are either not allowed to move on into afterlife being Underworld or return back by instinct, causing haunting and reanimation as variants of zombies.
 
-In order to draw out a single principle behind this effect of Core's activity, we have proposed that _the Core had_ __thinned the boundary between states of the living and death__, which would allow a gap of possibuility for undeath to exist beyond Cradle without Core's presence without causing breakage of internal logic, as well as acknowledge at that point the outliers such as permanent undeath of kingdom of Almire.
+In order to draw out a single principle behind this effect of Core's activity, we have proposed that _the Core had_ __thinned the boundary between states of the living and death__, which would allow a gap of possibility for undeath to exist beyond Cradle without Core's presence and without causing inconsistency of internal logic, as well as acknowledge at that point the outliers such as permanent undeath of kingdom of Almire.
 
 _For the living,_ __presence of the Core amplifies life__ and [transcends time](#technology-alchemy-and-isoran-redesigns) _reminiscent of Isoran alchemy without a catalyst_ but through its own omnipresent and [foundational nature as energy](#energy), manifested as reincarnation of [battle sprites](#battle-sprites-energy-signature), tiers of Clockworks and existence of mist energy as a sign of _energy excess_ within Isoran narrative.
 
@@ -3066,7 +3068,7 @@ _For the living,_ __presence of the Core amplifies life__ and [transcends time](
 
 After this we have covered devilite activity and similarity of everfrost to minerals, [proposing a fundamental common nature between minerals and everfrost](#minerals-and-souls-part-1), manifested and utilized in multiple methods, including powering tortodrones and ritual circles, wherein the latter drew its power from charged state of minerals.
 
-The charge of mineral is derived from it being a container for the same type of energy, which provides value to souls for them to [power Apocrean Engines](#apocreas-goal-as-negation-of-existence), eventually leading to the idea of Energy, which Spiral Order utilizes -- being a potentially refined universal Energy, -- which provides utility power and value to souls, wisps, devilite glyphs, and minerals.
+The charge of mineral is derived from it being a container for the same type of energy, which provides value to souls for them to [power Apocrean Engines](#apocreas-goal-as-negation-of-existence), eventually leading to the idea of Energy, which Spiral Order utilizes -- being form of universal Energy, -- which provides utility power and value to souls, wisps, devilite glyphs, and minerals.
 
 Within this logic we proposed the [nature of an aura and a soul are distinclty separate](#auras-and-souls), wherein an aura is the manifestation of a body, -- in material realm being a physical shell, such as bones, or a [book tome](#auras-and-tomes). In the material realm aura is physical, while the soul offers the core identity and a potentially eternal will to stay within material realm or to move on.
 
@@ -3703,6 +3705,18 @@ The meaning of those crowns remains unknown so far, but, as they are constructed
 With this, to an established landscape of Apocrean Realm we add a concept of a native to it `eternal energy`, which when observed, is colored purple. This energy might be one aloowing for suspention in the air of earlier proposed [Apocrean ritual circles](#apocrean-ritual-circles) in an unknwon -- ethereal, -- state, which allows them to be formed into 3-dimensional structures.
 
 Despite this seeming difference, as we had a _notion of energy in different variants being central to other narratives_, presence of _color purple_ both within finite structure of colored lines and as more abstract presence within the obelisks, we would __identify eternal energy as the universal Energy__. Within this identification, Apocrea's need for souls would be explained by them being a specific -- sentient, -- configuration of tha energy, as a container.
+
+##### Freed Souls
+
+Freed Souls were bound by the traps of Apocrea through metaphysics of ritual circles drawn by charged minerals. While the trap manifests as the Grasping Plateau, metaphysics of harvester capable of manipulating and harvesting those souls.
+
+Apocrean Harvester extracts knight's soul by means of a purple beam of light, similar to ones found across depths' near Apocrean Realm within the Shroud.
+
+This can potentially tie in with the concept of [auras](#auras-and-souls), as they should represent an essential part of being. So damaging the soul, if we take an idea of a soul as a subtle body, would also reflect on the corporeal body, as those elements are metaphysically inseparable.
+
+Presence of multiple souls can be explained either by knight to be assumed to collect those souls, which contradicts freed souls' ascension after knight frees them, or by a design choice to reflect this act of soul extraction by the harvester which we believe to be true giver prior argument in that specific case.
+
+The purple chains seen to encircle freed souls, we propose, are of the same nature as purple energy seen flowing within obsidian weaponry and obelisks, the eternal energy which would plausibly provide superior means of souls' imprisonment, other than physical.
 
 ##### Apocrean Engines
 
@@ -4499,7 +4513,7 @@ Those factors, we suggest, point at presence or influence of Underworld onto Alm
 
 It is stated that Lord Vanaduke had returned from the mountains with a fiendish army: `Many days later the citizens of Almire watched as fire began to erupt from the mountains. Leading an army of terrible fiends, Vanaduke returned to his kingdom, destroying the occupied forces of the two opposing kingdoms in a single day. In time the two kingdoms fell, Vanaduke's legion burning everything in their path. When he returned to Almire, it burned as well, for everywhere he went, and everything he touched was doomed to ash. With nothing left to destroy, his legions left him and returned to the mountains, leaving the king to sit in his throne of ash and cinder, all the people of Almire dead around him` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)).
 
-__The one army that is deeply connected to Underworld and made up of fiends is the Legion of Ur__. Moreover, we find trojans across the Firestorm Citadel. Yet, how do they fit to the established timeline? There are connection to Almire, [but even more to Spiral Order]() represented as a _parallel and similarity between a trojan and a Spiral Warden_.
+__The one army that is deeply connected to Underworld and made up of fiends is the Legion of Ur__. Moreover, we find trojans across the Firestorm Citadel. Yet, how do they fit to the established timeline? There are connection to Almire, [but even more to Spiral Order](#spiral-wardens) represented as a _parallel and similarity between a trojan and a Spiral Warden_.
 
 Did Spiral Order took Legion of Ur as an inspiration for Spiral Wardens or whether trojans are Spiral Wardens?
 
@@ -4511,57 +4525,35 @@ Now Legion of Ur remains sealed in the Underworld -- `Based on intel from a devi
 
 Then [Crest of Ur](https://wiki.spiralknights.com/Crests_of_Ur) reveals that the legion might not be originally native to Underworld, or at least its presence was not established prior to the conquest, `A crest from the lost Legion of Ur, an elite band of fiendish warrior said to have once conquered the Underworld. Whomever holds it can faintly hear the sound of drums and the clomping of hooves`, which further solidifies manpower of the trojan legion.
 
-##### Almirian Empire
-
-Setting aside designs of curse within Vanaduke, Darkfire Lord Vanaduke, and nature of dark matter within trojans, we should point out the following arrangement of concepts -- _spookats and zombies do belong to different epochs separated by thousand of years_. And yet, both zombies and spookats are present across Owlite Academy, which is part of heavenly kingdom.
-
-We speculate that at some point in time Lord Vanaduke had a military conflict with heavenly kingdom, wherein Owlites and Valkyries were present.
-
-This speculation is derived from specific words in the monster codex, wherein Lord Vanaduke is characterised as _eternal_ and his kingdom -- _Almirian Empire_: `Little is known about the eternal Duke of the Almirian Empire` ([Monstrous Codex: Lord Vanaduke](https://wiki.spiralknights.com/Vanaduke#About)).
-
-Similar characteristic is given by Grantz: `This is a real place, some kind of shell of a former empire. There is great sorrow here, something unlike anything I have felt before. Legions of shambling dead have attacked us here, relentless in their defense of this place. Their broken, burnt frames crumbling and rising once more, ready for another battle. And just as they refuse to fall, so does the burning ruin around them. It is almost as if this whole realm is trapped in a single moment from some forgotten time, never changing, never allowing itself to finally turn to ash. You can feel it in the smoldering air- an eternal will holding this place together, never allowing its inhabitants to rest. No creature deserves such a fate, it is beyond my understanding` (Recon Module: Firestorm Citadel - Grantz)
-
-Could it be that the kingdom of Almire did become an empire the size of the 3 warring kingdoms after Lord Vanaduke destroyed their armies -- `Leading an army of terrible fiends, Vanaduke returned to his kingdom, destroying the occupied forces of the two opposing kingdoms in a single day. In time the two kingdoms fell, Vanaduke's legion burning everything in their path. When he returned to Almire, it burned as well, for everywhere he went, and everything he touched was doomed to ash` (Almire's Fall)?
-
-Yet it is states that Lord Vanaduke had returned to the citadel: `With nothing left to destroy, his legions left him and returned to the mountains, leaving the king to sit in his throne of ash and cinder, all the people of Almire dead around him. There the cursed king has remained since, ruling a burning kingdom from an ashen throne` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)).
-
-This characteristic of an empire, we propose, was given not to a living kingdom of Almire defined by its relation to nature, but to its state after Lord Vanaduke's return. This interpretaion allows for an empire to be defined as the __undead, cursed total of 3 burnt kingdoms held together by Lord Vanaduke's will__.
-
-Those recounts also establish a _narrative of unprecedented manpower of the accompanied trojan legion of fiends_, allowing them to be characterized as a _decisive weapon_ and __single most powerful army of the Underworld__, [reminiscent of Uncdercorp's army of tortodrones](#the-titans-tortomega-the-fall).
-
 ##### Trojans
 
-We should determine whether trojans are Isoran Spiral Wardens. How the similarity of their roles -- of __trojans being an elite force of Underworld__, and __Wardens being guardians of the Order__ through the Guardian's Oath, -- defines them in relation to each other?
+We should determine whether trojans are Isoran Spiral Wardens. How the similarity of their roles -- of _trojans being an elite force of Underworld_, and _Wardens being guardians of the Order_, through the Guardian's Oath, -- defines them in relation to each other?
 
 Trojans of tier 2 and tier 3 possess revealed bones, most visible at their skulls, which are horse skulls.
 
-<!--with the lower jaw similar to apparitions of giant wolvers of charged [Wild Hunting Blade](https://wiki.spiralknights.com/Wild_Hunting_Blade), [Perma-Frostifurs](https://wiki.spiralknights.com/Wolver#Perma-Frostifur), and [Void Wolvers](https://wiki.spiralknights.com/Wolver#Void_Wolver).-->
-
-The undead direction manifests most distinctly in tier 3 trojans, whose armor has depictions of skulls while covering exposed ribcage burning with purple flames. The stone exterior which was previously a depition of horse head had shattered, fully revealing a fully-formed horse skull.
+The undeath manifests most distinctly in tier 3 trojans -- their armor has depictions of skulls while covering exposed ribcage burning with purple flames. The stone exterior which was previously a depition of horse head had shattered, fully revealing a fully-formed horse skull.
 
 <!--It is said that some devilites tend to transform into gorgos: `Gorgos are bulbous fiends who are constantly on the lookout for their next meal. Within the Underworld they are among the lowest in the fiendish pecking order and are used as a twisted form of motivation for white collar devilites. For those that don't work hard every day will eventually become a terrible gorgo; their bodies bloating and their two eyes forming into one, because why waste all that extra energy blinking both?` ([Release Notes: 2013.05.01](https://wiki.spiralknights.com/Release_Notes_2013-05-01)). Herein also exists Lord Vanaduke by the fact of him being transformed, although by a curse, into an immortal fiery giant of different physiology.-->
 
 <!--As a matter of fact, significant transformation while is rare, exists, evident by Lord Vanaduke and Maulos.-->
 
-Tier 1 trojans and the rest are explicitly seen as stone statues. In fact, trojans are encountered for the first time as [statues in the final room](https://wiki.spiralknights.com/File:BOTF.png) of [Soldier's Graveyard](https://wiki.spiralknights.com/Blades_of_the_Fallen/Soldier%27s_Graveyard) during [Blades of The Fallen](https://wiki.spiralknights.com/Blades_of_the_Fallen), `... dark energies resonate from the graveyard, attracted to the countless souls it houses`.
+Tier 1 trojans and the rest are explicitly seen as stone statues. In fact, trojans are encountered for the first time as [statues in the final room](https://wiki.spiralknights.com/File:BOTF.png) of [Soldier's Graveyard](https://wiki.spiralknights.com/Blades_of_the_Fallen/Soldier%27s_Graveyard) during [Blades of The Fallen](https://wiki.spiralknights.com/Blades_of_the_Fallen).
 
 Another instance of trojans being depicted as statues is at the [Cryptic Statuary](https://wiki.spiralknights.com/Cryptic_Statuary), a castle, reminiscent both of Scarlet Fortress and Royal Jelly Palace with later's architecture incorporating water basins into the courtyards while being located outside of the main landmass of Scarlet Fortress, yet bearing Scarlet Fortress tapestry.
 
 Across all tiers, trojans have dark matter mineral embedded into their backs, and as depth increases, so its presence being more intense and distinct.
 
-<!--Notably, Tier 1 trojans have wooden armor, and considering there is existence of ironwood fantasy-themed application, we can suggest that it is redwood, due to its color.-->
+The crest of their shields present on tier 1 trojans may potentially refer to Ironmight crest, mainly based on the idea that a tower depicted on all Scarlet Fortress tapestries is emblem of Heavenly Kingdom. Tier 2 trojan shield seem to possess an darwn or carved glowing emblem with shape reminiscent of fiendish sigils and [circles of art](#circle-of-art), and tier 3 trojan's shield is reminiscent of a skull with its characteristic depiction of teeth.
 
-<!--The crest of their shields present on tier 1 trojans may potentially refer to Ironmight crest, mainly based on the idea that a tower depicted on all Scarlet Fortress tapestries is emblem of Heavenly Kingdom.-->
+There is a vague notion of [chess-themed hierarchy found across all of the species](https://wiki.spiralknights.com/Chess_Mini), designed to fit into the [Guild Hall](#guild-hall-and-spiral-order-headquarters).
 
-<!--There is a vague notion of [chess-themed hierarchy found across all of the species](https://wiki.spiralknights.com/Chess_Mini), designed to fit into the [Guild Hall](#guild-hall-and-spiral-order-headquarters).-->
-
-Then there is burning, while the color is a hue of purple or pink, there are other instances of that type of burning being observed. Those are Carnavons, Darkfire Lord Vanaduke and the [Dark Embers](https://wiki.spiralknights.com/Dark_Ember), which are `salvaged from Lord Vanaduke's throne room` ([Dark Ember](https://wiki.spiralknights.com/Dark_Ember)), and purple orbs of fire in suspended bowls across Moorcroft Manor and Shadow Firestorm Citadel.
+Lastly, there is the burning, while the color is a hue of purple or pink, there are other instances of that type of burning being observed. Those are Carnavons, Darkfire Lord Vanaduke and the [Dark Embers](https://wiki.spiralknights.com/Dark_Ember), which are `salvaged from Lord Vanaduke's throne room` ([Dark Ember](https://wiki.spiralknights.com/Dark_Ember)), and purple orbs of fire in suspended bowls across Moorcroft Manor and Shadow Firestorm Citadel.
 
 So far there areseveral notions attributed to trojans:
 
-- They represent both the most powerful army of Underworld, potentially not native to it, and most powerful units of Spiral Order.
-- They possess a motif of petrification and stone, bones and burning
-- Presence of embedded mineral grants them occult nature.
+- They represent both the most powerful army of Underworld, potentially not native to it, and reminiscent of Spiral Wardens, other most powerful units of Spiral Order.
+- They possess a motif of petrification and stone, bones, and burning.
+- Presence of embedded mineral and undead apperance grants them occult nature.
 - They were at some point conqerors of Underworld, they were sealed in the Underworld, and their presence in the material relam is devastating to the latter.
 
 They are similar to dark matter-ridden tortodrones:
@@ -4573,21 +4565,21 @@ They are similar to dark matter-ridden tortodrones:
 
 Within the narrative of industrialization of Underworld, __trojans may be seen an iteration of a petrified, dark matter-powered army in the age of ritual circles prior to Undercorp-controlled, technologically advanced army of tortodrones__.
 
-##### Arkus and the Silent Legion
+##### Silent Legion
 
-With this context and perception of trojans, we will cover [Arkus](https://wiki.spiralknights.com/Arkus), as a _single Isoran_, who __bridges the symbolic gap between a trojan and a Spiral Warden__.
+With this context and perception of trojans, we will cover [Arkus](https://wiki.spiralknights.com/Arkus), as a _single Isoran_ who __bridges the symbolic gap between a trojan and a Spiral Warden__.
 
-Arkus is the only one surviving memebr of his squad after an attack of dust zombies: `Arkus's own squad perished in a grisly battle with a horde of dust zombies. Since then, Arkus has blamed himself for their loss, saying that he betrayed his Guardian's Oath to protect his squad` ([The Silent Legion](https://wiki.spiralknights.com/The_Silent_Legion)). This event had led Arkus into the Statuary, `I am drawn to this place. ... I have been asked to let it go, to move on, but this I cannot do. Their faces, their dying cries... they haunted me in my dreams, so I no longer sleep. Now I see them when I close my eyes, so I shall not blink. I will remain here, among the stones... never blinking, never forgetting` ([Recon Module: Cryptic Statuary - Arkus](https://wiki.spiralknights.com/The_Silent_Legion/Cryptic_Statuary)), we can attempt to further analyze the state he is found in through different means.
+Arkus is the only one surviving memeber of his squad after an attack of dust zombies: `Arkus's own squad perished in a grisly battle with a horde of dust zombies. Since then, Arkus has blamed himself for their loss, saying that he betrayed his Guardian's Oath to protect his squad` ([The Silent Legion](https://wiki.spiralknights.com/The_Silent_Legion)). This event had led Arkus into the Statuary, `I am drawn to this place. ... I have been asked to let it go, to move on, but this I cannot do. Their faces, their dying cries... they haunted me in my dreams, so I no longer sleep. Now I see them when I close my eyes, so I shall not blink. I will remain here, among the stones... never blinking, never forgetting` ([Recon Module: Cryptic Statuary - Arkus](https://wiki.spiralknights.com/The_Silent_Legion/Cryptic_Statuary)), we can attempt to further analyze the state he is found in through different means.
 
 The mission card depicts trojans while they are encased in stone. Given the 3rd depth of the mission, Cryptic Statuary, it may be the location meant to be found seen at the mission card.
 
-This establishes as _connection between trojan Legion of Ur_ and the _Silent Legion of stone trojans_. The distinction here, we believe, stems from the fact that Legion of Ur is active to this day, despite being sealed in the Underworld, while the Silent Legion of trojans is present in the material realm, encased in stone. And yet, once they are revealed from stone, they are indistinguishable from members of the throjan legion.
+This establishes as _connection between trojan Legion of Ur_ and the _Silent Legion of stone trojans_. The distinction here, we believe, stems from the fact that Legion of Ur is active to this day, despite being sealed in the Underworld, while the Silent Legion of trojans is present across the material realm, encased in stone. Once they are revealed from stone, they are indistinguishable from members of the trojan legion.
 
 We do not know their motivation at this point, but few potential hints may be found -- some statues at the Cryptic Statuary are concealed trojans, while trojans, once defeated, turn to stone, -- which may reveal their nature and origin through _a common pattern of association with statues_.
 
 The symbolic value of trojan statues may be derived from a potential, real-world inspiraion -- of the `Terracotta Army`, -- meant to accompany its master after their departure. This relation _may provide further identification of Ur as an entity not native to Underworld, but one who would eventually lead the army to conquer Underworld_.
 
-###### `Poisoned Minds` and `Cold Hearts`
+##### `Poisoned Minds` and `Cold Hearts`
 
 First and second depths of [The Silent Legion](https://wiki.spiralknights.com/The_Silent_Legion) are `Poisoned Minds` and `Cold Hearts`.
 
@@ -4595,128 +4587,134 @@ This seems to us as most prominent symbolism in regards to the Silent Legion wit
 
 `Cold hearts` can be interpreted as unfeeling or uncaring, "cold-hearted". Trojans are turned to stone at that point, so it could be a metaphor for stone, both as stone cold and relentless in their goals.
 
-The `poisoned minds` are more nuanced, it is not a singular mind, which in that case would be Arkus, but _it refers to an entire legion_. At that, as Arkus is meant to resemble a trojan, does this state of poisoned mind also is relelvant for Arkus? What is the reason for this condition?
+The `poisoned minds` are more nuanced, it is not a singular mind, which in that case would be Arkus, but __it refers to an entire legion__. Poisoned mind _implies an adoption of a negative perception of something or someone by third party's means_.
 
-Considering presence of devilites across Cradle, how they were found in the [Gauntlet during Shock and Awe](https://wiki.spiralknights.com/Gauntlet#Gate_Map), as well as at the [penultimate arena during Gauntlet's Last Stand](https://wiki.spiralknights.com/The_Gauntlet/Last_Stand), could it be that devilites are involved in the creation of the Legion?
+<!--As Arkus is meant to resemble a trojan, does this view is also relelvant for him?-->
 
-Considering that there is no other party powerful or skilled enough to perform such rituals or operations in relation to curses, dark matter, or haunting, we propose that _devilites are primary candidates responsible for the creation of the Legion of Ur_. More so, the prior similarities between trojans and tortodrones may suggest a common goal in their creation, or a common metaphysical principal of their creation, while similarity between trojans and Spiral Warden may indeed be intentional.
+<!--Devilites are present at the [Gauntlet during Shock and Awe](https://wiki.spiralknights.com/Gauntlet#Gate_Map), as well as at the [penultimate arena during Gauntlet's Last Stand](https://wiki.spiralknights.com/The_Gauntlet/Last_Stand). As we proposed involvemnt of gremlins into presenceof the Gauntlet, are devilites indirectly involved both into the citadel and creation of the Legion?-->
 
-While there are less connections to specifics of devilite or trojan goals, fiendish physiology of trojans may be analyzed to a greater extent as it is depicted.
+The `poisoned minds` if applied to all present trojans manifests as an _alliance with the Underworld_ to the point of being summoned by devilites into the material realm.
 
-[Crest of Ur](https://wiki.spiralknights.com/Crest_of_Ur) is described as `a crest from the lost Legion of Ur, an elite band of fiendish warrior said to have once conquered the Underworld. Whomever holds it can faintly hear the sound of drums and the clomping of hooves`.
+With an introduction of this narrative we propose that the party responsible for trojans' becoming, which involves `poisoned minds`, is Underworld. Underworld is an existing and primary party which works againts the material relam, other than Apocrea.
 
-The same phenomenon of drums was mentioned during Almire's Fall for Lord Vanaduke: `The image burned into his eyes and brain like cinders, and contained that which sounded like the screaming of foreign tongues and war drums` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)).
+In consideration of trojans' similarity to tortodrones, we proposed a common creation process for both, ass the resulting entities are physically similar despite the mechanical origin of the latter.
 
-While we have noted on the similarities of those events, presence of drums, we propose, links the two separated by time events over a potential, _characteristic presence of Underworld_, rendering trojans a result of a ritual performed, most plausibly, on Spiral Wardens, given their __acknowledgement of the Ruinous Crystal and corruption__, wherein Ruinous Crystal, as mentioned at the [introducion of the Wardens](#spiral-wardens), can be seen if not as the catalyst for Warden's corruption, at least as a solid link to its fiendish nature.
+Considering that __there is no other party powerful or skilled enough to perform such rituals__ or _operations in relation to curses, dark matter_, or haunting, we propose that __devilites are primary candidates responsible for the creation of trojans__. More so, the prior similarities between trojans and tortodrones may suggest a common goal in their creation, and a common metaphysical principal of their creation, while similarity between trojans and Spiral Warden may indeed be intentional.
+
+Crest of Ur suggests that trojans have conquered the Underworld, `A crest from the lost Legion of Ur, an elite band of fiendish warrior said to have once conquered the Underworld. Whomever holds it can faintly hear the sound of drums and the clomping of hooves` ([Crest of Ur](https://wiki.spiralknights.com/Crest_of_Ur)), which conflicts with the idea of devilites being trojans' creators. We will discuss its implications eventually.
 
 ##### Haunting
 
-What happened to Arkus by the time Spiral Knights had met him? For that we have to analyze Arkus himself and his monologue:
+What happened to Arkus by the time the knight met him? For that we have to analyze Arkus himself and his monologue:
 
 - `I am drawn to this place. In the eyes of these silent warriors I see myself: cold, strong, unflinching... and crumbling. I have been asked to let it go, to move on, but this I cannot do. Their faces, their dying cries... they haunted me in my dreams, so I no longer sleep. Now I see them when I close my eyes, so I shall not blink. I will remain here, among the stones... never blinking, never forgetting` ([Arkus - Recon Module: Cryptic Statuary](https://wiki.spiralknights.com/Arkus#Dialogue)).
 
     From this entry we can establish basic premise of what has happened to Arkus since his squad had perished.
 
-    Arkus is haunted by memory of his squad's last moments. Because of this, he was, for some reason, potentially supernatural, drawn to the statuary among other locations. Whether haunting is literal or a result of a trauma, is yet to be understood.
+    Arkus is haunted by memory of his squad's last moments. Because of this, he was, for some reason, potentially supernatural, drawn to the statuary among other locations. _Whether haunting is literal or a result of a trauma_, is yet to be understood.
 
 - `I could swear I heard them just now, their voices carrying in the wind. No longer screams, no longer cries - whispers. Indecipherable even in the stillness of this place` ([Arkus - Cryptic Statuary](https://wiki.spiralknights.com/The_Silent_Legion/Cryptic_Statuary)).
 
-    When the knight caught up to him, he advised to leave him, and during the second encounter he told no more voices were haunting him.
+    When the knight caught up to him, he advised to leave him (`Have they sent you for me? To bring me back? No, I am where I belong now. I no longer serve the Spiral Order and will remain here. Leave this place and never come back. Leave me be` - [Arkus - Cryptic Statuary](https://wiki.spiralknights.com/The_Silent_Legion/Cryptic_Statuary)), and during the second encounter he tells that the voices were longer haunting him.
 
-These haunting may be interpreted in two distinct ways. Given more somber themes of Arkus's narrative, we were initially more inclined to consider a grounded interpretation. And yet, as his fight progresses, reminiscent of Lord Vanaduke, as he exists within a highly mediavalistic, fantastic setting incorporating everything discussed to that point, we tend to consider a metaphysical source of his condition as more fitting without detriment to any depth of his character -- as if the haunting was metaphysical.
+These haunting may be interpreted in two distinct ways. Given more somber themes of Arkus's narrative, we were initially more inclined to _consider a grounded interpretation devoid of supernatural presence_.
 
-It is unknown whether Arkus is haunted by the souls of his squad or is driven mad by the presence of dark matter, as there are no definitive evidence for the prior, and no cases of souls or spirits haunting living Isorans willingly. Yet we can't deny the fact that spirits do return to material realm across Clockworks, and their effects on the material realm remain vague.
+And yet, as his fight progresses, reminiscent of Lord Vanaduke, as he exists within a highly mediavalistic, fantastic setting incorporating everything discussed to that point, we tend to consider a metaphysical source of his condition as more fitting without detriment to any depth of his character -- as if the haunting was supernaturals, coupled with a _supernatural attunement with trojans of the statuary_, and therefore, Legion of Ur.
+
+###### Dark Matter and Shadow Damage
 
 Dark matter itself is stated to `contain the essences of both chaos and nothingness` ([Dark Matter](https://wiki.spiralknights.com/Mineral#Dark_Matter)), and shadow damage is more precise in its definition: `Shadow damage is generally caused by concentrations of negative energy. Attacks that inflict shadow damage include anything from the psychic manipulation of the aforementioned negative energy to physical attacks using weapons forged from dark matter` ([The Shadow Knows - Hahn](https://wiki.spiralknights.com/The_Shadow_Knows)).
 
-The part involving `psychic manipulation` is important, which we suspect to be present to some extent, albeit through different means.
+The part involving `psychic manipulation` is important which we suspect to be present to a smaller extent for Arkus.
 
-This theme of madness from presence of dark matter, is introduced in detail in [Acheron](https://wiki.spiralknights.com/Acheron), `this dark weapon has been known to drive weak-minded knights to the brink of madness`, and, partially, [Obsidian Edge](https://wiki.spiralknights.com/Obsidian_Edge), `A sinister sword made from the obsidian obelisks found within the realm of the Apocrea. Simply holding it makes you somehow feel guilty of an unknown crime`. Despite the latter being an eldritch brandish, both are initially alchemized from the 3-star [Nightblade](https://wiki.spiralknights.com/Nightblade): `A short slicer infused with the essence of the Underworld`.
+A more refined result defined as madness from presence of dark matter is introduced by [Acheron](https://wiki.spiralknights.com/Acheron), `this dark weapon has been known to drive weak-minded knights to the brink of madness`, and, partially, [Obsidian Edge](https://wiki.spiralknights.com/Obsidian_Edge), `A sinister sword made from the obsidian obelisks found within the realm of the Apocrea. Simply holding it makes you somehow feel guilty of an unknown crime`. Despite the latter being an eldritch brandish, both are initially alchemized from the 3-star [Nightblade](https://wiki.spiralknights.com/Nightblade): `A short slicer infused with the essence of the Underworld`.
+
+The essence of underworld, `concentrations of negative energy` sourced at least from dark matter is the cause for madness.
 
 In continuation of the theme of silence, the [Silent Nightblade](https://wiki.spiralknights.com/Silent_Nightblade) is described as `Crafted with some of the most devilish materials found on Cradle, this inky blade can explode with fiendish fury`. The only material added to the recipe compared to its 3-star version is the [Ghost Bell](https://wiki.spiralknights.com/Ghost_Bell), an undead-themed material while the rest are fiend-themed. [Ghost Bell](https://wiki.spiralknights.com/Ghost_Bell) is described as `A small silvery bell worn by considerate ghosts that alerts the living when they are nearby` which is an antonym of silence, and the theme of the bell itself is one of declaring presence of death.
 
-Is this `madness` which plagues Arkus, and is it also the haunting?
+###### Haunting of Machinery
 
-<!--<BookCitation source="John Donne - No Man Is an Island">
+A different type of presence, a proper haunting, is found during [Ghost in the Machine danger mission](#ghosts-in-the-machine), as those souls communicate with the living. _A benevolent intent is seen there_.
 
-  No man is an island,
+At Iron Hulk, souls trapped in the machine were helping the knight.
 
-  Entire of itself.
+###### A Benevolent Ghost
 
-  Each is a piece of the continent,
+And for the case of spirits remaining in the material realm, one item presents itself with the direct mention of haunting, the 5-star [Dread Skelly Shield](https://wiki.spiralknights.com/Dread_Skelly_Shield), `It occasionally issues a quiet, forlorn whisper, usually about remembering to block`.
 
-  A part of the main.
+Its 4-star precursor, the [Sinister Skelly Shield](https://wiki.spiralknights.com/Sinister_Skelly_Shield), is described as `A kite shield haunted by a benevolent ghost`.
 
-  If a clod be washed away by the sea,
+###### Haunting of Arkus
 
-  Europe is the less.
+This information allows us to conclude that haunting is supernatural.
 
-  As well as if a promontory were.
+For Arkus souls ask his to leave those feelings of loss behind, `In the eyes of these silent warriors I see myself: cold, strong, unflinching... and crumbling. I have been asked to let it go, to move on, but this I cannot do` ([Recon Module: Cryptic Statuary - Arkus](https://wiki.spiralknights.com/The_Silent_Legion/Cryptic_Statuary)), and we can identify that Rkus resfers to souls, as then he states that the voices themselves seem to leave Arkus, `I could swear I heard them just now, their voices carrying in the wind. No longer screams, no longer cries - whispers. Indecipherable even in the stillness of this place. Are they leaving me here? Why must I be left behind?` ([Cryptic Statuary - Arkus](https://wiki.spiralknights.com/The_Silent_Legion/Cryptic_Statuary)).
 
-  As well as if a manor of thine own
+So the souls haunt with intent of benevolence, yet it is up for the haunted, Arkus, to understand the guidance.
 
-  Or of thine friend's were.
+#### Arkus: Part 1: A Warden
 
-  Each man's death diminishes me,
+Yet we can't confidently conclude whether Arkus's alignment with trojans is the result of the haunting by members of his squad: `I am drawn to this place. In the eyes of these silent warriors I see myself: cold, strong, unflinching... and crumbling. I have been asked to let it go, to move on, but this I cannot do. Their faces, their dying cries... they haunted me in my dreams, so I no longer sleep. Now I see them when I close my eyes, so I shall not blink. I will remain here, among the stones... never blinking, never forgetting` ([The Silent Legion - Cryptic Statuary - Recon Module: Cryptic Statuary](https://wiki.spiralknights.com/The_Silent_Legion/Cryptic_Statuary)). It seems this notion exists separately -- closer to the reason behind Arkus metamorphosis into a trojan.
 
-  For I am involved in mankind.
+Is the subtlety of `poisoned minds` revealed here as `Are they leaving me here? Why must I be left behind` ([Cryptic Statuary - Arkus](https://wiki.spiralknights.com/The_Silent_Legion/Cryptic_Statuary))? It would render Arkus as `In the eyes of these silent warriors I see myself: cold, strong, unflinching... and crumbling` to his end: `An intense sadness radiates from his fallen form. His eyes fade and a darkness washes over him. Arkus is lost` with a particular focus of eyes, which are seen to burn for trojans.
 
-  Therefore, send not to know
+As Silent Legion depths focus on mental state -- `cold hearts` and `poisoned minds`, -- we propose that the _emotional state is essential for transformation into a trojan_.
 
-  For whom the bell tolls,
+#### Symbolism of Greavers
 
-  It tolls for thee.
+Here we have to bring up the case of devilite involvement, as they are ones responsible for Underworld-related activities across Clockworks adn Cradle:
 
-</BookCitation>-->
+- They are encountered in the Call of the Colossi
+- They are present at Amu-Sol during the events of Heart of Ice
+- They were present during _summoning of trojans from the legion of Ur_
+- They were _present at the Gauntlet alongside gremlins_
 
-If the above scenario is true -- of Arkus being haunted, -- then this presents a scenario, in its uniqueness similar to the [Ghosts in the Machine](#ghosts-in-the-machine), as those souls communicate with the living. The aspect of benevolence can be seen here. As in the Iron Hulk, those souls, trapped in the machine were helping the knight. Here, likely souls ask Arkus to leave those feelings behind -- `In the eyes of these silent warriors I see myself: cold, strong, unflinching... and crumbling. I have been asked to let it go, to move on, but this I cannot do` ([Recon Module: Cryptic Statuary - Arkus](https://wiki.spiralknights.com/The_Silent_Legion/Cryptic_Statuary)), and then the voices themselves seemingly leave Arkus -- `I could swear I heard them just now, their voices carrying in the wind. No longer screams, no longer cries- whispers. Indecipherable even in the stillness of this place. Are they leaving me here? Why must I be left behind?` ([Cryptic Statuary - Arkus](https://wiki.spiralknights.com/The_Silent_Legion/Cryptic_Statuary)).
-
-And for the case of spirits remaining in the material realm, one item presents itself with the direct mention of haunting -- the 5-star [Dread Skelly Shield](https://wiki.spiralknights.com/Dread_Skelly_Shield), `It occasionally issues a quiet, forlorn whisper, usually about remembering to block` as well as its earlier 4-star precursor, the [Sinister Skelly Shield](https://wiki.spiralknights.com/Sinister_Skelly_Shield), `A kite shield haunted by a benevolent ghost`.
-
-So the souls haunt with intent of benevolence, yet it is up to the haunted to understand this guidance.
-
-Those two items make us conclude on the scenario of __Arkus being haunted__ _by lingering souls of his squad_.
-
-##### Spiral Wardens and Trojans Similarity: Part 1
-
-Apart from those effects of dark matter, we need to establish a more defined nature of Arkus's physical state and relation to trojans through the analysis of other, more prominent, physical effect of dark matter.
-
-What are the conditions of Arkus' transformation to a trojan? Is _dark matter being here a consequence or means of the transformation_? What part of this process is supposed to be symbolic in the first place, for example, how Arkus is a Spiral Warden, has warden's horse helmet while trojans possess similar horse appearance and a physical horse skull underneath the stone exterior of the helm as revealed in tier 2 and 3 trojan designs?
-
-To resolve this, tortodrones are reintroduced through similarity to trojans. They are reactivated with the dark matter crystals as a power source. In order to power tortodrone with dark matter, its shell is deconstructed, and on its plates fiendish sigils are carved in place of eyes, potentially made of dark matter due to their glow and other instance of ritual circles made of dark matter.
-
-It was already explored, how devilites may use those sigils, concluding to them being a [protective and summoning, utility measure](#ritual-circles-circle-of-art-pentacles).
-
-Tortodrones' case suggests that _a violent intervention had to happen in order to place dark matter_. On the other hand, there are Lord Vanaduke, zombies and Carnavons, _who got the familiar purple glow through the curse-driven transformation_ -- mainly claws and inner glow of eyes and ribcage. In case of Arkus, as he is an Isoran, could've he gone through a similar process of potential death, as carnavons, or transfiguring curse, as Lord Vanaduke?
-
-Here we have to bring up the case of devilite involvement, as they are usually ones responsible for Underworld-related activities across Clockworks:
-
-- _They are encountered in the Call of the Colossi_;
-- Across _Amu-Sol during the events of Heart of Ice_;
-- They were present during _summoning of trojans from the legion of Ur_;
-- They were _present in the Gauntlet alongside gremlins_.
-
-And despite all of those instances, they are absent in the Cryptic Statuary. From native fiends there are only [Beryl Greavers](https://wiki.spiralknights.com/Beryl_Greaver) and trojans themselves.
+And despite all of those instances, they are absent in the Cryptic Statuary. From native fiends there are only [Beryl Greavers](https://wiki.spiralknights.com/Beryl_Greaver) and, rarely, trojans themselves.
 
 Both trojans and devilites did come from the Underworld to Cradle. Moreover, Arkus is accompanied by greavers, from whom the entire history of Undercorp in the material realm had begun as [we had attempted to reconstruct it](#evil-eye).
 
-##### Greavers
+Greavers in that context are important entities. They accompany Arkus, they have evil eye wing patterns, similar to moths, and in case of elemental greavers, this wing pattern glows.
 
-Greavers in that context are rather important entities. They have evil eye wing patterns, similar to moths, and in case of elemental greavers, those patterns glow.
+As it was already covered in the [Arrival of Undercorp chapter](#undercorps-initial-advancements), Greavers are Underworld's military units, judging by the presence of a [shadow steel helm with a evil eye](#evil-eye) and the exact species from which imagery of the evil eye started to spread across planet of material realm, which was then incorporated into Cradle. _They become harbingers of Underworld presence_.
 
-As it was already covered in the [Arrival of Undercorp chapter](#undercorps-initial-advancements), Greavers are Underworld's military units, judging by the presence of a [shadow steel helm with a evil eye](#evil-eye) and the exact species from which imagery of the evil eye started to spread across planet of material realm, which was then incorporated into Cradle.
+What their name means? Could it potentially be understood in a same manner as howlitzer are reminiscent of howitzers as names reflect the function?
 
-What their name means, symbolically? In a same manner as howlitzer are reminiscent of howitzers, could greavers be attributed to anything militaristic? First, there are greaves, a type of leg armour. This can potentially mean that __greavers are elite military units__. _We saw this first-hand in fiendish arenas_, where 12 Greavers, which are considered elite enemies, approach as the [final wave of the final arena starts](https://wiki.spiralknights.com/Arena#Final_Wave_3).
+First, there are greaves, a type of leg armour. Greaver wear helments yet we can not find a distinct connection otehr than framing greavers as units in Underworld army, which was evident by their shadow steel-forged equipment [from the prior analysis](#evil-eye).
 
-We had suggested an inspiration behind greavers' design being moths. Apart from a similar shape and wing patterns, they play a significant role in Greek mythology.
+<!--This can potentially mean that __greavers are elite military units__. _We saw this first-hand in fiendish arenas_, where 12 Greavers, which are considered elite enemies, approach as the [final wave of the final arena starts](https://wiki.spiralknights.com/Arena#Final_Wave_3).-->
 
-Moths were believed to be carriers or be guidance for souls. Apart from it, Arkus's fight is one of a few instance of a text or Spiral Knight narrating over the events: `An intense sadness radiates from his fallen form. His eys fade and a darkness washes over him. Arkus is lost.` ([Arkus - inspection](https://wiki.spiralknights.com/Arkus)).
+Greavers' and silkwings' anatomy is reminiscent of moths. Apart from a similar shape and wing patterns, they play a significant role in Greek mythology.
 
-Could it be that during Arkus's fight in the Cryptic Statuary _greavers serve non-violent means of a soul refusing of departure_, chosing solitude over oblivion? Moreover, considering all of the known logic behind manipulation and transfer of souls, could it be that we have witnessed __Underworld's proper ancient method of capturing souls__, paralleling Apocrean Harvester, as both are insect-like creatures?
+Moths were believed to be carriers or be guidance for souls. This link to souls holds symbolic value for Arkus, as his narrative is one of inability to let go while becoming a trojan as a worse alternative.
 
-With this, we may now approach the analysis of effects of dark matter onto trojan and Isoran.
+Arkus's fight is one of a _few instance of a text or knight narrating over the events_: `An intense sadness radiates from his fallen form. His eys fade and a darkness washes over him. Arkus is lost` ([Arkus - inspection](https://wiki.spiralknights.com/Arkus)).
+
+Greavers are native to Underworld ecosystem and now with the context of changed metaphysics, they can be seen as most natural non-violent presence of Underworld in the material realm as a place for souls to depart to. Within this explanation _greavers serve non-violent means for a soul refusing of depart_ which chooses solitude over oblivion. Moreover, considering all of the known logic behind manipulation and transfer of souls, could it be that we have witnessed _Underworld's proper, ancient method of capturing souls_, paralleling Apocrean Harvester?
+
+As the prior narrative is mostly a speculation, while capture of souls seems more plausible despite prior motivation. We can provide one more explnation where Arkus's trasfomation to a trojans is protected by greavers, as _both Arkus and greavers oppose the knight_.
+
+#### Arkus: Part 2: A Trojan
+
+While there are less connections to specifics of devilite or trojan goals apart from [proposed involvement of Underworld for trojans](#arkus-part-1), fiendish physiology of trojans and Arkus must be analyzed to a greater extent as it is depicted.
+
+[Crest of Ur](https://wiki.spiralknights.com/Crest_of_Ur) is described as `a crest from the lost Legion of Ur, an elite band of fiendish warrior said to have once conquered the Underworld. Whomever holds it can faintly hear the sound of drums and the clomping of hooves`.
+
+The same phenomenon of drums was mentioned during Almire's Fall for Lord Vanaduke: `The image burned into his eyes and brain like cinders, and contained that which sounded like the screaming of foreign tongues and war drums` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)).
+
+While we have noted on the similarities of those events, __presence of drums__, we propose, links the two separated by time events over a potential, _characteristic relation of Underworld_.
+
+As Lord Vanaduke's tranformation was evoked by a proximity to Underworld deity, does the supernatural state of trojans __render them a result of a performed ritual__ where `poisoned minds` are involved in order _for the victim to turn themselved in to Underworld_, or specifically, against material realm?
+
+To this multifaceted connection we introduce Spiral Wardens given __their acknowledgement of the Ruinous Crystal and corruption__, wherein Ruinous Crystal, as mentioned at the [introducion of the Wardens](#spiral-wardens), can be seen as a potential catalyst for Warden's corruption, establishing a solid link to fiends.
+
+As dark matter, in the form of ruinoues crystal, becomes now relevant, we will return to the analysis of minerals' charge specifically through this lens of effects of dark matter onto beings of material realm.
+
+We will also keep in mind tortodrones through their similarity to trojans. They are animated with the dark matter crystals as a power source. In order to power tortodrone with dark matter, its shell is deconstructed, and fiendish sigils are carved in place of evil eyes on the shell plates. It was already explored, how devilites may use those sigils, concluding to them being a [protective and summoning, utility means](#ritual-circles-circle-of-art-pentacles).
 
 #### Minerals and Souls: Part 3 - Mineral Charge
+
+Tortodrones' case suggests that __a violent intervention had to happen in order to introduce dark matter__.
 
 Sparks of Life, or rather, an emergency revive, _supercharges dark matter shard in Arkus_, __forming small arcs of purple lightning__ on the first revive around the crystal.
 
@@ -4724,178 +4722,163 @@ On the second revive, those __arcs are seen all throughout Arkus's armor__.
 
 The last stages in that regard resemble tier 3 trojans, as both do have a characteristic purple crystal fuming and lightning arcs. Arkus's dark matter shard, same as trojans', glows pink and __burns with the same purple flame, not found before initial revive__.
 
-_This property of burning after a revive in mineral, we propose, is the depiction of mineral's now charged state._
+This property of burning after a revive in mineral, we propose, is the depiction of __mineral's now charged state with the excess energy of the revive__.
 
-Revising tortofists' ammo, there is potentially only other one instance of charged dark matter -- the projectiles of [Gorgofist](https://wiki.spiralknights.com/Gorgofist). In that case the crystals are the same color as pillars, but they have bright purple pulsing glow as the rest of tortofists' ammo.
-
-Throughout [Minerals and Souls](#minerals-and-souls-part-1), [Auras and Souls](#auras-and-souls), and [Apocrean Engines](#apocrean-engines) we had suggested that __minerals under unknown conditions could contain Energy-based charge__.
-
-The Energy here being the medium for souls to exist in and through, and a link for the fuel of [Apocrean Engines](#apocrean-engines) under condition of being captured by the latter. That energy is contained in minerals as charge, one used to power Clockwork Gates, as suggested by Vaelyn's team technician: `We need to analyze how mineral power affects the Core. The problem is that very little power reaches down to these depths. We can gather so much data from each gate as it launches`. Although, this dialogue could potentially refer to an old method of gate construction, as it had remained unchanged after rework of energy system. But since the dialogue is in the game, and talks about gate launches themselves, we may also suggest a role of energy here being used as-is -- an important component not intended to be removed as it sheds light on the physics of minerals.
-
-As no souls exit minerals, unlike everfrost, it is likely that it is rather a different form of energy contained within those minerals.
-
-As mineral pillars are explicitly placed and stored across Clockworks, we can potentially suggest that those are in the depleted state. It is then a question of why gremlins had to store specifically depleted mineral?
-
-There is presence of dark matter in a more raw formations such as [across dark cities](https://wiki.spiralknights.com/File:Area-Devilish_Drudgery-Scenario_Room5A.png), and around tortodrone-themed arenas. On the other hand, those could be shards of tortodrone missiles in a more cinematic perspective. Lastly, given those minerals are also observed in the arenas as being hidden behind Misery Blocks, we may propose that it is the most natural state dark matter is found in - in large chunks of mineral compared to the mineral pillars.
+Throughout analysis of [Minerals and Souls](#minerals-and-souls-part-1) we had we offered a [framework](#state-of-cradle-metaphysics), which explains nature of [minerals' charge and innate power](#minerals-and-souls-part-2-strangers-mining-operations-crystal-and-mist-energy) as manifestation of [universal Energy](#energy).
 
 ##### Instances of Charge
 
-Now we cycle back to tortodrones, but in the context of souls. What connects tortodrones, trojans, and Arkus, is that all have dark matter present, it serves as, potentially, a power source, and is charged to the point of fuming/burning:
+What connects tortodrones, trojans, and Arkus, is that all have dark matter present, it serves as, potentially, a power source, and is charged to the point of fuming or burning:
 
 - Tortodrones have cracked shells with purple glow, purple lightning arcs and burning eyes.
-
-    Crimsonite-powered tortodrones don't have burning eyes, but do have red lightning arcs throughout their shells.
 
     When a corrupted, or potentially, any tortodrone is defeated:
 
     - Its power pistons extend and purple mist is released, similar to mist of tier 2 trojans, attributed to [Baleful Aura](https://wiki.spiralknights.com/Baleful_Aura#Baleful_Aura).
-    - Tortodrone petrifies. Their shells and perceived bodies are made of stone and capable of being completely destroyed, once tortodrone deactivates.
+    - Tortodrone petrifies. Its shell and body made of stone canbe completely destroyed, once tortodrone is defeated.
     - The glyphs, carved on each individual shell of tortodrone stop glowing.
+
 - Trojans, especially tier 3 have their internals, ribcage and eyes, seemingly cracked as stone and burning with the same brighter hue of purple-pink fire and visible lightning arcs.
 
     Their dark matter crystal on the back burns as well and is the same bright pink color, identical to Arkus at his first revive.
 
-    When trojan is defeated, his crystal shatters, multiple purple explosions happen, and trojan petrifies.
+    When trojan is defeated, his crystal shatters, multiple purple explosions happen, and trojan petrifies, identical to a tortodrone.
+
 - Arkus has the same dark matter crystal, with the first revive it starts to burn as well as emit arcs of purple lightning.
 
     With the second revive purple lightnings arcs traverse entirety of Arkus's armor.
 
     When Arkus is defeated, no shattered crystal is seen, but the purple explosions remain. Arkus does not turn to stone.
-- Maulos has the same armour with skull imagery, ribcage, and revealed skull for a head as tier 3 trojans.
 
-    He has everfrost instead of dark matter embedded, and has moonstone-like glow from the ribcage, but no burning flames. Presence of everfrost in place of dark matter was the foundational element for this soul-energy link within minerals.
+- Maulos possesses identical armor with skull imagery as tier 3 trojans, an exposed ribcage, and revealed horse skull.
+
+    He has everfrost instead of dark matter embedded, and has moonstone-like glow from the ribcage, devoid of flames. Yet, as we [have explored](#everfrost-and-souls), nature of everfrost and other mineral stemms from their ability to hold souls or energy, to a lesser extent.
 
     What sets him apart from trojans is the presence of everfrost onto his skull, forming a vertical spike. When he is defeated, the everfrost shard shatters with its distinct color.
 
-All of those patterns seem to point a specificity of Dark Matter and by extension, everfrost, being connected, but also having similar underlying nature and effects.
+With those notion, we extend this roster of characters to include last 2 instances revolving around dark matter and its association with Underworld and curse -- Darkfire Lord Vanaduke's and Carnavons' __claws, made of dark matter, as if being transformed__. As Lord Vanaduke and other zombies had at some point Isoran physiology, then the appearance of claws strogly suggest an element of irreversable transformation. And in case of Lord Vanaduke, __bordering body horror__.
 
-To reiterate on [Minerals and Souls part 1 conclusion](#minerals-and-souls-part-1), those properties emerging from a connection to dark matter seem as one of arguments to energy in some capacity being contained in minerals. But then, this _leads to questioning if everfrost is a subtype of moonstone_, be it Underworld counterpart, or a changed by souls of Blinding Abyss moonstone? This currently is unknown, but plausible. As it is _capable of growing from Maulos's ribcage_, we have to point out the nature of Darkfire Lord Vanaduke's and Carnavon's __claws -- made of dark matter, as if transformed__.
+__Is ruinous crystal the source of Arkus's transfomration into trojan?__
 
-Could it be that __dark matter shard on trojans backs is a symptom, rather than a reason for their condition__?
+#### Arkus: Part 3: A Metamorphosis
 
-Those aspects of both presence of dark matter and curse will be iterated upon in our [final analysis of curse](#intermission-analysis-of-curse).
+Now we will attempt to explain metamorphosis of Arkus as it is observed.
 
-##### Metaphysics of Souls and <span class="through-curse">Cursed Immortality</span>
+`Poisoned minds` suggest an external influence, while `cold hearts` imply immortality or cruelty, and also affliation with stone.
 
-As zombies are resurrected, as _Carnavons and Lord Vanaduke are animated by curse, which grants them immortality_, what have happened to Arkus, and by extension, Maulos, and the Legion of Ur to become fiends?
+Through the motif of stone [originally defined for tortodrones](#motif-of-stone-and-serenity-titans), here it had served us to reflect both onto trojans and tortodrones, eventually drawing parallels between the two forces -- as an Underworld army made of stone, infused with dark matter and possessing devastaing manpower.
 
-As far as information about Arkus claims, he could have either metaphorically or literally perish and then be brought back to life through curse, similar to the [crew of Iron Hulk](#ghosts-in-the-machine), as they _haunt the ship as undead_, or, more likely, as _Lord Vanaduke on the altar of a volcanic deity_.
+We proposed that the `poisoned minds` narrative was one infolving the influence onto Spiral Wardens specifically, as the latter are similar to trojans with an inclusion of physical corruption.
 
-Apart from the transformation being seemingly caused by the _sheer grief and exposure to Underworld_ to be a reason, we have to search further, while assuming such case, as no evidence of Arkus's death before an encounter with him exist.
+The poisoning then may be connected to the nature of hauting, as the effect of grief on Arkus also had included haunting as a [tangible concept](#haunting). The grief may serve an essential component to this transformation into trojan, similar to the grief Lord Vanaduke had carried when [he entered the Blackened Shrine](#blackened-shrine-and-magma-deity). In both cases grief is used to _push one into the extremes and subsequent transformation into an extension of Underworld malign presence_.
 
-Trojans were _sealed in the Underworld and then summoned_, and _Maulos is summoned from Underworld or even Blinding Abyss_. Maulos brought influence of everfrost with him and is transformed by it or by being in the Blinding Abyss. When compared to trojans of Legion of Ur, who are also transformed, but accompanied by presence of dark matter, we noted on Maulos possessing a shar of everfrost, rather than dark matter.
+We also speculated that Arkus might have to perisheed in the Clockworks by the time knight arrives, as Arkus possesses through unknown means the ruinous crytal embedded into his back, identical to other trojans which ties into the origin of the crystal.
 
-Slag Walkers, and the rest of Almire's legion were scorched by shadow fires of Lord Vanaduke, as he returned from the mountains. _This does not explicitly mean death_, as souls of Almirians remain trapped - more about it now.
+This connects to each individuals' powers, as Arkus, despite being partially a trojan and a fiend, has orbiting dark orbs, similar to Lord Vanaduke, in both cases demonstrating an _unprecdeneted scope of magic_, rarely seen in the wild.
 
-In that sense we suggest that presence of fiery souls after Firestorm Citadel' was partially cleansed by the waters from [Spirit Mother's Realm](#spirit-mothers-realm) and Vanaduke's defeat may reveal that _they were trapped in a corporeal form of perished or ashen Almirians_ in a similar manner as Lord Vanaduke is described by the [Lost Soul of Almire](https://wiki.spiralknights.com/Lost_Soul_of_Almire_(nameless)): `Lord Vanaduke rules over the citadel now. His soul bound to some horrific armored prison. ... Allow the souls he keeps bound to this world a chance to return` ([Alone in The Dark - Lost Souls of Almire](https://wiki.spiralknights.com/Lost_Soul_of_Almire_(nameless)#Dialogue)). __That it is not the metaphysic of Cradle, which do not permit his soul to leave, but the curse itself__.
+<!--Those dark orbs are also seen in _Warmaster Seerus's anti-gremlin bomb_, [Dark Retribution](https://wiki.spiralknights.com/Dark_Retribution), as well as to an extent [Neutralizer's](https://wiki.spiralknights.com/Neutralizer) projectiles.-->
+
+With this we return to the theme of otherworldly transformations, identified and found through Lord Vanaduke's appearance -- _the body horror aspect_ of the setting.
+
+We offer 2 conclusion:
+
+- Ruinous crystal is embedded to initiate a corruption, similar to tortodrones
+- Ruinous crystal is formed from corruption, similar to dark matter of Carnavons and Lord Vanaduke
+
+We propose that _body horror of transformation serve here the thematic foundation_ -- Arkus did not perish in the Clockworks, but rather was __subjected to a slow metamorphosis into a trojan__ _as Lord Vanaduke was subjected to transformation into a fiend__.
+
+<!--This led us to suggest, that  grief may be the catalyst of transformation, while the ruinous crystal may be the symptom of the process, rather than its source, reminiscent of Lord Vanaduke's and Carnavons' claws being remade from their Isoran anatomy yet seem to be made of dark matter.-->
+
+Arkus's sword slam attack has _pink lightning strike from above_, and forms dark crimsotine shards, similar to tortodrone missiles. Those depleted crimsonite shards are the same as tortodrones'. The pink lightning strike is closely similar to the one present _during summoning of Margrel_. Yet, as much as we have discussed [nature of portals and grim gates](#grim-gate-portal-collapse), we do not know nature of lightning or its symbolic role beyond what relates to [lesser creation myth and a pantheon of heavenly deities](#lesser-creaton-myth), other than being to some extent connected to Underworld, given context of lightning's appearances.
+
+#### Trojans are Deceived Spiral Wardens
+
+The idea of poisoned minds, _tied with the idea of Underworld deities fulfilling the deal_, but in a _twisted manner, potentially as part of a larger plot_, where wardens were __deceived__ to become trojans.
+
+The reasons for this scenario may lie in the suggestion of immortal or eternal servitude, as under current logic we know that Spiral Wardens do abide to Guardian's Oath, and __them betraying the Oath would be worse than resignation__.
+
+<!--Among those desciption, we can potentially identify a different item, which may refer to a different oath: `Strong, yet light armor for knights who've sworn an oath to hunt down and destroy the undead, wherever it may lurk` ([Silvermail](https://wiki.spiralknights.com/Silvermail)).-->
+
+<!--[Silvermail](https://wiki.spiralknights.com/Silvermail) may be connected to [Cold Iron Vanquisher](https://wiki.spiralknights.com/Cold_Iron_Vanquisher): `A powerful cold iron blade forged for the singular purpose of hunting down and destroying the undead` which is similar to the [Leviathan Blade](https://wiki.spiralknights.com/Leviathan_Blade), _paralleling the Almirian and Cobalt sets of armor_.-->
+
+<!--It is very likely that those who did wear this armor were in a similar position to Wardens, but the armor itself strongly relates to opposition to Underworld, reminiscent of Valkyries. We are presented wiatg a large time gap which might lead to the history of the Legion of Ur, __given that both have an extremely fantasy-themed equipment__, as emerging during a far more fantasy-driven narrative preceeding Almire.-->
+
+Would then Wardens be at the precipice of becoming immortal and invulnerable though those means -- driven by Underworld?
+
+Then whom, under those extreme conditions, they would sworn to protect, while allowing for the metamorphosis similar to Arkus? __If trojans' minds are poisoned, considering their alliance with devilites as a Legion of Ur, does it mean that it is the rest of the material realm who they are made to hold disdain of__?
+
+Prevously we [have attempted to identify Ur through language of Underworld](#name-of-ur) -- Ur being an Underworld name, a name of a figure, leading the legion, as well as a concept or quality.
+
+As the legion had conqueredd the Underworld, it may have been led by an entity externa to the Underworld, similar to a Fallen Valkyrian:
+
+- `A cursed suit of armor once worn by a celestial being cast down from paradise` ([Armor of the Fallen](https://wiki.spiralknights.com/Armor_of_the_fallen)).
+- `A cursed crown once worn by a celestial being cast down from paradise` ([Crown of the Fallen](https://wiki.spiralknights.com/Crown_of_the_Fallen)).
+
+If the figure leading the legion was a fiend, its motivations had differed from Underworld at that monent.
+
+While identity of Legion's leader is speculated, we will commit to a narratoive where Spiral Wardens are metaphysically corrupted by an actor from Underworld.
+
+<!--Could this narrative tie with the Sleeper, even: `THIS WORLD WAS CREATED TO PROTECT ME. VULNERABLE IN SLUMBER, WORLDS WERE DRAWN TO SHIELD ME FROM THE DARKNESS.` ([Echo Stone: Ironclaw Munitions Factory](https://wiki.spiralknights.com/Echo_Stone:_Ironclaw_Munitions_Factory)), in the same manner, as Valkyries were also possessing a role of guardians? This would align with the concept of Undercorp and rest of soul-harvesting civilizations compromising material realm, from which energy in form of souls comes from and through.-->
+
+For this, we will eventually need to look into a different period of time, _preceding Almire and a war of those 3 kingdoms, leading up to theorized ancient arrival of Isorans to this planet before Cradle_ and a proposed becoming of the Legion of Ur.
+
+#### Metaphysics of Souls and <span class="through-curse">Cursed Immortality</span>
+
+<!--As zombies are resurrected, as _Carnavons and Lord Vanaduke are animated by curse, which grants them immortality_, what have happened to Arkus, and by extension, Maulos, and the Legion of Ur in order fo them to become fiends?-->
+
+<!--As far as information about Arkus claims, he could have either metaphorically or literally perish and then be brought back to life through curse, given unidentified effects of ruinous crystal and therefore a space for speculation. This narrative would be similar to _Lord Vanaduke's traversal into the mountains_ and present grief, albeit Arkus has no final goal compared to Lord Vanaduke.-->
+
+<!--Apart from the transformation being seemingly caused by the _sheer grief and exposure to Underworld_, we have to search further, while assuming such case, as no evidence of Arkus's death before an encounter with him was found.-->
+
+<!--Trojans were _sealed in the Underworld and then summoned_, and _Maulos is summoned from Underworld or even Blinding Abyss_. Maulos brought influence of everfrost with him and is transformed by it or by being sealed in the Blinding Abyss.-->
+
+Slag Walkers, and the rest of Almire's legion were scorched by shadow fires of Lord Vanaduke, as he returned from the mountains. _This does not explicitly mean death_, as souls of Almirians remain trapped, as much the soul and will of Lord Vanaduke.
+
+##### Lord Vanaduke's Eternal Will
+
+In that sense we suggest that presence of fiery souls after Firestorm Citadel was partially cleansed by the water from [Spirit Mother's Realm](#spirit-mothers-realm) and LORD Vanaduke's defeat may reveal that _they were trapped in a corporeal form of perished or ashen Almirians_ in a similar manner as Lord Vanaduke is described by the [Lost Soul of Almire](https://wiki.spiralknights.com/Lost_Soul_of_Almire_(nameless)): `Lord Vanaduke rules over the citadel now. His soul bound to some horrific armored prison. ... Allow the souls he keeps bound to this world a chance to return` ([Alone in The Dark - Lost Souls of Almire](https://wiki.spiralknights.com/Lost_Soul_of_Almire_(nameless)#Dialogue)). And yet, as we noted on the abnormal nature of Lord Vanaduke in initial analysis of souls, it is clear that soul itself may choose by its own unconscious will to remain.
+
+__That it is not metaphysics of Cradle which forbid Almire to rest, but the curse itself rendering Lord Vanaduke's body to an immortal prison for his soul__. And, if the corporeal body is manifestation of an aura, then we can _identify another property of curse as targeting soul's aura_.
 
 Souls are bound to the citadel, which burns as long as Lord Vanaduke is alive. The quote `His soul bound to some horrific armored prison` here, we believe, has 2 interpretations:
 
-- Less of a reference to the citadel, _but to Lord Vanaduke's armor_, as the armor itself seems unnatural, transforming with the Lord, and by presence of word "some", which in the context of the entire dialogue seems to us as a reference to a different object.
+- Less of a reference to the citadel, _but to Lord Vanaduke's armor_, as the armor itself seems unnatural, transforming with the Lord, and by presence of word "some", which in the context of the entire dialogue seems to us as a reference to a different object, such as his armor, which becomes even more distinct for Darkfire Lord Vanaduke through its unique design.
 - Referring to the Citadel itself. Once Lord Vanaduke is defeated, Nature Sprites had regained power to put out the fire: `Firestorm Citadel continues to burn with accursed flames. Though the nature sprites have been steadily making progress in fighting the flames, something or someone has recently caused a violent resurgence in its destructive power` ([Shadowplay](https://wiki.spiralknights.com/Shadowplay)).
 
 As the most of citadel is cleansed, the souls, mentioned in the quote `Allow the souls he keeps bound to this world a chance to return`, are presented as [Fire Souls](https://wiki.spiralknights.com/Fire_Soul#Fire_Soul) in the [Overgrown Court](https://wiki.spiralknights.com/Shadowplay/Overgrown_Court).
 
-We will keep those interpretations in mind, once we will be able to cover Shadow Firestorm Citadel and Darkffire Vanaduke specifically.
+We will keep those interpretations in mind, once we will be able to cover _Shadow Firestorm Citadel and Darkfire Lord Vanaduke_ [specifically](#darkfire-lord-vanaduke-and-damnation-through-curse).
 
-###### Static Souls
+##### Static Souls
 
-This setup and physics, on the other hand, contradict presence of souls in the [Dry Docks](#ghosts-in-the-machine). The problem, as we see it, stems from the fact souls of Almire are being released from the curse, which had them bound to the citadel and its legion of undead, - this is what allowed them to transform into incorporeal lost souls - [Fire Souls](https://wiki.spiralknights.com/Fire_Soul#Fire_Soul). The fact that those souls contain element of fire may point to a type of containment they were in - here sealed by the Vog's or Vanaduke's fiery curse.
+This setup and physics, on the other hand, contradict presence of souls in the [Dry Docks](#ghosts-in-the-machine). The problem, as we see it, stems from the fact souls of Almire are being released from the curse, which had them bound to the citadel and its legion of undead, -- this is what allowed them to transform into incorporeal lost souls -- [Fire Souls](https://wiki.spiralknights.com/Fire_Soul#Fire_Soul). The fact that those souls contain element of fire may point to a type of containment they were in -- sealed by the Vog's or Vanaduke's fiery curse, raises a question why lost souls are already present for Fry Docks.
 
-###### Frozen Souls
+Unless, it is the _lack of a will which would force souls to remain_ rigidly bound: `Legions of shambling dead have attacked us here, relentless in their defense of this place. Their broken, burnt frames crumbling and rising once more, ready for another battle. And just as they refuse to fall, so does the burning ruin around them. It is almost as if this whole realm is trapped ... never allowing itself to finally turn to ash. You can feel it in the smoldering air - an eternal will holding this place together, never allowing its inhabitants to rest` (Recon Module: Firestorm Citadel - Grantz), which we propose to be an explanation, revolving around the idea of the citadel perpetally remaining ready for battle since its burning thousands of years ago.
 
-In case of Heart of Ice, [Frozen Souls](https://wiki.spiralknights.com/Fire_Soul#Frozen_Soul) are as such due to being released from Everfrost, connecting them to the Blinding Abyss and cold in general, referring to our [analysis of Blinding Abyss](#perma-frostifurs-and-blinding-abyss).
+##### Lost Souls
 
-Non-elemental Lost Souls of the graveyards are as such due to more mutual process of resurrection - as they are _not bound by curse and are manifested through properties of Cradle which make spirits return to the material realm_. But in case of the Ghost in The Machine - [Static Souls](https://wiki.spiralknights.com/Static_Soul#Static_Soul) are already released, despite them still inhabiting the circuits of the Skydome containing the vessel in the form of Dry Docks.
+Lost souls devoid of elements and found across the graveyards are as such, we suggest, due to less supernatural processes occuring. Those souls _they are not bound by curse_ or held by supernatural measn as frozen or fire souls, they are manifested through properties of Cradle which make spirits return to the material realm.
 
-There, the same manner of haunting is present, and why souls would still exist in their unbound state, remains unknown, unless Underworld's presence of greater in that location, such as the case of graveyards.
+[Void Souls](https://wiki.spiralknights.com/Fire_Soul#Void_Soul) will be explored during analysis of the Swarm.
 
-[Void Souls](https://wiki.spiralknights.com/Fire_Soul#Void_Soul) will be explored during [analysis of the Swarm]().
+#### Almirian Empire
 
-###### Freed Souls
+Setting aside designs of curse within Vanaduke, Darkfire Lord Vanaduke, and nature of dark matter within trojans, we should point out the following arrangement of concepts -- _spookats and zombies do belong to different epochs separated by thousand of years_. And yet, both zombies and spookats are present across Owlite Academy, which is part of heavenly kingdom.
 
-Finally, Freed Souls were bound by the traps of Apocrea, which manifest in the properties of Grasping Plateau and metaphysics of harvester capable of manipulating, harvesting those souls, as well as draining them from one carrying them.
+We speculate that at some point in time Lord Vanaduke had a military conflict with heavenly kingdom, wherein Owlites and Valkyries were present.
 
-It is also there it is seen that Apocrean Harvester is capable of extracting souls from captured knights through the application of the purple beam of light, similar to ones found across depths' near Apocrean Realm within the shroud. _This process of extraction also damages the knight_.
+This speculation is derived from specific words in the monster codex, wherein Lord Vanaduke is characterised as _eternal_ and his kingdom -- _Almirian Empire_: `Little is known about the eternal Duke of the Almirian Empire` ([Monstrous Codex: Lord Vanaduke](https://wiki.spiralknights.com/Vanaduke#About)).
 
-Although Auras in that regard remain mostly unknown, the nature of this connection between all of the above concepts seems here evident, potentially even, as different manifestations of the same base concept of Energy.
+Similar characteristic is given by Grantz: `This is a real place, some kind of shell of a former empire. There is great sorrow here, something unlike anything I have felt before. Legions of shambling dead have attacked us here, relentless in their defense of this place. Their broken, burnt frames crumbling and rising once more, ready for another battle. And just as they refuse to fall, so does the burning ruin around them. It is almost as if this whole realm is trapped in a single moment from some forgotten time, never changing, never allowing itself to finally turn to ash. You can feel it in the smoldering air- an eternal will holding this place together, never allowing its inhabitants to rest. No creature deserves such a fate, it is beyond my understanding` (Recon Module: Firestorm Citadel - Grantz).
 
-This can potentially tie in with the concept of [auras](#auras-and-souls), as they should represent an essential part of being. So damaging them, if we take an idea of a soul as a subtle body, would translate to directly damaging the body. Presence of multiple souls can be explained either by knight to be assumed to collect those souls, or by a being an entity of material realm - as if presence of the souls would link living being to a higher realm, access to which is seemingly desired by Apocrea.
+Could it be that the kingdom of Almire did become an empire the size of the 3 warring kingdoms after Lord Vanaduke destroyed their armies -- `Leading an army of terrible fiends, Vanaduke returned to his kingdom, destroying the occupied forces of the two opposing kingdoms in a single day. In time the two kingdoms fell, Vanaduke's legion burning everything in their path. When he returned to Almire, it burned as well, for everywhere he went, and everything he touched was doomed to ash` (Almire's Fall)?
 
-As the souls after being frred from purple chains are seen to fly away, similar to them flying from golden light at the Departure, we would argue that Harvester does not drain collected souls of the knight, but taps into its nature as enity possessing a soul - for the means of fuealing Apocrean Engines. This would lead to the idea of a single soul being a partial representation of a being, rather than the totality of it, as this logic would explain an observed phenomenon of a soul being forcibly split into identical entities. Only when entitrety of the soul is drained, and as the knight perishes, the exstraction of the soul can be considered complete.
+Yet it is states that Lord Vanaduke had returned to the citadel: `With nothing left to destroy, his legions left him and returned to the mountains, leaving the king to sit in his throne of ash and cinder, all the people of Almire dead around him. There the cursed king has remained since, ruling a burning kingdom from an ashen throne` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)).
 
-At that, the purple chains seen to encircle freed souls within the Grasping Plateau, we prpose, are of the same nature as purple energy seen across obsidian weaponry, obelists, and locations of Apocrean Realm - Departure and Obsidian Nexus.
+This characteristic of an empire, we propose, was given not to a living kingdom of Almire defined by its relation to nature, but to its state after Lord Vanaduke's return. This interpretaion allows for an empire to be defined as the __undead, cursed total of 3 fallen kingdoms held together in undeath by Lord Vanaduke's will__.
 
-#### Arkus
+Those recounts also establish a _narrative of unprecedented manpower of the accompanied trojan legion of fiends_, allowing them to be characterized as a _decisive weapon_ and __single most powerful army of the Underworld__, [reminiscent of Uncdercorp's army of tortodrones](#the-titans-tortomega-the-fall).
 
-Could it be that only death causes loss of consciousness given nature of zombies and Lost Souls? But in case of Arkus, Lord Vanaduke, and potentially Maulos, _they preserve it_, despite going mad or delirious.
-
-This connects to each individuals' powers, as Arkus, despite being partially a trojan and a fiend, has orbiting dark orbs, similar to Vanaduke - in both cases demonstrating magic rarely seen in the wild.
-
-Those dark orbs are also seen in Warmaster Seerus' anti-gremlin bomb, [Dark Retribution](https://wiki.spiralknights.com/Dark_Retribution), and [neutralizer's](https://wiki.spiralknights.com/Neutralizer) projectiles. Apart from that, as here we won't analyze gremlin technology, what else connects the two? Both Vanaduke and Arkus were grieving, which may also play part in their transformation, as discussed earlier.
-
-At the same time, as this topic is directly linked to deific presence, [Vog explicitly transforms selected creatures](https://forums.spiralknights.com/en/node/9995#comment-55776): `The great fire beast Vog isn't a wolver himself, but a fiery deity of sorts who embraces some creatures and grants them a bit of power. Vog's 'cubs' are more or less acquired and forced to spread his fiery love across the world`.
-
-Lastly, Arkus's sword slam attack has pink lightning strike from above, and forms dark crimsotine shards. Those depleted crimsonite shards are the same as tortodrones'. The pink lightning strike may be similar to the one present during summoning of Margrel. [We will explain this phenomenon](#the-resonance), once we have enough information on it. But, due to aforementioned relation to Margrel and yet not analyzed nature of [Dread Seals](https://wiki.spiralknights.com/Dread_Seal), we will return also to this question [later](#chapter-viii-kat-tribe).
-
-Arkus's transformation may potentially tie in with the location of dust zombie ambush and influence of Underworld. By the concept of Cryptic Statuary, apart from housing stone trojans, belonging implicitly to heavenly kingdom and explicitly by the elevator icon, in that regard, we can speculate that the location of ambush is related to trojans and their transformation - relating to that period in time, when or where trojans were created.
-
-This time period then should be before Almire's Fall, as Legion of Ur had to exist in the Underworld and conquer it.
-
-This may lead to 2 candidates, as we see it: Clockwork Tunnels, as the Statuary is in the tunnels, and Graveyards, - as both have dust zombies, but the latter has only dust zombies without any status effects, apart from curse. Moreover, Graveyards belong to the kingdom of Almire, which makes those zombies people of Almire. As Almire itself is in a permanent state of being cursed, as its lands are cursed, and as [Shadow Firestorm Citadel](#true-citadel-of-almirian-empire) is single location of largest concentration of curse, [apart from one other instance](#miasma), the concept of it dooming anyone traversing its territory would seem fitting.
-
-This would also mean a commitment to an idea of curse being the reason, and dark matter manifestation being the symptom, which we will discuss next.
-
-#### Dark Matter as Manifestation of Curse
-
-As Lord Vanaduke was granted immense power and cursed immortality as he asked to destroy enemy kingdoms, we suggest the same can be told of trojans, spiral wardens of medieval age, as seen by tier 1 design. But is the action, which has cursed those Wardens, did they knew the consequences of this deal with a deity? We lean here to the narrative of a deal with the devil, a deal attached with strings, the strings here being the method through which the desired goal is achieved. _If we commit to this idea if devil's deal, now given that Legion of Ur had conquered the Underworld, what was their wish_?
-
-To compare with Lord Vanaduke, trojans, in this framework seem to be the result of a large scale process of curse, transforming into horse-like beasts, with their armor turning to stone, while retaining some features, seen even in the modern Spiral Order. But the difference lies in the process itself - while Lord Vanaduke's transformation seems to be gifted to him by Vog, that is unknown of Trojans, as well as of Arkus.
-
-As discussed in previous section - it is unknown, what are the conditions which allow for the curse to take affect, transforming its bearer. We have a pattern of grieving, which may or may not serve as a catalyst.
-
-But, exactly here lies the basis of our proposal. Lord Vanaduke, and Darkfire Lord Vanaduke have respective similarity to Slag Zombies and Carnavons by the fact of transformed claws - those are the result of the transformation. And for trojans, their position and role as defenders _twists them in the same thematic manner_ - as they become wardens, but as a fiendish army, invincible from the front, and vulnerable from the back. The vulnerability stems from the crystal. And for Vanaduke, it is his mask, a symbol for somethings. As a king, he carries his scepter, which was linked to the concept of Justice, while twisted by curse and burned by shadow flames: `Only Justice remains, but she too has been twisted by the cursed flames that ravage our kingdom. Justice is now the burning scepter of our once great Lord Vanaduke` ([Legion of Almire - Inner Sanctum - Almirian codex](https://wiki.spiralknights.com/Legion_of_Almire/Inner_Sanctum)).
-
-If we attempt to apply logic behind Almirians' transformation, then crystal of dark matter becomes the manifestation of the curse. In case of Lord Vanaduke that manifestation of the curse was his claws and the mask, and potentially the general stature. The mask seem to have a mind of its own, as it operates throughout the fight by itself. It has a small red gem in the forehead, but this is a different topic. This mask's eye pattern can be seen all across the Citadel, oven columns of the buildings.
-
-#### Spiral Wardens and Trojans Similarity: Part 2
-
-One another concept we found interesting, is the thematic element of petrification in the context of eldritch Myths, specifically, their predecessor, "The King in Yellow", mentioned in relation to Apocrea. In "The King in Yellow", the short story of "The Mask" had the element of petrification, wherein any object submerged into a mixture would turn too marble with a pink inner glow, and after a while returning back to its natural state:
-
-<BookCitation source="Robert Chambers - The King in Yellow, The Mask">
-
-  He held the lily toward me, and I took it in my hand. It had turned to stone, to the purest marble. The marble was white as snow, but in its depths the veins of the lily were tinged with palest azure, and a faint flush lingered deep in its heart. ... But if you held it to the light the stone was beautifully veined with a faint blue, and from somewhere within came a rosy light like the tint which slumbers in an opal.
-
-</BookCitation>
-
-This reminds us of the Cryptic Statuary, and potential reasons for its establishment. Herein we also should point out dark matter crystal burning, similar to the rays of light present in alchemized, as stated by Alec, marble:
-
-<BookCitation source="Robert Chambers - The King in Yellow, The Mask">
-
-  "There is one thing I'm curious about," I said, "and that is where the ray of sunlight came from." ... "It looked like a sunbeam true enough," he said. "I don't know, it always comes when I immerse any living thing. Perhaps," he continued, smiling, "perhaps it is the vital spark of the creature escaping to the source from whence it came." ... I laughed too, and told him I was devoured by the desire for gold, and we had better talk of something else; so when Genevieve came in shortly after, we had turned our backs on alchemy.
-
-</BookCitation>
-
-The reason we brought up this story here is the earlier idea of poisoned minds and cold heart as the depths' names of Silent Legion mission.
-
-This confusion of being turned to stone _as death or a form of immortality_ may be _related to the idea of poisoned minds_, _tied with the idea of Underworld Deities fulfilling the deal_, but in a _twisted manner, potentially as part of a larger plot_, where wardens were lied to.
-
-The reasons for this scenario may potentially lie in the suggestion of immortal or eternal servitude - as under current logic, _we know that Spiral Wardens do abide to Guardian's Oath, and them betraying it would be equal to death_ - a symbolic death referred to Arkus, and literal death for Vanaduke.
-
-Since we are referring here to Guardian's Oath, and we do not know its contents, we will mention relations to it:
-
-- `Grantz was the real veteran of the bunch. A seasoned Guardian, Grantz specialized in keeping his squad safe, namely by crushing anything that would mean to do them harm. Grantz took his Guardian's Oath very seriously, often putting himself directly in harm's way in order to protect another. The guy was selfless. I imagine that if disaster truly befell the Alpha Squad, Grantz didn't let it end without one hell of a fight` ([The Pioneers - Kora](https://wiki.spiralknights.com/The_Pioneers)).
-- `Guardian Knight Arkus was one of the finest warriors serving the Spiral Knights until some time shortly after the crash. As one of the first to search for the Alpha Squad, Arkus's own squad perished in a grisly battle with a horde of dust zombies. Since then, Arkus has blamed himself for their loss, saying that he betrayed his Guardian's Oath to protect his squad. Arkus now journeys into the Clockworks alone, never risking the loss of another squad and we believe, somehow trying to find the squad he once lost. As these expeditions began to appear self-deconstructive, Spiral HQ issued him a direct order to cease. Arkus ignored these orders and has gone deep into the Clockworks and has not returned. Not wanting to lose the last of his squad, Spiral HQ is asking you to pursue him to his last known whereabouts, some kind of mysterious sanctuary at depth 26` ([The Silent Legion](https://wiki.spiralknights.com/The_Silent_Legion)).
-- `Heavy weapons require precise timing to use effectively and the gear tends to slow you down some. But what you sacrifice in usability is returned in sheer power. The gear I specialize in will make you a knight that your squad can depend upon to stay alive and face even the fiercest of monsters` ([Izola](https://wiki.spiralknights.com/Izola)).
-- `Strong, yet light armor for knights who've sworn an oath to hunt down and destroy the undead, wherever it may lurk` ([Silvermail](https://wiki.spiralknights.com/Silvermail)).
-
-    It may be connected to [Cold Iron Vanquisher](https://wiki.spiralknights.com/Cold_Iron_Vanquisher): `A powerful cold iron blade forged for the singular purpose of hunting down and destroying the undead`, and it is connected, similar to the [Leviathan Blade](https://wiki.spiralknights.com/Leviathan_Blade). It is very likely that those who did wear this armor were in a similar position to Wardens, but, the armor itself strongly related to valkyries and their actions onto Underworld. So, we have a large gap, which might lead to the history of the Legion of Ur, __given that both have an extremely fantasy-themed equipment__.
-
-Would then Wardens be at the precipice of potentially becoming immortal or invulnerable though those means, and being lied to, becoming the enemies of once they promised to protect? Then whom, under those extreme conditions, they would sworn to protect, while allowing them to the transformed becoming fiends? _If trojans' minds are poisoned, considering their alliance with devilites as a Legion of Ur, does it mean that it is the rest of the material realm who they are made to hold disdain of_?
-
-Could this narrative tie with the Sleeper, even: `THIS WORLD WAS CREATED TO PROTECT ME. VULNERABLE IN SLUMBER, WORLDS WERE DRAWN TO SHIELD ME FROM THE DARKNESS.` ([Echo Stone: Ironclaw Munitions Factory](https://wiki.spiralknights.com/Echo_Stone:_Ironclaw_Munitions_Factory)), in the same manner, as Valkyries were also possessing a role as guardians? This would align with the concept of Undercorp and rest of soul-harvesting civilizations to compromise the defenses of the realm from which this energy in form of souls comes from. In this iteration, our proposed narrative of Wardens being those guardians and then being twisted by Underworld seems be fitting.
-
-For this, we will need to look into a different period of time, preceding Almire and a war of those 3 kingdoms, leading up to theorized ancient arrival of Isorans to this planet before Cradle.
 
 #### Nature of Darkfire
 
@@ -4959,29 +4942,31 @@ As of now, we propose that both of those curses have underlying common nature, e
 
     He is capable of frost magic affecting an entire fiendish city of Amu-Sol. And as trojans were already covered, we believe that the curse in question can manifest differently depending on its application, resulting in different effects and magnitude, but inevitably tracing back to the Underworld and greater understanding of nature of shadow damage.
 
-##### Spiral Wardens and Trojans Similarity: Part 3
+<!--##### Spiral Wardens and Trojans Similarity: Part 3-->
 
-When dark matter crystal is shattered, trojan petrifies, he can potentially be reanimated from stone, but it was not ever seen. As a matter of fact, trojan petrifies. If we take into account similarity of Arkus and other trojans, we lean to a conclusion of trojans being transformed by the curse, which manifested as dark matter, and housed their souls. More connection toSpiral Wardens emerge here, as the [warden's or colossal prize box](https://wiki.spiralknights.com/Colossal_Prize_Box) contains a prismatic back crystal, called with a odd name - [Ruinous Crystal](https://wiki.spiralknights.com/Prismatic_Ruinous_Crystal), __one that brings ruin__. _Its presence within Spiral Order-themed prize box seems extremely ominous_.
+<!--When dark matter crystal is shattered, trojan petrifies.-->
 
-We have to point out that wardens are called here as colossi, reminding of the [Call of the Colossi](https://wiki.spiralknights.com/Call_of_the_Colossi). There, the colossi were seemingly tortodrones, or tortomega, [who were calling for tortodrones on a Long Migration](#veiled-tortodrone-homeland), as we have previously explored there [fall to Undercorp](#the-titans-tortomega-the-fall). [Warden Helm](https://wiki.spiralknights.com/Warden_Helm) is also described as `The helm of the Stalwart Spiral Wardens is said to give great comfort to other knights. Nothing says "here comes the cavalry" like the sight of these iron giants taking to the battlefield`, associating wardens to giants.
+<!--It can be potentially reanimated from stone, but it was not ever seen. As a matter of fact, trojan petrifies. If we take into account similarity of Arkus and other trojans, we lean to a narrative of external, large-scale infleunce, trojans become transformed by the curse, which manifests as dark matter, and houses their souls.-->
 
-The further element, linking trojans and wardens is found in the [announcement itself](https://forums.spiralknights.com/en/node/95960): `Spiral Wardens are well known for being guardians and protectors, sworn to put the safety of others before their own. Are you up to the challenge of becoming one of these brave champions? If you are, you need to look the part! Through February 3rd, 2014, get distinctive Spiral Warden horse head costume items in Colossal Prize Boxes! (Or if you want a touch of corruption in your life and you'd rather look like a Trojan, you can do that too.*) Contents of the Colossal Prize Box may include: Warden Armors and Helms; Trojan Tail accessory; Baleful Aura; Prismatic Ruinous Crystal accessory; Fireworks in every box! Read all the details right here.` ([Onward to the Year of the Horse!](https://forums.spiralknights.com/en/node/95960)).
+<!--More connection to Spiral Wardens emerge here, as the [warden's or colossal prize box](https://wiki.spiralknights.com/Colossal_Prize_Box) contains a prismatic back crystal, called with a odd name - [Ruinous Crystal](https://wiki.spiralknights.com/Prismatic_Ruinous_Crystal), __one that brings ruin__. _Its presence within Spiral Order-themed prize box seems extremely ominous_.-->
 
-This directly characterized trojans as corrupted, which follows our suggestion of them being falling under corruptive, or ruinous influence. Yet, the name `ruinous` is vague as it does explicitly the reason for the corruption, but makes strong implication to be the catalyst for it.
+<!--We have to point out that wardens are called here as colossi, reminding of the [Call of the Colossi](https://wiki.spiralknights.com/Call_of_the_Colossi). There, the colossi were seemingly tortodrones, or tortomega, [who were calling for tortodrones on a Long Migration](#veiled-tortodrone-homeland), as we have previously explored there [fall to Undercorp](#the-titans-tortomega-the-fall). [Warden Helm](https://wiki.spiralknights.com/Warden_Helm) is also described as `The helm of the Stalwart Spiral Wardens is said to give great comfort to other knights. Nothing says "here comes the cavalry" like the sight of these iron giants taking to the battlefield`, associating wardens to giants.-->
 
-We would lean to this idea of the crystal being the catalyst, rather than a symptom, but given presence of other dark matter instances - of Carnavons' and Lord Vanaduke's claws, it seems less likely even with the entire plot of corrupted tortodrones.
+<!--The further element, linking trojans and wardens is found in the [announcement itself](https://forums.spiralknights.com/en/node/95960): `Spiral Wardens are well known for being guardians and protectors, sworn to put the safety of others before their own. Are you up to the challenge of becoming one of these brave champions? If you are, you need to look the part! Through February 3rd, 2014, get distinctive Spiral Warden horse head costume items in Colossal Prize Boxes! (Or if you want a touch of corruption in your life and you'd rather look like a Trojan, you can do that too.*) Contents of the Colossal Prize Box may include: Warden Armors and Helms; Trojan Tail accessory; Baleful Aura; Prismatic Ruinous Crystal accessory; Fireworks in every box! Read all the details right here.` ([Onward to the Year of the Horse!](https://forums.spiralknights.com/en/node/95960)).-->
 
-We made previously a suggestion of the sigils either summoning the crystal or securing it, but, as tortodrones are constructs, it should be also considered.
+<!--This directly characterized trojans as corrupted, which follows our suggestion of them being falling under corruptive, or ruinous influence. Yet, the name `ruinous` is vague as it does explicitly the reason for the corruption, but makes strong implication to be the catalyst for it.-->
 
-Lastly, there is Arkus, who is also in possession of dark matter crystal. As our idea of him physically perishing sometime during his traversal of Clockworks seems to thin, he would have no case of an intervention, through which a crystal could've been embedded.
+<!--We would lean to this idea of the crystal being the catalyst, rather than a symptom, but given presence of other dark matter instances - of Carnavons' and Lord Vanaduke's claws, it seems less likely even with the entire plot of corrupted tortodrones.-->
 
-Trojan's [Baleful Aura](https://wiki.spiralknights.com/Baleful_Aura#Baleful_Aura) is one which is most seen on tier 2 trojans, suggesting it being as important to the laws of this affliction, as the ruinous crystal.
+<!--We made previously a suggestion of the sigils either summoning the crystal or securing it, but, as tortodrones are constructs, it should be also considered.-->
 
-Lastly, there the [Warden Armor](https://wiki.spiralknights.com/Warden_Armor) in its design, chestpiece specifically, is identical to the redwood chestpiece design of tier 1 trojans.
+<!--Lastly, there is Arkus, who is also in possession of dark matter crystal. As our idea of him physically perishing sometime during his traversal of Clockworks seems to thin, he would have no case of an intervention, through which a crystal could've been embedded.-->
 
-Considering so far all of those aspects, we believe that a long time ago, __Spiral Wardens were transformed into trojans of the Legion of Ur__ before even Skylark and Iron Hulk crash landed on Cradle. This time would precede Almire, as Lord Vanaduke had to return with this legion, but not after the it would be sealed in the Underworld by Valkyries. The transformation, which had to happen then, could potentially be similar to one Arkus has to go through, as he already identified as a fiend.
+<!--Trojan's [Baleful Aura](https://wiki.spiralknights.com/Baleful_Aura#Baleful_Aura) is one which is most seen on tier 2 trojans, suggesting it being as important to the laws of this affliction, as the ruinous crystal.-->
 
-As mentioned earlier, we will make the second iteration of this concept, as we approach Shadow Lairs.
+<!--Lastly, there the [Warden Armor](https://wiki.spiralknights.com/Warden_Armor) in its design, chestpiece specifically, is identical to the redwood chestpiece design of tier 1 trojans.-->
+
+<!--Considering so far all of those aspects, we believe that a long time ago, __Spiral Wardens were transformed into trojans of the Legion of Ur__ before even Skylark and Iron Hulk crash landed on Cradle. This time would precede Almire, as Lord Vanaduke had to return with this legion, but not after the it would be sealed in the Underworld by Valkyries. The transformation, which had to happen then, could potentially be similar to one Arkus has to go through, as he already identified as a fiend.-->
 
 ##### Vanaduke's Mask and <span class="through-curse">Immortality Through Curse</span>
 
@@ -9895,10 +9880,10 @@ At that, we propose, that eternal energy, which is found below the grouds of Apo
 
 This proposal would establish negative energy of shadow damage-focused weapons, its purple color, to one of Apocrea, which can be seen as plausible due to the capacity of this energy, of dark matter-infused weapons, being Archeron as prime example, to cause madness.
 
-This connection leads to 2 conclusions:
+<!--This connection leads to 2 conclusions:
 
 - Dark Matter is one to be included in trojans' supposed madness, one of Arkus, and related to Darkfire Vanaduke and Carnavons.
-- Souls, as variation of energy, identical to one within the minerals has to relate to the eternal energy, as well as concepts of chaos and nothingness, identifying those as one.
+- Souls, as variation of energy, identical to one within the minerals has to relate to the eternal energy, as well as concepts of chaos and nothingness, identifying those as one.-->
 
 In this context of identifying distinct in color energy of souls, eternal energy, and one powering the Swarm, we would like to focus of the subtle design similarity of obsidian obelisks and Swarm Seed:
 
@@ -10231,37 +10216,38 @@ Nameless Realm and material realm are connected through the Whitespace within th
 
 - Isorans are now a spacefaring civilization with an established Spiral Order. Those spacefaring vessels came before any major colonies were established. One of such vessels falls on Cradle.
 
-- In this fall, most of technological advancements of Isorans were lost, throwing them back to early medieval age. On this planet, inhabited by valkyries and formerly titans, and surviving an overtake by Underworld, several kingdoms are established: kingdom of Almire and Ironmight kingdom.
+- In this fall, most of technological advancements of Isorans were lost, throwing them back to early medieval age. On this planet, inhabited by valkyries and formerly titans, and surviving an overtake by Underworld, several kingdoms are established: kingdom of Almire, kingdom of Ironmight, and a northern kingdom established by Spiral Riders, which are separated from the mainland.
 - It is here Underworld is rediscovered by Isorans. During this period of time a lot of ancient weapons would be created, inherited from Titans heavy swords with an amount of internal elemental energy; swords, designed specifically to hunt undead; and gunpowder-powered handguns.
+- Ancient Isorans discover a volcano in proximity of Almire, there they discover souls of fire and invent technology which aloows to imbue metal with souls.
+- Other Isorans discover Underworldly presence of fire beast-deity Vog, they build a shrine in a volcano. The shrine is connected to the Underworld, a magmatic cult is established.
+- Both kingdom of Almire, located near the volcanic mountains and kingdom of Ironmight discover the properties of ancient tortomega homeland -- a unique family of trees.
+
 - Rampant presence of undeath finalized in the establishment of Gunslinger Priests and Knights of the Rose.
 
     Gunlinger Priests had consisted of, initially, Isorans, which had introduced ranged combat to Valkyries, and later adopted oamong Valkyries, finalizing in application of ranged combat against undead and fiends through infusion of handguns with magic, resulting in the established name of Gunslinger Priests.
 
 - Over the course of this period of time Spiral Wardens are transformed into the Legion of Ur through actions of a Valkyrian, now only known as the Fallen. With this army and his people, the valkyrian had attempted to siege heavenly kingdom from the front gates, failing.
+- Trojans become an iteration of a dark matter-powered, stone-armored army after tortotrodes, posessing devastating power.
 
 - Due to those actions Fallen Valkyrian was banished into the Underworld, where he attained fiendish name of Ur while the kingdom itself has distanced itself from the material realm.
 
 
 
-- Stranded Isorans develop kingdoms, which would eventually become the kingdom of Almire, located near the volcanic mountains; kingdom of Ironmight, which had gained its military power from the ancient homeland of titans - of its unique family of trees; and of northern settlements of raiders.
+<!--- The volcanic mountains had contained the portal, through which Legion of Ur had began its conquest of the Underworld, and due to proximity of Almire to those mountains, it is approached by the Spirit Mother herself, granting protection over the kingdom. It is due to that exact mountain being one above which heavenly kingdom would exist.-->
 
-- The volcanic mountains had contained the portal, through which Legion of Ur had began its conquest of the Underworld, and due to proximity of Almire to those mountains, it is approached by the Spirit Mother herself, granting protection over the kingdom. It is due to that exact mountain being one above which heavenly kingdom would exist.
+<!--- Eventually, Almire is forced to start excavations in the mountains, uncovering volcanic souls and metal imbued with those souls. It was powerful enough to counter and damage equipment made of ironwood and wyrmwood. With this, production of volcanic armor pieces began in the mountains.-->
 
-- Eventually, Almire is forced to start excavations in the mountains, uncovering volcanic souls and metal imbued with those souls. It was powerful enough to counter and damage equipment made of ironwood and wyrmwood. With this, production of volcanic armor pieces began in the mountains.
+<!--- As mountains' caverns were in proximity to Underworld, its influence rose from its depths - manifesting in a cult of a magma deity, later be known as Vog.-->
 
-- As mountains' caverns were in proximity to Underworld, its influence rose from its depths - manifesting in a cult of a magma deity, later be known as Vog.
+<!--- The cult constructs a shrine in the mountains, meant for the return of Underworld.-->
 
-- The cult constructs a shrine in the mountains, meant for the return of Underworld.
+- The kingdom of Almire is invaded by alliance of 2 kingdoms: kingdom of Ironmight, and Spiral Raiders. Heavenly kingdom located above the continent, near the volcanic mountains of Almire, remains uninvolved.
 
-- Such opportunity would present itself, once the Kingdom of Almire was invaded by 2 kingdoms - of kingdom of Ironmight, and an assistance of raiders from the north. Heavenly kingdom was located above the continent, near the volcanic mountains of Almire.
+- The war leads to Almire's Fall and Lord Vanaduke leaving into mountains motivated by myths, inherited from a time before Legion of Ur was formed, an Oni, which was guarding gates to heaven, instead he would find Vog. He finds blackened shrine of fiendish cult. It curses Lord Vanaduke, transforming him into a fiery fiend and granting immortality.
 
-- The war led to Almire's Fall and Lord Vanaduke leaving into mountains in search for myths, inherited from a time before Legion of Ur was formed, an Oni, which was guarding gates to heaven.
+<!--- As war went, apart from a cult of a volcanic deity, across graveyards a different cult emerges - of a nameless Vile deity, embodying poison as means of inflicting death.-->
 
-- As war went, apart from a cult of a volcanic deity, across graveyards a different cult emerges - of a nameless Vile deity, embodying poison as means of inflicting death.
-
-- Events of Almire's Fall, Lord Vanaduke flees into the volcanic mountains. There, he finds blackened shrine of fiendish cult. It curses Lord Vanaduke, transforming him into a fiery fiend and granting immortality.
-
-- Lord Vanaduke returns with the Legion of Ur, annihilates 2 remaining kingdoms and establishes a territory later referred as the Almirian Empire. Ligion of Ur retrieves into the volcanic mountains, through the blackened shrine.
+- Lord Vanaduke returns, leading the Legion of Ur, destroys remaining kingdoms and establishes a territory referred as the Almirian Empire. Legion of Ur returns into the Underworld through the shrine.
 
 - Valkyries invade Underworld in order to purge it of Legion of Ur. With this, they seal the Legion of Ur in the Underworld, preventing large-scale arrival of Undercorp into material realm.
 
