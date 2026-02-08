@@ -4787,6 +4787,8 @@ We offer 2 conclusion:
 
 We propose that _body horror of transformation serve here the thematic foundation_ -- Arkus did not perish in the Clockworks, but rather was __subjected to a slow metamorphosis into a trojan__ _as Lord Vanaduke was subjected to transformation into a fiend__.
 
+This explanation demands an answer to the reason behind Arkus's transformation. We propose it _being a supernatural grief_. Unless a different explanation may be presented, which would characterise the source of metamorphosis in fact being the ruinous crystal, we will commit to prior interpretaion.
+
 <!--This led us to suggest, that  grief may be the catalyst of transformation, while the ruinous crystal may be the symptom of the process, rather than its source, reminiscent of Lord Vanaduke's and Carnavons' claws being remade from their Isoran anatomy yet seem to be made of dark matter.-->
 
 Arkus's sword slam attack has _pink lightning strike from above_, and forms dark crimsotine shards, similar to tortodrone missiles. Those depleted crimsonite shards are the same as tortodrones'. The pink lightning strike is closely similar to the one present _during summoning of Margrel_. Yet, as much as we have discussed [nature of portals and grim gates](#grim-gate-portal-collapse), we do not know nature of lightning or its symbolic role beyond what relates to [lesser creation myth and a pantheon of heavenly deities](#lesser-creaton-myth), other than being to some extent connected to Underworld, given context of lightning's appearances.
@@ -4877,61 +4879,75 @@ This characteristic of an empire, we propose, was given not to a living kingdom 
 
 While we will not touch upon [the canon of Shadow Lairs](#shadow-lairs), what important now is to analyze nature of Darkfire, as it is associated to the most cursed location currently, be it regular Firestorm Citadel or Shadow Firestorm Citadel. We will attempt to find connections to the metaphysics of souls and minerals, and specifically _nature of curses in material realm_.
 
-It is stated that Darkfire Lord Vanaduke became such, - a distinct entity from Lord Vanaduke, due to an unknown powerful curse falling onto the firestorm citadel: `A powerful curse has overtaken the Firestorm Citadel, transforming its hordes and lead by the mighty Darkfire Lord Vanaduke!` ([Release Notes: 2011.10.19](https://wiki.spiralknights.com/Release_Notes_2011-10-19)). This curse is manifested most prominently in the different transformation of Lord Vanaduke, pink glow of volcanic chamber, and presence of Carnavons, and all are affected by the curse. Does this mean that Darkfire Lord Vanaduke or darkfire in general is created through Vog's curse, followed by a different, more widespread and present curse associated with the curse status effect?
+__Is darkfire identical to shadow fire?__
 
-Carnavons in that matter serve as a link of this curse being the same as one taking effects on Isorans in the form of the curse status effect, _even possessing a crudely drawn sigil of the same color on their blackened crests_.
+It is stated that Darkfire Lord Vanaduke became such, -- a distinct entity from Lord Vanaduke, due to an unknown powerful curse falling onto the Firestorm Citadel: `A powerful curse has overtaken the Firestorm Citadel, transforming its hordes and lead by the mighty Darkfire Lord Vanaduke!` ([Release Notes: 2011.10.19](https://wiki.spiralknights.com/Release_Notes_2011-10-19)).
 
-Black Kats, mentioned in relation to Auras in the [Auras and Souls section](#auras-and-souls), also have this capacity to inflict curse, and all having the [Dread Seal](https://wiki.spiralknights.com/Dread_Seal) with an image of evil eye, which links to the Underworld.
+The curse is manifested most prominently in the different appearance of Lord Vanaduke, pink glow of volcanic chamber, and presence of Carnavons, and all are affected by the curse.
+
+Does this mean that Darkfire Lord Vanaduke and darkfire in general is created __from Vog's curse or gift, followed by a different, more present curse associated with the `cursed` status effect__, as the curse is said to be applied onto specifically Firestorm Citadel, a post-war term for Grand Citadel of Almire afflicted by Vog's fiery curse?
+
+As Carnavons can inflict curse with their breath, Black Kats, mentioned in relation to Auras in the [Auras and Souls section](#auras-and-souls), also have this ability, and all having the [Dread Seal](https://wiki.spiralknights.com/Dread_Seal) with an image of _evil eye, which links their existence back to the Underworld_. Carnavons _even possess a crudely drawn sigil of the same dark-red of cure on their blackened crests_.
 
 This curse also exists outside of Shadow Lairs as Carnavons are summoned by Black Kats across Clockworks, and the latter are being summoned by an unknown party.
 
-Carnavons' blackened crests have same purple cracks instead of fiery ones, similar to trojans, but the latter are incapable of inflicting curse, and only Carnavons have inscribed curse symbol of their Almirian Crests.
+Carnavons' blackened crests have same purple cracks instead of fiery ones, similar to trojans, but the latter are incapable of inflicting curse, and only Carnavons have inscribed symbol on their Almirian Crests.
 
-Lord Vanaduke became an immortal giant after his initial transformation by Vog and due to this Firestorm Citadel has been burning for at least thousand of years. We know that Lord Vanaduke has power over flame souls and his mask, to which we will return soon, as it has another flame soul, behaving seemingly as a standalone entity, and stated to be Vanaduke's source of power: `Our sensors show the mask is a source of power as well as a potential weakness` ([Monstrous Codex: Lord Vanaduke](https://wiki.spiralknights.com/Firestorm_Citadel/Throne_Room)). There is also armor, which seems to be transformed with the wielder itself, having large chains holding it together, similar to a cage in both instances of Lord Vanaduke. We point out those element as we will return to them one more time in the context of a [dedicated analysis of Shadow Firestorm Citadel](#true-citadel-of-almirian-empire).
+Lord Vanaduke became an immortal giant after his initial transformation by Vog and due to this Firestorm Citadel has been burning for at least thousand of years. We know that Lord Vanaduke has power over animated bodies of Almirians. And he possess a mask, to which we will return soon, as it behaves seemingly as a standalone entity and stated to be Vanaduke's source of power: `Our sensors show the mask is a source of power as well as a potential weakness` ([Monstrous Codex: Lord Vanaduke](https://wiki.spiralknights.com/Firestorm_Citadel/Throne_Room)). There is also armor, which seems to be transformed with the wielder themselves, having large chains holding it together, similar to a cage in both encounters of Lord Vanaduke. We point out those element as we will return to them one final time in the context of a [dedicated analysis of Shadow Firestorm Citadel](#true-citadel-of-almirian-empire).
 
-Finally, [Dark Ember](https://wiki.spiralknights.com/Dark_Ember) _can be acquired without descending into the Shadow Lairs_. [Dark Ember's](https://wiki.spiralknights.com/Dark_Ember) description states: `A mote of burning energy salvaged from Lord Vanaduke's throne room. It slowly smolders with a sinister intensity, creating an almost hypnotic trance when gazed upon for any length of time`. This description is vague, as it does not attribute to any version of the Citadel, but, as the inventory icon depicts it as purple mote, _we attribute it to the source of darkfire_. Yet, there are no known laws, apart from themes, which would forbid dark embers to be present in the regular Citadel, as the color of Firestorm Citadel is of regular, red fire, albeit referred by Nature Sprites as Shadow Fire.
+Finally, [Dark Ember](https://wiki.spiralknights.com/Dark_Ember) _can be acquired without descending into the Shadow Lairs where the Shadow Firestorm Citadel is located_. [Dark Ember's](https://wiki.spiralknights.com/Dark_Ember) description states: `A mote of burning energy salvaged from Lord Vanaduke's throne room. It slowly smolders with a sinister intensity, creating an almost hypnotic trance when gazed upon for any length of time`. This description is vague, as it does not attribute to any version of the Citadel, but, as the inventory icon depicts it as purple mote, _we identify it as darkfire_. Yet, there are no known laws which would allow dark embers to be present at the throne room of regualr citadel, as the color of fire of Firestorm Citadel is of regular, red fire, albeit referred by Nature Sprites as Shadow Fire.
 
-Another instance of purple flame is seen across Moorcroft Manor in floating fire bowls. Weather it is the same dark ember is unknown, but it would plausible, since those same embers are found across Shadow Firestorm Citadel. As far as specificity of those elements goes, it can be an asset reuse, similar to [Skylark's secondary generator](#skylark).
+Another instance of purple flame is seen across Moorcroft Manor in floating fire bowls. Whether it is the same dark ember is unknown, but it would plausible, since those same embers are found across Shadow Firestorm Citadel. As far as specificity of those elements goes, it can be an asset reuse, similar to [Skylark's secondary generator](#skylark).
 
-Due to those factors, as well as unknown canonicity of Shadow Firestorm Citadel, we need to work through each instance of purple color carefully and through multiple iteration as we gather more information on the metaphysics.
+Due to those factors, as well as currently unknown placement of Shadow Firestorm Citadel, we need to work through each instance of curse carefully and over multiple iteration as we gather more information on its metaphysics.
 
-These factors make us think of Vog's curse being still unfamiliar to Spiral Order, only seen experienced directly through the properties of [Fang of Vog](https://wiki.spiralknights.com/Fang_of_Vog), while curse status effect represents a greater Curse, a more widespread and afflicting Spiral Knights as a game mechanic. Both have a distinct, cracked or shattered design on the afflicted entities, be it equipment or creatures.
+These factors make us think of Vog's curse being still unfamiliar to Spiral Order, only seen experienced directly through the properties of [Fang of Vog](https://wiki.spiralknights.com/Fang_of_Vog), while curse status effect represents a different curse. While both have a distinct, cracked or shattered design and reflect it on the afflicted entities, be it equipment or creatures, it may it fact be a result of curse overlapping with one of Vog.
 
-In this distinction, we may suggest for now that _there are 2 curses - one of fire of Vog, and the other of the same nature as seen outside of the Citadel_. Both of those curses originate from the Underworld and are capable of trapping or binding souls and inflict undeath onto creatures of material realm, a form of cursed immortality, as in earlier instances of this phenomenon.
+In this distinction, we may suggest for now that _there are 2 curses -- one of fire of Vog, and the other of the same nature as seen outside of the Citadel_. Both of those curses originate from the Underworld and interract with the body, a form of cursed immortality.
 
-This can be further affirmed by the description of Citadel being cursed, __as if the curse was applied externally__, rather than an emergent property of the prior. This fits with the design of Carnavons, as _they have a crudely drawn curse symbol drawn on their Blackened Crest_ - __someone had to draw it__. But, it is unknown weather this mark and the dread seal is the source of curse, or even their general role. We are yet to cover them in the context of Black Kats and Kat Tribe.
+This can be further affirmed by the description of Citadel being cursed, as if the curse was applied externally, rather than an emergent property of the prior. This fits with the design of Carnavons, as _they have a crudely drawn curse symbol drawn on their Blackened Crest_, meaning that __someone had to draw it__. But, it is unknown weather _this mark and, in that regard, the dread seal_ are the source of curse.
 
-Then, by the fact of Citadel being cursed, we can suggest that Slag Walkers became Carnavons through this curse and, as both wear armor, we had previously attributed both to the Almirian army.
+Then, by the fact of Citadel being cursed, we can suggest that Slag Walkers became Carnavons through this curse.
 
-Not all members of legion of Almire are burning in darkfire, leaving crusaders and royal guards as ones transformed through Lord Vanaduke's initial arrival from the mountains, as they retain their color scheme.
+Not all members of legion of Almire are burning in darkfire, leaving crusaders and royal guards as ones transformed through Lord Vanaduke's initial arrival from the mountains, as they retain their primarily red color scheme.
 
-Those factor seems to us as an initial bridge between those types of curse and dark matter. Darkfire could be considered in that context a unique phenomenon emerging from Underworld fires. Then, is Shadow Fire the same phenomenon as Darkfire?
+This would also suggest that __dark matter of claws, which were the primary reason for our proposal of ruinous crystal forming, are either not made of dark matter nor crimsonite, or the curse can change the minerals' composition__, as if dark matter is a residue chaotic residue of mineral being altered which may be the reason for its nature as `said to contain the essences of both chaos and nothingness` ([Dark Matter](https://wiki.spiralknights.com/Dark_Matter#Dark_Matter)).
+
+This connection _bridged the gap between minerals and curses_.
 
 While Shadow Fire had its own design, acknowledged by Nature Sprites, darkfire is explicitly purple and remains as such through the information gathered from the designs of Shadow Firestorm Citadel and Dark Embers. As far as we can be aware, there are multiple sources of purple fire, including a burning dark embers, which are a significant source of confusion for us.
 
-This leaves us with 2 initial proposals:
+This leaves us with 2 explanations:
 
-- Darkfire is the same pink fire that accompanies trojans of tier 2 and 3, as well as Arkus, Carnavons, and fire bowls of Moorcroft Manor, as well as of Shadow Firestorm Citadel.
+- Darkfire is the pink-purple fire that accompanies trojans, it emerged from changed dark matter, it festers within Carnavons, and burns within tortodrones' eyes and fire bowls of Moorcroft Manor and Shadow Firestorm Citadel.
 
-    This proposal is based on prior design similarities across all of those subjects, albeit with slight color variations.
-- Darkfire is the result of 2 curses merging - giving to Vog's fires this curse-bearing or curse-inflicting property, different from a transformative fiery curse, as one seen across Legion of Almire.
+  It is a fire of metaphycal chaos as it is sourced from dark matter, it corrodes inherent order of life, rather than twists it.
 
-    And, as this purple curse seems to be far more widespread and as only it has the connection to the evil eye, and adopted it as its symbol among Spiral Order, as well as presence of Underworld's cultural imprint - in case of Tortomega.
+  This proposal is based on prior design similarities across all of those subjects, albeit with slight color variations.
 
-    Another argument fot this explanation is based on the design of a unique fire soul behind Darkfire Lord Vanaduke's mask - no such color is present across Cradle so far - of red-pink curse aura and purple core, combining both fiery aspect of Lord Vanaduke, but also being color-coded as curse-bearing element.
+- Darkfire is the result of 2 curses merging, giving to Vog's fires this curse-bearing and curse-inflicting property, different from a transformative fiery curse, as one seen across Almirian legions.
 
-    This orb of fire, as far as curse color-coded fire allows, could be a distinct presence of curse, separate from dark embers, which are explicitly purple, but thematically fitting to reddish color of curse [found prior in the collapsed grim gates](#grim-gates-portal-collapse).
+    <!--And as this purple curse seems to be far more widespread and as only it has the connection to the evil eye, and adopted it as its symbol among Spiral Order, as well as presence of Underworld's cultural imprint -- in case of Tortomega.-->
 
-It is also important to note that Dark Ember, being a boss trophy, was added [after](https://wiki.spiralknights.com/Release_Notes_2012-12-12) [introduction](https://wiki.spiralknights.com/Release_Notes_2011-10-19) of Shadow Lairs, with nearly a year of a gap. So far we will only hold onto this information until [reaching analysis of Shadow Lairs](#shadow-lairs).
+    Another argument for this explanation is based on the design of a unique fire soul behind Darkfire Lord Vanaduke's mask -- no such color is present across Cradle so far, a red-pink curse aura and purple core, combining both fiery curse of Vog, but also being of color as a curse-bearing element.
 
-Considering many instances of unreliable narrations so far, even with cases such as Nameless Realm, while is named once, darkfire, due to Vanaduke's mask argument and existence of Darkfire Lord Vanaduke, darkfire seems to us as a distinct phenomenon, attributed to dark embers. And, as latter are specified as `A mote of burning energy salvaged from Lord Vanaduke's throne room. It slowly smolders with a sinister intensity, creating an almost hypnotic trance when gazed upon for any length of time` ([Dark Ember](https://wiki.spiralknights.com/Dark_Ember)), we have to look into the canon of the events involving traversal of [Shadow Firestorm Citadel](#true-citadel-of-almirian-empire).
+    This orb of fire, as far as cursed fire allows, could be a distinct presence of curse, separate from dark embers, which are explicitly purple, but thematically fitting to reddish color of curse [found prior in the collapsed grim gates](#grim-gates-portal-collapse).
+
+<!--It is also important to note that Dark Ember, being a boss trophy, was added [after](https://wiki.spiralknights.com/Release_Notes_2012-12-12) [introduction](https://wiki.spiralknights.com/Release_Notes_2011-10-19) of Shadow Lairs, with nearly a year of a gap. So far we will only hold onto this information until [reaching analysis of Shadow Lairs](#shadow-lairs).-->
+
+Considering many instances of unreliable narrations so far, even with cases such as Nameless Realm, while is named once, darkfire, due to Lord Vanaduke's mask appearance and existence of Darkfire Lord Vanaduke, __darkfire seems to us as a distinct phenomenon__, _while it combines already known properies of both curses_.
+
+In that regard the fires of other than Lord Vanaduke and Carnavon entities we identify as sourced solely from nature dark matter _but devoid of a unique to Vog primarily transformative through fire property_.
+
+<!--And, as latter are specified as `A mote of burning energy salvaged from Lord Vanaduke's throne room. It slowly smolders with a sinister intensity, creating an almost hypnotic trance when gazed upon for any length of time` ([Dark Ember](https://wiki.spiralknights.com/Dark_Ember)), we have to look into the canon of the events involving traversal of [Shadow Firestorm Citadel](#true-citadel-of-almirian-empire).-->
 
 As of now, we propose that both of those curses have underlying common nature, emerging from the Underworld, as well as its deities:
 
 - Vog's curse gives the curse-bearer power to exist beyond regular laws of their species, the case of Isorans it is Lord Vanaduke.
 
-    Lord Vanaduke had transcended ages while being bound to his armor, and capable of upholding entire Citadel in stasis, with his mask being important to his state.
-- Maulos is transformed by everfrost, seem to have retained mind of his own, compared to rest of trojans.
+    Lord Vanaduke had transcended ages while being bound to his armor, and capable of upholding entire Citadel in stasis by his supernatural will, with his mask being most important to his state, remaining unchanged after transformation to Darkfire Lord Vanaduke.
+
+- Maulos is transformed by everfrost, seem to retain mind of his own, compared to rest of trojans.
 
     He is capable of frost magic affecting an entire fiendish city of Amu-Sol. And as trojans were already covered, we believe that the curse in question can manifest differently depending on its application, resulting in different effects and magnitude, but inevitably tracing back to the Underworld and greater understanding of nature of shadow damage.
 
@@ -4961,7 +4977,7 @@ As of now, we propose that both of those curses have underlying common nature, e
 
 <!--Considering so far all of those aspects, we believe that a long time ago, __Spiral Wardens were transformed into trojans of the Legion of Ur__ before even Skylark and Iron Hulk crash landed on Cradle. This time would precede Almire, as Lord Vanaduke had to return with this legion, but not after the it would be sealed in the Underworld by Valkyries. The transformation, which had to happen then, could potentially be similar to one Arkus has to go through, as he already identified as a fiend.-->
 
-##### Vanaduke's Mask and <span class="through-curse">Immortality Through Curse</span>
+#### Vanaduke's Mask and <span class="through-curse">Immortality Through Curse</span>
 
 The exact nature of Blackened Shrine is unknown, although, as it is very likely a fiendish device by proprty of it being capable of inducing a tranformation.
 
@@ -4999,7 +5015,7 @@ This concept can be applied to the distinction between Lord Vanaduke's Mask and 
 
 Finery is the one utilizing [Blighted Bone](https://wiki.spiralknights.com/Blighted_Bone) in its alchemy. This may not explicitly mean, that the departed Vanaduke's souls is rebound, but some ot its image remains, as specified by the [Soul Dust](https://wiki.spiralknights.com/Soul_Dust): `The dust of the departed. Whether it still retains any shred of a soul remains to be seen`.
 
-##### Lord Vanaduke's Mask Design
+#### Lord Vanaduke's Mask Design
 
 As for the design of the mask, one element we mentioned several times was the _red gem embedded into the mask_. Across cultures such symbolism is usually referred to the _Third Eye or a connection to otherworldly forces_. In case of Lord Vanaduke, we would argue that the mask is manifestation of the curse and is the face of the deity by the reasoning that Almirian Armor remains similar to Spiral Order in its medieval designs, and presence of unconventional elements is rare.
 
