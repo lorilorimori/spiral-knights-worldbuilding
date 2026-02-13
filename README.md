@@ -1,10 +1,8 @@
 # Narratology and Speculative Fiction of Spiral Knights
 
-> _**Worldbuilding** and **Mythology** of Spiral Knights_
+> Burning stars: worldbuilding and mythology of Spiral Knights
 
-<!--spiral-knights-narratology-deep-dive-->
-
-This repository contains the source document - [`src/lib/rebis_theory.mdx`](./src/lib/rebis_theory.mdx), - and the additional materials to the analysis, which make up this repository for an entartainment-oriented medium of a webpage.
+This repository contains the source document - [`src/lib/burning_stars.mdx`](./src/lib/burning_stars.mdx), - and the additional materials to the analysis, which make up this repository for an entartainment-oriented medium of a webpage.
 
 ## Webpage
 

@@ -1,4 +1,5 @@
 ---
+# Burning stars. Worldbuilding and mythology of Spiral Knights.
 # for custom layouts see mdsvex.config.js
 layout: entries_rebis
 ---
@@ -24,6 +25,10 @@ layout: entries_rebis
 <h1 align="center">
   Burning Stars <span class="energy">🜔</span>
 </h1>
+
+<SubTitleCentered>
+<em>Worldbuilding and mythology of Spiral Knights.</em>
+</SubTitleCentered>
 
 Spiral Knights had proven to be able to captivate as a setting and a story. In this analysis we aim to provide an exhaustive answer why Spiral Knights succeeds in those areas and from which of its components and their chemistry setting's worldbuilding potential emerges.
 
@@ -1015,7 +1020,7 @@ With the mythology as a guide, to achieve further progress in identification of 
 
 It is most evident that equipment found in [Rage Prize Box](https://wiki.spiralknights.com/Rage_Prize_Box), [Stormy Prize Box](https://wiki.spiralknights.com/Stormy_Prize_Box), and [Frenzy Prize Box](https://wiki.spiralknights.com/Frenzy_Prize_Box) implies existence of at least one civilization, responsible for creation of that gear.
 
-As we have established initial relation [between stone, tortoises and tortomega](#omega-shell-and-tortomega), we found an image of a civilization of sentient giant tortoises, tortomega -- descendants of drakes, and far descendants of dragons of rage through [consistent motif of rage](#unreconciled-duality-of-fury-and-serenity) within tortodrones and their equipment, as pointers to an inherently rageous nature of those specie.
+As we have established initial relation [between stone, tortoises and tortomega](#omega-shell-and-tortomega), we found an image of a civilization of sentient giant tortoises, tortomega. Tortotomega are descendants of drakes and far descendants of dragons of rage through [a consistent motif of rage](#unreconciled-duality-of-fury-and-serenity) within tortodrones and their equipment, the latter serving as the initial pointer to an inherently rageous nature of those specie.
 
 While we were searching for the identity of titans, we have proposed their nature to be tortomega through [motifs and applications surrounding the material of stone](#motif-of-stone-and-serenity-titans). We had pointed out a notion of [draconic creation myth](#creation-myth-dragons-as-cosmic-progenitors) to resemble other real-world creation myths, which had allowed us to suggest a reason for dragons to perish in the first place -- a conflict would take place between dragon deities and other faction of formidable power, which would come on top and dragons being considered extinct.
 
@@ -5037,28 +5042,28 @@ While this serves as a closure for Almire, Legion of Ur remains unsolved despite
 
 ### _Intermission &#160;<br>_ Gunslinger Priests
 
-After assisting Lord Vanaduke, a fiendish army, which we so far [proposed]() to be the Legion of Ur, returned into the Underworld: `With nothing left to destroy, his legions left him and returned to the mountains, leaving the king to sit in his throne of ash and cinder, all the people of Almire dead around him` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)).
+After assisting Lord Vanaduke, a fiendish army of trojans -- the Legion of Ur -- returned into the Underworld, `With nothing left to destroy, his legions left him and returned to the mountains, leaving the king to sit in his throne of ash and cinder, all the people of Almire dead around him` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)).
 
 Under current theory, heavenly kingdom up to that moment in time was not affected nor involved with Lord Vanaduke's crusade from the mountains. But, we have a few items, suggesting an existing conflict between Valkyries and Underworld:
 
 - `Its golden frame was believed to provide light within the impenetrable darkness of the Underworld` ([Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin)).
 
-    Here we are presented with gunslingers, who have descended into the Underworld and witnessed it. So far on the timeline the only people to witness Underworld, remotely even, were _trojans_ and _magmatic cultists_, the trojans being a more ancient examples, related to Isorans and a narrative of those landing onto Cradle before existence of Almire, as discussed in their [analysis]().
+    Here we are presented with gunslingers, who have descended into the Underworld and witnessed it. So far on the timeline the only people, Isornas, to witness Underworld, remotely even, were _trojans_ and _magmatic cultists_, the trojans being a more ancient examples, related to Isorans and a narrative of those landing onto Cradle before existence of Almire, as discussed in their [analysis](#arkus-part-1-a-warden).
 
-    Then we have an _advanced enough technology and magic_ to allow creation of a such handguns through transmutation, as well as knowledge of _draconic designs_, present though Battle Sprites' interface. Although here referred as, or placed alongside griffins, based on the name and draconic designs on handgun's barrel, it is an item of unknown origin so far, attribution of which to a specific civiliation will be discussed later.
+    Then the handgun itself possesses an _advanced enough design_ while bearing the draconic elements, similar to Battle Sprites' interface. Although here referred as, or placed alongside griffins, based on the name and draconic designs on handgun's barrel, it is an item of unknown or conflicting origin so far, ownership of which to a specific civiliation will be discussed later.
 
-    The griffin in question may be referring to the apparition of a griffin during handgun's charge. This ties with a still vague nature of those handgun creators' species and their role in that period of time.
+    The griffin in question may be referring to the apparition of a griffin during handgun's charge.
 
 - `A holy sword created in another time to arm knights who fought against the legions of the Underworld` ([Avenger](https://wiki.spiralknights.com/Avenger)).
 - `An upgraded Avenger formed from the purest sun steel. There are few foes remaining in this world that are worthy enough to be defeated by such a fine blade, and there are still fewer heroes worthy of wielding it` ([Divine Avenger](https://wiki.spiralknights.com/Divine_avenger)).
 
-    Avengers have similar design to the [Heavenly Guardian Armor](https://wiki.spiralknights.com/Heavenly_Guardian_Armor) due to distinct presence of curling trails of light, wich is our current working assumtion. The armor specifically does look like one belonging to knights of modern Spiral Order, if judged by, for example, [Heavenly Guardian Helm](https://wiki.spiralknights.com/Heavenly_Guardian_Helm), as its is particularly reminiscent of Spiral Order's [Mighty Cobalt Helm](https://wiki.spiralknights.com/Mighty_Cobalt_Helm). Those similarity if not implies heavenly kingdom being potentially inhabited by Isorans, but close relation of the two, reminding of the discussion weather people of Almire are Isorans.
+    Avenger bears similar design to the [Heavenly Guardian Armor](https://wiki.spiralknights.com/Heavenly_Guardian_Armor) due to distinct presence of _curving trails of light_. The armor specifically does look like one belonging to knights of modern Spiral Order if judged by, for example, [Heavenly Guardian Helm](https://wiki.spiralknights.com/Heavenly_Guardian_Helm), as its is particularly reminiscent of [Mighty Cobalt Helm of Spiral Order](https://wiki.spiralknights.com/Mighty_Cobalt_Helm). Those similarities, as [noted earlier](#myth-driven-similarity-of-valkyries-and-isorans), may imply that heavenly kingdom was inhabited by Isorans.
 
 A few of those items establish a distinct theme of divinity, heavenly properties and guardianship.
 
 #### Owlites and Valkyries of Heavenly Kingdom
 
-It is important to address the lingering inconsistency of the species of the heavenly kingdom, - what are valkyries?
+It is important to address the lingering inconsistency of the species of the heavenly kingdom, -- what are valkyries?
 
 Valkyries were the heavenly kingdom's army and people, as suggested by [Angelic Helm](https://wiki.spiralknights.com/Angelic_Helm): `A beautiful helm made to resemble a heavenly guardian`.
 

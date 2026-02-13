@@ -32,7 +32,7 @@ tasks:
       - task: lint:spellcheck
   lint:spellcheck:
     summary: Runs cspell linter with `./.cspell.yaml` tree of configurations
-    cmd: cspell ./src/lib/rebis_theory.mdx
+    cmd: cspell ./src/lib/burning_stars.mdx
   # used by gh pages
   link:
     cmds:

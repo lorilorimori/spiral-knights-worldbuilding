@@ -21,7 +21,7 @@
   - ` , \`...citation...\`, `
 
 - `Apocrean Realm` -> `Apocrean realm`
-
+- replace `kill` with synonyms
 
 ### CONSIDER
 

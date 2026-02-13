@@ -14,9 +14,9 @@
   const IconComm = resolve('/img/spiral_knights/next_up.png')
   const IconHaven = resolve('/img/spiral_knights/over.png')
 
-  import RebisTheory from '$lib/rebis_theory.md'
+  import RebisTheory from '$lib/burning_stars.md'
 
-  document.title = 'Rebis Theory. Analysis of Spiral Knights worldbuilding: postmodernism and narratives of constructed worlds in fiction.'
+  document.title = 'Burning stars: worldbuilding and mythology of Spiral Knights'
 
   // reactive window width
   let windowReactiveWidth = $state(window.innerWidth)
