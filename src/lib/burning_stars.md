@@ -5058,7 +5058,7 @@ Under current theory, heavenly kingdom up to that moment in time was not affecte
 
 - `Its golden frame was believed to provide light within the impenetrable darkness of the Underworld` ([Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin)).
 
-    Here we are presented with gunslingers, who have descended into the Underworld and witnessed it.
+    Here we are presented with gunslingers, who have descended into the Underworld and witnessed it in order to describe it.
 
     So far on the timeline the only people, Isorans, to witness Underworld, indirectly even, were _trojans_ and _magmatic cultists_, the trojans being a more ancient examples, related to Isorans and a narrative of those landing onto Cradle before existence of Almire because of their [similarity to Spiral Wardens](#trojans-are-deceived-spiral-wardens).
 
@@ -5068,33 +5068,29 @@ Under current theory, heavenly kingdom up to that moment in time was not affecte
 
 - `A holy sword created in another time to arm knights who fought against the legions of the Underworld` ([Avenger](https://wiki.spiralknights.com/Avenger)).
 
-  The term `another time` is particularly explicit in its implications, suggesting an established period of time, to which the sword may be attributed, and therefore, a civilization which had created this sword.
+  The term `another time` is possesses implications, suggesting an established period of time, to which the sword _must be attributed_, and, therefore, be associated with a civilization responsible for its creation.
 
 - `An upgraded Avenger formed from the purest sun steel. There are few foes remaining in this world that are worthy enough to be defeated by such a fine blade, and there are still fewer heroes worthy of wielding it` ([Divine Avenger](https://wiki.spiralknights.com/Divine_avenger)).
 
-    <!--As it was noted in the initial introduction of Valkyries, there were handguns and swords,-->
-
-    <!--[](#avian-motif-of-antique-handguns)-->
-
     Avenger bears similar design to the [Heavenly Guardian Armor](https://wiki.spiralknights.com/Heavenly_Guardian_Armor) due to distinct presence of _pale, curving trails of light_.
 
-    The armor specifically does look like one belonging to knights of modern Spiral Order if judged by, for example, [Heavenly Guardian Helm](https://wiki.spiralknights.com/Heavenly_Guardian_Helm), as its is particularly reminiscent of [Mighty Cobalt Helm of Spiral Order](https://wiki.spiralknights.com/Mighty_Cobalt_Helm). Those similarities, as [noted earlier](#myth-driven-similarity-of-valkyries-and-isorans), may imply that heavenly kingdom was inhabited by Isorans or even Valkyries were Isorans.
+    The armor specifically does look like one belonging to knights of modern Spiral Order if judged by, for example, [Heavenly Guardian Helm](https://wiki.spiralknights.com/Heavenly_Guardian_Helm), as it is particularly reminiscent of [Mighty Cobalt Helm of Spiral Order](https://wiki.spiralknights.com/Mighty_Cobalt_Helm). Those similarities, as [noted earlier](#myth-driven-similarity-of-valkyries-and-isorans), may imply that heavenly kingdom was inhabited by Isorans or even Valkyries were Isorans.
 
 A few of those items establish a distinct moment of _confrontaion with the Underworld_, in addition to present concepts of _Valhalla-like location of heavenly kingdom, a heavenly fortress, a place of divine guardians, concepts of thunder and rage within an Olympian-like pantheon_.
 
 #### Approach to Owlites and Valkyries
 
-It is important to address the lingering inconsistency of the species of the heavenly kingdom, -- what are Valkyries?
+It is important to address the lingering inconsistency of the species of the heavenly kingdom -- what are Valkyries?
 
-Valkyries were the heavenly kingdom's army and people, as suggested by [Angelic Helm](https://wiki.spiralknights.com/Angelic_Helm): `A beautiful helm made to resemble a heavenly guardian`.
+Valkyries were heavenly kingdom's army and people (`A beautiful helm made to resemble a heavenly guardian` - [Angelic Helm](https://wiki.spiralknights.com/Angelic_Helm)).
 
 The heavenly kingdom was supposedly located on the grounds of what later became the Scarlet Fortress in present times, and it was already capable of flight prior to Clockworks' constructon, as suggested by the [Avenger Helms](https://wiki.spiralknights.com/Avenger_Helm), `A helm worm by heavenly guardians who watch over a kingdom hidden atop a magma-covered mountain`.
 
-We make an implicit thematic connection between the _inhabitants of this flying kingdom being an avian species_. So far we were commited to an idea of Valkyries being Owlites in the past as the `heavenly guardians`.
+<!--We make a thematic connection between the _inhabitants of flying kingdom and avian species_. So far we were commited to an idea of Valkyries being Owlites in the past as the `heavenly guardians`.-->
 
-But, as Valkyries are tied through their name to norse mythology the identification issue of them as Owlites emerges from __an altered by popular culture perception of corresponding concepts and species__ -- _Valkyries are slosely related to battles_, while Owlites' strategy is focused on _ranged combat and magic_ with prevalent _high-fantasy themes found in settings of J. R. R. Tolkien and J. K. Rowling_.
+As Valkyries are tied through their name to norse mythology the identification issue of them as Owlites emerges from __an altered by popular culture perception of corresponding concepts and species__ -- _Valkyries are slosely related to battles_, while Owlites' strategy is focused on _ranged combat and magic_ with prevalent _high-fantasy themes found in settings of J. R. R. Tolkien and J. K. Rowling_.
 
-Far earlier, we have suggested, that this could be a multi-species civilization, or that we have encountered a case of a distinct separation of duties within valkyrian army, with the academy being an entity focused on research of magics and their later application in combat, as it is only an academy within a greater organized structure.
+Far earlier, we have suggested, that this could be a multi-species civilization, or that we have encountered a case of a distinct separation of duties within valkyrian army, with the academy being an entity focused on research of magics and their later application in combat.
 
 On the other hand, Valkyries seem to be too distinct in their designs and motifs, even if we consider a case of them being Owlites physiologically.
 
@@ -5104,11 +5100,11 @@ At that, we should evaluate the hypothesis of Valkyries and Owlites being identi
 
 [Owlite Robe](https://wiki.spiralknights.com/Owlite_Robe) heavily implies Owlites' upper limbs to be wings or seem as such, while capable of holding and grabbing, apart from being used for flight.
 
-On the contrary, Valkyries could have had wings on their backs, as implied by the design of [Valkyrie Wings](https://wiki.spiralknights.com/Valkyrie_Wings) and [a raiment](https://wiki.spiralknights.com/Raiment_(Costume)): `A long, flowing battle garb best accessorized with a pair of angelic wings`. This approach is reminiscent of Spiral Order [adding wings to preexisting designs](#isoran-designs-of-almire), specifically, the [Crest of Almire with white wings at its tree roots](https://wiki.spiralknights.com/Crest_Of_Almire).
+On the countrary, Valkyries could had wings on their backs, as implied by the design of [Valkyrie Wings](https://wiki.spiralknights.com/Valkyrie_Wings) and [a raiment](https://wiki.spiralknights.com/Raiment_(Costume)), `A long, flowing battle garb best accessorized with a pair of angelic wings`. This approach is reminiscent of Spiral Order [adding wings to preexisting designs](#isoran-designs-of-almire), specifically, the [Crest of Almire with white angelic wings at its tree roots](https://wiki.spiralknights.com/Crest_Of_Almire).
 
-As Owlites or, likely, Owlite-like Isorans in the [respective news art](https://wiki.spiralknights.com/File:SpiralKnights_News_254-big.png) carry an [astrolabe](https://wiki.spiralknights.com/Astrolabe), -- due to its presence we can suggest a more direct inclusion of magic, as _symbols carved on the outer ring of astrolabe are similar_ to ones present of the [Enchanted Aura](https://wiki.spiralknights.com/Enchanter_Aura#Enchanter_Aura) and Owlite robe, specifically, _a star and a crescent moon_.
+As Owlites or, likely, Owlite-like Isorans in the [respective news art](https://wiki.spiralknights.com/File:SpiralKnights_News_254-big.png) carry an [astrolabe](https://wiki.spiralknights.com/Astrolabe), due to its presence we can suggest a more direct inclusion of magic for Owlite civilization, as _symbols carved on the outer ring of astrolabe are similar_ to ones present of the [Enchanted Aura](https://wiki.spiralknights.com/Enchanter_Aura#Enchanter_Aura) and Owlite robe, specifically, __a star and a crescent moon__, symbols tied to alchemy and celestials, Isorans in particular, through the [Celestial Shield](https://wiki.spiralknights.com/Celestial_Shield): `Cradle's equinox inspired the dual nature of this specialist shield, which protects against the dazzling light of day and the chill of the night in equal measure`, as this [setting's representaion of Azoth](#celestial-shield-and-azoth) -- __a unity of opposites, not found as a theme for Valkyries__.
 
-_Valkyries lack any of those arcane themes_. This makes our suggestion of Owlites as they are seen to come from a different time, close to Kataclysm, but, as Valkyries already possess instances of magic -- prime example being Avenger blades, -- incorporating those advancements in their armors and weapons suggests a connection in this regard, too.
+This makes our suggestion of Owlites as they are seen to come from a different time, close to Kataclysm, but, as Valkyries already possess instances of magic -- prime example being Avenger blades, -- incorporating those advancements in their armors and weapons suggests a connection in this regard, too.
 
 This approach only allows to establish general and adjacent themes of each civilization, yet a __subtle transition may be found in the steady adoption of magic__.
 
@@ -5147,23 +5143,26 @@ We will analyze Valkyries and Owlite from a different perspective -- of __their 
 
     These properties of fire and shock resistences establish those Owlite armors as _more advanced in relation to magic and elements_ compared to Valkyrian divine armors.
 
-#### Forgotten Time: Part 1
+#### Forgotten Time: Part 1: Divine Light
 
 `An upgraded set of Silvermail that is said to shine brightly even in the darkest of hours` ([Radiant Silvermail](https://wiki.spiralknights.com/Radiant_Silvermail)). It has [Philoso Feather](https://wiki.spiralknights.com/Philoso_Feather) used in its alchemy and is an upgrade of 4-star [Silvermail](https://wiki.spiralknights.com/Silvermail), `Strong, yet light armor for knights who've sworn an oath to hunt down and destroy the undead, wherever it may lurk`.
 
-Here we will attempt to pair `said to shine brightly even in the darkest of hours` of [Radiant Silvermail](https://wiki.spiralknights.com/Radiant_Silvermail) with the description of Underworld, predominantly due to themes of light, divinity and prior upgrade -- [Silvermail](https://wiki.spiralknights.com/Silvermail), -- referring to undead directly: `hunt down and destroy the undead, wherever it may lurk`.
+Here we will attempt to pair `said to shine brightly even in the darkest of hours` of [Radiant Silvermail](https://wiki.spiralknights.com/Radiant_Silvermail) with the description of Underworld, predominantly due to themes of light, divinity and prior upgrade -- [Silvermail](https://wiki.spiralknights.com/Silvermail), -- referring to undead directly, `hunt down and destroy the undead, wherever it may lurk`, while acknowledging darkness of Underworld as supernatural for material realm.
+
+This leads us to suggest -- as supernatual darkness of Underworld can be illumitaned by supernatural, divine means, as observed across Candlestick Keep, the __nature of the light is supernatural__ both for [Radiant Silvermail](https://wiki.spiralknights.com/Radiant_Silvermail) and [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin) (`Its golden frame was believed to provide light within the impenetrable darkness of the Underworld` - [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin)).
 
 A peculiar element to those recipes consists _of a lack of_ [Trojan Horseshoe](https://wiki.spiralknights.com/Trojan_Horseshoe), compared to other Valkyrian armors, implying _a lack of connection to the Legion of Ur_ and the time it was sealed, alluding to, potentially different prediod of time, existing _before Legion of Ur was defeated or sealed_.
 
 Mention of `knights` and of `oath` is similar to Guardian's Oath of Spiral Order, but also to [Blackhawk](https://wiki.spiralknights.com/Blackhawk), `A shadow-aligned handgun of incredible power, it's said to contain the soul of a knight who was only two days from retirement`, __presenting a concept of handgun-wielding knights__, which had knowledge of undeath and potentially Underworld.
 
-This _theme of light and opposition to the undead_ is similar to Gilded Griffin's description: `A beautiful pistol named after a great, noble beast. Its golden frame was believed to provide light within the impenetrable darkness of the Underworld` ([Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin)), potentially referring to the same period of time, -- one, when Valkyries had invaded the Underworld.
-
 We believe, this presents a plausible case of those __knights being the Gunslinger Priests__, which are established first in [Silversix](https://wiki.spiralknights.com/Silversix): `A mysterious antique with a brilliant silver finish, these handguns are said to have been wielded by 'gunslinger priests' during a now forgotten time`.
 
-This is as the motif of priesthood presents itself fittingly with the rest of themes regarding existing threat and presence of undead and Underworld. This idea connects most of [Antigua's alchemy tree](https://wiki.spiralknights.com/Antigua#Alchemy_Path) to this group of knights and a period of time referred as the `forgotten time`: `A mysterious relic from a forgotten time` ([Antigua](https://wiki.spiralknights.com/Antigua)). With this, we will label this potential period of time as the __Forgotten Time -- a time when gunpowder was actively used and, as it seems, there was no knowledge of greater Underworld, while the undead were a relatively known concept__.
+This is as the motif of priesthood presents itself fittingly with the rest of themes regarding existing threat and presence of undead and Underworld. This idea connects most of [Antigua's alchemy tree](https://wiki.spiralknights.com/Antigua#Alchemy_Path) to this group of knights and a period of time referred as the `forgotten time`:
 
-It is also here should be noted that [Gunslinger Sash](https://wiki.spiralknights.com/Gunslinger_Sash) mentions the forgotten time, too: `Clothing worn by pistol-packing warriors from a forgotten time. They smell of rawhide, gun smoke and action` ([Gunslinger Sash](https://wiki.spiralknights.com/Gunslinger_Sash)).
+- `A mysterious relic from a forgotten time. It uses explosive powder to fire its rounds` ([Antigua](https://wiki.spiralknights.com/Antigua)).
+- `Clothing worn by pistol-packing warriors from a forgotten time. They smell of rawhide, gun smoke and action` ([Gunslinger Sash](https://wiki.spiralknights.com/Gunslinger_Sash)).
+
+Now we can establish an outline of this period of time as the __Forgotten Time -- when gunpowder was actively used, there was sparse knowledge of Underworld, while the undead were a relatively known concept. They were hunted by Gunslinger Priests__.
 
 We have previously pointed out a motif of light and radiance in relation to [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin): `golden frame was believed to provide light within the impenetrable darkness of the Underworld`. Due to those themes of shining and radiance, as well as an association with dragons, we are considering to pair above items together not in a set, but _equipment from different faction at the same period of time and environment_, a distinct association of [Antigua-based handguns](https://wiki.spiralknights.com/Antigua) with [Gunslinger Sash](https://wiki.spiralknights.com/Gunslinger_Sash) there exists.
 
@@ -5174,7 +5173,7 @@ We have previously pointed out a motif of light and radiance in relation to [Gil
 
 Yet those knights are thematically distinct from Valkyries and Owlites, despite a common focus on hunting Undead with _lesser presence of divinity associated with Valkyries_.
 
-#### Divinity and Celestial Beings
+##### Divinity, Celestial Beings, Celestial Ore
 
 Aforementioned connection of Owlites to Valkyries through common themes, does not explain the reason behind of Valkyries being called the `celestial beings` or their nature.
 
@@ -5184,7 +5183,11 @@ A system of those symbols is nearly identical to [Divine Mantle](https://wiki.sp
 
 Owlites in that context completely lack any of those characteristics, only approaching it through the [Divine Mantle](https://wiki.spiralknights.com/Divine_Mantle). In case of th emantle, the _celestial property and divinity grant protection from curse_, as well as linking Owlites and Valkyries as both possessing a celestial property of divinity.
 
-In the recipe of [Divine Mantle](https://wiki.spiralknights.com/Divine_Mantle) there is [Silverweave](https://wiki.spiralknights.com/Silverweave), and, as it is described as `length of understated cloth intricately interwoven with precious metal. It's tastefully ostentatious, yet prudently protective` ([Silverweave](https://wiki.spiralknights.com/Silverweave)), we propose that [Sun Silver](https://wiki.spiralknights.com/Sun_silver) partially grants the mantle its divine or celestial properties, as __motif of silver as heavenbly or divine__, and material's presence allows for this connection to be strengthened.
+In the recipe of [Divine Mantle](https://wiki.spiralknights.com/Divine_Mantle) there is [Silverweave](https://wiki.spiralknights.com/Silverweave), and, as it is described as `length of understated cloth intricately interwoven with precious metal. It's tastefully ostentatious, yet prudently protective` ([Silverweave](https://wiki.spiralknights.com/Silverweave)), we propose that [Sun Silver](https://wiki.spiralknights.com/Sun_silver) partially grants the mantle its divine or celestial properties, as __motif of silver as heavenly and divine__, and material's presence allows for this connection to be strengthened.
+
+It can be linked back to radiant, supernatural light of [Radiant Silvermail](https://wiki.spiralknights.com/Radiant_Silvermail) and [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin). It allows us to identify properties of light captured, reflected or emitted by the silver as result of its supernatural nature being Sun Silver refined from the [Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore), `An extremely rare metal of great power said to be from the heavens above. It is often completely wasted on crowns and jewelry for slime royalty`.
+
+Celestial Ore contains supernatural power `from the heavens` capable of resisting and suppressing darkness of Underworld, but whether the heavans may be identified  as the Valkyrian heavenly kingdom, is up for discussion.
 
 ##### Divinity of A Dragon
 
@@ -5232,19 +5235,21 @@ Alchemy at that point has also been a commnly known principle, as its symbol, or
 
 #### Forgotten Time: Part 3
 
-There exists a griffin-like species, as described by the [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin): `A beautiful pistol named after a great, noble beast. Its golden frame was believed to provide light within the impenetrable darkness of the Underworld`, yet, on the handgun itself there are dragons depicted, and only [Argent Peacemaker](https://wiki.spiralknights.com/Argent_Peacemaker) and [Sentenza](https://wiki.spiralknights.com/Sentenza) alchemy paths have a creature with a beak.
+In [part 2 of Forgotten Time](#forgotten-time-part-2) we established a _griffon_ -- a divine entity and a descendant of aerial wyverns which we derived of the [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin) handgun, `A beautiful pistol named after a great, noble beast. Its golden frame was believed to provide light within the impenetrable darkness of the Underworld`.
 
-Here, [Raptor](https://wiki.spiralknights.com/Raptor), a predecessor of [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin) is also designed with dragons and meant for ventures into the Underworld: `An ancient pistol imbued with enchantments designed to smite the fiendish creatures of the Underworld` ([Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin)).
+Yet, on the handgun itself there are dragons depicted, while only [Argent Peacemaker](https://wiki.spiralknights.com/Argent_Peacemaker) and [Sentenza](https://wiki.spiralknights.com/Sentenza) alchemy paths bear a creature with a beak at the end of gun's barrel.
 
-The key 2 elements of this branch of Antigua alchemy tree are the _draconic design_ and _direct creation of the handguns to fight fiends of the Underworld_ as evident by their description, linking dragons to peircing damage, as wel las introduce griffins as an ancient species with similar cultural principles.
+Here, [Raptor](https://wiki.spiralknights.com/Raptor), a predecessor of [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin) is also designed with dragons and named after a similar creature, while being designed for ventures into the Underworld: `An ancient pistol imbued with enchantments designed to smite the fiendish creatures of the Underworld` ([Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin)). It utilizes nature of dragons as divine in opposition to Underworld.
 
-Those who wielded those handguns, did witness the Underworld and likely ahd descended there. At that griffins had existed _in order to assign them those characteristics_ of light and radiance. In that regard, the change from raptor to griffin may be due to a reason currently unknown.
+The key 2 elements of this branch of Antigua alchemy tree are the _draconic design_ and _direct creation of the handguns to fight fiends of the Underworld_ as evident by their description, linking dragons to peircing damage, as well as introducing griffins as an ancient species with a similar cultural imprint of divinity.
 
-We must reinstate a similar design in the Spiral Order battle sprite menu, where in_2 dragon heads_ are depicted, __reminiscent of the arches of Scarlet Fortress__, belonging to heavenly kingdom. This ties in with seemingly mythological position of dragons in Isoran culture, covered ealier in relation to their armors. And if so, this pattern being applied to Antigua-derived handguns, seems us as an argument for a proposal, that __both civilizations are united by the common themes, designs, and motifs__.
+Those who wielded those handguns did witness the Underworld and likely -- due to its description -- had descended there. In that regard, the change from raptor to griffin may exist due to currently unidentified resason.
+
+We must reinstate a similar design in the Spiral Order battle sprite menu, where _2 dragon heads_ are depicted, __reminiscent of the arches of Scarlet Fortress__, belonging to heavenly kingdom. This ties in with seemingly mythological position of dragons in Isoran culture, covered ealier in relation to their armors. And if so, this pattern being applied to Antigua-derived handguns, seems us as an argument for a proposal, that __both civilizations are united by the common themes, designs, and motifs__ while existing in a similar period of time far into the past, as per our proposal of ancient Spiral Wardens existing below heavenly kingdom.
 
 Then there are Antigua upgrades with imagery of a bird:
 
-- `these handguns are said to have been wielded by 'gunslinger priests' during a now forgotten time` ([Silversix](https://wiki.spiralknights.com/Silversix)). The theme of divinity connected to those priests here was linked to [Silvermail](https://wiki.spiralknights.com/Silvermail).
+- `...these handguns are said to have been wielded by 'gunslinger priests' during a now forgotten time` ([Silversix](https://wiki.spiralknights.com/Silversix)). The theme of divinity connected to those priests here was linked to [Silvermail](https://wiki.spiralknights.com/Silvermail).
 - `Its bullets serve as ushers for those that refuse to leave this world` ([Argent Peacemaker](https://wiki.spiralknights.com/Argent_Peacemaker)). It is an upgrade of [Silversix](https://wiki.spiralknights.com/Silversix), and serves the same purpose to combat undead, with a distinguishing description of them being: `those that refuse to leave this world`.
 
   Owlite [Philoso Feather](https://wiki.spiralknights.com/Philoso_Feather) in its crafting is notable, either being created by Owlites, or is the assumption of an existing thematic link between Valkyries and role of Owlites.
@@ -5254,8 +5259,8 @@ Then there are Antigua upgrades with imagery of a bird:
 - `A shadow-aligned handgun of incredible power, its said to contain the soul of a knight who was only two days from retirement` ([Blackhawk](https://wiki.spiralknights.com/Blackhawk)). This handgun in particular has a few elements to it:
 
   - It was wielded by a knight, we keep in mind knight which were wearing [Silvermail](): `Strong, yet light armor for knights who've sworn an oath to hunt down and destroy the undead, wherever it may lurk`, allowing for a new link between knights and handguns.
-  - The [haunting](#haunting) as a tangible process, exists with involvement of souls bound to physical objects. In similar manner, souls are bound to skulls and [masks](#vanadukes-mask-and-immortality-span-classthrough-cursethrough-cursespan).
-  - The `shadow-aligned handgun of incredible power` wording states the nature of the handgun, as it deals shadow damage, but also suggests that shadow damage is that `incredible power`, considering this damage type being far more unnatural compared to the rest, which is fitting for modern Isorans: ` powerful handgun brimming with dark energy. The Phantamos represents one of the most recent additions to the Spiral Knight's arsenal, as containing shadow energy of this degree took a great deal of research` ([Phantamos](https://wiki.spiralknights.com/Phantamos)).
+  - The [haunting](#haunting) as a tangible process, exists with involvement of souls bound to physical objects. In similar manner, souls are bound to skulls and [masks](#vanadukes-mask-and-immortality-through-curse).
+  - The `shadow-aligned handgun of incredible power` wording states the nature of the handgun, as it deals shadow damage, but also suggests that shadow damage is that `incredible power`, considering this damage type being far more unnatural compared to the rest which is fitting for modern Isorans: ` powerful handgun brimming with dark energy. The Phantamos represents one of the most recent additions to the Spiral Knight's arsenal, as containing shadow energy of this degree took a great deal of research` ([Phantamos](https://wiki.spiralknights.com/Phantamos)).
   - The bird imagery, now identified as griffin.
 
 - `An ancient handgun forged from shadow steel. It is said to have been wielded by an evil one who possessed "angel eyes"` ([Sentenza](https://wiki.spiralknights.com/Sentenza)). Shadow steel originates from the Underworld, and, as the handgun's design suggests, it was made near the same period of time as all of the above - with the hawk imagery. This notion can link this handgun to the [Armor of the Fallen](https://wiki.spiralknights.com/Armor_of_the_fallen), _as equipment of Valkyrian design, yet opposing to them_. But, as the western motif is present both for armor and a handgun, it had to be accounted for.
