@@ -5445,45 +5445,47 @@ All of those similarities make it seem for us as if all those cultures were deep
 
 One last suggestion, which could back this convoluted chain of event, a potential explanation for the identity of heavenly kingdom, is the inspiration by the Celestial Kingdom of Chinese Mythology.
 
-Celestial kingdom is ruled by the Jade Emperor. Queen Mother of the West is the guardian of souls, of the spiritual realm, and represents the balance of nature. This description is most reminiscent of the Spirit Mother. Within the Celestial Kingdom reside spirits, which is similar to our understanding of the Nameless Realm, albeit with western alchemical ideas.
+Celestial kingdom is ruled by the Jade Emperor. Queen Mother of the West is the guardian of souls, of the spiritual realm, and represents the balance of nature. This description is most reminiscent of the Spirit Mother. Within the Celestial Kingdom reside spirits, which is similar to our understanding of the Nameless Realm with western alchemical ideas.
 
-There are the Four Heavenly Kings. Despite the title, they are guardians of Heavens, protecting the Celestial Kingdom from even entering. [Oni Helm](https://wiki.spiralknights.com/Oni_Helm) has similar description of a fiend: `Designed to frighten their enemies, this helm is in the visage of a fiend who lives in the mountains of a distant land. Said to guard the gate to heaven itself, it only allows those who are worthy to pass`.
+There are the Four Heavenly Kings. They are guardians of Heavens, protecting the Celestial Kingdom from even entering. [Oni Helm](https://wiki.spiralknights.com/Oni_Helm) has similar description of a fiend: `Designed to frighten their enemies, this helm is in the visage of a fiend who lives in the mountains of a distant land. Said to guard the gate to heaven itself, it only allows those who are worthy to pass`.
 
-Those similarities seem intentional, distinguished from the general themes and motifs across many different Myths, apart from Christianity, which, as will will further discuss, has its prevalence. This, we believe, still marks a distinction between physiology of celestial beings in the context of Spiral Knights, and ones within the material realm, extrapolated onto many different species.
+<!--This, we believe, still marks a distinction between physiology of celestial beings in the context of Spiral Knights, and ones within the material realm, extrapolated onto many different species.-->
 
-More so, we have previously covered divine themes of Valkyries through relation to wording of seraphic or angelic, suggesting a transition from the divine to material.
+We have previously covered divine themes of Valkyries through relation to wording of `seraphic` or `angelic`, suggesting a transition from the divine to material.
 
-Considering that, as well as our previous discussions of Valkyries being griffins, a solution could be proposed, that Owlites identical to Valkyries in the material realm, and Valkyries are only referred as such by being an army of heavenly kingdom.
+Considering that, as well as our previous discussions of Valkyries being descendants of griffins, a solution could be proposed, that Owlites were identical to Valkyries in the material realm, and Valkyries are only _referred as such by being an army of the heavenly kingdom_.
 
 By that time Owlite academy is to be established and used to create elemental gear for gunslinger priests, as well as making greater accent on magic and power of sealing the curse. This would lead Legion of Ur being sealed at least after Lord Vanaduke's crusade.
 
 #### Knights of the Rose
 
-One of the last remaining elements of this forgotten time, we propose, are the Knights of the Rose. Their nature-themed design and naming is present as one other instance from a similar period of time of medieval Europe.
+One of the last remaining elements of this forgotten time, we propose, are the Knights of the Rose.
+
+Their nature-themed design and naming is present as one other instance from a similar period of time of medieval Europe.
 
 Knight of the Rose are described in the [Tabard of the Rose](https://wiki.spiralknights.com/Tabard_of_the_Prismatic_Rose#Tabard_of_the_Prismatic_Rose): `An aged, embroidered tabard that once belonged to a Knight of the Rose, a sacred order of brave and especially dashing heroes whose numerous adventures are the subject of many folk tales. The Knights of the Rose were said to be peerless fencers, believing that their blades were like the flowers of their name: a delicate thing of beauty that hides a vicious sting`.
 
 As they are described as fencers, the only equipment that could potentially fit to them is the [Flourish](https://wiki.spiralknights.com/Flourish) alchemy tree.
 
-The [Fowl Cloak](https://wiki.spiralknights.com/Fowl_Cloak) of [Rooster Prize Box](https://wiki.spiralknights.com/Rooster_Prize_Box) is the bringing element to tabards and Strangers as it has the same pattern weaved on cloth as a few Haven canopies ([Fowl Set pattern](https://wiki.spiralknights.com/File:Brown_Fowl-Set.png)).
+The [Fowl Cloak](https://wiki.spiralknights.com/Fowl_Cloak) of [Rooster Prize Box](https://wiki.spiralknights.com/Rooster_Prize_Box) is the bridging element to tabards and Strangers as it bears the _same pattern weaved on cloth as Haven canopies_ ([Fowl Set pattern](https://wiki.spiralknights.com/File:Brown_Fowl-Set.png)).
 
-Similar to the cloak, [tabards of the rose](https://wiki.spiralknights.com/Tabard) of [Rose Regalia Prize Box](https://wiki.spiralknights.com/Rose_Regalia_Prize_Box) and a [letter](https://forums.spiralknights.com/en/node/95665). It is important to note meaning of tabard - a type of coat being worn in late middle ages Europe, used both in and out of military context.
+<!--Similar to the cloak, [tabards of the rose](https://wiki.spiralknights.com/Tabard) of [Rose Regalia Prize Box](https://wiki.spiralknights.com/Rose_Regalia_Prize_Box) and a [latter](https://forums.spiralknights.com/en/node/95665). It is important to note meaning of tabard - a type of coat being worn in late middle ages Europe, used both in and out of military context.-->
 
-Fencers' armor designs are similar to Fowl's which are the same as the patterns on canopies across [Haven](#strangers-and-haven). This fact, as well as nature motif of knights of the Rose, we believe, makes it seem that knight of the rose were Almirians.
+Fencers' armor designs are similar to Fowl's which are the same as the patterns on canopies across [Haven](#strangers-and-haven). This fact, as well as nature motif of knights of the Rose, we believe, makes it seem that _knights of the Rose were Almirians_.
 
-The question is, how Vaelyn, for example, had in her possession her Grand Flourish and Final Flourish?
+The question is, how Vaelyn, for example, had in her possession her Grand Flourish and Final Flourish, or is it an extension of pre-Cradle developments?
 
-An explanation can be presented here, as with gunslingers and regular close-combat knights, their weapons, their designs, fencers were also present on Isora with the rest of first generation of Isorans, but only after crash landing they attained the distinctive natural theming, reminiscent of kingdom of Almire.
+An explanation can be presented here, as with gunslingers and regular close-combat knights, their weapons, their designs, fencers were also present on Isora with the rest of first generation of Isorans, but _only after crash landing they attained the distinctive nature-themed narrative reminiscent of kingdom of Almire_.
 
-The fact that Stranger have those designs prior to arrival of Spiral Order during present events is important, as it suggest that a large period of time has passed since. Otherwise there would be no reason for Spiral Order to take Strangers' designs as the basis for tabards', including their framing as something coming, yet again, from the past.
+The fact that Stranger have those designs prior to arrival of Spiral Order during present events is important, as it suggest that a large period of time has passed since. Otherwise there would be no reason for Spiral Order to take Strangers' designs as the basis for tabards.
 
 #### Fallen Valkyrian
 
-We propose Fallen Valkyrian is one responsible for the creation of Legion of Ur in the first place, and the reason why heavenly kingdom had invaded Underworld.
+We propose that Fallen Valkyrian is responsible for the creation of Legion of Ur in the first place, and the reason why heavenly kingdom had invaded Underworld after fall of Almire.
 
-While we do not know the reasoning behind those actions, we are indirectly understand, that it is those actions had led to his banishnment.
+While we do not know the reasoning behind those actions, we are indirectly understand, that it is those actions had led to banishnment of the Valkyrian.
 
-We have to also consider this case being a most direct instance of a biblical motif, among which we find banishemt of Adam and Eve, as well as banishement of Lucifer from paradise to be cases which we had to look at for potential narrative inspiration as explnation for Fallen's motivations. Here, we suggest, the resolution is rather linear - as Fallen's armor became associated with Underworld, shadow damage, and curse, we suspect him to be a stand-in for Lucifer's banishment from Heaven.
+We consider this case being a most direct instance of a biblical motif, among which we find banishemt of Lucifer from paradise to be cases which we had to look at for potential narrative inspiration as explnation for Fallen's motivations. Here, we suggest, the resolution is rather linear -- as Fallen's armor became associated with Underworld, shadow damage, and curse, -- we suspect him to be a stand-in for Lucifer.
 
 Based on the designs of the armor, and its recipes, we can attempt to piece together what happened back then:
 
@@ -5492,38 +5494,34 @@ Based on the designs of the armor, and its recipes, we can attempt to piece toge
 
 The `celestial` characteristic is one used to refer to valkyries in the [Heavenly Iron Helm](https://wiki.spiralknights.com/Heavenly_Iron_Helm) description: `A powerful helm said to be crafted from angelic shields. It retains many divine properties celestial beings possess but lacks their weakness to fire`.
 
-The paradise in that regard, as it takes more religious connotation, is the heavenly kingdom, the Scarlet Fortress being what remains of it. And it seems to us fitting from current themes, that this narrative parallels to a religious one. With this, __this heavenly kingdom, or paradise, and Valkyries' Asgard, seem to be located in a realm above material realm, while allowing more matter from the material realm, as castles, comprising the kingdom__.
+The paradise in that regard, as it takes more religious connotation, is the heavenly kingdom, the Scarlet Fortress being what remains of it. With this, __this heavenly kingdom, or paradise, and Valkyries' kingdom is to be located in a realm above material realm__, while allowing for elements of material realm such as castles comprising the kingdom __to corporeally exist__.
 
-In that context, [Sentenza](https://wiki.spiralknights.com/Sentenza), as it is forged from Shadow Steel, seems to belong to the Fallen Valkyrian instead of the Shadowsun set. This would decouple it from the [Shadowsun Slicker](https://wiki.spiralknights.com/Shadowsun_Slicker), which is an issue, but, we can potentially attribute [Blackhawk](https://wiki.spiralknights.com/Blackhawk) to this set.
+We do not know whether [Sentenza](https://wiki.spiralknights.com/Sentenza), as it is forged from Shadow Steel, can be attributed to the Fallen Valkyrian instead of the owner of Shadowsun set as it would decouple the handgun from the [Shadowsun Slicker](https://wiki.spiralknights.com/Shadowsun_Slicker). But, we can potentially attribute [Blackhawk](https://wiki.spiralknights.com/Blackhawk) to this set.
 
-We have a reason to consider the aforementioned heavenly kingdom as one located in a different realm due to the multi-dimensional property of the proposed cosmology - so that a biblical event, such as banishment of the Fallen, would involve at least 2 realms. And given lack of presence of material realm, and opposition of the latter 2, it seems that there are 3 dimensions to be involved in this conflict.
+We have a reason to consider the aforementioned heavenly kingdom as one located in a different realm due to the multi-dimensional property of the proposed cosmology -- so that such event as banishment of the Fallen would involve at least 2 realms.
 
-As Fallen was banished into the Underworld, Valkyries had head an incursion into Underworld, and then sealed both the Fallen and the Legion of Ur (`Strangely, the memo indicated that the Legion of Ur was sealed away in the Underworld and that an alternative approach would be required for bringing them back` - [The Return of Ur](https://wiki.spiralknights.com/The_Return_of_Ur)). [Crest of Ur](https://wiki.spiralknights.com/Crests_of_Ur) contains an addition to this hypothesized timeline of events: `A crest from the lost Legion of Ur, an elite band of fiendish warrior said to have once conquered the Underworld. Whomever holds it can faintly hear the sound of drums and the clomping of hooves`, in which we linked sound of drums to the sound of drum during Lord Vanaduke's transformation: `With this he began screaming the names of the rival kings and all the wrongs they committed against his kingdom. He cried out to the god of the mountain to punish them, to give him the strength to take his kingdom back. In his frenzy he looked to the face of the deity and in it he began to see the face deform. The image burned into his eyes and brain like cinders, and contained that which sounded like the screaming of foreign tongues and war drums` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)), as __war drums being characteristic of Underworld's influence onto living beings__.
+__The Fallen Valkyrian was banished into the Underworld through the material realm from heavenly kingdom in a higher realm__.
 
-This Crest has 2 notable properties: the supernatural presence of trojans and the fact legion of Ur had conquered the Underworld. The supernatural presence of trojans is similar to Snarbolax's equipment curse properties:
+Then Valkyries had head an incursion into Underworld, and then sealed both the Fallen and the Legion of Ur (`Strangely, the memo indicated that the Legion of Ur was sealed away in the Underworld and that an alternative approach would be required for bringing them back` - [The Return of Ur](https://wiki.spiralknights.com/The_Return_of_Ur)).
+
+[Crest of Ur](https://wiki.spiralknights.com/Crests_of_Ur) contains an addition to this hypothesized timeline of events: `A crest from the lost Legion of Ur, an elite band of fiendish warrior said to have once conquered the Underworld. Whomever holds it can faintly hear the sound of drums and the clomping of hooves`, in which we linked sound of drums to the sound of drum during Lord Vanaduke's transformation, `With this he began screaming the names of the rival kings and all the wrongs they committed against his kingdom. He cried out to the god of the mountain to punish them, to give him the strength to take his kingdom back. In his frenzy he looked to the face of the deity and in it he began to see the face deform. The image burned into his eyes and brain like cinders, and contained that which sounded like the screaming of foreign tongues and war drums` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)), as __war drums being characteristic of Underworld's presence and influence onto living beings__.
+
+This Crest has 2 notable properties: the supernatural presence of trojans and the fact Legion of Ur had conquered the Underworld. The supernatural presence of trojans is similar to Snarbolax's equipment curse properties:
 
 - `Those who wield it claim to feel the fiery stare of the beast upon them whenever they close their eyes` ([Barbarous Thorn Blade](https://wiki.spiralknights.com/Barbarous_Thorn_Blade)).
 - `Its said the beast can use the glowing orbs on the shield's face to see and stalk weak-hearted wielders`([Barbarous Thorn Shield](https://wiki.spiralknights.com/Barbarous_Thorn_Shield))
 
-And, as discussed in [Snarbolax and empowerment through curse section](#snarbolax-and-haunting-through-curse), all those instances of haunting in varying severity are explained by the unnatural, from the position of material realm, properties.
+And, as discussed in [Snarbolax and empowerment through curse section](#snarbolax-and-haunting-through-curse), all those instances of haunting in varying severity are explained by the unnatural, from the position of material realm, properties of souls.
 
-It is said that the legion had conquered the Underworld, and based on the above information, was sealed there. We also concluded that it is the same army Lord Vanaduke had led when he returned from the erupting volcanic mountains.
-
-As our theory suggests that trojans are wardens, so their arrival is fitting here, but this would also mean that one had to lead them - a lack of Legion's commander.
-
-At that point we would suggest that this figurehead would be the Fallen Valkyrian, as this type of power shift, rippling through time, would be a reason for a banishment for the Fallen under this framing. This means that the Fallen's name is Ur once he remained in the Underworld with an identity of a commander of Underworld elite legion.
-
-We also suspect, that, _as Arkus was transforming into a fiend, so was the Fallen_, given his affinity with fiends through armor's stats.
-
-Apart from them, there is [Crown of the Fallen](https://wiki.spiralknights.com/Crown_of_the_Fallen), as it has a shadowy halo, similar to one in [Valkyrie Helm](https://wiki.spiralknights.com/Valkyrie_Helm). And, as Valkyrian armors have [Trojan Horseshoe](https://wiki.spiralknights.com/Trojan_Horseshoe) as a fiendish material in their recipe, this, we suppose, points to high importance of this event of banishment and connection to the Legion of Ur of all parties from that period of time.
+<!--There is [Crown of the Fallen](https://wiki.spiralknights.com/Crown_of_the_Fallen), as it has a shadowy halo, similar to one in [Valkyrie Helm](https://wiki.spiralknights.com/Valkyrie_Helm). And, as Valkyrian armors have [Trojan Horseshoe](https://wiki.spiralknights.com/Trojan_Horseshoe) as a fiendish material in their recipe, this, we suppose, points to high importance of this event of banishment and connection to the Legion of Ur of all parties from that period of time.-->
 
 #### War in Heaven
 
-One last element for this idea is the ownership of [Champion Helms](https://wiki.spiralknights.com/Champion_Helm) of rage, frenzy and storms. As we discussed, tortomega are unlikely candidates, but at that time no other civilization could claim ownership of the gear, apart from valkyries themselves.
+One last element for this idea is the ownership of [Champion Helms](https://wiki.spiralknights.com/Champion_Helm) of rage, frenzy, and storms. As we discussed, tortomega are unlikely candidates, but at that time no other civilization could claim ownership of the gear, apart from valkyries themselves.
 
-And at that time they did not have any known internal conflicts. But now, as there is an event which caused a valkyrian to be banished, we can suggest that this valkyrian had its own followers, armed with such equipment. And, coincidentally, the wording - `The helm of one who defied the gods and razed the gates of a heavenly kingdom` ([Frenzy Champion Helm](https://wiki.spiralknights.com/Frenzy_Champion_Helm#Frenzy_Champion_Helm)) reminds now of the Fallen Valkyrian, as one opposing heavens.
+And at that time they did not have any known internal conflicts. But now, as there is an event which caused a valkyrian to be banished, we can suggest that this valkyrian had its own followers, armed with such equipment. And, coincidentally, the wording of `The helm of one who defied the gods and razed the gates of a heavenly kingdom` ([Frenzy Champion Helm](https://wiki.spiralknights.com/Frenzy_Champion_Helm#Frenzy_Champion_Helm)) reminds now of the Fallen Valkyrian, __as one opposing heavens__.
 
-Going back to interpretation of the Fallen as Lucifer due to Underworldly alignment of the armor, one particularity catches our attension - of a war in Heaven:
+Going back to interpretation of the Fallen as Lucifer due to Underworldly alignment of the armor, one particularity catches our attension -- of _a war in Heaven_:
 
 <BookCitation source="Revelation 12:7-9">
 
@@ -5531,13 +5529,17 @@ Then war broke out in heaven. Michael and his angels fought against the dragon, 
 
 </BookCitation>
 
+It would also coincide with banishment of dragons, albeit in a different framing.
+
 Those events seem us to cincide with the potential of [Champions](https://wiki.spiralknights.com/Frenzy_Champion_Helm#Frenzy_Champion_Helm) being within this seige of heavenly kingdom on Fallen's side:
 
 - `The helm of one who defied the gods and stormed the gates of a heavenly kingdom. Some say the thunderclaps are the eternal echoes of her siege` ([Storm Champion Helm](https://wiki.spiralknights.com/Storm_Champion_Helm#Storm_Champion_Helm)).
 - `The helm of one who defied the gods and razed the gates of a heavenly kingdom` ([Raging Champion Helm](https://wiki.spiralknights.com/Raging_Champion_Helm#Raging_Champion_Helm)).
 - `The helm of one who defied the gods and stormed the gates of a heavenly kingdom. Some say that whistling wings are the eternal warcries of her siege` ([Frenzy Champion Helm](https://wiki.spiralknights.com/Frenzy_Champion_Helm#Frenzy_Champion_Helm)).
 
-Notably, compared to the [creation myth](), here specifically terms of razing and storming are used in the context of destruction, which, paired with the desgins themselves, can be interpreted in strict set of scenarios. Could those helms be in a set with [Plate Mails](https://wiki.spiralknights.com/Plate_Mail_(special))? There exists a possibility of this being true if we take in consideration common designs of plated armors. But, as no description for those armors specifies at the same level of detail instances of an invasion, we would consider wearers of plated helms to be part of a larger group, likely an ancient Valkyrian army, given their more ancient elemental themes and designs.
+<!--Compared to the [creation myth](#creation-myth-dragons-as-cosmic-progenitors), here specifically, the terms of razing and storming are used in the context of destruction which when paired with the designs themselves can be interpreted in strict set of scenarios.-->
+
+<!--Could those helms be in a set with [Plate Mails](https://wiki.spiralknights.com/Plate_Mail_(special))? There exists a possibility of this being true if we take in consideration common designs of plated armors. But, as no description for those armors specifies at the same level of detail instances of an invasion, we would consider wearers of plated helms to be part of a larger group, likely an ancient Valkyrian army, given their more ancient elemental themes and designs.-->
 
 <center class="chapter-break">
   <span class="energy">🜿</span>
