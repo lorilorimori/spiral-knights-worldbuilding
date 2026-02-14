@@ -3955,7 +3955,7 @@ This framework will be our sarting point on the investigation of nature of Sleep
 ### _Chapter `VII` &#160;<br>_ Kingdom of Almire
 
 <SubTitleCentered>
-<em>"You can feel it in the smoldering air -- an eternal will holding this place together, never allowing its inhabitants to rest."<small> - Gratz</small></em>
+<em>"You can feel it in the smoldering air - an eternal will holding this place together, never allowing its inhabitants to rest."<small> - Gratz</small></em>
 </SubTitleCentered>
 
 We begin from a time when kingdom of Almire was invaded.
@@ -5551,97 +5551,120 @@ Those events seem us to cincide with the potential of [Champions](https://wiki.s
 
 The events preceding Kataclysm take place after the fall of the kingdom of Almire and sealing of Legion of Ur in the Underworld.
 
-While tortomega [are long gone](#the-titans-tortomega-the-fall), and Almire itself [had turned into ashen land](#blackened-shrine-and-magma-deity) with the inclusion of the former kingdoms around it [as an undead empire](#almirian-empire), at that point _only heavenly kingdom remains_ with inhabiting it Owlites and Valkyries as its army.
-
-Isoran raiders are absent at that point. In relation to [Operation Gelid](#operation-gelid-and-other-methods-of-escaping-cradle), it could be plausible for them to survive for some time in the northern regions of the planet. Given events of Operation Gelid, they too could've fallen to Underworld's influence.
-
-Kingdom of Almire was described in multiple tomes within the established Owlite Academy of Magicks, further affirming its status as an important location for heavenly kingdom serving as a library and a research center.
+While tortomega [are long gone](#the-titans-tortomega-the-fall), Isoran raiders are absent at that point, and Almire itself [had turned into ashen land](#blackened-shrine-and-magma-deity) with the inclusion of the former kingdoms around it [as an undead empire](#almirian-empire), at that point _only heavenly kingdom remains_ with inhabiting it Owlites and Valkyries as its army.
 
 The [Forgotten Library](https://wiki.spiralknights.com/Owlite_tome_text_Dialogue/The_Forgotten_Library), wherein first written texts about kingdom of Almire were found by Spiral Order, is located in the halls of the High Academy of magicks, now known as the Candlestick Keep. Apart from it we are aware of the research-oriented aspect of heavenly kingdom proper, implied by existence of the [Eternal Study](https://wiki.spiralknights.com/File:Area-Time_Enough_at_Last-Eternal_Study.png) within the Scarlet Fortress during the events of [Time Enough at Last](https://wiki.spiralknights.com/Time_Enough_at_Last).
 
-After the events of Valkyries invading the Underworld, [without gunslinger priests](#griffin-dragon-distinction-a-proposal), many fiend-related discoveries were made, we can identify those by their recipes, which contain either undead or fiendish materials.
+After the events of Valkyries invading the Underworld many fiend-related discoveries were made, we can identify those by their recipes, which contain either undead or fiendish materials, such as [Trojan Horseshoe](https://wiki.spiralknights.com/Trojan_Horseshoe) which implies highest importance of this event of banishment of Legion of Ur to all parties involved.
 
-At some point in the past, near the period of time when gunslinger priests were established, Philoso, an Owlite magician and wizard, was born (`A large, grey feather plucked from the greatest of the Owlite magicians` [Philoso Feather](https://wiki.spiralknights.com/Philoso_Feather)). He is responsible for many developments of Owlites' research on elemental damage application in combat and defense. Evident by gear made with his [feathers](https://wiki.spiralknights.com/Philoso_Feather#Usage), __he was specializing in elemental combat against the Undead__. And, we suppose he was the founder of gunslinger priests, given his significance as an individual, uncovered by Spiral Order. His position as an Owlite relates back to the relation of _Owlites and Valkyries as far descendants of dragons, wyverns, and finally griffins_, with griffins being direct ancestors of Valkyries.
+#### Philoso, Grey-feathered Owlite Magican
 
-We have discussed this relation in the [first intermission](#intermission-gunslinger-priests-of-forgotten-time), paralleling [relation](#chapter-iii-ancient-titans) between _dragons, drakes, tortoises, and finally tortomega_, - the latter being the civilization of titans, annihilated by Undercorp.
+At some point in the past, near the period of time when gunslinger priests were established, Philoso, an Owlite magician and wizard, was born, `A large, grey feather plucked from the greatest of the Owlite magicians` ([Philoso Feather](https://wiki.spiralknights.com/Philoso_Feather)), identified by material's unconventional for current naming scheme name.
 
-Those undead, against which an organization of gunslinger priests was formed to fight, were part of Underworld army during the time, labelled as forgotten, after Isorans had discovered Underworld for the first time, as Fallen Valkyrian was involved and Legion of Ur was created, as per [analysis gunslinger priests appearing in the timeline](#fallen-valkyrian).
+__Philoso, the grey-feathered owlite magican__, _is responsible for many developments of Owlites' research on application of elemental damage in combat and defense_. Evident by gear made with his [feathers](https://wiki.spiralknights.com/Philoso_Feather#Usage), _he was specializing in elemental combat against the Undead_:
 
-During that period of time:
+- `A downy hood made for scholars who like to get out into the field` ([Grey Feather Cowl](https://wiki.spiralknights.com/Grey_Feather_Cowl)).
+- `A cloak for renowned Owlite scholars, this feathery frock is filled with the wisdom of the ages... and is super soft` ([Grey Feather Mantle](https://wiki.spiralknights.com/Grey_Feather_Mantle)).
 
-- Owlite [Divine Mantle](https://wiki.spiralknights.com/Divine_Mantle) being the result of incorporation knowledge of curse into divine aspect of Owlite elemental advancements.
-- Upgraded [Divine Avenger](https://wiki.spiralknights.com/Divine_avenger) __being a prime case of negation and inversion of curse__ of Gran Faust through application of Seals.
-- A handgun, [Argent Peacemaker](https://wiki.spiralknights.com/Argent_Peacemaker) and entirety of griffin-themed line of handguns being developed by Owlites with assistance of Isoran gunslingers to combat undead, known as gunslinger priests.
-- [Radiant Silvermail](https://wiki.spiralknights.com/Radiant_Silvermail) and [Silvermail](https://wiki.spiralknights.com/Silvermail) were devised to assist Valkyries in the Underworld, with Silvermail and [Silversix](https://wiki.spiralknights.com/Silversix) lines of equipment being the gunslinger priests' standard equipment.
-- Initial creation of [Omegaward](https://wiki.spiralknights.com/Omegaward) we attribute to Owlites, as no other civilization would be as skilled in elemental damage mastery as Owlites.
-- [Deadly Crystal Bomb](https://wiki.spiralknights.com/Deadly_Crystal_Bomb) with application of Valestone mixed with Moonstone is characteristic of [Owlite-specific ritual circles, later found in the Moorcroft Manor](#moorcroft-manor-past-heavenly-kingdom).
-- [Owlite shield](https://wiki.spiralknights.com/Owlite_Shield) and [Grey Feather set](https://wiki.spiralknights.com/Grey_Feather_Mantle) being developer with the same derived oif elemental mastery knowledge by Owlites.
+And we suppose Philoso was related to griffin designs of gunslinger priests' handguns, given his significance as an individual and focus on magic.
 
-We propose, that exactly Philoso's research after Legion of Ur was sealed had led to the discovery of the Nameless Realm, based on the presence of Crest of Ur in alchemy of the [Chaos Cloak](https://wiki.spiralknights.com/Chaos_Cloak), with the subtle _imagery of the antique evil eye_, seen in [Heavy Statues, deeply related to Titans](#evil-eye). The very fact, that is is _stated to be forbidden_, seems to us as the invention too dangerous even for the heavenly kingdom. It can be argued, that Valkyrian armor also has fiendish materials, which is true, but, given presence of curse, we consider this development from later period of time, given more widespread Dread Seal symbolism around Owlites and undead.
+Notably, as Kat tribe was at war with Owlites, the Philoso feather originating from a single owlite may parallel Margrel through its [Wicked Whisker](https://wiki.spiralknights.com/Wicked_Whisker), `A whisker won from the great Kat Tribe hero, Margrel. They were traditionally worn as a ward against Owlite magics but now represent the triumph of goodly magical arts over evil`.
 
-This ties back to a specific point in time, which marks introduction of the evil eye in the form of [Dread Seal](https://wiki.spiralknights.com/Dread_Seal) as one applied in Owlite magic. This should align with the creation of [Avenger](https://wiki.spiralknights.com/Avenger), as it would be created from the [Sealed Sword](https://wiki.spiralknights.com/Sealed_Sword), supposedly stollen [Gran Faust](https://wiki.spiralknights.com/Gran_Faust) (` that hasn't stopped Devilites from treasuring these rare blades even more highly than their meager vacation time` - [Gran Faust](https://wiki.spiralknights.com/Gran_Faust)), as it is deeply tied to curse. And, Sealed Sword was sealed with the same [paper dread seal as Lumbers](https://wiki.spiralknights.com/File:Monster-Redward.png), who, as we discussed, were constructed by gremlins, who also work with shadow damage, but to a far lesser extent.
+#### Owlite Research
 
-The nature of Sealed Sword, its upgrades is one of more notable element to the nature of curse overall as well as more direct depictions of capacity and limits to transform and reapply it in same manner - like the Divine Avenger alchemy path.
+As we were exploring Forgotten Time, we noted on the advancements which were found both in relation to Owlites and Isoran Gunslinger Priests:
 
-Application and origin of the [Dread Seal](https://wiki.spiralknights.com/Dread_Seal) will be covered in consideration of Carnavons, which will be analyzed later in the context of Shadow Lairs.
+- Owlite [Divine Mantle](https://wiki.spiralknights.com/Divine_Mantle) being the result of incorporation knowledge of curse coutered by divinity. [Argent Peacemaker](https://wiki.spiralknights.com/Argent_Peacemaker) symbolizes the utilization of offensive traits of divinity of radiant light. As griffins were celestial beings, and so was the mantle, their celestial nature protects the wearer from supernatural darkness of Underworld, linked to radiant light.
+- Upgraded [Divine Avenger](https://wiki.spiralknights.com/Divine_avenger) will be covered in rlation to curse as _a fascinating case study_ __of negation and inversion of curse__ of Gran Faust through application of _Seals -- an Underworld technology_.
+- `An upgraded set of Silvermail that is said to shine brightly even in the darkest of hours`, [Radiant Silvermail](https://wiki.spiralknights.com/Radiant_Silvermail) and [Silvermail](https://wiki.spiralknights.com/Silvermail) are also associated with radiance and its capacity to counter darkness.
+- Unless [tortodrone equipment is meant to reflect different states of a tortodrone or its base mineral](#tortodrone-equipment), we would then attribute creation of [Omegaward](https://wiki.spiralknights.com/Omegaward) to Owlites, as no other civilization would be as skilled in elemental damage mastery as Owlites.
+<!--- [Deadly Crystal Bomb](https://wiki.spiralknights.com/Deadly_Crystal_Bomb) with application of Valestone mixed with Moonstone is characteristic of [Owlite-specific ritual circles, later found in the Moorcroft Manor](#moorcroft-manor-past-heavenly-kingdom).-->
+- [Owlite shield](https://wiki.spiralknights.com/Owlite_Shield) and [Grey Feather set](https://wiki.spiralknights.com/Grey_Feather_Mantle) being developed with the same motif of elemental mastery and knowledge by Owlites.
 
-After the Fallen Valkyrian was banished, after Almire had fallen, and after Legion of Ur was sealed, within this relatively stable period of time, as not much is known to happen there, _Kat tribe emerges_.
+We propose, that exactly Owlites' research after Legion of Ur was sealed had eventually led to the discovery of the Nameless Realm based on the presence of Crest of Ur in alchemy of the [Chaos Cloak](https://wiki.spiralknights.com/Chaos_Cloak) with the subtle _imagery of the antique evil eye_, found in [Heavy Statues, deeply related to Titans](#evil-eye) and _transmuted Kat Tribe armors_.
+
+The very fact, that Chaos Cloak is _stated to be forbidden_, `A forbidden mantle said to grant the wearer protection within the nameless realm where all elements are said to converge into one and divide into all`, seem to suggest its danger even for the far descendats of griffins.
+
+Presence of eveil eye ties back to a specific point in time which marks introduction of this symbol in the form of [Dread Seal](https://wiki.spiralknights.com/Dread_Seal) as one potentially utilized in owlite magic. The seal magic was encountered previously in a few iterations, but one we are interested in is found in creation of [Avenger](https://wiki.spiralknights.com/Avenger), as it would be created from the [Sealed Sword](https://wiki.spiralknights.com/Sealed_Sword), supposedly being a retrieved [Gran Faust](https://wiki.spiralknights.com/Gran_Faust), `...that hasn't stopped Devilites from treasuring these rare blades even more highly than their meager vacation time`, as it is deeply tied to curse.
+
+The Sealed Sword was sealed with the same [paper dread seal as Lumbers](https://wiki.spiralknights.com/File:Monster-Redward.png), who, [as we discussed](#lumbers-as-constructs), were constructed by gremlins and devilites due to presence of such seals for lumbers' elemental variants.
+
+The nature of Sealed Sword, its upgrades is one of more notable element to the nature of curse overall, as well as more direct depictions of capacity and limits to transform and reapply it in such manner -- such as the Divine Avenger alchemy path.
+
+Application, nature and potential origin of [Dread Seals](https://wiki.spiralknights.com/Dread_Seal) will be covered in consideration of Carnavons, which will be analyzed later in the context of curse.
 
 #### Siege of the Academy
 
-Owlites are related to vengeance, which, considering their relation to valkyries, is fitting (`A resplendent replica of the shield thought to have been issued to the most eminent of Owlite wizards. Wielding it fills you with righteous vengeance` - [Grey Owlite Shield](https://wiki.spiralknights.com/Grey_Owlite_Shield)).
+After the Fallen Valkyrian was banished, after kingdom of Almire had fallen, and after Legion of Ur was sealed, within this relatively stable period of time, as not much is known to happen there, _Kat tribe emerges_.
 
-Kat Tribe, or at least, invasion of the Academy was led by Margrel: `A reclaimed raiment that is brimming with dark energy. It is said to resemble the great Kat Tribe hero, Margrel, the one who opened The Book of Grey Feathers and brought about the Kataclysm. It brings great misfortune to anyone who dares to wear it` ([Black Kat Raiment](https://wiki.spiralknights.com/Black_Kat_Raiment)). It is also known, that not all kats are literate: `It appears that illiteracy is still rampant among the black kat hordes, so they have once more taken to eating the pilfered pages rather than using them for arcane rituals` ([Kataclysmic Confrontation!](https://forums.spiralknights.com/en/node/100025)) and `Black kats are the darkest souls of the former Kat Tribe. They carry the heaviest curse of all and mindlessly seek to devour magical auras. This constant consuming of power makes them incredibly strong. They were likely attracted to the power radiating from the ancient grimoires here in the Archives` ([Kataclysmic Confrontation - Pembrooke](https://wiki.spiralknights.com/Pembrooke#Dialogue)). _General perception of Black Kats makes impression of a metaphorical exchange of mental capacities to raw magical, or curse-driven, powers of Black Kats_, when compared to the Mewkats or [Spookats](https://wiki.spiralknights.com/Spookat#Spookat).
+<!--Owlites are related to vengeance, which, considering their relation to valkyries, is fitting (`A resplendent replica of the shield thought to have been issued to the most eminent of Owlite wizards. Wielding it fills you with righteous vengeance` - [Grey Owlite Shield](https://wiki.spiralknights.com/Grey_Owlite_Shield)).-->
 
-Then there is an establishment of inner structure of their army during the siege of the academy:
+Kat Tribe or at least the invasion of the Academy itself was led by Margrel: `A reclaimed raiment that is brimming with dark energy. It is said to resemble the great Kat Tribe hero, Margrel, the one who opened The Book of Grey Feathers and brought about the Kataclysm. It brings great misfortune to anyone who dares to wear it` ([Black Kat Raiment](https://wiki.spiralknights.com/Black_Kat_Raiment)).
 
-- Frontline soldiers, "Clawers" - `An impressive mask instilled with the might of Kat Clawers, the fearsome frontline fighters of the Kat Tribe` ([Kat Claw Mask](https://wiki.spiralknights.com/Kat_Claw_Mask)) as they are referred as warriors: `A crudely crafted cloak made to resemble a cut-throat warrior of the ill-fated Kat Tribe` ([Kat Claw Cloak]( https://wiki.spiralknights.com/Kat_Claw_Cloak)).
-- Grenadiers, "Seekers" - `An impressive mask instilled with the might of Kat Seekers, the skillful grenadiers of the Kat Tribe` ([Kat Eye Mask](https://wiki.spiralknights.com/Kat_Eye_Mask)), `A crudely crafted cloak made to resemble a crack shot warrior of the ill-fated Kat Tribe` ([Kat Eye Cloak](https://wiki.spiralknights.com/Kat_Eye_Cloak)).
-- Demolition engineers, "Hissers" - `An impressive mask instilled with the might of Kat Hissers, the unstable bombers of the Kat Tribe` ([Kat Hiss Mask](https://wiki.spiralknights.com/Kat_Hiss_Mask)), `A crudely crafted cloak made to resemble a temperamental warrior of the ill-fated Kat Tribe` ([Kat Hiss Cloak](https://wiki.spiralknights.com/Kat_Hiss_Cloak)).
-- Sappers - `A crudely crafted cloak made to resemble a shadowy sapper of the ill-fated Kat Tribe` ([Black Kat Cloak](https://wiki.spiralknights.com/Black_Kat_Cloak)).
-- Sleeper cells, "Nappers" - `An impressive mail instilled with the might of Kat Nappers, the undercover sleeper cell of the Kat Tribe` ([Black Kat Mail](https://wiki.spiralknights.com/Black_Kat_Mail)). This implies presence of Kats, as own species, among Owlites, which would be considered separate from Kat Tribe.
+It is also stated that much of present day Kats are illiterate:
 
-With this, we can identify specialists of the Kat Tribe:
+- `It appears that illiteracy is still rampant among the black kat hordes, so they have once more taken to eating the pilfered pages rather than using them for arcane rituals` ([Kataclysmic Confrontation!](https://forums.spiralknights.com/en/node/100025))
+- `Black kats are the darkest souls of the former Kat Tribe. They carry the heaviest curse of all and mindlessly seek to devour magical auras. This constant consuming of power makes them incredibly strong. They were likely attracted to the power radiating from the ancient grimoires here in the Archives` ([Kataclysmic Confrontation - Pembrooke](https://wiki.spiralknights.com/Pembrooke#Dialogue)).
+
+General perception of Black Kats makes impression of a __metaphysical exchange of mental capacities to raw curse-derived powers__ when compared to the Mewkats or [Spookats](https://wiki.spiralknights.com/Spookat#Spookat), who operate the Moorcroft Manor described as `A mysterious old manor home to a number of restless spirits. Moorcroft Manor appears to act as a station stop for spirits in their travels, however none of them appear to be actually going anywhere in particular` with addition of the [Restless Railroad](https://wiki.spiralknights.com/Angels_from_Antiquity/Restless_Railroad).
+
+Then there is an establishment of structure of their army during the siege of the academy:
+
+- `Clawers`, the frontline soldiers, `An impressive mask instilled with the might of Kat Clawers, the fearsome frontline fighters of the Kat Tribe` ([Kat Claw Mask](https://wiki.spiralknights.com/Kat_Claw_Mask)) as they are referred as warriors: `A crudely crafted cloak made to resemble a cut-throat warrior of the ill-fated Kat Tribe` ([Kat Claw Cloak]( https://wiki.spiralknights.com/Kat_Claw_Cloak)).
+- `Seekers`, the grenadiers, `An impressive mask instilled with the might of Kat Seekers, the skillful grenadiers of the Kat Tribe` ([Kat Eye Mask](https://wiki.spiralknights.com/Kat_Eye_Mask)), `A crudely crafted cloak made to resemble a crack shot warrior of the ill-fated Kat Tribe` ([Kat Eye Cloak](https://wiki.spiralknights.com/Kat_Eye_Cloak)).
+- `Hissers`, the demolition engineers, `An impressive mask instilled with the might of Kat Hissers, the unstable bombers of the Kat Tribe` ([Kat Hiss Mask](https://wiki.spiralknights.com/Kat_Hiss_Mask)), `A crudely crafted cloak made to resemble a temperamental warrior of the ill-fated Kat Tribe` ([Kat Hiss Cloak](https://wiki.spiralknights.com/Kat_Hiss_Cloak)).
+- Sappers, `A crudely crafted cloak made to resemble a shadowy sapper of the ill-fated Kat Tribe` ([Black Kat Cloak](https://wiki.spiralknights.com/Black_Kat_Cloak)).
+- `Nappers`, the sleeper cells of Kat tribe, `An impressive mail instilled with the might of Kat Nappers, the undercover sleeper cell of the Kat Tribe` ([Black Kat Mail](https://wiki.spiralknights.com/Black_Kat_Mail)).
+
+This implies presence of Kats, as own species, among Owlites, which would be considered separate from Kat Tribe.
+
+With this, we can identify notable individuals, specialists of the Kat Tribe:
 
 - Torair, an engineer - `A reclaimed raiment said to resemble the Kat Tribe hero, Torair, who clung to the gates of the Owlite High Academy of Magicks as both it and his explosives burned` ([Kat Hiss Raiment](https://wiki.spiralknights.com/Kat_Hiss_Raiment)).
 - Preowa, grenadier commander - `A reclaimed raiment said to resemble the Kat Tribe hero, Preowa, whose artillery silenced the Grey Feather Tower Sages` ([Kat Eye Raiment](https://wiki.spiralknights.com/Kat_Eye_Raiment)).
 - Scraith, may be identified as a member of initial assault forces, given his equipment matching Clawers' - `A reclaimed raiment said to resemble the Kat Tribe hero, Scraith, first to scale the walls of the Owlite High Academy of Magicks` ([Kat Claw Raiment](https://wiki.spiralknights.com/Kat_Claw_Raiment)).
 
-This suggests a general plan of attack at the academy: _as explosives were planted at the front gates of the academy, it was infiltrated over castle walls, while the artillery was used to target Grey Feather Tower_.
+This suggests a general plan of attack on the academy: _as explosives were planted at the front gates of the academy, it was infiltrated over castle walls, while the artillery was used to target Grey Feather Tower_.
 
 Then, as the academy was breached, Margrel has entered the location where Book of Grey Feathers was held:
 
-- `A cursed cowl that is brimming with dark energy. It is said to resemble the great Kat Tribe hero, Margrel, the one who opened The Book of Grey Feathers and brought about the Kataclysm. It brings great misfortune to anyone who dares to wear it` ([Black Kat Cowl](https://wiki.spiralknights.com/Black_Kat_Cowl))
-- `A reclaimed raiment that is brimming with dark energy. It is said to resemble the great Kat Tribe hero, Margrel, the one who opened The Book of Grey Feathers and brought about the Kataclysm. It brings great misfortune to anyone who dares to wear it` ([Black Kat Raiment](https://wiki.spiralknights.com/Black_Kat_Raiment))
-- `A whisker won from the great Kat Tribe hero, Margrel. They were traditionally worn as a ward against Owlite magics but now represent the triumph of goodly magical arts over evil` ([Wicked Whisker](https://wiki.spiralknights.com/Wicked_Whisker))
+- `A cursed cowl that is brimming with dark energy. It is said to resemble the great Kat Tribe hero, Margrel, the one who opened The Book of Grey Feathers and brought about the Kataclysm. It brings great misfortune to anyone who dares to wear it` ([Black Kat Cowl](https://wiki.spiralknights.com/Black_Kat_Cowl)).
+- `A reclaimed raiment that is brimming with dark energy. It is said to resemble the great Kat Tribe hero, Margrel, the one who opened The Book of Grey Feathers and brought about the Kataclysm. It brings great misfortune to anyone who dares to wear it` ([Black Kat Raiment](https://wiki.spiralknights.com/Black_Kat_Raiment)).
+- `A whisker won from the great Kat Tribe hero, Margrel. They were traditionally worn as a ward against Owlite magics but now represent the triumph of goodly magical arts over evil` ([Wicked Whisker](https://wiki.spiralknights.com/Wicked_Whisker)).
 
-Based on [Black Kat Raiment's design](https://wiki.spiralknights.com/Black_Kat_Raiment) as a cursed armor, [Margrel's design](https://wiki.spiralknights.com/Margrel), [Black Kats' design](https://wiki.spiralknights.com/Grimalkin#Black_Kat), as well as [Seraphynx](https://wiki.spiralknights.com/Seraphynx) battle sprite, we can guess approximate presentation of Kats:
+#### Apperance of Kats
 
-- Coat pattern of [Kat Hiss Cowl](https://wiki.spiralknights.com/Kat_Hiss_Cowl) looks same as the siamese variant of [Seraphynx](https://wiki.spiralknights.com/Seraphynx_(Siamese)).
-- Inverted color scheme of [Kat Eye Cowl](https://wiki.spiralknights.com/Kat_Eye_Cowl) resembles the tabby [Seraphynx](https://wiki.spiralknights.com/Seraphynx_(Tabby)).
+Based on [Black Kat Raiment's design](https://wiki.spiralknights.com/Black_Kat_Raiment) as _a cursed armor of misfortune_, [Margrel's design](https://wiki.spiralknights.com/Margrel), [Black Kats' design](https://wiki.spiralknights.com/Grimalkin#Black_Kat), as well as [Seraphynx](https://wiki.spiralknights.com/Seraphynx) battle sprite appearances, we can gather an approximate image of Kats:
+
+- Coat pattern of [Kat Hiss Cowl](https://wiki.spiralknights.com/Kat_Hiss_Cowl) looks same as the _siamese_ variant of [Seraphynx](https://wiki.spiralknights.com/Seraphynx_(Siamese)).
+- Inverted color scheme of [Kat Eye Cowl](https://wiki.spiralknights.com/Kat_Eye_Cowl) resembles the _tabby_ [Seraphynx](https://wiki.spiralknights.com/Seraphynx_(Tabby)).
 - [Kat Claw Cowl](https://wiki.spiralknights.com/Kat_Claw_Cowl) does not have a relevant fur coat pattern for Seraphynx.
 
-At that, we should note presence of an __antique evil eye symbolism across Kat armor__. Weather the eye symbolism has emerged during alchemy by Spiral Order or was innate property of armors as part of Kat Tribe culture, will be eventually discussed.
+We should note the presence of an __antique evil eye symbolism across Kat armor__. Whether the eye symbolism has emerged during alchemy by Spiral Order or was innate property of armors as part of Kat Tribe culture, will be eventually discussed.
 
 #### Grey Feather Tower
 
-With, supposedly, variation of that equipment, Kat Tribe had invaded Owlite High Academy of Magicks. Discussing the Academy, one particular naming convention of _Grey Feathers_ is present there in 3 instances:
+With, supposedly, variations of that equipment, Kat Tribe had invaded Owlite High Academy of Magicks.
+
+Discussing the Academy, a name of _Grey Feathers_ is present in 3 instances:
 
 - `A reclaimed raiment said to resemble the Kat Tribe hero, Preowa, whose artillery silenced the Grey Feather Tower Sages` ([Kat Eye Raiment](https://wiki.spiralknights.com/Kat_Eye_Raiment)). A tower within the Academy is established.
-- `A cloak for renowned Owlite scholars, this feathery frock is filled with the wisdom of the ages` ([Grey Feather Mantle](https://wiki.spiralknights.com/Grey_Feather_Mantle)) belonging to renowned Owlite scholars, likely those in the Grey Feather Tower.
-- `A cursed cowl that is brimming with dark energy. It is said to resemble the great Kat Tribe hero, Margrel, the one who opened The Book of Grey Feathers and brought about the Kataclysm. It brings great misfortune to anyone who dares to wear it` ([Black Kat Cowl](https://wiki.spiralknights.com/Black_Kat_Cowl)).
+- `A cloak for renowned Owlite scholars, this feathery frock is filled with the wisdom of the ages` ([Grey Feather Mantle](https://wiki.spiralknights.com/Grey_Feather_Mantle)) belonging to renowned Owlite scholars, most certainly those in the Grey Feather Tower.
+- `A cursed cowl that is brimming with dark energy. It is said to resemble the great Kat Tribe hero, Margrel, the one who opened The Book of Grey Feathers and brought about the Kataclysm. It brings great misfortune to anyone who dares to wear it` ([Black Kat Cowl](https://wiki.spiralknights.com/Black_Kat_Cowl)). A tome itself is established.
 
-We will attempt to locate Grey Feather Tower, considering the medieval castle-like theme of heavenly kingdom and of Owlites, onto the general medieval, 9-15th century castle plan with considerations of the tower's purpose. The case of Kat Tribe utilizing artillery may suggest a period of time with an upper boundary, which parallels more widespread application of artillery in sieges of castles. Due to this we should also reconsider a time period of gunslinger priests' establishment, to whom we will return later.
+We will attempt to locate Grey Feather Tower, considering the mediavalistic motifs and castles of heavenly kingdom and of Owlites, onto the general medieval, 9-15th century castle plan with considerations of the tower's purpose. The case of Kat Tribe utilizing artillery may suggest a period of time with an upper boundary which parallels more widespread application of artillery, even if magical one, in sieges of castles.
 
-Under this logic we can suggest 2 places for the tower: as one to the castle's dungeon, usually the highest tower to house most of castle's army, or the central keep itself. The keep is the most protected, inner structure of the castle, wherein castle's ruler chambers, living quarters, and treasury are located. The dungeon is predominantly used as the quarters and armory for the castles army.
+Under this logic we can suggest 2 places for the tower: as one to the castle's dungeon, usually the highest tower to house most of castle's army, or the keep itself. The keep is the most protected, inner structure of the castle, wherein castle's living quarters and the treasury are. The dungeon is predominantly used as the quarters and armory for the castles army.
 
-But, as the aesthetics of the narrative and depth-dependant design are paramount here, same as the design of Firestorm Citadel - that of the general idea of the Owlite Academy being a castle-like structure, we would not focus of this detail apart from the location of the Book of Grey Feathers, but rather relations between known items, equipment and descriptions.
+But, as the aesthetics of the narrative and depth-dependant design are paramount here, same as the design of Firestorm Citadel -- that of the general idea of the Owlite Academy being a castle-like structure, we would not focus of this detail apart from the location of the Book of Grey Feathers, but rather relations between known items, equipment and descriptions.
 
-Although coincidentally, the location of the academy is referred to as the Candlestick Keep, which may potentially refer to the keep of the academy being the location Knights were traversing, potentially even Grey Feather tower itself. So far we have no evidence to precisely identify its details. As there are spookats inhabiting the keep, we may suggest that the moment Kataclysm struck, those members of Kat Tribe were still in the academy.
+Although coincidentally, the location of the academy is referred to as the Candlestick _Keep_ which may potentially refer to the keep of the academy being the location Knights were traversing, potentially even Grey Feather tower itself while the rest of the academy is located elsewhere. As there are spookats inhabiting the keep, we may suggest that the moment Kataclysm struck, those members of Kat Tribe were still in the academy, including Margrel.
+
+While being a speculation, if prior motif of Clockwork Consoles -- as being placed behind throne rooms of the castles, which may have been the central location of those corresponding civilizations, -- were to be applied to the Owite Academy as it is a castle with curse-sourced danger, would it thematically fit?
 
 #### Nature of Owlite Tomes
 
-At that, considering the following events of Kataclysm, and the motif of a [single item capable of exiting in its multiple iteration through alchemy although under different names](#vanadukes-mask-and-immortality-through-curse), we can hypothesize, that _the Book of Dark Rituals is the very Book of Grey Feathers_, considering the scope of the effects it causes when [ill-used in the Moorcroft Manor](#moorcroft-manor-past-heavenly-kingdom).
+Considering the following events after Kataclysm and the motif of a single item, Lord Vanaduke's Mask, [capable of exiting in its multiple iteration through alchemy although under different names](#vanadukes-mask-and-immortality-through-curse), we can hypothesize, that _the Book of Dark Rituals is the very Book of Grey Feathers_, considering the scope of the effects it causes when [ill-used at the ritual circle of Moorcroft Manor](#moorcroft-manor-past-heavenly-kingdom).
 
 Despite this vagueness, we can suggest, that _the location of the Book of Grey Feathers was in the Grey Feather Tower_, given its naming convention. It is then the book itself, whose nature and abilities remain unknown:
 
