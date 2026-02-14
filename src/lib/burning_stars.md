@@ -5207,13 +5207,13 @@ And as all of Owlite equipment of that alchemy tree has elemental defense, __dis
 
 We do not know whether Owlites have derived most of elemental gear from this discovery, or the discovery of a separate realm has followed later. As of currently Owlite academy was experimenting with many elements which, compared to the valkyrian army, led to Owlites' academy _uniforms being protected from both fire and shock_ -- elements to which _Valkyries were particularly weak_.
 
-#### Forgotten Time: Part 2
+#### Forgotten Time: Part 2: Radiance of Griffon
 
 With those working assumptions we can begin building a vague timeline, wherein:
 
 1. There would be Spiral Wardens. Spiral Wardens are to be transformed into trojans.
 2. Valkyries as celestial beings have started from fighting undead moved to combatting fiends in the Underworld while utilizing elemental damage for hunting undead and piercing damage for fiends.
-3. A period of Gunslinger Priests would establish a bridge between themes of fighting Undeath to opposing Underworld with piercing damage.
+3. A period of Gunslinger Priests would establish a bridge between themes of fighting Undeath to opposing Underworld with piercing damage directly.
 
 Above scenarios involve a starting event, which would allow for this potential progression to happen, including the event of Isorans transforming to trojans as a major event which would tie with trojans accompanying Lord Vanaduke, eventually being sealed by Valkyries in the Underworld.
 
@@ -5221,11 +5221,15 @@ Above scenarios involve a starting event, which would allow for this potential p
 
 While we have left relation of Owlites and Valkyries to celestial and angelic beings, [Seraphynx](https://wiki.spiralknights.com/Seraphynx), despite being a Kat battle sprite, also possesses a theme of divinity through its physiology, name, and skills, such as `Angelic Aura` which can be turned into `Seraphic Aura` or `Valkyrian Aura`.
 
-Due to aforementioned discrepancy of [Raiment](https://wiki.spiralknights.com/Raiment_(Costume)), `A long, flowing battle garb best accessorized with a pair of angelic wings`, it seemingly frames Valkyries as separate from Owlites, as the latter species already bear large wings. We would propose, that the description of [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin): `A beautiful pistol named after a great, noble beast. Its golden frame was believed to provide light within the impenetrable darkness of the Underworld` allows for a different species to exist which are __griffons -- `great, noble beast`, semi-draconic ancestors of Valkyries evolving from wyverns__. This evaluation of griffons would allow for less one-sided resolution within handguns' designs.
+Due to aforementioned discrepancy of [Raiment](https://wiki.spiralknights.com/Raiment_(Costume)), `A long, flowing battle garb best accessorized with a pair of angelic wings`, it seemingly frames Valkyries as separate from Owlites, as the latter species already bear large wings. We would propose, that the description of [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin): `A beautiful pistol named after a great, noble beast. Its golden frame was believed to provide light within the impenetrable darkness of the Underworld` allows for a different species to exist, which would allow for a simultaneous resolution and connection of multiple narratives.
 
-This trajectory would allow to not only make a correspondence to tortomega, tortoises, drakes, and dragons, but account for thematic discrepancies within heavenly kingdom itself as showed above -- as then, through _bloodline ancestry from dragons_, we would arrive to a [creation myth](#creation-myth-dragons-as-cosmic-progenitors) where, even being deities, descendants of primordial deities, for this cosmlogy being dragons, the celestial beings, Valkyries, or rider gods -- the descendants of dragons, supercede the prior generation of gods by being related to them by ancestry through wyverns and griffons.
+There would be __griffons -- semi-draconic ancestors of Valkyries evolving from wyverns and posessing radiance of the same origin as the Celestial Ore__. It would cahracterize griffon as a `celestial being` on par with Valkyries.
 
-#### Owlite Research of Undeath
+This evaluation of griffons would allow for less one-sided resolution within handguns' designs.
+
+This trajectory would allow to not only make a correspondence to tortomega, tortoises, drakes, and dragons, their motifs of thaunder and rage, but account for thematic discrepancies within heavenly kingdom itself as showed above -- as then, through _bloodline ancestry from dragons_ we would arrive to a [creation myth](#creation-myth-dragons-as-cosmic-progenitors) where, even being deities, descendants of primordial dragons -- _the descendants of dragons, the celestial beings, Valkyries, or rider gods, supercede the more ancient gods by being related to them by ancestry through wyverns and griffons_.
+
+##### Owlite Approach to The Divine
 
 Owlites also have researched ancient power of wind frenzy, finalized in the invention of the [Turbillion](https://wiki.spiralknights.com/Turbillion), as suggested by presence of the [Owlite Feathers](https://wiki.spiralknights.com/Owlite_Feather) in its alchemy.
 
@@ -5233,129 +5237,135 @@ Owlite more magic-directed armor and shields were designed to protect against sp
 
 Alchemy at that point has also been a commnly known principle, as its symbol, or rather, symbol of the Orb of Alchemy [is depicted](https://wiki.spiralknights.com/images/9/92/Divine_Tome_of_Rage-Equipped.png) on the [tome of rage front cover](https://wiki.spiralknights.com/Tome_of_rage).
 
-#### Forgotten Time: Part 3
+Taking in cosnideration Owlites' exiting [themes and motifs](#gear-of-heavenly-kingdom), they may be seen as ones to attempt re-establish a connection with the divine through scientific means, eventually uncovering the Nameless Realm --  a __change from myth-driven character of Valkyries and direct connection with the divine__.
 
-In [part 2 of Forgotten Time](#forgotten-time-part-2) we established a _griffon_ -- a divine entity and a descendant of aerial wyverns which we derived of the [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin) handgun, `A beautiful pistol named after a great, noble beast. Its golden frame was believed to provide light within the impenetrable darkness of the Underworld`.
+#### Forgotten Time: Part 3: Guardian Motif
+
+We [have identified](#forgotten-time-part-2-radiance-of-griffon) a _griffon_ -- a divine entity and a descendant of aerial wyverns with power to suppress darkness of Underworld.
 
 Yet, on the handgun itself there are dragons depicted, while only [Argent Peacemaker](https://wiki.spiralknights.com/Argent_Peacemaker) and [Sentenza](https://wiki.spiralknights.com/Sentenza) alchemy paths bear a creature with a beak at the end of gun's barrel.
 
-Here, [Raptor](https://wiki.spiralknights.com/Raptor), a predecessor of [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin) is also designed with dragons and named after a similar creature, while being designed for ventures into the Underworld: `An ancient pistol imbued with enchantments designed to smite the fiendish creatures of the Underworld` ([Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin)). It utilizes nature of dragons as divine in opposition to Underworld.
+Here, [Raptor](https://wiki.spiralknights.com/Raptor), a predecessor of [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin) is also designed with dragons and named after a similar creature, while being designed for ventures into the Underworld: `An ancient pistol imbued with enchantments designed to smite the fiendish creatures of the Underworld` ([Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin)).
 
 The key 2 elements of this branch of Antigua alchemy tree are the _draconic design_ and _direct creation of the handguns to fight fiends of the Underworld_ as evident by their description, linking dragons to peircing damage, as well as introducing griffins as an ancient species with a similar cultural imprint of divinity.
 
-Those who wielded those handguns did witness the Underworld and likely -- due to its description -- had descended there. In that regard, the change from raptor to griffin may exist due to currently unidentified resason.
+Those who wielded those handguns did witness the Underworld and likely, due to its description, had descended there. In that regard, the _change from raptor to griffin may exist due to currently unidentified resason_.
 
-We must reinstate a similar design in the Spiral Order battle sprite menu, where _2 dragon heads_ are depicted, __reminiscent of the arches of Scarlet Fortress__, belonging to heavenly kingdom. This ties in with seemingly mythological position of dragons in Isoran culture, covered ealier in relation to their armors. And if so, this pattern being applied to Antigua-derived handguns, seems us as an argument for a proposal, that __both civilizations are united by the common themes, designs, and motifs__ while existing in a similar period of time far into the past, as per our proposal of ancient Spiral Wardens existing below heavenly kingdom.
+<!--We must reinstate a similar design in the Spiral Order battle sprite menu, where _2 dragon heads_ are depicted, __reminiscent of the arches of Scarlet Fortress__, belonging to heavenly kingdom. This ties in with seemingly mythological position of dragons in Isoran culture, covered ealier in relation to their armors. And if so, this pattern being applied to Antigua-derived handguns, seems us as an argument for a proposal, that __both civilizations are united by the common themes, designs, and motifs__ while existing in a similar period of time far into the past, as per our proposal of ancient Spiral Wardens existing below heavenly kingdom.-->
 
 Then there are Antigua upgrades with imagery of a bird:
 
 - `...these handguns are said to have been wielded by 'gunslinger priests' during a now forgotten time` ([Silversix](https://wiki.spiralknights.com/Silversix)). The theme of divinity connected to those priests here was linked to [Silvermail](https://wiki.spiralknights.com/Silvermail).
 - `Its bullets serve as ushers for those that refuse to leave this world` ([Argent Peacemaker](https://wiki.spiralknights.com/Argent_Peacemaker)). It is an upgrade of [Silversix](https://wiki.spiralknights.com/Silversix), and serves the same purpose to combat undead, with a distinguishing description of them being: `those that refuse to leave this world`.
 
-  Owlite [Philoso Feather](https://wiki.spiralknights.com/Philoso_Feather) in its crafting is notable, either being created by Owlites, or is the assumption of an existing thematic link between Valkyries and role of Owlites.
+  Owlite [Philoso Feather](https://wiki.spiralknights.com/Philoso_Feather) in its crafting is notable, either being created by Owlites, or is the assumption of an existing thematic link between Valkyries and role of Owlites as relating to undeath.
 
-  As it is an upgrade of a handgun, denitely weilded by Gunclinger Priests, we can assume this gun was, too, engineered for the same purposes.
+  As it is an upgrade of a handgun weilded by Gunslinger Priest, we can assume this gun was, too, engineered for the same purpose.
 
 - `A shadow-aligned handgun of incredible power, its said to contain the soul of a knight who was only two days from retirement` ([Blackhawk](https://wiki.spiralknights.com/Blackhawk)). This handgun in particular has a few elements to it:
 
   - It was wielded by a knight, we keep in mind knight which were wearing [Silvermail](): `Strong, yet light armor for knights who've sworn an oath to hunt down and destroy the undead, wherever it may lurk`, allowing for a new link between knights and handguns.
   - The [haunting](#haunting) as a tangible process, exists with involvement of souls bound to physical objects. In similar manner, souls are bound to skulls and [masks](#vanadukes-mask-and-immortality-through-curse).
-  - The `shadow-aligned handgun of incredible power` wording states the nature of the handgun, as it deals shadow damage, but also suggests that shadow damage is that `incredible power`, considering this damage type being far more unnatural compared to the rest which is fitting for modern Isorans: ` powerful handgun brimming with dark energy. The Phantamos represents one of the most recent additions to the Spiral Knight's arsenal, as containing shadow energy of this degree took a great deal of research` ([Phantamos](https://wiki.spiralknights.com/Phantamos)).
+  - The `shadow-aligned handgun of incredible power` wording states the nature of the handgun, as it deals shadow damage, but also suggests that shadow damage is that `incredible power`, considering this damage type being far more unnatural compared to the rest which is fitting for modern Isorans: `...powerful handgun brimming with dark energy. The Phantamos represents one of the most recent additions to the Spiral Knight's arsenal, as containing shadow energy of this degree took a great deal of research` ([Phantamos](https://wiki.spiralknights.com/Phantamos)).
   - The bird imagery, now identified as griffin.
 
-- `An ancient handgun forged from shadow steel. It is said to have been wielded by an evil one who possessed "angel eyes"` ([Sentenza](https://wiki.spiralknights.com/Sentenza)). Shadow steel originates from the Underworld, and, as the handgun's design suggests, it was made near the same period of time as all of the above - with the hawk imagery. This notion can link this handgun to the [Armor of the Fallen](https://wiki.spiralknights.com/Armor_of_the_fallen), _as equipment of Valkyrian design, yet opposing to them_. But, as the western motif is present both for armor and a handgun, it had to be accounted for.
-- The [Chilling Duelist](https://wiki.spiralknights.com/Chilling_Duelist) is of the same design as the rest of Antigua alchemy tree, with the addition of ice, which may be attributed to elemental materials the gun is alchemized from. It is acquired from the [Deluxe Starter Pack](https://wiki.spiralknights.com/Deluxe_Starter_Pack), which also contains [Tri-Guard Set](https://wiki.spiralknights.com/Tri-Guard_Armor): `A special suit of armor designed specifically for knights on first recon of alien planets. This rugged suit protects against a variety of harsh elements`. The armor seems more medieval compared to the rest, which might _attribute it to an earlier period of time of Isoran history_ so slightly.
+- `An ancient handgun forged from shadow steel. It is said to have been wielded by an evil one who possessed "angel eyes"` ([Sentenza](https://wiki.spiralknights.com/Sentenza)). Shadow steel originates from the Underworld, and, as the handgun's design suggests, it was made near the same period of time as all of the above -- with the griffin imagery. This notion can link this handgun to the weilder of [Armor of the Fallen](https://wiki.spiralknights.com/Armor_of_the_fallen), _as equipment of Valkyrian design, yet opposing to them_. But, as the western motif and inspiration is present for the handgun nontheless, so it had to be accounted for.
+- The [Chilling Duelist](https://wiki.spiralknights.com/Chilling_Duelist) is of the same design as the rest of Antigua alchemy tree, with the addition of ice, which may be attributed to elemental materials the gun is alchemized from. It is acquired from the [Deluxe Starter Pack](https://wiki.spiralknights.com/Deluxe_Starter_Pack), which also contains [Tri-Guard Set](https://wiki.spiralknights.com/Tri-Guard_Armor), `A special suit of armor designed specifically for knights on first recon of alien planets. This rugged suit protects against a variety of harsh elements`. The armor's design seems more intricate compared to the rest, which might attribute it to a slightly earlier period of time of Isoran history.
 
-It seems to us clearly, that Valkyrian society, culture, customs, traditions and beliefs, reflected in their designs, __are identical to ones of Isorans of Spiral Order__. Given later motif of Isorans as guradians against danger of darkness, Sleeper spoken of, we can further _tether two civilizations_, weather or not those were the same species.
+It is evident at that point that __Valkyrian society, culture, customs, traditions and beliefs__, reflected in their designs, __are identical to Isoran of Spiral Order__.
+
+Given later motif of Isorans as guradians against danger of darkness, Sleeper spoken of, we can further _group those two civilizations_.
 
 Considering the thematic element to gunslinger sets and Antigua alchemy tree, as they explicitly refer to a forgotten time, we have to examine 2 scenarios:
 
-- Isorans were already familiar with the Underworld, and had forgotten of it as Spiral Order. They would also forget elemental damage, as it is one introduced currently by Owlites under interrpretation of Isorans being separate species from Valkyries.
-- As [Avenger](https://wiki.spiralknights.com/Avenger) is alchemized from the Sealed Sword, which is exchanged for Slime Token, same as [Antigua](https://wiki.spiralknights.com/Antigua), whose alchemy tree refers to a forgotten time and seem to belong it: `A mysterious relic from a forgotten time`, we have to link _Forgotten Time to be specifically characterized by Gunslinger Priests_.
+- Isorans were already familiar with the Underworld, and had forgotten of it as Spiral Order. They would forget of elemental damage of magic, and be reminded of it through Owlites. This _forgetfullness would be the reason for that period of time to be named the Forgotten Time_.
+- As [Avenger](https://wiki.spiralknights.com/Avenger) is alchemized from the Sealed Sword, which is exchanged for Slime Token, same as [Antigua](https://wiki.spiralknights.com/Antigua), whose alchemy tree refers to a forgotten time and seem to belong it, `A mysterious relic from a forgotten time`, we can link Forgotten Time to be specifically characterized by _Gunslinger Priests closely associated with Valkyries_.
 
-At that, presence of western-themed equipment makes it more nuanced regarding the identity of gunslinger priests during the Forgotten Time. We return to the potential of Isorans being involved in this distinction of griffin and dragon-like designs of handguns, as the potential catalyst for those events for Valkyries.
+Presence of western-themed equipment makes it more nuanced regarding the identity of gunslinger priests during the Forgotten Time. We will then return to the potential of Isorans being involved in this distinction to griffin and dragon designs of handguns.
 
 ##### Gunslingers From Isora
 
-It is evident that at least [gunslinger sash](https://wiki.spiralknights.com/Gunslinger_Sash) and [Antigua](https://wiki.spiralknights.com/Antigua) are connected. Both have a reference to a forgotten time and both being low-tech equipment from a different time.
+It is evident that at least [Gunslinger Sash](https://wiki.spiralknights.com/Gunslinger_Sash) and [Antigua](https://wiki.spiralknights.com/Antigua) are connected. Both have a reference to a forgotten time and both being low-tech equipment from a different time.
 
-This makes it seem that Forgotten Time is referring to Isorans mainly due to occasional mention of knights and general thematic attribution of guns to Spiral Order rather than valkyries. __In this interpretation forgotten time presumes Isora  to be the setting before establishment of Spiral Order__.
+This makes it seem that Forgotten Time is referring to Isorans mainly due to occasional mention of knights and general thematic attribution of guns to Spiral Order rather than Valkyries.
+
+__In this interpretation, Forgotten Time is presumed to be the setting on Isora before establishment of Spiral Order__.
 
 Two questions emerge for this interpretation:
 
-- If spirits are known to return to material realm _as an unnatural phenomenon_, how undead managed to exist on Isora, unless it has similar metaphysic properties to Cradle?
+- Why modern Isorans would forget an entire period of time characterized by advanced understanding of Underworld and its metaphysics tied to divinity and mmanifested through undeath?
+- Relation between Underworld and griffins remains unknown, while dragons were established to be present on Isora.
 
-    If it is on Isora, [and as we had discussed](#cradle-metaphysics) a potential case of Core only allowing for spirits to return _in large scale_, the rest of those laws would remain the same and localized to specific phenomenon involving Underworld's presence. But, this suggestion still would not explain the reason why modern Isorans would forget an entire realm, while interacting with its physics on their supposed homeworld.
+    Angelic motif in Sentenza's description then becomes unrelated to the [Armor of the Fallen](https://wiki.spiralknights.com/Armor_of_the_Fallen): `It is said to have been wielded by an evil one who possessed "angel eyes"` ([Sentenza](https://wiki.spiralknights.com/Sentenza)) which makes the _cultural reference central to handgun's identity rather than being integrated adn reflected in-universe_.
 
-- Relation between Underworld and griffins remains unknown while dragons were established to be present on Isora.
-
-    At that, angelic motif in Sentenza's description then becomes unrelated to the [Armor of the Fallen](https://wiki.spiralknights.com/Armor_of_the_Fallen): `It is said to have been wielded by an evil one who possessed "angel eyes"` ([Sentenza](https://wiki.spiralknights.com/Sentenza)), which makes the cultural refernce not being reflected in-universe.
-
-    This popular culture-based explanation, we believe, should be able to function within the in-universe narrative by coupling armor and a handgun. If we attribute those items to Valkyries, we would decouple thematically grouped equipment to 2 different civilizations.
+    This popular culture-based explanation, we believe, should be able to function within the in-universe narrative through integration of those references into the setting. If we attribute those items to Valkyries, we would decouple thematically grouped equipment to 2 different civilizations.
 
 Valkyries are brought up here due to the most interaction with Underworld. Presented designs for the most part of the item roster _do not fit to the divine themes of valkyries_. Then it should be __Isorans, whose past was forgotten__ and who had to wield such equipment, as seen by mastery of guns amongst Spiral Order, as well as mention of forgotten time only in descriptions, alluding to the prior concept of those being written by Spiral Order.
 
-There must be a _reason behind this time being labeled as forgotten_. It can be attributed to a sheer timescale Isorans have existed as a spacefaring civilization, as evident by gear of [Equinox Prize Box](https://wiki.spiralknights.com/Equinox_Prize_Box) described in the [spacefarers of old section](#spacefarers-of-old):
+There must be a _reason behind this time being labeled as forgotten_. It can be attributed to a sheer timescale Isorans have existed as a spacefaring civilization.
 
-- `A special suit built to commemorate Isoran starfarers of old` ([Celestial Nav Suit](https://wiki.spiralknights.com/Celestial_Nav_Suit)).
-- `This suit was once worn by Isoran starfarers of eons long passed that stood watch over extrasolar operations` ([Stellar Sentinel Suit](https://wiki.spiralknights.com/Stellar_Sentinel_Suit)).
+_We can speculate_ that as Isorans have existed for so long, they had forgotten both elemental and shadow damage prevalent in the less technologically advanced era compared to presence of alchemy from that period of time, while other areas assocaited with the occult and magic in the modern world are not widely known, being considered lost knowledge.
 
-We can propose, that, as Isorans have existed for so long, they forgotten both elemental and shadow damage prevalent in the less technologically advanced era to how alchemy is a tool, while occultism and magic in the modern world are not widely known, being lost knowledge.
+But there is also a different interpretation. If gunslingers are Isorans, this would mean that _they had interacted with Underworld_ which would not be forgotten as long as those species exist, as seen by previous iterations of Underworld interacting with the material realm. Shadow damage in that regard remains as vague as it was for other civilizations when compared to _definitive state of elemental damage_ as thoroughly studied by multiple parties and attributed to base alchemical elements as status effects.
 
-But there is also a different interpretation. If gunslingers are Isorans, this would mean that they had interacted with Underworld, which would not be forgotten as long as species exists, as seen by previous iteration of Underworld interacting with the material realm. Shadow damage in that regard remains more as vague as it was for other civilizations when compared to definitive state of elemental damage as thoroughly studied and attributed to base alchemical elements as status effects.
+The lack of awareness of Underworld for modern-day Isorans makes it seem to us that they did not encounter Underworld.
 
-The lack of awareness of Underworld for modern-day Isorans makes it seem to us that they did not encounter Underworld. But, _as we discussed_ [earlier](#spiral-wardens-and-trojans-similarity-part-1), __Spiral Wardens are ones to be the foundation for the trojans of the Legion of Ur__, so at some point a _prolonged connection was established_. At the same time Valkyries are required to seal those trojans, connecting Isorans to Valkyries.
+Yet _as we have discussed_ [earlier](#spiral-wardens-and-trojans-similarity-part-1), __Spiral Wardens are ones to be the foundation for the trojans of the Legion of Ur__, so, at some point, a _prolonged connection to Underworld was established_. At the same time Valkyries are required to seal those trojans, connecting Isorans to Valkyries.
 
 There is also Fallen Valkyrian, whose deeds had him banished (`A cursed suit of armor once worn by a celestial being cast down from paradise` - [Armor of the Fallen](https://wiki.spiralknights.com/Armor_of_the_fallen)). Due to that we see a connection between all of 3 parties:
 
-- Isorans would encounter Underworld by the time of Spiral Order or at least Spiral Wardens were present, as Wardens were transformed into trojans, a phenomenon observed for Arkus.
-- Trojans are sealed in the Underworld by Valkyries. Trojans are created from Wardens by Underworld.
+- Isorans would encounter Underworld by the time of Spiral Order or at least Spiral Wardens were present, as Wardens were transformed into trojans.
+- Trojans are sealed in the Underworld by Valkyries.
 - Underworld remains unknown to Skylark crew and Isorans in general.
-- Fallen Valkyrian somehow involved with those events. Given our proposal of [Trojan Horseshoe](https://wiki.spiralknights.com/Trojan_Horseshoe) significance to Valkyrian recipes, Fallen Valkyrian has all of chances to be involved in this plot, weather or not Fallen was one of the same species to Isorans, the punishment would follow.
+- Fallen Valkyrian was involved with those events. Given our proposal of [Trojan Horseshoe](https://wiki.spiralknights.com/Trojan_Horseshoe) significance to Valkyrian recipes, Fallen Valkyrian has all of chances to be involved in this plot.
 
-Here, this connection is probable through the alchemy path of Gilded Griffin, as its wielders had potentially been in the Underworld, as implied by the myth of a griffin shining a light on the Underworld.
+Considering knights had remained as such, named as knights, the change in design of their military units under this narrative seems unlikely, leaving a room for Spiral Wardens to exist so far in the past.
 
-Considering knights had remained as such, named as knights, the change in design of their military units under this narrative seems unlikely, leaving a room for Spiral Wardens, or simply wardens, to exist so far in the past. The prior idea could be also supported by the more medieval design of tier 1 trojans, where we discussed the usage of redwood in their armor.
+This proposal still would not explain a lack of connection to the Underworld on Isora, __unless Forgotten Time was relating to presence of Isorans on planet before Cradle__.
 
-This proposal still would not explain the state of spirits in material realm on Isora and a lack of connection to the Underworld, but, it presents a [weird west](https://tvtropes.org/pmwiki/pmwiki.php/Main/WeirdWest) __setting for gunslinger priests, which seems extremely fitting__. _It is due to this thematic consistency, presence of Isorans should be accounted for_.
+Furethermore, such narrative of low technology, gunfights, magic, and undeath presents a [weird west](https://tvtropes.org/pmwiki/pmwiki.php/Main/WeirdWest) __setting for gunslinger priests__.
 
 ##### Pre-Cradle Scenario
 
-A variation of this proposal that explains gunslingers' nature, but also presence of undead and fiends - is the pre-Cradle scenario, wherein gunslingers are from a planet, which was used to build Cradle, and the one, [where the kingdom of Almire would fall](#chapter-vii-kingdom-of-almire).
+A variation of this proposal that explains gunslingers' nature, but also presence of undead and fiends, is the pre-Cradle scenario, wherein gunslingers are from a planet, which was used to build Cradle, and the one, [where the kingdom of Almire would fall](#chapter-vii-kingdom-of-almire).
 
-_It characterizes western-themed gunslingers, as separate from gunslinger priests, to Isorans_, but allows for them to encounter Underworld. It is the case of Isorans arriving at the same planet where Almire and Raiders would be present, as civilization, emerging from those first-generation Isorans, while still allowing a room for their transformation to trojans.
+_It characterizes western-themed gunslingers as potentially separate from gunslinger priests_, but allows for them to encounter Underworld. It is the case of Isorans arriving at the same planet where Almire and Raiders would be present, as civilization, emerging from those first-generation Isorans, while still allowing for their transformation to trojans.
 
-Presence of fiendish technology or magic, such as the [Blackened Shrine](#blackened-shrine-and-magma-deity), would only be fitting, as this would be framed as a continuation of myths, found across Isoran culture even in modern times, potentially originating from Isora, such case being [Oni Helm](https://wiki.spiralknights.com/Oni_Helm): `this helm is in the visage of a fiend who lives in the mountains of a distant land. Said to guard the gate to heaven itself, it only allows those who are worthy to pass`.
+Presence of fiendish technology or magic, such as the [Blackened Shrine](#blackened-shrine-and-magma-deity), would only be fitting, as this would be framed as a continuation of myths, found across Isoran culture even in modern times -- __originating from Isora__, such case being [Oni Helm](https://wiki.spiralknights.com/Oni_Helm): `this helm is in the visage of a fiend who lives in the mountains of a distant land. Said to guard the gate to heaven itself, it only allows those who are worthy to pass`.
 
-This case would require elaboration on [Sentenza](https://wiki.spiralknights.com/Sentenza), as presence of shadow steel would seal a connection of material realm and Underworld in relation, now, to Isorans. If so, [Shadowsun set](https://wiki.spiralknights.com/Shadowsun_slicker) and its usage of shadow steel is paired with other shadow-aligned equipment, perpetuated by the Fallen Valkyrian in means of introducing shadow damage and resources from the Underworld.
+This case would require elaboration on [Sentenza](https://wiki.spiralknights.com/Sentenza), as presence of Shadow Steel would seal a connection of material realm and Underworld relative to Isorans.
+
+If so, [Shadowsun set](https://wiki.spiralknights.com/Shadowsun_slicker) and its usage of Shadow Steel is paired with other shadow-aligned equipment would not be though of as alien to the narrative nor its themes.
 
 To those shadow-aligned guns we have attribute [Blackhawk](https://wiki.spiralknights.com/Blackhawk), in this context, it would suggest, that this alignment to shadow was more widespread than it seems (`A shadow-aligned handgun of incredible power, its said to contain the soul of a knight who was only two days from retirement` - [Blackhawk](https://wiki.spiralknights.com/Blackhawk)).
 
-On the contrary, [Deadshot Mantle](https://wiki.spiralknights.com/Deadshot_Mantle) has shadow defenses, but is not attributed to any fiendish entity, having divine color scheme. _It also has curse resistance_. Its description, `A poncho for a pale rider with sights set on taking down the bad, ugly, undead denizens of the dark` - we suspect, refers both to undead and fiends, making it the set, plausible for pairing with [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin) _alchemy line_: `A beautiful pistol named after a great, noble beast. Its golden frame was believed to provide light within the impenetrable darkness of the Underworld`. Given prior discussion on presence of both motifs to this handgun, this seems to be a transitory point, alluding both to Valkyries and Isorans as ones to meet each other diring Forgotten Time.
+On the contrary, [Deadshot Mantle](https://wiki.spiralknights.com/Deadshot_Mantle) has shadow defenses, but is not attributed to any fiendish entity, having divine color scheme. _It also has curse resistance_. Its description, `A poncho for a pale rider with sights set on taking down the bad, ugly, undead denizens of the dark` ([Deadshot Mantle](https://wiki.spiralknights.com/Deadshot_Mantle)), we suspect, refers both to undead and fiends, making it the set, plausible for pairing with [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin) _alchemy line_: `A beautiful pistol named after a great, noble beast. Its golden frame was believed to provide light within the impenetrable darkness of the Underworld`. Given prior discussion on presence of both motifs to this handgun, this seems to be a transitory point, alluding both to Valkyries and Isorans.
 
-Apart from the color scheme, [Deadshot Mantle](https://wiki.spiralknights.com/Deadshot_Mantle) design is reminiscent of [Divine Mantle](https://wiki.spiralknights.com/Divine_Mantle), with both labeled as mantles, and not ponchos or cloaks. At that, one more similarity exists between them, of the circular spiral imagery:
+Apart from the color scheme, [Deadshot Mantle](https://wiki.spiralknights.com/Deadshot_Mantle) design is reminiscent of [Divine Mantle](https://wiki.spiralknights.com/Divine_Mantle), with both labeled as mantles, and not ponchos or cloaks. A _circular spiral imagery_ is present across both designs:
 
-- [Divine Mantle](https://wiki.spiralknights.com/File:Divine_Mantle-Equipped.png) has on its front has 2 spiral circles at the bottom of the garb's symbol.
+- [Divine Mantle](https://wiki.spiralknights.com/File:Divine_Mantle-Equipped.png) has on its front 2 spiral circles at the bottom of the garb's symbol.
 - [Deadshot Mantle](https://wiki.spiralknights.com/File:Deadshot_Mantle-Equipped.png) has the same as above spiral circles but at the bottom front of the mantle instead of the garb.
 
-So far, the __keystone design element to this distinction is tied to 2 groups of handguns__:
+We propose, that __key design element to this distinction is tied to 2 groups of handguns__, as it reflects their weilders:
 
-- Handguns with the __depiction of dragons__ are _relating to Isoran culture_, those are regular knights. Divine aspect here is linked to the lesser celestial motif of Isoarans.
-- Handguns with the __depiction of griffins__ are a _product of Valkyrian culture_ and connected to dragons' descendants, griffins.
+- Handguns with the __depiction of dragons__ _relate to Isoran culture_. Divine aspect here is linked to the lesser celestial motif of Isorans.
+- Handguns with the __depiction of griffins__ are a _influenced by Valkyrian culture_ and connected to dragons' descendants, griffins.
 
-This distinction reminds us of [different depictions of the evil eye](#evil-eye) by Devilites and Titans.
+This speculative distinction is reminiscent of the [different depictions of the evil eye](#evil-eye) by _Devilites and Tortomega_.
 
 ##### Valkyrian Gunslingers
 
 As many promotional items are seen in the context of Spiral Order and Isorans equipping them, same can be told of gunslinger items.
 
-At the same time, no piercing damage weaponry currently exists, which could be attributed to valkyries, assuming, they had both close and ranged combat techniques.
+At the same time, no piercing damage weaponry currently exists, which could be attributed to Valkyries, assuming, they had both close and ranged combat techniques.
 
-In this interpretation [Avenger](https://wiki.spiralknights.com/Avenger) had to be created already with the knowledge of curse and of sealing, to be utilized to fight undead. Since Valkyries are ones to seal Legion of Ur, we can position this skill at least by that that moment in the timeline.
+In this interpretation [Avenger](https://wiki.spiralknights.com/Avenger) had to be created already with the knowledge of curse and sealing magic in order to be utilized to fight the undead. Since Valkyries are ones to seal Legion of Ur, we can position this skill at least by that that point in the timeline.
 
-But, since [Gran Faust](https://wiki.spiralknights.com/Gran_Faust) also transmuted from the [Sealed Sword](https://wiki.spiralknights.com/Sealed_Sword), we suggest it being created later into the timeline, while it still belonging to Fallen Valkyrian, potentially placing him to that period of time, but before the Legion of Ur was sealed. This brings up an idea of [Sealed Sword](https://wiki.spiralknights.com/Sealed_Sword): `A mysterious sword of great untapped potential. It hums with raw power` being created through so far unknwon means.
+But, since [Gran Faust](https://wiki.spiralknights.com/Gran_Faust) also transmuted from the [Sealed Sword](https://wiki.spiralknights.com/Sealed_Sword), we suggest it being created later into the timeline, while still belonging to Fallen Valkyrian, potentially placing them to that period of time, but before the Legion of Ur was sealed. This brings up an idea of [Sealed Sword](https://wiki.spiralknights.com/Sealed_Sword), `A mysterious sword of great untapped potential. It hums with raw power`, being created through so far unknwon means.
 
-This proposal leans to an idea of gunslinger priests emerging some time after introduction of Isorans, near the transformation of Warden to trojans, and before the incursion of Valkyries into the Underworld. All of those factor seem to us as follows: __Valkyries are closely related to Owlites by habitat, but through symbolism and design they resemble Spiral Order__.
+This proposal leans to an idea of gunslinger priests emerging some time after introduction of Isorans, near the transformation of Spiral Wardens to trojans, and before the incursion of Valkyries into the Underworld.
+
+All of those factor seem to us as follows: __Valkyries are closely related to Owlites by habitat__, _but_ __through culture they resemble Spiral Order__.
 
 #### Gunslinger Priests: Part 1
 
