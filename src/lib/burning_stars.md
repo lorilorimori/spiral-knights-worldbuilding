@@ -5695,11 +5695,12 @@ Considering the interest of Owlites with the kingdom of Almire, we believe it is
 
 ##### Causes of Kataclysm
 
-Based on the [behavior](https://wiki.spiralknights.com/File:Furniture-Cursed_Tome_Stand-Animated.png) of [cursed tome stand](https://wiki.spiralknights.com/Cursed_Tome_Stand#Cursed_Tome_Stand), as it creates a _cursed field around itself and summons an idle spookat_, we can parallel it to the _later summoning of Margrel through the Book of Dark Rituals_, creating a __maelstrom of curse__ with the Black Kat himself:
+Based on the [behavior](https://wiki.spiralknights.com/File:Furniture-Cursed_Tome_Stand-Animated.png) of [cursed tome stand](https://wiki.spiralknights.com/Cursed_Tome_Stand#Cursed_Tome_Stand), as it creates a _cursed field around itself and summons an idle spookat_, we can compare it againts _later summoning of Margrel through the Book of Dark Rituals_, creating a __maelstrom of curse__ identical to the [grim gate's collapsed portal](#grim-gate-portal-collapse) with the Black Kat himself:
 
 - It is known that some time after Margrel had recovered the The Book of Grey Feathers, the Kataclysm has happened: `... the one who opened The Book of Grey Feathers and brought about the Kataclysm` ([Black Kat Raiment](https://wiki.spiralknights.com/Black_Kat_Raiment)).
 
     It is plausible that the Kataclysm, as we have suggested, had originated from the Academy by the action of Margrel reading through the Owlite text, mainly due to how the Academy is covered by darkness similar to the Graveyards and so different from the Scarlet Fortress. That the source of undeath and Kataclysm's effects would've been from the similar pattern, which was initiated by the Book of Dark Rituals.
+
 - The fact that the cursed maelstrom appears due to improper application of the Book of Dark Rituals - as suggested by [Konjuring Kat](https://wiki.spiralknights.com/Konjuring_Kat#Dialogue) before and after fight with Margrel: `I have no idea what might happen. It could be very bad. You probably want to be prepared in case things go... awry. ... Well, that was unexpected. I'll get it right next time!`
 
     We can make a guess, that the release of curse in all 3 instances:
@@ -5711,6 +5712,7 @@ Based on the [behavior](https://wiki.spiralknights.com/File:Furniture-Cursed_Tom
     Are all improper, or the very state of those tomes being cursed causes this reaction of curse emerging. The latter case is countered by the fact that Margrel's book is called the Book of Grey Feathers, which, paired with Spookat warnings, is indeed dangerous.
 
     We still have to identify the cause and effect of those tomes, their properties.
+
 - To add a counter point to the above discovery, the fact that [mystical tome stand]() _seems to be free of curse_.
 
     The interaction with it is not accompanied by curse-bearing symbolism, suggesting that it is the property of cursed tomes which summons undead kat tribe to the material realm.

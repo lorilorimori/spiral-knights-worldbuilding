@@ -23,6 +23,8 @@
 - `Apocrean Realm` -> `Apocrean realm`
 - replace `kill` with synonyms
 
+- rebis thery is removed
+
 ### CONSIDER
 
 - tortomega were not hunted by valkyries
@@ -30,3 +32,4 @@
 - lumbers - effort of gremlin industry + devilte tech of placing seals onto essences
 - howlitzers are wyverns or dragons
 - nefarios imp is not a prominent figure. it is affiliated with Underworld but its not a primary antagonist
+- all gunslinger priests were isorans
