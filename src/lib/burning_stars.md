@@ -5551,7 +5551,9 @@ Those events seem us to cincide with the potential of [Champions](https://wiki.s
 
 The events preceding Kataclysm take place after the fall of the kingdom of Almire and sealing of Legion of Ur in the Underworld.
 
-While tortomega or titans [are long gone](#the-titans-tortomega-the-fall), and Almire itself [had turned into ashen land](#blackened-shrine-and-magma-deity) with the inclusion of the former kingdoms around it, at that point only heavenly kingdom remains with inhabiting it Valkyries and Owlites. The raiders are absent at that point. In relation to [Operation Gelid](#operation-gelid-and-other-methods-of-escaping-cradle), it could be plausible for them to survive for some time in the northern regions of the planet. Given events of Operation Gelid, they too could've fallen to Underworld's influence.
+While tortomega [are long gone](#the-titans-tortomega-the-fall), and Almire itself [had turned into ashen land](#blackened-shrine-and-magma-deity) with the inclusion of the former kingdoms around it [as an undead empire](#almirian-empire), at that point _only heavenly kingdom remains_ with inhabiting it Owlites and Vlakyries as its army.
+
+The raiders are absent at that point. In relation to [Operation Gelid](#operation-gelid-and-other-methods-of-escaping-cradle), it could be plausible for them to survive for some time in the northern regions of the planet. Given events of Operation Gelid, they too could've fallen to Underworld's influence.
 
 Kingdom of Almire was described in multiple tomes within the established Owlite Academy of Magicks, further affirming its status as an important location for heavenly kingdom serving as a library and a research center.
 
