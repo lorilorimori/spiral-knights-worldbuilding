@@ -5785,7 +5785,7 @@ The cursed tomes remain, as there is both possibility of those tomes being in po
 
     There are 3 fiendish sigils depicted on the left page of the cursed tomes on the stands. This means in conjunction with the effects of interaction with the tome that the nature of Margrel's summoning and of spookat summoned by the cursed tome stand is fundamentally similar.
 
-    <!--More so, the nature of this summoning, given presence of glyphs, and glowing text of ancient pages, may link Black Kats with Dread Seal to the summoning of sealed Legion of Ur. As Legion of Ur is summoned through the sigils and ritual circles as a last resort by devilites, we can conclude that all of those 3 instances are cases of the same metaphysical laws regarding cross-dimensional transportation.-->
+    The nature of this summoning, given presence of glyphs and _glowing text of ancient pages_ may link Black Kats with Dread Seal to the summoning of sealed Legion of Ur. As Legion of Ur is summoned through the sigils and ritual circles as a last resort by devilites, we can conclude that all of those 3 instances are cases of the same metaphysical laws being applied in to cross-dimensional transportation.
 
 - Kat Tribe had to know of the magical properties of owlite tomes, and, judging by animalistic behavior of Black Kats, they would have known it prior to Kataclysm and transformation to the undead.
 
@@ -5815,25 +5815,41 @@ Such interpretation provides a finite and defined extreme result of the metaphys
 
 ##### Summoning of Black Kats
 
-We have stated earlier that the behavior of [Cursed Tome Stand](), presence of 3 fiendish sigils and summoning of Margrel [are of the same nature]().
+As Margrel and other Black Kats are summoned through the dark ritual. Amonf them one party __purposefully summons them__.
 
-Then we have added to this pattern the Legion of Ur, as its summoning is also achieved over [fiendish ritual circles](#summoning-from-underworld). Trojans are summoned through fiendish sigils and ritual circles while being banished, disallowing any other method of summoning.
+While Konjuring Kat may have summoned Margrel by, seemigly, an accident, _it is false in relation to other Black Kats_:
 
-As Margrel and other Black Kats are summoned through the dark ritual, one party or at least one metaphysic law is applied in both cases. While Konjuring Kat may have summoned Margrel by accident, _this is unknown of the other Black Kats, and is seemingly a desired outcome_: `A terrifying swarm of black kats came out of some dark portal deep within the Clockworks and have raided the Moorcroft Archives!` ([Pembrooke](https://wiki.spiralknights.com/Pembrooke)), `Someone or something has summoned a horde of cursed black kats into the Clockworks. These shadowy beasts hunger for arcane power and raided the Moorcroft Manor Archives' precious collection of magical grimoires` ([Kataclysmic Confrontation!](https://forums.spiralknights.com/en/node/73222)).
+- `A terrifying swarm of black kats came out of some dark portal deep within the Clockworks and have raided the Moorcroft Archives!` ([Pembrooke](https://wiki.spiralknights.com/Pembrooke)).
+- `Someone or something has summoned a horde of cursed black kats into the Clockworks. These shadowy beasts hunger for arcane power and raided the Moorcroft Manor Archives' precious collection of magical grimoires` ([Kataclysmic Confrontation!](https://forums.spiralknights.com/en/node/73222)).
 
-Considering the lack of relation of Konjuring Kat to devilites, and as those parties are not seem to be interacting, we can make a guess that is is the universal law of material realm and Underworld relation itself what is seen here, but used by different parties - the summoning of banished - to Underworld, likely, - entities through the usage of ritual circles.
+Considering the lack of relation of Konjuring Kat to devilites, a retial required to be performed to summon entities from Underworld, we propose that there is a faction associated with Underworld which had summoned Black Kats. As much as those quetes allow us to create a timeline of events, we can identify the `dark portal` in this quote:
 
-With this, we come to find a single inconsistency and one loose end: the dark portal from which Black Kats are summoned then could be either the one which uis similar to Pembrooke's - of a cursed maelstrom, or, as he did it by accident, a dark portal of grim gates, as that actor still remains unknown.
+- It may be a grim gate portal, as it fits the description.
+- It may be a portal identical or similar to the maelstrom below moorcroft Manor, as:
+  - Kats may be explicitly banished, which relates them to trojans which were be able to be sumoned only though ritual circles
+  - Ritual circle is used at least ones to summon Margrel
+  - As Maelstrom persists, Black Kats are summoned to accompany Margrel from purple projectives floating across the depth, appearing only with the maelstrom.
 
-And yet, in both cases it is the same physical law, one we gave discussed for the first time in the [analysis of Grim Gates' portal collapse](#grim-gates-portal-collapse).
+Those factors allow us to propose: while Knjuring Kat mey identify the ritual as unpredictable, it mey be seen as a desirable outcome of the faction responsibe for summoning of Black Kats into Clockworks.
 
-The only entity that would be interested in bringing Underworld closer to material realm would be the Nefarious Imp, which we had suspected to be one who was actually seeking for the Book of Dark Rituals, based on the word "nefarious" used in both instances: `An ancient grimoire filled with unspeakable eldritch rites. Just like any cursed tome, there is likely some twisted individual out there who wants it for extremely nefarious purposes` ([Book of Dark Rituals](https://wiki.spiralknights.com/Book_of_Dark_Rituals)). There is also [Warmaster Rocket Hammer](https://wiki.spiralknights.com/Warmaster_Rocket_Hammer): `Designed by Warmaster Seerus himself, this nefarious gremlin weapon is equipped with a rocket engine that can launch the wielder forward with a powerful hammer smash`, but it seems a coincidence here, rather than an intentional choice.
+At that point in the timeline there is only a single entity that would be interested in bringing Underworld closer to material realm in such pattern -- Undercorp.
 
-Black Kats are described as `These shadowy beasts hunger for arcane power and are making another attempt to execute their nefarious plans. ... It appears that illiteracy is still rampant among the black kat hordes, so they have once more taken to eating the pilfered pages rather than using them for arcane rituals` ([Kataclysmic Confrontation!](https://forums.spiralknights.com/en/node/100025)) and `It seems the hordes of black kats have eaten their fill of magical pages, and they’re disappearing back into the shadows` ([Katastrophe Box Extended!](https://forums.spiralknights.com/en/node/100025#comment-914427)). The fact Kats disappear into shadows, may be of the same nature as of _Grimalkin disappearing into shadows_ and also that they willingly disappear, rather than through banishment as Legion of Ur.
+As we incorporate undercorp into this plot, we should note on the aaplication of term `nefarious` for [Book of Dark Rituals](https://wiki.spiralknights.com/Book_of_Dark_Rituals), `An ancient grimoire filled with unspeakable eldritch rites. Just like any cursed tome, there is likely some twisted individual out there who wants it for extremely nefarious purposes`.
 
-In that regard Dread Seal, the one also present on Carnavons is of greater interest. It is present on entities which seemingly remained in the material realm - Carnavons. Those also have a drawn curse symbol on their crests, blackened crests of Almire. We will return to the dread seal and its meaning later, until then we will suffice with the conclusion that dark ritual in question is the part of a connection between material realm and Underworld, a method to summon entities from the latter.
+Whether it is meant to be assocaited with the [Nefarious Imp](#nefarious-imp), is unknown, but it remains a possibility, as the Imp bears the symbol of curse.
 
-##### Warding Candles
+<!--There is also [Warmaster Rocket Hammer](https://wiki.spiralknights.com/Warmaster_Rocket_Hammer): `Designed by Warmaster Seerus himself, this nefarious gremlin weapon is equipped with a rocket engine that can launch the wielder forward with a powerful hammer smash`, but it seems a coincidence here, rather than an intentional choice.-->
+
+Then Black Kats are described as:
+
+- `These shadowy beasts hunger for arcane power and are making another attempt to execute their nefarious plans. ... It appears that illiteracy is still rampant among the black kat hordes, so they have once more taken to eating the pilfered pages rather than using them for arcane rituals` ([Kataclysmic Confrontation!](https://forums.spiralknights.com/en/node/100025)).
+- `It seems the hordes of black kats have eaten their fill of magical pages, and they’re disappearing back into the shadows` ([Katastrophe Box Extended!](https://forums.spiralknights.com/en/node/100025#comment-914427)).
+
+As Kats are stated to _disappear into shadows_ it may be the case of _Grimalkin disappearing into shadows_, rather than being explicitly banished compared to the trojans of Legion of Ur.
+
+<!--In that regard Dread Seal, the one also present on Carnavons is of greater interest. It is present on entities which seemingly remained in the material realm - Carnavons. Those also have a drawn curse symbol on their crests, blackened crests of Almire. We will return to the dread seal and its meaning later, until then we will suffice with the conclusion that dark ritual in question is the part of a connection between material realm and Underworld, a method to summon entities from the latter.-->
+
+#### Warding Candles
 
 At some point in time, [blue](https://wiki.spiralknights.com/File:Exploration-Candle_(Blue).png) and [yellow warding candles](https://wiki.spiralknights.com/File:Exploration-Candle_(Yellow).png) were developed as they are widespread within the Academy.
 
