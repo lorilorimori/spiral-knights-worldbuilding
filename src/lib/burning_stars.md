@@ -5929,113 +5929,110 @@ Considering presence of Grimalkin only within the Academy, in addition to Margre
 
 #### Maskeraith Battle Sprite
 
-In the context of Grimalkin and here covered [phantoms](https://wiki.spiralknights.com/Phantom), we have to discuss [Maskeriath battle sprite](https://wiki.spiralknights.com/Maskeraith).
+In the context of Grimalkin and [phantoms](https://wiki.spiralknights.com/Phantom), we can now discuss [Maskeraith battle sprites](https://wiki.spiralknights.com/Maskeraith).
 
-Maskeraiths are similar to grimalkin and Black Kats in general by the fact of being ghost-like dark-colored apparitions, and morphology, similar to wraiths. The latter is important, since _grimalkin are ones to be classified as wraiths_: `These cursed wraiths cannot be destroyed and the only thing they truly fear is the light of the enchanted candles` ([Information module - Candlestick Keep](https://wiki.spiralknights.com/Candlestick_Keep#Lore)). Apart from the naming convention, spookats and grimalkin resemble undead Kat Tribe, contrasting seemingly corporeal [Seraphynx](https://wiki.spiralknights.com/Seraphynx). In that regard, Maskeraiths are referred by Rhedon as phantoms: `Yikes, are those the sprites or some kind of phantom? ... but there's a ghost over your shoulder! Let's hope these sprites haven't invested all their power into good looks. Use that one to clear the path ahead so a rescue team can get through safely!` ([The Phantom Mask - Creeping Cavern - Rhedon](https://wiki.spiralknights.com/The_Phantom_Mask/Creeping_Cavern)).
+Maskeraiths are similar to grimalkin and Black Kats by the fact of being _ghost-like dark-colored apparitions_ and morphology of their name similar to wraiths. The latter is important, since __grimalkin are ones identified as wraiths__, `These cursed wraiths cannot be destroyed and the only thing they truly fear is the light of the enchanted candles` ([Information module - Candlestick Keep](https://wiki.spiralknights.com/Candlestick_Keep#Lore)).
 
-If _Seraphynx represents Kat Tribe before the Kataclysm_ and _Drakon of ancient dragons_, where does Maskeriath fit, or rather, __whom Maskeriath is meant to embody?__
+Apart from the naming convention, spookats and grimalkin resemble undead Kat Tribe, contrasting seemingly corporeal [Seraphynx](https://wiki.spiralknights.com/Seraphynx). In that regard, Maskeraiths are referred by Rhedon as phantoms: `Yikes, are those the sprites or some kind of phantom? ... but there's a ghost over your shoulder! Let's hope these sprites haven't invested all their power into good looks. Use that one to clear the path ahead so a rescue team can get through safely!` ([The Phantom Mask - Creeping Cavern - Rhedon](https://wiki.spiralknights.com/The_Phantom_Mask/Creeping_Cavern)).
 
-Here we have to look at the contents of [Spritely Prize Box](https://wiki.spiralknights.com/Spritely_Prize_Box), within which all of the rest battle sprite reskins are found. In case of Maskeriath there are 3 reskins, apart from the Grey Prize Box, which will be very important later, of [Volcanic](https://wiki.spiralknights.com/Maskeraith_(Volcanic)), [Freeze](https://wiki.spiralknights.com/Maskeraith_(Freeze)), and [Snarblepup](https://wiki.spiralknights.com/Maskeraith_(Snarblepup)) variants of Maskeraith.
+If __Seraphynxs represent Kats of Kat Tribe before the Kataclysm__ and __Drakons -- ancient dragons__, __whome Maskeriaths are meant to embody?__
 
-Phantoms and Grimalkin are similar due to being a permanent danger within Underworld darkness or proximity to it. Moreover, it is Margrel, who is transformed to grimalkin, has the same curse properties of a [phantom](https://wiki.spiralknights.com/Phantom), including the bright pink color of curse.
+Here we have to inspect at the contents of [Spritely Prize Box](https://wiki.spiralknights.com/Spritely_Prize_Box) within which all of the rest battle sprite reskins are found.
 
-Phantoms have a skull with a whirling soul inside it. There are a few other instances of this design - [Estavio](https://wiki.spiralknights.com/Estavio) and [Hector](https://wiki.spiralknights.com/Hector) residing in Moorcroft manor. As we have earlier attributed this property of _souls' capacity both to linger and remain bound to its bones or item_, discussed earlier in the [context of Lord Vanaduke's passing](#vanadukes-mask-and-immortality-through-curse), here, Maskeraith is seemingly related to the mask, as the latter is explicitly brought up _multiple times_.
+Phantoms and Grimalkin are similar due to being a permanent danger within Underworld darkness or proximity to it. Moreover, it is Margrel, who is transformed to grimalkin, has the same curse properties of a [phantom](https://wiki.spiralknights.com/Phantom), including the bright pink color of curse which we take note of for the final analysis of curse.
+
+Phantoms bear a skull with a whirling soul inside it. There are a few other instances of this anatomy, [Estavio](https://wiki.spiralknights.com/Estavio) and [Hector](https://wiki.spiralknights.com/Hector) residing in Moorcroft manor as [instances of souls inhabiting skull to remain in the material realm](#lost-souls-with-skulls). As we have earlier attributed this property of _souls' capacity both to linger and remain bound to its bones or item_, discussed earlier in the [context of Lord Vanaduke's passing](#vanadukes-mask-and-immortality-through-curse) and [instances of haunting](#haunting), here Maskeraith's nature is seemingly related to its mask, as the latter is explicitly brought up _multiple times_ including sprite's name itself, coupling "mask" and "wraith."
+
+##### Significance of the Mask
 
 Maskeraith's mask is focused upon by [Rhedon](https://wiki.spiralknights.com/The_Phantom_Mask/Creeping_Cavern): `
-I'm curious... what do you think is behind their masks? Wait, no, I don't want to know` ([The Phantom Mask - Creeping Cavern - Rhedon](https://wiki.spiralknights.com/The_Phantom_Mask/Creeping_Cavern)), even being referred in mission's name: [The Phantom Mask](https://wiki.spiralknights.com/The_Phantom_Mask). The mask is also present in Maskeraith skills, specifically, [Shadow Cloak](https://wiki.spiralknights.com/Shadow_Cloak_(Battle_Sprite_Ability)). It can be speculated, that mask's symbolism is related to the ability itself to remain unnoticed, but we would like to look into metaphysical aspects of the mask.
+I'm curious... what do you think is behind their masks? Wait, no, I don't want to know` ([The Phantom Mask - Creeping Cavern - Rhedon](https://wiki.spiralknights.com/The_Phantom_Mask/Creeping_Cavern)), even being referred in mission's name, [The Phantom Mask](https://wiki.spiralknights.com/The_Phantom_Mask).
+
+The mask is also present in Maskeraith skills, specifically, [Shadow Cloak](https://wiki.spiralknights.com/Shadow_Cloak_(Battle_Sprite_Ability)). It can be speculated, that mask's symbolism is related to the ability itself to remain unnoticed, but we would like to look into metaphysical aspects of the mask.
+
+Other than Maskeraith, it is Lord Vanaduke, whose mask bears metaphysical significance, [later to be identified as Vog's visage and manifestaion of Lord Vanaduke's soul](#lord-vanadukes-mask-design).
+
+In relation to physiology o Maskeraith, could the mask be the only remaining corporeal compoennt to the battle sprite, altered by the same means as otehr sprites?
+
+##### Maskeraith Skins
+
+In case of Maskeriath there are 3 reskins, apart from the Grey Prize Box, which will be very important later, the [Volcanic](https://wiki.spiralknights.com/Maskeraith_(Volcanic)), [Freeze](https://wiki.spiralknights.com/Maskeraith_(Freeze)), and [Snarblepup](https://wiki.spiralknights.com/Maskeraith_(Snarblepup)) variants of Maskeraith.
 
 Maskeraith in its [frost](https://wiki.spiralknights.com/Maskeraith_(Freeze)) and [volcanic](https://wiki.spiralknights.com/Maskeraith_(Volcanic)) reskins acquires properties of [hail](#influences-of-underworld) and [fire deities](#blackened-shrine-and-magma-deity), as unnatural freeze and volcanic motif are two elements, apart from presence of [Vile deity](#fiendish-cults), which persist across much of equipment with those themes.
 
 Lastly, [Snarblepup](https://wiki.spiralknights.com/Maskeraith_(Snarblepup)) is less direct in its conception. But, one property of Snarbolax, which could link the two is the attunement of the latter to [shadows and haunting](#snarbolax-and-haunting-through-curse). The ghostly, non-corporeal nature of the two as seemingly influenced by Underworld, links the two.
 
-Even more so, _so far we have considered entities capable of inflicting curse as ones of most powerful on Cradle_, Maskeraith, under certain conditions, __also possesses an ability to inflict curse__ over [Chaotic Haze](https://wiki.spiralknights.com/Chaotic_Haze#Chaotic_Haze). The very naming convention of `chaotic` and link to all status effects seems to trace back to the [Chaos Cloak](https://wiki.spiralknights.com/Chaos_cloak).
+Even more so, _so far we have considered entities capable of inflicting curse as ones of most powerful on Cradle_, Maskeraith, under certain conditions, __also possesses an ability to inflict curse__ over [Chaotic Haze](https://wiki.spiralknights.com/Chaotic_Haze#Chaotic_Haze). The very naming convention of `chaotic` and link to all status effects seems to trace back to the [Chaos Cloak](https://wiki.spiralknights.com/Chaos_cloak), as we selected a [motf of chaos earlier](#chaotic-motif).
 
-Maskeriath does not have capacity to deal elemental damage with the crystal harness, but it has piercing, golden harness available. We [have discussed how piercing damage and gold are paired in their divinity](#divinity-and-alchemical-gold), as of metal and an applications of this damage type, and how [crystal and elemental damage are paired though known metaphysics of souls within crystal](#minerals-and-souls-part-2-mineral-charge), now with addition of the relation to the Nameless Realm and its relation to elements.
+##### Maskeraith Harnesses
 
-The dark harness is called simply as that, dark, so not much information could be extracted from it. On the other hand, considering how shadow damage is unnatural to the material realm, its creation could be as vague as the nature of the shadow damage itself, being defined by Spiral Order biotechs only in such vague terms, meaning that the material of the harness is unknown to the point of being created from Underworld materials.
+Maskeriath does not have capacity _to deal elemental damage with the crystal harness_, but it can equip golden harness.
 
-We can make a guess, based on many shadow damage type weapons and equipment, that [shadow steel](https://wiki.spiralknights.com/Shadow_Steel) _has a chance of being used here_, mainly due to presence of other metals, such as gold and iron, omitting elemental crystal harness, while allowing for effective combat when equipped.
+<!--We [have discussed how piercing damage and gold are paired in their divinity](), as of metal and applications of this damage type, and how [crystal and elemental damage are paired though known metaphysics of souls within crystal](#minerals-and-souls-part-2-mineral-charge), now with addition of the relation to the Nameless Realm and its relation to elements.-->
 
-Considering effects of dark matter, its relation to shadow damage, the very fact, dark matter is used to feed the battle sprite, makes it a very unique in its own regard entity, on par with called here reincarnation of past species - such as Kats and Dragons, - through their according battle sprites.
+The dark harness possess a unconventional naming scheme. No information onthe materila of theharness can be extracted from its name.
 
-As we further attempt to identify entities behind Maskeraith, we will attempt to find peculiarities in sprite's evolution similar to an aforementioned [Chaotic Haze](https://wiki.spiralknights.com/Chaotic_Haze#Chaotic_Haze):
+Сonsidering how shadow damage is unnatural to the material realm, creation of that harness could be as vague as the nature of the shadow damage itself, being defined by Spiral Order biotechs only in those vague terms.
 
-- Tier 2 Maskeraith has a single centered horn, which remind of the [Grim Mask](https://wiki.spiralknights.com/Grim_Mask).
-- The ghastly mask, attained by [Haunted Haze](https://wiki.spiralknights.com/Haunted_Haze#Haunted_Haze) ultimate ability has asymmetrical eyes. This asymmetric design is reminiscent of strangers.
-- The entity behind Maskeraith design may be one depicted in the designs of the 5 star variants of the [Shade Helm](https://wiki.spiralknights.com/Shade_Helm) which on its own refers to a concept of shade, as well as having similar head and eye shape, _reminiscent of a beak_, apart from cultural inspirations.
+We can speculate based on many shadow damage type weapons and equipment that [shadow steel](https://wiki.spiralknights.com/Shadow_Steel) has a chance of being used for dark harness, mainly due to presence of other metals, such as gold and iron, omitting elemental crystal harness.
 
-    More so, the larger alchemy tree of [Sentinel Helm](https://wiki.spiralknights.com/Sentinel_Helm) has designs, fitting for those to wield [Cold Iron Vanquisher](https://wiki.spiralknights.com/Cold_Iron_Vanquisher), as alchemy here [transcends modern designs](#technology-alchemy-and-Isoran-redesigns), alluding to Isoran [past during vague position of forgotten time](#gunslinger-priests-part-1).
-- The [Shadow Cloak](https://wiki.spiralknights.com/Shadow_Cloak_(Battle_Sprite_Ability)) ability is only one depicting sprite's mask, with one eye lit within the part of the mask in the dark, with the other being in the light.
+##### Maskeraith Abilities
 
-    It makes us think of the anatomical significance of the mask, with the previously established context of mask relating to the soul, which may also point to the nature of Maskeraith as a soul bound to a battle sprite.
+As we further attempt to identify the entities Maskeraith is meant to represtent, we will attempt to find peculiarities in sprite's evolution and skills:
+
+- Tier 2 Maskeraith's mask has a single centered horn, which remind of the [Grim Mask](https://wiki.spiralknights.com/Grim_Mask).
+- The ghastly mask, attained by [Haunted Haze](https://wiki.spiralknights.com/Haunted_Haze#Haunted_Haze) ultimate ability has asymmetrical eyes. While this asymmetric design may be similar to one of strangers', it does not provide so far further information of the sprite itself, unless it may be a reference to a different media.
+- The entity behind Maskeraith design may be fiendish in nature as it is similar to one depicted in the designs of the 5-star variants of the [Shade Helm](https://wiki.spiralknights.com/Shade_Helm) which refers to a concept of shade while being far more mediavalistic in its design.
+- The [Shadow Cloak](https://wiki.spiralknights.com/Shadow_Cloak_(Battle_Sprite_Ability)) ability's icon depicts sprite's mask, with one eye lit within the part of the mask in the dark and the other being in the light.
+
+    It makes us think of the anatomical significance of the mask, with the previously established context of mask relating to the soul, which may also point to the nature of Maskeraith as related to soul as souls are prevalent in plots regarding Underworld.
+
 - The [Vengeful Quills](https://wiki.spiralknights.com/Vengeful_Quills#Vengeful_Quills) ultimate ability's design is shown as a _quill similar in color and texture to luminite_. This may be related to the general theme of Owlites and attributed to them and valkyries vengefulness (`A resplendent replica of the shield thought to have been issued to the most eminent of Owlite wizards. Wielding it fills you with righteous vengeance` - [Grey Owlite Shield](https://wiki.spiralknights.com/Grey_Owlite_Shield)). Paired with potentially avian design, could Maskeraith through unknown means relate to Owlites or greater heavenly kingdom?
-- The [Virulent Quills](https://wiki.spiralknights.com/Virulent_Quills#Virulent_Quills) ultimate makes the quills seems as made of valestone with more pronounces green hue of the [vile fiend set](https://wiki.spiralknights.com/Fiend_Mail). The [Caustic Quills](https://wiki.spiralknights.com/Caustic_Quills) are seemingly of dark matter. This property ties with close relation of poison to Underworld.
-- The [Haunted Haze](https://wiki.spiralknights.com/Haunted_Haze#Haunted_Haze) ultimate seemingly _weaponizes souls in the similar manner as Margrel's homing spiked orbs_, as projectiles. Given that defeated enemies release those orbs, makes us think of a common, soul-based, underlying nature of those.
-- The [Chaotic Haze](https://wiki.spiralknights.com/Chaotic_Haze#Chaotic_Haze) ultimate, apart from earlier connection to the nature of chaos, is similar to the [Sealed Sword](https://wiki.spiralknights.com/Sealed_Sword) status inflictions. And, as the sword is devoid of curse, it may be attributed to it being sealed by paper seals.
+- The [Virulent Quills](https://wiki.spiralknights.com/Virulent_Quills#Virulent_Quills) ultimate makes the quills seems as made of valestone with prevalent green hue similar to the [Vile Fiend set](https://wiki.spiralknights.com/Fiend_Mail), relating to significance of color green in the context of Underworld.
+- The [Caustic Quills](https://wiki.spiralknights.com/Caustic_Quills) are seemingly made of dark matter due to their crystal-like appearance. This property ties with close relation of poison to Underworld.
+- The [Haunted Haze](https://wiki.spiralknights.com/Haunted_Haze#Haunted_Haze) ultimate seemingly _weaponizes souls similar to  manner as homing spiked orbs during Margrel's fight_, as projectiles. Given that defeated enemies release those orbs, makes us think of a common, soul-based, underlying nature of those projectives.
+- The [Chaotic Haze](https://wiki.spiralknights.com/Chaotic_Haze#Chaotic_Haze) ultimate is part of the [chaotic motif](#chaotic-motif), as compared to the [Sealed Sword](https://wiki.spiralknights.com/Sealed_Sword) status inflictions, it can also inflict curse. And, as the sword is devoid of curse, it may be attributed to it being sealed by paper seals.
 
-    During the _initiation of the haze, ghosts are seen to swirl_, which are likely the effect of the hex  - [Hexing Haze](https://wiki.spiralknights.com/Hexing_Haze), - being applied.
+    During the __initiation of the haze, ghosts are seen to swirl around the knigt__ which may be the effect of the hex  -- [Hexing Haze](https://wiki.spiralknights.com/Hexing_Haze) -- being applied which is described as `Creates a miasma around you that hexes any target within. Each hex has a timer that deals heavy damage upon termination. For every target acquired by hexing haze, the duration of the miasma increases`.
 
-    This property, we suggest, can be related to the nature of the law, __which had brought spirits to material realm planetary scale in the first place__.
+    The terms of miasma is particularly interesting as it will be relevant in the context of miasma-ridden Gloaming Wildwoods of Shadow Lairs.
 
-It seems as if power this over souls and undeath was the defining trait of Maskeraith, also being the power which grants those abilities and changes sprite's physicality to one of Underworld. But why this had to happen on a scale on all battle sprite population, remains unknown.
+    The paticularly cruel nature of Underworld manipulation wth souls is found in this line of ultimates, as it revelas presence of spirit, souls, as being influenced and _hexed_ to sprite's power.
 
-#### Evo Catalysts and The Core
+It seems as if power over souls was the defining trait of Maskeraith, also being the power which grants those abilities and changes sprite's physiology to one associated with Underworld. But why this had to happen on a scale on all battle sprite population, remains unknown.
+
+Due to the aforementioned, _unprecedentedly large_ set of Maskeraith's skills and abilities, as well as _a potential of manipulating souls over Hexing Haze ultimate_, creation of such entity from an artificial battle sprite seems as another instance of 2 properties merging:
+
+- An unseen power, responsible for manifestation of past civilizations in Seraphynx and Drakon, has applied in the same pattern powers from the Underworld.
+- Properties of Underworld's power coexist with aforementioned transfomative power sourced from the Core, suggesting latter's manipulation of the prior, or, intervention of Underworld's influence in the process of battle sprites' mutation. Instances of this phenomenon are observed for Snarblepup Maskeraith and Black Kat Seraphynx. Notably it is only Maskeraith, whose foundational species remain unknown.
+
+#### Evo Catalysts
 
 In the context of battle sprite's ultimates, to fully manifest them, [catalysts](https://wiki.spiralknights.com/Ultimate_Evo_Catalyst#Evo_Catalyst) are used.
 
-By the design of those items, it seems they belong to high-tech designs nearing ones of rectangular plates of Core's shell and underlying Whitespace.
+By the design of those items, it seems they belong to particularly advanced kind of technilogy, nearing ones of rectangular plates of Core's shell and underlying Whitespace, including the shape of the catalysts being one of a cube.
 
-While we haven't yet delved into the nature of Whitespace, one element of those designs seems evident - those catalysts open up larger possibilities for evolution, allowing battle sprites to distance themselves from explicitly artificial nature to one embodied by the transformation.
+While we haven't yet delved into the nature of Whitespace, one element of those designs seems evident -- those catalysts open up larger possibilities for evolution, allowing battle __sprites to distance themselves from explicitly artificial nature to one embodied by the initial transformation__.
 
-As it was said, battle sprites have erratic energy signatures: `The energy signature I'm detecting is erratic, but still definitely a battle sprite` ([A Revelation in Flames - Sunset Steppes - Rhedon](https://wiki.spiralknights.com/A_Revelation_in_Flames/Sunset_Steppes)). We propose, that catalysts contain the same transformative effect as the initial transformation through introduction to Cradle, causing deviation from the standard E-class.
+Battle sprites possess _erratic energy signatures_: `The energy signature I'm detecting is erratic, but still definitely a battle sprite` ([A Revelation in Flames - Sunset Steppes - Rhedon](https://wiki.spiralknights.com/A_Revelation_in_Flames/Sunset_Steppes)). We propose, that catalysts contain within its volume __the same transformative effect as the initial transformation through introduction to Cradle__, causing _deviation from the standard E-class brought on board of Skylark_.
 
-And, as those events are happening on Cradle, with presence of the Core and its energy (`Tier 3 is closest to the Core and much like how high level items respond to its power, so do monsters.
-Many of them take on new forms and are considered at their most dangerous. You must prepare before taking on each mission` - [Best of the Beast - Hahn](https://wiki.spiralknights.com/Best_of_the_Beast)), we believe, __Catalysts contain the same transformative through application of energy effect, as the the Core__ and its effects onto Cradle by parallels in the design and motif.
+As those events are happening on Cradle, with presence of the Core and its energy (`Tier 3 is closest to the Core and much like how high level items respond to its power, so do monsters. Many of them take on new forms and are considered at their most dangerous. You must prepare before taking on each mission` - [Best of the Beast - Hahn](https://wiki.spiralknights.com/Best_of_the_Beast)), we propose that __Catalysts contain the same transformative through application of energy effect, as the the Core, sharing its nature__.
 
-As they contain far greater amounts of energy, while being contained within distinct mechanism in design of the _plated structure_, as the Core, the principles, used to contain this energy are __identical to ones applied at the Core__.
-
-With all of those factors considered, we propose, that Maskeraith represents and entity, or several entities, if judged by the masks' shapes, which inhabit the Underworld.
-
-Through this _artificial unity or even overtake of Underworld's curse-aligned powers over a battle sprite_, this creates conditions for a phenomenon, observed so far, as the state of being afflicted by generalized curse with powers granted from this state.
-
-This condition, we believe, is closely related to the nature of [soul being bound to an object](#vanadukes-mask-and-immortality-through-curse), or [haunting](#haunting) -  entering a category of entities, such as, predominantly, Lord Vanaduke's Mask and, in lesser manner, Phantoms, whose powers are derived from being affected by the curse in a non-detrimental manner, while being tethered to a corporeal object.
-
-Due to the aforementioned, _unprecedentedly large,_ set of Maskeraith's skills and abilities, as well as _a potential of manipulating souls over Hexing Haze ultimate_, creation of such entity from an artificial battle sprite seems as another instance of 2 properties merging:
-
-- An unseen power, responsible for manifestation of past civilizations in Seraphynx and Drakon, has applied in the same pattern powers from the Underworld.
-- Properties of Underworld's power coexist with aforementioned transfomative power sourced from the Core, suggesting latter's manipulation of the prior, or, intervention of Underworld's influence in the process of battle sprites' creation. Instances of this phenomenon are observed for Snarblepup Maskeraith, Black Kat Seraphynx, and,  [unlikely](), Shadow Drakon. Notably it is only Maskeraith, whose foundational species remain unknown.
+As they contain amount of energy to advance the transformation, while being contained within distinct mechanism in design of the _plated structure_, as the Core, we suggest the principles used to contain this energy are __identical to ones applied at the Core__.
 
 So far we have the following conclusions regarding this power:
 
-- This power is emitted from Cradle, influencing classified as [E-class](https://wiki.spiralknights.com/File:Dialogue-E-Class_Battle_Sprite.png) battle sprites. They are transformed, further evolving through Evo Catalysts, containing the same energy used to initially transform them. _Catalysts' designs further link this type of energy with the Core_.
+- This power is emitted from the Core, influencing classified as [E-class](https://wiki.spiralknights.com/File:Dialogue-E-Class_Battle_Sprite.png) battle sprites. They are transformed, further evolving through Evo Catalysts, containing the same energy used to initially transform them. _Catalysts' designs further link this type of energy with the Core_.
 - This energy, when applied, is capable of transforming artificial entities into near-living beings, while preserving their internal structure, so they are identified as Isoran battle sprites by Isoran technology.
-- Transformations, induced by this energy, manifest as species with the states of those from the past - Kats of Kat Tribe, both natural and cursed - the latter being Black Kats; dragons of 3 elements; and fiends. _Each sprite embodies the totality of those species_, the families of those species and states they were found in some points in time, and their innate abilities, attributed to those states.
-- Those abilities surpass original properties of battle sprites, granting powers, which are naturally intended to be wielded by embodies species as part of their existence. Even if the latter is absent - such as families of Kats or extinct dragons, - those are still remembered within evolutionary branches of the specific battle sprite.
+- Transformations, induced by this energy, manifest as species with the states of those from the past -- Kats of Kat Tribe, both natural and cursed -- the latter being Black Kats; dragons of 3 elements; and fiends.
 
-This is a novel concept - of __energy of the Core imprinting species onto battle sprites__.
+  __Each sprite embodies the totality of those species__, the families of those species and states they were found in their ending points in time, and their innate abilities, attributed to those states.
 
-#### Black Kats and Curse
+- Those abilities surpass original properties of battle sprites, granting powers, which are naturally intended to be wielded by embodies species as part of their existence. Even if the latter is absent, such as families of Kats or extinct dragons, those are still remembered within evolutionary branches of the specific battle sprite.
 
-We will study Black Kats from multiple perspectives: their design, presence on Cradle, - prestige missions, background information on Owlites, and derived knowledge about metaphysics of curse up until this point of the analysis.
+This is a novel concept -- of __energy of the Core imprinting species onto battle sprites__.
 
-Some units of the Kat Tribe seem to be sealed somewhere, most likely Underworld: `Someone or something has summoned a horde of cursed Black Kats into the Clockworks. These shadowy beasts hunger for arcane power and raided the Moorcroft Manor Archives' precious collection of magical grimoires. In the wrong hands these ancient tomes could be catastrophic, but it turns out that Black Kats can't read, so they instead decided to just eat them. The residents of Moorcroft Manor would like you to retrieve the Ancient Pages of the magical grimoires that quite likely reside in the stomachs of Black Kats. We'll leave you to figure out just how to recover them` ([Kataclysmic Confrontation](https://forums.spiralknights.com/en/node/73222)).
-
-Black Kats are explicitly said to be summoned. We concluded on the idea, that it is the same mechanism, which allowed for trojans to be summoned. While their role as ones surviving in undeath past the Kataclysm, someone had to summon them initially at the start o the event.
-
-Grimalkin inhabit places closest to the Underworld, such as Owlite Academy stuck in the same state as Graveyards, between dimensions: `Graveyards are an unnatural place, a world between worlds where lost souls gather, hungry for the life of any live soul that must pass through`. Grimalkin are similar to Phantoms as they can be stopped only temporality.
-
-- All Black Kats and Margrel possess power to inflict curse.
-- Summoning of Margrel introduces a giant maelstrom enveloping entirety of the Moorcroft manor, the same as one seen across malfunctioned grim gates but magnitudes larger.
-
-Through these characteristics a nature of Kataclysm could be narrowed - one of opening a portal into the Underworld, whose influence poured into the material realm, effects the closest of living entities within its reach. Based on earlier quote it seems that Black Kats are different from the rest of Kat Tribe by being bearers of curse. By the time they are summoned, they are already cursed, instead of becoming such through consumption of magical grimoires. This could be a potential precedent for them being explicitly sealed, as trojans, after the Kataclysm. Presence of a [Dread Seal](https://wiki.spiralknights.com/Dread_Seal), which is also placed on Carnavons, suggests that whatever function the seal serves, _it is applicable to both Carnavons and Black Kats, in the end relating to curse_. Moreover, it is seen on [Faust](https://wiki.spiralknights.com/Faust) itself which should be kept in mind - both the design and color scheme.
-
-This concept of sealing in the Underworld by a faction represented by Valkyries can be also affirmed by a following idea - if trojans were sealed by heavenly kingdom, as the Fallen was banished into the Underworld, the ability to seal Black Kats and to, potentially, summon them back is one likely attributed to those who already used it - Owlites of heavenly kingdom. This would also explain the time when warding candles were invented, as no other darkness, apart from graveyard's, wherein candles were seen, was present at that time - an idea, [linked earlier to the forgotten time of gunslinger priests](#gunslinger-priests-part-2).
-
-Presence of Void Souls inside the Core seems as the strong argument in favour a proposal of the Core, rather that the Kataclysm, being responsible for the local changes in Cradle's metaphysics. In that regard, Core could accelerate the notions already present, in the form of haunted passages, for example, as well as cause seemingly unpredictable behavior, such as transformation of battle sprites, _given general notion of the Core amplifying preexisting traits through energy_. In particular, a transcendence to different types of damage, lacking of normal damage is confirmed by [Hahn](https://wiki.spiralknights.com/Hahn): `You have a strange definition of recreation if that's the case. Tier 3 fiends and undead are nothing to sneeze at, in fact they're among the worst creatures you'll find so close to the Core. Devilite management seems to be the worst at these depths and that results in some very violent devilites. ... Exactly, and they're worse now. And the same goes for the undead. You'll find that howlitzers become particularly bothersome with their enhanced firing and homing capabilities. Lastly, prepare for fiend and undead monsters to potentially deal pure shadow damage` ([Darkest Forces - Hahn](https://wiki.spiralknights.com/Darkest_Forces)).
-
-Considering this, we can place period when Philoso made most of his advancement into the very end of Owlite civilization, as then presence of undead would be justified, invention of devices against Underworld's darkness, and most of end-game high-performance equipment, such as Chaos Cloak. Gunslinger priests would be then placed in that same period of time.
-
-##### Margrel and <span class="through-curse">Immortality Through Curse</span>
+#### Kat Tribe Awareness of Curse
 
 As for the Kat Tribe potential knowledge on curse, the fact their alchemized armor is one bearing evil eye symbolism - we can look at a different example of an alchemized equipment from an extinct civilization:
 
@@ -6045,9 +6042,11 @@ As for the Kat Tribe potential knowledge on curse, the fact their alchemized arm
 - Valkyrian armors connected to resistance to curse.
 - `A clawed costume made by Moorcroft tailors. It's perfect for curious knights who are prone to pause for naps after a long night of adventuring` ([Kat Suits](https://wiki.spiralknights.com/Savage_Kat_Suit)) possesses evil eye designs on the shoulder pads, fitting with the rest of Kat Tribe associated armors.
 
-Based on those instances, it seems that Spiral Order had not performed much modifications to the original designs. We can propose that Kat Tribe had already known of the curse before the Kataclysm. This is also coincidentally fits with Kat Tribe's magic being characterized so far as evil: `A whisker won from the great Kat Tribe hero, Margrel. They were traditionally worn as a ward against Owlite magics but now represent the triumph of goodly magical arts over evil` ([Wicked Whisker](https://wiki.spiralknights.com/Wicked_Whisker)). As the name suggests, wicked, it possesses properties, more likely to be attributed to the entire theme of curse and Underworld.
+Based on those instances, it seems that Spiral Order had not performed much modifications to the original designs. We can propose that Kat Tribe had already known of the curse before the Kataclysm.
 
-##### Dark Ritual, Pink Lightning: Part 1 - Fiends
+This coincidentally fits with Kat Tribe's magic being characterized so far as evil, `A whisker won from the great Kat Tribe hero, Margrel. They were traditionally worn as a ward against Owlite magics but now represent the triumph of goodly magical arts over evil` ([Wicked Whisker](https://wiki.spiralknights.com/Wicked_Whisker)). As the name suggests, wicked, it possesses properties, more likely to be attributed to the entire theme of curse and Underworld.
+
+#### Pink Lightning: Part 1: Fiends
 
 The last element if the pink lightning striking Margrel's ritual site when it is summoned. We suggest, so far, a vague idea of it being a sign of Underworld's presence, as across myth's lightning strike was associated with the presence of the supernatural, or more commonly, divine presence or intervention.
 
