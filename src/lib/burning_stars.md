@@ -744,7 +744,7 @@ Relevant to the current context in tracking down influences and presence of Unde
 
 - Some tombstones are cracked and have green essence flowing through their cracks
 - Green fires on crypt walls are unique to this location
-- Graveyards, as the depths themselves, seem to be located only partially in the material realm. This ethereal motif will be kept track of as we will explore [Kat Tribe and Kataclysm](#chapter-viii-kat-tribe): `Graveyards are an unnatural place, a world between worlds where lost souls gather, hungry for the life of any live soul that must pass through` ([Information Module: Graveyard](https://wiki.spiralknights.com/Information_Module:_Graveyard)). Our suggestion consists of those locations being in between material realm and Underworld, and are related to the state Cradle is found, connected with the phenomenon of spirits returning to material realm (`Why spirits return to the material realm is unknown, trough it is clear that many of the spirits within the Clockworks have come from other worlds` - [Weight of Darkness](https://wiki.spiralknights.com/Weight_of_Darkness))
+- Graveyards, as the depths themselves, seem to be located only partially in the material realm. This ethereal motif will be kept track of as we will explore [Kat Tribe and Kataclysm](#chapter-viii-kat-tribe): `Graveyards are an unnatural place, a world between worlds where lost souls gather, hungry for the life of any live soul that must pass through` ([Information Module: Graveyard](https://wiki.spiralknights.com/Information_Module:_Graveyard)). Our suggestion consists of those locations being in between material realm and Underworld, and are related to the state Cradle is found, connected with the phenomenon of spirits returning to material realm (`Why spirits return to the material realm is unknown, trough it is clear that many of the spirits within the Clockworks have come from other worlds` - [Weight of Darkness](https://wiki.spiralknights.com/Weight_of_Darkness)).
 - `But stay alert - dark energies resonate from the graveyard, attracted to the countless souls it houses` ([Blades of The Fallen](https://wiki.spiralknights.com/Blades_of_the_Fallen)) suggests a certain metaphysical state graveyards exist in which allows for `dark energies` to be identified.
 
 The green color motif may be attributed to several supernatural materials:
@@ -5660,7 +5660,7 @@ But, as the aesthetics of the narrative and depth-dependant design are paramount
 
 Although coincidentally, the location of the academy is referred to as the Candlestick _Keep_ which may potentially refer to the keep of the academy being the location Knights were traversing, potentially even Grey Feather tower itself while the rest of the academy is located elsewhere. As there are spookats inhabiting the keep, we may suggest that the moment Kataclysm struck, those members of Kat Tribe were still in the academy, including Margrel.
 
-While being a speculation, if prior motif of Clockwork Consoles -- as being placed behind throne rooms of the castles, which may have been the central location of those corresponding civilizations, -- were to be applied to the Owite Academy as it is a castle with curse-sourced danger, would it thematically fit?
+While being a speculation, if prior motif of Clockwork Consoles -- as being placed behind throne rooms of the castles, which may have been the central location of those corresponding civilizations or narratives, -- were to be applied to the Owlite Academy as it is a castle with curse-sourced danger, would it thematically fit? Given most distinct presence of Underworld without an actor of material realm, such as Jelly King or Lord Vanadukewith its own motivation to remain in-place, we can assume that the console would be exposed to darkness of Underworld which makes Clockworks further susceptible to Undercorp as a primary threat as well as greater Underworld.
 
 #### Nature of Owlite Tomes
 
@@ -5693,79 +5693,127 @@ The [ancient tome stand](https://wiki.spiralknights.com/Ancient_Tome_Stand#Ancie
 
 Considering the interest of Owlites with the kingdom of Almire, we believe it is plausible to move the recovered texts to the Moorcroft Archives after the events of the [Legion of Almire](https://wiki.spiralknights.com/Legion_of_Almire). Otherwise, this can be interpreted as a case of asset reuse.
 
-##### Causes of Kataclysm
+#### The Kataclysm
 
-Based on the [behavior](https://wiki.spiralknights.com/File:Furniture-Cursed_Tome_Stand-Animated.png) of [cursed tome stand](https://wiki.spiralknights.com/Cursed_Tome_Stand#Cursed_Tome_Stand), as it creates a _cursed field around itself and summons an idle spookat_, we can compare it againts _later summoning of Margrel through the Book of Dark Rituals_, creating a __maelstrom of curse__ identical to the [grim gate's collapsed portal](#grim-gate-portal-collapse) with the Black Kat himself:
+Based on the [behavior](https://wiki.spiralknights.com/File:Furniture-Cursed_Tome_Stand-Animated.png) of [cursed tome stand](https://wiki.spiralknights.com/Cursed_Tome_Stand#Cursed_Tome_Stand), as it creates a _cursed field around itself and summons a spookat_, we can compare it againts summoning of Margrel through the Book of Dark Rituals, creating a __maelstrom of curse__ _below the circle_ identical to the [grim gate's collapsed portal](#grim-gate-portal-collapse) with the Black Kat himself.
 
-- It is known that some time after Margrel had recovered the The Book of Grey Feathers, the Kataclysm has happened: `... the one who opened The Book of Grey Feathers and brought about the Kataclysm` ([Black Kat Raiment](https://wiki.spiralknights.com/Black_Kat_Raiment)).
+##### Kataclysm and Darkness of Underworld
 
-    It is plausible that the Kataclysm, as we have suggested, had originated from the Academy by the action of Margrel reading through the Owlite text, mainly due to how the Academy is covered by darkness similar to the Graveyards and so different from the Scarlet Fortress. That the source of undeath and Kataclysm's effects would've been from the similar pattern, which was initiated by the Book of Dark Rituals.
+It is known that some time after Margrel had recovered the The Book of Grey Feathers, the Kataclysm has happened: `... the one who opened The Book of Grey Feathers and brought about the Kataclysm` ([Black Kat Raiment](https://wiki.spiralknights.com/Black_Kat_Raiment)).
 
-- The fact that the cursed maelstrom appears due to improper application of the Book of Dark Rituals - as suggested by [Konjuring Kat](https://wiki.spiralknights.com/Konjuring_Kat#Dialogue) before and after fight with Margrel: `I have no idea what might happen. It could be very bad. You probably want to be prepared in case things go... awry. ... Well, that was unexpected. I'll get it right next time!`
+It is plausible that the Kataclysm had originated from the Academy by the action of Margrel reading through the Owlite text, mainly due to 2 notions:
 
-    We can make a guess, that the release of curse in all 3 instances:
+- __Academy is being suspended into darkness near-identical to the one present across the__ [graveyards](#graveyards). `Graveyards are an unnatural place, a world between worlds where lost souls gather, hungry for the life of any live soul that must pass through` ([Information Module: Graveyard](https://wiki.spiralknights.com/Information_Module:_Graveyard)), while Scarlet Fortress remains unaffected apart from absent Owlites
+- In addition to the afforementioned darkness we note on an unprecedented and hostile presence of grimalkin, which are immune to any incomming damage apart from presence of warding candles whose function we we explore very soon.
 
-    - By Margrel, resulting in Kataclysm;
-    - By Konjuring Kat, resulting in a curse maelstrom centered around the summoning site;
-    - Knight's interaction with the [cursed tome stand]();
+As undeath and darkness present across both cases we propose that Kataclysm,  while being initiated by the Book of Grey Feathers, is __related to the meataphysics of Underworld's presence through the medium of darkness__ which we now identify as native to Underworld given prior [analysis of gunslinger priests descend into Underworld](#forgotten-time-part-1-divine-light).
 
-    Are all improper, or the very state of those tomes being cursed causes this reaction of curse emerging. The latter case is countered by the fact that Margrel's book is called the Book of Grey Feathers, which, paired with Spookat warnings, is indeed dangerous.
+##### Dark Ritual at The Moorcroft Manor
 
-    We still have to identify the cause and effect of those tomes, their properties.
+[Konjuring Kat](https://wiki.spiralknights.com/Konjuring_Kat#Dialogue) notes on the ritual itself before the encounter with Margrel:
 
-- To add a counter point to the above discovery, the fact that [mystical tome stand]() _seems to be free of curse_.
+- `Where did you find that?! Hand it over! I can finally complete my work!`
 
-    The interaction with it is not accompanied by curse-bearing symbolism, suggesting that it is the property of cursed tomes which summons undead kat tribe to the material realm.
+  Based on this reaction we can assume that the Kat is aware of the Book of Dark Rituals and it properties. More so, Kat's ritual seemingly requires the tome as the quote `I can finally complete my work!` accents the longevity of the wait.
 
-    It is then a question of weather the Book of Grey Feather was already cursed, or it is the unpredictability of the magic within. If we refer to [Chaos Cloak](https://wiki.spiralknights.com/Chaos_Cloak) - `A forbidden mantle said to grant the wearer protection within the nameless realm where all elements are said to converge into one and divide into all`, - the chaotic theming could be considered then as a key element to this magic as vaguely defined under terms of cursed or divine, as both represent a duality of whole.
+- `I have no idea what might happen. It could be very bad. You probably want to be prepared in case things go... awry`.
+- After the ritual: `Well, that was unexpected. I'll get it right next time`.
 
-In that context we have yet to understand, how imagery of the evil eys on Kat Tribe armors related to the metaphysics of those cursed tomes. We have notes earlier, that presence of this eye is vague, given most of the armors are transmuted through alchemy. On the other hand, the nature of [Mysterious Alchemy Machine](https://wiki.spiralknights.com/Mysterious_Alchemy_Machine) is by itself is a mystery. As far as alchemical recipes allow, the knowledge of that equipment may be external, and then, canon, preserving its original design - _with the evil eye being part of the original design_.
+Based on those responses we assume that the summoning, besides being identified as a dark ritual by the Konjuring Kat, has _element of uncerainty to the process_ itself. What manifests of the ritual is unknown to the Kat, which makes it difficult to _identify the purpose of the ritual_.
 
-##### Book of Grey Feathers is The Book of Dark Rituals
+The uncertainty followed by a maelstrom of curse is _reminicent of the relation between the Book of Grey Feathers and the Kataclysm as its consequence_.
 
-Here we have to argue, weather presence of multiple [Books of Dark Rituals]() is canon, as, to parallel Lord Vanaduke and his possession of Seals of Almire, -- Margrel's and Lord Vanaduke's respective boss trophy token materials is not enough from a single defeat to transmute any of thematic equipment. This seems to be the case of this method of attaining the materials to be not canon.
+Manifestation of curse can be found in a few other instances of interraction tiwht the tomes:
 
-This idea of bosses to be found in single instances my be affirmed by the sequence adn consequences rank missions offer -- [Shadowplay](https://wiki.spiralknights.com/Shadowplay) explicitly tells of what has happened after the events of The King of Ashes: `We all sensed the moment you defeated Vanaduke. The entire citadel shook as he fell and for a moment we thought that this realm would be destroyed along with its ruler. You must be careful wandering these halls with the place coming apart like this!` ([Nature Sprite](https://wiki.spiralknights.com/Shadowplay/Overgrown_Court)).
+- By Margrel, resulting in Kataclysm;
+- By Konjuring Kat, resulting in a curse maelstrom centered around the summoning site;
+- Knight's interaction with the [cursed tome stand](), as it creates a circle of curse around the tome with spookat being summoned;
 
-It is important to the understanding of where precisely is the original book of Grey Feather located, as then the Book of Dark Rituals could in fact be the very Book of Grey Feathers which had Margrel read through, supposedly, at the top of the Grey Feathers tower. And, we propose, it would be _thematically conclusive for the book to be the tool to bring Margrel back_ through the Dark Ritual many years later.
+With this approach we propose, that the curse maelstrom of dark ritual as well as other instances of curse appearing are a result of an _improper application_ of the Book of Dark Rituals and the texts within those owlite tomes.
 
-To affirm this idea of Book of Dark Ritual being the Book of Grey Feather as a unique in its existence, suggests its rare drop rate, as if over the years, by accident, it had ended up among summoned Black Kats.
+<!--the interpretation may be found through the idea of the very state of those tomes being cursed to cause the reaction of curse emerging. The latter case is countered by the fact that Margrel's book is called the Book of Grey Feathers, which, paired with Spookat warnings, is indeed dangerous.-->
 
-The fact that it is known as the book containing dark rituals, similar to the [cursed tome stand](https://wiki.spiralknights.com/Cursed_Tome_Stand#Cursed_Tome_Stand), which was at some point an Owlite tome, yet is described as follows: `A podium displaying an ominous tome filled with unreadable scribbles and smudged ink prints of Kat paws`, this tome was in the possession of Kats, and, as it is stated that Black Kats are unable to read, it is either was used by different spookats, or was such before the Kataclysm. Even more important the possibility of _those Kats capable of reading it and writing there_.
+#### Nature of The Ritual
+
+With an assumption that curse manifests from the tomes due to their improper application during a ritual, we can attempt to identify the cause and effect of those tomes and the purpose of the rituals they were used in.
+
+##### Chaotic Motif
+
+Counter to this assumtion, when the knight interracts with the [mystical tome stand]() it does not react with presence of curse. The interaction with it is not accompanied by curse-bearing symbolism, suggesting that it is the property of only _cursed owlite tomes_ which causes curse.
+
+It is then a question of whether the Book of Grey Feather was already cursed, or it is the unpredictability of the magic within which can cause emergence of curse.
+
+If we refer to [Chaos Cloak](https://wiki.spiralknights.com/Chaos_Cloak), `A forbidden mantle said to grant the wearer protection within the nameless realm where all elements are said to converge into one and divide into all`, the chaotic theming could be considered then as a key element to this magic as vaguely defined under terms of curse or divinity, as both represent a duality of whole.
+
+This interpretation of chaos and unpredictability is similar to the motif of chaos associated with the work itself within established metaphysics. We assume so not only because of the aforementioned cloak, but also [Chaotic Haze of Maskeraith](https://wiki.spiralknights.com/Chaotic_Haze#Chaotic_Haze), which _identically to the Chaos Cloak is related to all status effects with inclusion of curse_.
+
+<!--In that context we have yet to understand how imagery of evil eyes on Kat tribe armors relates to their past prior to Kataclysm.-->
+
+<!--We have noted earlier, that presence of eyes is vague, given most of the armors are transmuted through alchemy. On the other hand, the nature of [Mysterious Alchemy Machine](https://wiki.spiralknights.com/Mysterious_Alchemy_Machine) is by itself is a mystery. As far as alchemical recipes allow, the knowledge of that equipment may be external, and then, canon, preserving its original design _with the evil eye being part of the original design_.-->
+
+##### Multiplicity of Boss Trophies
+
+Here we have to argue, whether presence of multiple [Books of Dark Rituals]() is canon, as, to parallel Lord Vanaduke and his possession of Seals of Almire, as tokens -- Margrel's and Lord Vanaduke's respective boss trophy token materials are _not enough from a single defeat to transmute any of thematic equipment_. While Margrel can be consideredbanished, akckownledgement of Lord Vanaduke's defet as an ahcievement called `Free Spirit` implies in-universe singule traversal of the Firestorm Citadel during the events of King of Ashes mission.
+
+We propose, this interpretaion does not render boss trophies as not canon, but rather the method of materials' or tokens' aquisiotion is not canonically, physically tied to multiple defeats of the corresponding figures, rank mission bosses, in-universe.
+
+##### Ruination of Owlite Tomes
+
+As we speculated earlier, the Book of Dark Rituals could in fact be the very Book of Grey Feathers which had Margrel read through. While the Book of Grey Feather is located at the Grey Feather Tower of the academy, its speculated state as the Book of Dark Rituals requires it to be lost. In particular, the book must be in possession of a nameless Black Kat which congregate at owlite libraries.
+
+Black Kats are stated to be summoned, as much as Margrel, which suggest that all Black Kats, bearers of curse, had to be located in the Underworld prior to their summoning as the only known location associated with curse and acts of summoning, __reminiscent of the sealed Legion of Ur__, even without acknowledgement of Dread Seals present on Black Kats.
+
+<!--It is important to the understanding where precisely is the original book of Grey Feather located, as then the Book of Dark Rituals could in fact be the very Book of Grey Feathers which had Margrel read through, supposedly, at the top of the Grey Feathers tower. And, we propose, it would be _thematically conclusive for the book to be the tool to bring Margrel back_ through the Dark Ritual many years later.-->
+
+To affirm this idea of Book of Dark Ritual being the Book of Grey Feather as a unique in its existence, suggests its particularly rare drop rate which we frame into a following narrative. At the aftermath of Kataclysm the Owlite academy is lowered into Underworld identically to graveyards so its inhabitants, as well as Kats which seiged the academy, were taken into the Underworld and transfomed by improper application of the book, resulting in them, now as Black Kats, possessing the book.
+
+This leads us to the __concept of an owlite tome be defiled to a cursed tome__.
+
+The fact that it is known as the book containing dark rituals, similar to the [cursed tome stand](https://wiki.spiralknights.com/Cursed_Tome_Stand#Cursed_Tome_Stand) coupled with its description, `A podium displaying an ominous tome filled with unreadable scribbles and smudged ink prints of Kat paws`, we interpret as a former owlite tome, written by owlites, _as it was retrieved and tempered by Kats_.
+
+<!--This tome was in the possession of Kats, and, as it is stated that Black Kats are unable to read, it is either was used by different spookats, or was such before the Kataclysm. Even more important the possibility of _those Kats capable of reading it and writing there_.-->
 
 If knight had no skill of understanding Owlite tomes, he would be likely to recreate ill-usage of the tome, which does not fit to the presence of the [mystical tome stand](https://wiki.spiralknights.com/Mystical_Tome_Stand#Mystical_Tome_Stand) and its [behavior](https://wiki.spiralknights.com/File:Furniture-Mystical_Tome_Stand-Animated.png). This pattern of magic, apart from Nature Sprite magic, in the context of the effect of the Dark Ritual is very similar to the white soul-like orbs drawn to the ritual site before the pink lightning strikes it.
 
-On the other hand, there is no unique furniture in the [Moorcroft](https://wiki.spiralknights.com/Moorcroft_Prize_Box) or [Guild hall](https://wiki.spiralknights.com/Guild_Hall_Prize_Box) prize boxes, like transmuted furniture, similar to [Lord Vanaduke's Finery]() and [unlit mask](), which on their own could not exist simultaneously as discussed in the [mask and finery section](#vanadukes-mask-and-immortality-through-curse). There, we have proposed, that _there is only one mask of Lord Vanaduke, one in his finery with the lingering presence after his soul_. Based on this we could gather, that the cursed tome is not a unique instance, but rather a multitude of books, what is the stand is not unique in its existence, there are other cursed tomes.
+<!--On the other hand, there is no unique furniture in the [Moorcroft](https://wiki.spiralknights.com/Moorcroft_Prize_Box) or [Guild hall](https://wiki.spiralknights.com/Guild_Hall_Prize_Box) prize boxes, like transmuted furniture, similar to [Lord Vanaduke's Finery]() and [unlit mask](), which on their own could not exist simultaneously as discussed in the [mask and finery section](#vanadukes-mask-and-immortality-through-curse). There, we have proposed, that _there is only one mask of Lord Vanaduke, one in his finery with the lingering presence after his soul_. Based on this we could gather, that the cursed tome is not a unique instance, but rather a multitude of books, what is the stand is not unique in its existence, there are other cursed tomes.-->
 
-Due to those factors, we propose, that the Book of Grey Feathers, as it was cursed by ill-usage and potentially other factors, is the Book of Dark Rituals, as then its rarity would be symbolically explained, as one of a kind.
+<!--Due to those factors, we propose, that the Book of Grey Feathers, as it was cursed by ill-usage and potentially other factors, is the Book of Dark Rituals, as then its rarity would be symbolically explained, as one of a kind.-->
 
 The cursed tomes remain, as there is both possibility of those tomes being in possession of Kats both before their banishment, and after Kataclysm - both scenarios could explain them as follows:
 
-- The cursed tomes are tempered by spookats of the Moorcroft Archives. Most of spookats are civil enough to run Moorcroft manor, library, with an accompanied railroad.
+- The cursed tomes are tempered by spookats of the Moorcroft Archives. Most of spookats are civil enough to retain Moorcroft Manor operational with its library and accompanied railroad.
 
-    There are 3 fiendish sigils depicted on the left page of the cursed tomes on the stands. This means, in conjunction with the effects of interaction with the tome, that the nature of Margrel's summoning and of spookat by the cursed tome stand is fundamentally the same.
+    There are 3 fiendish sigils depicted on the left page of the cursed tomes on the stands. This means in conjunction with the effects of interaction with the tome that the nature of Margrel's summoning and of spookat summoned by the cursed tome stand is fundamentally similar.
 
-    More so, the nature of this summoning, given presence of glyphs, and glowing text of ancient pages, may link Black Kats with Dread Seal to the summoning of sealed Legion of Ur. As Legion of Ur is summoned through the sigils and ritual circles as a last resort by devilites, we can conclude that all of those 3 instances are cases of the same metaphysical laws regarding cross-dimensional transportation.
+    <!--More so, the nature of this summoning, given presence of glyphs, and glowing text of ancient pages, may link Black Kats with Dread Seal to the summoning of sealed Legion of Ur. As Legion of Ur is summoned through the sigils and ritual circles as a last resort by devilites, we can conclude that all of those 3 instances are cases of the same metaphysical laws regarding cross-dimensional transportation.-->
 
-- Kat Tribe had to know of the magical properties of Owlite tomes, and, judging by animalistic behavior of Black Kats, they would have known it prior to Kataclysm and transformation to the undead.
+- Kat Tribe had to know of the magical properties of owlite tomes, and, judging by animalistic behavior of Black Kats, they would have known it prior to Kataclysm and transformation to the undead.
 
-The fact that Seraphynx in the events of [Angels from Antiquity](https://wiki.spiralknights.com/Angels_from_Antiquity) is found in the same chamber of an identical ritual circle as Konjuring Kat, while being located in the [Restless Railroad](https://wiki.spiralknights.com/Angels_from_Antiquity/Restless_Railroad), and as it is transformed only recently, we can propose, that this innate _Kat tribe property of seeking magic is a form of reincarnation of Kats through battle sprites_, and not characteristic of a select few member of the Kat Tribe: `I think these sprites are studying these old books. I didn't even know they could read!` ([Angels from Antiquity/Restless Railroad - Rhendon](https://wiki.spiralknights.com/Angels_from_Antiquity/Restless_Railroad)).
+The fact that Seraphynx in the events of [Angels from Antiquity](https://wiki.spiralknights.com/Angels_from_Antiquity) is found in the same chamber of an identical ritual circle as Konjuring Kat, while being located in the [Restless Railroad](https://wiki.spiralknights.com/Angels_from_Antiquity/Restless_Railroad), and as it is transformed only recently, we can propose, that this innate __Kat tribe property of seeking magic is found across reincarnation of Kats through Seraphynx battle sprites__.
+
+While this notion may be characteristic of a select few member of the Kat Tribe prior to their transformation, `I think these sprites are studying these old books. I didn't even know they could read!` ([Angels from Antiquity/Restless Railroad - Rhendon](https://wiki.spiralknights.com/Angels_from_Antiquity/Restless_Railroad)), __it is reflected on entirety of Seraphynx mutation__.
 
 As Spookats of Moorcroft Manor are not explicitly malevolent, the prior case of living Kat Tribe being responsible for capture of Owlite tome books seems more probable, turning them by fact of interaction to a cursed tomes.
 
 ##### Kataclysm Aftermath
 
-Kataclysm had erased Owlites and Kat Tribe, the entire heavenly kingdom, as seen by the state Scarlet Fortress is found.
+Kataclysm had erased Owlites as a species and Kat tribe itself, the entire heavenly kingdom, as observed by the state Scarlet Fortress is found in.
 
-We had proposed that the Academy was at the epicenter of the Kataclysm, considering its similarity to Graveyards, which are between material realm and Underworld (`Graveyards are an unnatural place, a world between worlds where lost souls gather, hungry for the life of any live soul that must pass through. You must hurry and find the exit as fast as possible before the phantoms will awaken and stalk you!` - [Graveyard - Information Module](https://wiki.spiralknights.com/Information_Module:_Graveyard)).
+We had proposed that the Academy was at the epicenter of the Kataclysm.
 
-Based on the presence of spookats across Clockworks, and more specifically, presence of spookats across castles, we can guess a potential scope of Kat Tribe operation, with Kat Tribe invading both the Academy and Scarlet Fortress which we attribute to the heavenly kingdom, if not even its capital, in the same manner as among many citadels of Almire, we can explore only the Great Citadel at the center of Almire.
+Based on the presence of spookats across Clockworks, presence of spookats across castles, we can guess a potential scope of Kat Tribe operation, with Kat Tribe invading both the Academy and Scarlet Fortress which we attribute to the heavenly kingdom, if not even its capital, in the same manner as among many citadels of Almire, we can explore only the Great Citadel of Almire.
 
-In the Lockdown mode, one of the arenas - the Fortress, - is the Scarlet Fortress, and it is filled with torn pages, similar to the occasional libraries of the Kataclysm prestige missions.
+In the Lockdown mode, one of the arenas -- the Fortress -- is the Scarlet Fortress. Torn pages as ones found at the liberaries of Kataclysm prestige missions are found scattered there.
 
-This pattern of knights visiting the most important regions of civilizations may be applied to the earlier concept of the Grey Feather Tower being the center point of the Owlite Academy. Despite the fact earlier we suggested that the tower itself remain unseen, we do not know its fate. As far as the properties of cursed maelstrom go, judging by its known behavior in consideration of Grim Gates, __Grey Feather Tower could be in a different realm altogether, as Graveyards__, as the Kataclysm did not erase Kats, but seemingly banished them into Underworld, while the rest of the Academy may be more intact, - anchored to the material realm.
+##### Separation of The Grey Feather Tower
 
-##### Dark Ritual and The Nefarious Imp
+A different interpretation of the Candlestick Keep may be presented then. Given expansive un structured layout of the keep we can suggest it being not the castle keep of the academy -- the Grey Feather Tower -- but the rest of the structure, identical to the Scarlet Fortress. This does not relinquish the ide of Grey Feather Towre being at epicenter of the Kataclysm, but rather, as Black Kats, moves it in to the Underworld, so it is not being explored as a Candlestick Keep, becoming separate from the rest of the academy.
+
+As far as the properties of cursed maelstrom go, judging by its known behavior in consideration of grim gates as capable of transportaion, __Grey Feather Tower could be located in the udnerworld altogether__, different from the state graveyards are found, and attain a unique position in the narrative identical to the Firestorm Citadel as the Grand Citadel of Almire. Within this interpretation the Kataclysm did not erase Kats, but seemingly banished them into the Underworld, while the rest of the Academy while may be more intact remains anchored to the material realm apart from the transported Grey Feather Tower.
+
+Such interpretation provides a finite and defined extreme result of the metaphysical system this setting presents on par with the other extremes such as manifestaion of [darkfire as resulting of several curses](#nature-of-darkfire) or nature of [soul-fueled apocrean engines](#apocrean-engines) as tethered to those metaphysics.
+
+##### Summoning of Black Kats
 
 We have stated earlier that the behavior of [Cursed Tome Stand](), presence of 3 fiendish sigils and summoning of Margrel [are of the same nature]().
 
