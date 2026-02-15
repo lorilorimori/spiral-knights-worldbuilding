@@ -5757,7 +5757,7 @@ Here we have to argue, whether presence of multiple [Books of Dark Rituals]() is
 
 We propose, this interpretaion does not render boss trophies as not canon, but rather the method of materials' or tokens' aquisiotion is not canonically, physically tied to multiple defeats of the corresponding figures, rank mission bosses, in-universe.
 
-##### Ruination of Owlite Tomes
+##### Defilement of Owlite Tomes
 
 As we speculated earlier, the Book of Dark Rituals could in fact be the very Book of Grey Feathers which had Margrel read through. While the Book of Grey Feather is located at the Grey Feather Tower of the academy, its speculated state as the Book of Dark Rituals requires it to be lost. In particular, the book must be in possession of a nameless Black Kat which congregate at owlite libraries.
 
@@ -5851,20 +5851,31 @@ As Kats are stated to _disappear into shadows_ it may be the case of _Grimalkin 
 
 #### Warding Candles
 
-At some point in time, [blue](https://wiki.spiralknights.com/File:Exploration-Candle_(Blue).png) and [yellow warding candles](https://wiki.spiralknights.com/File:Exploration-Candle_(Yellow).png) were developed as they are widespread within the Academy.
+At some point in time, [blue](https://wiki.spiralknights.com/File:Exploration-Candle_(Blue).png) and [yellow warding candles](https://wiki.spiralknights.com/File:Exploration-Candle_(Yellow).png) were developed.
 
-As they ward off [Grimalkin](https://wiki.spiralknights.com/Grimalkin), we can extrapolate this function onto general darkness referred in the [Information Module](https://wiki.spiralknights.com/Information_Module:_Candlestick_Keep): `Beware the horrible Grimalkins that lurk in the dark! These cursed wraiths cannot be destroyed and the only thing they truly fear is the light of the enchanted candles. Light them with embers and take refuge in their shining embrace`. At that point in time, smaller candles were created, designed to be carried: `A personal candle for warding off the darkness, and that which lurks within it` ([Illuminating Ward](https://wiki.spiralknights.com/Illuminating_Ward)).
+They present a fascinating case of post-Kataclysm Academy being developed as it own narrative, candles' primary role observed by Spiral Order is of resisting presence of darkness of Underworld:
 
-The candles are meant to protect specifically against this threat, suggesting that the darkness was discovered before Kataclysm - likely during the suppression of Legion of Ur, - or the Kataclysm wasn't as sudden as we have supposed so far.
+- `Beware the horrible Grimalkins that lurk in the dark! These cursed wraiths cannot be destroyed and the only thing they truly fear is the light of the enchanted candles. Light them with embers and take refuge in their shining embrace`.
+- At that point in time, smaller candles were created, designed to be carried, `A personal candle for warding off the darkness, and that which lurks within it` ([Illuminating Ward](https://wiki.spiralknights.com/Illuminating_Ward)).
 
-At that, given major absence of shadow defending equipment from Owlites, we propose, that it is the latter scenario of the Academy being lowered into the Underworld, as Graveyards, while the rest of heavenly kingdom had to withstand an onslaught of undead Kat Tribe, as it is Scarlet Fortress which is populated by the undead. The need to develop candles swiftly, but from existing knowledge, would result in such scanraio being plasusible without conflicts.
+Those candels are named as `warding` because of their function to ward off the darkness.
 
-Graveyards in that regard are interpreted as being haunted after Almire had fallen, but before candles were invented:
+Because the candles are meant to protect specifically against this threat, we suggest that the darkness was discovered before Kataclysm erased owlite civilization.
 
-- As they are seen in a specific [Graveyard scenario room](https://wiki.spiralknights.com/File:Scenario_Room-Graveyard_7.png), Owlites had to traverse those grounds;
-- If graveyards were haunted during existence of Almire, this would not be seemingly fitting for people of Almire to travese those, as graveyards with no darkness would not have a pecedent of candles being located there in the first place.
+In fact, the __nature of those candles resides in utulization of the divine and radiant light__ [griffins and Sun Silver possess](#forgotten-time-part-2-radiance-of-griffon), dicovered as far as [first gunslinger priests had descended into the Underworld]().
 
-This creates a condition for potentially other equipment to be engineered after the Kataclysm in the same themes of combatting darkness. Yet, as Cradle already had a property of spirits returning to material realm, we would suggest that the scale this process was ongoing before was in lesser extent and scale, in order for only gunslinger priests being concerned with it.
+<!--At that, given major absence of shadow defending equipment from Owlites, we propose, that it is the latter scenario of the Academy being lowered into the Underworld, as Graveyards, while the rest of heavenly kingdom had to withstand an onslaught of undead Kat Tribe, as it is Scarlet Fortress which is populated by the undead. The need to develop candles swiftly, but from existing knowledge, would result in such scanraio being plasusible without conflicts.-->
+
+We suggested that graveyards were lowered into the Underworld after fall of Almire. Graveyards are built by Almirians.
+
+We find 2 instances of warding candles being present across them:
+
+- As they are seen in a specific [Graveyard scenario room](https://wiki.spiralknights.com/File:Scenario_Room-Graveyard_7.png), where the knight is surrounded by 4 burning or extinguished warding candles, suggesting Owlites had traversed those grounds.
+- Presence of a single warding candle at the exit elevator at the Grasping Plateau being an altered by Apocrean Relam graveyard.
+
+As yellow warding candles are lit with embers and Owlites are known to be vulnerable to fire we suggest that warding candles' powers are dependant on supply of embers and their innate properties. Considering Owlites' interest in Almire, and as we will discover in the [analysis of Shadow Firestorm Citadel](#true-citadel-of-almirian-empire), [heavenly kingdom surrounds the Citadel](#true-citadel-of-almirian-empire), embers could in fact be derived from there.
+
+The blue and yellow light of those candles can be intepreted as the divine light either due to to nature of the candles themselves or the fuel for the fire. In this regard we are interested in the nature of burning embers found across the academy which are used to light up the yellow warding candles. We will cover them soon.
 
 #### Owlite Iteration on The Divine
 
@@ -5886,35 +5897,37 @@ Then there is [Grey Owlite Shield](https://wiki.spiralknights.com/Grey_Owlite_Sh
 
 Given nature of [Chaos Cloak](https://wiki.spiralknights.com/Chaos_cloak) and Book of Grey Feathers, those items seem us to __represent the greatest advancements of Owlites__, which, consequently, had to result in a catastrophe attributed to Kataclysm and Kat Tribe.
 
-At that, the only event remaining before creation of the kingdom of Almire is the _banishment of Fallen Valkyrian and creation of Legion of Ur_, with Gunslinger Priests being a group closely related to Isorans, their fall as trojans, and leading to the incursion of Valkyries into the Underworld.
+At that, the only event remaining before creation of the kingdom of Almire is the _banishment of Fallen Valkyrian and creation of Legion of Ur_, their fall as trojans, and resulting in the incursion of Valkyries into the Underworld.
 
 #### Kat Tribe Artillery
 
 There are spookats, Black Kats, and grimalkin. As with Owlites, we can only guess the anatomy of Kats based on their alchemized armor, general context, and retellings of past events in the same manner as we understood [the plan of attack onto the Academy](#siege-of-the-academy).
 
-Kat Tribe was capable of utilizing weaponry, including artillery (`A reclaimed raiment said to resemble the Kat Tribe hero, Preowa, whose artillery silenced the Grey Feather Tower Sages` - [Kat Eye Raiment](https://wiki.spiralknights.com/Kat_Eye_Raiment)). The definition of artillery in that regard seems to not significantly differ from real-world one, as the prior carries a capacity to siege a tower of the Academy, making it powerful enough to resemble real world counterparts.
+Kat Tribe was capable of utilizing weaponry, including artillery, `A reclaimed raiment said to resemble the Kat Tribe hero, Preowa, whose artillery silenced the Grey Feather Tower Sages` ([Kat Eye Raiment](https://wiki.spiralknights.com/Kat_Eye_Raiment)). The definition of artillery in that regard seems to not significantly differ from real-world one, as the prior carries a capacity to siege a tower of the Academy, making it powerful enough to resemble real world counterparts.
 
-In regards to military terms, [Howlitzers](https://wiki.spiralknights.com/Howlitzer), we had suggested, are inspired by howitzers, a german artillery. As Kat Tribe is permanently obscured by the Kataclysm and already is associated with shadow damage seemingly earlier, could it be, that howlitzers were the units utilized during Academy's siege as the artillery? Given that howlitzer partially behave as gremlins' [homing rockets of rocket puppies](https://wiki.spiralknights.com/Rocket_Puppy#Rocket_Puppy), this seems relatively plausible in the context of weaponized properties of Underworld.
+In regards to military terms, [Howlitzers](https://wiki.spiralknights.com/Howlitzer), we had suggested, are inspired by howitzers, a german artillery. As Kat Tribe is permanently obscured by the Kataclysm and already is associated with shadow damage seemingly earlier, could it be, that howlitzers were the units utilized during Academy's siege as the artillery, [rather than being remnants of the war againts dragons](#howlitzers-dragons-and-drakes)?
 
-As we have [proposed that howlitzer are drakes](#howlitzers-dragons-and-drakes), their existence here can only be justified by the property of spirits returning to material realm, meaning that before Kataclysm howlitzers, as drakes, had to be buried across the castle grounds of heavenly kingdom. That is, if Kataclysm is responsible for spirit returning to material realm.
+<!--Given that howlitzer partially behave as gremlins' [homing rockets of rocket puppies](https://wiki.spiralknights.com/Rocket_Puppy#Rocket_Puppy), this seems relatively plausible in the context of weaponized properties of Underworld.-->
 
-In order to analyze the possibility of those scenarios, compared to our earlier suggestion of drakes invading the heavenly kingdom after dragons were defeated, we have to understand precise nature of Kat Tribe and their culture.
+As we have [proposed that howlitzer are wyverns or dragons](#howlitzers-dragons-and-drakes), their existence here can only be justified by the property of spirits returning to material realm, meaning that before Kataclysm howlitzers had to be buried across the castle grounds of heavenly kingdom.
+
+<!--In order to analyze the possibility of those scenarios, compared to our earlier suggestion of drakes invading the heavenly kingdom after dragons were defeated, we have to understand precise nature of Kat Tribe and their culture.-->
 
 #### Grimalkin and Grim Convention
 
-Regular grimalkin encountered across Candlestick Keep arrive from the darkness and vulnerable to blue warding candles. And, it is grimalkin which are referred in the candle description: `candle for warding off the darkness, and that which lurks within it` ([Illuminating Ward](https://wiki.spiralknights.com/Illuminating_Ward)).
+Grimalkin encountered across Candlestick Keep arrive from the darkness and _avoid the light of warding candles_. And, it is grimalkin which are referred in the candle description: `...candle for warding off the darkness, and that which lurks within it` ([Illuminating Ward](https://wiki.spiralknights.com/Illuminating_Ward)).
 
-Grimalkin in real world terms is a cat. But, due to _cosmology and terminology of the setting_, we propose, that the name itself by the prefix of "grim", is meant to be associated with Underworld - grim gates, grim totems as Undercorp's or Underworld's technology, and [grim mask](https://wiki.spiralknights.com/Grim_Mask) of Isoran folklore, - relates to the Underworld and its nature with close relation to darkness. This concept of dangerous darkness was earlier proposed as a [potential reason for Sleeper's concerns over it](#nefarious-imp).
+Grimalkin is an archaic term for a cat. But, due to _cosmology and terminology of the setting_ that name attain a localized meaning by addition of the prefix `grim`, relating to to the Underworld. Grim gates, grim totems as Undercorp's or Underworld's technology, and [grim mask](https://wiki.spiralknights.com/Grim_Mask) of Isoran folklore, those objects relate to the Underworld and its nature.
 
-Here, in the presence of Owlite Academy amd Grimalkin, the properties of this darkness are closely similar to one of Graveyard's, granting those entities - Phantoms and Grimalkin a state close to invincibility in the Material Realm, countered only by [warding candles](#warding-candles).
+<!--This concept of dangerous darkness was earlier proposed as a [potential reason for Sleeper's concerns over it](#nefarious-imp).-->
 
-As warding candles are lit with embers, and Owlites are known to be vulnerable to fire, may suggest, the way we see it, that warding candles' powers are dependant on constant supply of embers and their innate properties. Considering Owlites' interest in Almire, and as we will discover in the [analysis of Shadow Firestorm Citadel](#true-citadel-of-almirian-empire), [heavenly kingdom surrounds the Citadel](#true-citadel-of-almirian-empire), embers could in fact be derived from there. This ties with the later presence of [Dread Seals]() on [Carnavons](), populating Shadow Firestorm Citadel, but it is a different topic, which we will discuss in detail later.
+The properties of this darkness are closely similar to one of Graveyard's, granting those entities -- Phantoms and Grimalkin -- a state close to invincibility in the material realm, countered only by [warding candles](#warding-candles).
 
-As of now, __this notion of darkness makes a strong case considering it the true or close to true reason for Sleepers need in protection__ even before we properly discuss it.
+<!--As of now, __this notion of darkness makes a strong case considering it the true or close to true reason for Sleepers need in protection__ even before we properly discuss it.-->
 
-Considering presence of Grimalkin only within the Academy, in addition to Margrel, we can make a guess that those are the _Kats which were at most proximity to the epicenter of kataclysm_. In order to follow the differences between origins of Black Kats, grimalkin and the rest of spookats, - as a metaphysical change had to occur to them during the Kataclysm.
+Considering presence of Grimalkin only within the Academy, in addition to Margrel, we can make a suggestion that those are the _Kats which were at most proximity to the epicenter of Kataclysm_. In order to follow the differences between origins of Black Kats, grimalkin and the rest of spookats, -- as a metaphysical change had to occur to them during the Kataclysm, the ritual performed back then by Margrel.
 
-##### Maskeraith
+#### Maskeraith Battle Sprite
 
 In the context of Grimalkin and here covered [phantoms](https://wiki.spiralknights.com/Phantom), we have to discuss [Maskeriath battle sprite](https://wiki.spiralknights.com/Maskeraith).
 
