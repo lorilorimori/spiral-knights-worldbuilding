@@ -3541,7 +3541,7 @@ Eldritch deities of Yog-Sothothery nor works beyond it do not define their goals
 
 But, it order to further identify Apocrea's effects on physical effects, we should eventually cover nature of the [Void](#the-void-part-1) and its possible relation to `primordial blackness`, as there are a few particularly similar concepts found across other metaphysical systems worth investigating in [due time](#the-void-part-2-massa-confusa):
 
-- _Wu Chi of Taoist_
+- _Wu Chi of Taoism_
 - _Chaos of Greek mythology_
 - _Ginnungagap of Norse mythology_
 - _Sunyata of Buddhism_
@@ -4697,15 +4697,11 @@ What their name means? Could it potentially be understood in a same manner as ho
 
 First, there are greaves, a type of leg armour. Greaver wear helments yet we can not find a distinct connection otehr than framing greavers as units in Underworld army, which was evident by their shadow steel-forged equipment [from the prior analysis](#evil-eye).
 
-<!--This can potentially mean that __greavers are elite military units__. _We saw this first-hand in fiendish arenas_, where 12 Greavers, which are considered elite enemies, approach as the [final wave of the final arena starts](https://wiki.spiralknights.com/Arena#Final_Wave_3).-->
-
 Greavers' and silkwings' anatomy is reminiscent of moths. Apart from a similar shape and wing patterns, they play a significant role in Greek mythology.
-
-Moths were believed to be carriers or be guidance for souls. This link to souls holds symbolic value for Arkus, as his narrative is one of inability to let go while becoming a trojan as a worse alternative.
 
 Arkus's fight is one of a _few instance of a text or knight narrating over the events_: `An intense sadness radiates from his fallen form. His eys fade and a darkness washes over him. Arkus is lost` ([Arkus - inspection](https://wiki.spiralknights.com/Arkus)).
 
-Greavers are native to Underworld ecosystem and now with the context of changed metaphysics, they can be seen as most natural non-violent presence of Underworld in the material realm as a place for souls to depart to. Within this explanation _greavers serve non-violent means for a soul refusing of depart_ which chooses solitude over oblivion. Moreover, considering all of the known logic behind manipulation and transfer of souls, could it be that we have witnessed _Underworld's proper, ancient method of capturing souls_, paralleling Apocrean Harvester?
+Greavers are native to Underworld ecosystem and now with the context of changed metaphysics, they can be seen as most natural non-violent presence of Underworld in the material realm as a guides for souls. Within this explanation _greavers serve non-violent means for a soul refusing of depart_ which chooses solitude over oblivion. Moreover, considering all of the known logic behind manipulation and transfer of souls, could it be that we have witnessed _Underworld's proper, ancient method of capturing souls_, paralleling Apocrean Harvester?
 
 As the prior narrative is mostly a speculation, while capture of souls seems more plausible despite prior motivation. We can provide one more explnation where Arkus's trasfomation to a trojans is protected by greavers, as _both Arkus and greavers oppose the knight_.
 
@@ -4807,8 +4803,6 @@ This explanation demands an answer to the reason behind Arkus's transformation. 
 <!--This led us to suggest, that  grief may be the catalyst of transformation, while the ruinous crystal may be the symptom of the process, rather than its source, reminiscent of Lord Vanaduke's and Carnavons' claws being remade from their Isoran anatomy yet seem to be made of dark matter.-->
 
 __Spiral Wardens were transformed into trojans of the Legion of Ur__ before Skylark and Iron Hulk had to crash land on Cradle. This time would preceede Almire, as Lord Vanaduke had to return with this legion, but not after the it would be sealed in the Underworld by Valkyries. The transformation, which had to happen then, could potentially be similar to one Arkus has to go through, as he already identified as a fiend.
-
-Arkus's sword slam attack has _pink lightning strike from above_, and forms dark crimsotine shards, similar to tortodrone missiles. Those depleted crimsonite shards are the same as tortodrones'. The pink lightning strike is closely similar to the one present _during summoning of Margrel_. Yet, as much as we have discussed [nature of portals and grim gates](#grim-gate-portal-collapse), we do not know nature of lightning or its symbolic role beyond what relates to [lesser creation myth and a pantheon of heavenly deities](#lesser-creaton-myth), other than being to some extent connected to Underworld, given context of lightning's appearances.
 
 #### Trojans are Deceived Spiral Wardens
 
@@ -6046,65 +6040,95 @@ Based on those instances, it seems that Spiral Order had not performed much modi
 
 This coincidentally fits with Kat Tribe's magic being characterized so far as evil, `A whisker won from the great Kat Tribe hero, Margrel. They were traditionally worn as a ward against Owlite magics but now represent the triumph of goodly magical arts over evil` ([Wicked Whisker](https://wiki.spiralknights.com/Wicked_Whisker)). As the name suggests, wicked, it possesses properties, more likely to be attributed to the entire theme of curse and Underworld.
 
-#### Pink Lightning: Part 1: Fiends
+#### Pink Lightning: Part 1: Underworld
 
-The last element if the pink lightning striking Margrel's ritual site when it is summoned. We suggest, so far, a vague idea of it being a sign of Underworld's presence, as across myth's lightning strike was associated with the presence of the supernatural, or more commonly, divine presence or intervention.
+The last element of Margrel's summoning we have not yet covered is the _pink lightning_ striking ritual site prior to Margrel's proper emergence from the circle.
 
-In case of the dark ritual, it is not the divine presence, but of Underworld. We have to consider similar lightning in case of Arkus, formation of minerals, we can suggest that it was the tapping into the Underworld's more distinct energy, one of the same nature as the one to cause minerals to form.
+Arkus's sword slam attack has _pink lightning strike from above_, and forms dark crimsotine shards, similar to tortodrone missiles. Those depleted crimsonite shards are the same as tortodrones'.
 
-The real reasoning for specifically Arkus's behavior here is vague, but we can lean into the idea of trojans inflicting shock, as they possess inner charge, which can be weaponized. And, as in both instances there are lightning arcs stemming from the dark matter crystal as a sign of Underworld's influence, we believe it to be linked to this condition.
+Yet, as much as we have discussed [nature of portals and grim gates](#grim-gate-portal-collapse), we do not know nature of lightning or its symbolic role beyond what relates to [lesser creation myth and a pantheon of heavenly deities](#lesser-creaton-myth), other than being to some extent connected to Underworld, given context of lightning's appearances.
 
-This does not constitute that the crystal was embedded, as we have already covered the case of dark matter. But rather it serves as the conduit for the connection with the Underworld.
+We suggest so far a vague idea of it being a sign of Underworld's presence, as across myth's lightning strike was associated with the presence of the supernatural, or more commonly, divine presence or intervention. In case of the dark ritual, it is not the divine presence, but of Underworld most distinctly.
 
-As for Sparks of Life - as those are already discrete quantities of energy, enough to revive, presence of lightning could seem as a design choice. And yet, it is accompanied by falling dust, similar to the presence of the Swarm. This seems as a different instance of signaling energy's presence through blue lightning, its excess, symbolized by the temporary attack buff.
+We have to consider in case of Arkus the formation of minerals which, given nature of minerals as energy mediums, mey be a result of near-instant transfer of energy into a solid form. As in case of Arkus and most evidently in case of Margrel, th energy is related to Underworld, but the reason behind a relation of Underworld to lightning is unknown.
 
-When Margrel is summoned, bright soul orbs are seem to be attracted to the ritual site with a distinct red-pink swirl forming, characteristic of the collapsed grim gate's portal. Then the portal overtakes the entirety of the depth, and soul-like projectiles are now spiked orbs.
+This notion is similar to the behavior of Sparks of Life, as Sparks of Life are already identified as discrete quantities of energy enough to revive, presence of lightning could seem as a specific design choice.
 
-As Black Kats are said to be explicitly summoned, and during Margrel's fight they appear in large amounts, this seems to us, as if the portal in the grim gates and gateway for Black Kats to cross into material realm are physically identical.
+Apart from the lightning bolt itself, revival through Spark of Life is _accompanied by falling dust_ similar to the presence of the Swarm at Swarm-infested depths. This seems as a different instance of signaling energy's presence through blue lightning, its excess, symbolized by the temporary attack buff.
 
-#### Dread Seal: Part 1
+#### Dread Seal: Part 1: Suppression Magic
 
-Presence of Dread Seals both on Black Kats, Margrel, and Carnavons also seems as if it was placed by somebody, - an idea we mentioned several times. There, based on the design and naming convention of a seal, __we have assumed that the Seal is devised by Valkyries or Owlites__, as it is means to contain or seal the curse. If wwe looked onto the design itself, __Seal's design is similar to the Fu talisman, as it is placed by priest on ghost's forehead in order to hinder or disarm it.__
+Presence of Dread Seals on Black Kats, Margrel, and Carnavons both by its placement and its name implies a figure or faction which had placed it onto them, evoking the first discussed case of [sealing magic found for elemental lumbers](#lumbers-as-constructs).
 
-This concept is also reminiscent of the [Sealed Sword](https://wiki.spiralknights.com/Sealed_Sword), which we proposed to be the retrieved and sealed variant of Gran Faust, as it possesses in all of alchemy paths evil eye symbolism, suggesting that the symbol was recontextualized in the Avenger line of upgrades.
+The lumber seals are paper-like, similar to the sealed sword, wherein both possess imagery of an evil eye associated with Underworld and its curse [responsible for creation of darkfire from Vog's shadow fire](#nature-of-darkfire).
 
-The state of this sword, as a sealed one, we considered the reason for its lack of ability to inflict curse, compared to, for example, [Chaotic Haze](https://wiki.spiralknights.com/Chaotic_Haze#Chaotic_Haze) of Maskeraith, as it is not restricted by the seals, but latter's nature and powers are drawn from the Underworld.
+For Avanger and Faust the seals appears in arcane glowing form, closer to the named Dread Seal.
 
-Based on this we have to assume, that the party which had placed the Dread Seals onto Carnavons and Black Kats are Owlites and, potentially, Valkyries of heavenly kingdom. Specifically, _given presence of priests in both contexts, gunslinger priests seems to be the one faction most plausibly responsable for placement of the seals onto the undead._
+Then there is Margrel who is now established to oppose Owlites and was banished into the Underworld with the Book of Grey Feathers. Posseion of the purple seal may suggest him being marked by it, yet the color itself coupled with the Gran Faunt may be interrpreted as technology of Underworld.
 
-On the contrary, there is only speculated existence of a war between the undead Almirian Empire and heavenly kingdom. Paired with the presence of a seal on Carnavons, this would be a fitting explanation. But so far we lack any further evidence.
+__Dread Seal's appearance is similar to the Taoist Fu talisman__. The talisman is placed by a priest on certain type of ghosts named __Jiangshi in Chinese folklore__, its forehead, _in order to hinder it_. The comparison to Jiangshi emerges from a similar pattern of talisman's placement for Carnavons, as Carnavons are most humanoid among entities bearing the seal, other than the Isoran knights themselves.
 
-From this, 3 further interpretations of the timeline emerge:
+This similarity creates subsequent implications, yet they depend onto 2 interpretations of seal's owner, _whether it is created by owlites or fiends_.
 
-- Dread Seals belongs to Owlites. Carnavons had to appear later into the timeline, but still in the past  - before emergence of Kat Tribe, - as they would be once to encounter Owlites in order for Dread Seals to be placed.
-- Dread Seals belongs to Owlites. Margrel and the rest of Black Kats at some point in time had to be marked with the seal, either after the Kataclysm or in the Underworld, from where they are summoned. Given lack of devilite presence in that regard, we can only assume that the annual summoning of Black Kats was a later development after the fall of Owlites. This proposal assumes a war between heavenly kingdom and undead Almirian Empire, given presence of undead in the academy.
-- The Dread Seal specifically, not its golden variant present on the Avenger, is Underworld's invention. We propose such scenario due to purple color, uncharacteristic of Owlite technology and magic, presence of curse-colored seal on Faust, which is more likely to belong to the Underworld, and fue to trojans lacking the seal, but they are once known to be explicitly sealed by heavenly kingdom. There is a possibility of Dread Seal being a later invention, but _this would contradict with a more common presence of Black Kats, as they are seemingly more easy to be summoned, compared to trojans._ It is due to seals design and assumed function, we came to an idea of Black Kats being sealed.
+For now we will explore the interpretation where the seal, _despite its color within color-coded reality_, is created by owlites.
 
-Prior 2 instances create a requirement for a period of time, when Owlites had to persist for some time after the initial Kataclysm. Even if Carnavons would be marked with the seal before the Kataclysm, Kat Tribe remains.
+If the seal was created by owlites, it may be paired with warding candles as _both showcase a precise understanding of Underworld's metaphysics_.
 
-_Given presence of evil eye symbolism on the Chaos Cloak,_ as well as its resistances, we assume, that it would be the reason for a major advancement in understanding of curse and general cosmology by Owlites.
+There is also the [Sealed Sword](https://wiki.spiralknights.com/Sealed_Sword) which we proposed to be the retrieved and sealed variant of Gran Faust, as it possesses across entirety of alchemy tree the [evil eye symbolism](#evil-eye). Furthermore, as the Avenger line of upgrades is characterised by its divinity, we suggest that the symbol of the eye was recontextualized, resulting in the __yellow dread seal__ which compaed to the present, purple Dread Seal, possesses higher chance to be created by owlites due to _close proximity of motifs the Avenger possesses despite its initially sealed design_.
 
-We could've attributed Dread Seal to Underworld, which would seem more fitting, as the seal is purple, rather than yellow or gold, as in the Avenger, but given Chaos Cloak, we encounter a case of a, seemingly, cultural shift at least in the designs. Due to this less distinctive property, we have to come back to the intention of the Dread Seal after we cover the [Shadow Firestorm Citadel]().
+Previously we have explored the gunslinger priests, commiting to a scenario, where they were Isorans. The priesthood becomes more relevant in case of the seal as a warding talisman, as it would be _placed by a figure which possesses an extensive knowledge of the seal itself_ which would be plausible for both factions -- fiends or owlites.
 
-#### Owlite's Inversion of Curse
+From this initial overview of the seal 3 following interpretations may be presented:
 
-It is here a concept of inverted curse should be brought up. Golden evil eye present on the [Divine Avenger](https://wiki.spiralknights.com/Divine_Avenger) is of heavenly kingdom, or more specifically, of later research, once curse was discovered, likely from Valkyries' invasion of Underworld and sealing of Legion of Ur.
+- Dread Seals belongs to Owlites.
 
-Compared to the Dread Seal of purple color, golden variation of the seal with higher probability belongs to heavenly kingdom due to thematic and design change and association through color. If we consider the idea of Faust and Dread Seal being of Underworld, it would thematically be fitting for golden seal be at least an inversion of the prior state, being placed within a completely weaponized against Underworld sword, derived of Gran Faust. _This thematic approach would constitute, that the seal would be inverted, too, from Underworld's Dread Seal to a supposed golden seal of heavenly kingdom_.
+  Carnavons had to appear later into the timeline, but before emergence of Kat Tribe, as owlites would be ones to encounter Caranvons in order for Dread Seals to be placed. This would also require existence of Carnavons in the past and subsequent curse-driven conditions for them to emerge, other than [twice-cursed Almirian Empire in the present](#almirian-empire).
 
-The [Divine Veil](https://wiki.spiralknights.com/Divine_Veil) has [Silverweave](https://wiki.spiralknights.com/Silverweave) woven in it, which is described as: `A length of understated cloth intricately interwoven with precious metal. its tastefully ostentatious, yet prudently protective` ([Silverweave](https://wiki.spiralknights.com/Silverweave)). Considering its usage in alchemy, we can guess that the precious metal in question is [Sun Silver](https://wiki.spiralknights.com/Sun_silver).
+  As Black Kats summon Carnavons, we can assume an event which had to tie both species by their cursed metaphysical state across time, unless source of Carnavons' origin had existed in the past, to the point of considering Shadow Firestorm Citadel to be a true depiction of the state kingdom of Almire was left in, until we can properly evaluate each Shadow Lair variant of those locations.
 
-Sun Silver and [Miracloth](https://wiki.spiralknights.com/Miracloth) are used in [Divine Avenger](https://wiki.spiralknights.com/Divine_Avenger). Miracloth is relevant to the [Miracle armor](https://wiki.spiralknights.com/Miracle_Cloak), prediminantly due to incorporration of a theme of miracles:
+- Dread Seals belongs to Owlites.
+
+  Margrel and the rest of Black Kats at some point in time had to be marked with the seal. In this case the paeriod when they would have been marked is _after the Kataclysm or in the Underworld_ from where they were summoned.
+
+  This narrative groups creation of warding candles and seals under a speculated period of time prior to collapse of owlite civilization and _after the Kataclysm_.
+
+- Purple Dread Seals are Underworld's invention as pre-Undercorp occult-themed technology.
+
+  We consider such scenario due to purple color among the rest of design properties, as it is _uncharacteristic of owlite technology or magic_.
+
+  Presence of pale, curse-colored seal on Faust is a more refined iteration on the seal as Underworld's creation.
+
+  Yet, this interpretation does not provide a surface-level answer to the reason why the seal was placed onto Black Kats and Carnavons, __unless the seal does not inherit the warding proprties of the Fu talisman__.
+
+Prior 2 instances create a requirement for a period of time, when Owlites had to persist for a finte amount of time after the Kataclysm. Even if Carnavons would be marked with the seal before the Kataclysm, Kat Tribe remains, _who are summoned from the Underworld_.
+
+_Given presence of evil eye symbolism on the Chaos Cloak,_ as well as its resistances, we assume, that it would be the reason for a major advancement in understanding of curse and general cosmology by owlites, but at that point, it offers only an _acknowledgement by owlites of curse and its relations to established metaphysics as being capable to be countered with divine power_.
+
+##### Owlite's Inversion of Curse
+
+It is here a concept of inverted curse should be brought up. Golden evil eye and yellow dread seal are present on the [Divine Avenger](https://wiki.spiralknights.com/Divine_Avenger).
+
+Compared to the Dread Seal of purple color, golden variation of the seal with higher probability belongs to heavenly kingdom due to thematic and design change and association through color. If we consider the idea of Faust and Dread Seal to belong to Underworld, they would be placed in opposition to yellow or gold seal while the latter beomes an inversion of the prior state, being placed onto a weaponized against Underworld sword, derived of Gran Faust. _This thematic approach would constitute, that the seal would be inverted, too, from Underworld's Dread Seal to a supposed_ __golden seal of heavenly kingdom__.
+
+##### Miracles and Divinity
+
+Sun Silver, as refined Celestial Ore, and Silverweave [possess divinity](#forgotten-time-part-1-divine-light).
+
+Sun Silver and [Miracloth](https://wiki.spiralknights.com/Miracloth) are used in [Divine Avenger](https://wiki.spiralknights.com/Divine_Avenger). Miracloth itself is relevant to the [Miracle armor](https://wiki.spiralknights.com/Miracle_Cloak) which presents of a theme of _miracles as benevolent boons_:
 
 - `A marvelous bolt of sublimely supple fabric` ([Miracloth](https://wiki.spiralknights.com/Miracloth)).
 - `A miraculous mask said to grant a single miracle to the wearer when they need it most. In practice, it'll likely save your skin more often than that` ([Miracle Hood](https://wiki.spiralknights.com/Miracle_Hood)).
 - `A miraculous mantle said to grant a single miracle to the wearer when they need it most` ([Miracle Cloak](https://wiki.spiralknights.com/Miracle_Cloak)).
 
-All of the alchemy branch has an elemental motif: _magic, elemental, miracle, and chaos, accompanied by the divine_. Those characteristics, we suggest, __relate to the nature of Nameless Realm, as one containing within itself all element with no exception__, where miracles point at the supernatural properties interpreted as divine rather than strictly occult, as seen by other instances of chaotic motif.
+This alchemy tree branch has an elemental motif which through themes of divinity and occult of Chaos Cloak connects _magic, miracles, divinity, and chaos_. Within this system Chaos Cloak while represents chaotic aspect, it exists separate from the rest due to its mostly unknwon nature and relation to Nameless Realm.
 
-We have to keep this concept in mind, but currently, it reminds us most of the one other concept - an alchemical Prime Matter, originated from the round chaos of the void, from which world proper was created. [We will analyze this motif in greater detail as we approach themes of Mercury in the analysis of gremlin technology]().
+The themes Nameless Realm may possess in contrast to its context and other realms will be explored as we will reiterate on the alchmical motifs found across the story and cosmology, as it provides the strongest so far, _as it inherently stems from myths_, foundation in order to understand the rest of the component of this system integrates.
 
-While the Void will be discussed later, of course, it is the very one mentioned in the very beginning in relation to the Swarm, Nameless Realm is what is in the focus of this discussion. We have to keep nature of Nameless Realm as a potential alchemical candidate for the originating place of all matter, but we still do not know anything in regards to the in-universe Void. So this is the concept we must keep in mind.
+<!--Those characteristics, we suggest, __relate to the nature of Nameless Realm, as one containing within itself all element with no exception, conflict, or contradiction__, where miracles point at the supernatural properties interpreted as divine rather than strictly occult, as seen by other instances of chaotic motif.-->
+
+<!--We have to keep this concept in mind, but currently, it reminds us most of the one other concept - an alchemical Prime Matter, originated from the round chaos of the void, from which world proper was created. [We will analyze this motif in greater detail as we approach themes of Mercury in the analysis of gremlin technology]().-->
+
+<!--While the Void will be discussed later, of course, it is the very one mentioned in the very beginning in relation to the Swarm, Nameless Realm is what is in the focus of this discussion. We have to keep nature of Nameless Realm as a potential alchemical candidate for the originating place of all matter, but we still do not know anything in regards to the in-universe Void. So this is the concept we must keep in mind.-->
 
 #### Owlite Witches, Magicians, and Wizards
 
@@ -10830,11 +10854,11 @@ This larger context of now fully interconnected and causally justified stories i
 
 ### _Final Chapter &#160;<br>_ Spiral of Burning Stars
 
-<!--<SubTitleCentered>
+<SubTitleCentered>
 
-_""_
+_"Sun and Moon"_
 
-</SubTitleCentered>-->
+</SubTitleCentered>
 
 Now, with consideration of everything we have covered so far -- of a timeline and elements built upon it, using established themes and narratives as guidelines, -- we want to answer as clearly, as precisely, and as thoughtfully as possible: what is the __ineffable quality of this setting which provides it its power and capability to captivate__?
 
@@ -10969,7 +10993,7 @@ I. Separation
   4. The Crossing of the First Threshold
   5. The Belly of the Whale
 
-II. Trials and Victories of Initiayion
+II. Trials and Victories of Initiation
 
   1. The Road of Trials
   2. The Meeting with the Goddess
