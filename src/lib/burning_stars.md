@@ -5437,19 +5437,19 @@ We have already eplored the parallels to Asgard of Norse mythology, the idea of 
 
 Why would be suggest so _given most distinct presence of primarily western influences onto the setting_?
 
-In its initial premise, in Chinese mythology the Celestial Kingdom is ruled by the Jade Emperor. Queen Mother of the West is the guardian of souls, of the spiritual realm, and she represents the balance of nature.
-
-This description is most reminiscent of the Spirit Mother. Within the Celestial Kingdom reside spirits, which is similar to our understanding of the Nameless Realm with western alchemical ideas.
-
-There are the Four Heavenly Kings. They are guardians of Heavens, protecting the Celestial Kingdom from even entering. [Oni Helm](https://wiki.spiralknights.com/Oni_Helm) has similar description of a fiend: `Designed to frighten their enemies, this helm is in the visage of a fiend who lives in the mountains of a distant land. Said to guard the gate to heaven itself, it only allows those who are worthy to pass`.
-
-Yet the most distinct elemnt which would allow us to link heavenly kingdom to its eastern counterpart is the presence of mountains and their symbolic role. It was already established in the aforementioned [Oni Helm](https://wiki.spiralknights.com/Oni_Helm), we have noted on the Oni multiple times in relation to Lord Vanduke's journey into the mountains, but there are other mountains:
+The most distinct elemnt which would allow us to link heavenly kingdom to its eastern counterpart is the presence of mountains and their symbolic role. It was already established in the [Oni Helm](https://wiki.spiralknights.com/Oni_Helm), `Designed to frighten their enemies, this helm is in the visage of a fiend who lives in the mountains of a distant land. Said to guard the gate to heaven itself, it only allows those who are worthy to pass`, we have noted on the Oni multiple times in relation to Lord Vanduke's journey into the mountains, but there are other mountains:
 
 - `A helm worm by heavenly guardians who watch over a kingdom hidden atop a snow-covered mountain` ([Storm Avenger Helm](https://wiki.spiralknights.com/Avenger_Helm)).
 - `A helm worm by heavenly guardians who watch over a kingdom hidden atop a magma-covered mountain` ([Raging Avenger Helm](https://wiki.spiralknights.com/Avenger_Helm)).
 - `A helm worm by heavenly guardians who watch over a kingdom hidden atop a wind-swept mountain` ([Frenzy Avenger Helm](https://wiki.spiralknights.com/Avenger_Helm)).
 
-The attribution of primordial forces to those mountains, which we have linked to the nature of dragons, the mounts' relative position to the heavenly kingdom, is reminiscent to the Five Sacred Mountains in Chinese mythology. This similairy further underlines the archetypical nature of the discussed subject and setting's other elements.
+The attribution of primordial forces to those mountains, which we have linked to the nature of dragons, the mounts' relative position to the heavenly kingdom, is reminiscent of the _sacred mount Kunlun in Taoism and greater Chinese mythology_. The mountain is located below the Celestial Kingdom, and functions as the center of the world which connects human and the divine.
+
+In Taoist cosmolology the Celestial Kingdom is located atop of the peaks of mount Kunlun, wherein its palaces are. In those palaces Jade Emperor rules over the Celestial Kingdom and Queen Mother of the West guards the souls, the spiritual realm, is representative fo the balance of nature.
+
+It is becouse of those similarities and the _archetypeical imagery of Axis Mundi, or the center of the world_ the idea of the heavenly kingdom of valkyries being located atop of aforementioned mountains described through the Avenger Helms, one of which is the volcano Lord Vanaduke had ventured in to encounter fire-beast Vog of Underworld, we consider particularly conclusive, as it renders those very mountains as the connection between the celestial relam from which celestial beings come, material realm, and the Underworld, as spirital presence is being uncovered at those mountains' depths.
+
+##### Final Distinction Between Valkyries and Owlites
 
 We have previously covered divine themes of Valkyries through relation to wording of `seraphic` or `angelic`, suggesting a transition from the divine to material.
 
@@ -5490,32 +5490,38 @@ Fallen Valkyrian in this regard is described through the gear in ceratin manner,
 - `A cursed suit of armor once worn by a celestial being cast down from paradise` ([Armor of the Fallen](https://wiki.spiralknights.com/Armor_of_the_fallen)).
 - `A cursed crown once worn by a celestial being cast down from paradise` ([Crown of the Fallen](https://wiki.spiralknights.com/Crown_of_the_Fallen)).
 
-Within this system of inspirations the position Fallen Valkyrian takes is one most ditinct as the entity leading Isorans to sin or corruption, herein being suggested to be creation of trojans through [multifaceted](#poisoned-minds-and-cold-hearts) process [involving grief](#arkus-part-3-a-metamorphosis), presence, and acceptence of Underworld's metaphysical influence.
+Within this system of inspirations the position Fallen Valkyrian takes is one most ditinct as the entity leading Isorans to sin or corruption, herein being suggested to be creation of trojans through [multifaceted](#poisoned-minds-and-cold-hearts) process [involving grief](#arkus-part-3-a-metamorphosis), presence, and acceptence of Underworld's metaphysical influence, as it was presented through Lord Vanaduke's transformation.
 
 If the figure leading the legion was a fiend, its motivations had differed from Underworld at that moment. While identity of Legion's leader is speculated, we will commit to a narrative where Spiral Wardens are metaphysically corrupted by an actor from Underworld.
 
 How in this regard a Valkyrian would be knowledgable of such scale of transformation and experience to perform it?
 
-##### Fallen Valkyrian
+#### Cradle Metaphysics: Part 2: Paradise
 
-We propose that Fallen Valkyrian is responsible for the creation of Legion of Ur. They are the reason why valkyries of heavenly kingdom had invaded Underworld after fall of Almire.
+We propose that Fallen Valkyrian is responsible for the creation of Legion of Ur, as this relation solidifies figure's biblical motif -- banishemt of Lucifer from paradise to be the narrative which had created the foundationsfor this character while also provide a defined enough explnation for Fallen Valkyrian's motivations.
 
-We consider this case being a most direct instance of a biblical motif, among which we find banishemt of Lucifer from paradise to be cases which we had to look at for potential narrative inspiration as explnation for Fallen's motivations. Here, we suggest, the resolution is rather linear -- as Fallen's armor became associated with Underworld, shadow damage, and curse, -- we suspect him to be a stand-in for Lucifer.
-
-Based on the designs of the armor, and its recipes, we can attempt to piece together what happened back then:
+Here, we suggest, the resolution is rather linear -- as Fallen's armor became associated with Underworld, shadow damage, and curse, -- we suspect him to be a stand-in for Lucifer:
 
 - `A cursed suit of armor once worn by a celestial being cast down from paradise` ([Armor of the Fallen](https://wiki.spiralknights.com/Armor_of_the_fallen)).
 - `A cursed crown once worn by a celestial being cast down from paradise` ([Crown of the Fallen](https://wiki.spiralknights.com/Crown_of_the_Fallen)).
 
 The `celestial` characteristic is one used to refer to valkyries in the [Heavenly Iron Helm](https://wiki.spiralknights.com/Heavenly_Iron_Helm) description: `A powerful helm said to be crafted from angelic shields. It retains many divine properties celestial beings possess but lacks their weakness to fire`.
 
-The paradise in that regard, as it takes more religious connotation, is the heavenly kingdom, the Scarlet Fortress being what remains of it. With this, __this heavenly kingdom, or paradise, and Valkyries' kingdom is to be located in a realm above material realm__, while allowing for elements of material realm such as castles comprising the kingdom __to corporeally exist__.
+Through those similarities -- the celestial nature of the realm, -- we propose that the paradise, part of the heavenly kingdom, the Scarlet Fortress being what remains of it in the material realm, __is to be located in a realm above material realm__, while allowing for elements of material realm such as castles comprising the kingdom and its inhabitats -- [griffins](#final-distinction-between-valkyries-and-owlites) -- _to remain corporeal_.
 
-We do not know whether [Sentenza](https://wiki.spiralknights.com/Sentenza), as it is forged from Shadow Steel, can be attributed to the Fallen Valkyrian instead of the owner of Shadowsun set as it would decouple the handgun from the [Shadowsun Slicker](https://wiki.spiralknights.com/Shadowsun_Slicker). But, we can potentially attribute [Blackhawk](https://wiki.spiralknights.com/Blackhawk) to this set.
+Under this interpetation, the [Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore) explains this cosmology in less fantastic terms, but ones meant to be perceived as a myth, `An extremely rare metal of great power said to be from the heavens above. It is often completely wasted on crowns and jewelry for slime royalty`, that there exits a concealed realm of heaven which we suggest to be closely similar to the [earlier proposed idea of a vertical flow of energy](#metaphysical-stack), here being the realm above the material realm to be the sourse of energy and souls as its medium, and now as [celestial radiance](#forgotten-time-part-2-radiance-of-griffon).
 
-We have a reason to consider the aforementioned heavenly kingdom as one located in a different realm due to the multi-dimensional property of the proposed cosmology -- so that such event as banishment of the Fallen would involve at least 2 realms.
+As Scralet Fortress and Owlite academy are present in the material realm, it is unknown whether heavenly kingdom is separate from the paradise. Yet, it is this ambiguious reletaion is reminiscent of [other instances of divine realm](#celestial-kingdom) which allows us to propose that __heavenly kingdom occupies both material realm and relam above__, while the __paradise would become the topmost, most divine location above material realm__.
 
-__The Fallen Valkyrian was banished into the Underworld through the material realm from heavenly kingdom in a higher realm__.
+This relation poses a question to Whitespace's precise nature because of its essential relation to the setting as the source of energy for Clockworks. We will not conclude its nature without proper analysis, but acknolwedge an ongoing set of motifs associated with myths as currently established system revolving around energy and souls.
+
+With this we can now reiterate on the history of Fallen Valkyrian and their involvement into present timeline.
+
+<!--We do not know whether [Sentenza](https://wiki.spiralknights.com/Sentenza), as it is forged from Shadow Steel, can be attributed to the Fallen Valkyrian instead of the owner of Shadowsun set as it would decouple the handgun from the [Shadowsun Slicker](https://wiki.spiralknights.com/Shadowsun_Slicker). But, we can potentially attribute [Blackhawk](https://wiki.spiralknights.com/Blackhawk) to this set.-->
+
+#### War in Heaven
+
+The Fallen Valkyrian was banished into the Underworld through the material realm from heavenly kingdom in a higher realm.
 
 Then Valkyries had head an incursion into Underworld, and then sealed both the Fallen and the Legion of Ur (`Strangely, the memo indicated that the Legion of Ur was sealed away in the Underworld and that an alternative approach would be required for bringing them back` - [The Return of Ur](https://wiki.spiralknights.com/The_Return_of_Ur)).
 
@@ -5529,8 +5535,6 @@ This Crest has 2 notable properties: the supernatural presence of trojans and th
 And, as discussed in [Snarbolax and empowerment through curse section](#snarbolax-and-haunting-through-curse), all those instances of haunting in varying severity are explained by the unnatural, from the position of material realm, properties of souls.
 
 <!--There is [Crown of the Fallen](https://wiki.spiralknights.com/Crown_of_the_Fallen), as it has a shadowy halo, similar to one in [Valkyrie Helm](https://wiki.spiralknights.com/Valkyrie_Helm). And, as Valkyrian armors have [Trojan Horseshoe](https://wiki.spiralknights.com/Trojan_Horseshoe) as a fiendish material in their recipe, this, we suppose, points to high importance of this event of banishment and connection to the Legion of Ur of all parties from that period of time.-->
-
-##### War in Heaven
 
 One last element for this idea is the ownership of [Champion Helms](https://wiki.spiralknights.com/Champion_Helm) of rage, frenzy, and storms. As we discussed, tortomega are unlikely candidates, but at that time no other civilization could claim ownership of the gear, apart from valkyries themselves.
 
@@ -5552,7 +5556,7 @@ Those events seem us to cincide with the potential of [Champions](https://wiki.s
 - `The helm of one who defied the gods and razed the gates of a heavenly kingdom` ([Raging Champion Helm](https://wiki.spiralknights.com/Raging_Champion_Helm#Raging_Champion_Helm)).
 - `The helm of one who defied the gods and stormed the gates of a heavenly kingdom. Some say that whistling wings are the eternal warcries of her siege` ([Frenzy Champion Helm](https://wiki.spiralknights.com/Frenzy_Champion_Helm#Frenzy_Champion_Helm)).
 
-Within the Luciferian narrative, Fallen Valkyriuan would be banished to Underworld as it is colloqually perceived in the West. There, an influence from the Underworld would be targeted at those similar to valkyries in their divinity but in means of attaining power comparable to one of heavenly kingdom, found through Isoan Spiral Wardens as guardians of the Order.
+Within the Luciferian narrative, Fallen Valkyrian would be banished to the Underworld. There, an influence from the Underworld would be targeted at those similar to valkyries in their divinity, but in means of attaining power comparable to one of heavenly kingdom, found through Isoan Spiral Wardens as guardians of the Order.
 
 This interpretaion possesses a conflict with the source material as Fallen Valkyrian would possess a powerful position in Underworld, yet the act of Legion of Ur conquering the Underworld contradicts it, unless other actors would be presented which would reestablish the power scale within Underworld.
 
@@ -11902,6 +11906,8 @@ Cradle and Clockworks are characterized by a synergy of multiple environments, "
 
 
 ### Acknowledgements
+
+_Grapefruit_, for providing chapter 10 title artwork.
 
 _Archaic_, for providing insight on game's evolution throughout its development.
 
