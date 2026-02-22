@@ -41,17 +41,7 @@ We will present a set of narrative devices and tropes within a constructed syste
 
 ## Motivation
 
-The present analysis is meant to identify, analyze and explore:
-
-- Worldbuilding
-- Themes
-- Characters
-- Stories
-- Symbolism
-- Plots
-- Culture
-- Myths
-- Narratives, which create a __sence of depth__ of [Spiral Knights](https://www.spiralknights.com/) fictional universe.
+The present analysis is meant to identify, analyze and explore worldbuilding, themes, characters, stories, symbolism, plots, culture, myths, narratives and themes, which create a __sence of depth__ of [Spiral Knights](https://www.spiralknights.com/) fictional universe.
 
 As fiction is set in its own separate reality, it can imitate depth of its world only far enough by obfuscating its boundaries up to a certain limit. By exploring the volume a fiction offers, we intend to identify the __underlying system__ of narrative, thematic and symbolic relations between devices and tropes, -- the bonding quality, found through aesthetics, _which allows for setting's ability to captivate_ as a fictional world, a gamified microcosm, a story, and a reflection of real-world cultures.
 
@@ -106,6 +96,13 @@ In order to achieve desired level of cohesiveness of the research, we will outli
     The potential inspirations, relations to folklore, mythology, and fiction will be introduced wherein we believe they might present a plausible explanation for elements of the identified narratives.
 
     The justification for any event or characters' actions will be discussed from the in-universe perspective.
+
+<!--The document contains plot summaries and details of following works:
+
+- `The Dream-Quest of Unknown Kadath` and the rest of Dream Cycle
+- `Blame!`
+- `Made in Abyss`
+- Final Fantasy V`, `Final Fantasy VI`, and `Final Fantasy VII`-->
 
 ### Table of Contents
 
@@ -2784,7 +2781,7 @@ As shard missiles are darker and still break down to regular crimsonite shards v
 
 Based on the state of corrupted tortodrones, as they are powered by dark matter, we can guess that _regular tortodrones are powered by crimsonite_, evident by innate [aggro aura](https://wiki.spiralknights.com/Aggro_Aura#Aggro_Aura), one that is part of their engines, -- the [power pistons](https://wiki.spiralknights.com/Power_pistons) under tortodrone's shell. This means, likely both minerals -- __dark matter and crimsonite are potent enough to serve as power sources__.
 
-In that sense [power pistons](https://wiki.spiralknights.com/Power_pistons) serve as tortodrone's engine, as they are __the only device and knight accessory providing aggro aura of red lightning__ and _the source of mineral bombardment_. That would suggest that shard missiles are weaponized unloading mechanism of depleted crimsonite used to power these constructs even in a corrupted state, despite being latter powered by dark matter.
+In that sense [power pistons](https://wiki.spiralknights.com/Power_pistons) serve as tortodrone's engine, as they are __the only device providing aggro aura of red lightning__ _other than more magical_ [Crest of Rage](https://wiki.spiralknights.com/Crest_(centered)#Crest_of_Rage) and _the source of mineral bombardment_. That would suggest that shard missiles are weaponized unloading mechanism of depleted crimsonite used to power these constructs even in a corrupted state, despite being latter powered by dark matter.
 
 Crimsonite is one mineral fed to drakon battle sprites. Those are remade by, supposedly, the Core into an image of [Dragons of Rage](#dragons). And, as tortodrone's arm cannon -- the [Grand Tortofist](https://wiki.spiralknights.com/Grand_Tortofist), -- deals normal damage and tortodrones are powered by crimsonite, we believe, it affirms the connection of tortodrones' power source and crimsonite crystals, same as how dark matter crystals were used to power corrupted tortodrones.
 
@@ -4542,9 +4539,11 @@ Then [Crest of Ur](https://wiki.spiralknights.com/Crests_of_Ur) reveals that the
 
 ##### Trojans
 
-We should determine whether trojans are Isoran Spiral Wardens. How the similarity of their roles -- of _trojans being an elite force of Underworld_, and _Wardens being guardians of the Order_, through the Guardian's Oath, -- defines them in relation to each other?
+We should determine how trojans resemble Isoran Spiral Wardens. How the similarity of their roles -- of _trojans being an elite force of Underworld_, and _Wardens being guardians of the Order_, through the Guardian's Oath, -- defines them in relation to each other both in their aforementioned roles and appearances?
 
-Trojans of tier 2 and tier 3 possess revealed bones, most visible at their skulls, which are horse skulls.
+While we were previously focused on their generalized roles, we will now examine trojans' appearances.
+
+Tier 2 and tier 3 trojans possess revealed bones, most visible at their skull, _a horse skull_.
 
 The undeath manifests most distinctly in tier 3 trojans -- their armor has depictions of skulls while covering exposed ribcage burning with purple flames. The stone exterior which was previously a depition of horse head had shattered, fully revealing a fully-formed horse skull.
 
@@ -4602,13 +4601,11 @@ This seems to us as most prominent symbolism in regards to the Silent Legion wit
 
 `Cold hearts` can be interpreted as unfeeling or uncaring, "cold-hearted". Trojans are turned to stone at that point, so it could be a metaphor for stone, both as stone cold and relentless in their goals.
 
-The `poisoned minds` are more nuanced, it is not a singular mind, which in that case would be Arkus, but __it refers to an entire legion__. Poisoned mind _implies an adoption of a negative perception of something or someone by third party's means_.
-
-<!--As Arkus is meant to resemble a trojan, does this view is also relelvant for him?-->
+The `poisoned minds` are more nuanced, it is not a singular mind which in that case would be Arkus, but, we psorpose, __multiplicity refers to the legion itself__. `Poisoned mind` coupled with its colloqual, non-occult understanding, _implies an adoption of a negative perception of something or someone by third party's means_.
 
 <!--Devilites are present at the [Gauntlet during Shock and Awe](https://wiki.spiralknights.com/Gauntlet#Gate_Map), as well as at the [penultimate arena during Gauntlet's Last Stand](https://wiki.spiralknights.com/The_Gauntlet/Last_Stand). As we proposed involvemnt of gremlins into presenceof the Gauntlet, are devilites indirectly involved both into the citadel and creation of the Legion?-->
 
-The `poisoned minds` if applied to all present trojans manifests as an _alliance with the Underworld_ to the point of being summoned by devilites into the material realm.
+If applied to all present trojans this shift manifests as an _alliance with the Underworld_ to the point of being summoned by devilites into the material realm.
 
 With an introduction of this narrative we propose that the party responsible for trojans' becoming, which involves `poisoned minds`, is Underworld. Underworld is an existing and primary party which works againts the material relam, other than Apocrea.
 
@@ -4769,7 +4766,7 @@ What connects tortodrones, trojans, and Arkus, is that all have dark matter pres
 
 With those notion, we extend this roster of characters to include last 2 instances revolving around dark matter and its association with Underworld and curse -- Darkfire Lord Vanaduke's and Carnavons' __claws, made of dark matter, as if being transformed__. As Lord Vanaduke and other zombies had at some point Isoran physiology, then the appearance of claws strogly suggest an element of irreversable transformation. And in case of Lord Vanaduke, __bordering body horror__.
 
-__Is ruinous crystal the source of Arkus's transfomration into trojan?__
+__Is ruinous crystal the source of Arkus's transfomration into a trojan?__
 
 #### Arkus: Part 3: A Metamorphosis
 
@@ -4781,7 +4778,7 @@ Through the motif of stone [originally defined for tortodrones](#motif-of-stone-
 
 We proposed that the `poisoned minds` narrative was one infolving the influence onto Spiral Wardens specifically, as the latter are similar to trojans with an inclusion of physical corruption.
 
-The poisoning then may be connected to the nature of hauting, as the effect of grief on Arkus also had included haunting as a [tangible concept](#haunting). The grief may serve an essential component to this transformation into trojan, similar to the grief Lord Vanaduke had carried when [he entered the Blackened Shrine](#blackened-shrine-and-magma-deity). In both cases grief is used to _push one into the extremes and subsequent transformation into an extension of Underworld malign presence_.
+The poisoning then may be connected to the nature of hauting, as the effect of grief on Arkus also had included haunting as an [established concept](#haunting). The grief may serve an _spiritually essential_ component to transformation into trojan, similar to the grief Lord Vanaduke had carried when [he entered the Blackened Shrine](#blackened-shrine-and-magma-deity). In both cases grief is used to _push one into the extremes and subsequent transformation into an extension of Underworld malign presence_.
 
 We also speculated that Arkus might have to perisheed in the Clockworks by the time knight arrives, as Arkus possesses through unknown means the ruinous crytal embedded into his back, identical to other trojans which ties into the origin of the crystal.
 
@@ -4789,7 +4786,7 @@ This connects to each individuals' powers, as Arkus, despite being partially a t
 
 <!--Those dark orbs are also seen in _Warmaster Seerus's anti-gremlin bomb_, [Dark Retribution](https://wiki.spiralknights.com/Dark_Retribution), as well as to an extent [Neutralizer's](https://wiki.spiralknights.com/Neutralizer) projectiles.-->
 
-With this we return to the theme of otherworldly transformations, identified and found through Lord Vanaduke's appearance -- _the body horror aspect_ of the setting.
+With this we return to the theme of otherworldly transformations, identified and found through Lord Vanaduke's appearance -- __the body horror aspect__ of the setting.
 
 We offer 2 conclusion:
 
@@ -4806,9 +4803,11 @@ __Spiral Wardens were transformed into trojans of the Legion of Ur__ before Skyl
 
 #### Trojans are Deceived Spiral Wardens
 
-The idea of poisoned minds, _tied with the idea of Underworld deities fulfilling the deal_, but in a _twisted manner, potentially as part of a larger plot_, where wardens were __deceived__ to become trojans.
+Underworld deities fulfill the deal made by inhabitant of material realm in a twisted manner.
 
-The reasons for this scenario may lie in the suggestion of immortal or eternal servitude, as under current logic we know that Spiral Wardens do abide to Guardian's Oath, and __them betraying the Oath would be worse than resignation__.
+The idea of [poisoned minds](#poisoned-minds-and-cold-hearts), tied this idea of a contract had led us to suggest that _isoran wardens were deceived to become trojans_.
+
+The reasons for this scenario may lie in the suggestion of immortal or eternal servitude, as under current logic we know that Spiral Wardens do abide to Guardian's Oath, and them betraying the Oath would be perceived as _abadnonment of those ideals_.
 
 <!--Among those desciption, we can potentially identify a different item, which may refer to a different oath: `Strong, yet light armor for knights who've sworn an oath to hunt down and destroy the undead, wherever it may lurk` ([Silvermail](https://wiki.spiralknights.com/Silvermail)).-->
 
@@ -4818,22 +4817,19 @@ The reasons for this scenario may lie in the suggestion of immortal or eternal s
 
 Would then Wardens be at the precipice of becoming immortal and invulnerable though those means -- driven by Underworld?
 
-Then whom, under those extreme conditions, they would sworn to protect, while allowing for the metamorphosis similar to Arkus? __If trojans' minds are poisoned, considering their alliance with devilites as a Legion of Ur, does it mean that it is the rest of the material realm who they are made to hold disdain of__?
+Then whom, under those extreme conditions, they would sworn to protect, while allowing for the metamorphosis similar to Arkus? If trojans' minds are poisoned, considering their alliance with devilites as a Legion of Ur, does it mean that it is _the rest of the material realm who they are made to hold disdain of_?
 
 Prevously we [have attempted to identify Ur through language of Underworld](#name-of-ur) -- Ur being an Underworld name, a name of a figure, leading the legion, as well as a concept or quality.
 
-As the legion had conqueredd the Underworld, it may have been led by an entity externa to the Underworld, similar to a Fallen Valkyrian:
+As the legion had conquered the Underworld, it may have been led by an entity external to the Underworld or one harboring a reason to conquer it.
 
-- `A cursed suit of armor once worn by a celestial being cast down from paradise` ([Armor of the Fallen](https://wiki.spiralknights.com/Armor_of_the_fallen)).
-- `A cursed crown once worn by a celestial being cast down from paradise` ([Crown of the Fallen](https://wiki.spiralknights.com/Crown_of_the_Fallen)).
+#### Volcanic Wardens
 
-If the figure leading the legion was a fiend, its motivations had differed from Underworld at that monent.
+In addition to the discussed costumes of [Cavalry prize box](https://wiki.spiralknights.com/Cavalry_Prize_Box) there is a [Fiery Warden Armor](https://wiki.spiralknights.com/Warden_Armor#Fiery_Warden_Armor) which possesses characteritic for fiery imprint in form of a smoldering steps of the warden identical to [Vog Cub coat](https://wiki.spiralknights.com/Vog_Cub_Coat), and smoking [Fiery Cavalry Aura](https://wiki.spiralknights.com/Aura#Fiery_Cavalry_Aura).
 
-While identity of Legion's leader is speculated, we will commit to a narratoive where Spiral Wardens are metaphysically corrupted by an actor from Underworld.
+We have previously discussed [presence of volcanic affiliation](#familiarity-with-volcanic-iron-and-souls) for fire-themed armors as a result of being forged from volcanic iron which harbors fire souls. If this approach is applied to aforementioned warden armor, as no fiery trojans were encountered, we would arrive to a concept of this very technology of volcanic iron being used to create warden armor so far back into the past.
 
-<!--Could this narrative tie with the Sleeper, even: `THIS WORLD WAS CREATED TO PROTECT ME. VULNERABLE IN SLUMBER, WORLDS WERE DRAWN TO SHIELD ME FROM THE DARKNESS.` ([Echo Stone: Ironclaw Munitions Factory](https://wiki.spiralknights.com/Echo_Stone:_Ironclaw_Munitions_Factory)), in the same manner, as Valkyries were also possessing a role of guardians? This would align with the concept of Undercorp and rest of soul-harvesting civilizations compromising material realm, from which energy in form of souls comes from and through.-->
-
-For this, we will eventually need to look into a different period of time, _preceding Almire and a war of those 3 kingdoms, leading up to theorized ancient arrival of Isorans to this planet before Cradle_ and a proposed becoming of the Legion of Ur.
+Application of highly magical technology to wardens would mean its presence and discovery up to the initial arrival of Isorans on that planet, creating a more plausible environemnt for such technology to emerge in the same notion as discovery of souls and creation of Blackened Shrine had preceeded and existed up to the fall of kingdom of Almire.
 
 #### Metaphysics of Souls and <span class="through-curse">Cursed Immortality</span>
 
@@ -5207,15 +5203,13 @@ With those working assumptions we can begin building a vague timeline, wherein:
 
 1. There would be Spiral Wardens. Spiral Wardens are to be transformed into trojans.
 2. Valkyries as celestial beings have started from fighting undead moved to combatting fiends in the Underworld while utilizing elemental damage for hunting undead and piercing damage for fiends.
-3. A period of Gunslinger Priests would establish a bridge between themes of fighting Undeath to opposing Underworld with piercing damage directly.
+3. A period of Gunslinger Priests would establish a bridge between narratives of fighting Undead to opposing Underworld directly.
 
 Above scenarios involve a starting event, which would allow for this potential progression to happen, including the event of Isorans transforming to trojans as a major event which would tie with trojans accompanying Lord Vanaduke, eventually being sealed by Valkyries in the Underworld.
 
-<!--So far we were leaning to an idea of Gunslinger Priests, branch of elemental damage, including [Avenger](https://wiki.spiralknights.com/Avenger), to be a later development, derived of Owlite research around elemental magic and sorcery (`An enchanting hood for knights who dabble in divination and contemplate conjuring` - [Magic Hood](https://wiki.spiralknights.com/Magic_hood)), as _those carry imagery only existing in the Underworld_ - of an eye, meant to symbolize curse. In that context, Avanger bridges a thematic gap from, potentially Forgotten Time and Gunslinger Priests to proper establishment of the events _leading up to Valkyrian invasion of Underworld, which would require us to identify Valkyries as Owlites_.-->
-
 While we have left relation of Owlites and Valkyries to celestial and angelic beings, [Seraphynx](https://wiki.spiralknights.com/Seraphynx), despite being a Kat battle sprite, also possesses a theme of divinity through its physiology, name, and skills, such as `Angelic Aura` which can be turned into `Seraphic Aura` or `Valkyrian Aura`.
 
-Due to aforementioned discrepancy of [Raiment](https://wiki.spiralknights.com/Raiment_(Costume)), `A long, flowing battle garb best accessorized with a pair of angelic wings`, it seemingly frames Valkyries as separate from Owlites, as the latter species already bear large wings. We would propose, that the description of [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin): `A beautiful pistol named after a great, noble beast. Its golden frame was believed to provide light within the impenetrable darkness of the Underworld` allows for a different species to exist, which would allow for a simultaneous resolution and connection of multiple narratives.
+Due to aforementioned discrepancy of [Raiment](https://wiki.spiralknights.com/Raiment_(Costume)), `A long, flowing battle garb best accessorized with a pair of angelic wings`, it seemingly frames Valkyries as separate from Owlites, as the latter species already bear large wings. We would propose, that the description of [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin), `A beautiful pistol named after a great, noble beast. Its golden frame was believed to provide light within the impenetrable darkness of the Underworld`, allows for a different species to exist, which would allow for a simultaneous resolution and connection of multiple narratives.
 
 There would be __griffons -- semi-draconic ancestors of Valkyries evolving from wyverns and posessing radiance of the same origin as the Celestial Ore__. It would cahracterize griffon as a `celestial being` on par with Valkyries.
 
@@ -5408,9 +5402,9 @@ It is Spiral Wardens which were the victims of this connection to the Underworld
 
 Within this system the explanation for griffin-bearing handguns is one of speculated discovery of griffins by Isorans, rather than distinctly Valkyrian invention, although _those handguns can be placed later into the timeline of Valkyries invading Underworld_, which would split this array of armors and guns into different period of time.
 
-#### Fantasy-Themed Undeath
+#### Forgotten Time: Part 4: World of Fantasy
 
-It is during this _more fantasy_ as well as _weird western-themed_ period, the Forgotten Time, [Cold Iron Carver](https://wiki.spiralknights.com/Cold_Iron_Carver) and [Cold Iron Vanquisher](https://wiki.spiralknights.com/Cold_Iron_Vanquisher) would be invented, corresponding to the themes of hunting undead, as they all have now familiar imagery of the evil eye, as well as a focus on slaying the undead: `A powerful cold iron blade forged for the singular purpose of hunting down and destroying the undead` [Cold Iron Vanquisher](https://wiki.spiralknights.com/Cold_Iron_Vanquisher). Given its alchemy path from [Calibur](https://wiki.spiralknights.com/Tempered_Calibur), it mirrors the same pattern of Almirian armor being a more ancient depiction of Isoran Spiral Order.
+It is during this _more fantastic_ and later _weird western-themed_ period, the Forgotten Time, [Cold Iron Carver](https://wiki.spiralknights.com/Cold_Iron_Carver) and [Cold Iron Vanquisher](https://wiki.spiralknights.com/Cold_Iron_Vanquisher) would be invented, corresponding to the themes of hunting undead -- `A powerful cold iron blade forged for the singular purpose of hunting down and destroying the undead` ([Cold Iron Vanquisher](https://wiki.spiralknights.com/Cold_Iron_Vanquisher)). Given its alchemy path from [Calibur](https://wiki.spiralknights.com/Tempered_Calibur), it mirrors the same pattern of Almirian armor being a more ancient depiction of Isoran Spiral Order.
 
 And it is here we attribute this blade to the same period of time characterized by this focus on more fantasy-themed appearances and undeath, Forgotten Time. But, compared to initial handguns, such as Antigua, presence of evil eye and undeath suggest a relatively later period of Isoran existence on Cradle.
 
@@ -5435,15 +5429,27 @@ And, as for the handguns of ths period of time, [Argent Peacemaker](https://wiki
 
 All of those similarities make it seem for us as if all those cultures were deeply intertwined at some point in time, in the similar manner to the existence of [heavy statues](https://wiki.spiralknights.com/Statue#Heavy_Statue). This would resolve both in-game status resistances, as an argument for physiological similarities, and also symbolic and thematic parallels.-->
 
-#### Celestial Kingdom
+##### Celestial Kingdom
 
-One last suggestion, which could back this convoluted chain of event, a potential explanation for the identity of heavenly kingdom, is the inspiration by the Celestial Kingdom of Chinese Mythology.
+As Valkyries were referred as celestial beings, we can suggest, based on the relevancy of the term `celestial` to more than gear referring to Valkyries directly, a name for their heavenly kingdom may be one meant to be partially reminiscent of to the celestial kingdom, in particular, the Celestial Kingdom of Chinese Mythology.
 
-Celestial kingdom is ruled by the Jade Emperor. Queen Mother of the West is the guardian of souls, of the spiritual realm, and represents the balance of nature. This description is most reminiscent of the Spirit Mother. Within the Celestial Kingdom reside spirits, which is similar to our understanding of the Nameless Realm with western alchemical ideas.
+We have already eplored the parallels to Asgard of Norse mythology, the idea of Greek pantheon, noted on the ideas of Biblican conon found through Fallen Valkyrian. Herein we aim to discuss the potential influence of Chinese mythology onto the ide of Valkyries' heavenly kingdom.
+
+Why would be suggest so _given most distinct presence of primarily western influences onto the setting_?
+
+In its initial premise, in Chinese mythology the Celestial Kingdom is ruled by the Jade Emperor. Queen Mother of the West is the guardian of souls, of the spiritual realm, and she represents the balance of nature.
+
+This description is most reminiscent of the Spirit Mother. Within the Celestial Kingdom reside spirits, which is similar to our understanding of the Nameless Realm with western alchemical ideas.
 
 There are the Four Heavenly Kings. They are guardians of Heavens, protecting the Celestial Kingdom from even entering. [Oni Helm](https://wiki.spiralknights.com/Oni_Helm) has similar description of a fiend: `Designed to frighten their enemies, this helm is in the visage of a fiend who lives in the mountains of a distant land. Said to guard the gate to heaven itself, it only allows those who are worthy to pass`.
 
-<!--This, we believe, still marks a distinction between physiology of celestial beings in the context of Spiral Knights, and ones within the material realm, extrapolated onto many different species.-->
+Yet the most distinct elemnt which would allow us to link heavenly kingdom to its eastern counterpart is the presence of mountains and their symbolic role. It was already established in the aforementioned [Oni Helm](https://wiki.spiralknights.com/Oni_Helm), we have noted on the Oni multiple times in relation to Lord Vanduke's journey into the mountains, but there are other mountains:
+
+- `A helm worm by heavenly guardians who watch over a kingdom hidden atop a snow-covered mountain` ([Storm Avenger Helm](https://wiki.spiralknights.com/Avenger_Helm)).
+- `A helm worm by heavenly guardians who watch over a kingdom hidden atop a magma-covered mountain` ([Raging Avenger Helm](https://wiki.spiralknights.com/Avenger_Helm)).
+- `A helm worm by heavenly guardians who watch over a kingdom hidden atop a wind-swept mountain` ([Frenzy Avenger Helm](https://wiki.spiralknights.com/Avenger_Helm)).
+
+The attribution of primordial forces to those mountains, which we have linked to the nature of dragons, the mounts' relative position to the heavenly kingdom, is reminiscent to the Five Sacred Mountains in Chinese mythology. This similairy further underlines the archetypical nature of the discussed subject and setting's other elements.
 
 We have previously covered divine themes of Valkyries through relation to wording of `seraphic` or `angelic`, suggesting a transition from the divine to material.
 
@@ -5451,7 +5457,7 @@ Considering that, as well as our previous discussions of Valkyries being descend
 
 By that time Owlite academy is to be established and used to create elemental gear for gunslinger priests, as well as making greater accent on magic and power of sealing the curse. This would lead Legion of Ur being sealed at least after Lord Vanaduke's crusade.
 
-#### Knights of the Rose
+##### Knights of the Rose
 
 One of the last remaining elements of this forgotten time, we propose, are the Knights of the Rose.
 
@@ -5473,11 +5479,26 @@ An explanation can be presented here, as with gunslingers and regular close-comb
 
 The fact that Stranger have those designs prior to arrival of Spiral Order during present events is important, as it suggest that a large period of time has passed since. Otherwise there would be no reason for Spiral Order to take Strangers' designs as the basis for tabards.
 
-#### Fallen Valkyrian
+##### Trojans and Fallen Valkyrian
 
-We propose that Fallen Valkyrian is responsible for the creation of Legion of Ur in the first place, and the reason why heavenly kingdom had invaded Underworld after fall of Almire.
+As mentioned in the [analysis of the main antagonists](#cradle-antagonists) of the setting, we found only a few figures related to Underworld -- Undercorp, Ur, Nefarious Imp, and Fallen Valkyrian.
 
-While we do not know the reasoning behind those actions, we are indirectly understand, that it is those actions had led to banishnment of the Valkyrian.
+Fallen Valkyrian in partiular may be seen as a plausible candidate for the corruption of Spiral Wardens during Forgotten Time. While remaining a speculation, it allows for a symbolic connection to be further strengthened, as Valkyries are near-identical to Isorans, both possess a celestial nature to the point of being acknowledged as the celestial beings.
+
+Fallen Valkyrian in this regard is described through the gear in ceratin manner, which we uggest, is meant to evoke Biblical canon:
+
+- `A cursed suit of armor once worn by a celestial being cast down from paradise` ([Armor of the Fallen](https://wiki.spiralknights.com/Armor_of_the_fallen)).
+- `A cursed crown once worn by a celestial being cast down from paradise` ([Crown of the Fallen](https://wiki.spiralknights.com/Crown_of_the_Fallen)).
+
+Within this system of inspirations the position Fallen Valkyrian takes is one most ditinct as the entity leading Isorans to sin or corruption, herein being suggested to be creation of trojans through [multifaceted](#poisoned-minds-and-cold-hearts) process [involving grief](#arkus-part-3-a-metamorphosis), presence, and acceptence of Underworld's metaphysical influence.
+
+If the figure leading the legion was a fiend, its motivations had differed from Underworld at that moment. While identity of Legion's leader is speculated, we will commit to a narrative where Spiral Wardens are metaphysically corrupted by an actor from Underworld.
+
+How in this regard a Valkyrian would be knowledgable of such scale of transformation and experience to perform it?
+
+##### Fallen Valkyrian
+
+We propose that Fallen Valkyrian is responsible for the creation of Legion of Ur. They are the reason why valkyries of heavenly kingdom had invaded Underworld after fall of Almire.
 
 We consider this case being a most direct instance of a biblical motif, among which we find banishemt of Lucifer from paradise to be cases which we had to look at for potential narrative inspiration as explnation for Fallen's motivations. Here, we suggest, the resolution is rather linear -- as Fallen's armor became associated with Underworld, shadow damage, and curse, -- we suspect him to be a stand-in for Lucifer.
 
@@ -5509,7 +5530,7 @@ And, as discussed in [Snarbolax and empowerment through curse section](#snarbola
 
 <!--There is [Crown of the Fallen](https://wiki.spiralknights.com/Crown_of_the_Fallen), as it has a shadowy halo, similar to one in [Valkyrie Helm](https://wiki.spiralknights.com/Valkyrie_Helm). And, as Valkyrian armors have [Trojan Horseshoe](https://wiki.spiralknights.com/Trojan_Horseshoe) as a fiendish material in their recipe, this, we suppose, points to high importance of this event of banishment and connection to the Legion of Ur of all parties from that period of time.-->
 
-#### War in Heaven
+##### War in Heaven
 
 One last element for this idea is the ownership of [Champion Helms](https://wiki.spiralknights.com/Champion_Helm) of rage, frenzy, and storms. As we discussed, tortomega are unlikely candidates, but at that time no other civilization could claim ownership of the gear, apart from valkyries themselves.
 
@@ -5530,6 +5551,12 @@ Those events seem us to cincide with the potential of [Champions](https://wiki.s
 - `The helm of one who defied the gods and stormed the gates of a heavenly kingdom. Some say the thunderclaps are the eternal echoes of her siege` ([Storm Champion Helm](https://wiki.spiralknights.com/Storm_Champion_Helm#Storm_Champion_Helm)).
 - `The helm of one who defied the gods and razed the gates of a heavenly kingdom` ([Raging Champion Helm](https://wiki.spiralknights.com/Raging_Champion_Helm#Raging_Champion_Helm)).
 - `The helm of one who defied the gods and stormed the gates of a heavenly kingdom. Some say that whistling wings are the eternal warcries of her siege` ([Frenzy Champion Helm](https://wiki.spiralknights.com/Frenzy_Champion_Helm#Frenzy_Champion_Helm)).
+
+Within the Luciferian narrative, Fallen Valkyriuan would be banished to Underworld as it is colloqually perceived in the West. There, an influence from the Underworld would be targeted at those similar to valkyries in their divinity but in means of attaining power comparable to one of heavenly kingdom, found through Isoan Spiral Wardens as guardians of the Order.
+
+This interpretaion possesses a conflict with the source material as Fallen Valkyrian would possess a powerful position in Underworld, yet the act of Legion of Ur conquering the Underworld contradicts it, unless other actors would be presented which would reestablish the power scale within Underworld.
+
+In this case we may rely on preestablished eldritch nature of Underworld as a place of other `dark gods` (`One of many statuettes carried by fiends as a means of gaining favor with their dark gods. The most valuable ones are 'MIBE' (mint in box of evil)` - [Wicked Idol](https://wiki.spiralknights.com/Wicked_Idol)), as then the banished valkyrian would qualify as a powerful, celestial entity, but one no near as powerful as an Underworld deity, such as Vog, might possess.
 
 <!--Compared to the [creation myth](#creation-myth-dragons-as-cosmic-progenitors), here specifically, the terms of razing and storming are used in the context of destruction which when paired with the designs themselves can be interpreted in strict set of scenarios.-->
 
@@ -6120,9 +6147,9 @@ Sun Silver and [Miracloth](https://wiki.spiralknights.com/Miracloth) are used in
 - `A miraculous mask said to grant a single miracle to the wearer when they need it most. In practice, it'll likely save your skin more often than that` ([Miracle Hood](https://wiki.spiralknights.com/Miracle_Hood)).
 - `A miraculous mantle said to grant a single miracle to the wearer when they need it most` ([Miracle Cloak](https://wiki.spiralknights.com/Miracle_Cloak)).
 
-This alchemy tree branch has an elemental motif which through themes of divinity and occult of Chaos Cloak connects _magic, miracles, divinity, and chaos_. Within this system Chaos Cloak while represents chaotic aspect, it exists separate from the rest due to its mostly unknwon nature and relation to Nameless Realm.
+This alchemy tree branch has an elemental motif which through themes of divinity and occult of Chaos Cloak connects _magic, miracles, divinity, and chaos_. Within this framework Chaos Cloak while represents chaotic aspect, it exists separate from the rest due to its mostly unknwon nature and relation to __Nameless Realm, it contrasts outlined motifs of the celestial beings and celestial metals__.
 
-The themes Nameless Realm may possess in contrast to its context and other realms will be explored as we will reiterate on the alchmical motifs found across the story and cosmology, as it provides the strongest so far, _as it inherently stems from myths_, foundation in order to understand the rest of the component of this system integrates.
+The themes Nameless Realm may possess in contrast to its context and other realms will be explored as we will reiterate on the alchemical motifs found across the story and cosmology, as it provides the strongest so far, _as it inherently stems from myths_, foundation in order to understand the rest of the components this setting integrates.
 
 <!--Those characteristics, we suggest, __relate to the nature of Nameless Realm, as one containing within itself all element with no exception, conflict, or contradiction__, where miracles point at the supernatural properties interpreted as divine rather than strictly occult, as seen by other instances of chaotic motif.-->
 
@@ -6132,7 +6159,9 @@ The themes Nameless Realm may possess in contrast to its context and other realm
 
 #### Owlite Witches, Magicians, and Wizards
 
-The relation of Owlites to curse is present in different instance. Earlier, when we have discussed Isoran redesigns, we briefly noted the concept of vials found across Clockworks to be invention of Spiral Order: `The wizarding guilds, with the help of the Owlite faction, have long been responsible for helping to manufacture some of the more volatile potions used by knights daily. Spiral HQ has conjured spellbinding items to help resupply these extraordinary knights. The Wizard Prize box celebrates these guilds' mysterious arcane power` ([Wizarding Ways](https://forums.spiralknights.com/en/node/124845)). Those vials while do include curse, also contain the rest of status effects, which suggests a degree and depth of knowledge required to create those vials in the first place, which is stated to be derived of Owlites. It is also established, that a concept of magic at that point in time is incorporated into Spiral Order's hierarchy.
+The relation of Owlites to curse is present in different instance. Earlier, when we have discussed Isoran redesigns, we briefly noted the concept of vials found across Clockworks to be invention of Spiral Order: `The wizarding guilds, with the help of the Owlite faction, have long been responsible for helping to manufacture some of the more volatile potions used by knights daily. Spiral HQ has conjured spellbinding items to help resupply these extraordinary knights. The Wizard Prize box celebrates these guilds' mysterious arcane power` ([Wizarding Ways](https://forums.spiralknights.com/en/node/124845)).
+
+Those vials while do include curse, also contain the rest of status effects, which suggests a degree and depth of knowledge required to create those vials in the first place, which is stated to be derived of Owlites. It is also established, that a concept of magic at that point in time is incorporated into Spiral Order's hierarchy.
 
 As exploration of Cradle and its civilizations has corresponded to knight's progression through the ranks, we can point at a few distinct instances, which may soidify exact series of discoveries which had allowed Spiral Order to further progress in research of magic.
 
@@ -10431,13 +10460,13 @@ Nameless Realm and material realm are connected through the Whitespace within th
 
 - Isorans are now a spacefaring civilization with an established Spiral Order. Those spacefaring vessels came before any major colonies were established. One of such vessels falls on Cradle.
 
-- In this fall, most of technological advancements of Isorans were lost, throwing them back to early medieval age. On this planet, inhabited by valkyries and formerly titans, and surviving an overtake by Underworld, several kingdoms are established: kingdom of Almire, kingdom of Ironmight, and a northern kingdom established by Spiral Riders, which are separated from the mainland.
+- In this fall, most of technological advancements of Isorans were lost, throwing them back to early medieval age. On this planet, inhabited by valkyries and formerly titans, and surviving an overtake by Underworld, several kingdoms are established: kingdom of Almire, kingdom of Ironmight, and a northern kingdom established by Spiral Raiders, which are separated from the mainland.
 - It is here Underworld is rediscovered by Isorans. During this period of time a lot of ancient weapons would be created, inherited from Titans heavy swords with an amount of internal elemental energy; swords, designed specifically to hunt undead; and gunpowder-powered handguns.
 - Ancient Isorans discover a volcano in proximity of Almire, there they discover souls of fire and invent technology which aloows to imbue metal with souls.
 - Other Isorans discover Underworldly presence of fire beast-deity Vog, they build a shrine in a volcano. The shrine is connected to the Underworld, a magmatic cult is established.
 - Presence of undeath finalized in the establishment of Gunslinger Priests and Knights of the Rose.
 - Both kingdom of Almire, located near the volcanic mountains and kingdom of Ironmight discover the properties of ancient tortomega homeland -- a unique family of trees.
-- Over the course of this period of time Spiral Wardens are transformed into the Legion of Ur through actions of a Valkyrian, now only known as the Fallen. With this army and his people, the valkyrian had attempted to siege heavenly kingdom from the front gates, failing.
+- Over the course of this period of time Spiral Wardens are transformed into the Legion of Ur through actions of a Fallen Valkyrian. Prior to this, Fallen Valkyrian was banished from heavenly kingdom as they had attempted to siege heavenly kingdom from the front gates, failing.
 - Trojans become an iteration of a dark matter-powered, stone-armored army after tortotrodes, posessing devastating power.
 
 - Due to those actions Fallen Valkyrian was banished into the Underworld, where he attained fiendish name of Ur while the kingdom itself has distanced itself from the material realm.
@@ -11927,7 +11956,7 @@ Myths and other:
 - [Symbolism of Sun Cross](https://symbology.wiki/symbol/sun-cross/)
 - [The Ancient Hebrew Alphabet - Teth](https://www.ancient-hebrew.org/ancient-alphabet/tet.htm)
 - [Magnum Opus: the Great Work](https://www.learnreligions.com/the-great-work-or-magnum-opus-95943)
-- [Historycal reference on hounskull bascinet](https://www.musee-armee.fr/en/collections/museum-treasures/hounskull-bascinet.html)
+- [Historical reference on hounskull bascinet](https://www.musee-armee.fr/en/collections/museum-treasures/hounskull-bascinet.html)
 - [Trading species to extinction: evidence of extinction linked to the wildlife trade](https://www.cambridge.org/core/journals/cambridge-prisms-extinction/article/trading-species-to-extinction-evidence-of-extinction-linked-to-the-wildlife-trade/09F38911BB76B0561056D96A5E60A341#)
 - [Prana](https://tibetanbuddhistencyclopedia.com/en/index.php?title=Pr%C4%81na)
 - [Malachim Alphabet](https://www.omniglot.com/conscripts/malachim.htm)
