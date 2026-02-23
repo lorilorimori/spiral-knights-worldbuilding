@@ -20,7 +20,8 @@
   - `-- ..., --`,
   - ` , \`...citation...\`, `
 
-- `Apocrean Realm` -> `Apocrean realm`
+- `Apocrean Realm` -> `Apocrean realm` (canon spelling)
+- `Kat tribe` -> `Kat Tribe` (canon spelling)
 - replace `kill` with synonyms
 
 - rebis thery is removed
@@ -33,3 +34,5 @@
 - howlitzers are wyverns or dragons
 - nefarios imp is not a prominent figure. it is affiliated with Underworld but its not a primary antagonist
 - all gunslinger priests were isorans
+- griffins are descentands of wyverns and ancestors of valkyries and owlites
+- Kat are inherently divine, celestial beings, exist within heavenly kingdom. Kat Tribe are defecive group associated with Underworld
