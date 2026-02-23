@@ -265,7 +265,7 @@ h2, h3, h4, h5, h6 {
 
 
 h3:is(
-   [id="chapter-ix-part-i-gremlin-empire"]
+   [id="chapter-ix-gremlin-empire"]
 ) {
   max-width: 70%;
 }
@@ -279,8 +279,7 @@ h3:is(
  * of webkit (1) and of firefox / chrome (2)
  */
 h3:is(
-    [id="chapter-ix-swarm"],
-    [id="chapter-ix-swarm"]
+    [id="chapter-ix-s-swarm"]
   ) {
   color: var(--color-unknown);
 

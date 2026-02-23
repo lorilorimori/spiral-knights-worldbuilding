@@ -2622,7 +2622,7 @@ If we apply back this idea to other technology, we could offer an explanation to
 
 In relation to the vortex itself, we note presence of curse associated with dark-pink color scheme and connection to Underworld. And, given more violent nature of collapsed grim gates and Margrel's summoning, we propose existence of a distinct effect on nearby areas of material realm, wherein this even took place -- _accumulation of curse in material realm through the portal_.
 
-#### Snarbolax And <span class="through-curse">Haunting Through Curse</span>
+#### Snarbolax And Haunting Through Curse
 
 The described [portal collapse](#grim-gates-portal-collapse) releases pink hue into the material realm. We have proposed that this is an essence of Underworld in more abstract terms of speculative fiction, a residue of Underworld being linked to material realm. Now we propose that pink hue is manifestation of curse.
 
@@ -2630,20 +2630,20 @@ We propose that this usage of the gates, paired with other [weaponized graviton 
 
 Snarbolax will serve here the first most distinct case study of __curse afflicting creatures of material realm not by detriment, but empowerment__. Here it is important to analyze nature of Snarbolax in that proposed context.
 
-Gloaming Wildwoods were inhabited by a [Snarbolax](https://wiki.spiralknights.com/Snarbolax). Items made of its fur (`A coat of coarse fur taken from a Snarbolax` [Nightmare Mane](https://wiki.spiralknights.com/Nightmare_Mane)), as well as a few others, have a focus on dangers of sighting Snarbolax. Snarbolax has established _supernatural presence existing beyond its death_ during knights' passthrough of the Gloaming Wildwoods:
+Gloaming Wildwoods were inhabited by a [Snarbolax](https://wiki.spiralknights.com/Snarbolax). Items made of its fur -- [Nightmare Mane](https://wiki.spiralknights.com/Nightmare_Mane), `A coat of coarse fur taken from a Snarbolax`, as well as a few others, have a focus on _dangers of sighting or observing_ Snarbolax. Snarbolax has established _supernatural presence existing beyond its death_ during knights' passthrough of the Gloaming Wildwoods:
 
-- Snarbolax itself has a default state of invincibility with a [shadow color scheme](https://wiki.spiralknights.com/Category:Shadow-Themed).
+- Snarbolax itself has a default state of invincibility and darkness surrounding it.
 
   Dispelled invincibility or stunned state reveals Snarbolax's more [natural fur coat](https://wiki.spiralknights.com/File:Monster-Snarbolax_stunned.png), similar to [wolvers' 3 color pattern one of which is white accent](https://wiki.spiralknights.com/File:Monster-Alpha_Wolver_3.png). Rabid Snarbolax is poison themed, possibly relating to the [poison-themed cults](#fiendish-cults).
 
-  On the other hand, the [fur](https://wiki.spiralknights.com/Nightmare_Mane) acquired from the Shadow Lairs is of color belonging to a shadowed state.
+  On the other hand, the [fur](https://wiki.spiralknights.com/Nightmare_Mane) acquired from the Shadow Lairs is of color belonging to beast's shadowed state.
 
-- Equipment made of this fur -- [Snarbolax Cap](https://wiki.spiralknights.com/Snarbolax_Cap) and [Snarbolax Coat](https://wiki.spiralknights.com/Snarbolax_Coat) both state: `Even looking at it too closely is dangerous`, although currently this could be a hyperbolized writing, we believe it will gain larger connotation in the context of next few items considered.
-- Barbarous [Thorn blade](https://wiki.spiralknights.com/Barbarous_Thorn_Blade): `Those who wield it claim to feel the fiery stare of the beast upon them whenever they close their eyes`.
+- Equipment made of Snarbolax's fur -- [Snarbolax Cap](https://wiki.spiralknights.com/Snarbolax_Cap) and [Snarbolax Coat](https://wiki.spiralknights.com/Snarbolax_Coat) both state: `even looking at it too closely is dangerous`, although currently this could be a metaphorical writing, we suspect it will gain larger connotation in the context of next few items considered _as literal_.
+- [Dark Thorn Blade](https://wiki.spiralknights.com/Dark_Thorn_Blade) is upgraded to [Barbarous Thorn blade](https://wiki.spiralknights.com/Barbarous_Thorn_Blade). The prior specifies that it is a `savage sword whose strength has been fortified by an offering of souls to the beast within`. With the beast most certainly referring to the Snarbolax, given its relevancy and blade's darkened apperance compared to its pervious upgrades.
+- [Barbarous Thorn blade](https://wiki.spiralknights.com/Barbarous_Thorn_Blade): `Those who wield it claim to feel the fiery stare of the beast upon them whenever they close their eyes`.
 
-  The charge attack has a ghostly image of Snarbolax performing a bite, similar to ghostly apparitions of wolver in case of [Wild Hunting Blade's charge](https://wiki.spiralknights.com/Wild_Hunting_Blade) and a larger wolver with a snarl and wide red eyes reminiscent of [Maulos' Perma-Frostifurs](https://wiki.spiralknights.com/Wolver#Perma-Frostifur). This blade, notably, also has a poison counterpart - [Dread Venom Striker](https://wiki.spiralknights.com/Dread_Venom_Striker).
+  The charge attack has a ghostly image of Snarbolax performing a bite, similar to ghostly apparitions of wolver in case of [Wild Hunting Blade's charge](https://wiki.spiralknights.com/Wild_Hunting_Blade) and a larger wolver with a snarl and wide red eyes reminiscent of [Maulos' Perma-Frostifurs](https://wiki.spiralknights.com/Wolver#Perma-Frostifur). This blade, notably, also has a poison counterpart, the [Dread Venom Striker](https://wiki.spiralknights.com/Dread_Venom_Striker).
 
-- Dark [Thorn Blade](https://wiki.spiralknights.com/Dark_Thorn_Blade) which is upgraded to [Barbarous Thorn blade](https://wiki.spiralknights.com/Barbarous_Thorn_Blade), the prior specifies that it is a `savage sword whose strength has been fortified by an offering of souls to the beast within`. With the beast most certainly referring to the Snarbolax, given its relevancy.
 - Twisted [Snarble Barb](https://wiki.spiralknights.com/Twisted_Snarble_Barb) has color scheme of a _stunned Snarbolax_ with its overall green hue and lime-like color reminiscent of [Rabid Snarbolax](https://wiki.spiralknights.com/Rabid_Snarbolax) thorns.
 
   This color scheme may hint at Snarbolax's dispelled of its shadowy nature apperances, when coupled with trophies:
@@ -2657,11 +2657,13 @@ Gloaming Wildwoods were inhabited by a [Snarbolax](https://wiki.spiralknights.co
 - Barbarous [Thorn Shield](https://wiki.spiralknights.com/Barbarous_Thorn_Shield) imitates Snarbolax's three-eye pattern and states the following: `its said the beast can use the glowing orbs on the shield's face to see and stalk weak-hearted wielders`.
 - Dark [Thorn Shield](https://wiki.spiralknights.com/Dark_Thorn_Shield) plain specifies: `A gloomy guard that gives one's sword strikes a supernatural savagery`.
 
-Based on those items Snarbolax has several supernatural properties. There are no enemies, and especially of beast family on Cradle, which would possess such powers, with the exception of [Perma-Frostifurs](https://wiki.spiralknights.com/Perma-Frostifur#Perma-Frostifur).
+Based on those items Snarbolax has several supernatural properties related to its sight and seemingly supernatural haunting.
+
+There are no enemies nor beasts on Cradle possessing such power, with the slight exception of [Perma-Frostifurs](https://wiki.spiralknights.com/Perma-Frostifur#Perma-Frostifur).
 
 ##### Perma-Frostifurs and Blinding Abyss
 
-Perma-[Frostifurs](https://wiki.spiralknights.com/Perma-Frostifur#Perma-Frostifur) are invincible and are not explicitly delievered by Undercorp, given [Fiendish Memo](https://wiki.spiralknights.com/Amu-Sol), as they are absent in the description of the requested items: `Please provide a detailed summary of your projected use of the following requested resources: - 999 'Open minded' devilites ... - 50 barrels of 'whatever frostifurs eat' ... - A 'towering pillar' of everfrost and 'all the frozen souls it brings forth'` ([Heart of Ice - Amu-Sol - 'Fiendish Memo'](https://wiki.spiralknights.com/Amu-Sol)).
+[Perma-Frostifurs](https://wiki.spiralknights.com/Perma-Frostifur#Perma-Frostifur) are invincible and are not explicitly delievered by Undercorp, given [Fiendish Memo](https://wiki.spiralknights.com/Amu-Sol), as they are absent in the description of the requested items: `Please provide a detailed summary of your projected use of the following requested resources: - 999 'Open minded' devilites ... - 50 barrels of 'whatever frostifurs eat' ... - A 'towering pillar' of everfrost and 'all the frozen souls it brings forth'` ([Heart of Ice - Amu-Sol - 'Fiendish Memo'](https://wiki.spiralknights.com/Amu-Sol)).
 
 If we attempt to draw parallels of [Underworlds' influence](#influences-of-underworld), we can suggest that as Vog cubs are transformed by a magma deity and so are Perma-Frostifurs are transformed by a Hail deity in the same manner as we see Maulos and Lord Vanaduke.
 
@@ -2673,31 +2675,33 @@ As in the Underworld [devilites](https://wiki.spiralknights.com/Devilite#Types) 
 
 ##### Cursed Fur
 
-Returning to Snarbolax, there is such wording as `supernatural savagery`, `unearthly howl`, and mention of souls in the [Barbarous Thorn blade](https://wiki.spiralknights.com/Barbarous_Thorn_Blade). We propose that all of the above characteristics imply relation to Underworld, as it is one of 2 primary actors concerned with souls. Specifically, _Snarbolax became cursed through an influence of Underworld_.
+Returning to Snarbolax, there is such wording as `supernatural savagery`, `unearthly howl`, and mention of souls, `a savage sword whose strength has been fortified by an offering of souls to the beast within`. We propose that all of the above characteristics imply relation to Underworld, as it is one of 2 primary actors concerned with souls. Specifically, _Snarbolax became cursed through an indirect influence of Underworld_.
 
 The final and most evident, as we see it, argument towards intrinsic connection between Snarbolax and curse emerges from 2 items when they are analyzed together:
 
 - Snarbolax's fur -- [Nightmare Mane](https://wiki.spiralknights.com/Nightmare_Mane), -- is described as `A coat of coarse fur taken from a Snarbolax. Each fiber seems to curl and fray as if life is still flowing through it`.
 - The [Snarbostuffing](https://wiki.spiralknights.com/Snarbostuffing) refers to fur as cursed, as does not decay in its presence: `A dense, fluffy stuffing made from a special polymer that doesn't break down when exposed to the cursed fur of the Snarbolax. Its perfect for creating trophies or adorable, cursed, stuffed toys` ([Snarbostuffing](https://wiki.spiralknights.com/Snarbostuffing)).
 
-This recontextualizes Nightmare Mane's description -- `seems to curl and fray as if life is still flowing through it` within the idea of _life after death_ by a presence of lingering life. This idea of lingering was also attributed to souls: `The dust of the departed. Whether it still retains any shred of a soul remains to be seen` ([Soul Dust](https://wiki.spiralknights.com/Soul_Dust)).
+This recontextualizes Nightmare Mane's description, `...seems to curl and fray as if life is still flowing through it`, within the idea of _life after death_ by a presence of lingering life _perpetuated by curse_. This idea of lingering was also attributed to souls, `The dust of the departed. Whether it still retains any shred of a soul remains to be seen` ([Soul Dust](https://wiki.spiralknights.com/Soul_Dust)).
 
-If the curse indeed lingers, how it was achieved? As we intoduced an idea of curse appearing in maerial relam, we offered an explanation of grim gates being the source of this supernatural power, -- the result of their improper usage near the ancient grove, -- as the resulting explosions of the portals, discussed earlier have a characteristic, _associated with the curse, dark-red and pink mist_, present when portal explodes from the other side.
+If the curse indeed lingers, how it was achieved?
 
-The curse affects only living creatures. Depending on its source, it can be fully detrimental -- as in case of Spiral Knights and Nature Sprites, or come with additions -- as in case of [Lord Vanaduke](#king-in-the-mountain), and at least for Snarbolax's fur, as living after owner's death or _greatly extending their life_.
+As we have intoduced an idea of curse appearing in material realm, we offered an explanation of grim gates being the source of this supernatural power -- the result of their improper usage near the ancient grove, -- as the resulting explosions of the portals, discussed earlier have a characteristic, _associated with the curse, dark-red and pink mist_, present when portal explodes, supposedly, [from the other side](#grim-gate-portal-collapse).
 
-Considering the absence of tortomega and suggested here and by tortodrone mission description (`Investigations into the cause were inconclusive, but Spiral HQ suspects fiends are somehow involved` - [March of the Tortodrones](https://wiki.spiralknights.com/March_of_the_Tortodrones)), connection with devilites and Undercorp, this scenario of Underworld's influence on material realm wildlife would be particularly plausible, likely being the exact [pink miasma found in the Shadow Gloaming Wildwoods](#miasma).
+The curse affects living creatures. Depending on its source, it can be fully detrimental, as in case of Spiral Knights and Nature Sprites, or come with additions, as in case of [Lord Vanaduke](#king-in-the-mountain). And for Snarbolax, its fur lives after owner's death, and, potentially, _greatly extending owner's life_ as it was for their coat of fur.
 
-Apart from this miasma and a potential offering of souls in [Dark Thorn Blade](https://wiki.spiralknights.com/Dark_Thorn_Blade): `A savage sword whose strength has been fortified by an offering of souls to the beast within`, -- the method through which Snarbolax became cursed in the first place, is related to the past presence of Titans in the woods as the only sentiant civilization with its own traces across those regions.
+Considering the absence of tortomega and suggested here and by tortodrone mission description (`Investigations into the cause were inconclusive, but Spiral HQ suspects fiends are somehow involved` - [March of the Tortodrones](https://wiki.spiralknights.com/March_of_the_Tortodrones)), connection with devilites and Undercorp, this scenario of Underworld's influence on material realm wildlife would be particularly plausible, potentially being the exact [miasma of red hue found in the Shadow Gloaming Wildwoods](#miasma).
 
-Under this assumption, we can also explain general thematic shift of alchemy tree of high-tier Snarbolax gear. Last 2 tiers of equipment, 5 and 4 stars', are themed around shadowy Snarbolax, while 2 and 3 star gear is attributed to natural Snarbolax, prior to explicitly supernatural influence.
+Apart from this miasma and a potential offering of souls in [Dark Thorn Blade](https://wiki.spiralknights.com/Dark_Thorn_Blade), `A savage sword whose strength has been fortified by an offering of souls to the beast within`, the method through which Snarbolax became cursed in the first place is related to the past presence of Titans in the woods as the only sentiant civilization with its own traces across those regions.
 
-At that, we propose that items acquired for [Frumious Fang tokens](https://wiki.spiralknights.com/Token#Frumious_Fang) exist within an _alchemy tree representing a transformation from natural to supernatural_. Similar, if not exact themes reflected in Snarbolax trophies:
+Under this assumption, we can also explain general thematic shift of alchemy tree of Snarbolax gear. Last 2 tiers of equipment, 5 and 4 stars', are themed around shadowy Snarbolax, while 2 and 3-star gear is attributed to natural Snarbolax, what we suggest to be an existence prior to explicitly supernatural influences.
+
+We propose that items acquired for [Frumious Fang tokens](https://wiki.spiralknights.com/Token#Frumious_Fang) exist within an _alchemy tree representing a transformation from natural to supernatural, cursed_. Similar, if not exact themes reflected in Snarbolax trophies:
 
 - `A small Snarbolax statuette, showing the savage shadow in a stunned state` ([Replica Natural Snarbolax](https://wiki.spiralknights.com/Replica_Natural_Snarbolax)).
 - `A large model Snarbolax, depicting in minute detail his jaws that bite and claws that catch` ([Replica Shadowy Snarbolax](https://wiki.spiralknights.com/Replica_Shadowy_Snarbolax)).
 
-It seems to us that the name of natural and accompanied Snarbolax's design solidifies it as different state of being from the latter - shadowy, in which Snarbolax is invincible.
+It seems to us that the name of natural and accompanied Snarbolax's design solidifies it as different state of being from the latter -- shadowy, in which Snarbolax is invincible.
 
 As a side note, the grouping of [Snarbolax Slippers](https://wiki.spiralknights.com/Snarbolax_Slippers#Snarbolax_Slippers) with the rest of wolver families' slippers in the [cozy prize box](https://wiki.spiralknights.com/Cozy_Prize_Box) may suggest that Snarbolax was at some point in time a wolver, or an adjacent specie. And based on the [Snarblepup](https://wiki.spiralknights.com/Maskeraith_(Snarblepup)) reskin of Maskeriath battle sprite, we can more confidently suggest Snarbolax being a canid, despite its muzzle's shape, as being referred as a pup. On the other hand, this naming scheme is a reflection of [gun puppies being inspired by drakes](#depictions-of-a-stone-dragon-gun-puppy).
 
@@ -4830,7 +4834,7 @@ We have previously discussed [presence of volcanic affiliation](#familiarity-wit
 
 Application of highly magical technology to wardens would mean its presence and discovery up to the initial arrival of Isorans on that planet, creating a more plausible environemnt for such technology to emerge in the same notion as discovery of souls and creation of Blackened Shrine had preceeded and existed up to the fall of kingdom of Almire.
 
-#### Metaphysics of Souls and <span class="through-curse">Cursed Immortality</span>
+#### Metaphysics of Souls and Cursed Immortality
 
 <!--As zombies are resurrected, as _Carnavons and Lord Vanaduke are animated by curse, which grants them immortality_, what have happened to Arkus, and by extension, Maulos, and the Legion of Ur in order fo them to become fiends?-->
 
@@ -4969,7 +4973,7 @@ And yet, despite seeming difference between the two curses, both originate from 
 
 <!--Lastly, there the [Warden Armor](https://wiki.spiralknights.com/Warden_Armor) in its design, chestpiece specifically, is identical to the redwood chestpiece design of tier 1 trojans.-->
 
-#### Lord Vanaduke's Mask and <span class="through-curse">Immortality Through Curse</span>
+#### Lord Vanaduke's Mask and Immortality Through Curse
 
 The exact nature of Blackened Shrine is unknown, although, as we have identified a distinction between undercorp designs and occult Underworld designs, it is very likely a fiendish instrument fashioned in pagan or occult manner and capable of inducing a tranformation through a link with an Underworld deity.
 
@@ -6337,20 +6341,28 @@ But, as far there is a consistent narrative of curse and Undercorp's involvement
 
 ### _Chapter `VIII S` &#160;<br>_ Metaphysics Of Curse
 
-Before we move on to the analysis of Clockworks and gremlins, specifically nature of the complex network of connections between the Core, Whitespace, and the Swarm, with an addition of Sleeper, Architect, and the Void, we are required to cover everything we now know of the phenomenon of curse up until this point with the fullest context of corresponding periods of time.
+Before we move on to the analysis of Clockworks and gremlins, specifically nature of the complex network of connections between the Core, Whitespace, and the Swarm, with an addition of Sleeper, Architect, and the Void, we are will reiterate on nature of curse and cover everything we now know of this phenomenon up until this point in the timeline with the fullest context of corresponding periods of time.
 
-For this, we will discuss Shadow Lairs, as it this region which contains so far shortly mentioned Shadow Firestorm Citadel and the miasma of Shadow Gloaming Wildwoods in the [analysis of Snarbolax's curse](#snarbolax-and-haunting-through-curse).
+For this, we will discuss a few elements of Shadow Lairs, specifically the Shadow Firestorm Citadel and the miasma of Shadow Gloaming Wildwoods, the latter noted briefly in the [analysis of Snarbolax's curse](#snarbolax-and-haunting-through-curse).
 
-But, due to sheer size of the topic, its many nuances, _we will decouple the context of Shadow Lairs from the content_. Specifically, we are not concerned with nature or origin of Shadow Lairs and Swarm, but with phenomena which take place in those lairs - miasma and the curse. We will also discuss the causality of those events, with Shadow Firestorm Citadel being our main point of concern in regards to what is considered canon.
+But, due to sheer size of the topic, its many nuances, _we will decouple the context of Shadow Lairs from their contents_. Specifically, we are not concerned with nature or origin of Shadow Lairs and the Swarm, but with phenomena which take place in those locations -- miasma and the curse.
 
-After we are done with the properties of the Citadel and Wildwoods, their plausible positions in the timeline, separated from the nature of Shadow Lairs themselves, we will perform the final summary of the metaphysics of curse.
+We will also discuss the __causality of those locations__, with Shadow Firestorm Citadel being our main point of concern in regards to _what is considered canon_.
 
-Shadow Lairs are introduced in a manner (`Shadows Fall Over Cradle!` - [Release Notes: 2011.10.19](https://wiki.spiralknights.com/Release_Notes_2011-10-19)), which suggest, that the boss entities are alive while Spiral Order possess extended knowledge on them, as if they were already encountered:
+After we are finished with the properties of the Citadel and Wildwoods, their plausible positions in the timeline, separated from the nature of Shadow Lairs themselves, we will perform the final summary of the metaphysics of curse.
+
+#### Introduction to Shadow Lairs
+
+Shadow Lairs are introduced with an announcement `Shadows Fall Over Cradle!` ([Release Notes: 2011.10.19](https://wiki.spiralknights.com/Release_Notes_2011-10-19)) which suggest that the boss entities of the corresponding regions are alive while Spiral Order possess extended knowledge on them, Clockworks, and Cradle, as if they were already encountered:
 
 - `The Gloaming Wildwoods has been infected with a poisonous miasma and the Snarbolax is said to have gone rabid!`
 - `The Royal Jelly Palace has frozen over and its king usurped by the true heir to the slimy throne, the frigid Ice Queen!`
 - `The Ironclaw Munitions Factory has begun creating in fiery weapons and improved upon its ultimate weapon in the form of the Red Roarmulus Twins!`
 - `A powerful curse has overtaken the Firestorm Citadel, transforming its hordes and lead by the mighty Darkfire Lord Vanaduke!`
+
+This is the primary contradiction within the timeline, as Shadow Lairs offer an alternative timeline, wherein those entities are alive and the location they inhabit are significantly altered.
+
+Among those locations from an initial appearance only Shadow Firestorm Citadel is inflicted by curse, yet we noted earlier presence of curse across Shadow Gloaming Wildwoods.
 
 #### Miasma
 
@@ -6359,11 +6371,13 @@ The miasma is described as the reason for the change within the Wildwoods: `The 
 We can consolidate effects of the miasma to the following properties:
 
 - Enemies affected by the miasma inflict poison.
-- Due to miasma, undeath is far more widespread and severe across the Wildwoods.
-- Snarbolax, in its shadowy form, gains poisonous properties, in its form resembling Graveyards' tombstones with green glowing veins.
+- Undeath is far more widespread and severe across the Wildwoods. The miasma may possess supernatural origin.
+- Snarbolax, in its shadowy form, gains poisonous properties, in its form resembling Graveyards' tombstones with green glowing veins, albeit of different nature.
 - The Wildwoods are covered with red mist.
 
-When Snarbolax is encountered, apart from being rabid, it is present in multiple instances. We have previously suggested, that [Snarbolax is cursed](#snarbolax-and-haunting-through-curse), with curse accumulating in its hide, granting immortality in a less detrimental manner. Snarbolax was defeated by knights, unless it is not one of its kind, as later suggested by presence of multiple it instances in the Shadow Gloaming Wildwoods and affirmed by [Snarblepup Maskeraith]().
+When Snarbolax is encountered, apart from being rabid, it is present in multiple instances. We have previously suggested, that [Snarbolax is cursed](#snarbolax-and-haunting-through-curse), with curse accumulating in its hide, granting immortality in a less detrimental manner -- one __stemming from leakage of curse through collapsed grim gate portals__ [after extinction of tortomega civilization by means of hijacked tortodrones](#the-titans-tortomega-the-fall). The curse had [accumulated in creature's fur](#cursed-fur) which remains alive after being removed from Snarbolax. Before Snarbolax was cursed it had resembled its stunned or natural variant.
+
+Snarbolax was defeated by knights, unless it is not one of its kind, as later suggested by presence of multiple it instances in the Shadow Gloaming Wildwoods and affirmed by [Snarblepup Maskeraith]().
 
 There is also a case of [Vile Engine](https://wiki.spiralknights.com/The_Vile_Engine) mission and its [slime generators](), which were the reason for Rotting Metropolis' existence: `It would seem as though those slime generators have been around much longer than we thought, seeping their vile toxins into any levels that should be near them. A modern city, much like those that the devilites inhabit seems to be overrun with these toxins, and was probably left behind by both the devilites and gremlins as a result. Now a legion of slime and undead creatures haunt the place, festering in the poisons that linger in the air. A squad that was attempting to pass through the city has gone missing. Given that the very air is toxic ...` ([The Rotting Metropolis](https://wiki.spiralknights.com/The_Rotting_Metropolis)). And in order for miasma to appear, slime generators could be a plausible precedent for existence of poisoned Gloaming Wildwoods and Rabid Snarbolax. Considering that all of Clockwork location can be moved, the prime example being molten cavern of Firestorm Citadel - `The Core was in sight. But now some kind of massive negative energy anomaly has surfaced above the Core, blocking access to it. ... We need you to explore the surrounding levels and collect any intel you can. You can start with an Owlite castle of some sort that recently surfaced near this anomaly` ([Ending in Fire - Kora](https://wiki.spiralknights.com/Ending_in_Fire)), it is plausible for the Wildwoods at some point being affected by the [slime generators](https://wiki.spiralknights.com/The_Vile_Engine/Processing_Plant) at depth 22.
 
@@ -6403,7 +6417,7 @@ And then, there is Curse Vial: `A glass vial containing concentrated fiend essen
 
 This frames curse as an essence - a __distinct mass of undefined properties, much reminiscent of essence-type materials_ in the inventory. Curse is also characterized here to be of fiendish origin, which makes its source to be Underworld, reaffirming its alien nature to material realm.
 
-#### True Citadel of Almirian Empire
+#### Twisted Citadel of Cursed Almirian Empire
 
 Shadow Firestorm Citadel is in much regard by margin far more dangerous than its regular counterpart and any other location across Clockworks. The presence of Nature Sprites and Darkfire Lord Vanaduke, the lack of the console create unique conditions in order for it to exist within the canon.
 
@@ -6539,7 +6553,7 @@ There are notable elements within the Shadow Firestorm Citadel, which frame it i
 
 - Far more areas are blocked off by wooden and brickwork debris, areas, designated to specific depths or route variations in it, are collapsed in a haphazard manner, with extending passages being broken off.
 
-##### Darkfire Lord Vanaduke and <span class="through-curse">Damnation through curse</span>
+##### Darkfire Lord Vanaduke and Damnation through curse
 
 Darkfire Lord Vanaduke's design _differs greatly_ from Lord Vanaduke of Firestorm Citadel. More so, we have to keep in mind 2 interpretations of `His soul bound to some horrific armored prison` ([Alone in the Dark - Lost Soul of Almire](https://wiki.spiralknights.com/Lost_Soul_of_Almire_(nameless)#Dialogue)): of `some horrific armored prison` being aither the citadel, or the armor Lord Vanaduke has equipped.
 
