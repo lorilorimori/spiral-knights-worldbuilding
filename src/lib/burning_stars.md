@@ -5511,9 +5511,11 @@ Through those similarities -- the celestial nature of the realm, -- we propose t
 
 Under this interpetation, the [Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore) explains this cosmology in less fantastic terms, but ones meant to be perceived as a myth, `An extremely rare metal of great power said to be from the heavens above. It is often completely wasted on crowns and jewelry for slime royalty`, that there exits a concealed realm of heaven which we suggest to be closely similar to the [earlier proposed idea of a vertical flow of energy](#metaphysical-stack), here being the realm above the material realm to be the sourse of energy and souls as its medium, and now as [celestial radiance](#forgotten-time-part-2-radiance-of-griffon).
 
-As Scralet Fortress and Owlite academy are present in the material realm, it is unknown whether heavenly kingdom is separate from the paradise. Yet, it is this ambiguious reletaion is reminiscent of [other instances of divine realm](#celestial-kingdom) which allows us to propose that __heavenly kingdom occupies both material realm and relam above__, while the __paradise would become the topmost, most divine location above material realm__.
+As Scralet Fortress and Owlite academy are present in the material realm, it is unknown whether heavenly kingdom is separate from the paradise.
 
-This relation poses a question to Whitespace's precise nature because of its essential relation to the setting as the source of energy for Clockworks. We will not conclude its nature without proper analysis, but acknolwedge an ongoing set of motifs associated with myths as currently established system revolving around energy and souls.
+Yet, it is this specific kind and context of ambiguity reminiscent of [other instances of divine realms](#celestial-kingdom) which allow us to propose that __heavenly kingdom occupies both material realm and realm above__, while the __paradise would become the topmost, most divine location above material realm__. Heavenly kingdom as much as its mythological predecessors, is extrapolated to possess an internal, divine hierarchy, mirroring the depths of Underworld, Blinding Abyss, and Apocrean realm.
+
+This relation poses a question to Whitespace's precise nature because of its essential relation to the setting as the source of energy for Clockworks. We will not conclude its nature without proper analysis, but acknolwedge an ongoing set of motifs revolving around energy and souls with root in mythology and alchemy.
 
 With this we can now reiterate on the history of Fallen Valkyrian and their involvement into present timeline.
 
@@ -5521,22 +5523,14 @@ With this we can now reiterate on the history of Fallen Valkyrian and their invo
 
 #### War in Heaven
 
-The Fallen Valkyrian was banished into the Underworld through the material realm from heavenly kingdom in a higher realm.
+The Fallen Valkyrian was banished into the Underworld through the material realm from the paradise of heavenly kingdom. The reason behind this action is unknown, yet the valkyrian ends up in the Underworld given armor's properties and affinities:
 
-Then Valkyries had head an incursion into Underworld, and then sealed both the Fallen and the Legion of Ur (`Strangely, the memo indicated that the Legion of Ur was sealed away in the Underworld and that an alternative approach would be required for bringing them back` - [The Return of Ur](https://wiki.spiralknights.com/The_Return_of_Ur)).
+- `A cursed suit of armor once worn by a celestial being cast down from paradise` ([Armor of the Fallen](https://wiki.spiralknights.com/Armor_of_the_fallen)).
+- `A cursed crown once worn by a celestial being cast down from paradise` ([Crown of the Fallen](https://wiki.spiralknights.com/Crown_of_the_Fallen)).
 
-[Crest of Ur](https://wiki.spiralknights.com/Crests_of_Ur) contains an addition to this hypothesized timeline of events: `A crest from the lost Legion of Ur, an elite band of fiendish warrior said to have once conquered the Underworld. Whomever holds it can faintly hear the sound of drums and the clomping of hooves`, in which we linked sound of drums to the sound of drum during Lord Vanaduke's transformation, `With this he began screaming the names of the rival kings and all the wrongs they committed against his kingdom. He cried out to the god of the mountain to punish them, to give him the strength to take his kingdom back. In his frenzy he looked to the face of the deity and in it he began to see the face deform. The image burned into his eyes and brain like cinders, and contained that which sounded like the screaming of foreign tongues and war drums` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)), as __war drums being characteristic of Underworld's presence and influence onto living beings__.
+At some point Legion of Ur is created from Isoran Spiral Wardens which involved betrayal of Guardian's Oath and introduction of transformative influence of Underworld at a large scale.
 
-This Crest has 2 notable properties: the supernatural presence of trojans and the fact Legion of Ur had conquered the Underworld. The supernatural presence of trojans is similar to Snarbolax's equipment curse properties:
-
-- `Those who wield it claim to feel the fiery stare of the beast upon them whenever they close their eyes` ([Barbarous Thorn Blade](https://wiki.spiralknights.com/Barbarous_Thorn_Blade)).
-- `Its said the beast can use the glowing orbs on the shield's face to see and stalk weak-hearted wielders`([Barbarous Thorn Shield](https://wiki.spiralknights.com/Barbarous_Thorn_Shield))
-
-And, as discussed in [Snarbolax and empowerment through curse section](#snarbolax-and-haunting-through-curse), all those instances of haunting in varying severity are explained by the unnatural, from the position of material realm, properties of souls.
-
-<!--There is [Crown of the Fallen](https://wiki.spiralknights.com/Crown_of_the_Fallen), as it has a shadowy halo, similar to one in [Valkyrie Helm](https://wiki.spiralknights.com/Valkyrie_Helm). And, as Valkyrian armors have [Trojan Horseshoe](https://wiki.spiralknights.com/Trojan_Horseshoe) as a fiendish material in their recipe, this, we suppose, points to high importance of this event of banishment and connection to the Legion of Ur of all parties from that period of time.-->
-
-One last element for this idea is the ownership of [Champion Helms](https://wiki.spiralknights.com/Champion_Helm) of rage, frenzy, and storms. As we discussed, tortomega are unlikely candidates, but at that time no other civilization could claim ownership of the gear, apart from valkyries themselves.
+One last element for this sequence may be found in the ownership of [Champion Helms](https://wiki.spiralknights.com/Champion_Helm) of rage, frenzy, and storms. As we discussed, tortomega are unlikely candidates, but at that time no other civilization could claim ownership of the gear, apart from valkyries themselves.
 
 And at that time they did not have any known internal conflicts. But now, as there is an event which caused a valkyrian to be banished, we can suggest that this valkyrian had its own followers, armed with such equipment. And, coincidentally, the wording of `The helm of one who defied the gods and razed the gates of a heavenly kingdom` ([Frenzy Champion Helm](https://wiki.spiralknights.com/Frenzy_Champion_Helm#Frenzy_Champion_Helm)) reminds now of the Fallen Valkyrian, __as one opposing heavens__.
 
@@ -5548,23 +5542,36 @@ Then war broke out in heaven. Michael and his angels fought against the dragon, 
 
 </BookCitation>
 
-It would also coincide with banishment of dragons, albeit in a different framing.
+It would also coincide with [banishment of dragons by rider gods](#lesser-creaton-myth), albeit in a different framing.
 
-Those events seem us to cincide with the potential of [Champions](https://wiki.spiralknights.com/Frenzy_Champion_Helm#Frenzy_Champion_Helm) being within this seige of heavenly kingdom on Fallen's side:
+Those events seem us to coincide with the potential of [Champions](https://wiki.spiralknights.com/Frenzy_Champion_Helm#Frenzy_Champion_Helm) being within this seige of heavenly kingdom on Fallen's side:
 
 - `The helm of one who defied the gods and stormed the gates of a heavenly kingdom. Some say the thunderclaps are the eternal echoes of her siege` ([Storm Champion Helm](https://wiki.spiralknights.com/Storm_Champion_Helm#Storm_Champion_Helm)).
 - `The helm of one who defied the gods and razed the gates of a heavenly kingdom` ([Raging Champion Helm](https://wiki.spiralknights.com/Raging_Champion_Helm#Raging_Champion_Helm)).
 - `The helm of one who defied the gods and stormed the gates of a heavenly kingdom. Some say that whistling wings are the eternal warcries of her siege` ([Frenzy Champion Helm](https://wiki.spiralknights.com/Frenzy_Champion_Helm#Frenzy_Champion_Helm)).
 
-Within the Luciferian narrative, Fallen Valkyrian would be banished to the Underworld. There, an influence from the Underworld would be targeted at those similar to valkyries in their divinity, but in means of attaining power comparable to one of heavenly kingdom, found through Isoan Spiral Wardens as guardians of the Order.
+Within this _Luciferian narrative_, Fallen Valkyrian would be banished to the Underworld.
 
-This interpretaion possesses a conflict with the source material as Fallen Valkyrian would possess a powerful position in Underworld, yet the act of Legion of Ur conquering the Underworld contradicts it, unless other actors would be presented which would reestablish the power scale within Underworld.
+There, an influence from the Underworld would be targeted at those similar to valkyries in their divinity within material realm, at some point those would ancient Isorans, and most importantly, Spiral Wardens.
+
+This interpretaion possesses a conflict with the source material as Fallen Valkyrian would possess a powerful position in Underworld, yet the act of Legion of Ur conquering the Underworld contradicts it, unless other actors would be presented which would reestablish the power scaling within Underworld.
 
 In this case we may rely on preestablished eldritch nature of Underworld as a place of other `dark gods` (`One of many statuettes carried by fiends as a means of gaining favor with their dark gods. The most valuable ones are 'MIBE' (mint in box of evil)` - [Wicked Idol](https://wiki.spiralknights.com/Wicked_Idol)), as then the banished valkyrian would qualify as a powerful, celestial entity, but one no near as powerful as an Underworld deity, such as Vog, might possess.
 
-<!--Compared to the [creation myth](#creation-myth-dragons-as-cosmic-progenitors), here specifically, the terms of razing and storming are used in the context of destruction which when paired with the designs themselves can be interpreted in strict set of scenarios.-->
+Legion of Ur becomes the tool under Underworld's posession and is guided not by Valkyrian, but by deities of Underworld as observed in the events of `Almire's Fall`.
 
-<!--Could those helms be in a set with [Plate Mails](https://wiki.spiralknights.com/Plate_Mail_(special))? There exists a possibility of this being true if we take in consideration common designs of plated armors. But, as no description for those armors specifies at the same level of detail instances of an invasion, we would consider wearers of plated helms to be part of a larger group, likely an ancient Valkyrian army, given their more ancient elemental themes and designs.-->
+Then Valkyries had lead an incursion into Underworld and sealed the Legion of Ur (`Strangely, the memo indicated that the Legion of Ur was sealed away in the Underworld and that an alternative approach would be required for bringing them back` - [The Return of Ur](https://wiki.spiralknights.com/The_Return_of_Ur)).
+
+[Crest of Ur](https://wiki.spiralknights.com/Crests_of_Ur) contains an addition to this hypothesized timeline of events: `A crest from the lost Legion of Ur, an elite band of fiendish warrior said to have once conquered the Underworld. Whomever holds it can faintly hear the sound of drums and the clomping of hooves`, in which we linked sound of drums to the sound of drum during Lord Vanaduke's transformation, `With this he began screaming the names of the rival kings and all the wrongs they committed against his kingdom. He cried out to the god of the mountain to punish them, to give him the strength to take his kingdom back. In his frenzy he looked to the face of the deity and in it he began to see the face deform. The image burned into his eyes and brain like cinders, and contained that which sounded like the screaming of foreign tongues and war drums` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)), as __war drums being characteristic of Underworld's presence and influence onto living beings__.
+
+This Crest has 2 notable properties: the supernatural presence of trojans and the fact Legion of Ur had conquered the Underworld. The supernatural presence of trojans is similar to Snarbolax's equipment curse properties:
+
+- `Those who wield it claim to feel the fiery stare of the beast upon them whenever they close their eyes` ([Barbarous Thorn Blade](https://wiki.spiralknights.com/Barbarous_Thorn_Blade)).
+- `Its said the beast can use the glowing orbs on the shield's face to see and stalk weak-hearted wielders`([Barbarous Thorn Shield](https://wiki.spiralknights.com/Barbarous_Thorn_Shield))
+
+And, as discussed in [Snarbolax and empowerment through curse section](#snarbolax-and-haunting-through-curse), all those instances of haunting in varying severity are explained by the unnatural, from the position of material realm, properties of souls.
+
+<!--There is [Crown of the Fallen](https://wiki.spiralknights.com/Crown_of_the_Fallen), as it has a shadowy halo, similar to one in [Valkyrie Helm](https://wiki.spiralknights.com/Valkyrie_Helm). And, as Valkyrian armors have [Trojan Horseshoe](https://wiki.spiralknights.com/Trojan_Horseshoe) as a fiendish material in their recipe, this, we suppose, points to high importance of this event of banishment and connection to the Legion of Ur of all parties from that period of time.-->
 
 <center class="chapter-break">
   <span class="energy">🜿</span>
