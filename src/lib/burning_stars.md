@@ -115,10 +115,11 @@ The first 9 chapters cover the timeline with the 10th chapter being the general 
 - [Chapter 5](chapter-v-spiral-order) introduces Spiral Order and Isorans into the story, while covering their civilization's backstory prior to arrival on Cradle
 - [Chapter 6](#chapter-vi-undercorp) discussed effects of Underworld's influence on Cradle, instances of their presence
 - [Chapter 7](#chapter-vii-kingdom-of-almire) introduces a time period when kingdom of Almire had existed
-- [Intermission 1](#intermission-gunslinger-priests) discusses existence of gunslinger priests within the timeline
+- [Chapter 7.5](#chapter-vii-s-gunslinger-priests) discusses existence of gunslinger priests within the timeline
 - [Chapter 8](#chapter-viii-kat-tribe) covers Owlites and Kat Tribe, their relations and history
-- [Intermission 2](#intermission-metaphysics-of-curse) is the final analysis of the curse, its effects, metaphysical laws, symbolism and motifs
-- [Chapter 9](#chapter-ix-part-i-gremlin-empire) analysis existence of Clockworks and gremlins
+- [Chapter 8.5](#chapter-viii-s-metaphysics-of-curse) is the final analysis of the curse, its effects, metaphysical laws, symbolism and motifs
+- [Chapter 9](#chapter-ix-gremlin-empire) analysis existence of Clockworks and gremlins
+- [Chapter 9.5](#chapter-ix-s-swarm) discusses nature of the Swarm and Sleeper
 - [Chapter 10](#chapter-x-spiral-knights) is the proposed timeline based on the previous chapters
 - [Chapter 11](#final-chapter-spiral-of-burning-stars) discussed the the general themes and narratives
 
@@ -5038,7 +5039,7 @@ While this serves as a closure for Almire, Legion of Ur remains unsolved despite
 
 ---
 
-### _Intermission &#160;<br>_ Gunslinger Priests
+### _Chapter `VII S` &#160;<br>_ Gunslinger Priests
 
 After assisting Lord Vanaduke, a fiendish army of trojans -- the Legion of Ur -- returned into the Underworld, `With nothing left to destroy, his legions left him and returned to the mountains, leaving the king to sit in his throne of ash and cinder, all the people of Almire dead around him` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)).
 
@@ -6334,7 +6335,7 @@ But, as far there is a consistent narrative of curse and Undercorp's involvement
 
 ---
 
-### _Intermission &#160;<br>_ Metaphysics Of Curse
+### _Chapter `VIII S` &#160;<br>_ Metaphysics Of Curse
 
 Before we move on to the analysis of Clockworks and gremlins, specifically nature of the complex network of connections between the Core, Whitespace, and the Swarm, with an addition of Sleeper, Architect, and the Void, we are required to cover everything we now know of the phenomenon of curse up until this point with the fullest context of corresponding periods of time.
 
@@ -8817,7 +8818,7 @@ This general ambiguity will follow our latter analysis of the Swarm.
 
 <div class="decorate-title-wrapper">
 
-### _Chapter `IX` &#160;<br>_ Swarm
+### _Chapter `IX S` &#160;<br>_ Swarm
 
   <div class="decorate-contents">
     <img class="decorate-contents-img" src={imgUnknown} />
