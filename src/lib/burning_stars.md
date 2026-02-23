@@ -4487,9 +4487,7 @@ Through those narratives presence of Blackened Shrine may be seen as natural ext
 
 Aforementioned relation to fire deity and ashen remains of legions of Almire may bring up a potential inspiration behind Vog -- a concept of volcanic deity, specifically, roman god Vulcan. Vulcan is also associated with metalwork, which can be found in volcanic plate armor and a faction forging this armor with the knowledge of spiritual, supernatural nature of elements, fire in particular.
 
-<!--Apart from Vulcan, coupled with motif of nature for Almire and shrine in the mountains, a potential inspiration may be seen in Fujisan Sengen Shrine located in the foothills of Mount Fuji, Japan.-->
-
-<!--Not only it is located in the volcanic mountain, enshrining Kamuatatsu-hime - goddess of water keeping volcano from erupting, and is associated with water springs. Both volcan and water themes are present in Almire, as well as fit into a potential geography of Almire, being located in the foothills with water springs from the mountain, given how Lord Vanaduke had resorted to this myth in the mountains.-->
+Apart from Vulcan, coupled with motif of nature for Almire and shrine in the mountains, a potential inspiration may be seen in Fujisan Sengen Shrine located in the foothills of Mount Fuji in Japan. Not only it is located in the volcanic mountain, enshrining Kamuatatsu-hime -- goddess of water keeping volcano from erupting, and is associated with water springs. Both volcan and water themes are present in Almire, as well as fit into a potential geography of Almire, being located in the foothills with water springs from the mountain, given how Lord Vanaduke had resorted to this myth in the mountains.
 
 As the narrative of Almire's Fall suggests that the legend of a shrine was sparse to the point of _being considered a superstition_, we can attribute its creation to a civilization existing before Almire: `...he fled from the citadel and vanished into the mountains, vowing that he would one day reclaim his throne. Leaving behind his family, his people and his homeland, Vanaduke journeyed into the mountains to the east, driven by superstitious tales of ancient gods within their dark depths. He tirelessly searched the mountains for many years, no longer the man he was before, but a mad hermit. Then one day he discovered a small cave...` (Almire's Fall), which had to be aware of the supernatural nature of the deiry and greater cosmology.
 
@@ -5014,7 +5012,7 @@ The [Scary Skelly Shield](https://wiki.spiralknights.com/Scary_Skelly_Shield), a
 
 This tells one thing to us: Soul Dust is not the source of haunting, but blighted bone is the material which ultimately results in __spirit binding to an object__, potentially with the assistance of the Soul Dust and Grave Soil. We can suggest that it is soul's corporeal body, its remains, the bones, or an object which allow for it to exist in such state, coincides with the [concept of skulls housing souls](#lost-souls-with-skulls).
 
-Finery is the one utilizing [Blighted Bone](https://wiki.spiralknights.com/Blighted_Bone) in its alchemy. This may not explicitly mean, that the departed Vanaduke's souls is bound to the armoe, but its traces remain, as specified by the [Soul Dust](https://wiki.spiralknights.com/Soul_Dust): `The dust of the departed. Whether it still retains any shred of a soul remains to be seen`.
+Finery is the one utilizing [Blighted Bone](https://wiki.spiralknights.com/Blighted_Bone) in its alchemy. This may not explicitly mean, that the departed Vanaduke's souls is bound to the armor, but its traces remain, as specified by the [Soul Dust](https://wiki.spiralknights.com/Soul_Dust): `The dust of the departed. Whether it still retains any shred of a soul remains to be seen`.
 
 This concept can be applied to the distinction between Lord Vanaduke's Mask and Finery, with the finery being __still harbours traces of Lord Vanaduke's soul manifested through burning eyes of the mask__.
 
@@ -6144,11 +6142,15 @@ _Given presence of evil eye symbolism on the Chaos Cloak,_ as well as its resist
 
 ##### Owlite's Inversion of Curse
 
-It is here a concept of inverted curse should be brought up. Golden evil eye and yellow dread seal are present on the [Divine Avenger](https://wiki.spiralknights.com/Divine_Avenger).
+It is here a concept of inverted curse should be brought up. Yellow evil eye and dread seal are present on the [Divine Avenger](https://wiki.spiralknights.com/Divine_Avenger).
 
-Compared to the Dread Seal of purple color, golden variation of the seal with higher probability belongs to heavenly kingdom due to thematic and design change and association through color. If we consider the idea of Faust and Dread Seal to belong to Underworld, they would be placed in opposition to yellow or gold seal while the latter beomes an inversion of the prior state, being placed onto a weaponized against Underworld sword, derived of Gran Faust. _This thematic approach would constitute, that the seal would be inverted, too, from Underworld's Dread Seal to a supposed_ __golden seal of heavenly kingdom__.
+Compared to the Dread Seal of purple color, golden variation of the seal with higher probability belongs to heavenly kingdom due to design change and association through color with divinity.
 
-##### Miracles and Divinity
+If Faust and Dread Seal are created by Underworld, th yellow variation would be placed in opposition to them.
+
+The creators of the Avenger line of swords would be required to possess extensive knowledge of curses which we assume at that point to be owlites through observed instances of the symbol of evil eye being used in conjunction with more direct cases of interraction with curse, such as armors -- [Divine Mantle](https://wiki.spiralknights.com/Divine_Mantle) and [Chaos Cloak](https://wiki.spiralknights.com/Chaos_Cloak).
+
+#### Miracles and Divinity
 
 Sun Silver, as refined Celestial Ore, and Silverweave [possess divinity](#forgotten-time-part-1-divine-light).
 
@@ -6158,9 +6160,11 @@ Sun Silver and [Miracloth](https://wiki.spiralknights.com/Miracloth) are used in
 - `A miraculous mask said to grant a single miracle to the wearer when they need it most. In practice, it'll likely save your skin more often than that` ([Miracle Hood](https://wiki.spiralknights.com/Miracle_Hood)).
 - `A miraculous mantle said to grant a single miracle to the wearer when they need it most` ([Miracle Cloak](https://wiki.spiralknights.com/Miracle_Cloak)).
 
-This alchemy tree branch has an elemental motif which through themes of divinity and occult of Chaos Cloak connects _magic, miracles, divinity, and chaos_. Within this framework Chaos Cloak while represents chaotic aspect, it exists separate from the rest due to its mostly unknwon nature and relation to __Nameless Realm, it contrasts outlined motifs of the celestial beings and celestial metals__.
+Trnasmutaion of Chaos Cloak from gear associated with miracles positions it in proximity of that phenomenon. Through miracles motif of divinity and occult of Chaos Cloak connect _magic, miracles, divinity, and chaos_.
 
-The themes Nameless Realm may possess in contrast to its context and other realms will be explored as we will reiterate on the alchemical motifs found across the story and cosmology, as it provides the strongest so far, _as it inherently stems from myths_, foundation in order to understand the rest of the components this setting integrates.
+As miracles are usually associated with boons, it is their divine nature which unites them with the rest of key motifs.
+
+<!--The themes Nameless Realm may possess in contrast to other realms will be explored as we will reiterate on the alchemical motifs found across the story and cosmology, as it provides the strongest so far, _as it inherently stems from myths_, foundation in order to understand the rest of the components this setting integrates.-->
 
 <!--Those characteristics, we suggest, __relate to the nature of Nameless Realm, as one containing within itself all element with no exception, conflict, or contradiction__, where miracles point at the supernatural properties interpreted as divine rather than strictly occult, as seen by other instances of chaotic motif.-->
 
@@ -6184,32 +6188,33 @@ In relation, now directly, to Owlites, if the vials are the result of Spiral Ord
 
 We do know, that Chaos Clock incorporates properties of curse with other elements, suggesting its native nature to Nameless Realm. In the context of this utilitarian framing, the curse becomes a natural element of reality, albeit unconventional one, and _given double-edged nature of Owlite texts_, we lean to the idea of Owlites being aware of the dangers this magic inherently provides, relating back to warding candles across the Academy.
 
+It is also in this context prior noted miracles may be seen as potentially dangeroues which allows them to be _grouped and developed into chaos_ through alchemy path of [Chaos Cloak](https://wiki.spiralknights.com/Chaos_Cloak) in the same respect as miracles are associated with divinity bth symbolically and through alchemy path of [Divine Mantle](https://wiki.spiralknights.com/Divine_Mantle).
+
 #### Arcane Salamanders
 
-Taking in consideration salamander species, as one we have suggested to be the species of which Howlitzers were raised, we have to look at Arcane Salamander Suit and Arcane Halo:
+Taking in consideration salamander species, as one we have suggested to be relatives to be Howlitzers and descendants of drakes, we have to look at Arcane Salamander Suit and Arcane Halo as instances of a certain power labelled as `arcane`:
 
 - `A Salamander Suit imbued with magical power. It is thought to be made from the familiars of powerful witches` ([Arcane Salamander Suit](https://wiki.spiralknights.com/Arcane_Salamander_Suit)).
 - [Arcane Halo](https://wiki.spiralknights.com/Arcane_Halo#Arcane_Halo) has a similar color and name, suggesting it to be related to the suit.
+- `The Wizard Prize box celebrates these guilds' mysterious arcane power` ([Wizarding Ways](https://forums.spiralknights.com/en/node/124845)).
 
-As earlier we established the term `chaos` as inclisive of curse with other status effects, as the [chaotic motif](#chaotic-motif), so `arcane` may become an anchor for a distinct power or presence.
+As earlier we established the term `chaos` as inclusive of curse with other status effects, as the [chaotic motif](#chaotic-motif), so `arcane` may become an anchor for a distinct power or presence similar to chaos albeit to a lesser extent.
 
-The magical power being referred as here as the reason for the suit to possess its design contributes to the meaning behind the term arcane. As familiars are most certainly salamanders found across Cradle, as suggested by armor's design, recipe, and name, we can suggest that witches were both familiar with the species and were skilled enough to be aware of magic.
+The magical power being referred as here as the reason for the suit to possess its design contributes to the meaning behind the term arcane. As familiars are most salamanders found across Cradle, as suggested by armor's design, recipe, and name, we can suggest that witches were both familiar with the species and were skilled enough to be aware of magic.
 
-As Arcane Halo is retrieved from the [Nemesis Prze Box](https://wiki.spiralknights.com/Nemesis_Prize_Box) which _already has angelic motifs_, we propose, that witches belong to the people of heavenly kingdom.
+The primary elements which remake salamander suit into one infused with arcane energy, are [blighted bone](https://wiki.spiralknights.com/Blighted_Bone) and [maiden's tear](https://wiki.spiralknights.com/Maiden%27s_Tear). Blighted bone was discussed extensively in the [analysis of the haunting Lord Vanaduke's Finery preserves](), while maiden's tear, `A sacred jewel cherished by Almirian knights. Given to them by their beloved, it is said to keep them safe in battle`, hold more complex interpretations which we will discuss later.
 
-Furthermore, the term of arcane, we propose is meant to be associated with wizardry of specifcally Owlite origin: `The Wizard Prize box celebrates these guilds' mysterious arcane power` ([Wizarding Ways](https://forums.spiralknights.com/en/node/124845)), which seems fitting given strict design elements and themes of those items.
+As Arcane Halo is retrieved from the [Nemesis Prze Box](https://wiki.spiralknights.com/Nemesis_Prize_Box) which _already cntains angelic motifs_, so we propose that witches belong to the people of heavenly kingdom -- they are owlites.
 
-As for transmutation of Arcane Salamander equipment [Maiden's Tear](https://wiki.spiralknights.com/Maiden%27s_Tear): `A sacred jewel cherished by Almirian knights. Given to them by their beloved, it is said to keep them safe in battle` is required, we can suggest, that it is a unique property of the jewel which allows for the creation of that equipment.
-
-While we do not suggest that Owlites did take those jewels from fallen Almire, we will keep this potential concept in mind predominantly due to vague origin of embers for candles of Candlestick Keep.
+While we do not suggest that Owlites did take those jewels from Almire, we will keep this potential concept in mind predominantly due to owlites' research on Almire's history.
 
 #### Embers of Warding Candles
 
-Our prime reasoning for that consists of the idea of Blue Candles being separate from yellow candle due to longevity of the blue flame, while the embers are also seemingly timeless.
+Blue warding candles are distincly separate from yellow warding candle due to longevity of the blue flame compared to its yellow instances, yet both are lit with embers found acroos the keep. The embers are also seemingly timeless as they remain burning across the fallen academy to modern day.
 
-The longevity of embers long past existence of Owlites had led us to suggest that embers possess an unnatural nature, maybe even, _embers being of shadow fire of Almire_ -- at the Grasping Plateau of Shroud of Apocrea, a __burning sarcophagus__ can be found, reminiscent of [opened burning grave of Torin]() found across the graveyards of Clockworks. _As embers are located near the grave_, this had led us to an idea of Owlites deeply reseraching Almire to the point of repurposing shadow flames due to their unnatural longevity for their own use for candles.
+The longevity of embers past existence of Owlites had lead us to suggest that embers possess a supernatural nature. at the Grasping Plateau of Shroud of Apocrea, a __burning sarcophagus__ can be found, reminiscent of [opened burning grave of Torin]() found across the graveyards of Clockworks. Could those _embers be of shadow fire of Almire_? As embers are located near the grave, this idea expands Owlite reserach of Almire to the point of them repurposing shadow flames due to their longevity for their own use for candles -- a case reminiscent of [Dread Seal being repurposed to be a holy element of the Avanger sword](#owlites-inversion-of-curse).
 
-This suggestion contradicts the present mechanics of candles, as both blue and yellow flamed candles are lit with those embers, so it is the nature of those candles which seemingly grats them longevity. In regards to longevity, the symbolic value of blue flames may be derived of the `arcane` being associated with colors blue and purple, established in realtion to witches and aracne gear, and, notably, the [Arcane Halo](https://wiki.spiralknights.com/Arcane_Halo#Arcane_Halo) of that same color.
+While this suggestion explains the embers themselves, it contradicts the present mechanics of candles, as both blue and yellow flamed candles are lit with those embers, so it is the nature of those candles which seemingly grants them longevity. In this regard nature of blue flames is unknown, with the only lead being the association with color blue of specifically [arcane magic](#arcane-salamanders).
 
 #### Moorcroft and Retchwell Manors
 
@@ -6217,50 +6222,68 @@ Remaining spookats, the undead Kat Tribe, has established the Moorcroft Manor wi
 
 _This makes it seem, as if the Manor is one of the remaining distinctly conscious faction of Kat species after the Kataclysm._ Even more so, the existence of the [Restless Railroad](https://wiki.spiralknights.com/Angels_from_Antiquity/Restless_Railroad) suggests, that there are potentially other locations which had withstood in undeath the events of Kataclysm, unrelated to the Undercorp specifically.
 
-Apart from Moorcroft Manor there exist other manors, populated by more hostile spookats, such is the [Retchwell Manor](https://wiki.spiralknights.com/Scared_to_Death#Gate_Map) and its [Iron Courtyards](https://wiki.spiralknights.com/Scared_to_Death#Gate_Map). Given the design choice of the mission to contain rotating elemental variants of the manor, we can suspect the manor itself being much larger compared to the Moorcroft Manor even with the Restless Railroad included.
+Apart from Moorcroft Manor there exist other manors, populated by more hostile spookats, such is the [Retchwell Manor](https://wiki.spiralknights.com/Scared_to_Death#Gate_Map) and its [Iron Courtyards](https://wiki.spiralknights.com/Scared_to_Death#Gate_Map). Given the design choice of the mission to contain rotating elemental variants of the manor, we can suspect the __Retchwell manor itself being much larger compared to the Moorcroft Manor__ even with the Restless Railroad included.
 
-As far as Kataclysm allows to look into Owlites' past, we do not have information, weather culture of manors was present in the past, it was a post-Kataclysmic culture shift among undead Kat Tribe. The Retchwell Manor is implicitly referred as an `Owlite castle[s]` in its mission: `The ruins of Owlite castles are dark and cursed places that are swarming with legions of undead spookats. The worst of these, the seemingly invincible grimalkins, constantly lurk in the shadows, awaiting the moment your life-saving light is finally snugged out. Some knights succumb to the darkness and become paralyzed with fear in these shadowy realms. The only thing that can save them are brave knights who have long lost their childhood fears of the dark and all the terrible creatures that lurk within ... Save the lost Knight from joining the ranks of the dead in the haunted manor` ([Scared to Death](https://wiki.spiralknights.com/Scared_to_Death)). But as it is stated to be haunted, could there be a time, when it was a regular castle-like manor?
+As far as Kataclysm allows to look into owlites' past, we do not have information, whether culture of manors was present back then or it was a post-Kataclysmic culture shift among undead spookats. The Retchwell Manor is implicitly referred as an owlite castles in its mission: `The ruins of Owlite castles are dark and cursed places that are swarming with legions of undead spookats. The worst of these, the seemingly invincible grimalkins, constantly lurk in the shadows, awaiting the moment your life-saving light is finally snugged out. Some knights succumb to the darkness and become paralyzed with fear in these shadowy realms. The only thing that can save them are brave knights who have long lost their childhood fears of the dark and all the terrible creatures that lurk within ... Save the lost Knight from joining the ranks of the dead in the haunted manor` ([Scared to Death](https://wiki.spiralknights.com/Scared_to_Death)). But as it is stated to be haunted, could there be a time, when it was a regular castle-like manor?
 
-#### Alchemy Orbs and Tome of Rage
+As far as our current understanding of the Kat civilization allows, the Kat Tribe seem to be _non-existent within greater society of undead across Clockworks_, most distincly evident by the inhabitants of Smile Casinos found across Clockwork tunnels.
 
-While Tome stands were covered, Tome of Rage is of particular interest to us due to a symbol of alchemy in its cover.
+#### Tome of Rage and Alchemy
 
-_Is the symbol of alchemy universal?_
+While most of tomes on the tome stands are written by owlites, Tome of Rage is of particular interest to us due to a symbol of alchemy in its cover. As the Tome of Rage comes from the same prizebox as the otherrage-themed gear, we should ask whether __symbol of alchemy depicted on tome's front cover universal__?
 
-As alchemy is used by Spiral Order for many years, and as energy seems to be universal, the symbol of alchemy is present across many locations, mainly in the form of alchemy station, _including one in the Sanctuary_ -- the most remote location of all known to date, apart from the Apocrean Realm bleeding onto material realm.
+Symbol of alchemy, as it is sen actoss alchemy stations, _including the machine found at the Sanctuary_ -- the most remote visited location other than Apocrean realm, -- is one associated with Unique Variants of the gear, and, we propose, is meant to depict the configuration -- the physical appearance of orbs of alchemy, the essential element to the process of transmutaion.
 
-Considering nature of the alchemy orbs as catalysts for the transmutation -- the philosopher's stone -- the results of the Great Work, allowing for any matter to be transmuted into different matter. So far, __Alchemy Orbs seem to be universal, emerging mechanism from utilizing alchemy, same as the symbol of a spiral or energy__.
+Boththe instance of alchemy station t the Sanctuary and existence of Tome of Rage suggest an _omnipresence of the symbol, similar to the depictions of a spiral_.
+
+As we acknowledge those notions, we will refer to them as we will discuss Clockworks and Cradle themselves.
+
+<!--Considering nature of the alchemy orbs as catalysts for the transmutation -- the philosopher's stone -- the results of the Great Work, allowing for any matter to be transmuted into different matter. So far, __Alchemy Orbs seem to be universal, emerging mechanism from utilizing alchemy, same as the symbol of a spiral or energy__.-->
 
 #### Kat Tribe Sleeper Cells
 
-Margrel is summoned by accident, but he himself is capable of summoning Black Kats as the unknown party. The Konjuring kat does not seem as the nefarious entity referred by the [Book of Dark Rituals](https://wiki.spiralknights.com/Book_of_Dark_Rituals): `Just like any cursed tome, there is likely some twisted individual out there who wants it for extremely nefarious purposes`, which adds a point to devilites, Undercorp even, being those actors, if not any of [Cradle antagonists](#cradle-antagonists) behind the Black Kat plot. Someone had to place this dread seal in the same manner as elemental Lumbers possess it.
+<!--Margrel is summoned by accident. The Konjuring kat does not seem not is depicted as the nefarious entity referred by the [Book of Dark Rituals](https://wiki.spiralknights.com/Book_of_Dark_Rituals), `Just like any cursed tome, there is likely some twisted individual out there who wants it for extremely nefarious purposes`, which adds a point to devilites, Undercorp even, being this actor among established [Cradle antagonists](#cradle-antagonists) behind Black Kat plot. Someone had to place this dread seal onto Black Kats including Margrel in the same manner as elemental Lumbers possess it.-->
 
-The Kat tribe has incorporated antique evil eye designs into its armors. While the antique design comes from either titans or graviton bomb, under current theory it had to be derived from the general simplified symbol of the evil eye tracing back to Greavers.
+Kat tribe had incorporated antique evil eye designs into their armors. While the antique design comes from either titans or graviton bomb, under current theory it had to be derived from the general simplified symbol of the evil eye tracing back to Greavers. Unless Kat Tribe armors are modifiied through the course of transmutaion, Kat Tribe was already tied with Underworld by incorporaing evil eye designs.
 
-Then, there are sleeper cell within Owlite civilization -- `An impressive mail instilled with the might of Kat Nappers, the undercover sleeper cell of the Kat Tribe` ([Black Kat Mail](https://wiki.spiralknights.com/Black_Kat_Mail)). They would imply a preplanned attack onto the Academy and greater heavenly kingdom.
+Then there are sleeper cell within Owlite civilization -- `An impressive mail instilled with the might of Kat Nappers, the undercover sleeper cell of the Kat Tribe` ([Black Kat Mail](https://wiki.spiralknights.com/Black_Kat_Mail)). They would imply a preplanned attack onto the Academy and greater heavenly kingdom.
 
-Despite the distinct lack of presence of Undercorp, brought up here as a perpetrator for the summoning of Black Kats, it seems to us to be a part of a narrative, __where Cradle or material realm in general is sieged throughout the epochs by Underworld__.
+The idea of a sleeper cell implies presence within the heavenly kingdom if not the academy specifically, meaning that __presence of Kats is not alien to heavenly kingdom__.
+
+Despite the distinct lack of presence of Undercorp or Underworld, brought up here as a perpetrator for the summoning of Black Kats, this narrative seems us to be a part of a overarching plot, __where Cradle is sieged throughout the epochs by Underworld__. Yet in this case, as Black Kats remain in the Underworld and are associated with it, they may be seen as the latest iteration of Underworld using other civilizations as means of accessing material realm while concealing themselves.
 
 <!--This proposal, compared to supposedly postmodern interpretation of many unconnected one-off stories being discovered over Cradle, connected from the start under a theme of Underworld's unceasing involvement.-->
 
-#### Seraphynx and Divine Kats
+#### Celestial Physiology: Seraphynx and Divine Kats
 
-As Drakon became reincarnation of dragons, so Seraphynxs became reincarnations of Black Kats of Kat Tribe before their banishment. This process has resulted in resemblance of Kat Tribe with heavenly powers of valkyries. And yet, identities of Kat Tribe resurface as these sprites are yet again drawn to Owlite tomes: `I think these sprites are studying these old books. I didn't even know they could read!` ([Angels from Antiquity/Restless Railroad - Rhendon](https://wiki.spiralknights.com/Angels_from_Antiquity/Restless_Railroad)), specifically in a location looking particularly the same as the one in the Moorcroft Manor inhabited by the [Konjuring Kat](https://wiki.spiralknights.com/Konjuring_Kat).
+As other sprite rescue mission had their titles meant to hint at sprites' nature, albeit vaguely, as Drakons became reincarnation of dragons of rage, we propose Seraphynxs became reincarnation of a Kats before the Kataclysm.
 
-- [Katastrophe Prize Box](https://wiki.spiralknights.com/Katastrophe_Returns_Prize_Box) has both banished Kat Tribe accessories and Valkyries', except for regular themed items.
-- [Seraphynx (Black Kat)](https://wiki.spiralknights.com/Seraphynx_(Black_Kat)) has all the signs of banished Kat Tribe, plus characteristics of Owlite anatomy, specifically [Prismatic Seraph'tenna](https://wiki.spiralknights.com/Prismatic_Seraph%27tenna), and equipment of valkyrie armor: [Prismatic Dazzling Gem](https://wiki.spiralknights.com/Prismatic_Dazzling_Gem), [Prismatic Heavenly Halo](https://wiki.spiralknights.com/Prismatic_Heavenly_Halo), and prismatic wings ([Wings](https://wiki.spiralknights.com/Wings)).
+[Angels from Antiquity](https://wiki.spiralknights.com/Angels_from_Antiquity) mission labels _Seraphynx as angels_, a term which carries similar implications to _seraphs, valkyries, griffins, and  celestial beings_ as __bearers of celestial physiology__.
 
-Through [Seraphynx](#seraphynx) it is more or less known how kats have looked originally, moreover having divine attributes to them, which fits with prior idea of sleeper cell of Kat tribe in, seemingly, academy and greater heavenly kingdom, embodying this period of time. As far as that time period allows, the origins of civilization of Kats remain unknown.
+Coupled with presence of sleeper cells of Kat Tribe within the academy, with now identified divinity essential to Seraphynx to the point of being an embodyment of divine light, similar to radiance of a griffin, `The Seraphynx is a battle sprite that embodies divine light. Its skills focus on supporting knights in combat with protection and restoration`, we suggest that Kats were originally celestial being in nature. Among them, similar to Fallen Valkyrian, Kat Tribe is the only group of divine kats affiliated with Underworld.
 
-This design contradicts the idea of Kat Tribe possessing curse-themed armor, unless, we pose them as outliers. This idea is based on the fact of sleeper cell existing within Owlite civilization, as kats, serving kat Tribe: `An impressive mail instilled with the might of Kat Nappers, the undercover sleeper cell of the Kat Tribe` ([Black Kat Mail](https://wiki.spiralknights.com/Black_Kat_Mail)).
+This interpretaion allow to differentiate kats of Kat Tribe and kats of hevaenly kingdom as ner-different speices in their undeath. First group inhabits halls of the fallen academy, while the other had remained relatively civil, [inhabiting and running the owlite manors](#moorcroft-and-retchwell-manors), `I think these sprites are studying these old books. I didn't even know they could read!` ([Angels from Antiquity/Restless Railroad - Rhendon](https://wiki.spiralknights.com/Angels_from_Antiquity/Restless_Railroad)).
 
-In this interpretation, Kats seem to possess divine attributes, with the Kat Tribe, led by Margrel, to be outliers. It is then the unknown reason for Margrel's plot to capture the Book of Grey Feathers. If we would attempt to draw parallels with other curse-ridden entities, - Lord Vanaduke, trojans, Fallen Valkyrian, titans even, - they all have fallen to Underworld's influence due to compromised means. In case of the Book of Grey Feather, the only 2 items which would imply its contents are the [Divine Mantle](https://wiki.spiralknights.com/Divine_Mantle) and [Chaos Cloak](https://wiki.spiralknights.com/Chaos_Cloak), as both relate to __fundamental, curse incorporated, chaotic properties of reality__.
+This distiction allows without overcomplecation to attribute divine elemnts as natite to inhabitants of hevanely kingdom, rather than valkyries or owlites, griffins, specifically.
+
+- [Katastrophe Prize Box](https://wiki.spiralknights.com/Katastrophe_Returns_Prize_Box) has both Valkyries' and banished Kat Tribe accessories.
+- [Seraphynx the Black Kat variant](https://wiki.spiralknights.com/Seraphynx_(Black_Kat)) is a Black Kat, yet it retains items not associated with Kats:
+  - [Prismatic Seraph'tenna](https://wiki.spiralknights.com/Prismatic_Seraph%27tenna)
+  - [Prismatic Dazzling Gem](https://wiki.spiralknights.com/Prismatic_Dazzling_Gem)
+  - [Prismatic Heavenly Halo](https://wiki.spiralknights.com/Prismatic_Heavenly_Halo)
+  - [Prismatic Wings](https://wiki.spiralknights.com/Wings)
+
+If we assume that appearance of kats, as much as owlites and valkyries, through their transmuted armors and costumes should remain anthropomorphic, [Seraphynx](#seraphynx) _as a sprite would resemble a miniature appearance of an anthropomorphic kat_, unless it would be a case of mythological creatures, such as dragons, being depicted within the confinement of their base of reincarnation -- battle sprites.
+
+Yet, within both interpretations, Seraphynx allow to observe how kats have looked prior to ceasation of entirety of population of heavenly kingdom.
+
+<!--In this interpretation, Kats possess divine attributes, with the Kat Tribe, led by Margrel, to be outliers. It is then the unknown reason for Margrel's plot to capture the Book of Grey Feathers. If we would attempt to draw parallels with other curse-ridden entities, - Lord Vanaduke, trojans, Fallen Valkyrian, titans even, - they all have fallen to Underworld's influence due to compromised means. In case of the Book of Grey Feather, the only 2 items which would imply its contents are the [Divine Mantle](https://wiki.spiralknights.com/Divine_Mantle) and [Chaos Cloak](https://wiki.spiralknights.com/Chaos_Cloak), as both relate to __fundamental, curse incorporated, chaotic properties of reality__.-->
 
 #### Divinity Motifs
 
 Lastly, due to connection of seemingly nature-themed magic and Nameless Realm, here we suggest a potential inspiration behind Nature Sprites.
 
-We have previously discussed their anatomy as closely related to nature, both being fur-coated nature-themed civilization and their nature-themed spiral designs of magic [seen in the Firestorm Citadel](#almire-and-spirit-mother).
+We have previously discussed their anatomy as closely related to nature, both being fur-coated nature-themed civilization and their nature-themed spiral designs of magic.
 
 ##### Motif 1: Nature
 
@@ -6268,19 +6291,17 @@ The idea of those creatures in the context of heavenly, or rather Celestial King
 
 According to the myths, originally, 9 Suns were present in the sky, rising one after another, but one day they appeared all together, scorching the earth, causing a cataclysm. An archer, Hou Yi, shot down 8 of 9 Suns, allowing only for a single Sun to rise, and as a reward, gods granted Hou Yi elixir of immortality, which he shared with his wife, Chang'e.
 
-Recounts of the myth here do differ, as Chang'e is said to potentially steal the elixir. Chang'e was not supposed to drink elixir of immortality, and due to this she was banished to the moon. In other retelling of the myth, Chang'e had to depart to the Moon, as immortals could not exist on Earth.
+Recounts of the myth here do differ, as Chang'e is said to steal the elixir. Chang'e was not supposed to drink elixir of immortality, and due to this she was banished to the moon. In other retelling of the myth, Chang'e had to depart to the Moon, as immortals could not exist on Earth.
 
 Moon Rabbits are related to Chang'e, being associated with Chang'e, as well as take part in the creation of the elixir of immortality on the Moon. Across myths their are depicted as benevolent or mischievous creatures.
 
 This legend is an example of immortality's presence across many different cultures, starting from western alchemy and eastern beliefs, around which the later concept of alchemy was also built up. Due to depiction of the spiral on the Moon's near side, general _association of the Spiral with a deific influence_, there can be a symbolic meaning for it.
 
-But, as Chang'e seemingly differs in her intentions compared to Spirit Mother, this may be only a similarity, rather than a direct inspiration. Although presence of the moon might be relevant in this context, as it can serve as a candidate for the heavenly kingdom, potentially less related to the castles of Clockworks, or even preceding them, as there is an established divinity of celestial beings. It is on the Moon, according to the myth, Hou Yi constructs a palace for his wife.
-
 Despite this seemingly unrelated approach, there is an important element to it, __of spiral being a symbol for natural order__.
 
 ##### Motif 2: Banishment
 
-Due to how celestial beings - as valkyries, - are positioned in the opposition to Underworld through the [Fallen Valkyrian](#fallen-valkyrian), and other equipment, his fall already involves crossing at least into Underworld - that being 2 realms. So, a _cross-dimensional aspect is present, according to the general cosmology, rather than being confined to material realm, there are 3 realms to include_.
+Due to how celestial beings, as valkyries, are positioned in the opposition to Underworld through the [Fallen Valkyrian](#fallen-valkyrian), and other equipment, his fall already involves crossing at least into Underworld - that being 2 realms. So, a _cross-dimensional aspect is present, according to the general cosmology, rather than being confined to material realm, there are 3 realms to include_.
 
 And, if we take other religious motifs, this heavenly kingdom, albeit through metaphors, could have been located in a different realm, rather than directly above 3 mountains above Almire, as [discussed earlier](#celestial-kingdom), which on its own can be considered at a certain interpretation, a different realm or in proximity of it - suggested by Spirit Mother's realm. It would be then still plausible for this heavenly kingdom not to intervene with the Almire's Fall, while they would be located in, supposedly, between material realm and supposed paradise of Spirit Mother's realm, _evident by the unique properties of its water_.
 
@@ -6316,7 +6337,7 @@ Under this paradigm of duality, what if material realm was not invaded, but bles
 
 But, as so far there is a consistent narrative of curse and Undercorp's involvement, what would happen, considering this position of material realm on the metaphysical stack, if lower realm, such as Underworld, would have attempted to siege heavenly kingdom and a realm it inhabits though power of curse?
 
-Apart from symbolism of curse, there is one more connection worth mentioning - one of Apocrea as a dreaming entity similar to Sleeper - asso far Sleeper is associated with a motif of divinity, the name Apocrea can be interpreted as one derived of _Apocrypha_ - a name of texts, which were expluded outside of Jewish and Protestant canons of the Old Testament.
+Apart from symbolism of curse, there is one more connection worth mentioning - one of Apocrea as a dreaming entity similar to Sleeper - also far Sleeper is associated with a motif of divinity, the name Apocrea can be interpreted as one derived of _Apocrypha_ -- a name of texts, which were expluded outside of Protestant canons of the Old Testament.
 
 This, if applied to Apocrean Relam, we suggest, marks it as outside of the space which is considered part of natural reality, beginning from the most divine realm. How this translates to the thems both realms possess, we are yet to discover, but, as far as our initial anlysis of Apocrea's motivations suggests, this distinction is driven by Apocrea's intent to `return this cosmic play to its primordial black` ([Professor Allister Danford](https://forums.spiralknights.com/en/node/91276)).
 
