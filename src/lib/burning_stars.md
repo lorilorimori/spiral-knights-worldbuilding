@@ -6279,69 +6279,54 @@ Yet, within both interpretations, Seraphynx allow to observe how kats have looke
 
 <!--In this interpretation, Kats possess divine attributes, with the Kat Tribe, led by Margrel, to be outliers. It is then the unknown reason for Margrel's plot to capture the Book of Grey Feathers. If we would attempt to draw parallels with other curse-ridden entities, - Lord Vanaduke, trojans, Fallen Valkyrian, titans even, - they all have fallen to Underworld's influence due to compromised means. In case of the Book of Grey Feather, the only 2 items which would imply its contents are the [Divine Mantle](https://wiki.spiralknights.com/Divine_Mantle) and [Chaos Cloak](https://wiki.spiralknights.com/Chaos_Cloak), as both relate to __fundamental, curse incorporated, chaotic properties of reality__.-->
 
-#### Divinity Motifs
+#### Archetypical Conflict Between Heavenly Kingdom and Underworld
 
-Lastly, due to connection of seemingly nature-themed magic and Nameless Realm, here we suggest a potential inspiration behind Nature Sprites.
+As far as current understanding of the cosmology allows, we are presented with 2 realms above materila realm, one is Nameless Realm, representative of chaotic nature of reality, and the other is explicitly divine in nature, wherein heavenly kingdom of griffins and kats is located.
 
-We have previously discussed their anatomy as closely related to nature, both being fur-coated nature-themed civilization and their nature-themed spiral designs of magic.
+With this there exists a consistent notion of Underworld seiging Cradle in its multiple time periods by working with specific groups within seelct few civilizations of material realm, providing them knowledge or technology, which is then used to suppress them.
 
-##### Motif 1: Nature
+This interest of Underworld in civilization of Cradle, while Isoran were unaware of their existence, we propose, stems from Cradle's -- before creation of Clockworks -- unique metaphysical proximity to higher realms which are the source of souls and energy due presence of heavenly kingdom atop of 3 mountains of Cradle.
 
-The idea of those creatures in the context of heavenly, or rather Celestial Kingdom, reminds us of the moon rabbits, or Jade Rabbits. They are relevant in the Chinese myth of Hou Yi and Moon Goddess Chang'e.
+As Valkyries are positioned as guardians of heavenly kingdom, as they were ones involved with selaing the Legion of Ur, as Fallen Valkyrian was banished into the Underworld, we suspect that the near-direct access from material realm to what is defined by Fallen Valkyrian armor as _paradise_ (), is what renders Cradle a cosmically unique location, a World Axis which connects both Underworld and heavenly kingdom across the material realm.
 
-According to the myths, originally, 9 Suns were present in the sky, rising one after another, but one day they appeared all together, scorching the earth, causing a cataclysm. An archer, Hou Yi, shot down 8 of 9 Suns, allowing only for a single Sun to rise, and as a reward, gods granted Hou Yi elixir of immortality, which he shared with his wife, Chang'e.
+As in the modern times there is only a single location which requires protection other than supposed paradise, while being the most alien -- the Whitespace of the Core which houses Sleeper, whose need in protection was the driving force for Clockworks to be, seemingly, constructed: `THIS WORLD WAS CREATED TO PROTECT ME. VULNERABLE IN SLUMBER, WORLDS WERE DRAWN TO SHIELD ME FROM THE DARKNESS` ([Echo Stone: Ironclaw Munitions Factory]()).
 
-Recounts of the myth here do differ, as Chang'e is said to steal the elixir. Chang'e was not supposed to drink elixir of immortality, and due to this she was banished to the moon. In other retelling of the myth, Chang'e had to depart to the Moon, as immortals could not exist on Earth.
+__Is the modern Whitespace within the Core identical to protected by valkyries paradise above heavenly kingdom after there was no living civilizations left of Cradle to protect it from the Underworld?__
 
-Moon Rabbits are related to Chang'e, being associated with Chang'e, as well as take part in the creation of the elixir of immortality on the Moon. Across myths their are depicted as benevolent or mischievous creatures.
+How Nameless Realm, the Void, and Spirit Mother's realm fit into this cosmology?
 
-This legend is an example of immortality's presence across many different cultures, starting from western alchemy and eastern beliefs, around which the later concept of alchemy was also built up. Due to depiction of the spiral on the Moon's near side, general _association of the Spiral with a deific influence_, there can be a symbolic meaning for it.
+At this stage of the analysis, when a certain cosmologyis established, we aim to decrease amount of unexplicabilities. Therefore we suggest a following set of direction to be explored:
 
-Despite this seemingly unrelated approach, there is an important element to it, __of spiral being a symbol for natural order__.
+- Nameless Realm, given its motif of chaos and duality of its nature, is yet to be explained by established cosmology but most importantly the alchemical interpretaion of reality, as, potentially, an alchemical primordial void.
+- Spirit Mother, as a benevolent deity of spirit and water, is a divine being which within classical reading of deities inhabiting higher realms would inhabit a paradise-like realm -- heavenly kingdom and the higher realm it crosses from the material realm.
+- The Void and Whitespace remain to be explored.
+- The primordial blackness of Apocrea remains tied to the soul-fueled nature of Apocrean engines. The engines themselves present an apocalyptic scenario of reality being desintegrated into this state. The primordiality of this state may hint at a common mythological state of non-existence before creation, similar to an arrangement of alchemical inerpretations of cosmogony.
 
-##### Motif 2: Banishment
+#### Alien Nature of Curse
 
-Due to how celestial beings, as valkyries, are positioned in the opposition to Underworld through the [Fallen Valkyrian](#fallen-valkyrian), and other equipment, his fall already involves crossing at least into Underworld - that being 2 realms. So, a _cross-dimensional aspect is present, according to the general cosmology, rather than being confined to material realm, there are 3 realms to include_.
+We eventually arrive to an observation, where curse or depiction of evil eye become an everpresent element across most of the narratives so far explored.
 
-And, if we take other religious motifs, this heavenly kingdom, albeit through metaphors, could have been located in a different realm, rather than directly above 3 mountains above Almire, as [discussed earlier](#celestial-kingdom), which on its own can be considered at a certain interpretation, a different realm or in proximity of it - suggested by Spirit Mother's realm. It would be then still plausible for this heavenly kingdom not to intervene with the Almire's Fall, while they would be located in, supposedly, between material realm and supposed paradise of Spirit Mother's realm, _evident by the unique properties of its water_.
+The curse is alien for material realm, yet it grants immortality by tethering soul to material realm as a method of suspending indefenetely a physical body with soul tethered to it.
 
-But, this proposal conflicts with the idea of Nameless Realm being forbidden, so there must be a reason for it. We can suggest, that modern Owlites discovered the Nameless Realm proper, from which the knowledge of sealing magic would be discovered, and, it follows curse symbolism.
+Would the state of divinity, coming from the paradise, cause the same effect of immortality, but in opposite to Underworld's influence, of one's soul being closer to a _realm of energy which conducts shape of that very energy as a soul_?
 
-Apart from our so far vague motif of cursed immortality, the idea of a secret to immortality residing on the Moon, seems here, if extrapolated onto Spiral Knights multi-dimensional alchemical and occult cosmology, seems as if the Nameless Realm, as prime matter, would be the soul-powered source of immortality, granted by entities residing there.
+As far as we were looking at the heavenly kingdom, they seem to present this exact case -- a civilization of celestial beings, guardians of paradise, as the location from which Fallen Valkyrian was cast down.
 
-##### Motif 3: Heaven
+We have seen across instances of Circles of Art and Owlite Tomes that they operate by the same principle of fiendish magic. Fiendish sigils made of minerals inscribed into patterns or assembled into configurations, through which they radiate auras or store energy and data, used as the basis both for Owlite magic and spells, Underworld's operation, connection of realms both to lower ones and to higher ones.
 
-Here, we suggest, given now both interpretations of Spirit Mother, the similarity to the [Celestial Kingdom]() and Queen Mother of the West seems more fitting, paired with the heavenly kingdom being located atop of 3 mountains, closely associated with [dragons](), [primordial powers]() and [creation myth]().
+Within this duality exists a __common set of metaphysical rules which are devoid of inherent divinity to them__, unless framed so or the analysis of Whitespace provides solid groud to suggest so.
 
-How reality of Cradle was falling into Apocrean Realm within the [Shroud of Apocrea](https://wiki.spiralknights.com/Shroud_of_the_Apocrea_(Mission)) or _how Owlite Academy and graveyards are sinking into Underworld_. This also fittingly ties with the naming convention both of _Valkyries, as divine guardians, and as celestials_, who did come as [auras and souls](#auras-and-souls) from the higher realm to [corporeal bodies](#corporeal-body), closely connected to the source of souls - our to be proposed Nameless Realm.
+<!--What if material realm was not invaded, but blessed by a realm above. As Lord Vanaduke had died in the ash pits below Blackened Shrine, then being reborn as a fiend, what would such process be called for a divine realm descending to material realm?-->
 
-But, as far as current understanding of the cosmology allows, we are presented with 2 higher realms, one of which is deeply related to heavenly kingdom. This realm, as suggested by the earlier established role of valkyries, is to be protected by them.
+But, as far there is a consistent narrative of curse and Undercorp's involvement, what would happen, considering this position of material realm on the metaphysical stack, if lower realm, such as Underworld, would have attempted to siege heavenly kingdom? _How would curse manifest within a higher realm or paradise itself?_
 
-And as in the modern times there are no other realm which requires protection, while being the most alien, there are no other candidates than the Whitespace of the Core, which houses Sleeper, whose need in protection was the driving mechanism for Clockworks to be constructed: `THIS WORLD WAS CREATED TO PROTECT ME. VULNERABLE IN SLUMBER, WORLDS WERE DRAWN TO SHIELD ME FROM THE DARKNESS` ([Echo Stone: Ironclaw Munitions Factory]()).
+<!--Apart from this relation, there is one more connection worth mentioning -- one of Apocrea as a dreaming entity similar to Sleeper.-->
 
-How we transition from the prior, more classic interpretation of paradise to highly advances, seemingly artificial nature of Whitespace? How all of this symbols, themes and narratives collide in the modern period of time as Isorans crash land on Cradle?
+<!--This, if applied to Apocrean Relam, we suggest, marks it as outside of the space which is considered part of natural reality, beginning from the most divine realm. How this translates to the thems both realms possess, we are yet to discover, but, as far as our initial anlysis of Apocrea's motivations suggests, this distinction is driven by Apocrea's intent to `return this cosmic play to its primordial black` ([Professor Allister Danford](https://forums.spiralknights.com/en/node/91276)).-->
 
-This is a proposal we will discuss once we cover entirety of Clockworks. But, one element of this framework we will reveal now, which as much as it is fitting, at this stage might be considered a coincidence.
+<!--As Clockworks were build for vulnerable _slumbering Sleeper_, as Cradle is called so, would Clockworks themselves, then, by their title be associated with a clock -- a device by which Sleeper's slumber was meant to end. Even if this relation is not explored, __what is the metaphycisal state of the entity named Sleeper once it wakes up?__ At that point in the analysis we are unable to answer that question, yet we should keep track of presence of evil eyes and manifestaions of curse for moder-day Cradle.-->
 
-As Clockworks were build for vulnerable _slumbering Sleeper_, as Cradle is called so, would Clockworks themselves, then, by their name alone, be associated with a clock, by which Sleeper's slumber was meant to end. The Cradle is what it is - it is named and built to house a sleeping deity. What would happen then, once Sleeper wakes up?
-
-##### Motif 4: Duality
-
-If we attempt to develop this evidently vague thematically driven idea further, we would eventually arrive to a mirrored position to curse. As curse - alien for material realm, while granting immortality by tethering soul to material realm, or serving as a method of suspending indefenetely physical body with soul tethered to it; would the state of divinity, coming from the paradise, cause the same effect of immortality, but in opposite to Underworld's influence, of one's soul being closer to an "absolute" realm of energy, from where those souls come from?
-
-As far as we were looking at the heavenly kingdom of Valkyries, they seem to present this exact case - a civilization of celestial guardians of paradise, as the location from which Fallen Valkyrian was cast down.
-
-We have seen in instances of Sacred Circle and Owlite Tomes, that they operate by the same principle as circles of art - of "fiendish" sigils made of minerals inscribed into patterns or assembled into configurations, through which they radiate auras or store energy, store data, used as the basis both for Owlite magic and spells, Underworld's operation, connection of realms both to lower ones and to higher ones. So, there is a common principle for those seemingly distant civilizations.
-
-Under this paradigm of duality, what if material realm was not invaded, but blessed by a realm above. As Lord Vanaduke had died in the ash pits below Blackened Shrine, then being reborn as a fiend, what would such process be called for a divine realm descending to material realm?
-
-But, as so far there is a consistent narrative of curse and Undercorp's involvement, what would happen, considering this position of material realm on the metaphysical stack, if lower realm, such as Underworld, would have attempted to siege heavenly kingdom and a realm it inhabits though power of curse?
-
-Apart from symbolism of curse, there is one more connection worth mentioning - one of Apocrea as a dreaming entity similar to Sleeper - also far Sleeper is associated with a motif of divinity, the name Apocrea can be interpreted as one derived of _Apocrypha_ -- a name of texts, which were expluded outside of Protestant canons of the Old Testament.
-
-This, if applied to Apocrean Relam, we suggest, marks it as outside of the space which is considered part of natural reality, beginning from the most divine realm. How this translates to the thems both realms possess, we are yet to discover, but, as far as our initial anlysis of Apocrea's motivations suggests, this distinction is driven by Apocrea's intent to `return this cosmic play to its primordial black` ([Professor Allister Danford](https://forums.spiralknights.com/en/node/91276)).
-
-For now, we are required to finally analyze metaphysics of curse, as it is the most essential element, as through its wide presence aforementioned divine motifs were identified.
+<!--For now, we are required to finally analyze metaphysics of curse, as it is the most essential element, as through its wide presence aforementioned divine motifs were identified.-->
 
 <center class="chapter-break">
   <span class="energy">🜏</span>
