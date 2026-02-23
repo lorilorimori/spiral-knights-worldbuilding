@@ -6336,9 +6336,11 @@ But, as far there is a consistent narrative of curse and Undercorp's involvement
 
 ### _Intermission &#160;<br>_ Metaphysics Of Curse
 
-Before we move on to the analysis of Gremlin Empire, specifically nature of the complex network of connections between the Core, Whitespace, and the Swarm, with an addition of Sleeper, Architect, and the Void, we are required to cover everything we now know of the phenomenon of Curse up until this point with the fullest context of corresponding periods of time.
+Before we move on to the analysis of Clockworks and gremlins, specifically nature of the complex network of connections between the Core, Whitespace, and the Swarm, with an addition of Sleeper, Architect, and the Void, we are required to cover everything we now know of the phenomenon of curse up until this point with the fullest context of corresponding periods of time.
 
-For this, we are now required to analyze Shadow Lairs, as it the region, which contains so far glanced over Shadow Firestorm Citadel and the miasma of Shadow Gloaming Wildwoods, mentioned briefly in the [analysis of Snarbolax's curse](#snarbolax-and-haunting-through-curse). But, due to sheer size of the topic, its many nuances, _we will decouple the context of Shadow Lairs from the content_. Specifically, we are not concerned with nature or origin of Shadow Lairs and Swarm, but with phenomena which take place in those lairs - miasma and the curse. We will also discuss the causality of those events, with Shadow Firestorm Citadel being our main point of concern in regards to what is considered canon.
+For this, we will discuss Shadow Lairs, as it this region which contains so far shortly mentioned Shadow Firestorm Citadel and the miasma of Shadow Gloaming Wildwoods in the [analysis of Snarbolax's curse](#snarbolax-and-haunting-through-curse).
+
+But, due to sheer size of the topic, its many nuances, _we will decouple the context of Shadow Lairs from the content_. Specifically, we are not concerned with nature or origin of Shadow Lairs and Swarm, but with phenomena which take place in those lairs - miasma and the curse. We will also discuss the causality of those events, with Shadow Firestorm Citadel being our main point of concern in regards to what is considered canon.
 
 After we are done with the properties of the Citadel and Wildwoods, their plausible positions in the timeline, separated from the nature of Shadow Lairs themselves, we will perform the final summary of the metaphysics of curse.
 
@@ -10371,7 +10373,7 @@ Nameless Realm and material realm are connected through the Whitespace within th
 
 </SubTitleCentered>
 
-- The Void exists a primordial relam, which encompasses all of existence.
+- The Void exists a primordial realm which encompasses all of potential existence before it is created.
 
     It is the alchemical round chaos, which encompasses all of existence in its potential state.
 
@@ -10381,7 +10383,7 @@ Nameless Realm and material realm are connected through the Whitespace within th
 
     Nameless Realm is the counterpart to the Void, compared to the rest of the realms, it possess the same nature as the Void, as its potential allws for direct creation of matter from energy. But, at that point, the Void is found in its current state, now defined by the lack of energy.
 
-- By its nature, Nameless Realm is home of entities of energy, referred to as the celestial beings by valkyries of heavenly kingdom. Among those deities were the Spirit Mother and Sleeper.
+- By its nature, Nameless Realm is home of entities of energy, referred to as the celestial beings. Among them were deities -- Spirit Mother and Sleeper.
 
     Nature of this relam is represented by a universal medium of energy. This energy is manifested as souls, subtle bodies, with later attained corporeal bodies in the material realm also refered as auras, surrounding said souls.
 
@@ -10395,7 +10397,8 @@ Nameless Realm and material realm are connected through the Whitespace within th
 
 
 
-- Form wyverns, griffins evolve, a divine species, which would evolve into the first civilization, later known as the Valkyries of the heavenly kingdom. Physically, this civilization would be identified as Owlites, which are the descendants of griffins. Here we will refer to this civilization as Valkyries, - as Valkyries and Seraphs compise the army of the heavenly kingdom.
+- Form wyverns, griffins evolve, a divine species which would evolve into the first civilization, later known as the Valkyries of the heavenly kingdom, later to be known as owlites. We will refer to this civilization as Valkyries, - as Valkyries and Seraphs compise the army of the heavenly kingdom.
+- At some point in time a divine species of kats emerges, they would also inhabit the heavenly kingdom.
 
 
 - The creation myth consists of 3 dragons being slain by celestial beings. Those celestial beings, compared to the deities, are lesser entities, Valkyries and Seraphs.
@@ -10514,7 +10517,7 @@ Nameless Realm and material realm are connected through the Whitespace within th
 
 - Lord Vanaduke returns, leading the Legion of Ur, destroys remaining kingdoms and establishes a territory referred as the Almirian Empire. Legion of Ur returns into the Underworld through the shrine.
 
-- Valkyries invade Underworld in order to purge it of Legion of Ur. With this, they seal the Legion of Ur in the Underworld, preventing large-scale arrival of Undercorp into material realm.
+- Valkyries invade Underworld in order to seal Legion of Ur outside of material relam. It prevents large-scale arrival of Undercorp into material realm.
 
 
 
@@ -10526,18 +10529,20 @@ Nameless Realm and material realm are connected through the Whitespace within th
 
     Moreover, Philoso rediscovers the Nameless Realm proper, whose chaotic nature proves to be extremely dangerous, but also reactive to the presence of realms close to the Void - the Underworld.
 
-- At that point in time, Sleeper is till under protection of heavenly kingdom.
-- Undercorp, led by Nefarious Imp, contacts divine kat Margrel, which establishes a defective group known as the Kat Tribe. This is the third time Undercorp attempts to enter material realm through means of deceit.
+- At that point in time Sleeper remains under protection of heavenly kingdom.
+- Underworld contacts divine kat Margrel, which establishes a defective group known as the Kat Tribe armed with powers of Underworld and curse.
 
 - Kat Tribe works in secrecy, establishing sleeper agents across the heavenly kingdom. Once Kat Tribe is prepared, they invade heavenly kingdom with the goal of reaching Owlite Academy of Magics and capturing the Book of Grey Feathers in the tower of Grey Feather, seacured by mages.
 
-- Through ill-usage of the tome located in the tower, an event known as the Kataclysm happens, causing first large-scale metaphysical shift, which pulls the Academy and Graveyards of Almire into close proximity of Underworld, making the darkness of Underworld creep from those locations.
+- Through ill-usage of the tome located in the Grey Feather tower of Owlite Academy of Magics, an event known as the Kataclysm occures, causing first large-scale metaphysical shift, which pulls the Grey Feaher tower of the Academy into the Underworld, and positions Graveyards of kingdom of Almire in close proximity to Underworld, making the darkness of Underworld creep from those locations. The entire population of heavenly kingdom is erased from existence, while members of Kat Tribe are banished into the Underworld and transfomed into curse-ridden mindless beasts.
 
     The darkness in question eventually leads back to Apocrean Realm. Through the means of this darkness and metaphysics of lower realms, far greater degree of danger is presented to deities of Nameless Realm.
 
-- Heavenly kingdom is not erased instantaneously, but is overwhelmed by presence of undeath, which forces it to actively combat it. The techniques used during Valkyries' invasion of Underworld and sealing of trojans are reapplied after the Kataclysm, notably, the eternally beurning candles, cabale of repelling Underworld's presence.
+- The heavenly kingdom as well as the academy with owlite technology used to repel the darkness of Underworld lay dormant and undisturbed.
 
-- In time, heavenly kingdom falls, with no means to protect heavens the planet remains as is, but relatively secure, as Undercorp also has no means of entering material realm as far as possibilities of entrance allow.
+<!--- Heavenly kingdom is not erased instantaneously, but is overwhelmed by presence of undeath, which forces it to actively combat it. The techniques used during Valkyries' invasion of Underworld and sealing of trojans are reapplied after the Kataclysm, notably, the eternally beurning candles, cabale of repelling Underworld's presence.-->
+
+- In time, heavenly kingdom falls, with no means to protect heavens the planet remains relatively secure as Undercorp also possesses no means of entering material realm.
 
 
 - In this state Cradle exists for a long time, until the planet was discovered by gremlin interstellar empire.
