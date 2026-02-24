@@ -6323,7 +6323,7 @@ Within this duality exists a __common set of metaphysical rules which are devoid
 
 <!--What if material realm was not invaded, but blessed by a realm above. As Lord Vanaduke had died in the ash pits below Blackened Shrine, then being reborn as a fiend, what would such process be called for a divine realm descending to material realm?-->
 
-But, as far there is a consistent narrative of curse and Undercorp's involvement, what would happen, considering this position of material realm on the metaphysical stack, if lower realm, such as Underworld, would have attempted to siege heavenly kingdom? _How would curse manifest within a higher realm or paradise itself?_
+But, as far there is a consistent narrative of curse and Undercorp's involvement, what would happen, considering this position of material realm on the metaphysical stack, if lower realm, such as Underworld, would have attempted to siege heavenly kingdom? _How would curse manifest within a higher realm or paradise itself?_ Does Fallen Valkyrian and Nature Sprites qualify as celestial beings ridden by curse?
 
 <!--Apart from this relation, there is one more connection worth mentioning -- one of Apocrea as a dreaming entity similar to Sleeper.-->
 
@@ -6379,29 +6379,29 @@ When Snarbolax is encountered, apart from being rabid, it is present in multiple
 
 Snarbolax was defeated by knights, unless it is not one of its kind, as later suggested by presence of multiple it instances in the Shadow Gloaming Wildwoods and [Snarblepup Maskeraith]().
 
-##### Vile Engines
+There is a case of [Vile Engine](https://wiki.spiralknights.com/The_Vile_Engine) mission and its [slime generators]() which were the reason for the existence of Rotting Metropolis: `It would seem as though those slime generators have been around much longer than we thought, seeping their vile toxins into any levels that should be near them. A modern city, much like those that the devilites inhabit seems to be overrun with these toxins, and was probably left behind by both the devilites and gremlins as a result. Now a legion of slime and undead creatures haunt the place, festering in the poisons that linger in the air. A squad that was attempting to pass through the city has gone missing. Given that the very air is toxic ...` ([The Rotting Metropolis](https://wiki.spiralknights.com/The_Rotting_Metropolis)).
 
-There is a case of [Vile Engine](https://wiki.spiralknights.com/The_Vile_Engine) mission and its [slime generators](), which were the reason for Rotting Metropolis' existence: `It would seem as though those slime generators have been around much longer than we thought, seeping their vile toxins into any levels that should be near them. A modern city, much like those that the devilites inhabit seems to be overrun with these toxins, and was probably left behind by both the devilites and gremlins as a result. Now a legion of slime and undead creatures haunt the place, festering in the poisons that linger in the air. A squad that was attempting to pass through the city has gone missing. Given that the very air is toxic ...` ([The Rotting Metropolis](https://wiki.spiralknights.com/The_Rotting_Metropolis)).
+In order for miasma to appear, slime generators could be a plausible precedent for existence of poisoned Gloaming Wildwoods and Rabid Snarbolax. Considering that all of Clockwork location can be moved, the prime example being molten cavern of Firestorm Citadel, `The Core was in sight. But now some kind of massive negative energy anomaly has surfaced above the Core, blocking access to it. ... We need you to explore the surrounding levels and collect any intel you can. You can start with an Owlite castle of some sort that recently surfaced near this anomaly` ([Ending in Fire - Kora](https://wiki.spiralknights.com/Ending_in_Fire)), it is plausible for the Wildwoods at some point being affected by the [slime generators](https://wiki.spiralknights.com/The_Vile_Engine/Processing_Plant) at depth 22.
 
-In order for miasma to appear, slime generators could be a plausible precedent for existence of poisoned Gloaming Wildwoods and Rabid Snarbolax. Considering that all of Clockwork location can be moved, the prime example being molten cavern of Firestorm Citadel - `The Core was in sight. But now some kind of massive negative energy anomaly has surfaced above the Core, blocking access to it. ... We need you to explore the surrounding levels and collect any intel you can. You can start with an Owlite castle of some sort that recently surfaced near this anomaly` ([Ending in Fire - Kora](https://wiki.spiralknights.com/Ending_in_Fire)), it is plausible for the Wildwoods at some point being affected by the [slime generators](https://wiki.spiralknights.com/The_Vile_Engine/Processing_Plant) at depth 22.
+But, on the other hand, the __miasma is most reminiscent of curse due to its red color__, _the color itself makes it distinct from toxic and quicksilver lichens of Vile Engine_. Thematically, it seems to us that gremlins are not ones to be involved in the creation of, at least, Shadow Gloaming Wildwoods. This red mist is similar to one present on fiend-inhabited Clockwork Tunnels, with a characteristic pink hue, the [Infernal Passage](https://wiki.spiralknights.com/Infernal_Passage).
 
-But, on the other hand, the __miasma is most reminiscent of curse due to its red color__, _the color itself makes it distinct from toxic and quicksilver lichens of Vile Engine_. And at that, thematically, it seems to us that gremlins are not ones to be involved in the creation of, at least, Shadow Gloaming Wildwoods. This red mist is similar to one present on fiend-inhabited Clockwork Tunnels, with a characteristic pink hue, the [Infernal Passage](https://wiki.spiralknights.com/Infernal_Passage).
+As it was discussed earlier, we had proposed an existence of a [Vile Deity](#fiendish-cults), who is the reason behind supernatural occurrences related to poison, as well as being here the embodiment of supernatural properties of poison. In case of miasma, the description and setting is fitting, but not the color of mist itself.
 
-As it was discussed earlier, we had proposed an existence of a [Vile Deity](#fiendish-cults), who is the reason behind supernatural occurrences related to poison and undeath across graveyards, as well as being here the embodiment of supernatural properties of poison. In case of miasma, the description and setting is fitting, but not the color of mist itself, unless this supernatural nature also exists, one traced back to Underworld.
+It is then a question weather Vile Deity actually exists and what is its influence onto material realm. As far as we would not lean to this idea, we can not deny __a theme of poison carrying a supernatural element in its extremes__, starting from [Plague Essence](https://wiki.spiralknights.com/Plague_Essence), `A powerful essence left behind when a creature perishes from a particularly putrid disease`, as it is a material from the same tier and design, as essences, as [Everfrost](https://wiki.spiralknights.com/Everfrost) and [Flame Souls](https://wiki.spiralknights.com/Flame_Soul).
 
-It is then a question weather Vile Deity actually exists and what is its influence onto material realm. As far as we would not lean to this idea, we can not deny __a theme of poison carrying a supernatural element in its extremes__, starting from [Plague Essence](https://wiki.spiralknights.com/Plague_Essence): `A powerful essence left behind when a creature perishes from a particularly putrid disease.` as it is a material from the same tier and design as [Everfrost](https://wiki.spiralknights.com/Everfrost) and [Flame Souls](https://wiki.spiralknights.com/Flame_Soul). It is due to all of covered so far motifs we suggest, that a type of supernatural plague is present here - _an idea of miasma coming from Underworld._
+The red mist is the main point of concern and a counter argument for slime generators being responsible for the creation of the miasma. So far, a few potential leads can be connected to this phenomenon:
 
-The red mist is the main point of concern and a counter argument for Slime Generators being responsible for the creation of the miasma. So far, a few potential leads can be connected to this phenomenon:
+- Red mist is similar to the glow of Maskeraith's [Vengeful Shadow Cloak](https://wiki.spiralknights.com/Vengeful_Shadow_Cloak#Vengeful_Shadow_Cloak). Although the design differs, as Maskeraith cloak has yellow lightning bolts within it, the mist does not. The density of Maskeraith cloak does not allow to see through it, most reminiscent of _intense red glow and wind_ below the [Core Terminal](#core-terminal) and outlining the Core itself in the distance.
+- The context of the word _miasma across mythology is usually considered as a divine punishment and illness_. The illness is present in the woods, but the punishment aspect remains unknown, if it was intened to exist.
+<!--- The stone lantern found across the woods are similar to the Yukimi-Gata lanterns and 5-layer stone stupas.-->
 
-- Red mist is similar to the glow of Maskeraith's [Vengeful Shadow Cloak](https://wiki.spiralknights.com/Vengeful_Shadow_Cloak#Vengeful_Shadow_Cloak). Although the design differs, as Maskeraith cloak has yellow lightning bolts within it, the mist does not. The density of Maskeraith cloak does not allow to see through it, most reminiscent of strong reddish glow and wind below the [Core Terminal](#core-terminal).
-- The context of the word _miasma across mythology is usually considered as a divine punishment and illness_. The illness is present in the woods, but the punishment aspect remains unknown.
-- The stone lantern found across the woods are similar to the Yukimi-Gata lanterns and 5-layer stone stupas.
+Among those proposals, we lean to the idea of the miasma being the result of [collapsing grim gates' portals](#grim-gates-portal-collapse), [described earlier](#grim-gates) in regards to Undercorp sabotaging tortomega efforts. We have proposed, that the reason for this large-scale spread of curse-related affliction is due to [Undercorp turning against Titans](#the-fall-of-titans), erasing their civilization through mechanical change of tortodrones.
 
-Among those proposals, we lean to the idea of the miasma being the result of [collapsing grim gates' portal](#grim-gates-portal-collapse), [described earlier](#grim-gates) in regards to Undercorp sabotaging tortomega efforts. We have proposed, that the reason for this large-scale spread of curse-related affliction is due to [Undercorp turning against Titans](#the-fall-of-titans), erasing their civilization through mechanical change of tortodrones. But, if we consider such scenario, how an event from the past would've made an appearance in the present? This concept, we believe, ties with the greater nature of Shadow Lairs, yet, we have to establish an ongoing motif.
+But, if we consider such scenario, how an event from the past would have made an appearance in the present?
 
-As far as solely Shadow Gloaming Wildwoods allow us to hypothesize, __Miasma came from the Grim Gates back when titans were annihilated by corrupted tortodrones__. On Cradle, miasma reemerges as either the result of still unseen actor - embodied by the Nefarious Imp, or, due to events of [March of Tortodrones](), where the portals were collapsed through intervention of Knights. Given that those event have happened at later point in time, as a singular event similar to other Shadow Lairs, we are leaning to the idea of Undercorp being involved here, while acknowledging still unknown properties of Shadow Lairs, and, separately, a plausibility of a cause in the form of Grim Gates.
+We propose that __Miasma came from the grim gates back when titans were annihilated by tortodrones__. On modern-day Cradle miasma reemerges as part of the plot of `shadows falling over Cradle`, as a result of an unseen actor embodied by Underworld.
 
-##### Vials
+#### Vials
 
 Among vials, which were created by wizards of Spiral Order, we can find following descriptions of their contents:
 
@@ -6410,7 +6410,7 @@ Among vials, which were created by wizards of Spiral Order, we can find followin
 - `A glass vial containing glacial wind. It can be used to inflict enemies with Freeze. Throw it like a grenade and chill your foes right in place!` (Freeze Vial).
 - `A glass vial containing debilitating toxins. It can be used to inflict enemies with Poison. Throw it like a grenade and wither the attack power of your foes!` (Poison Vial).
 
-4 basic or classic elements, closely associated with elemental damage, apart from frost, which caries shadow damage properties, are described distinctly: molten mixture, electric fluids, glacial wind, toxins. Those terms are easy to conceptualize, with glacial windds being more magical compared to the rest, but still tangible physical concept confined to the volums of the vial.
+Four classic elements closely associated with elemental damage are described distinctly: molten mixture, electric fluids, glacial wind, toxins. Those terms are easy to conceptualize, with glacial winds being more magical compared to the rest, but still tangible physical concept confined to the volumes of those vials.
 
 Then, there are stun and sleep, which do not particularly change in their concept:
 
@@ -6419,19 +6419,23 @@ Then, there are stun and sleep, which do not particularly change in their concep
 
 And then, there is Curse Vial: `A glass vial containing concentrated fiend essence. It can be used to inflict enemies with Curse. Throw it like a grenade and give your foes 10 years of bad luck!`.
 
-This frames curse as an essence - a __distinct mass of undefined properties, much reminiscent of essence-type materials_ in the inventory. Curse is also characterized here to be of fiendish origin, which makes its source to be Underworld, reaffirming its alien nature to material realm.
+This frames curse as an essence, a __distinct mass of undefined properties, much reminiscent of essence-type materials_ in the inventory. Curse is also characterized here to be of fiendish origin, which makes its source to be Underworld, reaffirming its alien nature to material realm. Yet, as vials are created by wizards of Spiral Order from owlite studies, it can be assumed that both owlites and isorans were familiar with fiendish and metaphysical nature of curse.
 
-#### Twisted Citadel of Cursed Almirian Empire
+#### True Citadel of Eternal Almirian Empire
 
-Shadow Firestorm Citadel is in much regard by margin far more dangerous than its regular counterpart and any other location across Clockworks. The presence of Nature Sprites and Darkfire Lord Vanaduke, the lack of the console create unique conditions in order for it to exist within the canon.
+Shadow Firestorm Citadel is marginally far more dangerous than its regular counterpart and by magnitudes more lethal than any other location across Clockworks and Cradle, with a few exceptions.
 
-Shadow Firestorm Citadel is similar to the unknown chronology of frozen over Shadow Royal Jelly Palace within the timeline, including the fact of both had to [contain a console](#gremlin-containments-and-consoles).
+The presence of Nature Sprites and Darkfire Lord Vanaduke, the lack of the console create unique conditions in order for it to exist within the canon.
+
+Shadow Firestorm Citadel is similar to the unknown chronology of frozen over Shadow Royal Jelly Palace within the timeline, including the fact of both had to [contain a console](#gremlin-containments-and-consoles) -- a gremlin invention.
 
 To analyze nature of this variant of the Citadel, we have to start by isolating history and design of the concept of Firestorm Citadel.
 
+##### Grand Citadel of Almire
+
 It is known that it was the Grand Citadel of Almire: `From atop the highest tower of the Grand Citadel of Almire, Vanaduke watched his kingdom crumble. ... Many days later the citizens of Almire watched as fire began to erupt from the mountains. Leading an army of terrible fiends, Vanaduke returned to his kingdom, destroying the occupied forces of the two opposing kingdoms in a single day. In time the two kingdoms fell, Vanaduke's legion burning everything in their path. When he returned to Almire, it burned as well, for everywhere he went, and everything he touched was doomed to ash. With nothing left to destroy, his legions left him and returned to the mountains, leaving the king to sit in his throne of ash and cinder, all the people of Almire dead around him` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)), and `You stand before the gates of the Firestorm Citadel, the former heart of the great Kingdom of Almire, now a dominion twisted by fire and malice` ([King of Ashes - Blackstone Bridge - Lost Soul](https://wiki.spiralknights.com/Lost_Soul_(Blackstone_Bridge))).
 
-Kingdom of Almire was located near the volcanic mountains, ones which held an altar to a fiery deity, [which we concluded to be Vog](#blackened-shrine-and-magma-deity), an Underworld deity. Almire's nature-themed designs, as well as a strong connection to Spirit Mother, which was the reason for her intervention, had resulted in capture of several Nature Sprites in the Citadel itself by the time Lord Vanaduke had returned transformed.
+Kingdom of Almire was located near the volcanic mountains, ones which held an altar to a fiery deity, [which we concluded to be Vog](#blackened-shrine-and-magma-deity), an Underworld beast-deity of fire. Almire's nature-themed designs, as well as a strong connection to Spirit Mother which was the reason for her intervention, had resulted in capture of several Nature Sprites in the Citadel itself by the time Lord Vanaduke had returned transformed.
 
 At some point, the Citadel and an unknown part of the landmass comprising the kingdom of Almire were captured by the Core, with its cities seemingly intact, as suggested by the [Necropolis Grounds](https://wiki.spiralknights.com/Necropolis_Grounds). Starting from it, Firestorm Citadel was permeating through the Clockworks. But, when the Knights have arrived, it anomalously resurfaced in proximity, or even above to the Core:
 
@@ -6440,12 +6444,14 @@ At some point, the Citadel and an unknown part of the landmass comprising the ki
 
 Paired with the fact it is instrumental to opening the Core [in the events of Shadowplay](https://wiki.spiralknights.com/Shadowplay), this seems to us as a reason for its movement, orchestrated by an unknown party.
 
+##### Citadel Surrounded by Owlites
+
 Large number of followed up missions were concerned with getting in proximity of the Citadel:
 
 - `We need you to explore the surrounding levels and collect any intel you can. You can start with an Owlite castle of some sort that recently surfaced near this anomaly` ([Ending in Fire - Kora](https://wiki.spiralknights.com/Ending_in_Fire)).
 - `An unlikely source of intel has surfaced from the residents of Moorcroft Manor. A few of the spookats that call it home contacted one of our visiting Recon Knights and provided details of the negative energy mass that has appeared above the Core. Calling it 'a place of burning hatred' and 'a prison for dark souls' they say that you can read all about it in 'one of those weird Owlite books' in an Owlite keep they pinpointed. If what they claim is true Spiral HQ could gain valuable intel from investigating the Owlite keep. Just remember that these Owlite structures have all proven to be swarming with the lost souls of countless undead monsters` ([An Occurrence at Owlite Keep](https://wiki.spiralknights.com/An_Occurrence_at_Owlite_Keep)).
 
-  It directly connects Scarlet Fortress, [The Hall of Remembrance](https://wiki.spiralknights.com/An_Occurrence_at_Owlite_Keep), to the [The Forgotten Library](https://wiki.spiralknights.com/File:Library.png) of Owlite Academy, as it is located in the Candlestick Keep.
+  It directly connects Scarlet Fortress, [The Hall of Remembrance](https://wiki.spiralknights.com/An_Occurrence_at_Owlite_Keep), to the [The Forgotten Library](https://wiki.spiralknights.com/File:Library.png) of Owlite Academy, as it is located at the Candlestick Keep.
 
 - `The Spookats of Moorcroft Manor have another valuable piece of intel for us that is worth investigating. They say that a lost soul of the former Kingdom of Almire resides in a soldier's graveyard near the Firestorm Citadel. This soul is willing to provide us with the information on the nature of the citadel as well as how we can get through it and reach the Core` ([Alone in the Dark](https://wiki.spiralknights.com/Alone_in_the_Dark)).
 
@@ -6453,29 +6459,27 @@ Large number of followed up missions were concerned with getting in proximity of
 
 - The [Gauntlet](https://wiki.spiralknights.com/Gauntlet) itself is accessed through the Owlite Academy, transitioning, again, into the Scarlet Fortress.
 
-  This time, notably, the castle, as the Gauntlet, contains most of the high-tech hazards, attributed to gremlins, - the [freeze traps](https://wiki.spiralknights.com/File:Exploration-Freeze_Trap.png) of cooling chambers and [fire traps](https://wiki.spiralknights.com/File:Exploration-Fire_Trap.png). This was covered in the [gremlin containments section](#gremlin-containments-and-consoles). And here, we see more relation to the heavenly kingdom, as if it was, in fact, surrounding the Citadel.
+  This time, notably, the castle, as the Gauntlet, contains most of the high-tech hazards, attributed to gremlins, the [freeze traps](https://wiki.spiralknights.com/File:Exploration-Freeze_Trap.png) of cooling chambers and [fire traps](https://wiki.spiralknights.com/File:Exploration-Fire_Trap.png). This was covered in the [gremlin containments section](#gremlin-containments-and-consoles). And here we see more relation to the heavenly kingdom, as if _it was surrounding the Citadel_.
 
-Here we have to return to the topic of the [Forgotten Time](#analysis-of-forgotten-time), as there we have discussed the possibility of Almire existing on the same planet as heavenly kingdom.
+This positioning does raise suspicions, geographically. Heavenly kingdom had to be located above the land of Ironmight Kingdom, tortomega ruins, including the Wildwoods and the [Veiled Homeland yet-to-become the Aurora Isles](), and the Kingdom of Almire.
 
-This positioning does raise suspicions, geographically. Through mythological inspirations, heavenly kingdom had to be located above the land of Ironmight Kingdom, tortomega ruins, including the Wildwoods and the [Veiled Homeland yet-to-become the Aurora Isles](), and the Kingdom of Almire.
+<!--As the planet had to be harvested to become Cradle, Aurora Isles would have to eventually end up being captured, but this would not explain the fact they, too, float. Unless the same technology or physical law was used to hold up all of matter in skydomes.-->
 
-As the planet had to be harvested, Aurora Isles would have to eventually end up being captured, but this would not explain the fact they, too, float. Unless the same technology or physical law was used to hold up all of matter in skydomes.
+We have mentioned that Carnavons and Slag Zombies have similar design and are only ones with explicit armor. One particular concept we are interested in - _if Carnavons are canon, their curse affliction and Dread Seals are canon, would this make Shadow Firestorm Citadel canon_? And if so, how would it fit with the existing Firestorm Citadel outside of Shadow Lairs? Physically, all of those location reach Shadow Lairs proper -- the [Unknown Passage](https://wiki.spiralknights.com/Unknown_Passage), -- as only boss depths contain the first signs of the Swarm, the rectangular black mist, that is apart from the Gate Icon in prior depths.
 
-We have mentioned that Carnavons and Slag Zombies have similar design and are only ones with explicit armor. One particular concept we are interested in - _if Carnavons are canon, their curse affliction and Dread Seals are canon, would this make Shadow Firestorm Citadel canon_? And if so, how would it fit with the existing Firestorm Citadel outside of Shadow Lairs? Physically, all of those location reach Shadow Lairs proper - the [Unknown Passage](https://wiki.spiralknights.com/Unknown_Passage), - as only boss depths contain the first signs of the Swarm, the rectangular black mist, that is apart from the Gate Icon in prior depths.
+Assuming Owlites, as the heavenly kingdom above the mountains, had witnessed the war of 3 kingdoms -- Ironmight, Almire, and Raiders, -- they had to stay away from the conflict given lack of their presence. But only after the fall of all kingdom their descendatns, owlites, would study kingdom of Almire. By that time the kingdom is stagnant, yet there seemingly was a period of time, when lands of all while burned kingdoms were united as an [Almirian Empire](#almirian-empire), with Lord Vanaduke characterized as eternal. This accent on timelessness had led us to suggest a cursed, undead state of that empire.
 
-Assuming Owlites, as the heavenly kingdom above the mountains, had witnessed the war of 3 kingdoms - Ironmight, Almire, and supposedly Raiders, - they had to stay away from the conflict given lack of their presence. Then Lord Vanaduke has returned from the mountains with the Legion of Ur - of Isoran Wardens transformed to trojans.
+<!--As the Legion of Ur had returned into the mountains, and subsequently, Underworld, as most of the land was burned by Lord Vanaduke's crusade, we have proposed, that state of matter became the reason for Valkyries to invade the Underworld.-->
 
-As the Legion of Ur had returned into the mountains, and subsequently, Underworld, as most of the land was burned by Lord Vanaduke's crusade, we have proposed, that state of matter became the reason for Valkyries to invade the Underworld.
+<!--This period of time and until the Kataclysm had seemed fitting to position Owlites' gunslinger priests, as both those narratives involve undead opposition or danger to heavenly kingdom. It is also in this context we have proposed existence of undead kingdom of Almire as the [Almirian Empire](#almirian-empire).-->
 
-This period of time and until the Kataclysm had seemed fitting to position Owlites' gunslinger priests, as both those narratives involve undead opposition or danger to heavenly kingdom. It is also in this context we have proposed existence of undead kingdom of Almire as the [Almirian Empire](#almirian-empire).
+<!--As far as our hypothesis has allowed, Lord Vanaduke could've begun an invasion into the heavenly kingdom with his undead army of legions of Almire. It is then, either to greater developments in the understanding of curse were made, allowing for Dread Seals to be placed onto carnavons, or, those advancements had followed near the Kataclysm, with a _different party responsible for placement of those Seals in the modern times_ in the paradigm of those Seals belonging to Owlites.-->
 
-As far as our hypothesis has allowed, Lord Vanaduke could've begun an invasion into the heavenly kingdom with his undead army of legions of Almire. It is then, either to greater developments in the understanding of curse were made, allowing for Dread Seals to be placed onto carnavons, or, those advancements had followed near the Kataclysm, with a _different party responsible for placement of those Seals in the modern times_ in the paradigm of those Seals belonging to Owlites.
-
-There is also a chance of Valkyries being Isorans in nature, which itself relies in the idea of Isorans possessing a skeletal structure, but, in terms of this theory, we will follow with the complete disappearance of Owlites and Valkyries as the same species.
+<!--There is also a chance of Valkyries being Isorans in nature, which itself relies in the idea of Isorans possessing a skeletal structure, but, in terms of this theory, we will follow with the complete disappearance of Owlites and Valkyries as the same species.-->
 
 ##### Dread Seal: Part 2
 
-Through this logic we reach the Dread Seals and ones who bear it [for the second time](#dread-seals).
+Through this logic we reach the Dread Seals and ones who bear it [for the second time](#dread-seal-part-1-suppression-magic).
 
 Dread Seals are acquired from the [Katastrophe Prize Box](https://wiki.spiralknights.com/Katastrophe_Prize_Box), meaning, that it is associated with Owlites, to a degree. In the accompanied [news art](https://wiki.spiralknights.com/News/2014), dread seal is placed on the Black Kat Mask, - reminiscent of Margrel, as the [Cowl](https://wiki.spiralknights.com/Black_kat_helm) is acquired from him and Margrel bears the seal on his forehead.
 
