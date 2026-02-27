@@ -42,17 +42,27 @@ tasks:
       # --verbose
       - |
         pandoc \
+          src/lib/burning_stars.md \
+          \
           --from markdown+yaml_metadata_block \
           --to pdf \
-          --lua-filter src/lib/pandoc/filters/link.lua \
-          --lua-filter src/lib/pandoc/filters/citation.lua \
-          --css src/routes/layout.css \
-          --css src/routes/normalize.css \
-          --css src/routes/fonts.css \
-          --output burning_stars.pdf \
           --pdf-engine wkhtmltopdf \
-          --resource-path=. \
-          src/lib/burning_stars.md
+          \
+          --lua-filter \
+            src/lib/pandoc/filters/link.lua \
+          --lua-filter \
+            src/lib/pandoc/filters/book_citation.lua \
+          \
+          --css \
+            src/routes/normalize.css \
+          --css \
+            src/routes/fonts.css \
+          --css \
+            src/routes/layout.css \
+          --css \
+            src/lib/pandoc/css/book_citation.css \
+          \
+          --output burning_stars.pdf \
   lint:
     cmds:
       - task: lint:spellcheck

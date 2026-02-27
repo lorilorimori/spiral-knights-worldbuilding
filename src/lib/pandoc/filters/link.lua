@@ -1,9 +1,9 @@
 -- a.svelte
 function Link(el)
-  local is_external = not el.target:match("^#") and 
-                      not el.target:match("^/") and
-                      el.target:match("^https?://")
-  
+  local is_external = not el.target:match("^#") and
+  not el.target:match("^/") and
+  el.target:match("^https?://")
+
   if is_external then
     el.attributes.target = "_blank"
     el.attributes.rel = "noopener noreferrer"
@@ -18,16 +18,16 @@ end
 function Header(el)
   if el.level == 4 then
     local id = pandoc.utils.stringify(el.content):gsub("%s+", "-"):lower()
-    
-    -- anchor button
-    local html = string.format([[
-<div class="container-align-anchor">
-  <h4 id="%s">%s</h4>
-  <h4 data-toc-ignore>
-    <button class="anchor" onclick="gotoAnchorHeading(this)">i</button>
-  </h4>
-</div>]], id, pandoc.utils.stringify(el.content))
-    
+
+    local html = string.format(
+      [[
+        <div class="container-align-anchor">
+          <h4 id="%s">%s</h4>
+        </div>
+      ]],
+      id, pandoc.utils.stringify(el.content)
+    )
+
     return pandoc.RawBlock("html", html)
   end
   return el
@@ -44,6 +44,6 @@ function CodeBlock(el)
 <div class="code-block-wrapper">
   <pre><code class="%s">%s</code></pre>
 </div>]], el.classes[1] or "", pandoc.utils.stringify(el.text))
-  
+
   return pandoc.RawBlock("html", html)
 end
