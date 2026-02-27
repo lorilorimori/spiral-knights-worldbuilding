@@ -47,6 +47,7 @@ tasks:
           --from markdown+yaml_metadata_block \
           --to pdf \
           --pdf-engine wkhtmltopdf \
+          --template src/lib/pandoc/template.html \
           \
           --lua-filter \
             src/lib/pandoc/filters/link.lua \
