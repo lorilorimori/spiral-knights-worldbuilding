@@ -1013,7 +1013,7 @@ With the mythology as a guide, to achieve further progress in identification of 
 ### _Chapter `IV` &#160;<br>_ Heavenly Kingdom
 
   <div class="decorate-contents">
-    <img class="decorate-contents-img" src={imgHeavenlyKingdom} />
+    <!-- <img class="decorate-contents-img" src={imgHeavenlyKingdom} /> -->
   </div>
 </div>
 
@@ -6841,7 +6841,7 @@ How would curse manifest itself, if it to be presented to the Nameless Realm dir
 ### _Chapter `IX` &#160;<br>_ Gremlin Empire
 
   <div class="decorate-contents">
-    <img class="decorate-contents-img" src={imgGremlinEmpire} />
+    <!-- <img class="decorate-contents-img" src={imgGremlinEmpire} /> -->
   </div>
 </div>
 
@@ -8850,7 +8850,7 @@ This general ambiguity will follow our latter analysis of the Swarm.
 ### _Chapter `IX S` &#160;<br>_ Swarm
 
   <div class="decorate-contents">
-    <img class="decorate-contents-img" src={imgUnknown} />
+    <!-- <img class="decorate-contents-img" src={imgUnknown} /> -->
     <span class="energy decorate-contents-overflow"></span>
   </div>
 </div>
@@ -10365,7 +10365,7 @@ This duality then is reflected in nature of the Swarm as one to contain those pr
 ### _Chapter `X` &#160;<br>_ Spiral Knights
 
   <div class="decorate-contents decorate-contents-chapter10">
-    <img class="decorate-contents-img" src={imgSpiralKnights} />
+    <!-- <img class="decorate-contents-img" src={imgSpiralKnights} /> -->
   </div>
 </div>
 

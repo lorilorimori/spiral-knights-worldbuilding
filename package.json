@@ -6,7 +6,6 @@
     "dev": "vite dev --host",
     "build": "vite build",
     "preview": "vite preview --host",
-    "build:pdf:v1": "pandoc -f gfm -t html5 --css src/routes/fonts.css --css src/routes/layout.css --css pdf.css src/lib/burning_stars.md --pdf-engine wkhtmltopdf  --resource-path=. -o ./burning_stars.pdf --verbose",
     "build:pdf:v2": "md-to-pdf --config-file ./utils/config.pdf.cjs src/lib/burning_stars.md",
     "build:pdf": "node ./utils/createpdf_live.js"
   },

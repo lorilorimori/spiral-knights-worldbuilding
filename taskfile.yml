@@ -27,6 +27,32 @@ tasks:
       This mode does not require any prerequisites.
     aliases: [d]
     cmd: npm run dev
+  pdf:
+    cmds:
+      # pandoc \
+      # -f gfm \
+      # -t html5 \
+      # --css src/routes/fonts.css \
+      # --css src/routes/layout.css \
+      # --css pdf.css \
+      # src/lib/burning_stars.md \
+      # --pdf-engine wkhtmltopdf \
+      # --resource-path=. \
+      # -o ./burning_stars.pdf \
+      # --verbose
+      - |
+        pandoc \
+          --from markdown+yaml_metadata_block \
+          --to pdf \
+          --lua-filter src/lib/pandoc/filters/link.lua \
+          --lua-filter src/lib/pandoc/filters/citation.lua \
+          --css src/routes/layout.css \
+          --css src/routes/normalize.css \
+          --css src/routes/fonts.css \
+          --output burning_stars.pdf \
+          --pdf-engine wkhtmltopdf \
+          --resource-path=. \
+          src/lib/burning_stars.md
   lint:
     cmds:
       - task: lint:spellcheck
