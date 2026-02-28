@@ -6097,7 +6097,7 @@ This notion is similar to the behavior of Sparks of Life, as Sparks of Life are 
 
 Apart from the lightning bolt itself, revival through Spark of Life is _accompanied by falling dust_ similar to the presence of the Swarm at Swarm-infested depths. This seems as a different instance of signaling energy's presence through blue lightning, its excess, symbolized by the temporary attack buff.
 
-#### Dread Seal: Part 1: Suppression Magic
+#### Dread Seal, Restriction and Focus
 
 Presence of Dread Seals on Black Kats, Margrel, and Carnavons both by its placement and its name implies a figure or faction which had placed it onto them, evoking the first discussed case of [sealing magic found for elemental lumbers](#lumbers-as-constructs).
 
@@ -6107,7 +6107,7 @@ For Avanger and Faust the seals appears in arcane glowing form, closer to the na
 
 Then there is Margrel who is now established to oppose Owlites and was banished into the Underworld with the Book of Grey Feathers. Posseion of the purple seal may suggest him being marked by it, yet the color itself coupled with the Gran Faunt may be interrpreted as technology of Underworld.
 
-__Dread Seal's appearance is similar to the Taoist Fu talisman__. The talisman is placed by a priest on certain type of ghosts named __Jiangshi in Chinese folklore__, its forehead, _in order to hinder it_. The comparison to Jiangshi emerges from a similar pattern of talisman's placement for Carnavons, as Carnavons are most humanoid among entities bearing the seal, other than the Isoran knights themselves.
+__Dread Seal's appearance is similar to the Taoist Fu talisman__. The Fu talisman is placed by a priest on certain type of ghosts named __Jiangshi in Chinese folklore__, specifically their forehead _in order to hinder them_. The comparison to Jiangshi emerges from a similar pattern of talisman's placement for Carnavons, as Carnavons are most humanoid among entities bearing the seal, other than the Isoran knights themselves, and kats.
 
 This similarity creates subsequent implications, yet they depend onto 2 interpretations of seal's owner, _whether it is created by owlites or fiends_.
 
@@ -6125,11 +6125,11 @@ From this initial overview of the seal 3 following interpretations may be presen
 
   Carnavons had to appear later into the timeline, but before emergence of Kat Tribe, as owlites would be ones to encounter Caranvons in order for Dread Seals to be placed. This would also require existence of Carnavons in the past and subsequent curse-driven conditions for them to emerge, other than [twice-cursed Almirian Empire in the present](#almirian-empire).
 
-  As Black Kats summon Carnavons, we can assume an event which had to tie both species by their cursed metaphysical state across time, unless source of Carnavons' origin had existed in the past, to the point of considering Shadow Firestorm Citadel to be a true depiction of the state kingdom of Almire was left in, until we can properly evaluate each Shadow Lair variant of those locations.
+  As Black Kats summon Carnavons, we can assume an event which had to tie both species by their cursed metaphysical state across time.
 
 - Dread Seals belongs to Owlites.
 
-  Margrel and the rest of Black Kats at some point in time had to be marked with the seal. In this case the paeriod when they would have been marked is _after the Kataclysm or in the Underworld_ from where they were summoned.
+  Margrel and the rest of Black Kats at some point in time had to be marked with the seal. In this case the period when they would have been marked is _after the Kataclysm_ as it is the likely initial cause for kats' transfomration and separation onto black kats and spookats.
 
   This narrative groups creation of warding candles and seals under a speculated period of time prior to collapse of owlite civilization and _after the Kataclysm_.
 
@@ -6139,9 +6139,9 @@ From this initial overview of the seal 3 following interpretations may be presen
 
   Presence of pale, curse-colored seal on Faust is a more refined iteration on the seal as Underworld's creation.
 
-  Yet, this interpretation does not provide a surface-level answer to the reason why the seal was placed onto Black Kats and Carnavons, __unless the seal does not inherit the warding proprties of the Fu talisman__.
+  Yet, this interpretation does not provide a surface-level answer to the reason why the seal was placed onto Black Kats and Carnavons, _unless the seal does not inherit the warding propreties of the Fu talisman_, __but marks presence of curse__.
 
-Prior 2 instances create a requirement for a period of time, when Owlites had to persist for a finte amount of time after the Kataclysm. Even if Carnavons would be marked with the seal before the Kataclysm, Kat Tribe remains, _who are summoned from the Underworld_.
+Prior 2 instances where the seal belongs to owlites create a requirement for a period of time, when Owlites had to persist for a finite amount of time after the Kataclysm. Even if Carnavons would be marked with the seal before the Kataclysm, Kat Tribe remains, _who are summoned from the Underworld_.
 
 _Given presence of evil eye symbolism on the Chaos Cloak,_ as well as its resistances, we assume, that it would be the reason for a major advancement in understanding of curse and general cosmology by owlites, but at that point, it offers only an _acknowledgement by owlites of curse and its relations to established metaphysics as being capable to be countered with divine power_.
 
@@ -6149,11 +6149,19 @@ _Given presence of evil eye symbolism on the Chaos Cloak,_ as well as its resist
 
 It is here a concept of inverted curse should be brought up. Yellow evil eye and dread seal are present on the [Divine Avenger](https://wiki.spiralknights.com/Divine_Avenger).
 
-Compared to the Dread Seal of purple color, golden variation of the seal with higher probability belongs to heavenly kingdom due to design change and association through color with divinity.
+Compared to the Dread Seal of purple color, golden variation of the seal most plausibly belongs to heavenly kingdom due to design change and association of color with divinity.
 
-If Faust and Dread Seal are created by Underworld, th yellow variation would be placed in opposition to them.
+If Faust and Dread Seal are created by Underworld, the yellow variation must reflect those properties with a benevolent purpose as it is attributed to a faction of celestial beings.
 
 The creators of the Avenger line of swords would be required to possess extensive knowledge of curses which we assume at that point to be owlites through observed instances of the symbol of evil eye being used in conjunction with more direct cases of interraction with curse, such as armors -- [Divine Mantle](https://wiki.spiralknights.com/Divine_Mantle) and [Chaos Cloak](https://wiki.spiralknights.com/Chaos_Cloak).
+
+Within this dual perspective on the seal, we suggest a tangible function for the seal which would be relatively unchanged between curse and divinity. If it was placed with purpose, through logic of Underworld, it would not function as a benevolent suppressive mechanism, as it was derived from the Fu talisman, but rather it focuses inherent presence in a general direction:
+
+- As it was [sealing of elemntal souls for elemental lumbers](#lumbers-as-constructs)
+- Sealed sword is not allowed to emit its power
+- But sealed Faust and Avenger are closer to lumbers in their reaction to the seal as the __focal point of contined power__, which would not be required when the _underlying technology is perfected_ in the form of corresponding 5-star variants devoid of seals.
+
+Through this common element we can arrive to a more precise identity of the Dread Seal, as one of __restriction__. The difference from the Fu talisman exists in the neutral nature of this type of restriction, __not made from divine nor from curses__, _which bridges it with the chaos of Nameless Realm and its association with all of elements including curses_.
 
 #### Miracles and Divinity
 
@@ -6484,15 +6492,9 @@ Assuming Owlites, as the heavenly kingdom above the mountains, had witnessed the
 
 In regards to the canon presence of Carnavons, as we noted on the owlite castles themsevles, we should elaborate of a particularly speculative exlanation for zombies' presence across Owlie Academy: one where Lord Vanaduke could've begun an invasion into the heavenly kingdom with his undead army of legions of Almire -- but such proposal contradicts with multi-elemntal theme of zombies across Candlestick Keep, or, those zombies are Owlites which would be Isorans in nature, countrary to our attempt to [resolve the true identity of owlites and valkyries](#final-distinction-between-valkyries-and-owlites).
 
-##### Dread Seal: Part 2
+##### Curse And Opposition To Nature
 
-Through this logic we reach the Dread Seals and ones who bear it. In previous analysis we came to a concept of [the seal as suppressive of magic](#dread-seal-part-1-suppression-magic).
-
-Dread Seals are acquired from the [Katastrophe Prize Box](https://wiki.spiralknights.com/Katastrophe_Prize_Box), meaning, that it is associated with Owlites, to a degree. In the accompanied [news art](https://wiki.spiralknights.com/News/2014), dread seal is placed on the Black Kat Mask, - reminiscent of Margrel, as the [Cowl](https://wiki.spiralknights.com/Black_kat_helm) is acquired from him and Margrel bears the seal on his forehead.
-
-No less important the fact that it is in a set with the Chaos Cloak. Weather or not this design choice is canon, the fact that evil eye makes itself present on Owlite's Chaos Cloak may serve as a link to other Owlite researches regarding nature of curse, as discussed in detail starting from the [Kat Tribe chapter](#chapter-viii-kat-tribe).
-
-As the Chaos Cloak is forbidden, the dread seal placed with it seem to suggest it being a mark of danger, or a restriction. As discussed earlier, __Dread Seal's design is closely similar to the known design of the Fu talisman__, _meant to hinder a supernatural entity_. It is placed by a priest. We have assumed those priests being the gunslinger priests of heavenly kingdom, of originally valkyries, as those a deeply connected to concept of divinity. If those were not gunslinger priests in particular, Valkyries in general, as a civilization, are closely associated with divinity through terms like paradise and heavenly kingdom.
+Through this logic we reach the Dread Seals and ones who bear it. In previous analysis we came to a concept of [the seal as restrictive](#dread-seal-part-1-suppression-magic) to one bearing it, allowing only few means of emitting its influence.
 
 Then it is the roster of the [Katastrophe Prize Box](https://wiki.spiralknights.com/Katastrophe_Prize_Box) which we have to discuss. Items, attributes to Margrel due to their design all have "Dread" used to characterize them:
 
@@ -6500,26 +6502,29 @@ Then it is the roster of the [Katastrophe Prize Box](https://wiki.spiralknights.
 - [Dread Wings](https://wiki.spiralknights.com/Dread_Wings)
 - [Dread Seal](https://wiki.spiralknights.com/Dread_Seal)
 
-Dreadful aura and wings possess a design, which is loosely reminiscent of trojans, - of a cracked, stone-like form, with pink curse glow from within. But the distinctive feature of Margrel's undead form is the shivering and dark purple color, characteristic of all Black Kats, which makes the dread design to belong to Margrel and meant to be associated with him.
+Dreadful aura and wings possess a design, which is loosely reminiscent of trojans, -- of a cracked, stone-like form, with pink curse glow from within. But the distinctive feature of Margrel's undead form is the shivering and dark purple color, characteristic of all Black Kats, which makes the dread design to belong to Margrel and meant to be associated with him.
 
-Yet, the above point of a relation to trojans makes sense, but in a different context, - as a _pattern or a trail of curse's involvement_. As far as common design patterns related to curse go, trojans follow them with 2 exceptions: their color is bright pink and they don't inflict curse.
+Yet, the above point of a relation to trojans makes sense, but in a different context, as a _pattern or a trail of curse's involvement_. As far as common design patterns related to curse go, trojans follow them with 2 exceptions: their color is bright pink and they don't inflict curse.
 
 As Undead family of monsters is affected or imbued by the curse, Black Kats, Margrel most prominently, and Carnavons, are ones to be empowered by the condition. And Darkfire Lord Vanaduke, but he lacks the seal present.
 
-Then, there is [Faust](https://wiki.spiralknights.com/Faust). It has the seal, yet its color is different, more __sickly pink__, with [Gran Faust](https://wiki.spiralknights.com/Gran_Faust) being the closest to trojans' color of flames of bright pink. This sick color of pink is reminiscent of the dread cracks left of dread aura - which __might mark it as one of canonic manifestations of curse in the material realm__.
+Then, there is [Faust](https://wiki.spiralknights.com/Faust). It has the seal, yet its color is different, more __sickly pink__, with [Gran Faust](https://wiki.spiralknights.com/Gran_Faust) being the closest to trojans' color of flames of bright pink. This sick color of pink is reminiscent of the dread cracks left of dread aura which __might mark it as one of manifestations of curse in the material realm__.
 
-Given application of Crest of Ur in Gran Faust, symbolically, we might have to reconsider trojans as not only transformed Wardens, but curse-bearing, [semi-sentient fiends](#silent-legion), similar to [Darkfire Lord Vanaduke](#nature-of-darkfire), as suggested by his greeting of the knight as if the war was still ongoing: `
-What's this? More wolves hungry for the blood of Almire? Our great kingdom shall never fall to the likes of beasts!` ([Firestorm Citadel - Throne Room - Lord Vanaduke](https://wiki.spiralknights.com/Lord_Vanaduke)) and `He doesn't even realize that what he is trying to protect was lost a thousand years ago` ([Alone in the Dark - Final Resting Place - Lost Soul of Almire](https://wiki.spiralknights.com/Lost_Soul_of_Almire_(nameless))).
+Given application of Crest of Ur in Gran Faust, symbolically, we might have to reconsider trojans as not only transformed Wardens, but curse-bearing, [semi-sentient fiends](#silent-legion), similar to [Darkfire Lord Vanaduke](#nature-of-darkfire), as suggested by his greeting of the knight as if the war was still ongoing:
+- `What's this? More wolves hungry for the blood of Almire? Our great kingdom shall never fall to the likes of beasts!` ([Firestorm Citadel - Throne Room - Lord Vanaduke](https://wiki.spiralknights.com/Lord_Vanaduke)).
+- `He doesn't even realize that what he is trying to protect was lost a thousand years ago` ([Alone in the Dark - Final Resting Place - Lost Soul of Almire](https://wiki.spiralknights.com/Lost_Soul_of_Almire_(nameless))).
 
-With the prior knowledge on Black Kats, Almire and [application of Dread Seal design in Owlite technology](#dread-seals), we will present the last argument in favour of dread seals being created by Owlites.
+<!--With the prior knowledge on Black Kats, Almire and [application of Dread Seal design in Owlite technology](#dread-seals), we will present the last argument in favour of dread seals being created by Owlites.-->
 
-Carnavons possess __a painted dark-pink curse symbol on their blackened shields__. This is closely similar to the design of a cursed Isoran knight, as his gear - weapons, - are marked with similar, a proper eye symbol, albeit from a perspective of HUD, preventing usage of weapons. Presence of the dread seal on the front could be explained plausibly by its nature to restrict the curse, which seems as a benevolent action. And yet, the symbols on the back do differ and the color of seals themselves is different. Seemingly, one of those or both spells plus origin of Carnavons is responsible for its cursed state and capacity to _breath out curse_.
+We have already arrived to those conclusion though an [idea of trojans being deceived]().
 
-This act of protection would coincide with Owlites' actions of Warding Candles being placed, as another measure to defend against Underworld. We will also add here purification of Gran Faust into the Divine Avenger, as this is an act of turning curse into divine property.
+Carnavons possess __a painted dark-pink curse symbol on their blackened shields__. This is closely similar to the design of a cursed Isoran knight, as his gear - weapons, -- are marked with similar, a proper eye symbol, albeit from a perspective of HUD, preventing usage of weapons. Presence of the dread seal on the front could be explained plausibly by its nature to restrict the curse, which seems as a benevolent action. And yet, the symbols on the back do differ and the color of seals themselves is different. Seemingly, one of those or both spells plus origin of Carnavons is responsible for its cursed state and capacity to _breath out the curse_.
 
-In relation to Almire, the seal could be placed onto Carnavons to hinder them. _The only time this would chronologically fit, is when Owlites had to confront the undead Almirian Empire_, which conflicts with idea of Almire remaining as it is, without invasion of the heavenly kingdom happening. But, as much as this plot would seem fitting, _we do not see it as the case here_, as no evidence, apart from undead being present in the academy, there are.
+<!--This act of protection would coincide with Owlites' actions of Warding Candles being placed, as another measure to defend against Underworld. We will also add here purification of Gran Faust into the Divine Avenger, as this is an act of turning curse into divine property.-->
 
-As far as the setting allows, as presence of the seal is found on the Faust, whose color is practically unique, the __idea of Dread Seal being an Underworld development__ raises far less conflicts. This proposal we will explore next.
+<!--In relation to Almire, the seal could be placed onto Carnavons to hinder them. _The only time this would chronologically fit, is when Owlites had to confront the undead Almirian Empire_, which conflicts with idea of Almire remaining as it is, without invasion of the heavenly kingdom happening. But, as much as this plot would seem fitting, _we do not see it as the case here_, as no evidence, apart from undead being present in the academy, there are.-->
+
+As far as the setting allows, as presence of the seal is found on the Faust, whose color is practically unique, the __idea of Dread Seal being an Underworld development__ raises far less conflicts.
 
 ##### Color-coded Citadel
 
