@@ -31,7 +31,7 @@ layout: entries_rebis
 <em>Worldbuilding and Mythology of Spiral Knights.</em>
 </SubTitleCentered>
 
-Spiral Knights ficional setting had proven to be able to captivate years after its release. In this analysis we aim to provide an exhaustive answer what makes Spiral Knights succeed in this area through a popularized approach of discussing its worldbuilding and the story.
+Spiral Knights ficional setting had proven to be able to captivate years after its release. In this study we aim to provide an exhaustive answer what makes Spiral Knights succeed in this area through a popularized approach of analyzing its worldbuilding and story.
 
 We will present a set of narrative devices and tropes within a constructed system of symbols the setting may have utilized to present an immersive and believable aesthetics of a fictional universe.
 
@@ -44,6 +44,8 @@ The present analysis is meant to identify, analyze and explore worldbuilding, th
 As fiction is set in its own separate reality, it can imitate depth of its world only far enough by obfuscating its boundaries up to a certain limit. By exploring the volume a fiction offers, we intend to identify the __underlying system__ of narrative, thematic and symbolic relations between devices and tropes, -- the bonding quality, found through aesthetics, _which allows for setting's ability to captivate_ as a fictional world, a gamified microcosm, a story, and a reflection of real-world cultures.
 
 The other goal we aim to achieve is the preservation, or more precisely, _documentation of the aforementioned system_ of narratives, their intersecting elements, and identification of its design principles.
+
+It is important to emphasize that the approach we took falls short in its excess length and lacks academic and theoretical foundations of game design.
 
 ### Approach to Worldbuilding
 
@@ -6522,50 +6524,50 @@ As far as the setting allows, as presence of the seal is found on the Faust, who
 
 ##### Color-coded Citadel
 
-Dark Embers are acquired for Almirian Seal tokens, are said to be `salvaged from Lord Vanaduke's throne room. It slowly smolders with a sinister intensity, creating an almost hypnotic trance when gazed upon for any length of time` ([Dark Ember](https://wiki.spiralknights.com/Dark_Ember)), which would only be thematically fitting - through color purple, - if the entire Citadel was of that theme, so their presence in the regular fiery Citadel would be odd, or implying existence of the shadow variant.
+Dark Embers are acquired for Almirian Seal tokens, are said to be `salvaged from Lord Vanaduke's throne room. It slowly smolders with a sinister intensity, creating an almost hypnotic trance when gazed upon for any length of time` ([Dark Ember](https://wiki.spiralknights.com/Dark_Ember)) which would be only possible after Vord Vanaduke's defeat and period of time following after in order for Spiral Order to `salvage` the embers.
 
-But, it is the only this distinct evidence of, supposedly, darkfire existing outside of Shadow Lairs and color of fire in the fire bowls.
+Then it is _purple color of the embers themsevles_ which should be justified to exist within the Citadel under Vog's single curse, unless it is means to be found in the Shadow Firestorm Citadel of two curses leading to characteritic purple color and [creation of darkfire, to which we have initially attributed those embers](#nature-of-darkfire).
 
-It was previously discussed that Vog's fiery curse, the reason for Vog Cubs' existence, is the other curse related to fire. Through this logic we followed to the idea of darkfire being a distinct phenomenon in the [nature of darkfire section](#nature-of-darkfire).
+If dark embers are found in Vog's cursed Firestorm Citadel -- through essential presence color purple, -- they must possess a reason for this shift in color while coexisting with Vog's cursed version of Lord Vanaduke devoid of darkfire.
 
-There, we have presented 2 proposal to the nature of darkfire - a regular by now variant of curse found across Underworld-adjacent regions of Clockworks, and a distinct creation emerging from Vog's curse being overtaken by different Underworld's curse. As darkfire would not have a reason to exist in the throne room engulfed by regular fire, which is a paraphrasing of the thematic inconsistency, if not framed into a context of Darkfire Lord Vanaduke's mask curse-colored fire soul, as a distinct and unique phenomenon.
+<!--But, it is the only this distinct evidence of, supposedly, darkfire existing outside of Shadow Lairs and color of fire in the fire bowls.-->
 
-It was stated that army within the Citadel was transformed - that would eventually mean that all Slag Walkers had turned into Carnavons. Yet both are present across Clockworks outside of Shadow Lairs. Carnavons are summoned by Black Kats, which are themselves summoned by the dark ritual which can pull banished entities from the Underworld, such as trojans.
+<!--It was previously discussed that Vog's fiery curse, the reason for Vog Cubs' existence, is the other curse related to fire. Through this logic we followed to the idea of darkfire being a distinct phenomenon in the [nature of darkfire section](#nature-of-darkfire).-->
 
-This, so far, creates 2 interpretation of the Shadow Firestorm Citadel:
+As we were discussing [nature of darkfire](#nature-of-darkfire), we have presented 2 proposal -- a regular by now variant of curse found across Underworld-affected regions of Clockworks, or, a distinct phenomenon emerging from being affected by Vog's curse being overtaken by Underworld's curse. It comes to an idea that darkfire as dark embers would not have a reason to exist in the throne room engulfed by regular shadow fire.
 
-- It is the latest state Citadel is found, followed by the events of [Shadowplay]().
+With this we can present 2 interpretations of Shadow Firestorm Citadel:
 
-  Carnavons being marked by Dread Seals here could be only be explained by, either:
-
-  - Inhabitants of heavenly kingdom still existing in order to place those seals.
-  - Carnavons existing prior to present events, which would contradict the idea of regular Firestorm Citadel.
-
-  Or, dread seals are of Underworld's origin, being applied by fiends onto creatures within the material realm.
 - Shadow Firestorm Citadel is an anomaly unexplainable by currently known logic, existing in parallel to Firestorm Citadel.
 
-    The 2 issues of this explanation come from the idea of Lord Vanaduke being potentially resurrected, and that an entire copy of the Citadel should exist on Cradle likely past its capture by the Core - which makes the Core and related to it entities to be related to a phenomenon of duplicate castles.
+  The primary issue of this explanation comes from the idea of both citadels coexiting by currently unknown means, reminiscent of battle sprites justification. This existence includes the causality within the citadel such as of Nature Sprites and Lord Vanaduke remaining unaffected by the events of regular Firestorm Citadel. Yet, the Shadow Firestorm Citadel _would coexist_ within volume of Clockworks as a copy of the regular Firestorm Citadel within volume of Clockworks with an access to Unknown Passage.
+
+  On the other hand, the Shadow Firestorm Citadel may be the true citadel being cursed twice, while the regular Firestorm Citadel becomes the copy.
+
+- Shadow Firestorm Citadel is the latest state Citadel is found in the timeline, followed _after_ the events of [Shadowplay]() and its overgrown variant.
+
+  The application of curse by the Underworld-adjacent party is then performed after Dreams and Nightmares. Given open-ended nature of those events and paramount shift of status quo of Core openning coupled with presence of Shadow Firestorm Citadel within the Shadow Lairs __creates a narrative of those events being set, potentially, in the future__.
 
 As both of those explanation are incomplete, we have to discuss 3 currently existing variants of the Firestorm Citadel in order to categorize most of their differences for our investigation.
 
-##### Firestorm, Greenstone, Darkfire Citadel
+##### Citadel, Captured at Three Points in Time: Firestorm, Greenstone, Darkfire Citadel
 
-To start off, there are differences between Firestorm, 'Darkfire' Shadow Firestorm Citadel, and 'Greenstone' Citadel of Shadowplay.
+There are differences between Firestorm, Darkfire or Shadow Firestorm Citadel, and Greenstone Citadel of Shadowplay.
 
-Designs of Greenstone Citadel and Firestorm Citadel are essentially the same. The _Overgrown Court has a part of Ashen Armory fallen to its depth_, which coincides with the general structure of Greenstone Citadel's less stable state, as it crumbles: `We all sensed the moment you defeated Vanaduke. The entire citadel shook as he fell and for a moment we thought that this realm would be destroyed along with its ruler. You must be careful wandering these halls with the place coming apart like this!` ([Shadowplay - Overgrown Court - Nature Sprite](https://wiki.spiralknights.com/Shadowplay/Overgrown_Court)). There is also a case of armory located below the Court, which would make the levels to change depths, or ascent. But those nuances are unimportant currently.
+Designs of Greenstone Citadel and Firestorm Citadel are generally indistinguishable. The _Overgrown Court has a part of Ashen Armory fallen or elveated to its depth_, depending on the positioning of the citadel and gravity across Clockworks, which coincides with the general structure of Greenstone Citadel's less stable state, as it crumbles, `We all sensed the moment you defeated Vanaduke. The entire citadel shook as he fell and for a moment we thought that this realm would be destroyed along with its ruler. You must be careful wandering these halls with the place coming apart like this!` ([Shadowplay - Overgrown Court - Nature Sprite](https://wiki.spiralknights.com/Shadowplay/Overgrown_Court)).
 
-There are notable elements within the Shadow Firestorm Citadel, which frame it in s similar light:
+There are notable elements within the Shadow Firestorm Citadel which charaterize it both as _more detailed and more structurally unstable_:
 
-- Much larger in quantity presence of metal chains. All chains, both positioned in the same places as in the regular citadel and ones added in those depth are much larger. Those chains also possess a darker color, reminiscent of the Blackened Crest by its name.
-- More arches present across the buildings surrounding the main area of depths, a less notable architectural change, but one that exists.
-- Presence of wooden watchtowers and their usage as, seemingly, reinforcements for the brickwork structure of the buildings.
-- Almirian tapestry in several instances across the Shadow Firestorm Citadel is much larger in scale, as the aforementioned chains.
-- Most of fire bowls have their yellow fire replaced with purple, which we suggested to be dark embers and dark fire, as the same design is present in relation to undead locations, which also was a contributor to nature of darkfire as a regular phenomenon out of Underworld.
-- Grim totems are more deeply integrated into the designs of Shadow Firestorm Citadels. They are secured by the brickwork itself.
+- Much larger in quantity presence of _metal chains_. All chains, both positioned in the same places as in the regular citadel and ones appearing in those depth are much larger. Those chains also possess a darker color, reminiscent of the Blackened Crest by its name.
+- More arches present across the buildings surrounding the main area of depth, a less notable architectural change, but one that exists.
+- Presence of wooden watchtowers and their usage as, seemingly, _structural reinforcements for the crumbling brickwork of the buildings_, as it is seen across a few intances of choice to traverse the Firestorm citadel being severed in case of Shadow Firestorm Citadel.
+- Almirian tapestry in several instances across the Shadow Firestorm Citadel is much larger in scale, as much as the aforementioned chains.
+- Most of fire bowls have their yellow fire replaced with purple which we initially suggested to be dark embers, as the same design is present in relation to undead locations, which also was a contributor to nature of darkfire as a regular phenomenon out of Underworld.
+- Grim totems are more _deeply integrated into the architecture_ of Shadow Firestorm Citadel. They are secured in-place.
 
-  In both regular and shadow citadel, presence of totems is questionable, apart from game design perspective as undead levels. Unless, those were introduced by devilites, but in the Shadow variant of the Citadel they are far more evidently placed with a strategic purpose to assist perished undead almirians.
+  If the totems are introduced to the citadel by Underworld, then a connection between Shadow Firestorm Citadel as emergent from curse and the perpetrators as Underworld-adjacent becomes more distinct as in case of Shadow Firestorm Citadel __totems are placed far more strategically__ implying an in-universe intent by the party which had placed those totems in the first place.
 
-- Far more areas are blocked off by wooden and brickwork debris, areas, designated to specific depths or route variations in it, are collapsed in a haphazard manner, with extending passages being broken off.
+- Far more areas are blocked off by wooden and stone debris. Those areas were designated to be specific routes to traverse the citadel. Now they are collapsed while __extending passages at the edges of the citadel are broken off__.
 
 ##### Darkfire Lord Vanaduke and Damnation through curse
 
