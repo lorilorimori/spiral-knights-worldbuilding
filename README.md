@@ -1,8 +1,4 @@
-# Narratology and Speculative Fiction of Spiral Knights
-
-> Burning stars: worldbuilding and mythology of Spiral Knights
-
-This repository contains the source document - [`src/lib/burning_stars.mdx`](./src/lib/burning_stars.mdx), - and the additional materials to the analysis, which make up this repository for an entartainment-oriented medium of a webpage.
+This repository contains the source document - [`src/lib/burning_stars.mdx`](./src/lib/burning_stars.md), - and the additional materials to the analysis, which make up this repository for an entartainment-oriented medium of a webpage.
 
 ## Webpage
 

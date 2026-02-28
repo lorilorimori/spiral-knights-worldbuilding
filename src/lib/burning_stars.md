@@ -28,12 +28,10 @@ layout: entries_rebis
 </h1>
 
 <SubTitleCentered>
-<em>Worldbuilding and mythology of Spiral Knights.</em>
+<em>Worldbuilding and Mythology of Spiral Knights.</em>
 </SubTitleCentered>
 
-Spiral Knights had proven to be able to captivate as a setting and a story. In this analysis we aim to provide an exhaustive answer why Spiral Knights succeeds in those areas and from which of its components and their chemistry setting's worldbuilding potential emerges.
-
-<!--Then we indent to indentify how answers to those questions render Spiral Knights' setting as a _postmodern heroic epic_.-->
+Spiral Knights ficional setting had proven to be able to captivate years after its release. In this analysis we aim to provide an exhaustive answer what makes Spiral Knights succeed in this area through a popularized approach of discussing its worldbuilding and the story.
 
 We will present a set of narrative devices and tropes within a constructed system of symbols the setting may have utilized to present an immersive and believable aesthetics of a fictional universe.
 
@@ -6520,11 +6518,7 @@ We have already arrived to those conclusion though an [idea of trojans being dec
 
 Carnavons possess __a painted dark-pink curse symbol on their blackened shields__. This is closely similar to the design of a cursed Isoran knight, as his gear - weapons, -- are marked with similar, a proper eye symbol, albeit from a perspective of HUD, preventing usage of weapons. Presence of the dread seal on the front could be explained plausibly by its nature to restrict the curse, which seems as a benevolent action. And yet, the symbols on the back do differ and the color of seals themselves is different. Seemingly, one of those or both spells plus origin of Carnavons is responsible for its cursed state and capacity to _breath out the curse_.
 
-<!--This act of protection would coincide with Owlites' actions of Warding Candles being placed, as another measure to defend against Underworld. We will also add here purification of Gran Faust into the Divine Avenger, as this is an act of turning curse into divine property.-->
-
-<!--In relation to Almire, the seal could be placed onto Carnavons to hinder them. _The only time this would chronologically fit, is when Owlites had to confront the undead Almirian Empire_, which conflicts with idea of Almire remaining as it is, without invasion of the heavenly kingdom happening. But, as much as this plot would seem fitting, _we do not see it as the case here_, as no evidence, apart from undead being present in the academy, there are.-->
-
-As far as the setting allows, as presence of the seal is found on the Faust, whose color is practically unique, the __idea of Dread Seal being an Underworld development__ raises far less conflicts.
+As far as the setting allows, as presence of the seal is found on the Faust, whose color is practically unique, the __idea of Dread Seal being an Underworld development__ becomes less conflicting.
 
 ##### Color-coded Citadel
 
