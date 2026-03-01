@@ -4975,11 +4975,9 @@ And yet, despite seeming difference between the two curses, both originate from 
 
 #### Lord Vanaduke's Mask and Immortality Through Curse
 
-The exact nature of Blackened Shrine is unknown, although, as we have identified a distinction between undercorp designs and occult Underworld designs, it is very likely a fiendish instrument fashioned in pagan or occult manner and capable of inducing a tranformation through a link with an Underworld deity.
+The exact nature of Blackened Shrine is unknown, although, as we have identified a long-standing distinction between Undercorp designs and Underworld occult designs, it is very likely a fiendish instrument fashioned in pagan or occult manner and capable of inducing a tranformation through a link with an Underworld deity.
 
-We suspect it being similar to grim totems, which are the only fiendish objects, capable of resurrecting zombies from their own skulls, other than Dreadnoughts.
-
-In the [analysis of grim totems](#grim-totems-part-1) we proposed that they tether recently departed souls back to the bearer through its skull, as [skulls are haunting by lost souls](#lost-souls-with-skulls) shows that they are the primary seat of the souls within a [corporeal body](#corporeal-body).
+In the [analysis of grim totems](#grim-totems-part-1) we proposed that they tether recently departed souls back to the bearer through its skull, as [skulls are haunting by lost souls](#lost-souls-with-skulls) shows that __they are the primary seat of the souls__ within a [corporeal body](#corporeal-body).
 
 This theory may explain the operational and metaphysical principle behind Lord Vanaduke's mask as it is stated: `Our sensors show the mask is a source of power as well as a potential weakness` ([Monstrous Codex: Lord Vanaduke](https://wiki.spiralknights.com/Vanaduke#About)).
 
@@ -6571,9 +6569,9 @@ There are notable elements within the Shadow Firestorm Citadel which charaterize
 
 ##### Darkfire Lord Vanaduke and Damnation through curse
 
-Darkfire Lord Vanaduke's design _differs greatly_ from Lord Vanaduke of Firestorm Citadel.
+The apperarance of Darkfire Lord Vanaduke differs significantly from Lord Vanaduke of Firestorm Citadel.
 
-We start of from the interpretation of the quote `His soul bound to some horrific armored prison` ([Alone in the Dark - Lost Soul of Almire](https://wiki.spiralknights.com/Lost_Soul_of_Almire_(nameless)#Dialogue)) as `some horrific armored prison` being the armor Lord Vanaduke has being equipped. Coupled with significance of his mask as visage of Vog as source of power, a unique artifact, and body horror aspect of his condition while cursed, the addition of his armor as Darkfire Lord Vanaduke being __restored to a prestine state and altered significantly to depict a more intricate design__ _creates a more so unique state of being_.
+We start of from the interpretation of the quote `His soul bound to some horrific armored prison` ([Alone in the Dark - Lost Soul of Almire](https://wiki.spiralknights.com/Lost_Soul_of_Almire_(nameless)#Dialogue)) as `some horrific armored prison` being the armor Lord Vanaduke had equipped. Coupled with significance of his mask as container for his soul, a unique artifact, and body horror aspect of his condition while cursed, the addition of his armor as Darkfire Lord Vanaduke being __restored to a prestine state and altered significantly to depict a more intricate design__ _creates a more so unique state of being_.
 
 We can identify the distinct design changes of Darkfire Lord Vanaduke:
 
@@ -6807,45 +6805,41 @@ A restriction manifests through application of a seal, in a most basic form, as 
 
 A more nuanced relation of curse and constructs is seen in tortodrones, whose shell hides charged crimsonite or dark matter. Given previous motifs, we propose, that carved eyes on the shells are meant to surround the power pistons and contain the mineral as it is drained as power source by the pistons.
 
-In case of corrupted tortodrones, due to presence of dark matter, and tempering by Undercorp, a more advanced method of containment is used - that of ritual circle devised to contain the encircled object. As mineral pillars are secured by sigils within a pentacle, so those sigils are carved onto the shells. Given case of lumbers, the prior technique seems less developed, as it was used primarily by civilization of material realm, see the case of Faust and Sealed Sword.
+In case of corrupted tortodrones, due to presence of dark matter, and tempering by Undercorp, a more advanced method of containment is used -- that of ritual circle devised to contain the encircled object. As mineral pillars are secured by sigils within a pentacle, so those sigils are carved onto the shells. Given case of lumbers, the prior technique seems less developed, as it was used primarily by civilization of material realm, see the case of Faust and Sealed Sword.
 
-So, we settle with an idea of fiendish, more complex mechanism of securing mineral, power source, through the system, derived from The Key of Solomon the King, rather that simpler creating of rudimentary seals.
+We offer an idea of fiendish, more complex mechanism of securing mineral, power source, through the system, derived from `The Key of Solomon the King` in the form of [warding properties of Circles of Art]() comparable to rudimentary seals with the eye imagery.
 
-The role of Gorgofist than starts to make sense - this is a dark matter weapon, but it lacks sigil carvings, instead possessing eyes of ancient shells - as it is not devised by Undercorp, but, most likely, reverse engineered.
+The role of Gorgofist than starts to make sense -- this is a dark matter weapon, but it lacks sigil carvings, instead possessing eyes of ancient shells -- as it is not devised by Undercorp, but tortomega and then Isorans.
 
-#### Physical Transformation
+<!--#### Physical Transformation and Body Horror-->
 
-The more curse is integrated into nature of an affected entity, the more this entity becomes detached from properties of material realm and approaches the nature of Underworld, going through a process of transformation of a body, but not of the soul. The body in the Underworld is malleable, as suggested by origin of gorgos. The soul is universal, as it is the medium of energy.
+<!--From those entities which are most affected by curse, we believe, are trojans of legion of Ur, Arkus, Black Kats, and Lord Vanaduke. If the bearer of the curse was dead, the soul would leave it, with only traces remaining, as discussed in [haunting section](#haunting).-->
 
-From those entities which are most affected by curse, we believe, are trojans of legion of Ur, Arkus, Black Kats, and Lord Vanaduke. If the bearer of the curse was dead, the soul would leave it, with only traces remaining, as discussed in [haunting section](#haunting). But, on Cradle the soul can be tethered to a body through external means, which we had concluded being the presence of the Core. There is also Underworld, which, through Undercorp keeps operating subtly.
+<!--This process of bounding of a souls for constructs is achieved though application of a seal, described above. It seems that the seal has the same property as Owlite texts, through presence of specific symbol, which by the fact of being written, grant the underlying matter power across multiple realms. Same can be thought of the fiendish ritual circles, as their pattern defines their properties and function.-->
 
-This process of bounding of a souls for constructs is achieved though application of a seal, described above. It seems that the seal has the same property as Owlite texts, through presence of specific symbol, which by the fact of being written, grant the underlying matter power across multiple realms. Same can be thought of the fiendish ritual circles, as their pattern defines their properties and function.
+<!--The curse can be transformed into a heavenly magic, as seen in the Divine Avenger. Yet, in its nature, curse is natural. It is an essential element of Underworld and Nameless Realm, which is perceived as curse in the material realm due to differences of laws of physics between those realms.-->
 
-The curse can be transformed into a heavenly magic, as seen in the Divine Avenger. Yet, in its nature, curse is natural. It is an essential element of Underworld and Nameless Realm, which is perceived as curse in the material realm due to differences of laws of physics between those realms.
+#### Immortality Through Curse
 
-#### Immortality through curses
+The more curse is _integrated into nature of an affected entity_, the more this entity becomes detached from properties of material realm and approaches the supernatural, going through a process of transformation of a body, its aura manifested, but not its soul which remains unaffected. The body in the Underworld is malleable, as suggested by origin of gorgos.
 
-In greater scope, evil eye is a sign of relation to Underworld, seen in such instances as Kat Tribe raiments and Collector's eye and explosion, which is reminiscent of the graviton and electron bombs.
+<!--In greater scope, evil eye related to Underworld and shadow damage, seen in such instances as Kat Tribe raiments and Collector's eye and explosion, which is reminiscent of the graviton and electron bombs.-->
 
-In that interpretation and arising notion, before delving into the Swarm, the curse has a tendency of giving greater power and flawed immortality in exchange for the change in nature of said beings, aligning them with the Underworld.
+In that interpretation and arising notion, before delving into the discussion about the Swarm, we suggest the curse is a method of bestowing greater magical and physical power and flawed immortality in exchange for the change in nature of the being, aligning them with the Underworld.
 
-The fiends themselves are immune to curse and incorporate it to the extremes as part of their physiology. Entities which incorporate [curse](https://wiki.spiralknights.com/Curse) to the fullest are weak to piercing or celestial/divine damage originating from Heavens, contained in the refined [Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore) - [Sun Silver](https://wiki.spiralknights.com/Sun_Silver), as they are identified as fiends.
+<!--The fiends themselves are immune to curse and incorporate it to the extremes as part of their physiology. Entities which incorporate [curse](https://wiki.spiralknights.com/Curse) to the fullest are weak to piercing or divine damage originating from Heaven, contained in the refined [Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore), [Sun Silver](https://wiki.spiralknights.com/Sun_Silver).-->
 
-Presence of the Celestial Ore and Sun Silver highlights the widespread presence in the material realm. It is the nature of Heavens which lies at their properties. The celestial, heavenly theme originates from the Nameless Realm or the realm Sprite Mother exists, it is the origin of souls and auras, which are the concrete cases of universal medium of energy, emerging from crystal and mist energy.
+<!--Presence of the Celestial Ore and Sun Silver highlights the widespread presence in the material realm. It is the nature of Heavens which lies at their properties. The celestial, heavenly theme primarily originates from identified location of Paradise, followed by the heavenly kingdom and realm of Spirit Mother. Those realms are primary candidates to being the source of souls and auras across the material relam which are the concrete cases of universal medium of energy emerging from mist energy.-->
 
-This energy flows from the upper Nameless Realm, settles in the material realm, and souls, after death of a host, depart into the Underworld. Within it, Apocrean Realm, Underworld proper and Blinding Abyss are all sustained by souls, or the energy.
+Previously established energy within souls and auras flows from the upper realms and settles in the material realm, and souls, after death of their corporeal body or aura, depart into the Underworld. Within it, Apocrean realm, Underworld, and Blinding Abyss exist, among which Apocrea realm exists as a force capable to capture souls more aggeressively.
 
-Due to this, it is the universality of energy which grants immortality, binding through curse a soul - a pocket of energy - to a corporeal body, allowing it to be _reanimated indefinitely_. Lingering of a souls manifests as shadow damage, as it is directed by an undeparted soul, with the body being a physical actor.
+Due to this, it is the universality of energy which grants immortality, binding through curse a soul, a pocket of energy, to a corporeal body, allowing it to be _reanimated indefinitely_, we suggest, emerges from the souls as the energy source or, potentially, a connection with the underworld as in case of [pink lightnings reaching material realm](). _Lingering of a souls manifests as shadow damage_, as it is directed by an undeparted soul, with the body being a physical actor.
 
 #### Alchemical Transmutation
 
-The thematic duality of chaos and nothingness is most present in dark matter mineral and Nameless Realm. Through this duality, curse is disregarded as any other natural phenomenon, one conforming to alchemical transmutation and laws of the universe.
+The thematic duality of chaos and nothingness is most present in dark matter mineral and Nameless Realm. Through this duality, we disregard _curse as a natural phenomenon_, one conforming to alchemical transmutation and laws of this Universe.
 
-The theme of this duality will be explored in the next chapter, fully deriving from alchemical meaning.
-
-It is then established how curse manifests itself in the material realm. So far we have seen a large set of possibilities of curse being applied or manifested. But, what if this concept to be expanded upon by asking a following question.
-
-How would curse manifest itself, if it to be presented to the Nameless Realm directly - how this concept of metaphysical restriction would behave itself when introduced to physics of a realm, which is supposedly the source of all energy, the foundation of the Universe and a raw material/energy for souls to manifest?
+The theme of duality will be explored in the next chapter, fully deriving from alchemical meaning.
 
 <center class="chapter-break">
   <span class="energy">☿</span>
