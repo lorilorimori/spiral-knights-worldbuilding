@@ -6825,15 +6825,26 @@ The more curse is _integrated into nature of an affected entity_, the more this 
 
 <!--In greater scope, evil eye related to Underworld and shadow damage, seen in such instances as Kat Tribe raiments and Collector's eye and explosion, which is reminiscent of the graviton and electron bombs.-->
 
-In that interpretation and arising notion, before delving into the discussion about the Swarm, we suggest the curse is a method of bestowing greater magical and physical power and flawed immortality in exchange for the change in nature of the being, aligning them with the Underworld.
+In that interpretation and arising notion, before delving into the discussion about the Swarm, we suggest the curse is a method of bestowing greater magical, physical power, and immortality, in exchange for the change in nature of the being, aligning them with the Underworld. This change manifests as tethering of the souls to a body, usually remaining in the material realm, but also imbues the body with either fiendish or udead physiology, characteristic of inhabitants of Underworld.
 
 <!--The fiends themselves are immune to curse and incorporate it to the extremes as part of their physiology. Entities which incorporate [curse](https://wiki.spiralknights.com/Curse) to the fullest are weak to piercing or divine damage originating from Heaven, contained in the refined [Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore), [Sun Silver](https://wiki.spiralknights.com/Sun_Silver).-->
 
 <!--Presence of the Celestial Ore and Sun Silver highlights the widespread presence in the material realm. It is the nature of Heavens which lies at their properties. The celestial, heavenly theme primarily originates from identified location of Paradise, followed by the heavenly kingdom and realm of Spirit Mother. Those realms are primary candidates to being the source of souls and auras across the material relam which are the concrete cases of universal medium of energy emerging from mist energy.-->
 
-Previously established energy within souls and auras flows from the upper realms and settles in the material realm, and souls, after death of their corporeal body or aura, depart into the Underworld. Within it, Apocrean realm, Underworld, and Blinding Abyss exist, among which Apocrea realm exists as a force capable to capture souls more aggeressively.
+Previously established energy within souls and auras flows from the upper realms and settles in the material realm as souls. Those souls after death of their corporeal bodies or auras depart into the Underworld. Within it, Apocrean realm, Underworld, and Blinding Abyss exist, among which Apocrea realm exists as a force capable to capture souls more aggeressively.
 
-Due to this, it is the universality of energy which grants immortality, binding through curse a soul, a pocket of energy, to a corporeal body, allowing it to be _reanimated indefinitely_, we suggest, emerges from the souls as the energy source or, potentially, a connection with the underworld as in case of [pink lightnings reaching material realm](). _Lingering of a souls manifests as shadow damage_, as it is directed by an undeparted soul, with the body being a physical actor.
+It is then a question where the cursed body harvests energy to remain indefinitely, such as Lord Vanaduke or trojans.
+
+As souls becomes bound, it remains a pocket of energy, while the corporeal body is _reanimated indefinitely_. We propose 2 reasons for this principle which emerge from either:
+
+- The soul being a conduit for unlimited source of energy, or;
+- Through a connection with the Underworld, as in case of [pink lightnings reaching material realm](), the curse serves means of bringing energy into a system of body and a soul from the Underworld.
+
+_Lingering of a souls manifests as shadow damage_, as it is directed by an undeparted soul, with the body being a physical actor.
+
+At a current point, while lighning is prevalent for dark matter and cursed beings, it is not universal as the cursed status itself.
+
+We propose that the souls is the unlimited source of energy for the corporeal body. For this we refer to Lord Vanaduke's mask and to a lesser extent instances of Snarbolax's haunting. Lord Vanaduke's mask when placed in his finery remains burning which we have explained through traces of his soul lingering in the armor. As the larger curse is lifted, evident by Greenstone Citadel, and his soul evidently leaving when he was defeated, the traces of his souls, as [soul dust and blighted bone preseve the lingering energy]() which _reignite the mask and finery to their smoldering state_.
 
 #### Alchemical Transmutation
 
