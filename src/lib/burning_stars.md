@@ -6571,71 +6571,82 @@ There are notable elements within the Shadow Firestorm Citadel which charaterize
 
 ##### Darkfire Lord Vanaduke and Damnation through curse
 
-Darkfire Lord Vanaduke's design _differs greatly_ from Lord Vanaduke of Firestorm Citadel. More so, we have to keep in mind 2 interpretations of `His soul bound to some horrific armored prison` ([Alone in the Dark - Lost Soul of Almire](https://wiki.spiralknights.com/Lost_Soul_of_Almire_(nameless)#Dialogue)): of `some horrific armored prison` being aither the citadel, or the armor Lord Vanaduke has equipped.
+Darkfire Lord Vanaduke's design _differs greatly_ from Lord Vanaduke of Firestorm Citadel.
 
-As we study Darkfire Lord Vanaduke's design we notice several design elements:
+We start of from the interpretation of the quote `His soul bound to some horrific armored prison` ([Alone in the Dark - Lost Soul of Almire](https://wiki.spiralknights.com/Lost_Soul_of_Almire_(nameless)#Dialogue)) as `some horrific armored prison` being the armor Lord Vanaduke has being equipped. Coupled with significance of his mask as visage of Vog as source of power, a unique artifact, and body horror aspect of his condition while cursed, the addition of his armor as Darkfire Lord Vanaduke being __restored to a prestine state and altered significantly to depict a more intricate design__ _creates a more so unique state of being_.
 
-- One of the most notable element is presence of an _intact purple hooded cloak_ of Darkfire Lord Vanaduke.
+We can identify the distinct design changes of Darkfire Lord Vanaduke:
 
-    Almire's crest shown on its _back is most intact with an additional spiked design_, compared to the torn as the [Almirian tapestries](https://wiki.spiralknights.com/Almire_Furniture#Doodads) cape of Firestorm Citadel's Lord Vanaduke.
+- One of the most notable elements is __an intact hooded purple cloak__ of Darkfire Lord Vanaduke.
 
-- The clothes below Vanaduke's armor, as well as the cloak, have the same triangular pattern in the design of _not crudely sawn rags, but far more finely preserved royal clothes._
+  Almire's crest shown on its _back is most preserved with an additional spiked design at the end of the cloak_ compared to the torn as the [Almirian tapestries](https://wiki.spiralknights.com/Almire_Furniture#Doodads) cape of Firestorm Citadel's Lord Vanaduke.
+
+- The garments below Vanaduke's metal armor, as well as the cloak, have the same triangular pattern in the design of __not crudely sawn rags, but finely weaved royal clothes__.
 
     This triangular pattern is most similar to Underworld's shadow steel patterns associated with Nefarious Imp and gear made of shadow steel.
 
-    The hooded cloak ends with the triangular white-outlined shapes at the base of the black tree of Almire's Crest.
+- The armor of Darkfire Lord Vanaduke has the similar thematic change. _It has no visible bolts nor connections but is monolithic_. The only to distinct armor pieces are the face plate and the chest. While the characteristic chains had remained, they are now present all across the Citadel -- the motif of chains seems to be a lot more distinct, pointed out initially in the specifics of Cold Iron Vanquisher as [Isoran sword invented in Cradle during the Forgotten Time]().
 
-- The armor of Darkfire Lord Vanaduke has the similar thematic change. _It has no visible bolts nor connections and is generally more monolithic_. The only to distinct armor pieces are the face plate and the chest. While the characteristic chains had remained, they are now present all across the Citadel - the motif of chains seems to be a lot more distinct.
-- The part of armor around the faceplate has a distinct symbolic elements, a __circle of outwards extending spikes, reminiscent of a star__ or normal damage projectile.
+##### Darkfire Lord Vanaduke and Sun Symbolism
 
-    We suggest it being related to a medieval device, iron maiden specifically, which by proxy becomes a prison for Lord Vanaduke's soul - a concept, first suggested in relation to the interpretation of the armored prison.
+The part of armor around the faceplate has a distinct symbolic elements, a __circle of outwards extending spikes reminiscent of a symbol of a star__ or a normal damage projectile.
 
-    Another interpretation to be found here, is of implications of the coins and emblem of [Ironmight Kingdom](#ironmight-shield-crowns-and-coins), referencing stars and seemingly reign over them. If the undead Almirian Empire did incorporate all of those kingdoms, then this would thematically be reflected in the designs, but it seems more of coincidence.
+We suggest it being related to a medieval device, iron maiden specifically, which by proxy becomes a prison for Lord Vanaduke's soul -- a concept we have started this analysis.
 
-    Other suggestion, is, yet again, a relation to depiction of start - a [Spell Book](). Its design is similar to the [tome of rage](https://wiki.spiralknights.com/Tome_of_Rage), but instead of a symbol of alchemy, it is a star on the cover with a gem within. Back of the book has depiction of the Moon, which alludes to a Sun and Moon duality of Cradle's Equinox - _a celestial theme_. This still allows us to interpret armor's pattern as one meant to invoke images of a star, but why?
+Another interpretation to be found here, is of implications of the coins and emblem of [Ironmight Kingdom](#ironmight-shield-crowns-and-coins), referencing stars and seemingly reign over them. If the undead Almirian Empire did incorporate all of those kingdoms, then this would potentially be reflected in the designs, but it seems more of a coincidence given speculative nature of the Ironmight kingdom's existence.
 
-Whose factors considers, we propose, that Lord Vanaduke's soul sis indded, as implied by the [Lost Soul of Almire](https://wiki.spiralknights.com/Lost_Soul_of_Almire_(nameless)#Dialogue) - `His soul bound to some horrific armored prison`, - is __bound to this very armor__.
+Other suggestion, is, yet again, a relation to depiction of start - a [Spell Book](). Its design is similar to the [tome of rage](https://wiki.spiralknights.com/Tome_of_Rage), but instead of a symbol of alchemy found there, we would focus on the spiked design of arms of the orb of alchemy being depicted of the cover which would then connect rage and spikes by owlites.
 
-So, an unknown party had applied a curse onto the Citadel, which influenced the resulted state the Citadel is found in the Shadow Lairs, _one far more fortified and dilapidated than it was found_ during [The King of Ashes]().
+The back of the book has depiction of the Moon which alludes to a Sun and Moon duality of Cradle's Equinox, _a celestial theme_. This still allows us to interpret armor's pattern as one meant to invoke images of a star or a sun, but, other then association with fire, could this imagery of speciifcally Darkfire Lord Vanaduke be a carrier for a differnt meaning?
 
-Then there is presence of Almire-aligned undead, including the royal guard - they, too, had to be justified to be present only in the Shadow Firestorm Citadel.
+We suggest one to be reflective of role and means Lord Vanaduke's tranformation -- he is a immortal and is associated with fire, as the Sun, and yet, those properties come from Underworld and Vog's gift which is considered a curse for afflicted by it. We propose an existence for this symbol -- a symbol of the __alchemical black sun, respresentative of an initial stage of alchemical Great Work, the extraction from the Round Chaos__, which we will explore in greater detail as we discuss the narratives Shadow Lairs offer.
 
-All of those elements make __Shadow Firestorm Citadel far more authentic, compared to the Firestorm Citadel outside of Shadow Lairs__. Presence of Dark Embers following curse theme should be a reason for this variant being the 'true one', an yet, Greenstone Citadel has all of the initial designs of the Firestorm Citadel.
+The positioning of the citadel as the final roadblock before the Core and, subsequently, Clockworks, contextualizes it as not atomic element of one of a few lost kingdoms, but a _throne for the malign sun, represtnative of unceasing and most present malice of Underworld to date leaving traces of its influence on planet's past through its civilizations_.
 
-Due ot those properties we will expand upon the explanations presented in previous section, and present a 3rd scenario of integrating the Citadel into the timeline:
+##### Canon Positioning of Shadow Firestorm Citadel
 
-- Shadow Firestorm Citadel symbolically represents the Citadel of the undead Almirian Empire at its prime state.
+An unknown party, potentially Underworld, had applied a curse onto the Citadel which has influenced the resulted state the Citadel it is found in the Shadow Lairs -- _one far more fortified and dilapidated than it was found_ during [The King of Ashes]().
 
-    Shadow Lairs, through an unknown actor, through transformative power of curse, had transformed present Firestorm Citadel into one completely overtaken by the curse, transforming Almirian designs into fiendish.
+<!--Then there is presence of Almire-aligned undead, including the royal guard - they, too, had to be justified to be present only in the Shadow Firestorm Citadel.-->
 
-    Presence of still cursed Vanaduke's finery would suggest, that Lord Vanaduke's soul still lingers, and this would've allowed for it to be brought back into fiendish armor, paralleling trojans' design, contrasting Spiral Wardens, and, in terms of resurrection - Margrel.
+All of those elements render __Shadow Firestorm Citadel far more authentic, compared to the Firestorm Citadel outside of Shadow Lairs__. Presence of Dark Embers following curse theme should be a reason for this variant being the "true one," an yet, Greenstone Citadel has all of the initial designs of the Firestorm Citadel.
+
+Due ot those properties we will expand upon the explanations presented in previous iteration of explanations, and present a few more scenarios of integrating the Shadow Firestorm Citadel into the timeline:
+
+- Shadow Firestorm Citadel symbolically and metaphysically, as battle sprites being certain species' reincarnations, represents the Citadel of the undead Almirian Empire at its most dangeroues state.
+
+    Presence of still cursed Vanaduke's finery would suggest, that Lord Vanaduke's soul still lingers, and this would've allowed for it to be brought back into fiendish armor, paralleling trojans' design, contrasting Spiral Wardens and Margrel.
 
 - Shadow Firestorm Citadel is one traversed by the knights, placing it before the mission of King of Ashes, as Lord Vanaduke is required to live at this point in time.
 
-    This approach would discard the event of the mission itself, rendering them not canon, _negating entire story arc_. This approach would also contradict the boss trophies, as all of them do not account for Shadow Lairs, while the regions themselves were seemingly pulled to the higher depths. Lack of the Console is also an important contradiction of this proposal.
+  This approach would discard from the canon the events of the mission itself while _negating entire story arc's impression_. This approach would also contradict the boss trophies, as all of them do not account for Shadow Lairs, while the regions themselves were seemingly pulled to the higher depths.
 
-    This seems less likely. It is due to implausibility of such scenario, despite conflict presented by Dark Embers, we are considering the idea of a time when carnavons were marked as such in the past, but with the curse affecting the Citadel in the modern times.
+  Lack of the Console is also an important contradiction of this proposal.
 
-Lastly, we should note a possibility of _purple-colored Dread Seal being attributed to Underworld_ - as Faust, - and only gold seal belonging to Owlites, derived from the dread seal. __This would remove altogether a necessity for Carnavons to be marked with the seals by heavenly kingdom__, apart from their presence with Kats and populating the Academy. Given lack of any mentions of such war taking place, we would consider it as nonexistent.
+<!--Lastly, we should note a possibility of _purple-colored Dread Seal being attributed to Underworld_ - as Faust, - and only gold seal belonging to Owlites, derived from the dread seal. __This would remove altogether a necessity for Carnavons to be marked with the seals by heavenly kingdom__, apart from their presence with Kats and populating the Academy. Given lack of any mentions of such war taking place, we would consider it as nonexistent.-->
 
-As for dark embers, - in this interpretation, they would remain as an outlier, but now explained as a characteristic element of cursed corporeal entities met by Vog's fires, with darkness present only in the innermost regions of the source of curse - in proximity of Lord Vanaduke, as it would reveal the nature of the affliction as Underworldly not in Darkfire Lord Vanaduke's design, but description. This still seems as an unfulfilling explanation, but one, which can be attempted to be drawn into a predefined metaphysic system.
+<!--As for dark embers, in this interpretation, they would remain as an outlier, but now explained as a characteristic element of cursed corporeal entities met by Vog's fires, with darkness present only in the innermost regions of the source of curse - in proximity of Lord Vanaduke, as it would reveal the nature of the affliction as Underworldly not in Darkfire Lord Vanaduke's design, but description. This still seems as an unfulfilling explanation, but one, which can be attempted to be drawn into a predefined metaphysic system.-->
 
-Existence of Dark Embers would be justified, if it is meant to be acquired by the time Darkfire Citadel was traversed. This would also _link back with the themes seen so far, of Undercorp being the perpetrator, responsible for the curse of the Citadel_ on the greater scale, concentration, and intensity [compared to the miasma]().
+<!--Existence of Dark Embers would be justified, if it is meant to be acquired by the time Darkfire Citadel was traversed. This would also _link back with the themes seen so far, of Undercorp being the perpetrator, responsible for the curse of the Citadel_ on the greater scale, concentration, and intensity [compared to the miasma]().-->
 
-In this case, __the potential revival of Lord Vanaduke__, suggested by his lingering presence in boss trophies - of his mask, paralleling zombie's skulls, __rebinding of his soul to a specifically crafted armor of Shadow Steel, yet with the original mask__ would seem as _a showcase of extreme means Undercorp would go,_ and as evidence of the [mask being container for the soul](). But those are the means, we are only vaguely aware of the ends, which had to be connected to the existence of the Swarm later.
+Among all of those scenarios we will commit to one where Shadow Firestorm Citadel exists in the future after the event of Dreams and Nightmares. It requires for __the revival of Lord Vanaduke__, which may be explained by his lingering presence across the boss trophies -- of his mask, paralleling zombie's skulls, __rebinding his soul to a specifically crafted armor of Shadow Steel, yet with the original mask__.
 
-Given the very existence of this proposed notion, Undercorp had to be connected to the Core, and supposedly the source of energy with the ends of accessing directly the souls used to be gathered and routed into the Apocrean Realm through Underworld, as we have suggested during [our analysis of the paradise]().
-
-At that, the only time such scenario would be plausible, is _after the events of Shadowplay_, as there are, we believe, several arguments for this:
+The only time such scenario would be plausible is _after the events of Shadowplay_, as there are, we believe, several arguments for this:
 
 - `Firestorm Citadel continues to burn with accursed flames. Though the nature sprites have been steadily making progress in fighting the flames, something or someone has recently caused a violent resurgence in its destructive power. Spiral HQ requests that you gather together a crack squad of knights and return to the collapsing ruins of Firestorm Citadel in order to discover the source of the disturbance` ([Shadowplay](https://wiki.spiralknights.com/Shadowplay)).
 - `We were in the middle of receiving a report from Lieutenant Vaelyn's team at the Core Terminal when our signal was disrupted. It took some time, but I've managed to pinpoint the source of the disruption. It's coming from that strange device you discovered near Vanaduke's throne room in Firestorm Citadel. It seems like someone has activated it` ([The Flickering Flame - Kora](https://wiki.spiralknights.com/The_Flickering_Flame))
 
 Those factors, despite the fact the Artifact is placed by Herex after the knight arrives to the Console, serve as the foundation for the link between Artifact's energy and its influence onto metaphysics of curse, powering it in the same manner as the energy contained within the mineral serves as the conduit and a battery.
 
-Due to the Artifact remaining in the Console, we propose, that it is its influence, paired with opening of the Core, and later timely involvement of Undercorp, which had led to the result of Firestorm Citadel becoming even more cursed, but now repurposed directly for Undercorp's plans on Cradle and status quo of Core opening.
+Due to the Artifact remaining in the Console, we propose, that it is its influence, paired with opening of the Core, and later timely involvement of Undercorp which had led to the result of Firestorm Citadel becoming even more cursed, but now repurposed directly for Undercorp's plans on Cradle and status quo of Core opening.
 
-Yet, this explanation would not resolve the issue of the arrival from the Sanctuary to the sealed version of the Core. We suggest this design choice being only the result of an unfinished rank missions' story, as suggested by the ending of [Dreams and Nightmares](https://wiki.spiralknights.com/Dreams_and_Nightmares). More so, the only Core mission being far easier in contrast to the Shadow Lairs seems as if the true endgame was yet to come, which would justify Shadow Lairs' endgame material, difficulty, and equipment as fitting.
+Yet, this explanation would not resolve the issue of the arrival from the Sanctuary to the sealed version of the Core.
+
+Such scenario, while heavily speculative, offers the least conflicting and metaphysically plausibile explanaion, as a _showcase of the extreme means Underworld would go_ for their goals and as evidence of the [mask being container for the soul](). Those extreme methods, we suggest, may be seen more characteristic of their prior action in intensity, while smaller in its scope and scale, if we attribute _creation of legion of Ur from first generation of Isoran Spiral Wardens_ on Cradle and _annihilation of tortomega, owlite, and kat civilizations_ to Underworld.
+
+But those action remain the means as we are only vaguely aware of the ends which had to be connected to the existence of the Swarm, Underworld's seige of Cradle, and, potentially, [Apocrea's plan of negation through the engines]().
+
+<!--Given the very existence of this proposed notion, Undercorp had to be connected to the Core, and supposedly the source of energy with the goal of accessing directly the souls used to be gathered and routed into the Apocrean Realm through Underworld, as we have suggested during [our analysis of the paradise]().-->
 
 #### Evil Eye Appearances, Themes, and Curse
 
