@@ -6603,7 +6603,7 @@ We suggest one to be reflective of role and means Lord Vanaduke's tranformation 
 
 The positioning of the citadel as the final roadblock before the Core and, subsequently, Clockworks, contextualizes it as not atomic element of one of a few lost kingdoms, but a _throne for the malign sun, represtnative of unceasing and most present malice of Underworld to date leaving traces of its influence on planet's past through its civilizations_.
 
-##### Canon Positioning of Shadow Firestorm Citadel
+##### Canon of Shadow Firestorm Citadel
 
 An unknown party, potentially Underworld, had applied a curse onto the Citadel which has influenced the resulted state the Citadel it is found in the Shadow Lairs -- _one far more fortified and dilapidated than it was found_ during [The King of Ashes]().
 
@@ -6648,17 +6648,17 @@ But those action remain the means as we are only vaguely aware of the ends which
 
 <!--Given the very existence of this proposed notion, Undercorp had to be connected to the Core, and supposedly the source of energy with the goal of accessing directly the souls used to be gathered and routed into the Apocrean Realm through Underworld, as we have suggested during [our analysis of the paradise]().-->
 
-#### Evil Eye Appearances, Themes, and Curse
+#### Evil Eye and Curse
 
-Now, We will reiterate upon all instances of evil eye and curse in general. We will attempt to identify properties and patterns based on the established narratives and reasonable implications, observed across the timeline up until this point.
+We will reiterate on all instances of evil eye and curse in general. We will attempt to identify properties and patterns based on the established narratives and implications observed across the timeline up until this point.
 
 Symbol of the eye, [dread seal](https://wiki.spiralknights.com/Dread_Seal) and symbol of curse within the status effect classification of Spiral Order all have similar designs, which can be summarized as a _an opened eye with 3 strokes or dots below in radial pattern._ Occasionally, one dot or stoke above the eye is seen.
 
-This design is similar to the _Hand of Fatima or Eye of Miriam_, which in its most common form is shaped like a hand with three extended fingers in the middle and a curved thumb and pinky fingers on the sides. Here, it seem to possess an inverted effect within the Spiral Knights cosmology.
+This design is similar to the _Hand of Fatima_ or _Eye of Miriam_, which in its most common form is shaped like a hand with three extended fingers in the middle and a curved thumb and pinky fingers on the sides. Here, it seem to possess an inverted effect within the Spiral Knights cosmology, _simialar to the Fu talisman_.
 
-Another potential inspiration for eye's design is prominent presence of the particular [eye symbol](https://zelda.fandom.com/wiki/Eye_Symbol) across _Legend of Zelda setting and franchise_. While it is also _hypothesized to be inspired eye of Horus_, as the evil eye of Spiral Knights, the potential notion of the prior serving as an inspiration for the latter is plausible due to at least one inspiration from a different game: `Haven's original look resembled something similar to a Ald'ruhn from The Elder Scrolls: Morrowind. As you might imagine, it really didn't look right. Thank goodness we hired Cory!` ([10 things you didn't know about Spiral Knights](https://forums.spiralknights.com/en/node/20773)).
+Another potential inspiration for eye's design is prominent presence of the particular [eye symbol](https://zelda.fandom.com/wiki/Eye_Symbol) across _Legend of Zelda setting and franchise_.
 
-As most of instances of curse are connected to Underworld and depictions of the evil eye, those will be covered first.
+As most of instances of curse are connected to Underworld and depictions of the evil eye, those will be noted first:
 
 - For the first time, evil eye is seen as a color pattern on [Greavers' wings](https://wiki.spiralknights.com/Greaver).
   - Elemental Greavers have the pattern glowing in accordance to their elemental theme and status effect, apart from the curse itself, which as a common motif, not seen explicitly.
@@ -6700,9 +6700,9 @@ Entities imbued with curse last far longer under unnatural means and have amplif
 
 - Lord Vanaduke and Darkfire Lord Vanaduke, Margrel, black kats, carnavons, trojans - generally live for more than thousand of years.
 - In some instances they are resistant to curse: devilites and Vanaduke, fiends in general.
-- Armors and gear explicitly related to Underworld and curse of their owners are weak to curse, while items related to divinity are strongly resistant to curse. The latter are often presented as divine or holy.
+- Armors and gear explicitly related to Underworld and curse of their owners, such as Kat Tribe armors, are weak to curse, while items related to divinity are strongly resistant to curse. The latter are often charaterised as divine or holy.
 
-In relation to gremlins, gremlin technology and Clockworks:
+In relation to gremlins, gremlin technology, and Clockworks:
 
 - The [Collector](https://wiki.spiralknights.com/Collector) has antique evil eye drawn around its central eye, and backpack of bombs has the sigil with the eye.
   - [Lumber](https://wiki.spiralknights.com/Lumber) created by gremlins have paper seals placed onto them, the same sealed sword is wrapped in.
@@ -6712,7 +6712,7 @@ In relation to gremlins, gremlin technology and Clockworks:
   - Core's enemy onslaught [gates](https://wiki.spiralknights.com/Dreams_and_Nightmares/A_Step_Beyond) have evil eye present of same curse-themed color of dark pink and purple, with an iris of larger size.
   - Core's respawn pads have 3 dots, similar to 3-dot eye of Apocrea of Underworld and Scarabs.
 
-As for the immortal explicit bearers of curse:
+Then there are immortal bearers of curse:
 
 - Darkfire Lord Vanaduke
 
@@ -6776,14 +6776,19 @@ If the Shadow Firestorm Citadel was influenced by the curse to the point of its 
 
 For the rest of species coming from the material realm, curse is the identified of them transitioning to the fiendish nature of Underworld.
 
-The counterpart to curse - a concept of divinity or sainthood, is also found in [Saintly Silver Amulet](https://wiki.spiralknights.com/Saintly_Silver_Amulet), [Sacred Silver Amulet](https://wiki.spiralknights.com/Sacred_Silver_Amulet) and [Blessed Silver Amulet](https://wiki.spiralknights.com/Blessed_Silver_Amulet).
+The counterpart to curse -- a concept of divinity or sainthood, is also found in [Saintly Silver Amulet](https://wiki.spiralknights.com/Saintly_Silver_Amulet), [Sacred Silver Amulet](https://wiki.spiralknights.com/Sacred_Silver_Amulet) and [Blessed Silver Amulet](https://wiki.spiralknights.com/Blessed_Silver_Amulet).
 
-It is also here we should note on the sacred characteristic of 5-star upgrades of the [Padded Armor](https://wiki.spiralknights.com/Padded_Armor), with helms reminiscent of older ages. The descriptions also make if seems as if the __entire alchemy tree of Padded Armor, as it is designed for handgun combat - is the modern reemergence of gunslinger priests:__
+It is also here we should note on the sacred characteristic of 5-star upgrades of the [Padded Armor](https://wiki.spiralknights.com/Padded_Armor) with helms reminiscent of the _medieval and fantasy designs of the Forgotten Time_. The descriptions also make if seems as if the __entire alchemy tree of Padded Armor, as it is designed for handgun combat -- is the modern reemergence of gunslinger priests:__
 
 - `A spectral suit of armor for those who are gunning for ghosts` ([Sacred Snakebite Ghost Armor](https://wiki.spiralknights.com/Sacred_Snakebite_Ghost_Armor)).
 - `A phantasmal suit of armor for those who are aiming for the infernal` ([Sacred Falcon Hex Armor](https://wiki.spiralknights.com/Sacred_Falcon_Hex_Armor)).
 
-Due to this, we believe, the eye represents more than curse itself, but presence of Underworld, which manifests itself in a causal manner through applications of curse as one ot its essentials. It is die to abundant presence of curse, the eye may be mistaken to represent curse. But we had to keep in mind, that curse itself is characterized by presence of Underworld in the material realm, leading to an aforementioned connection.
+Due to those notions we suggest 2 interpretaions of the eye:
+
+- The eye represents the curse coincidental with presence of Underworld manifesting in a subtle manner through applications of curse as one of its signs. It is due to abundant presence of curse the eye represents curse while exsiting beyond affiliation with Underworld civilizations, but metaphysics, as much as the Spiral.
+- The eye is applied in relation to affliction with curse, but it is connected to the chaos of the Nameless Realm in its ability to manipulate through varying metaphysical states the nature of the bearer.
+
+In order to form the final conclusion, we would have to discuss the Swarm and Shadow Lairs proper as bearers of the _eye symbolism_ and _pink color_, but _devoid of curse_.
 
 #### Metaphysical Restriction
 
@@ -6792,11 +6797,11 @@ The curse can be externally applied, which takes form of a metaphysic restrictio
 - Cursed Nature Sprites are unable to establish a link to a different realm - Spirit Mother's Realm.
 - A knight under curse can attack only through the attack backfiring.
 - Seals placed onto weapons block or direct inwards part fo their power - prime example being Sealed Sword.
-- Sealed entities - Carnavons, Black Kats, Lumbers, - are instances of this concept applied thematically and functionally. Only elemental Lumbers possess a seal, is attributed to essence or a soul keeping them operational within an artificially constructed body.
+- Sealed entities -- Carnavons, Black Kats, Lumbers, -- are instances of this concept applied thematically and functionally. Only elemental Lumbers possess a seal, is attributed to essence or a soul keeping them operational within an artificially constructed body. Carnavons and Black Kats are marked by the seal, which, given their current condition, blocks so far unseen fraction of their influence onto material realm or focuses them.
 
-    Carnavons and Black Kats are marked by the seal, which, given their current condition, blocks so far unseen fraction of their influence onto material realm. Given [Dazzling Light Ray](https://wiki.spiralknights.com/Dazzling_Light_Ray#Dazzling_Light_Ray): `The ray of light deals extra damage to undead and fiend family monsters`, seal's function can be interpreted as one forbidding greater damage to species of material realm, or, in a more recent interpretation, attributing it to Undercorp, _a tool to tether the soul outside of specificity of Cradle's metaphysics._
+<!--Given [Dazzling Light Ray](https://wiki.spiralknights.com/Dazzling_Light_Ray#Dazzling_Light_Ray): `The ray of light deals extra damage to undead and fiend family monsters`, seal's function can be interpreted as one forbidding greater damage to species of material realm, or, in a more recent interpretation, attributing it to Undercorp, _a tool to tether the soul outside of specificity of Cradle's metaphysics._-->
 
-A restriction manifests through application of a seal, in a most basic form, as seen on elemental lumbers and Sealed Sword, it restricts the function of an object, and, as with lumbers seem to tether a soul to a corporeal body. A more advanced usage - as the apparition of a seal, - is seen through presence of the Dread Seal, placed onto Carnavons and Black Kats.
+A restriction manifests through application of a seal, in a most basic form, as seen on elemental lumbers and Sealed Sword, it restricts the function of an object, and, as with lumbers seem to tether a soul to a corporeal body. A more advanced usage -- as the apparition of a seal, -- is seen through presence of the Dread Seal, placed onto Carnavons and Black Kats.
 
 ##### Tortodrone's Case and Gorgofist
 
