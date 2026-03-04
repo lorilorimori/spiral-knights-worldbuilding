@@ -1,0 +1,10 @@
+@page {
+  size: A4;
+  margin: 2.5cm 2.8cm 2.5cm 2.8cm;
+
+  /*@bottom-center {
+    content: counter(page);
+    font-size: 8pt;
+    color: #888;
+  }*/
+}

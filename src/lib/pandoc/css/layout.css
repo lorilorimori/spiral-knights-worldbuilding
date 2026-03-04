@@ -1,0 +1,518 @@
+/**
+ * In root register images in variables
+ */
+:root {
+  color-scheme: dark;
+  --color-default-background: hsl(240, 10%, 92%);
+  --color-void: #000;
+  --color-unknown: #ff0055;
+  --toc-active-item-icon: url("./../../../img/spiral_knights/icon_goldlock.png");
+  --toc-active-item-icon-unknown: url("./../../../img/spiral_knights/icon_mobeye.png");
+  --toc-active-item-color: hsl(34, 72%, 70%);
+  --toc-hover-item-background: hsla(225deg, 40%, 30%, 0.1);
+  --ui-selection-regular: rgba(255, 62, 41, 0.5);
+  --asset-moon: url("./../../../img/custom/core_alt.png");
+}
+
+/* Set initial height for document for background stability */
+html {
+  min-height: 100vh;
+  top: 0;
+  bottom: 0;
+}
+
+/**
+ * Set default font color
+ * Set primary font priority
+ */
+body {
+  top: 0;
+  bottom: 0;
+  /*color: var(--color-default-background);*/
+  font-family: primary, newton-sans-regular, sans-serif;
+}
+
+/** OpenGL canvas background */
+/* .background-special {
+  z-index: -1;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0);
+} */
+
+/**
+ * Initial background coloe fill,
+ * so that @see .background would
+ * not change hue depending on browser
+ * because of latter's alpha < 1.0
+ */
+/*.background-base {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: var(--color-void);
+  z-index: -99;
+}*/
+
+/**
+ * Page's primary background w/ gradient
+ * Gradient is loosely derived of
+ * inventory item's preview model background
+ *
+ * As this gradient is not 1.0 alpha,
+ * we rely on default bg color in @see .background-base
+ */
+/*.background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background:
+    radial-gradient(circle, rgba(52, 100, 255, 0.14), rgba(0, 0, 0, 0)),
+    linear-gradient(210deg, rgba(59, 157, 248, 0.28), rgba(42, 58, 202, 0.22));
+  z-index: -20;
+}*/
+
+/* potentially add floor texture for primary background */
+/* .background::before {
+  content: "";
+  position: absolute;
+  top: -40px;
+  right: -50%;
+
+  height: 80%;
+  width: 80%;
+
+  background-image: var(--asset-floor);
+  background-size: contain;
+  opacity: 0.04;
+  background-repeat: no-repeat;
+} */
+
+/**
+ * Dafault selection color
+ * We may override DarkReader's selection color override here
+ */
+/*::selection {
+  background-color: var(--ui-selection-regular) !important;
+}*/
+
+/* page breaks for pdf */
+hr {
+  break-after: page;
+  visibility: hidden;
+}
+
+/**
+ * CommonMark spec assumes only 1 h1 heading
+ * We use it as the start of the markdown document
+ */
+h1 {
+  font-weight: 600;
+  font-size: 4rem;
+
+  letter-spacing: 1px;
+  font-family: heading;
+  text-transform: uppercase;
+
+  margin-top: 9rem;
+  margin-bottom: 6rem;
+
+  &::before {
+    background-image: var(--asset-moon);
+    width: 15rem;
+    height: 15rem;
+
+    background-repeat: no-repeat;
+    position: absolute;
+    content: "";
+    background-size: cover;
+    z-index: -20;
+    top: 2.1rem;
+    rotate: -10deg;
+  }
+}
+
+h2 {
+  font-weight: 500;
+  font-size: 3.8rem;
+  margin-bottom: 16px;
+}
+
+h3 {
+  font-size: 3.8rem;
+  letter-spacing: 3px;
+  margin-top: 6rem;
+
+  margin-bottom: 3.6rem;
+
+  /* non-p eleemnt follows, make smaller gap */
+  &:has(+ div) {
+    margin-bottom: 2rem;
+  }
+}
+
+h4,
+h5,
+h6 {
+  font-size: 1.3rem;
+  margin-bottom: 16px;
+  letter-spacing: 0.6px;
+}
+
+p,
+li {
+  font-weight: 400;
+  line-height: 1.5em;
+  margin: 0 0;
+  padding-bottom: 24px;
+}
+
+/**
+ * Common heading elements
+ * As we rely on markdown transfomation to html
+ * to use its tags as anchors for specific
+ * styles and design elemnts
+ *
+ * The pattern of chpater design follows
+ *  <h><em>Chapter <code>XX</code></em> Plaintext heading text</h>
+ */
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: heading;
+  text-transform: uppercase;
+
+  /**
+   * code tag is used to wrap chapter numerals
+   */
+  & code {
+    letter-spacing: 0px;
+    font-weight: bold;
+    font-style: inherit;
+    border-radius: 2px;
+    padding: 0em 0.3em;
+    /* align visually letter's box size,
+      consider letter spacing */
+
+    /**
+     * Within the code wrapper of chapter's number
+     * we place alchemy symbol
+     * It is still within the outlined box
+     */
+    /* &::after {
+      content: "";
+      background-image: url("/img/spiral_knights/logo_alchemy.png");
+      background-size: 22px;
+      width: 29px;
+      display: inline-block;
+      height: 24px;
+      bottom: -5px;
+      background-position-x: 90%;
+      position: relative;
+      background-repeat: no-repeat;
+      filter: brightness(0.52) sepia(1) saturate(2.02);
+    } */
+  }
+
+  /**
+   * As em wraps the chpater + its number, we use it to make
+   * 2-level chapter names
+   */
+  > em:first-of-type {
+    font-size: 1.3rem;
+    font-style: inherit;
+    color: inherit;
+
+    /** So far we wont use this as we have <br> in em part of headings */
+    /* &::after {
+      content: "";
+      display: block;
+      white-space: pre-line;
+    } */
+  }
+}
+
+h3:is([id="chapter-ix-gremlin-empire"]) {
+  max-width: 70%;
+}
+
+/**
+ * we use h3-derived selector instead
+ * of nth-type-of since not all h3s
+ * are nested or positioned on the same inline depth
+ *
+ * The :is logic supports special character parsing
+ * of webkit (1) and of firefox / chrome (2)
+ */
+h3:is([id="chapter-ix-s-swarm"]) {
+  color: var(--color-unknown);
+
+  & code {
+    background-color: #000;
+    color: inherit;
+  }
+}
+
+/**
+ * Chapter headings - h3 - are wrapped in a following structure
+ *
+ * This structure allows for
+ * custom-sized imaged to be placed behind
+ * and slightly below chapter's text
+ *
+ * The 'below' part is regulated by @see .decorate-contents::margin-top
+ */
+.decorate-title-wrapper {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  margin-bottom: 4rem;
+
+  /* & .decorate-title-depth-wrapper {
+    position: absolute;
+    display: inline-block;
+    right: -12vi;
+    top: 2.6rem;
+    width: fit-content;
+    height: fit-content;
+    z-index: 20;
+
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 2px;
+    box-decoration-break: clone;
+
+    border-color: hsla(8, 75%, 45%, 0);
+    color: hsl(343, 10%, 27%);
+    background-color: hsl(34, 62%, 64%);
+
+    & .decorate-title-depth-count {
+      letter-spacing: 0px;
+      padding: 5px;
+      font-family: heading;
+      font-weight: bold;
+      font-style: italic;
+      text-transform: uppercase;
+      border-radius: 2px;
+      font-size: 1.5em;
+    }
+  } */
+
+  /**
+   * Explicitly customize h3,
+   * as is is the only level of heading
+   * the encompassing structure applies to
+   */
+  & h3 {
+    position: relative;
+    z-index: 20;
+    /* fix in h3 proper */
+    margin-bottom: 0;
+  }
+
+  /**
+   * Image and other stuff behind the heading text goes here
+   */
+  & .decorate-contents {
+    position: relative;
+    z-index: 18;
+    width: 100%;
+    margin-top: -12vi;
+    margin-left: -8px;
+
+    /**
+     * Image itself
+     */
+    & .decorate-contents-img {
+      display: block;
+      height: auto;
+      width: 100%;
+    }
+
+    /**
+     * Elements above the image on z-index
+     */
+    /* & .decorate-contents-overflow {
+      position: absolute;
+      bottom: -3vi;
+      right: 5%;
+      z-index: 19;
+      font-size: 6.4rem;
+    } */
+  }
+}
+
+/**
+ * Main code block styles common across all applications
+ * of the tag
+ */
+code {
+  font-family: primary;
+  background-color: hsl(343, 10%, 27%);
+  /* background-color: hsla(23, 100%, 59%, 0.22); */
+  /* background-color: #564443; */
+  color: hsl(34, 62%, 64%);
+  border-color: hsla(8, 75%, 45%, 0);
+
+  font-weight: bold;
+  font-style: oblique;
+  border-radius: 2px;
+  border-style: solid;
+  border-width: 1px;
+
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+
+  margin-top: 6px;
+  padding: 1px 4px;
+}
+
+/**
+ * Overrides for code block
+ */
+.code-conlang {
+  margin-bottom: 2rem;
+
+  & code {
+    color: hsl(344, 100%, 50%);
+    background-color: hsl(352, 41%, 25%);
+    font-style: normal;
+    margin: 0px;
+    padding: 4px 6px;
+    /* line-height: 1.06em; */
+  }
+}
+
+p em {
+  color: hsl(24, 94%, 79%);
+}
+
+/*p del {
+  color: color-mix(in lab, #4aa7ff, #66ffff);
+  text-transform: uppercase;
+  font-weight: bold;
+  text-decoration: unset;
+}*/
+
+/**
+ * List styles
+ */
+ol,
+ul {
+  margin: 0em 0em;
+  padding-left: 1.2em;
+}
+
+li {
+  padding-bottom: 0.6em;
+  list-style-type: square;
+}
+
+strong {
+  /* color: hsl(23, 70%, 70%); */
+  color: hsl(340, 100%, 52%);
+  font-weight: bolder;
+  /* color: hsl(24, 100%, 52%); */
+  padding-left: 1px;
+  padding-right: 1px;
+
+  &::selection {
+    background-color: rgba(15, 10, 9, 0.7) !important;
+  }
+}
+
+a {
+  color: hsl(0, 0%, 9%);
+  text-decoration: none;
+}
+
+/**
+ * SK energy-themed style for text
+ */
+.energy {
+  font-family: "newton-sans-regular";
+  background: linear-gradient(to top, #a6d9fd, #66ffff, #4aa7ff, #3d51ff);
+  background-size: 200% 200%;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  /* text-shadow: 0px 5px 10px rgba(74, 167, 255, 0.2); */
+  text-align: center;
+  font-weight: 100;
+}
+
+/**
+ * Chapter break which is paired with
+ * h3 headings' div structures
+ */
+.chapter-break {
+  margin-top: 4.5rem;
+  font-family: heading;
+  font-size: 5rem;
+  padding: 0px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.chapter-break-penultimate {
+  margin-top: 4.5rem;
+  font-family: secondary-light;
+  font-size: 1rem;
+  padding: 4rem 0rem;
+  background: #000;
+}
+
+/**
+ * Markdown document text container
+ */
+.container {
+  word-wrap: anywhere;
+
+  & a {
+    color: hsl(220, 87%, 77%);
+    text-decoration: none;
+    font-weight: bold;
+
+    font-style: italic;
+    padding-right: 3px;
+  }
+}
+
+/**
+ * Table context and styles
+ */
+table {
+  & th {
+    width: 140px;
+
+    &:nth-of-type(1) {
+      width: 80px;
+      word-wrap: break-word;
+    }
+    &:nth-of-type(2) {
+      width: 200px;
+    }
+  }
+
+  /* table cells */
+  & td {
+    padding: 10px 4px;
+  }
+
+  /* table rows */
+  & .row-color-1 {
+    background-color: hsla(0deg, 0%, 100%, 0.01);
+  }
+  & .row-color-2 {
+    background-color: hsla(0deg, 0%, 100%, 0.02);
+  }
+}

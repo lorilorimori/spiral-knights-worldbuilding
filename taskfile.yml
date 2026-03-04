@@ -42,12 +42,11 @@ tasks:
       # --verbose
       - |
         pandoc \
-          src/lib/burning_stars.md \
+          tests/test.md \
           \
           --from markdown+yaml_metadata_block \
-          --to pdf \
-          --pdf-engine wkhtmltopdf \
-          --template src/lib/pandoc/template.html \
+          --to html5 \
+          --pdf-engine weasyprint \
           \
           --lua-filter \
             src/lib/pandoc/filters/link.lua \
@@ -55,15 +54,34 @@ tasks:
             src/lib/pandoc/filters/book_citation.lua \
           \
           --css \
-            src/routes/normalize.css \
+            src/lib/pandoc/css/fonts.css \
           --css \
-            src/routes/fonts.css \
-          --css \
-            src/routes/layout.css \
-          --css \
-            src/lib/pandoc/css/book_citation.css \
+            src/lib/pandoc/css/base.css \
           \
-          --output burning_stars.pdf \
+          --standalone \
+          --output tests/test.html
+      - |
+        pandoc \
+          tests/test.md \
+          \
+          --from markdown+yaml_metadata_block \
+          --to pdf \
+          --pdf-engine weasyprint \
+          \
+          --lua-filter \
+            src/lib/pandoc/filters/link.lua \
+          --lua-filter \
+            src/lib/pandoc/filters/book_citation.lua \
+          \
+          --css \
+            src/lib/pandoc/css/fonts.css \
+          --css \
+            src/lib/pandoc/css/base.css \
+        --css \
+            src/lib/pandoc/css/layout.css \
+          \
+          --standalone \
+          --output tests/test.pdf
   lint:
     cmds:
       - task: lint:spellcheck

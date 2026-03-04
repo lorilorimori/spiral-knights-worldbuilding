@@ -1,20 +1,18 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>$title$</title>
-  $for(css)$
-  <link rel="stylesheet" href="$css$">
-  $endfor$
-</head>
-<body>
-  <div class="background-base"></div>
-  <div class="background"></div>
-  <div class="container">
-    <div id="document-body">
-      $body$
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>$title$</title>
+    $for(css)$
+    <link rel="stylesheet" href="$css$" />
+    $endfor$
+  </head>
+  <body>
+    <div class="background-base"></div>
+    <div class="background"></div>
+    <div class="container">
+      <div id="document-body">$body$</div>
     </div>
-  </div>
-</body>
+  </body>
 </html>

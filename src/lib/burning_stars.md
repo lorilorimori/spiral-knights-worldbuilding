@@ -6558,14 +6558,13 @@ There are notable elements within the Shadow Firestorm Citadel which charaterize
 
 - Much larger in quantity presence of _metal chains_. All chains, both positioned in the same places as in the regular citadel and ones appearing in those depth are much larger. Those chains also possess a darker color, reminiscent of the Blackened Crest by its name.
 - More arches present across the buildings surrounding the main area of depth, a less notable architectural change, but one that exists.
+- Far more areas are blocked off by wooden and stone debris. Those areas were designated to be specific routes to traverse the citadel. Now they are collapsed while __extending passages at the edges of the citadel are broken off__.
 - Presence of wooden watchtowers and their usage as, seemingly, _structural reinforcements for the crumbling brickwork of the buildings_, as it is seen across a few intances of choice to traverse the Firestorm citadel being severed in case of Shadow Firestorm Citadel.
 - Almirian tapestry in several instances across the Shadow Firestorm Citadel is much larger in scale, as much as the aforementioned chains.
 - Most of fire bowls have their yellow fire replaced with purple which we initially suggested to be dark embers, as the same design is present in relation to undead locations, which also was a contributor to nature of darkfire as a regular phenomenon out of Underworld.
 - Grim totems are more _deeply integrated into the architecture_ of Shadow Firestorm Citadel. They are secured in-place.
 
   If the totems are introduced to the citadel by Underworld, then a connection between Shadow Firestorm Citadel as emergent from curse and the perpetrators as Underworld-adjacent becomes more distinct as in case of Shadow Firestorm Citadel __totems are placed far more strategically__ implying an in-universe intent by the party which had placed those totems in the first place.
-
-- Far more areas are blocked off by wooden and stone debris. Those areas were designated to be specific routes to traverse the citadel. Now they are collapsed while __extending passages at the edges of the citadel are broken off__.
 
 ##### Darkfire Lord Vanaduke and Damnation through curse
 
@@ -6627,7 +6626,7 @@ Due ot those properties we will expand upon the explanations presented in previo
 
 <!--Existence of Dark Embers would be justified, if it is meant to be acquired by the time Darkfire Citadel was traversed. This would also _link back with the themes seen so far, of Undercorp being the perpetrator, responsible for the curse of the Citadel_ on the greater scale, concentration, and intensity [compared to the miasma]().-->
 
-Among all of those scenarios we will commit to one where Shadow Firestorm Citadel exists in the future after the event of Dreams and Nightmares. It requires for __the revival of Lord Vanaduke__, which may be explained by his lingering presence across the boss trophies -- of his mask, paralleling zombie's skulls, __rebinding his soul to a specifically crafted armor of Shadow Steel, yet with the original mask__.
+Among all of those scenarios we will commit to one where __Shadow Firestorm Citadel exists in the future__ _after the event of Dreams and Nightmares_. It requires for _the revival of Lord Vanaduke_ which may be explained by his lingering presence across the boss trophies, of his mask, paralleling zombie's skulls, __rebinding his soul to a specifically crafted armor of Shadow Steel, yet with the original mask__.
 
 The only time such scenario would be plausible is _after the events of Shadowplay_, as there are, we believe, several arguments for this:
 
@@ -6710,7 +6709,7 @@ In relation to gremlins, gremlin technology, and Clockworks:
   - Core's enemy onslaught [gates](https://wiki.spiralknights.com/Dreams_and_Nightmares/A_Step_Beyond) have evil eye present of same curse-themed color of dark pink and purple, with an iris of larger size.
   - Core's respawn pads have 3 dots, similar to 3-dot eye of Apocrea of Underworld and Scarabs.
 
-Then there are immortal bearers of curse:
+<!--Then there are semi-immortal bearers of curse:
 
 - Darkfire Lord Vanaduke
 
@@ -6764,13 +6763,13 @@ Then there are immortal bearers of curse:
   - Burning: No
   - Dark matter presence: No
   - Unstable form: Yes (baleful aura)
-  - On defeat: melts, yellow explosions
+  - On defeat: melts, yellow explosions-->
 
-Here would propose a concept which was partially referred to near the [analysis of the nature of darkfire](), since we have established a connection between trojans and Spiral Wardens.
+<!--Here would propose a concept which was partially referred to near the [analysis of the nature of darkfire](), since we have established a connection between trojans and Spiral Wardens.-->
 
-What if the pink fire of trojans is indeed a separate, native to Underworld, manifestation of curse, hence the reason for its distinct separation from the purple darkfire of material realm?
+<!--What if the pink fire of trojans is indeed a separate, native to Underworld, manifestation of curse, hence the reason for its distinct separation from the purple darkfire of material realm?-->
 
-If the Shadow Firestorm Citadel was influenced by the curse to the point of its fires in the fire bowls turning purple, why trojans had remains unaffected? Both this and the distinguished color, yet identical to charged dark matter, seems us as if trojans have become native to Underworld to the point of being __unaffected by curse as part of their nature__, similar to Greavers, whose symbolism of the eye does not correspond to them inflicting curse.
+If the Shadow Firestorm Citadel was influenced by the curse to the point of its fires in the fire bowls turning purple, why trojans had remains unaffected? Both this and the distinguished color, yet identical to charged dark matter, seems us as if trojans have become native to Underworld to the point of being _unaffected by curse as part of their nature_, similar to Greavers, whose symbolism of the eye does not correspond to them inflicting curse. Yet it was brought up whether purple brning of trojans is related to darkfire.
 
 For the rest of species coming from the material realm, curse is the identified of them transitioning to the fiendish nature of Underworld.
 
@@ -6850,7 +6849,7 @@ We propose that the souls is the unlimited source of energy for the corporeal bo
 
 The thematic duality of chaos and nothingness is most present in dark matter mineral and Nameless Realm. Through this duality, we disregard _curse as a natural phenomenon_, one conforming to alchemical transmutation and laws of this Universe.
 
-The theme of duality will be explored in the next chapter, fully deriving from alchemical meaning.
+The theme of duality will be explored in the next chapter, fully deriving from alchemical interpretation of of the setting and its narratives, while considering select myth-inspired notions, as all become perpetually suspended and encapsulated in the total of Clockworks.
 
 <center class="chapter-break">
   <span class="energy">☿</span>
