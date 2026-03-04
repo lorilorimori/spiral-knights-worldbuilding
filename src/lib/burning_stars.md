@@ -1357,7 +1357,7 @@ The facial anatomy being the closest to devilites also does not allow for a vari
 
 This interpretaion would establish a lasting history and awareness between Valkyries and Underworld, as ones of the most ancient civilization in the timeline, _recognition of their cosmically-defined roles_.
 
-#### Lumbers as Constructs
+#### Dread Seal: Part 1: Lumbers as Constructs
 
 On the note of constructs connected with nature, such as gun puppies, [Lumbers](https://wiki.spiralknights.com/Lumber) may be identified as a non-tortomega invention. They are more crude in their construction, they have curse-like or [sealed sword](https://wiki.spiralknights.com/Sealed_Sword) __seal placed upon them__ instead of being carved, compared to [corrupted tortodrones' shells](https://wiki.spiralknights.com/Tortodrone).
 
@@ -4733,7 +4733,7 @@ On the second revive, those __arcs are seen all throughout Arkus's armor__.
 
 The last stages in that regard resemble tier 3 trojans, as both do have a characteristic purple crystal fuming and lightning arcs. Arkus's dark matter shard, same as trojans', glows pink and __burns with the same purple flame, not found before initial revive__.
 
-This property of burning after a revive in mineral, we propose, is the depiction of __mineral's now charged state with the excess energy of the revive__.
+This property of burning after a revive in mineral, we propose, is the depiction of __mineral's now charged state with the excess energy__ derived from the reviving mechanism behavig near-identiclly to the effect of Spark of Life, therefore containing an energy charge.
 
 Throughout analysis of [Minerals and Souls](#minerals-and-souls-part-1) we had we offered a [framework](#state-of-cradle-metaphysics), which explains nature of [minerals' charge and innate power](#minerals-and-souls-part-2-strangers-mining-operations-crystal-and-mist-energy) as manifestation of [universal Energy](#energy).
 
@@ -4749,15 +4749,15 @@ What connects tortodrones, trojans, and Arkus, is that all have dark matter pres
     - Tortodrone petrifies. Its shell and body made of stone canbe completely destroyed, once tortodrone is defeated.
     - The glyphs, carved on each individual shell of tortodrone stop glowing.
 
-- Trojans, especially tier 3 have their internals, ribcage and eyes, seemingly cracked as stone and burning with the same brighter hue of purple-pink fire and visible lightning arcs.
+- Trojans, tier 3 trojabs included, have their internals, ribcage and eyes, seemingly cracked as made of stone, burning with the same brighter hue of purple-pink fire and visible lightning arcs.
 
-    Their dark matter crystal on the back burns as well and is the same bright pink color, identical to Arkus at his first revive.
+    Their dark matter crystal on the back burns with bright purpl-pink fires same as Arkus after his first revive.
 
-    When trojan is defeated, his crystal shatters, multiple purple explosions happen, and trojan petrifies, identical to a tortodrone.
+    When trojan is defeated, his crystal shatters, multiple purple explosions happen, and trojan petrifies. Tortodrone pterifies, too, after purple smoke or mist exists its shell.
 
 - Arkus has the same dark matter crystal, with the first revive it starts to burn as well as emit arcs of purple lightning.
 
-    With the second revive purple lightnings arcs traverse entirety of Arkus's armor.
+    With the second revive _purple lightnings arcs traverse_ entirety of Arkus's armor.
 
     When Arkus is defeated, no shattered crystal is seen, but the purple explosions remain. Arkus does not turn to stone.
 
@@ -4767,7 +4767,7 @@ What connects tortodrones, trojans, and Arkus, is that all have dark matter pres
 
     What sets him apart from trojans is the presence of everfrost onto his skull, forming a vertical spike. When he is defeated, the everfrost shard shatters with its distinct color.
 
-With those notion, we extend this roster of characters to include last 2 instances revolving around dark matter and its association with Underworld and curse -- Darkfire Lord Vanaduke's and Carnavons' __claws, made of dark matter, as if being transformed__. As Lord Vanaduke and other zombies had at some point Isoran physiology, then the appearance of claws strogly suggest an element of irreversable transformation. And in case of Lord Vanaduke, __bordering body horror__.
+With those notion, we extend this roster of characters to include last 2 instances revolving around dark matter and its association with Underworld and curse -- Darkfire Lord Vanaduke's and Carnavons' _claws, made of dark matter, as if being transformed_. As Lord Vanaduke and other zombies had at some point Isoran physiology, then the appearance of claws strogly suggest an element of irreversable transformation. And in case of Lord Vanaduke, __bordering body horror__.
 
 __Is ruinous crystal the source of Arkus's transfomration into a trojan?__
 
@@ -5136,13 +5136,13 @@ We will analyze Valkyries and Owlite from a different perspective -- of __their 
 
 #### Forgotten Time: Part 1: Divine Light
 
-`An upgraded set of Silvermail that is said to shine brightly even in the darkest of hours` ([Radiant Silvermail](https://wiki.spiralknights.com/Radiant_Silvermail)). It has [Philoso Feather](https://wiki.spiralknights.com/Philoso_Feather) used in its alchemy and is an upgrade of 4-star [Silvermail](https://wiki.spiralknights.com/Silvermail), `Strong, yet light armor for knights who've sworn an oath to hunt down and destroy the undead, wherever it may lurk`.
+[Radiant Silvermail](https://wiki.spiralknights.com/Radiant_Silvermail), `An upgraded set of Silvermail that is said to shine brightly even in the darkest of hours`, has [Philoso Feather](https://wiki.spiralknights.com/Philoso_Feather) used in its alchemy and is an upgrade of 4-star [Silvermail](https://wiki.spiralknights.com/Silvermail), `Strong, yet light armor for knights who've sworn an oath to hunt down and destroy the undead, wherever it may lurk`.
 
-Here we will attempt to pair `said to shine brightly even in the darkest of hours` of [Radiant Silvermail](https://wiki.spiralknights.com/Radiant_Silvermail) with the description of Underworld, predominantly due to themes of light, divinity and prior upgrade -- [Silvermail](https://wiki.spiralknights.com/Silvermail), -- referring to undead directly, `hunt down and destroy the undead, wherever it may lurk`, while acknowledging darkness of Underworld as supernatural for material realm.
+Here we will attempt to pair `said to shine brightly even in the darkest of hours` of [Radiant Silvermail](https://wiki.spiralknights.com/Radiant_Silvermail) with the depicions of Underworld through a motif of light, divinity. [Silvermail](https://wiki.spiralknights.com/Silvermail) refers to undead directly, `hunt down and destroy the undead, wherever it may lurk`, while acknowledging darkness of Underworld as supernatural for material realm.
 
-This leads us to suggest -- as supernatual darkness of Underworld can be illumitaned by supernatural, divine means, as observed across Candlestick Keep, the __nature of the light is supernatural__ both for [Radiant Silvermail](https://wiki.spiralknights.com/Radiant_Silvermail) and [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin) (`Its golden frame was believed to provide light within the impenetrable darkness of the Underworld` - [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin)).
+This leads us to suggest -- as supernatual darkness of Underworld found across the Owlite Academy and graveyards can be illumitaned by supernatural, divine means, as observed across Candlestick Keep, the __nature of the light becomes supernatural or divine__ both for [Radiant Silvermail](https://wiki.spiralknights.com/Radiant_Silvermail) and [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin) (`Its golden frame was believed to provide light within the impenetrable darkness of the Underworld` - [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin)).
 
-A peculiar element to those recipes consists _of a lack of_ [Trojan Horseshoe](https://wiki.spiralknights.com/Trojan_Horseshoe), compared to other Valkyrian armors, implying _a lack of connection to the Legion of Ur_ and the time it was sealed, alluding to, potentially different prediod of time, existing _before Legion of Ur was defeated or sealed_.
+A notable element to those recipes consists of _a lack_ of [Trojan Horseshoe](https://wiki.spiralknights.com/Trojan_Horseshoe), compared to other Valkyrian armors, implying _a lack of connection to the Legion of Ur_ and the time it was sealed, alluding to, potentially different prediod of time, existing _before Legion of Ur was defeated or sealed_.
 
 Mention of `knights` and of `oath` is similar to Guardian's Oath of Spiral Order, but also to [Blackhawk](https://wiki.spiralknights.com/Blackhawk), `A shadow-aligned handgun of incredible power, it's said to contain the soul of a knight who was only two days from retirement`, __presenting a concept of handgun-wielding knights__, which had knowledge of undeath and potentially Underworld.
 
@@ -5162,23 +5162,27 @@ We have previously pointed out a motif of light and radiance in relation to [Gil
 - `A mysterious antique with a brilliant silver finish, these handguns are said to have been wielded by 'gunslinger priests' during a now forgotten time` ([Silversix](https://wiki.spiralknights.com/Silversix)).
 - `Strong, yet light armor for knights who've sworn an oath to hunt down and destroy the undead, wherever it may lurk` ([Silvermail](https://wiki.spiralknights.com/Silvermail)).
 
-Yet those knights are thematically distinct from Valkyries and Owlites, despite a common focus on hunting Undead with _lesser presence of divinity associated with Valkyries_.
+Yet those knights are thematically distinct from Valkyries and Owlites, despite a common focus on _hunting the undead with lesser presence of divinity commonly associated with Valkyries_.
 
-##### Divinity, Celestial Beings, Celestial Ore
+#### Cradle Metaphysics: Part 2: Divine and Celestial Beings
 
-Aforementioned connection of Owlites to Valkyries through common themes, does not explain the reason behind of Valkyries being called the `celestial beings` or their nature.
+Aforementioned connection of Owlites to Valkyries through common theme of magoc transitionin ginto divinity does not explain the reason behind of Valkyries being called the `celestial beings` nor explains their nature.
 
-It can be understood through the same lens of biblical lore reminiscent of [Armor of The Fallen]() by linking _Valkyries to Angels at the heavenly kingdom_, using the term of celestial beings applicable to celestial entities, _Seraphs_, as in case of [Seraphic Mail](https://wiki.spiralknights.com/Seraphic_Mail): `A beautiful mail coat that causes its wearer to strike out at evil with righteous fury`.
+But, this relation can be understood through the lens of biblical lore as a certain motif of framing characters and location, as in case of [Armor of The Fallen](), by linking _Valkyries to Angels at the heavenly kingdom_, while using the term of `celestial beings` _to identify to celestial entities_, __Seraphs__, as in case of [Seraphic Mail](https://wiki.spiralknights.com/Seraphic_Mail): `A beautiful mail coat that causes its wearer to strike out at evil with righteous fury`.
 
-A system of those symbols is nearly identical to [Divine Mantle](https://wiki.spiralknights.com/Divine_Mantle)) as it links divinity to celestial nature, `A heavenly cloak thought to be once worn by celestial sages`.
+This system of symbols is similar to one noted in [Divine Mantle](https://wiki.spiralknights.com/Divine_Mantle)) as _it links divinity to celestial nature_, `A heavenly cloak thought to be once worn by celestial sages`.
 
-Owlites in that context completely lack any of those characteristics, only approaching it through the [Divine Mantle](https://wiki.spiralknights.com/Divine_Mantle). In case of th emantle, the _celestial property and divinity grant protection from curse_, as well as linking Owlites and Valkyries as both possessing a celestial property of divinity.
+Owlites in that context completely lack any of those characteristics associated with divinity, only approaching them through the [Divine Mantle](https://wiki.spiralknights.com/Divine_Mantle). In case of the mantle, the _celestial property and divinity grant protection from curse_. Acknowledgement of celestial beings and divnity by owlites links their research and identity to valkyries.
 
-In the recipe of [Divine Mantle](https://wiki.spiralknights.com/Divine_Mantle) there is [Silverweave](https://wiki.spiralknights.com/Silverweave), and, as it is described as `length of understated cloth intricately interwoven with precious metal. It's tastefully ostentatious, yet prudently protective` ([Silverweave](https://wiki.spiralknights.com/Silverweave)), we propose that [Sun Silver](https://wiki.spiralknights.com/Sun_silver) partially grants the mantle its divine or celestial properties, as __motif of silver as heavenly and divine__, and material's presence allows for this connection to be strengthened.
+In the recipe of [Divine Mantle](https://wiki.spiralknights.com/Divine_Mantle) there is [Silverweave](https://wiki.spiralknights.com/Silverweave), and, as it is described as `length of understated cloth intricately interwoven with precious metal. It's tastefully ostentatious, yet prudently protective` ([Silverweave](https://wiki.spiralknights.com/Silverweave)), we propose that [Sun Silver](https://wiki.spiralknights.com/Sun_silver) is the essential element which grants the mantle its divine or celestial properties through the __motif of silver being heavenly or divine__. Sun silver itself if used across valkyrian gear -- the [Valkyrie Mail](https://wiki.spiralknights.com/Valkyrie_Mail) and [Armor of the Fallen](https://wiki.spiralknights.com/Armor_of_the_Fallen).
 
-It can be linked back to radiant, supernatural light of [Radiant Silvermail](https://wiki.spiralknights.com/Radiant_Silvermail) and [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin). It allows us to identify properties of light captured, reflected or emitted by the silver as result of its supernatural nature being Sun Silver refined from the [Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore), `An extremely rare metal of great power said to be from the heavens above. It is often completely wasted on crowns and jewelry for slime royalty`.
+It can be linked back to radiant, supernatural light of [Radiant Silvermail](https://wiki.spiralknights.com/Radiant_Silvermail), `An upgraded set of Silvermail that is said to shine brightly even in the darkest of hours`, and [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin), `Its golden frame was believed to provide light within the impenetrable darkness of the Underworld`. It allows us to identify properties of light captured, reflected or emitted by the silver as result of its supernatural nature being Sun Silver refined from the [Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore), `An extremely rare metal of great power said to be from the heavens above. It is often completely wasted on crowns and jewelry for slime royalty`.
 
-Celestial Ore contains supernatural power `from the heavens` capable of resisting and suppressing darkness of Underworld, but whether the heavans may be identified  as the Valkyrian heavenly kingdom, is up for discussion.
+To lesser extent, we note on universal presence of [Light Shards](https://wiki.spiralknights.com/Light_Shard) used across alchemy of aforementioned gear, it is [Luminite](https://wiki.spiralknights.com/Mineral#Luminite), `A fabled mineral of a radiant, golden color said to contain the faith, wisdom, and zeal of the life surrounding it`.
+
+_The golden-colored radiance of Luminite is seemingly indistinguishable from other instances of light which tap into the divine and celestial_. And as the mineral is present across all valkyrian, gunslinger and owlite gear, we suggest it is meant to embody the divinity within this interpretaion, separate from the _celetial aspect, which while is included as part of the divine, it exists within a certain cosmology as it acknowledges it_ as in case of relating to heavens.
+
+Celestial Ore contains supernatural power `from the heavens` capable of resisting and suppressing darkness of Underworld, but whether the heavens may be identified geographically as the Valkyrian heavenly kingdom, is up for discussion.
 
 ##### Divinity of A Dragon
 
@@ -5186,31 +5190,31 @@ This connection to divine and celestial seems as an interchangeable in oppositio
 
 There we have connected divinity of _divine drakon and hypothesized divine dragon to elemental damage through concept of storms_, where the latter is [closely associated with a Valkyrian pantheon](#lesser-creaton-myth).
 
-We have to point out that all 5-star upgrades of [Magic Hood](https://wiki.spiralknights.com/Magic_Hood) contain elemental defense. At that, __elemental damage is most prominently characterized as magic__.
+We have to point out that all 5-star upgrades of [Magic Hood](https://wiki.spiralknights.com/Magic_Hood) contain elemental defense. At that, __elemental damage at its extremes is most prominently characterized as magical__.
 
 ##### Divinity of Nameless Realm
 
-Given context of Chaos Cloak, could it be, that elemental damage is at the foundation of the divine through the connection to the [Nameless Realm](#nameless-realm), and _due to which it is characterized both divine and magical_?
+As of currently Owlite academy was researching magic which, compared to the valkyrian army, led to Owlites' academy _uniforms being protected from both fire and shock_ -- __elements to which Valkyries were physically weak__.
 
-During Academy's continuous operation Owlites had likely discovered an elemental realm, labeling it as the Nameless Realm, `A forbidden mantle said to grant the wearer protection within the nameless realm where all elements are said to converge into one and divide into all` ([Chaos Cloak](https://wiki.spiralknights.com/Chaos_Cloak)). Due to presence of curse and presence of Underworld materials, in particular, the [Trojan Horseshoe](https://wiki.spiralknights.com/Trojan_Horseshoe), used in transmuation of the Chaos Cloak, we propose that discovery of Nameless realm had happened far later into the timeline. It underlines the inherent danger of magic which becomes the centerpoint of the narrative revolving around the Kataclysm.
+Given context of Chaos Cloak, could it be, that elemental damage is at the foundation of the divine through the connection to the [Nameless Realm](#nameless-realm), and _due to which it may be characterized both divine and magical -- celestial_?
 
-And as all of Owlite equipment of that alchemy tree has elemental defense, __discovery of Nameless Realm seems as a major point in their understanding of Universe's laws__.
+During Academy's continuous operation Owlites had palusibly discovered an elemental realm, labeling it as the Nameless Realm, `A forbidden mantle said to grant the wearer protection within the nameless realm where all elements are said to converge into one and divide into all` ([Chaos Cloak](https://wiki.spiralknights.com/Chaos_Cloak)). Due to presence of curse and presence of Underworld materials, in particular, the [Trojan Horseshoe](https://wiki.spiralknights.com/Trojan_Horseshoe), used in transmuation of the Chaos Cloak, we suggest that discovery of Nameless realm had happened far later into the timeline. It underlines the inherent danger of magic which becomes the centerpoint of the narrative revolving around the Kataclysm.
 
-We do not know whether Owlites have derived most of elemental gear from this discovery, or the discovery of a separate realm has followed later. As of currently Owlite academy was experimenting with many elements which, compared to the valkyrian army, led to Owlites' academy _uniforms being protected from both fire and shock_ -- elements to which _Valkyries were particularly weak_.
+And as all of Owlite equipment of that alchemy tree has elemental defense, __discovery of Nameless Realm seems as a major milestone in development of their technology__.
 
 #### Forgotten Time: Part 2: Radiance of Griffon
 
 With those working assumptions we can begin building a vague timeline, wherein:
 
 1. There would be Spiral Wardens. Spiral Wardens are to be transformed into trojans.
-2. Valkyries as celestial beings have started from fighting undead moved to combatting fiends in the Underworld while utilizing elemental damage for hunting undead and piercing damage for fiends.
-3. A period of Gunslinger Priests would establish a bridge between narratives of fighting Undead to opposing Underworld directly.
+2. A period of Gunslinger Priests would establish a bridge between narratives of fighting Undead to opposing Underworld directly.
+3. Valkyries as celestial beings have started from fighting undead moved to combatting fiends in the Underworld while utilizing elemental damage for hunting undead and piercing damage for fiends.
 
-Above scenarios involve a starting event, which would allow for this potential progression to happen, including the event of Isorans transforming to trojans as a major event which would tie with trojans accompanying Lord Vanaduke, eventually being sealed by Valkyries in the Underworld.
+Above scenarios requires an initial event, which would allow for this sequence to happen.
 
 While we have left relation of Owlites and Valkyries to celestial and angelic beings, [Seraphynx](https://wiki.spiralknights.com/Seraphynx), despite being a Kat battle sprite, also possesses a theme of divinity through its physiology, name, and skills, such as `Angelic Aura` which can be turned into `Seraphic Aura` or `Valkyrian Aura`.
 
-Due to aforementioned discrepancy of [Raiment](https://wiki.spiralknights.com/Raiment_(Costume)), `A long, flowing battle garb best accessorized with a pair of angelic wings`, it seemingly frames Valkyries as separate from Owlites, as the latter species already bear large wings. We would propose, that the description of [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin), `A beautiful pistol named after a great, noble beast. Its golden frame was believed to provide light within the impenetrable darkness of the Underworld`, allows for a different species to exist, which would allow for a simultaneous resolution and connection of multiple narratives.
+Due to aforementioned discrepancy of [Raiment](https://wiki.spiralknights.com/Raiment_(Costume)), `A long, flowing battle garb best accessorized with a pair of angelic wings`, it frames Valkyries as separate from Owlites, as the latter species already bear large wings. We would propose, that the description of [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin), `A beautiful pistol named after a great, noble beast. Its golden frame was believed to provide light within the impenetrable darkness of the Underworld`, allows for a different species to exist, which would allow for a simultaneous resolution and connection of multiple narratives.
 
 There would be __griffons -- semi-draconic ancestors of Valkyries evolving from wyverns and posessing radiance of the same origin as the Celestial Ore__. It would cahracterize griffon as a `celestial being` on par with Valkyries.
 
@@ -5497,7 +5501,7 @@ If the figure leading the legion was a fiend, its motivations had differed from 
 
 How in this regard a Valkyrian would be knowledgable of such scale of transformation and experience to perform it?
 
-#### Cradle Metaphysics: Part 2: Paradise
+#### Cradle Metaphysics: Part 3: Paradise
 
 We propose that Fallen Valkyrian is responsible for the creation of Legion of Ur, as this relation solidifies figure's biblical motif -- banishemt of Lucifer from paradise to be the narrative which had created the foundationsfor this character while also provide a defined enough explnation for Fallen Valkyrian's motivations.
 
@@ -6085,17 +6089,17 @@ The last element of Margrel's summoning we have not yet covered is the _pink lig
 
 Arkus's sword slam attack has _pink lightning strike from above_, and forms dark crimsotine shards, similar to tortodrone missiles. Those depleted crimsonite shards are the same as tortodrones'.
 
-Yet, as much as we have discussed [nature of portals and grim gates](#grim-gate-portal-collapse), we do not know nature of lightning or its symbolic role beyond what relates to [lesser creation myth and a pantheon of heavenly deities](#lesser-creaton-myth), other than being to some extent connected to Underworld, given context of lightning's appearances.
+Yet, as much as we have discussed [nature of portals and grim gates](#grim-gate-portal-collapse), we do not know nature of lightning or its symbolic role beyond what relates to [lesser creation myth and a pantheon of heavenly deities](#lesser-creaton-myth), other than being to some extent connected to Underworld, given context of lightning's appearances and hue.
 
-We suggest so far a vague idea of it being a sign of Underworld's presence, as across myth's lightning strike was associated with the presence of the supernatural, or more commonly, divine presence or intervention. In case of the dark ritual, it is not the divine presence, but of Underworld most distinctly.
+We suggest so far a vague idea of it being a sign of Underworld's presence, as across myth's lightning strike was associated with the presence of the supernatural, or more commonly, divine presence or intervention. In case of the dark ritual, it is not the divine presence, but of Underworld.
 
-We have to consider in case of Arkus the formation of minerals which, given nature of minerals as energy mediums, mey be a result of near-instant transfer of energy into a solid form. As in case of Arkus and most evidently in case of Margrel, th energy is related to Underworld, but the reason behind a relation of Underworld to lightning is unknown.
+We have to consider in case of Arkus the formation of minerals which, given nature of minerals as energy mediums, may be a result of near-instant transfer of energy into a solid form from the lightning. As in case of Arkus and most evidently in case of Margrel, the lightning is related to Underworld, but the reason behind this relation is unknown.
 
 This notion is similar to the behavior of Sparks of Life, as Sparks of Life are already identified as discrete quantities of energy enough to revive, presence of lightning could seem as a specific design choice.
 
 Apart from the lightning bolt itself, revival through Spark of Life is _accompanied by falling dust_ similar to the presence of the Swarm at Swarm-infested depths. This seems as a different instance of signaling energy's presence through blue lightning, its excess, symbolized by the temporary attack buff.
 
-#### Dread Seal, Restriction and Focus
+#### Dread Seal: Part 2: Restrictions
 
 Presence of Dread Seals on Black Kats, Margrel, and Carnavons both by its placement and its name implies a figure or faction which had placed it onto them, evoking the first discussed case of [sealing magic found for elemental lumbers](#lumbers-as-constructs).
 
@@ -6105,17 +6109,17 @@ For Avanger and Faust the seals appears in arcane glowing form, closer to the na
 
 Then there is Margrel who is now established to oppose Owlites and was banished into the Underworld with the Book of Grey Feathers. Posseion of the purple seal may suggest him being marked by it, yet the color itself coupled with the Gran Faunt may be interrpreted as technology of Underworld.
 
-__Dread Seal's appearance is similar to the Taoist Fu talisman__. The Fu talisman is placed by a priest on certain type of ghosts named __Jiangshi in Chinese folklore__, specifically their forehead _in order to hinder them_. The comparison to Jiangshi emerges from a similar pattern of talisman's placement for Carnavons, as Carnavons are most humanoid among entities bearing the seal, other than the Isoran knights themselves, and kats.
+__Dread Seal's appearance is similar to the Taoist Fu talisman__. The Fu talisman is placed by a priest on certain type of ghosts named __Jiangshi__ _in Chinese folklore_, specifically, on their forehead _in order to hinder them_. The comparison to Jiangshi emerges from a similar pattern of talisman's placement for Carnavons, as Carnavons are most humanoid among entities bearing the seal, other than the Isoran knights themselves, and kats.
 
-This similarity creates subsequent implications, yet they depend onto 2 interpretations of seal's owner, _whether it is created by owlites or fiends_.
+This similarity creates subsequent implications, yet they depend on 2 interpretations of seal's owner, _whether it is created by owlites or fiends_.
 
-For now we will explore the interpretation where the seal, _despite its color within color-coded reality_, is created by owlites.
+For now we will explore the interpretation where the seal, _despite its color within color-coded setting_, is created by owlites.
 
 If the seal was created by owlites, it may be paired with warding candles as _both showcase a precise understanding of Underworld's metaphysics_.
 
-There is also the [Sealed Sword](https://wiki.spiralknights.com/Sealed_Sword) which we proposed to be the retrieved and sealed variant of Gran Faust, as it possesses across entirety of alchemy tree the [evil eye symbolism](#evil-eye). Furthermore, as the Avenger line of upgrades is characterised by its divinity, we suggest that the symbol of the eye was recontextualized, resulting in the __yellow dread seal__ which compaed to the present, purple Dread Seal, possesses higher chance to be created by owlites due to _close proximity of motifs the Avenger possesses despite its initially sealed design_.
+There is also the [Sealed Sword](https://wiki.spiralknights.com/Sealed_Sword) which we proposed to be the retrieved and sealed variant of Gran Faust, as it possesses across entirety of alchemy tree the [evil eye symbolism](#evil-eye). Furthermore, as the Avenger line of upgrades is characterised by its divinity, we suggest that the symbol of the eye was recontextualized, resulting in the __yellow dread seal__ which, compared to the present purple Dread Seal, possesses marginally higher chance to be created by owlites due to color coreleation with divinity in its design.
 
-Previously we have explored the gunslinger priests, commiting to a scenario, where they were Isorans. The priesthood becomes more relevant in case of the seal as a warding talisman, as it would be _placed by a figure which possesses an extensive knowledge of the seal itself_ which would be plausible for both factions -- fiends or owlites.
+Previously we have explored the gunslinger priests, commiting to an interpretation, where they were Isorans. The priesthood becomes more relevant in case of the seal as a warding talisman, as it would be _placed by a figure which possesses an extensive knowledge of the seal itself_ which would be plausible for both factions -- fiends or owlites.
 
 From this initial overview of the seal 3 following interpretations may be presented:
 
@@ -6131,11 +6135,11 @@ From this initial overview of the seal 3 following interpretations may be presen
 
   This narrative groups creation of warding candles and seals under a speculated period of time prior to collapse of owlite civilization and _after the Kataclysm_.
 
-- Purple Dread Seals are Underworld's invention as pre-Undercorp occult-themed technology.
+- Purple Dread Seals belong to Underworld as pre-Undercorp occult-themed technology.
 
   We consider such scenario due to purple color among the rest of design properties, as it is _uncharacteristic of owlite technology or magic_.
 
-  Presence of pale, curse-colored seal on Faust is a more refined iteration on the seal as Underworld's creation.
+  Presence of pale, curse-colored seal on Faust then may be seen as a more refined iteration on the seal as Underworld's creation, other than [seals found on elemental lumbers]().
 
   Yet, this interpretation does not provide a surface-level answer to the reason why the seal was placed onto Black Kats and Carnavons, _unless the seal does not inherit the warding propreties of the Fu talisman_, __but marks presence of curse__.
 
@@ -6143,23 +6147,25 @@ Prior 2 instances where the seal belongs to owlites create a requirement for a p
 
 _Given presence of evil eye symbolism on the Chaos Cloak,_ as well as its resistances, we assume, that it would be the reason for a major advancement in understanding of curse and general cosmology by owlites, but at that point, it offers only an _acknowledgement by owlites of curse and its relations to established metaphysics as being capable to be countered with divine power_.
 
-##### Owlite's Inversion of Curse
+It is here a concept of inverted curse should be brought up. Yellow dread seal is present on the [Divine Avenger](https://wiki.spiralknights.com/Divine_Avenger). Compared to the Dread Seal of purple color, the golden variation of the seal most plausibly belongs to heavenly kingdom due to design change and association of color with divinity. If Faust and Dread Seal are created by Underworld, the yellow variation must reflect those properties with a benevolent purpose as it is attributed to a faction of celestial beings.
 
-It is here a concept of inverted curse should be brought up. Yellow evil eye and dread seal are present on the [Divine Avenger](https://wiki.spiralknights.com/Divine_Avenger).
+The creator of the Avenger line of swords would be required to possess extensive knowledge of curses. Given this prerequisite we assume at that point those creators to be owlites through observed instances of the symbol of evil eye being used in conjunction with more direct cases of interraction with curse, such as armors -- [Divine Mantle](https://wiki.spiralknights.com/Divine_Mantle) and [Chaos Cloak](https://wiki.spiralknights.com/Chaos_Cloak), -- and divinity.
 
-Compared to the Dread Seal of purple color, golden variation of the seal most plausibly belongs to heavenly kingdom due to design change and association of color with divinity.
+Within this dual perspective on the seal we assume that function of the _golden seal would be relatively indifferent from its purple variant_.
 
-If Faust and Dread Seal are created by Underworld, the yellow variation must reflect those properties with a benevolent purpose as it is attributed to a faction of celestial beings.
+If it was placed with purpose, through logic of Underworld, it would not function as a suppressive mechanism,or at least one designed to hinder the bearer. If we return to its function inspired by the Fu talisman, it would be framed as sign of a unknown kind of restirction:
 
-The creators of the Avenger line of swords would be required to possess extensive knowledge of curses which we assume at that point to be owlites through observed instances of the symbol of evil eye being used in conjunction with more direct cases of interraction with curse, such as armors -- [Divine Mantle](https://wiki.spiralknights.com/Divine_Mantle) and [Chaos Cloak](https://wiki.spiralknights.com/Chaos_Cloak).
+- As it was [sealing of elemntal souls for elemental lumbers]()
+- [Sealed Sword](https://wiki.spiralknights.com/Sealed_Sword) is not allowed to emit its power, `A mysterious sword of great untapped potential. It hums with raw power` ([Sealed Sword](https://wiki.spiralknights.com/Sealed_Sword)).
+- Sealed [Faust](https://wiki.spiralknights.com/Faust) and [Avenger](https://wiki.spiralknights.com/Avenger) are closer to lumbers in their reaction to the seal as the __focal point of contained power__, which would not be required when the _underlying technology is perfected_ in the form of corresponding 5-star variants devoid of seals.
 
-Within this dual perspective on the seal, we suggest a tangible function for the seal which would be relatively unchanged between curse and divinity. If it was placed with purpose, through logic of Underworld, it would not function as a benevolent suppressive mechanism, as it was derived from the Fu talisman, but rather it focuses inherent presence in a general direction:
+Through this common element we can arrive to a more precise identity of the Dread Seal, as one of __restriction__. The similarity to the Fu talisman is retained in the neutral nature of this type of restriction -- __not made to hinder divity nor curses exclusively__ -- _which bridges it with the chaos of Nameless Realm and its association with all of elements including curses_.
 
-- As it was [sealing of elemntal souls for elemental lumbers](#lumbers-as-constructs)
-- Sealed sword is not allowed to emit its power
-- But sealed Faust and Avenger are closer to lumbers in their reaction to the seal as the __focal point of contined power__, which would not be required when the _underlying technology is perfected_ in the form of corresponding 5-star variants devoid of seals.
+The sealed sword, we propose, becomes the key elemnt to understnding seal's influence -- it forbids a contained within the object or entity power to be emitted. Sealed sword, devoid of affiliation with any party in its _neutralized state_, possesses not only normal-only damage, but bears random nature of status effects without curses, partially reminiscent of Chaotic Haze of Maskeraith or Chaos Clock neative resistances.
 
-Through this common element we can arrive to a more precise identity of the Dread Seal, as one of __restriction__. The difference from the Fu talisman exists in the neutral nature of this type of restriction, __not made from divine nor from curses__, _which bridges it with the chaos of Nameless Realm and its association with all of elements including curses_.
+When view in the context of Avenger as a refined variant of the sword meant to servve celestial beings, amount of paper seals is reduced while a glowing seal appears with it which is absent for 5-star variant. The golden seal becomes intermediate means of diverting `raw power` of sealed sword into the divine by very means of using an underlying principle of seals to refine its output. The curse is recontextualized as a specific kind of restriction.
+
+The composition of the sword, on the other hand, makes it to be affiliated with certain kinds of power, such as shadow steel or sun silver -- _metals which are either imbued with supernatural darkness of Underworld or celestial radiance of heavens asabstract forces_.
 
 #### Miracles and Divinity
 
@@ -6302,7 +6308,7 @@ As Valkyries are positioned as guardians of heavenly kingdom, as they were ones 
 
 As in the modern times there is only a single location which requires protection other than supposed paradise, while being the most alien -- the Whitespace of the Core which houses Sleeper, whose need in protection was the driving force for Clockworks to be, seemingly, constructed: `THIS WORLD WAS CREATED TO PROTECT ME. VULNERABLE IN SLUMBER, WORLDS WERE DRAWN TO SHIELD ME FROM THE DARKNESS` ([Echo Stone: Ironclaw Munitions Factory]()).
 
-__Is the modern Whitespace within the Core identical to protected by valkyries paradise above heavenly kingdom after there was no living civilizations left of Cradle to protect it from the Underworld?__
+__Is the modern Whitespace within the Core identical to protected by valkyries paradise above heavenly kingdom after there was no living civilizations left on Cradle to protect it from the Underworld or Apocrea?__
 
 How Nameless Realm, the Void, and Spirit Mother's realm fit into this cosmology?
 
@@ -6313,31 +6319,25 @@ At this stage of the analysis, when a certain cosmologyis established, we aim to
 - The Void and Whitespace remain to be explored.
 - The primordial blackness of Apocrea remains tied to the soul-fueled nature of Apocrean engines. The engines themselves present an apocalyptic scenario of reality being desintegrated into this state. The primordiality of this state may hint at a common mythological state of non-existence before creation, similar to an arrangement of alchemical inerpretations of cosmogony.
 
-#### Alien Nature of Curse
+#### Cradle Metaphysics: Part 4: Universal Laws
 
 We eventually arrive to an observation, where curse or depiction of evil eye become an everpresent element across most of the narratives so far explored.
 
-The curse is alien for material realm, yet it grants immortality by tethering soul to material realm as a method of suspending indefenetely a physical body with soul tethered to it.
+The curse is foreign for material realm, yet, when present, it grants immortality by tethering soul to an aura -- a corporeal form within material realm. Through alterations by curse physical body is suspended indefenetely in animation, while remaining vulnerable.
 
-Would the state of divinity, coming from the paradise, cause the same effect of immortality, but in opposite to Underworld's influence, of one's soul being closer to a _realm of energy which conducts shape of that very energy as a soul_?
+Would the state of celestil influence or divinity, coming from the paradise above heavenly kingdom, cause the same effect of immortality, but in opposite to Underworld's influence? As in case of Grimalkin, the body is repositioned further to nature of Underworld, but __what if one would be repositioned closer to higher realms with aforementioned forces of divinity and celestiality being the source of alteration__? Moreover, if those realms are the realms of energy __which conduct shape of that very energy as souls, embers, minerals, etc., how this divination would appear__?
 
-As far as we were looking at the heavenly kingdom, they seem to present this exact case -- a civilization of celestial beings, guardians of paradise, as the location from which Fallen Valkyrian was cast down.
+As far as we were looking at the heavenly kingdom, they seem to present this exact case -- a civilization of celestial beings, guardians of paradise, as the location from which Fallen Valkyrian was cast down and remaining immortal through reliance on the narrative.
 
-We have seen across instances of Circles of Art and Owlite Tomes that they operate by the same principle of fiendish magic. Fiendish sigils made of minerals inscribed into patterns or assembled into configurations, through which they radiate auras or store energy and data, used as the basis both for Owlite magic and spells, Underworld's operation, connection of realms both to lower ones and to higher ones.
+We have seen across instances of Circles of Art and Owlite Tomes that they operate by the same principle of fiendish magic. Fiendish sigils made of minerals inscribed into patterns or assembled into configurations, through which they radiate auras or, as in case of glyphs, store energy and data, used as the basis both for Owlite magic and spells, Underworld's operation, connection of realms both to lower ones and, potentially, given univeral nature of the laws, to higher realms.
 
 Within this duality exists a __common set of metaphysical rules which are devoid of inherent divinity to them__, unless framed so or the analysis of Whitespace provides solid groud to suggest so.
 
-<!--What if material realm was not invaded, but blessed by a realm above. As Lord Vanaduke had died in the ash pits below Blackened Shrine, then being reborn as a fiend, what would such process be called for a divine realm descending to material realm?-->
-
 But, as far there is a consistent narrative of curse and Undercorp's involvement, what would happen, considering this position of material realm on the metaphysical stack, if lower realm, such as Underworld, would have attempted to siege heavenly kingdom? _How would curse manifest within a higher realm or paradise itself?_ Does Fallen Valkyrian and Nature Sprites qualify as celestial beings ridden by curse?
 
-<!--Apart from this relation, there is one more connection worth mentioning -- one of Apocrea as a dreaming entity similar to Sleeper.-->
+Given Chaos Cloak we previously suggest that curse is incorporated into nature of Nameless Realm, but would it be detrimental for the inhabitants of this realm, or it depends on the proximity to paradise? If owlites were celestial beings, as, potentially, Isorans, curse would act as it does. If we interpret Chaos Cloak as representative of inclusion of curse without rendering it ineffective, as much as other status effects retaining potentcy, how it would influece the deities across heavenly kingdom or the realm of Spirit Mother?
 
-<!--This, if applied to Apocrean Relam, we suggest, marks it as outside of the space which is considered part of natural reality, beginning from the most divine realm. How this translates to the thems both realms possess, we are yet to discover, but, as far as our initial anlysis of Apocrea's motivations suggests, this distinction is driven by Apocrea's intent to `return this cosmic play to its primordial black` ([Professor Allister Danford](https://forums.spiralknights.com/en/node/91276)).-->
-
-<!--As Clockworks were build for vulnerable _slumbering Sleeper_, as Cradle is called so, would Clockworks themselves, then, by their title be associated with a clock -- a device by which Sleeper's slumber was meant to end. Even if this relation is not explored, __what is the metaphycisal state of the entity named Sleeper once it wakes up?__ At that point in the analysis we are unable to answer that question, yet we should keep track of presence of evil eyes and manifestaions of curse for moder-day Cradle.-->
-
-<!--For now, we are required to finally analyze metaphysics of curse, as it is the most essential element, as through its wide presence aforementioned divine motifs were identified.-->
+As far as the expanse of possibilities grows, we will reevaluate nature and definition of curse which considers currently established notions, [metaphysics of dvinity and light](), and principles initially [explored in Dread Seals]().
 
 <center class="chapter-break">
   <span class="energy">🜏</span>
@@ -6775,7 +6775,7 @@ For the rest of species coming from the material realm, curse is the identified 
 
 The counterpart to curse -- a concept of divinity or sainthood, is also found in [Saintly Silver Amulet](https://wiki.spiralknights.com/Saintly_Silver_Amulet), [Sacred Silver Amulet](https://wiki.spiralknights.com/Sacred_Silver_Amulet) and [Blessed Silver Amulet](https://wiki.spiralknights.com/Blessed_Silver_Amulet).
 
-It is also here we should note on the sacred characteristic of 5-star upgrades of the [Padded Armor](https://wiki.spiralknights.com/Padded_Armor) with helms reminiscent of the _medieval and fantasy designs of the Forgotten Time_. The descriptions also make if seems as if the __entire alchemy tree of Padded Armor, as it is designed for handgun combat -- is the modern reemergence of gunslinger priests:__
+It is also here we should note on the sacred characteristic of 5-star upgrades of the [Padded Armor](https://wiki.spiralknights.com/Padded_Armor) with helms reminiscent of the _medieval and fantasy designs of the Forgotten Time_. The descriptions also make if seems as if the __entire alchemy tree of Padded Armor, as it is designed for handgun combat -- is the modern reemergence of gunslinger priests__:
 
 - `A spectral suit of armor for those who are gunning for ghosts` ([Sacred Snakebite Ghost Armor](https://wiki.spiralknights.com/Sacred_Snakebite_Ghost_Armor)).
 - `A phantasmal suit of armor for those who are aiming for the infernal` ([Sacred Falcon Hex Armor](https://wiki.spiralknights.com/Sacred_Falcon_Hex_Armor)).
@@ -6787,20 +6787,20 @@ Due to those notions we suggest 2 interpretaions of the eye:
 
 In order to form the final conclusion, we would have to discuss the Swarm and Shadow Lairs proper as bearers of the _eye symbolism_ and _pink color_, but _devoid of curse_.
 
-#### Metaphysical Restriction
+##### Metaphysical Restriction
 
-The curse can be externally applied, which takes form of a metaphysic restriction placed upon an entity, such as:
+The curse can be externally applied which takes form of a metaphysic restriction placed upon an entity, such as:
 
 - Cursed Nature Sprites are unable to establish a link to a different realm - Spirit Mother's Realm.
 - A knight under curse can attack only through the attack backfiring.
 - Seals placed onto weapons block or direct inwards part fo their power - prime example being Sealed Sword.
-- Sealed entities -- Carnavons, Black Kats, Lumbers, -- are instances of this concept applied thematically and functionally. Only elemental Lumbers possess a seal, is attributed to essence or a soul keeping them operational within an artificially constructed body. Carnavons and Black Kats are marked by the seal, which, given their current condition, blocks so far unseen fraction of their influence onto material realm or focuses them.
+- Sealed entities -- Carnavons, Black Kats, Lumbers, -- are instances of this concept applied thematically and functionally. Only elemental Lumbers possess a seal, is attributed to essence or a soul keeping them operational within an artificially constructed body. Carnavons and Black Kats are marked by the seal, which, given their current condition, blocks so far unseen fraction of their influence onto material realm or focuses them in order to be offense-oriented.
 
 <!--Given [Dazzling Light Ray](https://wiki.spiralknights.com/Dazzling_Light_Ray#Dazzling_Light_Ray): `The ray of light deals extra damage to undead and fiend family monsters`, seal's function can be interpreted as one forbidding greater damage to species of material realm, or, in a more recent interpretation, attributing it to Undercorp, _a tool to tether the soul outside of specificity of Cradle's metaphysics._-->
 
-A restriction manifests through application of a seal, in a most basic form, as seen on elemental lumbers and Sealed Sword, it restricts the function of an object, and, as with lumbers seem to tether a soul to a corporeal body. A more advanced usage -- as the apparition of a seal, -- is seen through presence of the Dread Seal, placed onto Carnavons and Black Kats.
+A restriction manifests through application of a seal, in a most basic form, as seen on elemental lumbers and Sealed Sword, it restricts the function of an object by troapping part of its power within itself, and, as with lumbers tethering souls to a mechanical corporeal body, a more advanced usage, as the apparition of a seal placed onto Carnavons, Black Kats, and Faust, it is used to change focus of the inherent power of the bearer, usually, in an offense-oriented direction.
 
-##### Tortodrone's Case and Gorgofist
+##### Cursed Constructs
 
 A more nuanced relation of curse and constructs is seen in tortodrones, whose shell hides charged crimsonite or dark matter. Given previous motifs, we propose, that carved eyes on the shells are meant to surround the power pistons and contain the mineral as it is drained as power source by the pistons.
 
@@ -6808,11 +6808,13 @@ In case of corrupted tortodrones, due to presence of dark matter, and tempering 
 
 We offer an idea of fiendish, more complex mechanism of securing mineral, power source, through the system, derived from `The Key of Solomon the King` in the form of [warding properties of Circles of Art]() comparable to rudimentary seals with the eye imagery.
 
-The role of Gorgofist than starts to make sense -- this is a dark matter weapon, but it lacks sigil carvings, instead possessing eyes of ancient shells -- as it is not devised by Undercorp, but tortomega and then Isorans.
+With this, we are presented with a certain notion which we will explore _in relation to gremlin constructs_ -- of evil eye used to mark shadow damage. __This notion did not start with gremlins but was characteritic of technology of material realm tied to curses and binding__. Of course, given abundant presence of eyes in the contet of the Swarm, we will elavulate this interpretation of seals, curses, and evil eyes in consideration of those symbols appearing on, by margin, one of most metaphysically complex entities found across Cradle.
 
-<!--#### Physical Transformation and Body Horror-->
+<!--##### Physical Transformation and Body Horror-->
 
-<!--From those entities which are most affected by curse, we believe, are trojans of legion of Ur, Arkus, Black Kats, and Lord Vanaduke. If the bearer of the curse was dead, the soul would leave it, with only traces remaining, as discussed in [haunting section](#haunting).-->
+<!--Lastly we acknowledge the body horror aspect of affliction with curse.
+
+From those entities which are most affected by variation of curse, we believe, are trojans of legion of Ur, Arkus, Black Kats, and Lord Vanaduke. If the bearer of the curse was dead, the soul would leave it, with only traces remaining, as discussed in [haunting section](#haunting).-->
 
 <!--This process of bounding of a souls for constructs is achieved though application of a seal, described above. It seems that the seal has the same property as Owlite texts, through presence of specific symbol, which by the fact of being written, grant the underlying matter power across multiple realms. Same can be thought of the fiendish ritual circles, as their pattern defines their properties and function.-->
 
