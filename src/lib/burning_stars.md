@@ -5178,9 +5178,9 @@ In the recipe of [Divine Mantle](https://wiki.spiralknights.com/Divine_Mantle) t
 
 It can be linked back to radiant, supernatural light of [Radiant Silvermail](https://wiki.spiralknights.com/Radiant_Silvermail), `An upgraded set of Silvermail that is said to shine brightly even in the darkest of hours`, and [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin), `Its golden frame was believed to provide light within the impenetrable darkness of the Underworld`. It allows us to identify properties of light captured, reflected or emitted by the silver as result of its supernatural nature being Sun Silver refined from the [Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore), `An extremely rare metal of great power said to be from the heavens above. It is often completely wasted on crowns and jewelry for slime royalty`.
 
-To lesser extent, we note on universal presence of [Light Shards](https://wiki.spiralknights.com/Light_Shard) used across alchemy of aforementioned gear, it is [Luminite](https://wiki.spiralknights.com/Mineral#Luminite), `A fabled mineral of a radiant, golden color said to contain the faith, wisdom, and zeal of the life surrounding it`.
+In no lesser extent we note on universal presence of [Light Shards](https://wiki.spiralknights.com/Light_Shard) across alchemy of aforementioned gear, it is [Luminite](https://wiki.spiralknights.com/Mineral#Luminite), `A fabled mineral of a radiant, golden color said to contain the faith, wisdom, and zeal of the life surrounding it`.
 
-_The golden-colored radiance of Luminite is seemingly indistinguishable from other instances of light which tap into the divine and celestial_. And as the mineral is present across all valkyrian, gunslinger and owlite gear, we suggest it is meant to embody the divinity within this interpretaion, separate from the _celetial aspect, which while is included as part of the divine, it exists within a certain cosmology as it acknowledges it_ as in case of relating to heavens.
+__The golden-colored radiance of Luminite is seemingly indistinguishable from other instances of light which tap into the divine and celestial__. And as the mineral is present across all valkyrian, gunslinger and owlite gear, we suggest it is meant to embody the divinity within this interpretaion, separate from the _celetial aspect, which while is included as part of the divine, it exists within a certain cosmology as it acknowledges it_ as in case of relating to heavens.
 
 Celestial Ore contains supernatural power `from the heavens` capable of resisting and suppressing darkness of Underworld, but whether the heavens may be identified geographically as the Valkyrian heavenly kingdom, is up for discussion.
 
@@ -7906,9 +7906,7 @@ Within the themes of the casino, we can identify presence of _noir_, both throug
 
 #### Gremlin Mending Rune and the Emblem
 
-Gremlin Mending rune is a spell performed by gremlin menders of Darkfang clan.
-
-This symbol is also identical to Spiral Order's gremlin enemy type classification image, and also, judging by general appearances, it is a consistent image across all gremlin clans.
+Gremlin spell colloquially called _Mending rune_ is a uniquly performed by gremlin menders of Darkfang clan. The emblem within the spell if one of the most widespread symbols on Cradle, associated with all gremlin clans. It would be plasuible to suggest that becouse of its rich presence, it was taken to represent gremlins in Spiral Order enemy classification system.
 
 Based on the fact that Crimson Order imagery is consistent across the facilities, we suggest that this more generalized symbol, an emblem, is of the Great Colony, Iron Law, or closely associated with those, as all known clans abide to the latter.
 
@@ -7920,21 +7918,21 @@ We start from the quote: `A village of outcasts, Emberlight serves as a refuge f
 
 ##### Clans and Minerals
 
-Then there are gremlin wares, such as toolboxes, which have familiar symbol engraved on them. In this direction of tools as a theme, we may look at gremlin mender's staff - a wrench with a mineral, identified as the [Wrench Wand](https://wiki.spiralknights.com/Wrench_Wand): `A heavy hand tool favored by Gremlins. It's good for both tightening bolts and cracking skulls`. Due to presence of gremlin menders all across Clockworks, we can gather, that there exists a parity of prime mineral and gremlin clans, wherein, seemingly, mineral's color sets the prime color of the clan.
+Then there are gremlin wares, such as toolboxes which have familiar symbol engraved on them. In this direction of tools as a motif, we may look at gremlin mender's staff -- a wrench with a mineral, identified as the [Wrench Wand](https://wiki.spiralknights.com/Wrench_Wand), `A heavy hand tool favored by Gremlins. It's good for both tightening bolts and cracking skulls`. Due to presence of gremlin menders all across Clockworks, we can gather, that there exists a parity of prime mineral and gremlin clans, wherein, seemingly, mineral's color sets the prime color of the clan.
 
 With this approach in mind, we can identify that parity:
 
-- Tenderfoot clan gremlins have patches of their emblem with green background, menders utilize Valestone in their spells, placed within the wrench.
-- Ironclaw clan is primarily yellow, with luminite being the mineral used by menders
+- Tenderfoot clan gremlins have patches of their emblem with green background, those menders utilize Valestone in their spells, placing it within the wrench wands.
+- Ironclaw clan is primarily yellow, with luminite being the mineral used by those menders.
 - Darkfang clan is purple, menders of darkfang clan use dark matter, and are the only clan capable of reviving recently fallen gremlins.
 
-As for the rune and its healing properties, it can be applied by gremlin menders to both other living entities as well constructs, including battlepods. In its behavior it resembles healing field of Silkwings, and the rune's emblem shimmers as the dread seal. Menders cast that rune through usage of a wrench equipped with luminite shard, which may point to identity of the principle behind healing.
+As for the rune and its healing properties, it can be applied by gremlin menders both to living entities as well as constructs, including battlepods. In its behavior it resembles _post-mortem healing field of Silkwings_, and the rune's emblem shimmers as the dread seal. Menders cast that rune through usage of a wrench which may point to the principle behind the spell.
 
-There are also [healing totems](https://wiki.spiralknights.com/Healing_Totem#Healing_Totem), found in the Firestorm Citadel after Nature Sprites had began putting out the fires. Those totems also resemble wrenches with mineral shards held within, which function as passive mending. As for their purpose, considering Herex's presence with a large squad of both gremlins and constructs, we suggest totems' placement here is the evidence of them passing through this route prior to knight's arrival.
+There are also [healing totems](https://wiki.spiralknights.com/Healing_Totem#Healing_Totem), found in the Firestorm Citadel after Nature Sprites had began putting out the fires. Those totems also resemble wrenches with mineral shards held within, which function as passive healing. Considering Herex's presence with a large squad of both gremlins and constructs, we suggest totems' placement here is the evidence of Herex passing through this route prior to knight's arrival.
 
-Given the abilities of mender channeled through those specific mineral, we may consider those being charged variants of minerals, as those are effectively used in combat, such as [Sun Shards bomb](https://wiki.spiralknights.com/Sun_Shards): `A shard bomb formed from a small explosive encased in solar-charged Luminite. Whatever you do, don't look directly at it`.
+Given the abilities of a mender channeled through those specific minerals, we may consider those being charged variants of minerals, as those are effectively used in combat, such as [Sun Shards bomb](https://wiki.spiralknights.com/Sun_Shards): `A shard bomb formed from a small explosive encased in solar-charged Luminite. Whatever you do, don't look directly at it`.
 
-But, apart from this pattern, gremlins do utilize all minerals in their weapons. Most common example here is the group of gremlin - knockers, - which are equipped with 2 smaller wrenches, but each with a different mineral. It seems that it is the interaction between those minerals which causes an explosion, which is weaponized:
+Apart from this pattern, gremlins do utilize all minerals in their weapons. Most common example here is the group of gremlin - knockers, - which are equipped with 2 smaller wrenches, but each with a different mineral. It seems that it is the interaction between those minerals which causes an explosion, which is weaponized:
 
 - [Knocker](https://wiki.spiralknights.com/Knocker#Gremlin_Knocker): moonstone and crimsonite, inflicts no status effect.
 - [Lighter](https://wiki.spiralknights.com/Knocker#Gremlin_Lighter): crimsonite and luminite, inflicts fire.
@@ -7945,38 +7943,45 @@ But, apart from this pattern, gremlins do utilize all minerals in their weapons.
 
 Notably, those are the _uncommon-type combinations of minerals_ found across Clockworks, as evident by the [mineral frequency table](https://wiki.spiralknights.com/Minerals#Acquisition), with moonstone-crimsonite being attributed rather to general gremlin stratum. Could it be, this __strategic placement of minerals is explained by their explosive nature__ of their interactions? But then, why frequent minerals are also present in those speculated to be dangerous combinations?
 
-This emerging relation between minerals' themes, their natures, tethered by their application across Isoran and Gremlin technology made us think of a different notion, of concept of Five Elements in Godai.
+This emerging relation between minerals' themes, their natures, tethered by their application across Isoran and Gremlin technology made us think of a different notion, of concept of __Five Elements in Godai__.
 
 Although interpretation within the context of fictional reality of Spiral Knights will differ, we will attempt to look for similarities and common themes, such as the aforementioned relations of statuses and minerals.
 
 For that, minerals' descriptions should be brought to the shortest description:
 
-- Crimsonite - passion, anger, strength
-- Dark Matter - chaos, nothingness
-- Luminite - faith, wisdom, zeal
-- Moonstone - knowledge
-- Valestone - essence of life
+- Crimsonite -- passion, anger, strength
+- Dark Matter -- chaos, nothingness
+- Luminite -- faith, wisdom, zeal
+- Moonstone -- knowledge
+- Valestone -- essence of life
 
-Dark matter is described as as essence of both chaos and nothingness. We have already discussed how this duality relates back to western alchemy. But what we have not mentioned up until now is the relation to Godai and its concept of the Void or Ku, as its fifth element, in most simple terms here being the abstraction of the being, it is the world spirit, cosmic Heaven. We must point out, Ku currently has no relation to the Void of Whitespace in particular, but it has very similar cosmic motif, as Energy is also ever-present - a notion, [discussed under similar motifs in relation to existence of auras and souls](), - a concept we are to explore deeper soon enough.
+Dark matter is described as as essence of both chaos and nothingness. We have already discussed how this duality relates back to western alchemy. But what we have not mentioned up until now is the relation to Godai and its concept of the Void or Ku, as its fifth element, in most simple terms here being the abstraction of the being, it is the world spirit, cosmic Heaven. We must point out, Ku currently has no relation to the Void of Whitespace in particular, but it has very similar cosmic motif, as Energy is also ever-present - a notion, [discussed under similar motifs in relation to existence of auras and souls](#auras-and-souls), - a concept we are to explore deeper soon enough.
 
-This relation of one of most prevalent to the timeline minerals - dark matter, - being used by one of more dangerous and deepest clans, seem to correlate with a different notion of _gremlins using shadow-based weaponry in the most severe cases_. And with this application the __symbolism of Underworld emerges, seemingly imprinting itself on gremlins' designs__, with such designs being the [Collector](), [Incinerators](), and [Electron bombs](), to name a few. Where this notion culminates, we are yet to see through.
+This relation of one of most prevalent to the timeline minerals -- dark matter -- being used by the most dangerous and deepest clan, seem to correlate with a different notion of _gremlins using shadow-based weaponry in the most severe cases_. And with this application the __symbolism of Underworld emerges, seemingly imprinting itself on gremlins' designs__, with such designs being the [Collector](), [Incinerators](), and [Electron bombs](), to name a few. Where this notion culminates, we are yet to see through.
+
+As for the function of the emblem, its behavior, as healing primarily for their own kin as species of material realm, the bright light of the spell, we propose, hint at the __applied divinity of the source of healing__. As Luminite was used for Owlites, Valkyries, and Gunslinger Priests [as the source of radiant light](#cradle-metaphysics-part-2-divine-and-celestial-beings) __coupled with Sun Silver and Celestial Ore__, here it is repurposed to emit healing light in a set graphical pattern of their emblem correlating with supreme meaning of the symbol for their civilization while _utilizing divine means to symbolically deify itself_.
 
 ##### Emblem of the Great Colony
 
-Given this context of gremlin clans, what is then the emblem? As we have earlier suggested a parity between symbol of Spiral Order and of gremlins', we are leaning to the idea of the latter being a representation for a concept, rather than a location.
+Given this context of gremlin clans, what then the emblem is means to represent?
 
-As Spiral Order is to Isorans, so something is to gremlins, represented by their corresponding symbol. And with our current understanding that missing element is the Iron Law, a core principle behind the existing social structure of gremlins on Cradle, and the __emblem of the Great Colony__, as the latter could not exist without the prior.
+As we have earlier suggested a parity between symbol of Spiral Order and of gremlins', we were leaning to the idea of the latter being a representation for a concept, rather than a location.
 
-We can compare the outfits of Emberlight gremlins to ones of Great Colony - those possess an emblem of a circled cross, the imagery present across the town of Emberlight, as well as its districts, traversed [during the events of Winterfest]. This emblem, we believe, literally and symbolically crosses out the idea, represented by the Great Colony gremlins' emblem - of a bolt, placed into teeth of a wrench, and the Iron Law (`Gremlins of Emberlight not obey the Iron Law, so flee or die. We start over with Emberlight. New colony home to few of us: most ex-schemers, some merchants, some fighters, all traitors in the eyes of Great Colony Gremlins` - [Haven - Laboratory - Pakrat](https://wiki.spiralknights.com/Pakrat)).
+As Spiral Order is to Isorans, so something is to gremlins, represented by their symbol. And with our current understanding that missing element is the Iron Law, a core principle behind the existing social structure of gremlins on Cradle, or, the __emblem of the Great Colony__. Yet the concerete distinction is particularly speculative, as at that point of the timeline and state of gremlin Civilization Iron Law and Great Colony _are practically inseparable_.
+
+We can compare the outfits of Emberlight gremlins to ones of Great Colony -- those prior possess an emblem of a circled cross, the imagery present across the town of Emberlight, as well as its districts, traversed [during the events of Winterfest](). This emblem literally and symbolically crosses out the idea, represented by the Great Colony gremlins' emblem -- _of a bolt, placed into teeth of a wrench_, and the Iron Law, `Gremlins of Emberlight not obey the Iron Law, so flee or die. We start over with Emberlight. New colony home to few of us: most ex-schemers, some merchants, some fighters, all traitors in the eyes of Great Colony Gremlins` ([Haven - Laboratory - Pakrat](https://wiki.spiralknights.com/Pakrat)).
+
+The juxtoposition of Emberlight emblem to one of Great Colony or Iron Law allows it to be interpreted both as a symbol for the location and a principle, similar to presence and meaning of Crimson Order emblem implying a _concrete hierarchy, creating a defined meaning for cog teeth and a central wrench_.
+
+The same logic can be applied to gremlin emblem. The presence of the symbol across common wares, we propose, announces it not as representative of Iron Law specifically, but Great Colony, marking the tools affiliated with it and produced on behalf of the Colony.
 
 #### Minerals, Dread Velvet, and Complex 357
 
-If we further look into applications of minerals, we come by a certain notion, observed within complex 357 and [Biscotti's kitchen](https://wiki.spiralknights.com/Total_Caketastrophe!/Chaos_in_the_Kitchen) of all places - of minerals being grinded into a powder, - of Valestone in the complex and dark matter in the kitchen.
+If we further look into applications of minerals, we come by a certain notion, observed within complex 357 and [Biscotti's kitchen](https://wiki.spiralknights.com/Total_Caketastrophe!/Chaos_in_the_Kitchen) -- of minerals being grinded into a powder: Valestone in the complex by gremlins and dark matter in the kitchen by Biscotti.
 
 Furthermore, as seen during [A Gremlin in Knead](https://wiki.spiralknights.com/A_Gremlin_in_Knead) mission, possessed by [Dread Velvet](https://wiki.spiralknights.com/Dread_Velvet#Dread_Velvet) [Groat](https://wiki.spiralknights.com/Groat) was using moonstone for currently unknown means: `A dash of Moonstone, a pinch of...` ([A Gremlin in Knead - Moonstone Mixup - Groat](https://wiki.spiralknights.com/A_Gremlin_in_Knead/Moonstone_Mixup)).
 
-We propose, the observed [Creep Cakes]() were _already sentient and hostile due to application of dark matter_, introduced by Biscotti: `
-To speed up the process I may have used a teensy weensy bit of pure, unrefined, dark matter instead of baking powder... In any case it would seem that this new 'recipe' caused the cakes to turn into horrible monsters that have overtaken my kitchen and infested the Clockworks` ([Total Caketastrophe! - Chaos in the Kitchen - Biscotti](https://wiki.spiralknights.com/Total_Caketastrophe!/Chaos_in_the_Kitchen)).
+We propose, the observed [Creep Cakes]() were _already sentient and hostile due to application of dark matter_, introduced by Biscotti: `To speed up the process I may have used a teensy weensy bit of pure, unrefined, dark matter instead of baking powder... In any case it would seem that this new 'recipe' caused the cakes to turn into horrible monsters that have overtaken my kitchen and infested the Clockworks` ([Total Caketastrophe! - Chaos in the Kitchen - Biscotti](https://wiki.spiralknights.com/Total_Caketastrophe!/Chaos_in_the_Kitchen)).
 
 We can suggest that those cakes are the result of _both_ dark matter and moonstone being introduced into the recipe: `He disappeared into the clockworks soon after Biscotti delivered the last crate of batter` ([A Gremlin in Knead](https://wiki.spiralknights.com/A_Gremlin_in_Knead)). There no major examples of moonstone capable of causing a behavior reminiscent to dark matter. And, it is dark matter, which has identical behavior on non-hostile entities across other cases of its introduction, most reminiscent of [corrupted tortodrones]().
 
@@ -7995,7 +8000,7 @@ We have earlier discussed a correlation of moonstone and electricity, and, most 
 
 ##### Mineral Powder, Creep Cakes, and Sprite Food
 
-The pattern of minerals being grinded to powder is present in several instances. As this property is focused upon in complex 357, we believe, the properties of minerals in this state - as dust, - serve an important role to the research within the complex, and potentially, contents of the [schematics]().
+The pattern of minerals being _grinded to powder_ is present in several instances. As this property is focused upon in complex 357, we believe, the properties of minerals in this state -- as dust, -- serve an important role to the research within the complex, and potentially, contents of the [schematics]().
 
 Given our [prior exploration of complex 357](), we have identified a few pools of minerals to which those are pumped with tubes. Nearby those pools usually is located a chamber, containing several discrete instances of minerals placed in proximity of 2 opposing gears - a design, which was observed norse-east of [Biscotti's kitchen](https://wiki.spiralknights.com/Total_Caketastrophe!/Chaos_in_the_Kitchen): [a small chamber with minerals and gears, and a tube nearby leading to a pool of dark matter](https://wiki.spiralknights.com/File:Area-Total_Caketastrophe!-Chaos_in_the_Kitchen-2.png).
 
