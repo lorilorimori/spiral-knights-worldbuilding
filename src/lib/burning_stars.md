@@ -10602,7 +10602,7 @@ Nameless Realm and material realm are connected through the Whitespace within th
 
 - Kat Tribe works in secrecy, establishing sleeper agents across the heavenly kingdom. Once Kat Tribe is prepared, they invade heavenly kingdom with the goal of reaching Owlite Academy of Magics and capturing the Book of Grey Feathers in the tower of Grey Feather, seacured by mages.
 
-- Through ill-usage of the tome located in the Grey Feather tower of Owlite Academy of Magics, an event known as the Kataclysm occures, causing first large-scale metaphysical shift, which pulls the Grey Feaher tower of the Academy into the Underworld, and positions Graveyards of kingdom of Almire in close proximity to Underworld, making the darkness of Underworld creep from those locations. The entire population of heavenly kingdom is erased from existence, while members of Kat Tribe are banished into the Underworld and transfomed into curse-ridden mindless beasts.
+- Through ill-usage of the tome located in the Grey Feather tower of Owlite Academy of Magics, an event known as the Kataclysm occures, causing the Grey Feaher tower of the Academy to be drawn into the Underworld, making the darkness of Underworld creep into the rest of the Academy. The entire population of heavenly kingdom is erased from existence, while members of Kat Tribe are banished into the Underworld and transfomed into curse-ridden mindless beasts.
 
     The darkness in question eventually leads back to Apocrean Realm. Through the means of this darkness and metaphysics of lower realms, far greater degree of danger is presented to deities of Nameless Realm.
 
@@ -10681,7 +10681,7 @@ Nameless Realm and material realm are connected through the Whitespace within th
 - As the Core is sealed, access Clockwork terminal are destroyed, preventing access from the outside.
 - Access to the location, where the Void was initially opened, is sealed from the outside, it would be later known as the Unknown Passage, located above the Core.
 
-- Once the Core was sealed, the second metaphysical shift has happened, allowing spirits to return to the material realm, bringing with the Underworld's darkness, reminiscent of Katclysm's effects onto the Owlite Academy.
+<!--- Once the Core was sealed, the second metaphysical shift has happened, allowing spirits to return to the material realm, bringing with the Underworld's darkness, reminiscent of Katclysm's effects onto the Owlite Academy.-->
 
 - The Artifact, used to power the consoles, is hidden by Crimson Order in an unknown location.
 
