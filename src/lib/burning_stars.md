@@ -2169,7 +2169,7 @@ We can attempt to draw parallels with the events on Cradle in regards to the ves
 
 The entrapment may be implied by the presence of gremlin constructs. And to go not so far ahead of the timeline, this is one of a few instances of gremlins building their own containments against the shadow-related entities.
 
-This would also suggest that an unidentified event had caused this notion of haunting. From many phenomenon related to undeath, energy of the Core may be seen as life-animating, could serve as a source which had caused the spirits to haunt the machines under currently unknown condition, potentially, through access to Underworld -- a phenomenon similar in concept to one observed during [Shadowplay](https://wiki.spiralknights.com/Shadowplay): `Though the nature sprites have been steadily making progress in fighting the flames, something or someone has recently caused a violent resurgence in its destructive power. Spiral HQ requests that you gather together a crack squad of knights and return to the collapsing ruins of Firestorm Citadel in order to discover the source of the disturbance`, -- wherein activity of **the Core, its energy, was the source of curse's reanimation** _without Lord Vanaduke_ to serve as an `eternal will` for the citadel: `You can feel it in the smoldering air - an eternal will holding this place together, never allowing its inhabitants to rest. No creature deserves such a fate, it is beyond my understanding` ([Recon Module: Firestorm Citadel - Grantz](https://wiki.spiralknights.com/Artifact)).
+This would also suggest that an unidentified event had caused this notion of haunting. From many phenomenon related to undeath, energy of the Core may be seen as life-animating, could serve as a source which had caused the spirits to haunt the machines under currently unknown condition, potentially, through access to Underworld -- a phenomenon similar in concept to one observed during [Shadowplay](https://wiki.spiralknights.com/Shadowplay): `Though the nature sprites have been steadily making progress in fighting the flames, something or someone has recently caused a violent resurgence in its destructive power. Spiral HQ requests that you gather together a crack squad of knights and return to the collapsing ruins of Firestorm Citadel in order to discover the source of the disturbance`, -- wherein activity of **the Core, its energy, was the source of curse's reanimation** _without Lord Vanaduke_ to serve as an `eternal will` for the citadel: eternal will`You can feel it in the smoldering air - an eternal will holding this place together, never allowing its inhabitants to rest. No creature deserves such a fate, it is beyond my understanding` ([Recon Module: Firestorm Citadel - Grantz](https://wiki.spiralknights.com/Artifact)).
 
 With this we propose that both a recount of spirits returning to material realm and animation of perished entities are the result of Core's energy-related effect. We can interpret the act of returning to matrial realm as soul's intent to live on, while the Core had offered a possibility of such transition, or, the souls is forbidden to move on. As Lord Vanaduke's initial analysis suggested that his will does not allow souls to move on, we have to consider such scenario at a planetary scale.
 
@@ -2616,7 +2616,7 @@ This is a plausible interpretation as the same maelstrom phenomenon is observed 
 
 As the maelstrom had appered from ritual circle, compared to grim gates, it would fit within the system establshed earlier of ritual cirlces being an earlier development, followed by scalable solution of grim gates.
 
-And as trojans were summoned through ritual circles -- pulled from Underworld, so was Mergrel, -- through this logic we earlier proposed the specifics of that connection over grim gates, as building upon the same metaphysics, and falling back on them in case of malfunction or severing of a connection, resulting in the described maelstrom.
+And as trojans were summoned through ritual circles -- pulled from Underworld, so was Margrel, -- through this logic we earlier proposed the specifics of that connection over grim gates, as building upon the same metaphysics, and falling back on them in case of malfunction or severing of a connection, resulting in the described maelstrom.
 
 If we apply back this idea to other technology, we could offer an explanation to vortex block and graviton bombs -- as __Vortex block and Graviton bomb being weaponized instances of a phenomenon resulting from improper closure of a connection with Underworld__.
 
@@ -7454,7 +7454,7 @@ As for the other quotes, the third is of greater importance, as it strongly sugg
 
 But, as very little information is provided regarding the identity or even existence of the king, we have to keep this notion in mind. The first quote of `Why was there no advance warning of the attack?` might suggest that the attack in question is of the knight entering the factory, which can only mean that the dialogue between those Crimson Order members had to happen very recently.
 
-#### Gremlin Weapons' Magic Motifs
+#### Magitech of Gremlin Engineering
 
 Now, there are not many elemental gremlin weapons in a sense closer to Owlites, as they had directly utilized elemental materials, relating back to the discussion of Owlite academy and Valkyrian armors. This is a prelude to an analysis of underlying magitech themes of Clockworks and gremlin technology, and here we would like to look at the final designs and draw parallels to other similar instances.
 
@@ -7904,7 +7904,7 @@ Those quotes, we believe, hint at a business relation, wherein devilites and com
 
 Within the themes of the casino, we can identify presence of _noir_, both through environemnt of the location and addition of High Wobbler Longue, wherein the latter explores this theme slightly further through its design, separate from the rest of the casino. Herein __noir is a sign of narrative's ambigious morality seen through comedic rendition and art style__, which create a particular, _lingering contrast_.
 
-#### Gremlin Mending Rune, the Emblem
+#### Gremlin Mending Rune and the Emblem
 
 Gremlin Mending rune is a spell performed by gremlin menders of Darkfang clan.
 
@@ -8003,9 +8003,9 @@ This design is most reminiscent of an industrial rotary shredder, which is relat
 
 The result of those minerals being grinded either to gel or powder is less explicitly direct due to the design of the output. There are not a few real-world minerals, which possess similar properties, such as electrical charge and paste-like texture, but, given current focus of dust, as a more common result, Biscotti's comment (`To speed up the process I may have used a teensy weensy bit of pure, unrefined, dark matter instead of baking powder...` - [Total Caketastrophe! - Chaos in the Kitchen - Biscotti](https://wiki.spiralknights.com/Total_Caketastrophe!/Chaos_in_the_Kitchen)), presence of Battle Sprite foods named and depicted as dust seem to be a more concrete evidence of minerals to be grinded into dust, such as [Power Dust of Crimsonite](https://wiki.spiralknights.com/Power_Dust), [Shadow Dust of Dark Matter](https://wiki.spiralknights.com/Shadow_Dust), and [Divine Dust of Luminite](https://wiki.spiralknights.com/Divine_Dust) - we believe those pools are representations of _mineral powder or grinded down mineral dust_. Those names suggest a link, which was established back in the first chapter of minerals fitting with specific concepts, such as rage or raw power, darkness, frenzy and wind, and, divinity of luminite.
 
-If we attempt to extrapolate creation of Creep Cakes as _inanimate objects given sentience through dark matter_, where would those properties could have been applied within the context of high-secrecy military developments? And if so, what are the properties of other minerals when integrated as such medium into other creations, considering their descriptions?
+If we attempt to extrapolate creation of Creep Cakes as _inanimate objects given sentience through dark matter_, where would those properties could have been applied within the context of high-secrecy military developments? And if so, what are the properties of other minerals when integrated as such medium into other creations, considering their descriptions and how they would react with each other given status effects of gremlin knockers?
 
-##### Minerals and Souls: Part 4 - Conclusions, Isorans
+#### Minerals and Souls: Part 4: Conclusions, Isorans
 
 As far as we are aware of the metaphysics of dark matter and minerals in general:
 
@@ -8018,7 +8018,7 @@ As far as we are aware of the metaphysics of dark matter and minerals in general
 - With mineral glyphs can be made, which, when inscribed onto pages or form a text, _grant the object an aura_ and inner power.
 - Minerals, when incorporated onto inanimate objects, _can grant sentience and life_.
 
-Given those capabilities of minerals, the scope of effects can, of course, vary greatly. But, all of those characteristics follow a principle, which we have established as the [metaphysical stack](), - of energy flowing from the highest realm, manifesting in material realm in many variants, including the minerals, auras, souls, crystal and mist energy.
+Given those capabilities of minerals, the scope of effects can vary greatly. But, all of those characteristics follow a principle, which we have established as the [metaphysical stack](), - of energy flowing from the highest realm, manifesting in material realm in many variants, including the minerals, auras, souls, crystal and mist energy.
 
 As if each strand of energy was by itself, when untied from physical medium, capable of traversing these realms. This energy, by staying and being amassed, then, is what allows for a soul, or sentience, to exists - a notion established back during the [analysis of souls]().
 
@@ -8141,31 +8141,33 @@ Presence of bombies in that context may be explained in 2 ways:
 
 As far as bombies are encountered, we are leaning to the ide of them emerging as such through Underworld's presence, unties to a particular party in the material realm. Those specifics of undead may be further affirmed by the phenomenon itself of Dreadnoughts.
 
-#### Grim Totems: Part 2 - Undead Dreadnoughts
+#### Grim Totems: Part 2: Undead Dreadnoughts and Binding
 
-Finally, [Static Dreadnoughts](https://wiki.spiralknights.com/Static_Deadnaught#Static_Deadnaught) have unique, futuristic design of shoulder pads and arm guards same as other shock-themed undead discussed above. Those instances of [Static Dreadnoughts](https://wiki.spiralknights.com/Static_Deadnaught#Static_Deadnaught) are specific to Dry Docks' enclosure, but general presence of Dreadnoughts is not limited to this location, present also in all variants Firestorm Citadel.
+Finally, [Static Dreadnoughts](https://wiki.spiralknights.com/Static_Deadnaught#Static_Deadnaught) have unique, futuristic design of shoulder pads and arm guards same as other shock-themed undead discussed above. Those instances of [Static Dreadnoughts](https://wiki.spiralknights.com/Static_Deadnaught#Static_Deadnaught) are ost associated with Dry Docks and Iron Hulk depths of Isoran vessel, but general presence of Dreadnoughts is not limited to this location, present also in all variants Firestorm Citadel.
 
-Notably, it is the design of their shoulder pads which is similar to design pattern of 3-star pulsars, specifically [Kilowatt Pulsar](https://wiki.spiralknights.com/Kilowatt_Pulsar), with its _2 vertical lines_ being present. More so, pulsars' drawn patterns seem to suggest a symbolic application depending on the utilized element or status effect.
+Notably, it is the design of Static Dreadnoughts' shoulder pads which is similar to design pattern of 3-star pulsars, specifically [Kilowatt Pulsar](https://wiki.spiralknights.com/Kilowatt_Pulsar), with its _2 vertical lines_ being present. More so, pulsars' drawn patterns seem to suggest a symbolic application depending on the utilized element or status effect.
 
-So, all Dreadnoughts have an armor, the Almirian Guards even have proper crusader armor. While this factor was important in relation to our proposal of nature of zombies as Isorans, Dreadnoughts still remain as ones _far surpassing any living species in their scale_, more associating with giants than anyone else - an idea, that was suggested when we had inspected [Ancient Plate Armor](https://wiki.spiralknights.com/Ancient_Plate_Armor): `A suit of artifact armor that is said to have been worn by titans. Though it offers amazing protection, its incredible weight makes it cumbersome to wear`.
+So, all Dreadnoughts have an armor, the Almirian Guards even have proper crusader armor. While this factor was important in relation to our proposal of nature of zombies as Isorans, Dreadnoughts still remain as ones _far surpassing any living species in their scale_, comparable to Lord Vanaduke, more associating with giants than anyone else - an idea, that was suggested when we had inspected [Ancient Plate Armor](https://wiki.spiralknights.com/Ancient_Plate_Armor): `A suit of artifact armor that is said to have been worn by titans. Though it offers amazing protection, its incredible weight makes it cumbersome to wear`.
 
 But, apart from their scale, one common element allows us to understand the nature of dreadnoughts, - their ability to resurrect recently fallen undead as long as perished undead's skull remains intact. This requires us to analyze grim totems now _with all knowledge of current metaphysics in attempt to properly define this power of resurrection_.
 
-By its nature, grim totem is a mechanism most likely originating from the Underworld, as discussed earlier, based on stone-like design with accent on purple energy and incorporation of faces.
+By its nature, grim totem is a mechanism originating from the Underworld as its occult-themed technology with accent on purple energy and incorporation of face-like patterns.
 
-The principle behind the resurrection, through observation, is one of a visible wave of purple energy, which, as it propagates over an area, resurrects recently deceased undead from their skulls and reconstructing their bodies.
+The principle behind the resurrection, through observation, is one of a visible wave of purple energy which, as it propagates over an area, resurrects recently deceased undead from their remaining skulls and reconstructs their bodies.
 
-If we also refer to the idea of spirits returning to material realm on Cradle, we may operate in terms of spirit leaving and returning to the corpse, [haunting it](), allowing resurrection to happen.
+This description is reminiscent of Grantz's description of Firestorm Citadel, specifically, the way Lord Vanaduke's will manifests: `Their broken, burnt frames crumbling and rising once more, ready for another battle. And just as they refuse to fall, so does the burning ruin around them. It is almost as if this whole realm is trapped in a single moment from some forgotten time, never changing, never allowing itself to finally turn to ash. ... You can feel it in the smoldering air - an eternal will holding this place together, never allowing its inhabitants to rest` ([Recon Module: Firestorm Citadel - Grantz](https://wiki.spiralknights.com/Artifact)).
 
-As zombies emerge from the graves only as a living being passes nearby them, we may suggest that the souls are not present up to that moment in time. We know, based on instances of Lost Souls, that those are attracted to the living [ones the souls are released proper]().
+If we also refer to the idea of spirits returning to material realm on Cradle, we may operate in terms of spirit leaving and returning to the body, [haunting it](), allowing resurrection to happen, as it was observed in case of fallen Isoran vessel during events of [Ghost in The Machine]() danger mission.
 
-Could it be, that the same phenomenon happens in regards to graveyards and other instances of undead reacting to presence of the living, such cases being the Phantoms of graveyards and Grimalkin across the Candlestick Keep? This proposal would fit within our operational framework.
+<!--As zombies emerge from the graves only as a living being passes nearby them, we may suggest that the souls are not present up to that moment in time. We know, based on instances of Lost Souls, that those are attracted to the living [ones the souls are released proper]().-->
+
+<!--Could it be, that the same phenomenon happens in regards to graveyards and other instances of undead reacting to presence of the living, such cases being the Phantoms of graveyards and Grimalkin across the Candlestick Keep? This proposal would fit within our operational framework.-->
 
 Across cultures, it is variable when the soul leaves the body, and in case of our cosmology, we have seen instances of soul leaving instantly - as when Lord Vanaduke was defeated, - with his body remaining and the traces of his [soul with curse being linger within the armor - as finery]().
 
-In case of zombies, presence of a soul is characterized by glowing eyes. And then there are skulls themselves, which in a few instances form an aura around, suggesting haunting. Yet, the are no auras for zombies, but present for phantoms.
+In case of zombies, presence of a soul is characterized by glowing eyes. And then there are skulls themselves which function as corporeal containers for the souls. This logic previously had allowed us to provide a system, where souls is meant to inhabit the body through the head, and that concept allowed us to explain nature of Lord Vanaduke's mask as the container for lord's soul.
 
-This distinction, we believe, while is important, states a characteristic presence of a soul within the skull. But, the energy emission of the totem does not affect dreadnoughts themselves. More so, the resurrected zombies do not contain heat - a shared property with the Void monsters emerging from Swarm sources. As we don't yet know nature of heat, it should be a speculation - _to assume, that the resurrected lack souls_.
+But, the energy emission of the totem does not affect dreadnoughts themselves. More so, the resurrected zombies do not contain heat -- a shared property with the Void monsters of the Swarm. As we don't yet know nature of heat, it should be a speculation to assume, that the resurrected lack souls, but rather that the essential vitality of one's being is revoked by forceful rebinding of the soul, but, this interpretation, too, depends on the nature of the heat as metaphysical matter used to infuse weapons.
 
 Instead, we can attempt to explain it from the _perspective of other devilite technology_ - the cases being of a soul-energy motif:
 
@@ -8174,20 +8176,25 @@ Instead, we can attempt to explain it from the _perspective of other devilite te
 - Detection of living beings by monster doors.
 - Corrupted tortodrones being powered by power of dark matter mineral, as they were directly disassembled to allow dark matter crystal to be placed.
 - Dark matter crystal of trojans being a vulnerable and essential for their survival, being a conduit for their power.
+- Dread Seal and paper seals binding and focusing properties of souls within a sealed corporeal form, as elemntal lumbers, kat tribe, or Faust.
 
 Those factors, this motif of dark matter and energy being tethered together in order to power entities and machinery, we propose, had to be present for all fiendish technology and methodology.
 
 At the same time, that is a case of Blackened Shrine, which is most likely a fiendish device, as suggested by [magma cult]() and [our exploration of this culture](). The shrine has bound Lord Vanaduke's soul to the body, transforming the latter. Compared to this, grim totem only resurrects, but does not transform, albeit it is seen only being used on undead, rather than fiends or the living.
 
-With this, we propose that it is not the soul which is rebound to a corpse, but __its traces being empowered by emitted dark energy__.
+With this, we propose that it is the soul which is rebound to a corpse, _it is being empowered by emitted dark energy of the totem_, which operates as a dread seal placed onto a creature, but in a single instance of that wave of binding energy.
 
-This notion of dark energy emissions is coincidentally found in [Phantamos](https://wiki.spiralknights.com/Phantamos): `A powerful handgun brimming with dark energy. The Phantamos represents one of the most recent additions to the Spiral Knight's arsenal, as containing shadow energy of this degree took a great deal of research`. Could it be, that uncontained dark energy by its nature behave as a source of it, essentially, influencing the surroundings as the totem? Given Phantamos, there isa distinct danger and necessity to the containment of dark energy, which is now a far more tangible concept what it was presented originally by Hahn: `Shadow damage is generally caused by concentrations of negative energy. Attacks that inflict shadow damage include anything from the psychic manipulation of the aforementioned negative energy to physical attacks using weapons forged from dark matter` ([The Shadow Knows - Hahn](https://wiki.spiralknights.com/The_Shadow_Knows)). Notably, Hahn also had utilized the term of _shadow energy_.
+##### Grudge of the Undead and Dark Matter Emissions
 
-This dark energy is then had to be emitted from a source, and this source is contained also in dreadnoughts. As dreadnoughts themselves are undead we are presented with a case, where __shadow energy, as it is described by Hahn__, _could be in greater relation to the dark energy emissions of totem by the fact of both being present in dreadnoughts_?
+This notion of dark energy emissions is coincidentally found in [Phantamos](https://wiki.spiralknights.com/Phantamos): `A powerful handgun brimming with dark energy. The Phantamos represents one of the most recent additions to the Spiral Knight's arsenal, as containing shadow energy of this degree took a great deal of research`. Could it be, that uncontained dark energy by its nature behave as a source of it, essentially, influencing the surroundings as the totem? Given Phantamos, there is a distinct danger and necessity to the _containment of shadow energy_, which is now a far more tangible concept what it was presented originally by Hahn: `Shadow damage is generally caused by concentrations of negative energy. Attacks that inflict shadow damage include anything from the psychic manipulation of the aforementioned negative energy to physical attacks using weapons forged from dark matter` ([The Shadow Knows - Hahn](https://wiki.spiralknights.com/The_Shadow_Knows)). Notably, Hahn also had utilized the term of _shadow energy_.
+
+Shadow energy is then had to be emitted from a source, and this source is contained also in dreadnoughts. As dreadnoughts themselves are undead we are presented with a case, where __shadow energy, as it is described by Hahn__, _could be in greater relation to the dark energy emissions of totem by the fact of both being present in dreadnoughts_?
 
 While for grim totems it is mostly unknown, dreadnoughts possessing same power ties with their nature. We have previously suggested the mythological, which transition into pop-culture, inspirations. And we can derive from this notion more information.
 
-An application of an pop-cultural concept and a spirit of Japanese mythology - Gashadokuro. The key element here is the ability to assemble themselves from the bones of improperly buried, which is fitting for Almire's setting, as well as the general theme of spirits returning to the material realm. As for their armor, we suggest it being of the same phenomenon as Lord Vanaduke's armor, of supernatural origin. We can also male a guess, that the fact dreadnoughts are presented in front of tiles of bones in the Overgrown Court of Shadowplay, we can link those two.
+An application of an pop-cultural concept and a spirit in _Japanese folklore_, __Gashadokuro__.
+
+The key element here is the ability to assemble themselves from the bones of improperly buried, which is fitting for Almire's setting, as well as the general theme of spirits returning to the material realm. As for their armor, we suggest it being of the same phenomenon as Lord Vanaduke's armor, of supernatural origin. We can also male a guess, that the fact dreadnoughts are presented in front of tiles of bones in the Overgrown Court of Shadowplay, we can link those two.
 
 <BookCitation source="Yokai.com, the illustrated database of Japanese folklore, Gashadokuro">
 
@@ -8197,11 +8204,19 @@ An application of an pop-cultural concept and a spirit of Japanese mythology - G
 
 </BookCitation>
 
-We propose, this exact __grudge against the living is the reanimating force, which makes surrounding dreadnought undead to be resurrected__. This suggestion not only further contextualizes undead Almire, but suggests, that their fate is still undetermined, as it will be proven by existence of Shadow Firestorm Citadel, discussed earlier.
+We propose, this exact __grudge against the living is the reanimating force, which makes surrounding dreadnought undead to be resurrected__. As Lord Vanaduke's will was holding together the Citadel, so will of any entity affiliated with Underworld, can exide its will onto material realm and souls.
 
-In relation to the grim totems, as much as metaphysics of curse and souls we were concerned with, energy of a soul, and in case of dreadnoughts, supposedly, multiple souls, it is the explanation for the nature of purple or dark energy observed in grim totems.
+In relation to the grim totems, as much as metaphysics of curse and souls we were concerned with, energy of a soul, and in case of dreadnoughts, supposedly, multiple souls, it is the explanation for the nature of purple or dark energy observed in grim totems and dreadnoughs.
 
-#### Ghost Blocks, Eyes, and Energy
+##### Dark Matter and Death Drive
+
+If we consider that graveyards were lowered in proximity of Underworld through presence of souls there, the concentration of undead required to construct a single dreadnough seems as of similar nature, but, instead of an area of Clockworks being pulled into darkness of Underworld, the interconnected by a single compound bony collection of souls become the source of that darkness and influence, the aforementioned grudge, a form of negative energy -- `Shadow damage is generally caused by concentrations of negative energy. Attacks that inflict shadow damage include anything from the psychic manipulation of the aforementioned negative energy to physical attacks using weapons forged from dark matter` ([The Shadow Knows - Hahn](https://wiki.spiralknights.com/The_Shadow_Knows)).
+
+The associatin of abstract concept of negative energy with shadow damage and now reanimation and grudge through folklore, we arrive to a concep of __death drive__, one noted earlier in relation to Apocrean disciples, as Apocrea's will was one of negation.
+
+The nature of dark matter mineral fits into this framing, too, `A fabled mineral dark and ominous in color said to contain the essences of both chaos and nothingness` ([Dark Matter](https://wiki.spiralknights.com/Mineral#Dark_Matter)).
+
+#### Ghost Blocks
 
 Ghost blocks possess several unique to Clockworks' environment properties, starting from a carved on their near surface symbol of an eye. Initially found on the Collector and then on the ghost blocks themselves, the symbol is of a familiar eye, usually attributed to Underworld and curse. But, as far as we have discussed appearances of the eye, the context of ghost blocks, even in the color scheme itself, differs drastically.
 
