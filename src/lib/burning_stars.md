@@ -2139,7 +2139,7 @@ Considering sheer amounts of resources required to build Clockworks, the ship an
 
 The only reason why gremlins had to contain the vessel rather than disassemble it similar to deconstruction zones, is likely due to a greater risk introduced by the souls and gremlin vulnerability to shadow damage -- the latter _property explicitly weaponized_ by Seerus through [Dark Retribution](https://wiki.spiralknights.com/Dark_Retribution).
 
-#### Cradle Metaphysics: Part 1
+#### Cradle Metaphysics: Part 1: Death-Undeath Boundary
 
 The souls, as they are haunting the vessel, are most certainly __the vessel's crew__ influenced by the same phenomenon observed in the rest of the Clockworks and graveyards -- of spirit returning to material realm, as it was explored in the [graveyards section](#graveyards).
 
@@ -6328,6 +6328,8 @@ At this point there are 3 distinct notions found:
 - Celestial nature is closely related to divinity and is seen as more material in nature
 - Chaos represented by the Nameless Realm which renders curses as part of physical processes of reality
 
+The chaos in partticular, given its all-encompassing nature, is relatted to energy of the Core and universal energy, as the very case of Firestorm Citadel being reignited during events of Shadowplay was due to activation of the Console operating with the Core.
+
 As far as the expanse of possibilities grows, we will reevaluate nature and definition of curse which considers currently established notions of neutrality of curse, [metaphysics of divinity and light](), and [principles of metaphysical restriction of Dread Seals]().
 
 <center class="chapter-break">
@@ -6816,15 +6818,15 @@ Lastly we acknowledge the body horror aspect of affliction with curse, found thr
 
 #### Cradle Metaphyscis: Part 5: Immortality Through Curse
 
-The more curse is _integrated into nature of an affected entity_, the more this entity becomes detached from properties of material realm and approaches the supernatural, going through a process of __transformation of a body, its aura manifested, but not its soul which remains unaffected__. The body in the Underworld is malleable, as suggested by origin of gorgos.
+The more curse is _integrated into nature of an affected entity_, the more this entity becomes detached from properties of material realm and approaches the supernatural, going through a process of __transformation of a body, its aura manifested, but not its soul which remains unaffected__. The body in the Underworld and now seemingly material relam is malleable, as suggested by origin of gorgos.
 
-In that interpretation and arising notion, before delving into the discussion about the Swarm, we can view curse as a method of bestowing greater magical and physical power in exchange for the change in nature of the being, their soul and body relation, as aura and as a tool of interfacing with reality.
+In that interpretation and arising notion, before delving into the discussion about the Swarm, we can view curse as a method of attaining greater magical -- supernatural -- and physical power in exchange for the change in nature of one's being, specifically the soul-body relation, as aura and as a tool of interfacing with reality.
 
-This change manifests as tethering of the souls to a body, usually remaining in the material realm, but also shifts the body to fiendish or undead physiology characteristic of inhabitants of Underworld. This distinction, primary examples of which being Lord Vanaduke, Maulos, trojans, and Margrel may symbolize a potency and resulting success of that shift.
+This change manifests as [tethering of the souls to a body and refocusing its vitality and influence on the world](#metaphysical-restriction), usually remaining in the material realm, but also shifting the body to fiendish or undead physiology characteristic of inhabitants of Underworld. This distinction, primary examples of which being Lord Vanaduke, Maulos, trojans, and Margrel may symbolize a potency and resulting success of that shift.
 
-The fiends themselves are immune to curse and incorporate it to the extremes as part of their physiology. Entities which incorporate [curse](https://wiki.spiralknights.com/Curse) are weaker to the greater extent to piercing or divine damage originating from the heaven, contained in the [Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore) and refined of it [Sun Silver](https://wiki.spiralknights.com/Sun_Silver), with luminite being the carrier of the goladen radiant light as much as the aforementioned metals.
+The fiends themselves are immune, but entities which incorporate [curse](https://wiki.spiralknights.com/Curse) are weaker to the greater extent to piercing or divine damage [originating from the heaven](#forgotten-time-part-1-divine-light), contained in the [Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore) and refined of it [Sun Silver](https://wiki.spiralknights.com/Sun_Silver), with luminite being the carrier of the [golden radiant light as much as the aforementioned metals](#forgotten-time-part-2-radiance-of-griffon).
 
-The celestial, heavenly theme primarily originates from identified location of paradise, followed by the heavenly kingdom and realm of Spirit Mother. Those realms are primary candidates to being the source of souls across the material realm which are the concrete cases of universal medium of energy.
+The celestial, heavenly theme primarily originates from identified [location of paradise](#cradle-metaphysics-part-3-paradise), realm of Spirit Mother, and followed by the heavenly kingdom present within the material realm. Those divine of heavenly realms are the candidates to being the source of souls across the material realm which are the concrete cases of universal medium of energy, with the realm of Spirit Mother, [given the conceptual nature of the deity](#divine-realms), being the most plausible candidate other than the [paradise inhabited by the celestial beings](#trojans-and-fallen-valkyrian).
 
 Previously established energy within souls and auras flows from the upper realms and settles in the material realm as souls. Those souls after death of their corporeal bodies or auras depart into the Underworld. Within it, Apocrean realm, Underworld, and Blinding Abyss exist, among which Apocrea realm exists as a force capable to capture souls more aggeressively.
 
@@ -6855,7 +6857,6 @@ This framework of curse as an elemnt of fantasy-flavoured thermodynamics would a
     <!-- <img class="decorate-contents-img" src={imgGremlinEmpire} /> -->
   </div>
 </div>
-
 
 Across the analysis we were noting different elements of gremlin technology, society, and what came of them. But in order to attain the fullest and deepest understanding of gremlin civilization, we need to analyze its history from several different perspectives in the similar manner as our previous discussions regarding valkyrian, titan, devilite, Isoran, and Owlite civilizations.
 
