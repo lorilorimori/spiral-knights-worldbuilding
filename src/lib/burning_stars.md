@@ -4193,13 +4193,15 @@ This connection of Almire with the Spirit Mother -- __her deific presence__, -- 
 
 Then there is power of water from Spirit Mother's Realm: `a force of nature summoned to this realm to extinguish the unnatural fire that is consuming it. ... Now none may proceed beyond the court as columns of shadow fire block all exits. Shadow fire can only be extinguished with the water that flows from these spirit wells. The water is the purest found in all of nature, flowing directly from the springs within the realm of the Spirit Mother herself` ([Firestorm Citadel - Nature Sprite](https://wiki.spiralknights.com/Nature_Sprite)).
 
-This _particular kind of water_ is framed as the __only tool__ _capable of opposing shadow fires_, latter's nature we will discuss [later](#nature-of-darkfire). This establishes an idea of the shadow fire being dangerous enough to be only extinguishable by _water of supernatural origin_.
+This _particular kind of water_ is framed as the __only method__ _capable of opposing shadow fires_, latter's nature we will discuss [later](#nature-of-darkfire). This establishes an idea of the shadow fire being dangerous enough to be only extinguishable by _water of supernatural origin_.
 
 We do not know, why among other kingdoms Almire was selected as a kingdom with deific, beneficial presence, which had remained since.
 
 As fire and Lord Vanaduke's effects seemingly possess Underworldly, undead nature, given our later analysis of Lord Vanaduke's affliction, does Spirit Mother's realm become a metaphysical opposite to Underworld?
 
-Thematically it seems so, but, this spirit realm was not encountered or mentioned in any other place across Clockworks while it remains vulnerable to the power of curse. While Valkyries are more revelant in the context of direct opposition to Underworld and fiends, they are contained in their own thematic context, different from one of Spirit Mother. Yet, both Valkyries and Spirit Mother present a force, capable of opposing malign presence of Underworld.
+Thematically it seems so, but, this spirit realm was not encountered or mentioned in any other place across Clockworks while its inhabitants, Nature Sprites, remain vulnerable to the power of curse.
+
+While Valkyries are more revelant in the context of direct opposition to Underworld and fiends, they are contained in their own thematic context, different from one of Spirit Mother. Yet, both Valkyries and Spirit Mother present a force, capable of opposing malign presence of Underworld.
 
 With this context of Underworld's presence, can we find an explanation of Spirit Mother's connection with Almire? We propose an explanation: Almire, by being the closest to the power which had _led to its supernatural damnation and annihilation of nearby kingdoms_, may be a location of interest for presence, which resides in the shrine, being most plausibly an Underworld deity. By proxy of Spirit Mother's realm, her ability to counter those flames, we can assume, creates a __narrative of a prolonged opposition of Underworld and higher realm over the material realm as the ground of direct confrontaion__.
 
@@ -4212,19 +4214,19 @@ The perception of Spirit Mother's realm as one secluded to a deity of water, roo
 
 As it is stated that Underworld is known to contain many fiendish deities: `One of many statuettes carried by fiends as a means of gaining favor with their dark gods. The most valuable ones are 'MIBE' (mint in box of evil)` ([Wicked Idol](https://wiki.spiralknights.com/Wicked_Idol)), _why a heavenly, divine realm would not to possess a similar multitide of deities and different names across multiple cultures separated by time_?
 
-##### Deific Realms
+##### Divine Realms
 
 We do know that at least Nature Sprites outside of their realm are susceptible to curse which had made them restrained at the Firestorm Citadel within the material realm.
 
 Nature Sprites we imprisoned within the Citadel and, given Lost Soul's framing, this had likely happened long time ago: `I've heard that some kind of force of nature had once tried to right his wrongs but Lord Vanaduke imprisoned it somewhere within his fortress` ([Nameless Lost Soul of Almire](https://wiki.spiralknights.com/Lost_Soul_of_Almire_(nameless)). This does not explicitly mean that Nature Sprites are immortal, but it proves aforementioned belief of their vulnerability to __curse can suppress entities associated with the divine__.
 
-<!--On that notion of divinity, we do have to keep in mind imagery of spirals on Nature Sprites' wings.-->
-
 The motif if vulnerability we can also see, although thematically unfitting, in the [Nameless Realm](#nameless-realm), introduced by the Chaos Cloak: `A forbidden mantle said to grant the wearer protection within the nameless realm where all elements are said to converge into one and divide into all` ([Chaos Cloak](https://wiki.spiralknights.com/Chaos_cloak)). We are reminded of it due to a special nature of this set, as one vulnerable not only to main status effects, but curse, too.
 
 Although a speculation at that point, _the fact that Nature Sprite does not name Spirit Mother's realm by a distinguished name_ may be a potential reason to be the latter being named as such, -- nameless -- because it is less explored than any other realm?
 
-If we were to apply the prior metaphysical framework of spirit -- souls with auras -- emerging from an unknown realm, would Spirit Mother's realm become this very realm, and the Spirit Mother -- source of all souls, associated and dwelling in water? We believe this is highly likely because this interpretation offers an __archetypical narrative of divine, supernatural mother of spirit with a medium of water both as a carrier for the souls and a universal purifier__.
+If we were to apply the prior metaphysical framework of spirits -- souls with auras -- emerging from an unknown higher realm, would Spirit Mother's realm qualify as this very realm, and the Spirit Mother erself, as a deity -- source of all souls, associated with and dwelling in water?
+
+We suggest this is highly plausible since this interpretation offers an __archetypical narrative__ of _divine, supernatural mother of spirits with a medium of water both as a carrier for the souls and a universal purifier_.
 
 It is important to note now that Chaos Cloak is an Owlite armor and considering further analysis of Owlite and their advancements in elemental magic, they regard the mantle as forbidden likely due to its connection to the Nameless Realm, which by proxy would _mark the realm itself as dangerous for currently unknown reasons_.
 
@@ -5488,45 +5490,30 @@ The fact that Stranger have those designs prior to arrival of Spiral Order durin
 
 As mentioned in the [analysis of the main antagonists](#cradle-antagonists) of the setting, we found only a few figures related to Underworld -- Undercorp, Ur, Nefarious Imp, and Fallen Valkyrian.
 
-Fallen Valkyrian in partiular may be seen as a plausible candidate for the corruption of Spiral Wardens during Forgotten Time. While remaining a speculation, it allows for a symbolic connection to be further strengthened, as Valkyries are near-identical to Isorans, both possess a celestial nature to the point of being acknowledged as the celestial beings.
-
-Fallen Valkyrian in this regard is described through the gear in ceratin manner, which we uggest, is meant to evoke Biblical canon:
+Fallen Valkyrian in partiular may be seen as a plausible candidate for the corruption of Spiral Wardens during Forgotten Time. While remaining a speculation, it allows for a concrete symbolic connection. Fallen Valkyrian in this regard is described through the gear in ceratin manner which, we suggest, is meant to evoke Biblical canon:
 
 - `A cursed suit of armor once worn by a celestial being cast down from paradise` ([Armor of the Fallen](https://wiki.spiralknights.com/Armor_of_the_fallen)).
 - `A cursed crown once worn by a celestial being cast down from paradise` ([Crown of the Fallen](https://wiki.spiralknights.com/Crown_of_the_Fallen)).
 
-Within this system of inspirations the position Fallen Valkyrian takes is one most ditinct as the entity leading Isorans to sin or corruption, herein being suggested to be creation of trojans through [multifaceted](#poisoned-minds-and-cold-hearts) process [involving grief](#arkus-part-3-a-metamorphosis), presence, and acceptence of Underworld's metaphysical influence, as it was presented through Lord Vanaduke's transformation.
-
-If the figure leading the legion was a fiend, its motivations had differed from Underworld at that moment. While identity of Legion's leader is speculated, we will commit to a narrative where Spiral Wardens are metaphysically corrupted by an actor from Underworld.
-
-How in this regard a Valkyrian would be knowledgable of such scale of transformation and experience to perform it?
+Within this system of inspirations the position Fallen Valkyrian takes is one which can be interpreted as leading wardens to corruption as trojans through a [multifaceted](#poisoned-minds-and-cold-hearts) process [involving grief](#arkus-part-3-a-metamorphosis) and presence of Underworld's metaphysical influence. This relation solidifies figure's biblical motif -- banishment of Lucifer from paradise to be the narrative which had created the foundations for this character while also provide a defined enough explnation for Fallen Valkyrian's motivations.
 
 #### Cradle Metaphysics: Part 3: Paradise
 
-We propose that Fallen Valkyrian is responsible for the creation of Legion of Ur, as this relation solidifies figure's biblical motif -- banishemt of Lucifer from paradise to be the narrative which had created the foundationsfor this character while also provide a defined enough explnation for Fallen Valkyrian's motivations.
+Through the celestial nature of griffins and valkyries we propose that the paradise, noted in relation to the Fallen Valkyrian, is inherently related to the heavenly kingdom.
 
-Here, we suggest, the resolution is rather linear -- as Fallen's armor became associated with Underworld, shadow damage, and curse, -- we suspect him to be a stand-in for Lucifer:
+While the paradise exists above material realm, the heavenly kingdom is not devoid of divinity nor it is separate from the material realm as the Scarlet Fortress being what remains of it in the material realm.
 
-- `A cursed suit of armor once worn by a celestial being cast down from paradise` ([Armor of the Fallen](https://wiki.spiralknights.com/Armor_of_the_fallen)).
-- `A cursed crown once worn by a celestial being cast down from paradise` ([Crown of the Fallen](https://wiki.spiralknights.com/Crown_of_the_Fallen)).
+This duality allows us to suggest an interpretation of the cosmology, where heavenly kingdom while exists in the material relam, it also ascends into higher relams, reminiscent of the [Celestial kingdom](), as __to be located in a realm above material realm__, while allowing for its elements, such as castles comprising the kingdom and its inhabitats, [griffins](#final-distinction-between-valkyries-and-owlites), _to remain corporeal_. __Heavenly kingdom occupies both material realm and realm above__, while the __paradise would become the topmost, most divine location above material realm__. Heavenly kingdom as much as its mythological predecessors, is extrapolated to possess an internal, divine hierarchy, mirroring the depths of Underworld, Blinding Abyss, and Apocrean realm.
 
-The `celestial` characteristic is one used to refer to valkyries in the [Heavenly Iron Helm](https://wiki.spiralknights.com/Heavenly_Iron_Helm) description: `A powerful helm said to be crafted from angelic shields. It retains many divine properties celestial beings possess but lacks their weakness to fire`.
+With this understanding we return to the prior analysis of Spirit Mother as a deity communed across the kingdom of Almire. In the analysis of [divine realms](#divine-realms) we proposed Spirit Mother might be or reside in the source of all souls in a higher, evidently divine realm, _as a deity of water and spirits_.
 
-Through those similarities -- the celestial nature of the realm, -- we propose that the paradise, part of the heavenly kingdom, the Scarlet Fortress being what remains of it in the material realm, __is to be located in a realm above material realm__, while allowing for elements of material realm such as castles comprising the kingdom and its inhabitats -- [griffins](#final-distinction-between-valkyries-and-owlites) -- _to remain corporeal_.
-
-Under this interpetation, the [Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore) explains this cosmology in less fantastic terms, but ones meant to be perceived as a myth, `An extremely rare metal of great power said to be from the heavens above. It is often completely wasted on crowns and jewelry for slime royalty`, that there exits a concealed realm of heaven which we suggest to be closely similar to the [earlier proposed idea of a vertical flow of energy](#metaphysical-stack), here being the realm above the material realm to be the sourse of energy and souls as its medium, and now as [celestial radiance](#forgotten-time-part-2-radiance-of-griffon).
-
-As Scralet Fortress and Owlite academy are present in the material realm, it is unknown whether heavenly kingdom is separate from the paradise.
-
-Yet, it is this specific kind and context of ambiguity reminiscent of [other instances of divine realms](#celestial-kingdom) which allow us to propose that __heavenly kingdom occupies both material realm and realm above__, while the __paradise would become the topmost, most divine location above material realm__. Heavenly kingdom as much as its mythological predecessors, is extrapolated to possess an internal, divine hierarchy, mirroring the depths of Underworld, Blinding Abyss, and Apocrean realm.
-
-This relation poses a question to Whitespace's precise nature because of its essential relation to the setting as the source of energy for Clockworks. We will not conclude its nature without proper analysis, but acknolwedge an ongoing set of motifs revolving around energy and souls with root in mythology and alchemy.
-
-With this we can now reiterate on the history of Fallen Valkyrian and their involvement into present timeline.
+The most direct presence of the divinity had allowed us to suggest that celestial beings, if Nature Sprites and griffins are those, despite their divine nature remain susceptible to curse, therefore _presence of darkness of Underworld may be seen as most threatenning for the heavens_.
 
 <!--We do not know whether [Sentenza](https://wiki.spiralknights.com/Sentenza), as it is forged from Shadow Steel, can be attributed to the Fallen Valkyrian instead of the owner of Shadowsun set as it would decouple the handgun from the [Shadowsun Slicker](https://wiki.spiralknights.com/Shadowsun_Slicker). But, we can potentially attribute [Blackhawk](https://wiki.spiralknights.com/Blackhawk) to this set.-->
 
 #### War in Heaven
+
+With this we can now reiterate on the history of Fallen Valkyrian and their involvement into present timeline.
 
 The Fallen Valkyrian was banished into the Underworld through the material realm from the paradise of heavenly kingdom. The reason behind this action is unknown, yet the valkyrian ends up in the Underworld given armor's properties and affinities:
 
@@ -6325,19 +6312,23 @@ We eventually arrive to an observation, where curse or depiction of evil eye bec
 
 The curse is foreign for material realm, yet, when present, it grants immortality by tethering soul to an aura -- a corporeal form within material realm. Through alterations by curse physical body is suspended indefenetely in animation, while remaining vulnerable.
 
-Would the state of celestil influence or divinity, coming from the paradise above heavenly kingdom, cause the same effect of immortality, but in opposite to Underworld's influence? As in case of Grimalkin, the body is repositioned further to nature of Underworld, but __what if one would be repositioned closer to higher realms with aforementioned forces of divinity and celestiality being the source of alteration__? Moreover, if those realms are the realms of energy __which conduct shape of that very energy as souls, embers, minerals, etc., how this divination would appear__?
+Would the state of celestial influence or divinity, coming from the paradise above heavenly kingdom, cause the same effect of immortality, but in opposite to Underworld's influence? As in case of Grimalkin, the body is repositioned further to nature of Underworld, but _what if one would be repositioned closer to higher realms with aforementioned forces of divinity and celestiality being the source of alteration_? Moreover, if those realms are the realms of energy __which conduct shape of that very energy as souls, embers, minerals, etc., how this divination would appear__?
 
-As far as we were looking at the heavenly kingdom, they seem to present this exact case -- a civilization of celestial beings, guardians of paradise, as the location from which Fallen Valkyrian was cast down and remaining immortal through reliance on the narrative.
+As far as we were looking at the heavenly kingdom, they seem to present this exact case -- a civilization of celestial beings, guardians of paradise, as the location from which Fallen Valkyrian was cast down.
 
 We have seen across instances of Circles of Art and Owlite Tomes that they operate by the same principle of fiendish magic. Fiendish sigils made of minerals inscribed into patterns or assembled into configurations, through which they radiate auras or, as in case of glyphs, store energy and data, used as the basis both for Owlite magic and spells, Underworld's operation, connection of realms both to lower ones and, potentially, given univeral nature of the laws, to higher realms.
 
 Within this duality exists a __common set of metaphysical rules which are devoid of inherent divinity to them__, unless framed so or the analysis of Whitespace provides solid groud to suggest so.
 
-But, as far there is a consistent narrative of curse and Undercorp's involvement, what would happen, considering this position of material realm on the metaphysical stack, if lower realm, such as Underworld, would have attempted to siege heavenly kingdom? _How would curse manifest within a higher realm or paradise itself?_ Does Fallen Valkyrian and Nature Sprites qualify as celestial beings ridden by curse?
+But, as far there is a consistent narrative of curse and Undercorp's involvement, what would happen, considering this position of material realm on the metaphysical stack, if lower realm, such as Underworld, would have attempted to siege heavenly kingdom? _How would curse manifest within a higher realm or paradise itself?_ As Fallen Valkyrian and more prominently Nature Sprites are qualified as celestial beings ridden by curse, how it may influece the all-encompassing nature of Nameless Realm and the paradise?
 
-Given Chaos Cloak we previously suggest that curse is incorporated into nature of Nameless Realm, but would it be detrimental for the inhabitants of this realm, or it depends on the proximity to paradise? If owlites were celestial beings, as, potentially, Isorans, curse would act as it does. If we interpret Chaos Cloak as representative of inclusion of curse without rendering it ineffective, as much as other status effects retaining potentcy, how it would influece the deities across heavenly kingdom or the realm of Spirit Mother?
+At this point there are 3 distinct notions found:
 
-As far as the expanse of possibilities grows, we will reevaluate nature and definition of curse which considers currently established notions, [metaphysics of dvinity and light](), and principles initially [explored in Dread Seals]().
+- Divinity associated with paradise and heavenly kingdom
+- Celestial nature is closely related to divinity and is seen as more material in nature
+- Chaos represented by the Nameless Realm which renders curses as part of physical processes of reality
+
+As far as the expanse of possibilities grows, we will reevaluate nature and definition of curse which considers currently established notions of neutrality of curse, [metaphysics of divinity and light](), and [principles of metaphysical restriction of Dread Seals]().
 
 <center class="chapter-break">
   <span class="energy">🜏</span>
@@ -6795,6 +6786,7 @@ The curse can be externally applied which takes form of a metaphysic restriction
 - A knight under curse can attack only through the attack backfiring.
 - Seals placed onto weapons block or direct inwards part fo their power - prime example being Sealed Sword.
 - Sealed entities -- Carnavons, Black Kats, Lumbers, -- are instances of this concept applied thematically and functionally. Only elemental Lumbers possess a seal, is attributed to essence or a soul keeping them operational within an artificially constructed body. Carnavons and Black Kats are marked by the seal, which, given their current condition, blocks so far unseen fraction of their influence onto material realm or focuses them in order to be offense-oriented.
+- Divine beings being paralyzed bythe curse, primary instance being Nature Sprites within the Firestorm Citadel, their power are restircted.
 
 <!--Given [Dazzling Light Ray](https://wiki.spiralknights.com/Dazzling_Light_Ray#Dazzling_Light_Ray): `The ray of light deals extra damage to undead and fiend family monsters`, seal's function can be interpreted as one forbidding greater damage to species of material realm, or, in a more recent interpretation, attributing it to Undercorp, _a tool to tether the soul outside of specificity of Cradle's metaphysics._-->
 
@@ -6822,17 +6814,15 @@ Lastly we acknowledge the body horror aspect of affliction with curse, found thr
 - Black Kats, Grimalkin and Margrel, were transformed from celetial cat-like beings to ghosts with, independent of their anatomy, disembodied giant ghostly heads. A few, black kats in particular bear cracked shimmering texture, while being sealed with an Underworld-derived talisman.
 - There is also the Swarm, which bears most of characteristics of lovecraftian eldritch deity, but in this context of body horror, the void enemies it is associated with, like gremlins, all have their insides glowing with intense and monotone pink color. Depending on the origin of void enermies, it may be seen as a tranformation which robs the victim of its will, now guided by one of the Swarm, and violently alters their appearrance without explicit change in their anatomy or behavior. While it is a speculation, given lack of analysis of the Swarm and its more concealed nature, it is a plausible interpretation.
 
-#### Immortality Through Curse
+#### Cradle Metaphyscis: Part 5: Immortality Through Curse
 
 The more curse is _integrated into nature of an affected entity_, the more this entity becomes detached from properties of material realm and approaches the supernatural, going through a process of transformation of a body, its aura manifested, but not its soul which remains unaffected. The body in the Underworld is malleable, as suggested by origin of gorgos.
 
-<!--In greater scope, evil eye related to Underworld and shadow damage, seen in such instances as Kat Tribe raiments and Collector's eye and explosion, which is reminiscent of the graviton and electron bombs.-->
-
 In that interpretation and arising notion, before delving into the discussion about the Swarm, we suggest the curse is a method of bestowing greater magical, physical power, and immortality, in exchange for the change in nature of the being, aligning them with the Underworld. This change manifests as tethering of the souls to a body, usually remaining in the material realm, but also imbues the body with either fiendish or udead physiology, characteristic of inhabitants of Underworld.
 
-<!--The fiends themselves are immune to curse and incorporate it to the extremes as part of their physiology. Entities which incorporate [curse](https://wiki.spiralknights.com/Curse) to the fullest are weak to piercing or divine damage originating from Heaven, contained in the refined [Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore), [Sun Silver](https://wiki.spiralknights.com/Sun_Silver).-->
+The fiends themselves are immune to curse and incorporate it to the extremes as part of their physiology. Entities which incorporate [curse](https://wiki.spiralknights.com/Curse) are weaker to the greater extent to piercing or divine damage originating from the heaven, contained in the [Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore) and refined of it [Sun Silver](https://wiki.spiralknights.com/Sun_Silver), with luminite being the carrier of the goladen radiant light as much as the aforementioned metals.
 
-<!--Presence of the Celestial Ore and Sun Silver highlights the widespread presence in the material realm. It is the nature of Heavens which lies at their properties. The celestial, heavenly theme primarily originates from identified location of Paradise, followed by the heavenly kingdom and realm of Spirit Mother. Those realms are primary candidates to being the source of souls and auras across the material relam which are the concrete cases of universal medium of energy emerging from mist energy.-->
+The celestial, heavenly theme primarily originates from identified location of paradise, followed by the heavenly kingdom and realm of Spirit Mother. Those realms are primary candidates to being the source of souls across the material realm which are the concrete cases of universal medium of energy.
 
 Previously established energy within souls and auras flows from the upper realms and settles in the material realm as souls. Those souls after death of their corporeal bodies or auras depart into the Underworld. Within it, Apocrean realm, Underworld, and Blinding Abyss exist, among which Apocrea realm exists as a force capable to capture souls more aggeressively.
 
@@ -6841,19 +6831,13 @@ It is then a question where the cursed body harvests energy to remain indefinite
 As souls becomes bound, it remains a pocket of energy, while the corporeal body is _reanimated indefinitely_. We propose 2 reasons for this principle which emerge from either:
 
 - The soul being a conduit for unlimited source of energy, or;
-- Through a connection with the Underworld, as in case of [pink lightnings reaching material realm](), the curse serves means of bringing energy into a system of body and a soul from the Underworld.
+- Through a connection with the Underworld, as in case of [pink lightnings reaching material realm](), the curse serves means of introducing energy into a system of body and a soul from the Underworld.
 
 _Lingering of a souls manifests as shadow damage_, as it is directed by an undeparted soul, with the body being a physical actor.
 
-At a current point, while lighning is prevalent for dark matter and cursed beings, it is not universal as the cursed status itself.
+We propose that the __souls is the unlimited but continious source of energy__. For this we refer to Lord Vanaduke's mask and to a lesser extent instances of Snarbolax's haunting. Lord Vanaduke's mask when placed in his finery remains burning which we have explained through traces of his soul lingering in the armor. The longevity of cursed beings, Lord Vanaduke and Margrel, also suggest a sorce of their power to be located in their proximity to grant them immortality -- as their souls or a connection to extrenal source of power. As Vog's curse is partially lifted from the Firestorm Citadel after Lord Vanaduke's soul left him, the traces of his souls, as [soul dust and blighted bone preseve the lingering energy](), _reignite the mask and finery to their smoldering state_.
 
-We propose that the souls is the unlimited source of energy for the corporeal body. For this we refer to Lord Vanaduke's mask and to a lesser extent instances of Snarbolax's haunting. Lord Vanaduke's mask when placed in his finery remains burning which we have explained through traces of his soul lingering in the armor. As the larger curse is lifted, evident by Greenstone Citadel, and his soul evidently leaving when he was defeated, the traces of his souls, as [soul dust and blighted bone preseve the lingering energy]() which _reignite the mask and finery to their smoldering state_.
-
-#### Alchemical Transmutation
-
-The thematic duality of chaos and nothingness is most present in dark matter mineral and Nameless Realm. Through this duality, we disregard _curse as a natural phenomenon_, one conforming to alchemical transmutation and laws of this Universe.
-
-The theme of duality will be explored in the next chapter, fully deriving from alchemical interpretation of of the setting and its narratives, while considering select myth-inspired notions, as all become perpetually suspended and encapsulated in the total of Clockworks.
+This framework of connecting curses to albeit fantasic thermodynamics of energy transfer, we suggest, would allow us to perceive curses in an association with the Nameless Realm and Undercorp technology without leaving out the symbolic and occult role of curse.
 
 <center class="chapter-break">
   <span class="energy">☿</span>
