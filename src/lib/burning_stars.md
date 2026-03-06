@@ -6816,9 +6816,11 @@ Lastly we acknowledge the body horror aspect of affliction with curse, found thr
 
 #### Cradle Metaphyscis: Part 5: Immortality Through Curse
 
-The more curse is _integrated into nature of an affected entity_, the more this entity becomes detached from properties of material realm and approaches the supernatural, going through a process of transformation of a body, its aura manifested, but not its soul which remains unaffected. The body in the Underworld is malleable, as suggested by origin of gorgos.
+The more curse is _integrated into nature of an affected entity_, the more this entity becomes detached from properties of material realm and approaches the supernatural, going through a process of __transformation of a body, its aura manifested, but not its soul which remains unaffected__. The body in the Underworld is malleable, as suggested by origin of gorgos.
 
-In that interpretation and arising notion, before delving into the discussion about the Swarm, we suggest the curse is a method of bestowing greater magical, physical power, and immortality, in exchange for the change in nature of the being, aligning them with the Underworld. This change manifests as tethering of the souls to a body, usually remaining in the material realm, but also imbues the body with either fiendish or udead physiology, characteristic of inhabitants of Underworld.
+In that interpretation and arising notion, before delving into the discussion about the Swarm, we can view curse as a method of bestowing greater magical and physical power in exchange for the change in nature of the being, their soul and body relation, as aura and as a tool of interfacing with reality.
+
+This change manifests as tethering of the souls to a body, usually remaining in the material realm, but also shifts the body to fiendish or undead physiology characteristic of inhabitants of Underworld. This distinction, primary examples of which being Lord Vanaduke, Maulos, trojans, and Margrel may symbolize a potency and resulting success of that shift.
 
 The fiends themselves are immune to curse and incorporate it to the extremes as part of their physiology. Entities which incorporate [curse](https://wiki.spiralknights.com/Curse) are weaker to the greater extent to piercing or divine damage originating from the heaven, contained in the [Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore) and refined of it [Sun Silver](https://wiki.spiralknights.com/Sun_Silver), with luminite being the carrier of the goladen radiant light as much as the aforementioned metals.
 
@@ -6835,9 +6837,9 @@ As souls becomes bound, it remains a pocket of energy, while the corporeal body 
 
 _Lingering of a souls manifests as shadow damage_, as it is directed by an undeparted soul, with the body being a physical actor.
 
-We propose that the __souls is the unlimited but continious source of energy__. For this we refer to Lord Vanaduke's mask and to a lesser extent instances of Snarbolax's haunting. Lord Vanaduke's mask when placed in his finery remains burning which we have explained through traces of his soul lingering in the armor. The longevity of cursed beings, Lord Vanaduke and Margrel, also suggest a sorce of their power to be located in their proximity to grant them immortality -- as their souls or a connection to extrenal source of power. As Vog's curse is partially lifted from the Firestorm Citadel after Lord Vanaduke's soul left him, the traces of his souls, as [soul dust and blighted bone preseve the lingering energy](), _reignite the mask and finery to their smoldering state_.
+Through behavior and animation of undead, we suggest __soul is the unlimited but continious source of energy__. For this we reference to Lord Vanaduke's mask and to a lesser extent instances of Snarbolax's haunting. Lord Vanaduke's mask when placed in his finery remains burning which we have explained through traces of his soul lingering in the armor. The longevity of cursed beings, Lord Vanaduke and Margrel, also suggest a source of their power to be located in their proximity to grant them immortality -- as their souls or a connection to an extrenal source of power, as being with no souls are seen to be animated. As Vog's curse is partially lifted from the Firestorm Citadel after Lord Vanaduke's soul left him, the traces of his souls, as [soul dust and blighted bone preseve the lingering energy](), _reignite the mask and finery to their smoldering state_.
 
-This framework of connecting curses to albeit fantasic thermodynamics of energy transfer, we suggest, would allow us to perceive curses in an association with the Nameless Realm and Undercorp technology without leaving out the symbolic and occult role of curse.
+This framework of curse as an elemnt of fantasy-flavoured thermodynamics would allow us to perceive it in an association with the Nameless Realm and Undercorp technology without leaving out curse's occult motifs.
 
 <center class="chapter-break">
   <span class="energy">☿</span>
