@@ -6858,11 +6858,11 @@ This framework of curse as an elemnt of fantasy-flavoured thermodynamics would a
   </div>
 </div>
 
-Across the analysis we were noting different elements of gremlin technology, society, and what came of them. But in order to attain the fullest and deepest understanding of gremlin civilization, we need to analyze its history from several different perspectives in the similar manner as our previous discussions regarding valkyrian, titan, devilite, Isoran, and Owlite civilizations.
+We were noting different elements of gremlin technology, society, and what came of them. But in order to attain the fullest and deepest understanding of gremlin civilization, we need to analyze its history, its past and present.
 
 #### Iron Law
 
-We begin with the Great Colony and its relation to Iron Law. Most of the general and relatively direct trivia regarding gremlin civilization's past and present is found in Haven, as well as from a few other places. But, due to unreliability of the sources, we have to come off a position, where those source are only half-truths.
+We begin with the Great Colony and its relation to Iron Law. Most of the general and relatively direct trivia regarding gremlins is found in Haven, as well as from a few other places. But, given the sources of information themselves, we have to come from a position, where those source may be unreliable, or, possibly, half-truths:
 
 - `Emberlight founded by Gremlin outcasts from Great Colony. Gremlins of Emberlight not obey the Iron Law, so flee or die. We start over with Emberlight. New colony home to few of us: most ex-schemers, some merchants, some fighters, all traitors in the eyes of Great Colony Gremlins` ([The Lab - Pakrat](https://wiki.spiralknights.com/Pakrat#Dialogue)).
 
