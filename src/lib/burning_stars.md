@@ -6994,7 +6994,7 @@ Of course, there exists a possibility of Clockworks existing for thousands of ye
 
 We could analyze the location of Great Colony in the same manner, as we had attempted to understand what purpose Dry Docks serve and the architecture of Owlite Academy. But here, it is not the location itself is important, but rather an understanding of what had happened before current hierarchy of clans was established.
 
-##### A Precursor Planet Before Cradle
+##### The Precursor Planet Before Cradle
 
 Considering the scale of Clockworks, as they comprise most likely most of all known volume of the planet, we assume, that some foundation for their construction, the raw materials, had to be gathered somewhere - be it a different planets or the one from which initially the construction began: `Within a seemingly impossible machine all manners of alien worlds exist within the giant globes that endlessly churn through every floor. What purpose do they serve? And from where did these worlds come? Before the crash the Skylark performed a partial scan of Cradle's surface that revealed what appeared to be a landscape composed of enormous parches of disparate terrain. The Clockworks are a manufactured place, perhaps the worlds they contain are harvested from the terrain above. But how?` ([Recon Module: Gloaming Wildwoods - Euclid](https://wiki.spiralknights.com/Recon_Module:_Gloaming_Wildwoods)).
 
@@ -7443,7 +7443,7 @@ As for the other quotes, the third is of greater importance, as it strongly sugg
 
 But, as very little information is provided regarding the identity or even existence of the king, we have to keep this notion in mind. The first quote of `Why was there no advance warning of the attack?` might suggest that the attack in question is of the knight entering the factory, which can only mean that the dialogue between those Crimson Order members had to happen very recently.
 
-#### Magitech of Gremlin Engineering
+#### Introduction to Magitech in Gremlin Engineering
 
 Now, there are not many elemental gremlin weapons in a sense closer to Owlites, as they had directly utilized elemental materials, relating back to the discussion of Owlite academy and Valkyrian armors. This is a prelude to an analysis of underlying magitech themes of Clockworks and gremlin technology, and here we would like to look at the final designs and draw parallels to other similar instances.
 
@@ -8246,9 +8246,11 @@ As we have proposed, [through Spiral Order, we linked energy to the symbol and c
 
 Here we should note on the _widespread presence of alchemy stations across Cradle and Clockworks_. Their design, characterized by __two-layered frame below the display is similar to Clockworks tunnels' walls__.
 
-We suggest this design implies a gremlin origin, used by Strangers and Isorans, rather than Spiral Order. This interpretation contradicts the idea of Spiral Order being familiar with alchemy, as it would reuire a differentt system to exist, other than one utilizing present alchemy stations and recipes.
+<!--We suggest this design implies a gremlin origin, used by Strangers and Isorans, rather than Spiral Order. This interpretation has a few caveats which we will discuss soon in relation to the idea of Spiral Order being familiar with alchemy.-->
 
 We have previously proposed, that the concept of Spiral is universal. This way we explained seemingly unrelated presence of energy symbol both for Isoran and Valkyrian armors.
+
+##### Symbol of Alchemy at The Sanctuary
 
 Then there was symbol of an orb of alchemy or of the alchemy itself. It is depicted on modern alchemy stations and Tomes of Rage, the latter possessed by valkyries from a time of dragons. The presence of eenrgy symbol and of alchemy is then further established for gremlins through the __Sanctuary Alchemy Station__ _explicitly designed with this symbol crowning the device_.
 
@@ -8256,11 +8258,13 @@ Given our notion of applying alchemical interpretation, we suggest, that _Orbs o
 
 If we develop this idea further, we whould also acknowledge a unique design of Sanctuary Alchemy Station -- as the main interface is accessed through a shape vaguely similar to one of alchemy stations across Clockworks, where the latter are likely meant to imitate the design of thr Sanctuary Alchemy Station, -- the foundation requires a knight to ascent a staircase, and met with a pool of water, from which in a root-like patterns white fragmented matter connects to the interface of the alchemy station.
 
-Water was vaguely introduced in relation to Blinding Abyss, but more importantly, in relation to divine water from Spirit Mother's realm, as one capable of clensing the curse and extinguishing shadow fires. We suggest, that this water, which is seen in the Sanctuary, is one to be potentially identified as water from Spirit Mother's realm, and, as the _philosophical water_ within alchemical framework, aqua mercurialis, which is also a form of prima materia. The water rests in the basin below the Sanctuary ALchemy Station with latter's roots descending into the pool.
+Water was vaguely introduced in relation to Blinding Abyss, but more importantly, in relation to divine water from Spirit Mother's realm, as one capable of clensing the curse and extinguishing shadow fires. We suggest, that this water, which is seen in the Sanctuary, is one to be potentially identified as water from Spirit Mother's realm, and, as the _philosophical water_ within alchemical framework, `aqua mercurialis`, which is also a form of prima materia. The water rests in the basin below the Sanctuary ALchemy Station with latter's roots descending into the pool.
+
+##### Ownership of Orbs of Alchemy
 
 The prior scenario presumes existence of Orbs of Alchemy before Isorans or even Strangers, and given context of Sanctuary Alchemy Station, we are leaning to either them being devised by gremlins or coming before gremlins. The latter scenario requires elaboration -- and that is mostly due to presence of the same symbol for civilizations which we ruled out to be not related to Clockworks -- Valkyries, owlites, celestial beings, or griffins, but related deeply with the Sleeper, a deific entity, which by its supernatural yet benevolent nature became a candidate to inhabit higher eralms of heavenly kingdom, specifically, the paradise, as [a benefactor at the heart of the supposed heavenly kingdom](). With this, Orbs of Alchemy can be seen as a universal constant - an essential element to existence and operation of alchemy and transmutation taking concrete and unchanging form through Universe's existence, unless they are devised by the primary civilization at a guard of the paradise and heavenly kingdom -- the celestial beings, the inhabitants of heavenly kingdom.
 
-Given so far particularly abstract bnature of the Sleeper and the paradise, we propose that the invention of orbs of alchemy may be attributed to griffins through a repeated application of celetial metals in their instrucments and gear. The correlation of orb's power to its proximity to the Core, then, suggests the latter influencing with its energy power of the orbs as much as other lifeforms. As orbs are used independent of the nature of the gear, they may be seen as the neutral, all-ncompassing catalyst, a philosopher's stone, and therefore one acknowledging all reality, linking itself to the chaos of Nameless Realm.
+Given so far particularly abstract nature of the Sleeper and the paradise, we propose that the invention of orbs of alchemy may be attributed to griffins through a repeated application of celetial metals in their instrucments and gear. The correlation of orb's power to its proximity to the Core, then, suggests the latter influencing with its energy power of the orbs as much as other lifeforms. As orbs are used independent of the nature of the gear, they may be seen as the neutral, all-ncompassing catalyst, a philosopher's stone, and therefore one acknowledging all reality, linking itself to the chaos of Nameless Realm.
 
 Here, we have to look also at the design of Orbs of Alchemy, specifically, their golden frame as one reminiscent of Cradle's arm, seemingly being contained in a mechanical frame. The interior of alchemy orbs is of bright lights, whose amount increases depending on the star rarity of the orb. We will return to the themes of gold in relation to alchemy and nature of Whitespace. But, compared to orbs of alchemy, Cradle's arm does not seemingly possess a quality of containing the enclosed structure, but rather seem to be stucture for a triangular pointer of the same maetallic material to be mounted at it. Notably, the pointer is absent in the infographics on activated console's interface in the events of Shadowplay. This design is most reminiscent of a _mounting and rotating mechanism of a terrestirial globe model_ which may potentially hint at Cradle's purpose as one concealing Clockworks for a specific goal.
 
@@ -8269,17 +8273,66 @@ This leaves us with the last notion we have kept in mind - as alchemy works as a
 - The sphere confined in a cube is a symbolic representation of a _squared circle_ -- a motif found in alchemy, identical to completion of Great Work.
 - The votex-like behavior of vortex block, explosive nature of explosive blocks, and illusive property of ghost block rreminds us of 3 primordial forces of frenzy, rage and storms.
 
-#### King Tinkinzar
+##### Ownership of Alchemy Stations
 
-King Tinkinzar, as a figure, is deeply related to the nature and origin of Crimson Order and foundation of Clockworks as a megastructure. If we approach this relation from Herex's point of view, one of deep despise towards the order: `The Nine are blind, they cannot see the Truth that lies below. The Nine are deaf, they cannot hear the Resonance that beats within this world` ([Spark and Roar - Hidden Hideout - Danger Module - Herex](https://wiki.spiralknights.com/Danger_Module:_Hidden_Hideout)) we observe an inversion of what Seerus says in the Engines of War: `The Nine see all, hear all` - a relation of the Order to senses of sight and hearing. Than Seerus states: `King Tinkinzar alone upholds the Iron Law!` which makes, we suspect, an accent on both on the importance of the figure of the king, and a role of hands. Those phrases are found at the monitors with the imagery of Crimson Order symbol. This design pattern, as well as the [analysis of Iron Law](), is reminiscent of Big Brother of "1984" by George Orwell and his quotes, depicted on the telescreens.
+Lastly, there are alchemy stations themselves. There are predominently only 4 argumenets in favour of alchemy stations being designed and built by gremlins, contrary to a belief that only isroans had relied on alchemy, while there were no information of gremlins using it:
 
-As it was previously pointed out: `Tinkinzar is said to be a great ruler and mechanical genius, responsible for the vision of the whole Clockworks` ([Bootshuze](https://wiki.spiralknights.com/Bootshuze)) - it frames Tinkinzar as an embodiment of a particular trope - [the philosopher king](https://tvtropes.org/pmwiki/pmwiki.php/Main/ThePhilosopherKing), a scientist-king, and here, implied creator of Clockworks, which are, by the factor of scale and greater entities at play, is the definition of megastructure with cosmic horror at hand.
+- Clockwork tunnel-like design of sation of 2-klayers design
+- presence of monitors is not associated with Spiral Order but gremlins
+- mysterius alchemy station had to possess an explanation for its appearance and lack of blueprints
+- Sanctuary alchemy station replicates the design of Clockworks' alchemy stations
 
-Then there is the symbolism of Iron Law and Great Colony's emblem, already covered, but in a current context requiring elaboration. While the bolt is held within the teeth of a wrench is a subject of symbolic interpretation of an iron grip on gremlins ideology, on the contrary, there is Crimson Throne itself and Crimson Order insignia, which has only a single depiction of a wrench proper, in both cases not tightening the bold, but present within the gear, a less enforcing imagery, even suggesting a duality of both, as one requires the other for the metaphorical machine to operate.
+As far as the concept of Spiral Order possessing the fitting technology or alchamy station is, itis becouse of the association of station with the Clockworks we currently commit to an interpretion of alhcmy stations being built by gremlins.
 
-There, teeth of the gear are generally accepted as being members of the Crimson Order, while the wrench, we suggest, is the king himself, evident by imagery of same wrench on Seerus's Crimson Throne. This depiction, we believe, is not a manner of Seerus's character, but an attribution of a member of Crimson Order at his own facility, a nobility of an order within a kingdom.
+While it leaves a possibilty for Isornas to use this technolgy, too, it leads to an ide of this principle of transmutation and alchemy being common between Isorans and gremlins in the same ambiguous manner as the similarity of Siroans to Valkyires. This would also mean that orbs of alchamy might have beet specific to Cradle, while Spiral Order had to rely on other means to perform transmutation.
 
-Those similarities, as well as the implied longevity and a supposed benevolence of king Tinkinzar in contrast with the realities of gremlin civilization had initially lead us to the conclusion of concept of a great gremlin king being engineered specifically by Crimson Order, if we work strictly from lack of any physical evidence of his existence. But, the symbolism at absence of physical evidence is what we were operating through the analysis, as symbols' consistency is one which may allow encoded within concept to resurface.
+#### King Tinkinzar and Gremlin Regime
+
+King Tinkinzar, as a figure, is deeply related to the nature and origin of Crimson Order and foundation of Clockworks as a megastructure.
+
+If we approach this relation from Herex's point of view -- one of deep despise towards the order, -- `The Nine are blind, they cannot see the Truth that lies below. The Nine are deaf, they cannot hear the Resonance that beats within this world` ([Spark and Roar - Hidden Hideout - Danger Module - Herex](https://wiki.spiralknights.com/Danger_Module:_Hidden_Hideout)), we observe an inversion of what Seerus says in the Engines of War, `The Nine see all, hear all`. This perception of the Order through a relation to senses of _sight and hearing_ allows for a direct establishemnt of present factions, of ones operation in accorance with the order and agains it, while remaining separate from thos who abondon it, such gremlins of Emberlight. Then Seerus states -- `King Tinkinzar alone upholds the Iron Law!` which makes accent on the importance of the figure of the king.
+
+Those phrases are found across the monitors with the imagery of Crimson Order symbol on the background. This design pattern coupled with the text itself and vague gremln hierarchy, we suggest, frames king TInkinzar as in a similar light to Big Brother in `1984` by _George Orwell_ passed through quotes depicted on _telescreens_. The telescreen on their own serve an important part to the perception of gremlin technology and range of technological advancements across the Clockworks as the latter incorporates both inventions of 20th century and highly-advanced, mechanical designs of skydomes and pillars, and futuristic designs of consoles with holographic displays.
+
+Then there is an account of Tinkinzar's character from [Bootshuze](https://wiki.spiralknights.com/Bootshuze), `Tinkinzar is said to be a great ruler and mechanical genius, responsible for the vision of the whole Clockworks`. This quote, if to is be believed, frames Tinkinzar as representative of a particular trope -- [the philosopher king](https://tvtropes.org/pmwiki/pmwiki.php/Main/ThePhilosopherKing) and a scientist-king implied to be creator of Clockworks, which are, by the factor of scale and greater entities at play, is the definition of megastructure with eldritch presence at hand, Whitespace of the Core and later the Swarm.
+
+This statement allows for 3 interpretations to be proposed, starting from more simple:
+
+- A gremlin king had existed and was responsible for engineering and creation of Clockworks
+- A gremlin king had existed but nature of gremlin civilization in the form of presnt Crimson Orer had framed him as the creatore of Clockworks
+- Gremlin king had never existed and always was an idealised, fictional image intentionally constructed by Crimson Order
+
+##### Intent and Symbolism of Gremlin Emblems
+
+Then there is the symbolism of Iron Law and Great Colony's emblems, being partially covered, but in a current context requiring elaboration.
+
+While the bolt is held within the teeth of a wrench is a subject of symbolic interpretation of an "iron" grip of gremlins ideology, Iron Law, the Crimson Order insignia presents a single depiction of a wrench proper and one not holding the bold, but present within the gear in a _less enforcing imagery_, where we go so far to suggest a following intrepreatation when we compare both symbols agains each other:
+
+- __Iron Law__.
+
+  A bolt is held in place by teeth of a wrench. The wrench itself is hidden from view and restricted by a circle.
+
+  This positioning depicts an __uneven power of the tool and the gear__, where the tool exists outside the eblem and completely contolr the bolt by holding it from top and bottom of the image. The focus of the emblem is centered on the bolt itself as being contained.
+
+  The principles of Iron Law as they are found at the end of Ironclaw Munitions Factory within Crimson Order terminal suggest correlate with the authoritarian nature of the relation beetwen the instrument and the gear.
+
+- __Crimson Order__.
+
+  A gear with 9 teeth is encircling the wrench. Both wrench's head and the gear are completely visible while the wrench is aimed upwards to the gear.
+
+  A lack of raw force excihibited by the tool onto the gear, its positioning within the gear, frames an equal relation, beneficial _through lack of angular lines within the symbol_, which makes the image __less aggressive in its tone__ without robbing its specific elemnts of the metaphorical authority. The gear would not be moved without the instrument, which both serves it the foundation, as the wrench is positioned below, and the gear encircles the wrench as a halo.
+
+  Given the direct association of the symbol with Crimson Order, the teetch of the gear, we suggest, are meant to be nine member of Crimson Order. This leaves the king, and as he  is included into the relation between order and himself, the remaining element -- the wrench, -- we propose, is meants to be the king as central to order operation and vision.
+
+  This inclusion of the _king in a position of power within the symbol_, as a tool to guide the gear, makes the king present as, at some point, __living gremlin, respected by Crimson Order__.
+
+  Lastly, the lack of angular lines on this symbol compared to one of Iron Law grants it nobility as representative of the elite and authority of gremlin civilization. The lack of angular lines will make itself more present in a few no less important instances, specifically, theie language and deasigns of the Consoles.
+
+<!--There, teeth of the gear are generally accepted as being members of the Crimson Order, while the wrench, we suggest, is the king himself, evident by imagery of same wrench on Seerus's Crimson Throne. This depiction, we believe, is not a manner of Seerus's character, but an attribution of a member of Crimson Order at his own facility, a nobility of an order within a kingdom.-->
+
+Those similarities, as well as the implied longevity and a supposed benevolence of king Tinkinzar in contrast with the realities of gremlin civilization had initially lead us to the idea of concept of a great gremlin king being engineered specifically by Crimson Order, if we work strictly from lack of any physical evidence of his existence. But, the symbolism at absence of physical evidence is what we were operating throughout the analysis, and, as it was noted above, had us to commit to idea of gremlin king to exist at some point in gremlin civilization, responsible for existence of Clockworks.
+
+##### Relation between Gremlin King and The Architect
 
 We would have concluded at that, if not for the existence of the Architect:
 
@@ -8289,7 +8342,7 @@ More notions arise from notes of the Alpha Squad by framing Clockworks in the si
 
 Due to total absence of any entity remotely reminiscent of the Architect, apart from abstraction of the Swarm, but one which is not Sleeper itself, the single and only lead we see is that the Architect is king Tinkinzar.
 
-With this in mind, with the idea of Great Colony, and Iron Law, we can attempt to guess the logic behind the Artifact and Consoles deeper role based on the design element of the two and a relation to the Core at a symbolic and thematic level.
+With this in mind, with the idea of Great Colony, and Iron Law, we can attempt to guess the logic behind the Artifact and Consoles' role based on the designs of the two and a relation to the Core at a symbolic and thematic level.
 
 #### Consoles: Part 2 - Divine Clockworks and Whitespace
 
