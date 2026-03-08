@@ -6960,35 +6960,37 @@ With this information, we can outline basic premise and relation between the dis
 
 The validity of the Iron Law itself being true is not yet questioned here, but rather it allows us to understand basic idea behind the gremlin governmence.
 
-Due to unknown nature of this plan, the validity of the claim, that Emberlight's existence could harm it, creates at least 2 interpretations, distinguished mainly by the degree of false information being distributed across non-Crimson Order gremlins, which, considering _general dystopian inspirations_, does seem as a potential assumption.
+Due to unknown nature of this plan, the validity of the claim, that Emberlight's existence could harm it, creates at least 2 interpretations, distinguished mainly by the degree of false information being distributed or the _cynism of the rendition of gremlin regime the setting presents_.
 
-But, this could be also a case of unverifiable, unreliable information as Spiral Order is not familiar with gremlin's culture in details.
-
-We also consider Herex's interpretation of Iron Law as broken to be truthful at least partially, as rooted in reality, rather than a complete delusion, [given latter eldritch horror motifs](#the-swarm).
+We also consider Herex's interpretation of Iron Law as broken to be truthful at least partially, as rooted in reality, rather than a delusion, given eventual appearance of eldritch horror as the Swarm.
 
 With this, we can derive 2 general interpretation of the nature of Iron Law:
 
-- Iron Law is a form of suppression of any state outside of Great Colony and distinct clans. Crimson Order considers Iron Law truthful while being unaware of its false nature, embodied by an implied relation of Herex and the Swarm.
+- Iron Law is a form of suppression of any state outside of Great Colony and distinct clans. Crimson Order considers Iron Law truthful while being unaware of its potentially false nature, embodied by an implied relation of Herex and the Swarm.
 - Iron Law is devised with the complete understanding of Cradle and Clockworks by the ruling party, Crimson Order and the king.
 
 We will keep those 2 interpretations in mind while attempting to apply them to other elements of gremlin civilization in order to see how they would work in this framing.
 
-There is one more conflicting interpretation of the term Great Colony, which we will hold off until the analysis of the [mending rune](#mending-rune-and-gremlin-emblem). Until then we will consider Great Colony as a literal location.
+<!--There is one more conflicting interpretation of the term Great Colony, which we will hold off until the analysis of the [mending rune](#mending-rune-and-gremlin-emblem). Until then we will consider Great Colony as a literal location.-->
 
-As we have not heard of gremlins in the context of other civilizations, we can make a plausible explanation for it being the fact that those periods of time _had happened prior to their incorporation into Cradle_. But it is unknown weather Cradle is as old as those civilizations - are Clockworks as old as, for example, heavenly kingdom or tortomega?
+As we have not heard of gremlins in the context of other civilizations, we can make a plausible explanation for it being the fact that those periods of time _had happened prior to their incorporation into Cradle_. But it is unknown weather Cradle is as old as those civilizations -- are Clockworks as old as, for example, heavenly kingdom or tortomega? So far ths seems unluckely.
 
-If gremlins are to be considered one of the more technologically advanced civilizations to date, on par with urban occult setting of devilites, [represented as Undercorp](), [heavenly kingdom of valkyries]() with [Owlite Academy](), and [Almire](), - gremlins, through Clockworks, had managed to connect all of the above civilization despite lingering existential threats within each epoch.
+If gremlins are to be considered one of the more technologically advanced civilizations to date, on par with urban occult setting of devilites, [represented as Undercorp](), [heavenly kingdom of valkyries]() with [Owlite Academy](), and [Almire](), gremlins, through Clockworks, had managed to connect all of the above civilization despite lingering existential threats within each epoch.
 
-Based on the quote `Tinkinzar is said to be a great ruler and mechanical genius, responsible for the vision of the whole Clockworks` ([Bootshuze](https://wiki.spiralknights.com/Bootshuze#Dialogue)) we have to assume that Tinkinzar came before Clockworks and subsequently Cradle. Yet, it is due Pakrat's recount of events it is known that a many years had passed since one saw the king: `Tinkinzar not seen for many many years. Crimson Order carries out Tinkinzar's plans for Cradle` ([Pakrat](https://wiki.spiralknights.com/Pakrat#Dialogue)).
+Based on the quote `Tinkinzar is said to be a great ruler and mechanical genius, responsible for the vision of the whole Clockworks` ([Bootshuze](https://wiki.spiralknights.com/Bootshuze#Dialogue)) we have to assume that _Tinkinzar came before Clockworks and mechanization of Cradle_. Yet, it is due Pakrat's recount of events it is known that a many years had passed since one could have seen the king, `Tinkinzar not seen for many many years. Crimson Order carries out Tinkinzar's plans for Cradle` ([Pakrat](https://wiki.spiralknights.com/Pakrat#Dialogue)).
 
 Based on this information already we believe that either:
 
 - Tinkinzar is far older than it might be expected of gremlin species. We have made such conclusion based on the phrasing Pakrat uses, as if Tinkinzar was still present in the past but after Pakrat was born.
-- Tinkinzar is a fabricated figure, whose longevity or even immortality from before Cradle makes him close to a deific imperial figure within gremlins' Iron Law and Great Colony.
+- Tinkinzar is a fabricated figure, whose longevity or even immortality from before Cradle makes him close to a _deific figure_ devised by the state.
 
-But, despite those differences, one element of those connections seems to us rather consistent - __Iron Law represents official gremlin ideology__.
+But, despite those differences, one element of those connections seems to us rather consistent, which might be unobfuscated enough to be reinstated -- __Iron Law represents official gremlin ideology__.
 
-It is then a basic relation of three concepts can be established: of king Tinkinzar as the monarch, Iron Law as the operational principle, an ideology, and Crimson Order as the arbiters of king's will and of the ideology.
+Though this relation we can formulate a relation within the persistent triad of gremlin civilizaion:
+
+- Of king Tinkinzar as the monarch, leader of Crimson Order
+- Iron Law as the operational principle, an ideology of gremlins
+- Crimson Order are the arbiters of king's will and of the ideology.
 
 ##### Implied Time Periods
 
@@ -8346,9 +8348,11 @@ While the bolt is held within the teeth of a wrench is a subject of symbolic int
 
   Lastly, the lack of angular lines on this symbol compared to one of Iron Law grants it nobility as representative of the elite and authority of gremlin civilization. The lack of angular lines will make itself more present in a few no less important instances, specifically, theie language and deasigns of the Consoles.
 
-<!--There, teeth of the gear are generally accepted as being members of the Crimson Order, while the wrench, we suggest, is the king himself, evident by imagery of same wrench on Seerus's Crimson Throne. This depiction, we believe, is not a manner of Seerus's character, but an attribution of a member of Crimson Order at his own facility, a nobility of an order within a kingdom.-->
+  In favour of xistence of the king contribtes another important element of Clockworks -- a certtain care was put into the skydomes containing compounds and other structures, with artificial day-night cycle. The structures, other than larger castles, are placed within the skydomes and compared to the tunnels or deconstruction zones are finely preserved. This, we propose, demonstrates the intent to preserve Cradle's past with care which, _given the incompetence of Seerus and Herex as leaders, implies an exsitence of a benevolent figure both to gremlins and Cradle_, __as no such engineering, moral, and foresight feat would be expected of those members of Crimson Order__.
 
 Those similarities, as well as the implied longevity and a supposed benevolence of king Tinkinzar in contrast with the realities of gremlin civilization had initially lead us to the idea of concept of a great gremlin king being engineered specifically by Crimson Order, if we work strictly from lack of any physical evidence of his existence. But, the symbolism at absence of physical evidence is what we were operating throughout the analysis, and, as it was noted above, had us to commit to idea of gremlin king to exist at some point in gremlin civilization, responsible for existence of Clockworks.
+
+This leaves an open-ended question of _how Tinkinzar had lasted from before creation of Clockworks to the modern day_, if Pakrat is to be believed.
 
 ##### Relation between Gremlin King and The Architect
 
@@ -8362,103 +8366,127 @@ Due to total absence of any entity remotely reminiscent of the Architect, apart 
 
 With this in mind, with the idea of Great Colony, and Iron Law, we can attempt to guess the logic behind the Artifact and Consoles' role based on the designs of the two and a relation to the Core at a symbolic and thematic level.
 
-#### Consoles: Part 2 - Divine Clockworks and Whitespace
+#### Divine Clockwork Tunnels and Whitespace
 
-The Artifact and Consoles are connected by the fact of working, as far as direct observation suggest, as a key and a lock. Yet, to understand this relation and its precise effects, we are required to be aware of the designs of Whitespace, of what distinguishes it from the rest of depths in greatest detail. We will perform this analysis in multiple iterations, looking as the entire system's elements.
+The Artifact and Consoles are connected by the fact of working, as far as direct observation suggest, as a key and a lock.
 
-First, 3 new concepts are introduced by Whitespace, one that is most certainly located within the Core during the events of [Dreams and Nightmares](https://wiki.spiralknights.com/Dreams_and_nightmares):
+Yet, to understand this relation and its precise effects, we are required to be aware of the designs of Whitespace, of what distinguishes it from the rest of depths in greatest detail. We will perform this analysis in multiple iterations.
 
-- Existence of White Clockwork or Whitespace Clockwork tunnels at the start of the [Step Beyond](https://wiki.spiralknights.com/Dreams_and_Nightmares/A_Step_Beyond), a platform, reminiscent of the beginning of the [Unknown Passage](https://wiki.spiralknights.com/Unknown_Passage):
+First, 3 new concepts are introduced by Whitespace, assumed to be located within the Core during the events of [Dreams and Nightmares](https://wiki.spiralknights.com/Dreams_and_nightmares):
 
-  - Both platform have similar proportions: 9 tiles width, and 9 tiles depth, whitespace version has 10 tiles depth.
-  - Both versions have 4x4 4 Clockworks tunnel pillars on each angle of the main platform.
-  - Through the border of the platform goes a single pipe.
-  - But, Unknown Passage's platform has 3 paths extending from it, white Whitespace has only a single path obscured by the different material comprised of physical Whitespace matter.
+- Existence of _White Clockwork_ or _Whitespace Clockwork tunnels_ at the start of the [Step Beyond](https://wiki.spiralknights.com/Dreams_and_Nightmares/A_Step_Beyond), a platform, reminiscent of the beginning of the [Unknown Passage](https://wiki.spiralknights.com/Unknown_Passage):
 
-- Transition from the design of Clockwork tunnels to an abstract shapes of cubes of Whitespace proper.
+  - Both platform have similar proportions: 9 tiles width, and 9 tiles depth, Whitespace version has depth of 10 tiles
+  - Both versions have 4 by 4 tiled 4 Clockworks tunnel pillars on each angle of the main platform. This designs choice _is consistent across most Clockwork tunnels_.
+  - Through the border of the platform connected to the pillars over the ground goes a single pipe
+  - But, Unknown Passage's platform has 3 paths extending from it, except south, behind the knight
+  - Whitespace platform has only a single path and one of four pillars obscured by the different material comprised of physical Whitespace matter.
 
-  - It partially reminds of the design choice present in the Unknown Passage, as portion of the tunnel was destroyed, Whitespace forms, the cubes, filled it in order for knight to pass over the gap.
+- Transition from the metal design of Clockwork tunnels to an abstract shapes of Whitespace proper
 
-_White Clockwork tunnels are seen only once outside of the Core_ - in the [Divine theme](https://wiki.spiralknights.com/Theme_(Guild_Hall)) of the Guild Hall. It is the last and most expensive upgrade, requiring most of the Guild Hall to be unlocked and active. This connection - of Whitespace theme being referred as the divine, - __establishes a relation between the nature of divine color scheme and divine implications of Whitespace__. This statement will be the foundation for our further analysis. But, on its own it could've been written off as an asset reuse, a case we were encountering a few time for now.
+  - It is reminiscent of the design present at the Unknown Passage, as portion of the tunnel was destroyed, Whitespace forms, as the cubes, filled in the gap in order for the knight to pass over the destroyed bridge.
 
-Instead, our investigation of Nameless Realm and other deific figures from the other chapters, which revolve around Owlites, becomes relevant. Particularly, it is the nature of heavenly kingdom, also identified as the paradise, whose role was important in relation to Fallen Valkyrian is what interests us _as a preestablished metaphysical system prior to arrival of gremlin empire_. Of all of the experiences of the divine for Owlites and Valkyries, nature of the paradise and of heavenly kingdom is [one we have suggested to be a precursor for existence of Whitespace within the Core]() as both possess a distinct deific features, and _offer a resolution for a later question of inception or discovery of the Sleeper by gremlins_.
+White Clockwork tunnels are seen __only once__ _outside of the Core_ -- as the [Divine theme](https://wiki.spiralknights.com/Theme_(Guild_Hall)) of the Guild Hall. It is the last and most expensive upgrade, requiring most of the Guild Hall to be unlocked and active. This connection of Whitespace theme being referred as the divine __establishes a relation between the nature of divine color scheme and divine nature of Whitespace__. This connection will be the foundation for our further analysis. But, on its own it could've been written off as an asset reuse, a scenaion we won't currently commit to.
+
+Instead, our investigation of Nameless Realm and other deific figures from the other chapters, which revolve around Owlites, becomes relevant. Particularly, it is the nature of heavenly kingdom, also identified as related to the paradise, whose role was important in relation to Fallen Valkyrian is what interests us _as a preestablished metaphysical system prior to arrival of gremlin empire_. There were also noted other [instances of divinity](#cradle-metaphysics-part-4-universal-laws), such as the materials and being of celestial origin related to heavens. And there was [Chaotic motif](#chaotic-motif) which included curse as part of its nature.
 
 Now, keeping this paradigm in mind, as proper identification of Whitespace requires us to keep track both of _classical, mythologic motifs_ established in relation to heavenly kingdom, and now _alchemical motifs_ of gremlins of modern period of time in general.
 
-For the most part, divine-themed equipment is related to heavenly kingdom. But the difference here arises from the particular colors, as monochrome and occasional gold of Whitespace is not attributed to the divine color scheme. A more fitting connection through monochromatic pattern is attributed to the [Grey Prise Box](https://wiki.spiralknights.com/Grey_Prize_Box). So far we are only concerned with a peculiarity of grey as one containing all of battle sprites in this form, disregarding their origin.
+#### Grey Prize Box
 
-Grey prize box contains replicas of every accessory. This pattern is similar to the white Clockworks in the Core, with an addition of [grey aura](https://wiki.spiralknights.com/Grey_Aura#Grey_Aura), which darkens the surroundings. We have the explanation behind this design, but it requires understanding role of the Swarm first, which will be discussed soon.
+For the most part, divine-themed equipment is related to heavenly kingdom. But the difference here arises from the particular colors, as _monochrome and occasional gold of Whitespace_ is not commonly attributed to the divine color scheme of gold and white, rather than explicitly grey.
 
-One more element of the grey prize box in particular is the [silver personal color](https://wiki.spiralknights.com/Silver_Personal_Color#Silver_Personal_Color), as silver is the heavenly metal within this cosmology - as [Sun Silver](https://wiki.spiralknights.com/Sun_Silver): `An extraordinary metal imbued with the radiant light of the sky`, and the [Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore): `An extremely rare metal of great power said to be from the heavens above`, - relating back to the celestials, supposed Owlites.
+A more fitting connection through monochromatic pattern is attributed to the [Grey Prise Box](https://wiki.spiralknights.com/Grey_Prize_Box). So far we are only concerned with a peculiarity of grey as a symbol, one affiliated with all battle sprites in this form, disregarding their origin, and, also, knight's costume gear.
 
-Silver, by nature of the name, is associated with Sun Silver - a gold-like material, and yet, here silver is monochrome, and appears even in a corresponding, _colorless_ prize box. A note must be made here on the pure grey design of non-prismatic elements of [Heavenly iron Helm](https://wiki.spiralknights.com/Heavenly_Iron_Helm) which is transmuted with the introduction of the [Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore), but itself, is mostly lacks color.
+Grey prize box contains replicas of every accessory in monochrome. This pattern is similar to the white Clockworks in the Core, with an addition of [grey aura](https://wiki.spiralknights.com/Grey_Aura#Grey_Aura) _which darkens the surroundings_.
+
+One more element of the grey prize box in particular is the [silver personal color](https://wiki.spiralknights.com/Silver_Personal_Color#Silver_Personal_Color), as silver is the heavenly metal within this cosmology as the [Sun Silver](https://wiki.spiralknights.com/Sun_Silver), `An extraordinary metal imbued with the radiant light of the sky`, refined from the [Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore), `An extremely rare metal of great power said to be from the heavens above`, relating back to the celestial beings and motif of [divinity of celestial nature](#cradle-metaphysics-part-4-universal-laws).
+
+Silver, by nature of the name, is associated with Sun Silver, a gold-like material, and yet, here silver is monochrome, and appears even in a corresponding _colorless_ prize box. A note must be made here on the pure grey design of non-prismatic elements of [Heavenly iron Helm](https://wiki.spiralknights.com/Heavenly_Iron_Helm) which is transmuted with application of [Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore), but itself, is mostly lacks color, which may tie it to grey prize box, but, as far as its unique method of auisition allows, we separate them in their nature.
+
+#### Whitespace and Spiral Patterns
 
 The third design concept found in Whitespace is of the __square spiral__. As in case of the [first introduction](#concept-of-spiral) of this form, we are searching for patterns:
 
-- Walkways of the Step Beyond depths have transitory square spiral patterns.
-- Patterns of square spirals present on the gates - enemy gates and golden key gates.
+- Walkways of the Step Beyond depths have transitory square spiral patterns
+- Patterns of square spirals present on the gates across Whitesapce -- enemy gates and golden key gates
 
-  The prior, notably, has image of an eye with significantly larger iris and pinkish purple color, reminiscent of curse more than Swarm's pink.
+  Whitespace [monster doors](#monster-doors-security-flaw-of-clockworks) bear image of an eye with significantly larger iris and pinkish purple color, reminiscent of curse more than Swarm's pink, but, given present curcumstances of Swarm being present on the arena, evidently imply Swarm's presence. This is another instance of perviously associated with [the curse symbol as the evil eye](#evil-eye-and-curse) being subjected to a cardinally different context and application.
 
 - Square spiral pattern is also observed across [Mysterious Consoles and the Artifact](https://wiki.spiralknights.com/The_Artifact). It will be the point of the further analysis.
 
-Then, outside of the Core, bur relating to it, there are 3 main elements to the console itself: the display, a platform, and a slot for the Artifact, evident by a placement of 2 vertical rods of the Artifact.
+#### Consoles: Part 2: Divine Imperial Designs
 
-The notable element of the console, which, we believe, is a solid proof of Console's gremlin origin, is the design of the console below the display. It is a curved structure of metal with internal components of dark metal and external plating of more bright color. And exactly on the latter, _on each side of the console, there are 3-stub ends placed in a radial shape with a circled hole below_. __It is the exact design of the Clockwork elevators__ - each side of which contains that exact design up to the inner and outer plating. Except for the color of the outer plating is more contrast. There are brass components of the grid floor of the console, which hold the wires. Color of those elements is the same as the component of the same design around the moving Clockwork elevators' platform.
+Outside of the Core, but relating to it, there are 3 main elements to the console itself: a holographic display, a metal grid platform, and a slot for the Artifact, the latter being evident by a curcular mechanical slot with ports for coinciding _2 vertical rods below 3 revolving circles of the Artifact_.
 
-Ironwork-like designs on the outer and inner circles of the console's platform surrounding the grid and the pattern the Artifact's lid are similar - __the very square spiral, is the Greek key__ - a part of the more general meander pattern. Greek key specifically was found across _Greek and Roman architecture_. With this, now we can now look for shared patterns in attempt to fill in whitespaces in gremlin civilization's history.
+The notable element of the console, which, we believe, is a solid proof of Console's gremlin origin, is the design of the console below the display, [noted in our previous iteration on the concoles](#consoles-part-1-gremlin-containments-and-consoles). It is a curved structure of metal with internal components of dark metal and external plating of more bright color. And exactly on the latter, _on each side of the console, there are 3 stubs at ends placed in a radial shape with a circled hole below_. __It is the exact design Clockwork elevators utilize__, each side of which contains that exact design up to the inner and outer plating. Except for the color of the outer plating is different, which is fitting considering generally differnt design of consoles.
 
-Due to utmost proximity of Consoles' design to the Whitespace, we can gather that this design has greater importance to gremlin civilization, or at least, its inner party, such as Crimson Order, as nowhere else any symbolic element is present apart of Crimson Order insignia itself or the gremlin emblem. More so, the _mirroring of reality outside of the Core within the Whitespace_, and concept of mirrors in general, is one we are tracking since identification of a [motif of dreaming both for Apocrea and Sleeper]() as two thematic opposites, yet being similar in that regard.
+There are brass components of the grid floor of the console, which hold the wires. Color of those elements is the same as the component of the same design around the moving Clockwork elevators' platform.
 
-The last components of the console are the display itself and slot for the artifact. While there is not much, currently, in regards to the slot Artifact is placed in, the display as well as the Artifact's lid contain symbols, which we will identify as gremlin written language.
+Ironwork-like designs on the outer and inner circles of the console's platform surrounding the grid and the pattern the Artifact's lid are similar. The name for this specific patten __of a square spiral is the Greek key__, a part of the more general _meander pattern_. Greek key specifically was found across _Greek and Roman architecture_ which we take note of in the cotext of gremlin wonderweapons' naming conventions, primary instance being the Roarmulus Twins.
+
+With this, now we can now look for shared patterns in attempt to fill in whitespaces in gremlin civilization's history.
+
+Due to proximity of Consoles' design to the Whitespace we can gather that this design possesses much greater importance to gremlin civilization, or at least, its inner party, similar to [contrasting difference in symbolic value of Crimson Order insignia and symbol of Great Colony](#intent-and-symbolism-of-gremlin-emblems).
+
+More so, the _mirroring of reality outside of the Core within the Whitespace_, and concept of mirrors in general, is one we are tracking since identification of a [motif of dreaming both for Apocrea and Sleeper](#metaphysics-of-dreams-part-1-apocrea) yet being thematic opposites both evoke _metaphysical nature of dreams_.
+
+The last components of the console are the display itself and slot for the artifact. While there is not much, currently, in regards to the slot Artifact is placed in, the display as well as the Artifact's lid contain symbols which we will now _identify as gremlin written language_, labelled further as the [gremlin conlang](#gremlin-conlang).
 
 #### Gremlin Conlang
 
-Based on the encountered instances of gremlin written language, or rather their written system, we will use for the description of those symbols in this document [unicode block symbols](https://symbl.cc/en/unicode/blocks/block-elements/). Those symbol are encountered in 3 instances - _Console_ with the _Artifact_, and the _Roarmulus Twins_.
+In order to apply a systemic view of the encountered instances of gremlin written language, we will use most similar roster of symbols, specifcally, the [unicode block symbols](https://symbl.cc/en/unicode/blocks/block-elements/). Gremlin language is encountered in 3 instances: _Console_ with the _Artifact_, and the _Roarmulus Twins_.
 
-The important thing is to establish is how to transcribe them, - does the dark element of the square fill the letter, or it is the white form we are looking for? To solve this, e have to look at physical letters. One such instance is on the side of the lid, covering the Artifact during activation - those symbols, judging by the lightning, are located in front of the darker elements. We consider this as the guide.
+it is important to establish _how to transcribe those symbols_. Does the dark element within the square frame should be the letter or it is the white form with the frame is the letter we are looking for?
 
-Then there is the direction in which those symbols are read. As console screen depicts rows as, likely, notations to the pulse flow from left to right, we can guess that the gremlin conlang is written horizontally from left to right. But the instance of the console screen does not tell of what are the symbols there - as we can consider the white squared as background, or as part of letters. To solve it, we appeal to the earlier case of symbols on the inner plate layer of the lid of the Artifact clot container, as there, there would be no need to carve with such intricacy the individual blocks.
+To solve this, we have to look at physical depictions of those symbols with consideration of the material they are engraved upon.
 
-- This, we believe, leads us to interpret the white background as if the color is inverted, meaning that the patter of the symbol is black.
-- The same logic is then applied to the row of 3 symbol on the container's lid - reading there only black patterns.
-- On the other inner metal plate on the horizontal dimension of the lid we look for white pattern on black background.
-- The Roarmulus Twins' symbols are the black patterns
+First is on the side of the lid covering the Artifact during its activation, they are painted rather than engraved, with the frame bing painted with application of negative space within the symbol.
+
+Second, there is the direction in which those symbols are read. As console screen depicts rows as, likely, notations to the pulsing flow traversing from left to right, we can guess that the _gremlin language is written horizontally from left to right_.
+
+Third, the instance of the console screen depicts symbols with their frames of white. We may distinguish the white squares as letter's component or as the letters background, therefore identifying the nagative space as the letter itself. The prior case of identifying the letter is more plausibile as it requires less elaborate process in order to read, but the latter provides more precision.
+
+We also appeal to the earlier case of symbols on the inner or secondary blue layer of metal _on top of the lid of the Artifact container_, as there we would then be reuired to carve individual frames as part of the letters.
+
+- This, we believe, leads us to interpret the white background as if the color is inverted, meaning that the patter of the symbol is black
+- The same logic is then applied to the row of 3 symbol on the container's lid, reading there only black patterns
+- On the other inner metal plate on the horizontal dimension of the lid we look for white pattern on black background
+- The Roarmulus Twins' symbols, due to lack of the frame, become the patterns of color, in addition to gremlin emblem painted with the same color, as well as presence of an empty frame suggests its presence only when it is essential to identify the letter
 
 <div class="code-conlang">
 
-As a result, we get the following symbols:
+As a result, we get the following arrangement of symbols:
 
 - Console
   - Console screen
     - Leftmost section
-      - `▝` `▄` - a pulse line extends from this row
+      - `▝` `▄` -- an impulse line extends from this row
       - `▄` `▘` `▟`
-      - `▞` `▗` `▌` - a pulse line extends from this row
+      - `▞` `▗` `▌` -- an impulse line extends from this row
       - `▟` `▝` `▗` `▝`
-      - `▀` `▄` `▘` - a pulse line extends from this row
+      - `▀` `▄` `▘` -- an impulse line extends from this row
     - Pulse line annotations
       - `▝` `▚` `█` `_` `▛`
       - `▘` `▟` `▘` `▄` `▌`
-      - `█` `▗` `▀` `▙` `▝` - positioned above rightmost pulse line
+      - `█` `▗` `▀` `▙` `▝` -- positioned above rightmost pulse line
     - Rightmost section
       - `▗` `▀` `▄`
       - `▖` `▟` `▌`
       - `▐` `▞` `█`
-    - Energy pips. Those are located in a lower half of the holographic interface and depict:
-      - Below the leftmost section Cradle infographic with the Moon and the Arm, with pip depicting a flow from top to bottom.
-      - Below rightmost section the Artifact infographic with distinct 3 circles is seen. Flow of pips is seen to go from bottom to top.
+    - Energy pips. Those are located in a lower half of the holographic interface:
+      - Below the leftmost section Cradle infographic with the Moon and the Arm, glowing in a flowing pattern from top to bottom
+      - Below rightmost section the Artifact infographic with distinct 3 circles is seen. Flowing pattern is seen to go from bottom to top
   - Artifact Container Lid
-    - `▗` `▀` `▙` - side of the lid, engraved on the outer metal plate layer
-    - `█` `_` `▛` `▗` `▀` - Side of the lid is mirrored on both sides retaining its orientation. This means, that one of the readings - a side upon which it is read, is incorrect. Since the previous line is not symmetrically places, we will consider this orientation as correct.
-    - The last text is on top of the lid, and it is as large as the console screen text. In fact, it is the same image, all of the lines from the console screen are appended to the leftmost block's last line.
+    - `▗` `▀` `▙` -- side of the lid, engraved on the outer metal plate layer
+    - `█` `_` `▛` `▗` `▀` -- side of the lid is mirrored on both sides retaining its orientation. This means, that one of the readings - a side upon which it is read is incorrect. Since the previous line is not symmetrically placed, we will consider this orientation as correct.
+    - The last text is on top of the lid, and it is as large as the console screen text.
 - Artifact
 
   All of its 3 circles have the same pattern. We will looks for the black symbols on light background.
 
-  `x` - marks lack of circle's surface
-
-  `_` - marks lack of light on the surface
+  - `x` denotes lack of circle's surface
+  - `_` denotes lack of light on the surface
 
   The result is: `x` `▀` `x` `▐` `▞` `█` `▗` `x` `x` `▟` `x` `▖` `_` `▌` `▄` `x`
 
@@ -8470,12 +8498,7 @@ As a result, we get the following symbols:
 
   - Arrows pointing to armor plates' joints: `_` `▀` `▟` `█` `▌` `▌`
 
-    There are several issues with this transcription:
-
-    - The last 2 repeating symbol is an uncommon pattern.
-    - We can gather, that the `█` is incorrect, which will lead followed symbols to be interpreted incorrectly. There is a possibility of `▐` being present.
-    - But the one to last symbol has vertical side with a pit, followed to the left exactly as the width of `▌`, leaving the questionable symbol on the left, as one similar to triangle. No such symbol is seen anywhere else.
-    - The last symbol, due to lack of boxes, could be as `▌` as `▐`. So, due to this, we have to operate on those symbol with a possibility of error inherited in the transcription.
+    There are several issues with this transcription, stemming from `█` being interpreted incorrectly which will lead followed up symbols to be transcribed incorrectly, too.
 
     This line is found in multiple instances, always pointing to a point of 2 plates connecting, which might five a hint to its meaning.
 
@@ -8491,21 +8514,13 @@ Based on this, we can arrange a table of repetitions of each symbol:
 
 Mention of gremlin cryptography in the Aftermath: `It'll take forever to decipher gremlin cryptography` ([Operation Crimson Hammer - Aftermath]), may be related to this language.
 
-But the presented instances of the language, we believe, seemingly being encrypted, as in case of Roarmulus twins, they serve as markings on the joints of armor plates; and in case of Mysterious Console and Artifact, they seem to be operational instructions or a manual, as they are present both on top of the lid and in the holographic display, serving functional purpose - and, seemingly, infographic one.
+The earlier presented instances of the language may seem encrypted, but, as in case of Roarmulus twins, they serve as markings on the joints of armor plates; and in case of Mysterious Console and Artifact, they resemble operational instructions or a manual, as they are present both on top of the lid and in the holographic display, _serving functional, infographic purpose_. Such purpose has not intent of being encrypted as it is meant to be read as it is observed.
 
-The other, more probable case of those symbols being __native written form of gremlin language__.
+This leads us to suggest that the written language is not encrypted, but rather appears to be a case of a language barrier.
 
-We come to this conclusion based on the aforementioned context of symbols' placement, as those location are not likely to be intentionally encrypted, but rather seem to be a simple language barrier.
+There is one more case of a language barrier during the events of [Operation Greenhorn](https://wiki.spiralknights.com/Breaking_in_the_Recruits/Operation_Greenhorn). In the Strangers' town, likely Haven, gremlins have a different pattern of speaking, `Greetings, little. One. Don't step. On snipes`, `Greetings. Get Shinies. Get Shinies`, `Snipes. Buy? Sell?` ([Strangers](https://wiki.spiralknights.com/Breaking_in_the_Recruits/Operation_Greenhorn)). The existence of a language barrier here suggests that there is at least one other language within gremlin society, one that is unintelligible to Isornas and one, potentially, _gremlin menders speak_.
 
-In fact, there is one more case of a language barrier during the events of [Operation Greenhorn](https://wiki.spiralknights.com/Breaking_in_the_Recruits/Operation_Greenhorn). In the Strangers' town, likely Haven, gremlins have a different pattern of speaking: `Greetings, little. One. Don't step. On snipes`, `Greetings. Get Shinies. Get Shinies`, `Snipes. Buy? Sell?` ([Strangers](https://wiki.spiralknights.com/Breaking_in_the_Recruits/Operation_Greenhorn)).
-
-The existence of a language barrier in the latter case suggests, that there is at least one other language within gremlin society, potentially, in conjunction with a low literacy level within gremlin society, given its more grim themes, paired with wide presence of, at least, militaristic motifs.
-
-Notably, low literacy level was encountered one other time, in relation to an undead Kat Tribe: `It appears that illiteracy is still rampant among the black kat hordes, so they have once more taken to eating the pilfered pages rather than using them for arcane rituals` ([Kataclysmic Confrontation!](https://forums.spiralknights.com/en/node/100025)) and `Black kats are the darkest souls of the former Kat Tribe. They carry the heaviest curse of all and mindlessly seek to devour magical auras. This constant consuming of power makes them incredibly strong. They were likely attracted to the power radiating from the ancient grimoires here in the Archives` ([Kataclysmic Confrontation - Pembrooke](https://wiki.spiralknights.com/Pembrooke#Dialogue)).
-
-Among several instances of our tests in attempt to decipher this, potentially incomplete, language we came to a suggestion, which takes foundation in taoism, as several our topics regarding nature of energy and souls. Specifically, what is the symbols on the console and the Artifact were not meant to represent works, but rather chained together concepts, reminiscent of taoist trigrams?
-
-The very fact that gremlin symbols are not enumerable for complete english alphabet, 15 symbols and a lack of one, are relatively similar both in count and rectangular shape to the aforementioned 8 trigrams, or 64 hexagrams, which correspond to more precise concepts. While this is a speculation, it fits with a few concepts which seemingly were derived of eastern philosophies explored earlier, specifically of those which had its influence onto alchemy in both western and eastern tradition.
+As far as this document discusses the specifics of gremlin language, we were unable to decypher it.
 
 #### Gremlin Schematics
 
@@ -8515,7 +8530,7 @@ We have analyzed the room the supposed schematics were located. Based on those w
 
 - East room: gun block and its target, supposedly set up for testing.
 - West room: Chemicals, minerals, and slime samples.
-- Norse room: Ancient tomes with a potential to relate to Owlites.
+- Nothern room: Ancient tomes, reminiscent of or potentially related to Owlites.
 
 How those objects relate to gremlins?
 
@@ -8548,7 +8563,7 @@ In order to prevent ourselves from diving into the relation with the Sleeper, Co
 
 The fact Knight can get lost within the Whitespace of the Core, which itself can be controlled through unknown means, we can make a proposal.
 
-Given further relation of gremlins to the Core, Consoles, and the Artifact, we propose, that the __schematics describe the specification - the mechanical design, a blueprint of the Core__, which allow both to navigate and understand it as a megastructure revolving around physical principles, distinct from ones commonly observed in the material realm, albeit without inclusion of the Swarm, but, with consideration of Whitespace itself as the contents of the Core.
+Given further relation of gremlins to the Core, Consoles, and the Artifact, we propose, that the __schematics describe the specification - the mechanical design, a blueprint of the Core or its components__, which allow both to navigate and understand it as a megastructure revolving around physical principles, distinct from ones commonly observed in the material realm, albeit without inclusion of the Swarm, but, with consideration of Whitespace itself as the contents of the Core.
 
 We are yet to understand, what is responsible for chaotic pathways within the Core, - weather it is effect of Swarm's presence or a natural environment, as one related to the Nameless Realm, in both instances retrieval of specification of the Core as a man-made location completely alien to the rest of Cradle seems to be a proper step of preparations before descending into one.
 
@@ -8972,18 +8987,15 @@ This general ambiguity will follow our latter analysis of the Swarm.
   </div>
 </div>
 
+As we have covered the majority of gremlin civilization we will return to the analysis of the Swarm.
 
-Architect, Core, Cradle, Sleeper and Swarm relation must be looked at through the lens of narrative analysis and themes, in conjunction with the events themselves - their corresponding analysis, arcs and themes, - preceding as well as happening after the arrival of Isorans onto Cradle.
+#### Herex's Treason
 
-As we have already touched upon many different aspects both of Swarm-infested depths, being the Shadow Lairs, Clockworks, Whitespace of the Core itself, we will reiterate on those now with the entirety of the discovered context of gremlin civilization.
-
-#### Herex's Treachery
-
-First direct presence of the Swarm is established in the Hidden hideout of Spark and Roar, characterized by manifestations of its black clouds. There are, of course, implied connections of Herex as far as the New Threat dialogue suggests, but those are implicit examples, which are intended to be identified contents of only by the time presence of the Swarm is completely established and acknowledged, and that is after the events of Dreams and Nightmares.
+First direct presence of the Swarm is established in the Hidden hideout of Spark and Roar, characterized by manifestations of _its black clouds_. There are, of course, implied connections of Herex as far as the New Threat dialogue suggests, `I am no mere gremlin. I am the thousand eyes that watch you in the darkness. I am the hissing blade that whispers your doom. Tear down every wall and cog in this accursed place and you will find only shadows` ([A New Threat - The Lab - Herex](https://wiki.spiralknights.com/A_New_Threat/The_Lab)), but those are implicit examples which are intended to be identified contents of only by the time presence of the Swarm is completely established and acknowledged, and that is after the events of Dreams and Nightmares.
 
 Lastly, given this established context, we can start to construct a rough timeline of Herex's plans, as well as mark appearances of the Swarm across rank missions' progression.
 
-Before arrival of Isorans the Artifact is retrieved and placed into Razwog's facility. This act is by itself goes against approval of Crimson Order since Herex states that they should not know of the possession of the Artifact: `Schemer Razwog: Work away from the others. The Order must never know we have the artifact. Find a way to power it. Bring it to me. Do not betray me. I will know` ([Crossing the Chasm - The Journey to Haven - Recon Module: Herex](https://wiki.spiralknights.com/Crossing_the_Chasm/The_Journey_to_Haven)).
+Before arrival of Isorans [the Artifact is retrieved and placed into Razwog's facility](). This act is by itself goes against approval of Crimson Order since Herex states that they should not know of the possession of the Artifact: `Schemer Razwog: Work away from the others. The Order must never know we have the artifact. Find a way to power it. Bring it to me. Do not betray me. I will know` ([Crossing the Chasm - The Journey to Haven - Recon Module: Herex](https://wiki.spiralknights.com/Crossing_the_Chasm/The_Journey_to_Haven)).
 
 Somewhere across the timeline compound 42 is constructed, as means of its construction were regarding Herex's ways of achieving military and strategic dominance over other members of Crimson Order: `Production of Compound 42 is to cease immediately. While a formidable poison and no doubt useful in achieving a... 'higher' power amongst the Order, it seems to have formed an intelligence well beyond the scope of a standard bio-toxin. All traces of Compound 42 should be eliminated, along with the facility and any engineers not part of the inner fold. Remind the scorchers who find these orders uncomfortable that those who disobey shall soon hear my whisper in their ears. Seal the doors and burn everything to the ground` ([Compound 42 - Containment - Secret Memo - Herex](https://wiki.spiralknights.com/Compound_42/Containment)). Given the secrecy of the operation, its establishment seems to be located earlier in the timeline, but the event of burning the complex down had to happen after Isorans crash land.
 
