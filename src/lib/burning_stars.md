@@ -8289,7 +8289,7 @@ This leaves us with the last notion we have kept in mind - as alchemy works as a
 - The sphere confined in a cube is a symbolic representation of a _squared circle_ -- a motif found in alchemy, identical to completion of Great Work.
 - The votex-like behavior of vortex block, explosive nature of explosive blocks, and illusive property of ghost block rreminds us of 3 primordial forces of frenzy, rage and storms.
 
-##### Ownership of Alchemy Stations
+##### Isoran of Alchemy Stations
 
 Lastly, there are alchemy stations themselves. There are predominently only 4 argumenets in favour of alchemy stations being designed and built by gremlins, contrary to a belief that only isroans had relied on alchemy, while there were no information of gremlins using it:
 
@@ -8298,9 +8298,11 @@ Lastly, there are alchemy stations themselves. There are predominently only 4 ar
 - mysterius alchemy station had to possess an explanation for its appearance and lack of blueprints
 - Sanctuary alchemy station replicates the design of Clockworks' alchemy stations
 
-As far as the concept of Spiral Order possessing the fitting technology or alchamy station is, itis becouse of the association of station with the Clockworks we currently commit to an interpretion of alhcmy stations being built by gremlins.
+As far as the concept of Spiral Order possessing the fitting technology is, the similarity of stations' designs with the Clockworks, yet a complete lack of alchemy preset for gremlin, despite existence of the Sanctuary, we currently commit to an interpretion of _alchemy stations being built by Isorans_ from resources at hand. Such explanation would provide a few means to explain stations' designs while acknowledging lack of alchemy as it was observed for Isorans, for gremlins.
 
-While it leaves a possibilty for Isornas to use this technolgy, too, it leads to an ide of this principle of transmutation and alchemy being common between Isorans and gremlins in the same ambiguous manner as the similarity of Siroans to Valkyires. This would also mean that orbs of alchamy might have beet specific to Cradle, while Spiral Order had to rely on other means to perform transmutation.
+Since orbs of alchemy remain the common symbol, and as we have suggest them being constructed by heavenly kingdom, they would not have value for gremlin civilization, yet they share the symbol between old Cradle and Isora, further contributing to a common elements of Valkyrian and Spiral Order cultures. If orb of alchemy were adopted on Cradle, then Spiral Order had to rely on other means to perform transmutation.
+
+This leaves Sanctuary and Mysterious Alchemy Station as the only exceptions. While Sanctuary Alchemy Station can be plausibly explained by it adopting Isoran designs, as creator of Echo Stones had witnessed arrival of Isorans on Skylark, the Mysterius Alchemy Station's origins remain unknown.
 
 #### King Tinkinzar and Gremlin Regime
 
