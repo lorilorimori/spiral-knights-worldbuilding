@@ -241,7 +241,7 @@ Spirit Mother is the assumed to be a benevolent deity, representing nature in ge
 
 As Spirit Mother's presence is felt only in relation to Almire, her existence, as a remote deity-like supernatural figure, is only characterized by her relation to the kingdom of Almire.
 
-We will keep her existence in mind, despite her seeming lack of presence outside of the kingdom. We will discuss those questions with the presented background information in the [analysis of Almire and Spirit Mother](#almire-and-spirit-mother).
+We will keep her existence in mind, despite lack of her presence outside of the kingdom. We will discuss those questions with the presented background information in the [analysis of Almire and Spirit Mother](#almire-and-spirit-mother).
 
 #### The Void: Part 1
 
@@ -6862,87 +6862,103 @@ We were noting different elements of gremlin technology, society, and what came 
 
 #### Iron Law
 
-We begin with the Great Colony and its relation to Iron Law. Most of the general and relatively direct trivia regarding gremlins is found in Haven, as well as from a few other places. But, given the sources of information themselves, we have to come from a position, where those source may be unreliable, or, possibly, half-truths:
+Most of the general and relatively direct trivia regarding gremlins is found in Haven, as well as from a few other locations. But, given the sources of information themselves, we have to come from a position, where those sources may be unreliable, or, possibly, half-truths:
 
 - `Emberlight founded by Gremlin outcasts from Great Colony. Gremlins of Emberlight not obey the Iron Law, so flee or die. We start over with Emberlight. New colony home to few of us: most ex-schemers, some merchants, some fighters, all traitors in the eyes of Great Colony Gremlins` ([The Lab - Pakrat](https://wiki.spiralknights.com/Pakrat#Dialogue)).
 
-    Emberlight is a town in Clockworks. There is a correlation between idea of Iron Law and hostility towards Spiral Order. Moreover, the culture of banishment is presented here, mainly through disobedience to the Iron Law, which moves an individual to seemingly, bottom of gremlin social hierarchy, an outcast outside of the Great Colony.
+  Emberlight is a town in Clockworks. There is a correlation between idea of Iron Law and hostility towards Spiral Order. Moreover, the culture of banishment is presented here, mainly through disobedience to Iron Law (`flee or die`).
 
-    As we will explore [soon, there are seemingly other methods of punishment](camp-crimson), apart from banishment.
+  As we will explore [soon that there are other methods of punishment](#camp-crimson), apart from banishment.
 
-    The idea of those gremlins seen as traitors presumes that the term of a traitor is detrimental to a societal goal. [Merriam-Webster dictionary](https://www.merriam-webster.com/dictionary/traitor) defines traitor as `one who betrays another's trust or is false to an obligation or duty`. With this, Iron Law seems to be instrumental to modern-day gremlin civilization, as going against it is considered treachery.
+  The idea of those gremlins being perceived by Great Colony as traitors presumes that the term of a traitor is detrimental to a concrete goal of Great Colony gremlins. With this, Iron Law seems to be instrumental to modern-day gremlin civilization, as going against it is considered treachery.
 
 - `All gremlins belonging to the colony serve King Tinkinzar. Tinkinzar is said to be a great ruler and mechanical genius, responsible for the vision of the whole Clockworks. It is our understanding however that the kind is never seen by common gremlins, but instead his orders are delivered and carried out by his Crimson Order, a fearful and zealous band of gremlins who alone share audience with the great king` ([Haven - Bootshuze](https://wiki.spiralknights.com/Bootshuze#Dialogue)).
 
   We have to keep in mind, that a potential element of unreliability might be present here through the wording of `Tinkinzar is said to be` and `It is our understanding`.
 
-  Form here on out we will branch into 2 scenarios of interpreting the idea of a king Tinkinzar, as we will later see: he can be a no more than a fabricated idea, a mythic figure, or as a historical figure, whose actions led to such impression to be created among Strangers.
+  Form here on out we will branch into 2 scenarios of interpreting the idea of the king: he can be a fabricated idea, a myth, or as a historical figure, whose actions led to such impression to be created among Strangers.
+
+- `A very convincing costume that makes the wearer look like a gremlin. its so convincing, you just might receive an invitation to the Colony!` ([Gremlin Disguise](https://wiki.spiralknights.com/Gremlin_Disguise)).
+
+  The colony wih the capital "C" refers here to the Great Colony, as no other settlement of an implied scope was established. This allows us to suggest that most gremlins would assume one to be loyal to Great Colony.
 
 - `Tinkinzar not seen for many many years. Crimson Order carries out Tinkinzar's plans for Cradle. Emberlight was blight on master plan because built by outcasts. Haven was probably the same, founded by non-Gremlins. Not part of plan!` ([Pakrat](https://wiki.spiralknights.com/Pakrat#Dialogue)).
 
-    This assumes, that Iron Law is enforced by Crimson Order and supposedly, by the king as `his orders are delivered and carried out by his Crimson Order` ([Haven - Bootshuze](https://wiki.spiralknights.com/Bootshuze#Dialogue)).
+  We assume that Iron Law is enforced by Crimson Order and supposedly, by the king as `his orders are delivered and carried out by his Crimson Order` ([Haven - Bootshuze](https://wiki.spiralknights.com/Bootshuze#Dialogue)).
 
-    Then there is a vague plan, significant enough for Emberlight to be a hindrance to it. We would speculate it potentially being related to Clockworks' purpose, given `Tinkinzar is said to be a great ruler and mechanical genius, responsible for the vision of the whole Clockworks` ([Haven - Bootshuze](https://wiki.spiralknights.com/Bootshuze#Dialogue)). But, a different suggestion can be potentially presented. As there is an established principle of being banished from Great Colony, with Emberlight being largest known settlement of ones not obeying the Iron Law, one can suggest the plan being only means for Emberlight destruction.
+  Then there is a _vague plan, significant enough for Emberlight to be a hindrance_ to it. We would suggest it might be potentially related to Clockworks' purpose as a megastructure, given `Tinkinzar is said to be a great ruler and mechanical genius, responsible for the vision of the whole Clockworks` ([Haven - Bootshuze](https://wiki.spiralknights.com/Bootshuze#Dialogue)).
+
+  On the countrary, the vagueness of the plan supposedly devised by the king as the supreme leader of gremlins, may be seen as a _narrative constructed by the Great Colony_ to suppress other gremlins and civilizations as disobedient to Iron Law.
 
 - `A village of outcasts, Emberlight serves as a refuge for gremlins who were banished from the Great Colony. Now they live humble lives, selling wares and repairs to passing travelers, always fearful that one day the gremlin king Tinkinzar would see fit to wipe them out entirely` ([Emberlight](https://wiki.spiralknights.com/Emberlight)).
 
-  Here it is phrased as if Tinkinzar is still present and directly oversees the plan, mentioned by Pakrat.
+  Here it is phrased as if Tinkinzar is still present and directly oversees the plan, mentioned by Pakrat, in order to order Emberlight destruction.
 
-- `We believe they are developing some kind of weeping they're calling 'Project R' that will be targeting Haven itself. Spiral HQ and the Strangers themselves are requesting that you investigate the matter given your performance in the Royal Jelly Palace` ([An Explosive Plot - Kora](https://wiki.spiralknights.com/An_Explosive_Plot)).
+  It is also unknwon whether EMberlight is in fact concealed within Clockworks as elements of kingdom of Almire were until appearing above the Core. We may suggest that since all paths from the Arcade gates cross Emberlight, aquisition of Haven during events of Projects R may serve the means of also accessing Emberlight. The phrase `fearful that one day` suggests an always looming danger of this event which makes it unclear why Great Colony, given its resources, would not attack Emberlight earlier, as it invaded Haven through Herex when the Artifact was stollen.
 
-    As Strangers and Haven seemingly existed not long enough to witness creation of Cradle, we have assumed them being alien species to the planet. But, as gremlin civilization had existed nearly as long, assuming them being at least partially responsible for Clockworks' existence, why only now, as the Knights have settles in Haven, it had to be targeted?
+- `We believe they are developing some kind of weapon they're calling 'Project R' that will be targeting Haven itself. Spiral HQ and the Strangers themselves are requesting that you investigate the matter given your performance in the Royal Jelly Palace` ([An Explosive Plot - Kora](https://wiki.spiralknights.com/An_Explosive_Plot)).
 
-    If we consider that Haven was targeted only now, as Emberlight is supposedly under risk, and given hostility of Iron Law gremlins towards knights, seeing outcast gremlins as traitors, we would propose, that presence of Spiral Order is also a hindrance to those plans and purpose of Iron Law.
+  As Strangers and Haven existed not long enough to witness creation of Clockworks, we have assumed them being alien species to the planet. The reason for Haven's destruction, we suggest, it because of Haven being central to Isoran operation.
+
+  If we consider that Haven was targeted only now, as Emberlight is supposedly under risk, and given hostility of Great Colony gremlins towards Isorans, seeing outcast gremlins as traitors, we would propose that presence of Spiral Order is also a hindrance to Tinkinzar's plan.
 
 - `Project R appears to be in fact two massive weapons known as the 'Roarmulus Twins.' Designed by one of the Crimson Order itself, the Roarmulus Twins are some kind of construct cannon that the gremlins intend on moving up the Clockworks into the Haven Arcade!` ([Target Acquired - Kora](https://wiki.spiralknights.com/Target_Acquired)).
 - `Warmaster Seerus is the evil master of munitions within the gremlin's all-powerful Crimson Order. Thought to be the true mastermind behind the Roarmulus Twins and countless other gremlin weapons, he is the Crimson Order’s creator and supplier for their diabolical engines of war. Recon Knights under the command of Lieutenant Feron recently discovered Seerus’s ‘Grand Arsenal,’ his development center and storage facility for all his weaponry. Now, Feron himself is leading several squads of knights directly into the Grand Arsenal, with the intention of weeding out Seerus and destroying his war machines. Met with heavy resistance, Feron’s squads require reinforcements and Spiral HQ is sending you in to assist` ([Operation Crimson Hammer](https://wiki.spiralknights.com/Release_Notes_2012-02-29)).
 
-    This positions Seerus as one following either Tinkinzar's command, or the Iron Law in general.
-
-- `A very convincing costume that makes the wearer look like a gremlin. its so convincing, you just might receive an invitation to the Colony!` ([Gremlin Disguise](https://wiki.spiralknights.com/Gremlin_Disguise)).
-
-    The colony wih the capital "C" refers here to the Great Colony, as no other settle of an implied scope was established.
-
-- `The Iron Law is Broken! The Crimson Order is False! The Nine are blind, they cannot see the Truth that lies below. The Nine are deaf, they cannot hear the Resonance that beats within this world. Herex no longer serves as one of the Nine. Only Herex sees and hears the Truth. Only Herex will prevail. Follow Herex and you will be spared` ([Spark And Roar - Hidden Hideout - Herex: Danger Module](https://wiki.spiralknights.com/Danger_Module:_Hidden_Hideout)).
-
-    Here we are interested only in the nature of the Iron Law. But, compared to Seerus and Crimson Order in general, Herex's understanding of Iron Law seems to suggest it in some capacity is be broken, while Crimson Order, which, as we hypothesized, enforces it, is completely false, - or flawed in its existence or beliefs. This mindset seemingly stems from the _idea of the Order not acknowledging the "Truth" or the "Resonance"._
-
-    While those terms are particularly vague as seen through the lens of Herex's unreliable narration, we are interested in a long term in the reason of this mindset, as we have assumed, that Crimson Order should've had most complete understanding of Cradle and Clockworks. So them being for an unknown reason "blind" to the "Truth" makes it more nuanced. Potentially, even in relation to cosmic horror motifs.
+  Without addition of the monitors located at a room prior to the chamber of the arsenal -- `The Nine see all, hear all ... King Tinkinzar alone upholds the Iron Law!` ([Operation Crimson Hammer - Engines of War]()), -- we can conclude that Seerus remains loyal to Great Colony's cause.
 
 - `The Nine see all, hear all ... King Tinkinzar alone upholds the Iron Law!` ([Operation Crimson Hammer - Engines of War]()).
 
-    This presumes, that the Crimson Order is not the one enforcing Iron Law, but a mythical figure of a king. An interpretation of this relation can be of the terms of order and king being used within state's hierarchy, as a monarchy.
+  This presumes, that the Crimson Order is not the one enforcing Iron Law, but a mythical figure of a king. An interpretation of this relation can be of the terms of order and king being used within state's hierarchy, as a monarchy.
 
-    Here, the Order is a formal body under patronage of a king, which also acts as a proxy for king's authority (`Crimson Order carries out Tinkinzar's plans for Cradle` - [Pakrat](https://wiki.spiralknights.com/Pakrat#Dialogue)).
+  Here, the Order is a formal body under patronage of a king, which also acts as a proxy for king's authority (`Crimson Order carries out Tinkinzar's plans for Cradle` - [Pakrat](https://wiki.spiralknights.com/Pakrat#Dialogue)).
+
+  Yet it is unknown why would Tinkinzar be alone to uphold the law since Crimson Order exist to assist him. We can assume that presence of Herex creates an environment of distrust within the Order while the king is absent, in which case Seeru's loyalty to the king may be seen as the only remaining from his perspective.
 
 - `The Nine see all, hear all. Obey the iron Law` ([Built to Destroy! - The Roarmulus Twins - Crimson Order Terminal](https://wiki.spiralknights.com/Ironclaw_Munitions_Factory/The_Roarmulus_Twins)).
+
+  The phrase Seerus uses mirror the quote found at the Crimson Order terminal of Ironclaw Munitions Factory, which might provide more depth of character to Seerus, but more importantly creates a distinction between the act of following the Iron law and a concrete perception of Iron Law being upheld by Tinkinzar alone.
+
 - `Crimson Order Directives: It is the DUTY of every gremlin to repel the metal intruders! Every Gremlin must work to destroy Haven. Cradle belongs to us! Every Gremlin must remain LOYAL to King Tinkinzar and the Crimson Order. The Iron Law must be obeyed!` ([Built to Destroy! - The Roarmulus Twins - Crimson Order Terminal: Crimson Order Directives](https://wiki.spiralknights.com/Ironclaw_Munitions_Factory/The_Roarmulus_Twins)).
 
-    It may be seen as if Crimson Order was formed because of Isorans crash landing, but given existence of their insignia across multiple facilities, such as Camp Crimson, Grand Arsenal, and Compound 42, we believe it is rather the threat of Isorans is one of greater priority for Crimson Order.
+  It may be seen as if Crimson Order was formed because of Isorans crash landing, but given existence of their insignia across multiple facilities, such as Camp Crimson, Grand Arsenal, Compound 42 and complex 357, we assume it is rather the threat of Isorans is one of multiple priorities for Crimson Order, with the Order existing far into the past.
 
 - `Transmission: 'They continue to advance and thwart our schemes! How could they have discovered Project R? Why was there no advance warning of the attack?'; - 'Herex and his minions were supposed to be spying on them but they have vanished like cowards.'; - 'To defy Iron Law is to defy the Order! Track the traitor down. Herex will answer for this setback'` ([Built to Destroy! - The Roarmulus Twins - Crimson Order Terminal: Crimson Order Transmission](https://wiki.spiralknights.com/Ironclaw_Munitions_Factory/The_Roarmulus_Twins)).
 
-    Given the above context of the location and the preparations in regards to location Ironclaw Munitions Factory and nature of Roarmulus Twins, we can safely assume, that it is due to absence of Herex Spiral Order's operation to infiltrate the factory was successful.
+  Given the above context of the location and the preparations in regards to location Ironclaw Munitions Factory and nature of Roarmulus Twins, we can safely assume, that it is due to absence of Herex Spiral Order's operation to infiltrate the factory was successful.
 
-    It is also here a connection between Iron Law and Crimson Order is further reinstated, with one essential to the other. Given the previous quote's connection of gremlins with Iron Law through loyalty, we also find affirmation of a link between King Tinkinzar and Crimson Order as the essentials.
+  It is also here a connection between Iron Law and Crimson Order is further affirmed, with one essential to the other.
 
-    Isorans are referred here as `metal intruders`, which is reminiscent of Seerus quote of metal assassins: `Who sent you infernal, iron assassins? Was it Herex? It matters not.` ([Operation Crimson Hammer - Engines of War - Seerus]())
+  In another quote -- `Crimson Order Directives: It is the DUTY of every gremlin to repel the metal intruders! Every Gremlin must work to destroy Haven. Cradle belongs to us! Every Gremlin must remain LOYAL to King Tinkinzar and the Crimson Order. The Iron Law must be obeyed!` ([Built to Destroy! - The Roarmulus Twins - Crimson Order Terminal: Crimson Order Directives](https://wiki.spiralknights.com/Ironclaw_Munitions_Factory/The_Roarmulus_Twins)) -- Isorans are referred as `metal intruders` which is reminiscent of Seerus quote of metal assassins, `Who sent you infernal, iron assassins? Was it Herex? It matters not` ([Operation Crimson Hammer - Engines of War - Seerus]()). While it might reveal the identity of the speaker within the transmission as, potentially, Seerus, we will not commit to it, but we establish that the brash labelling of Herex as the triator had happened exactly in that discussion, which set him apart from the rest of Crismon Order. In case of Seerus being one of the speakers, it would frame him as one responsible for Herex's excommunication.
 
-With this information, we can outline basic premise and relation between those terms:
+- `The Iron Law is Broken! The Crimson Order is False! The Nine are blind, they cannot see the Truth that lies below. The Nine are deaf, they cannot hear the Resonance that beats within this world. Herex no longer serves as one of the Nine. Only Herex sees and hears the Truth. Only Herex will prevail. Follow Herex and you will be spared` ([Spark And Roar - Hidden Hideout - Herex: Danger Module](https://wiki.spiralknights.com/Danger_Module:_Hidden_Hideout)).
 
-- A state of gremlin civilization on Cradle, centered at the Great Colony, reigned by Crimson Order and king Tinkinzar, is maintained through the concept of Iron Law.
-- Within Great Colony, disobeying the Iron Law is considered treachery. It becomes an explicitly harmful act towards the state, as a breach of trust or loyalty.
+  Compared to Seerus and Crimson Order in general, Herex's understanding of Iron Law suggest it in an unknown but likely fundamental capacity to be broken, while Crimson Order, which enforces it, is rendered false, -- _flawed in its beliefs, purpose or goals_.
 
-    Through this, Iron Law is characterized as an instrumental element of Great Colony's reign. On the topic of a breach of trust, based on potentially delusional Seerus's quote - `King Tinkinzar alone upholds the Iron Law`, - we can link act of treachery being considered as such, as it goes against the vision or global plans of king Tinkinzar by an act of disobeying.
+  According to Herex, this mindset stems from the _idea of the Order not acknowledging existence of `the Truth` and `the Resonance`_.
 
-- There exists an idea of a master plan, which is allegedly devised by Tinkinzar and enforced by Crimson Order within the context of Cradle.
+  While those terms are particularly vague yet concrete from Herex's perspective, _they are perceived through the lens of Herex's unreliability as a narrator_.
 
-    Under this directive, existence of Emberlight and Spiral Order in Haven is harmful to plan's execution.
-- The Iron Law, based on Herex's perception and a position as member of Crimson Order, is suggested to be a tangible concept within the network of relations involving the Swarm and the Core.
+  we are interested in a long term in the reason of this mindset, as we have assumed, that Crimson Order should've had most complete understanding of Cradle and Clockworks as they are tied to king Tinkinzar and therefore architecture of Clockworks and nature of the Core. So them being for an unknown reason "blind" to the "Truth" and deaf to the Resonance makes it more nuanced on the reliability of Herex or a gap in understanding of Clockworks by the order and the king.
 
-    Based on this, we can conclude, that the idea of Iron Law being considered broken even by members of the Order would also be considered a betrayal, as Herex operates in secrecy (`Schemer Razwog: Work away from the others. The Order must never know we have the artifact. Find a way to power it. Bring it to me. Do not betray me. I will know` - [Crossing the Chasm - Journey to Haven - Recon Module: Herex](https://wiki.spiralknights.com/Crossing_the_Chasm/The_Journey_to_Haven)). Herex's actions are potentially left unnoticed up until the events of Operation Crimson Hammer, as acknowledgement by Seerus: `Who sent you infernal, iron assassins? Was it Herex? It matters not.` ([Operation Crimson Hammer - Engines of War - Seerus]()).
+  Of course, other than the Core, there are Shadow Lairs to which Herex is associated, and elevators of which remain sealed until unlocked by the Spiral Order.
 
-The validity of the Iron Law itself bing true or false is not yet questioned here, but rather it allows us to understand basic idea behind the governance.
+With this information, we can outline basic premise and relation between the discussed gremlin factions:
+
+- A state of gremlin civilization on Cradle, centered at the Great Colony, governed by Crimson Order and orders received from king Tinkinzar, is maintained through the Iron Law.
+- Within Great Colony, disobeying the Iron Law is considered treachery. It is perceived as an explicitly harmful act towards the reigned state, as a breach of trust and loyalty.
+
+  Iron Law is characterized as an instrumental element of Great Colony's reign. On the topic of a breach of trust, we can link act of treachery being considered as such, as it goes against the vision or global plan of king Tinkinzar by very act of disobedience.
+
+- There exists an idea of a master plan devised by king Tinkinzar and enforced by Crimson Order.
+
+  Under this directive, existence of Emberlight and Spiral Order in Haven is harmful to plan's execution.
+
+- The Iron Law, based on Herex's perception and position as a former member of Crimson Order, is suggested to be a tangible concept within the system of relations involving Great Colony and the king.
+
+    Based on this we can conclude that the idea of Iron Law being considered broken even by members of the Order would also be considered a betrayal, as Herex operates in secrecy (`Schemer Razwog: Work away from the others. The Order must never know we have the artifact. Find a way to power it. Bring it to me. Do not betray me. I will know` - [Crossing the Chasm - Journey to Haven - Recon Module: Herex](https://wiki.spiralknights.com/Crossing_the_Chasm/The_Journey_to_Haven)). Herex's actions are potentially left unnoticed up until the events of Built to Destroy and properly up to Operation Crimson Hammer, as acknowledgement by Seerus: `Who sent you infernal, iron assassins? Was it Herex? It matters not.` ([Operation Crimson Hammer - Engines of War - Seerus]()).
+
+The validity of the Iron Law itself being true is not yet questioned here, but rather it allows us to understand basic idea behind the gremlin governmence.
 
 Due to unknown nature of this plan, the validity of the claim, that Emberlight's existence could harm it, creates at least 2 interpretations, distinguished mainly by the degree of false information being distributed across non-Crimson Order gremlins, which, considering _general dystopian inspirations_, does seem as a potential assumption.
 
@@ -11046,7 +11062,7 @@ _"Sun and Moon"_
 
 </SubTitleCentered>
 
-Now, with consideration of everything we have covered so far -- of a timeline and elements built upon it, using established themes and narratives as guidelines, -- we want to answer as clearly, as precisely, and as thoughtfully as possible: what is the __ineffable quality of this setting which provides it its power and capability to captivate__?
+Now, with consideration of everything we have covered so far -- of a timeline and elements built upon it, using established themes and narratives as guidelines, -- we want to answer as clearly, as precisely, and as thoughtfully as possible -- what is the __ineffable quality of this setting which provides it its power and ability to captivate__?
 
 Cradle is presented through Isoran perspective, as the greatest wonder of their world, and then as an extreme, an engineering marvel one civilization is willing to go in order to achieve what Rebis theory proposes, while for the protagonist knight, - the player, - Cradle encompasses the world, as it is the only planet with its in-universe context experienced through the medium of the game.
 
