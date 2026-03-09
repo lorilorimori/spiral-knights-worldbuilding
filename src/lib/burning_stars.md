@@ -7435,7 +7435,7 @@ By the sides of the throne room, there are 2 lines of storage containing inactiv
 
 Ironclaw Munitions Factory presents a few novel concepts, as well as reaffirms several previous ones.
 
-First, we must establish the scope of the analysis. We consider regular shock-themed factory and its Shadow Lairs' fire-themed variant both as canon from the perspective of layout, design, and contents.
+First, we must establish the scope of the analysis. We consider regular shock-themed factory and its Shadow Lairs' fire-themed variant both as canon from the perspective of layout, design, and environments.
 
 With this in mind we will go through both iteration of the factory, starting from the shock-themed variant.
 
@@ -7443,80 +7443,71 @@ The factory is described as follows:
 
 - `The Ironclaw Munitions Factory is a gremlin-operated weapons factory that specializes in the production of high-calibur explosives. Intel has revealed that it is developing a secret weapon known as 'Project Roarmulus' designed with the sole purpose of destroying Haven!` ([Ironclaw Munitions Factory](https://wiki.spiralknights.com/Ironclaw_Munitions_Factory)).
 
-    The `high-calibur` term here is likely a slightly modified caliber.
+    The `high-calibur` term here is likely a slightly modified pronunciation of caliber.
 
 - `Once known to Spiral HQ as 'Project R', the Roarmulus Twins have been identified as a gremlin-engineered weapon of tremendous power built with the sole purpose of destroying Haven. Stored deep within the heart of the Ironclaw Munitions Factory, this weapon is not only protected by hordes of shock-powered constructs and gremlins, but the factory is a highly dangerous, explosive hazard itself!` ([Built to Destroy!](https://wiki.spiralknights.com/Built_to_Destroy!)).
 
-    While this themes of powerful weapons is present both for Roarmulus Twins and Sparkcaster, and as both are engineered under command of Seerus, this further establishes a concrete theme of wonder-weapons, around which Seerus as a member of Crimson Order revolves.
-- `After analyzing the schematics you recovered from the gremlin test lab, Spiral HQ know knows the nature of Project R as well as its location within a gremlin munitions facility. Spiral HQ is requesting that you enter this facility and destroy Project R before it can be used on Haven. Speak with Intel Agent Kora for full details` ([Target Acquired](https://wiki.spiralknights.com/Target_Acquired)).
-- `Project R appears to be in fact two massive weapons known as the 'Roarmulus Twins.' ... Designed by one of the Crimson Order itself, the Roarmulus Twins are some kind of construct cannon that the gremlins intend on moving up the Clockworks into the Haven Arcade! ... Based on what the schematics suggest, their power far exceeds standard gremlin weaponry and could be truly devastating to Haven, Spiral HQ and the strangers should it reach the Arcade. ... We have pinpointed its location to be in the deepest level of a gremlin facility known as the 'Ironclaw Munitions Factory.' The factory is used for the production of all manners of gremlin weaponry and is highly dangerous, even to the gremlins working there. ... There's one last thing- it seems you won't be the first knight to have entered the Ironclaw Munitions Factory. We've detected another Alpha Squad recon module somewhere within the factory` ([Target Acquired - Kora](https://wiki.spiralknights.com/Target_Acquired)).
+  While this themes of powerful weapons is present both for Roarmulus Twins and Sparkcaster, and as both are engineered under command of Seerus, this establishes a concrete notion of gremlins building highly destructive or even experimental weapon.
 
-Based on the [earlier analysis of Big Iron battlepod lasers]() we had proposed that the factory itself is at least hundred years old due to presence of laser technology. It is most visible as being tested at the end of [Warfare Workshop](https://wiki.spiralknights.com/Ironclaw_Munitions_Factory/Warfare_Workshop), as testing targets are placed against the canons.
+- `After analyzing the schematics you recovered from the gremlin test lab, Spiral HQ know knows the nature of Project R as well as its location within a gremlin munitions facility. Spiral HQ is requesting that you enter this facility and destroy Project R before it can be used on Haven. Speak with Intel Agent Kora for full details` ([Target Acquired](https://wiki.spiralknights.com/Target_Acquired)).
+- `Project R appears to be in fact two massive weapons known as the 'Roarmulus Twins.' ... Designed by one of the Crimson Order itself, the Roarmulus Twins are some kind of construct cannon that the gremlins intend on moving up the Clockworks into the Haven Arcade! ... Based on what the schematics suggest, their power far exceeds standard gremlin weaponry and could be truly devastating to Haven, Spiral HQ and the strangers should it reach the Arcade. ... We have pinpointed its location to be in the deepest level of a gremlin facility known as the 'Ironclaw Munitions Factory.' The factory is used for the production of all manners of gremlin weaponry and is highly dangerous, even to the gremlins working there. ... There's one last thing - it seems you won't be the first knight to have entered the Ironclaw Munitions Factory. We've detected another Alpha Squad recon module somewhere within the factory` ([Target Acquired - Kora](https://wiki.spiralknights.com/Target_Acquired)).
+
+Based on the [earlier analysis of Big Iron battlepod lasers]() we had proposed that the factory itself is at least hundred years old due to presence of laser technology. It is most visible as being tested at the end of [Warfare Workshop](https://wiki.spiralknights.com/Ironclaw_Munitions_Factory/Warfare_Workshop), where testing targets are placed against the canons.
 
 ###### Entrance and Abandoned Assembly
 
-The deteriorated state of the [abandoned assembly](https://wiki.spiralknights.com/Abandoned_Assembly) as its name suggest an event or a series of events which had led up to structural damage and abandonment while the facility itself had remained operational, evident by the ongoing production of weapons - being the Roarmulus Twins' components, - and later change from electric weaponry to fire-focused ones.
+The deteriorated state of the [abandoned assembly](https://wiki.spiralknights.com/Abandoned_Assembly) as muach as its name suggest an event or a series of events which had led up to structural damage and abandonment while the facility itself had remained operational, evident by the ongoing production of weapons, being the Roarmulus Twins' components, and later change from electric weaponry to fire-based ones.
 
-We can also draw parallels with the state complex 357 is found in, due to both having the same gate icon of the production facility and seemingly abandoned state.
+We can also draw parallels with the state complex 357 is found in, due to both identified by a single gate icon of the production facility. In this context, while Herex, we believe, is not involved with the state of munitions factory, it suggests a strategic value of complex 357, implied by the importance of the schematics' retrieval.
 
-In this context, while Herex, we believe, is not involved with the state of munitions factory, it suggests a _strategic value of complex 357_, implied by the importance of the schematics' retrieval.
+Entrance to the factory is particularly similar to the entrance of complex 357. The factory entrance has an 11 tile width road with an entrance of 4 tiles when crossing the walls of the facility. The complex 357 in that regard is closer to Camp Crimson in its architecture, as bearing more defenses.
 
-Entrance to the factory, same as complex 357, is also particularly distinct. The entrance has an 11 tile width road, with an entrance of 4 tiles with distinct walls, reminiscent of the Royal Jelly Palace, Firestorm Citadel, or Grand Arsenal.
+On the sides of the main entrance road of the factory there are 3 structure support beams with the foundations of Clockworks' design which might characetise the entrance as connected by a bridge. South of the bridge there is a crossroad, where apart from the upper depth elevator other paths were blown off with a significant structural damage to the bridge itself.
 
-On the side of the main entrance road there are 6 structure support beams with the foundations of Clockworks' design. Several roads, leading up to the entrance, apart from the upper depth elevator, are blown off, with significant structural damage to the road itself.
+<!--This design reminds us of Herex's hideout, and its above-ground structure, traversed in the [Bitter Battle](), where in the leftmost road around a hull of the facility is broken.-->
 
-This design reminds us of Herex's hideout, and its above-ground structure, traversed in the [Bitter Battle](), where in the leftmost road around a hull of the facility is broken.
-
-Once inside the walls, the factory separates into 2 wings, both of which contain several instances of Project R components, all of which were depicted on the [Roarmulus Blueprints](https://wiki.spiralknights.com/Roarmulus_Blueprints). Apart from it several deign choices are found in the eastern wing which seem to suggest those being conveyor belts.
+Once inside the walls, the factory separates into 2 wings, both of which contain several instances of Roarmulus Twins' components, which were also depicted on the [Roarmulus Blueprints](https://wiki.spiralknights.com/Roarmulus_Blueprints). In the eastern wing several conveyor belts are found.
 
 ###### Warfare Workshop
 
-Within the Warfare Workshop another feature of the factory becomes more consistent, which was also present on previous depth - pools of [quicksilver](https://wiki.spiralknights.com/Lichen#Quicksilver) slime. Those are reminiscent of previously discussed compound 42's likely artificially created [toxoils](https://wiki.spiralknights.com/Lichen#Toxoil). We will [return to the nature of Quicksilvers]() in the [analysis of the Jelly Kingdom]().
+Within the Warfare Workshop another feature of the factory becomes more prevalent -- pools of [quicksilver](https://wiki.spiralknights.com/Lichen#Quicksilver) slime. Those are reminiscent of previously discussed compound 42's likely artificially created [toxoils](https://wiki.spiralknights.com/Lichen#Toxoil). We will [return to the nature of Quicksilvers]() in the [analysis of the Jelly Kingdom]().
 
-As for Workshop's layout, it has a central hall, separated from the machinery on the sides separated with walls, and during infiltration it is notable that western wing was not visited, although the path their remains intact.
+As for the workshop's layout, it has a larger central hall, separated from the wings by walls. During infiltration it is notable that western wing of the workshop was not visited, while the path their remains intact.
 
-It is the left wing which allows to understand approximate size of the facility, with the same design of 3 spaciously places support pillars as those found near the entrance hall of the facility, and eastern wall being a support or scaffolding structure.
-
-It is also in the western wing an internal components of the Roarmulus twin are seen. In the end of the facility's floor and to the west testing grounds for laser cannons are present.
+It is the left wing which allows to understand approximate size of the facility, with the same design of 3 spaciously places support pillars north of the wing with the eastern wall of the factory being a support or scaffolding structure. In the end of the facility's floor and to the west testing grounds for laser cannons are present.
 
 ###### Bottom of the Factory
 
-In the final depth of the facility, which is also described as its deepest point (`Stored deep within the heart of the Ironclaw Munitions Factory` - [Built to Destroy!](https://wiki.spiralknights.com/Built_to_Destroy!), `We have pinpointed its location to be in the deepest level of a gremlin facility known as the 'Ironclaw Munitions Factory'` - [Target Acquired - Kora](https://wiki.spiralknights.com/Target_Acquired)) the same large structure beams are consistently placed in relatively large amount, as in previously discussed Herex's [hideout](https://wiki.spiralknights.com/Hidden_Hideout). We believe, those serve the same purpose, as they are present in the deepest points of both locations, they also mark it as, seemingly most secure, as conveyed by the design choice of those beams being placed in the first place.
+In the final depth of the facility, which is also described as its deepest point (`Stored deep within the heart of the Ironclaw Munitions Factory` - [Built to Destroy!](https://wiki.spiralknights.com/Built_to_Destroy!), `We have pinpointed its location to be in the deepest level of a gremlin facility known as the 'Ironclaw Munitions Factory'` - [Target Acquired - Kora](https://wiki.spiralknights.com/Target_Acquired)), has the same large beams consistently placed across the depth which, given previously discussed Herex's [hideout](https://wiki.spiralknights.com/Hidden_Hideout), may hint at the structure of those facilities, the hideout and the bottom of the factory being at their foundations.
 
-If the entire plot of Project R is taken in consideration with the context of the factory being at that level of maintenance, we can make a guess that _the gremlin society is long past its prime._
-
-Lastly, the end of the floor with inactive models of Roarmulus Twins contains _Crimson Order Terminal_:
+But, the primary point of interest is the central walkway with stationary models of Roarmulus Twins. Followed by the central to the depth platform lit my floodlights there is a more decorated hall containing replica Roarmulus Twins on the pedestals, surrounding the exist elevator and _Crimson Order Terminal_:
 
 - `The Nine see all, hear all. Obey the iron Law` ([Built to Destroy! - The Roarmulus Twins - Crimson Order Terminal](https://wiki.spiralknights.com/Ironclaw_Munitions_Factory/The_Roarmulus_Twins)).
 - `Crimson Order Directives: It is the DUTY of every gremlin to repel the metal intruders! Every Gremlin must work to destroy Haven. Cradle belongs to us! Every Gremlin must remain LOYAL to King Tinkinzar and the Crimson Order. The Iron Law must be obeyed!` ([Built to Destroy! - The Roarmulus Twins - Crimson Order Terminal: Crimson Order Directives](https://wiki.spiralknights.com/Ironclaw_Munitions_Factory/The_Roarmulus_Twins)).
 - `Transmission: 'They continue to advance and thwart our schemes! How could they have discovered Project R? Why was there no advance warning of the attack?'; - 'Herex and his minions were supposed to be spying on them but they have vanished like cowards.'; - 'To defy Iron Law is to defy the Order! Track the traitor down. Herex will answer for this setback.'` ([Built to Destroy! - The Roarmulus Twins - Crimson Order Terminal: Crimson Order Transmission](https://wiki.spiralknights.com/Ironclaw_Munitions_Factory/The_Roarmulus_Twins)).
 
-As previously discussed in the analysis of Iron Law, we have suggest that Herex was marked as a traitor due to his inactivity towards his duty of spying on Spiral Order and his disappearance. But now we are concerned with the actual speakers. As the transition suggests, there are 3 quotes, which may be members of Crimson Order. The reference towards Isorans as metal intruders, as noted earlier, is reminiscent to Seerus's manner of speaking. Given his involvement with the Project R, we are leaning to an ide of at least one of those speakers to be Seerus.
+As previously discussed in the [analysis of Iron Law](), we have suggest that Herex was marked as a traitor due to his inactivity towards his duty of spying on Spiral Order and prevention of the discovery of the weapon. But now we are concerned with the actual speakers. As the transmission contains 3 quotes we assume those are members of Crimson Order. The reference towards Isorans as metal intruders, as noted earlier, is reminiscent to Seerus's manner of speaking. Given his involvement with the Project R, we are leaning to an idea of at least one of those speakers to be Seerus.
 
-As for the other quotes, the third is of greater importance, as it strongly suggests, that members of Crimson Order themselves are not protected from being marked as traitors. The down-talking manner of the third quote is interesting as it may be either:
+As for the other quotes, the third is of greater importance, as it strongly suggests, that __members of Crimson Order themselves are not immune to being marked as traitors__. The manner and tone of the third quote is interesting as it may be either:
 
 - A different member of Crimson Order speaking;
 - King Tinkinzar, due to his higher position.
 
-But, as very little information is provided regarding the identity or even existence of the king, we have to keep this notion in mind. The first quote of `Why was there no advance warning of the attack?` might suggest that the attack in question is of the knight entering the factory, which can only mean that the dialogue between those Crimson Order members had to happen very recently.
+But, as very little information is provided regarding the identity or even existence of the king, we have to keep this notion in mind. The first quote of `Why was there no advance warning of the attack?` might suggest that the attack in question is of the knight entering the factory which can only mean that the dialogue between those Crimson Order members had to happen _very recently_ -- when the knight arrived at the factory.
+
+Due to proximity of the mission to the [infiltration of Royal Jelly Palace](https://wiki.spiralknights.com/The_Sovereign_Slime), we can suggest that it is due to Herex's arrival to its console he was noted abcent and _let to the weapon to be discovered_.
 
 #### Introduction to Magitech in Gremlin Engineering
 
-Now, there are not many elemental gremlin weapons in a sense closer to Owlites, as they had directly utilized elemental materials, relating back to the discussion of Owlite academy and Valkyrian armors. This is a prelude to an analysis of underlying magitech themes of Clockworks and gremlin technology, and here we would like to look at the final designs and draw parallels to other similar instances.
+Gremlins and constructs utilize elemntal damage, yet there are not many elemental gremlin weapons which utilize magic in the same manner as owlites. This is a prelude to the diuscussion of _underlying magitech motifs of Clockworks and gremlin technology_.
 
-Considering 2 following aspects:
+Shadow Ironclaw Munitions Factory only recently in the supposed timeline has started to produce fire-themed weapons, finalizing in, by far, more hazardous designs of Red Roarmulus Twins, more reminiscent of Vog-influenced gear with cracked surfaces, and to a lesser extent tier 3 fire elemental gun puppies, yet even gun puppes remain predominantly made of stone.
 
-- Shadow Ironclaw Munitions Factory only recently into the supposed timeline has started to produce fire-themed weapons, finalizing in, by far, more hazardous designs of Red Roarmulus Twins.
+Shadow weapons, on the other hand, are kept to upper classes of gremlin hierarchy - such as Dark Retribution, and, supposedly, planetary lasers, implied by their pink color. Yet, those devices are seem to be more consistent in their design. Presence of shadow elements and Underworld's symbolism while is subtle, is consistent with the rest of gremlin technology. Consider here instances as such as the Collector and Incinerators.
 
-    With this, we observe in Red Roarmulus Twins a design, __uncharacteristic of any gremlin technology__, even other fire-themed ones. In relation to this _Vog-like design of Red Roarmulus Twins_ only tier 3 elemental gun puppies reach, but they are predominantly stone-like in texture and carvings, when compared to their normal-damage counterparts.
+<!--We can make an educated guess that Cradle's defenses did consist of the same laser technology found in the factory, but, due to subtle coloring, also possess shadow-damage.-->
 
-- Shadow weapons, on the other hand, are kept to upper classes of gremlin hierarchy - such as Dark Retribution, and, supposedly, planetary lasers.
-
-    Yet, those devices are seem to be more consistent in their design. Presence of shadow elements and Underworld's symbology while is subtle, is consistent with the rest of gremlin technology. Consider here instances as such as the Collector and Incinerators.
-
-We can make an educated guess that Cradle's defenses did consist of the same laser technology found in the factory, but, due to subtle coloring, also possess shadow-damage.
-
-It is through the analysis of the events preceding the infiltration of the factory by Spiral Order in ["Built to Destroy" mission]() we can discover the scope of gremlin technology and advancements, which we see as thematically consistent with the earlier case of laser technology, acknowledging multitude of other motifs and preestablished principles across Cradle.
+It is through the analysis of the events preceding the infiltration of the factory by Spiral Order in [Built to Destroy mission]() we can discover the scope of gremlin technology and advancements, which we see as thematically consistent with the earlier case of laser technology, acknowledging multitude of other motifs and preestablished principles across Cradle.
 
 - `Deep within a toxic cavern lies a hidden test lab that gremlins have been using as a testing ground for components of Project R. One of these components still in development is reported to have schematics for the project close by. If this is true there will likely be a terminal of some kind close to one of Project R's components. Locate the terminal and recover the schematics for analysis. It should shed light on the exact nature of Project R` ([Plan of Attack](https://wiki.spiralknights.com/Plan_of_Attack)).
 

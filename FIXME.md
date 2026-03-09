@@ -25,6 +25,7 @@
 - replace `kill` with synonyms (dispatched)
 - seemingly/seems -> synonyms
 - Battle Sptrite -> battle sprite
+- canon ~> cannon
 
 - rebis thery is removed
 
