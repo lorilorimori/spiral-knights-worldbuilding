@@ -7602,61 +7602,68 @@ The very existence of far more hazardous construction of the facility, as well a
 
 #### Jelly Kingdom and Slimes
 
-For the first time lichens and the existence of slime family of monsters was introduced in [Alien Ooze mission](https://wiki.spiralknights.com/Alien_Ooze), where Spiral Order has concluded, that lichens had arrived on a meteor: `Lichens are an alien species of the slime family thought to have come to the Clockworks via a meteor that crashed on to the surface of Cradle` ([Alien Ooze](https://wiki.spiralknights.com/Alien_Ooze)).
+For the first time the existence of slime family of monsters is introduced in [Alien Ooze mission](https://wiki.spiralknights.com/Alien_Ooze), where Spiral Order has concluded that lichens had arrived on a meteor, `Lichens are an alien species of the slime family thought to have come to the Clockworks via a meteor that crashed on to the surface of Cradle` ([Alien Ooze](https://wiki.spiralknights.com/Alien_Ooze)).
 
-There are 2 distinct categories of slimes in the slime family: lichens, which make up lichen colonies, and jellies, which comprise the majority of the Jelly Kingdom.
+There are 2 distinct categories of slimes in the slime family: lichens, which make up lichen colonies, and jellies, which comprise the majority of the _Jelly Kingdom_. The main factor contributing to such classification is the physiology of both lifeforms, characterized by, generally, their _viscosity and stability of form_, while both possess a single or multiple cores.
 
-The main factor contributing to such classification is the physiology of both lifeforms, characterized by, generally, their viscosity and stability of form. We propose, that jellies are the descendant, or rather, matured lichens with a more complex, established hierarchy, - the jelly kingdom itself as an organized social structure. A following comparison of those species outlines their similarities and distinct features, which had led us to this proposal.
+We interpret the understanding of this monarchy as a concept as it is colloqually perceived. And given general setting and presence of royal attributes, we can conclude that is indeed the commonly understood human perception of a monarchy.
 
-Both species have a distinct core. There are instances of multiple cores, making up sentient colonies (`Lichens are an alien species of the slime family ... formed from innumerable smaller slimes that form mobile, sentient 'colonies.'` - [Alien Ooze](https://wiki.spiralknights.com/Alien_Ooze)), as well as large royal jellies.
+We propose, that jellies are the descendant, or rather, matured lichens with a more complex, established hierarchy with the Jelly kingdom being that organized social structure. A following comparison of those species outlines their similarities and distinct features.
 
-A notion could be established here, that of both sentient lichen colonies of multiple cores and larger jellies with multiple cores function identically, _as a single, unified organisms_, capable of higher mental functions, as evident by existence of a monarchy of royal jellies - who, as far as presence of Ice Queen and Royal Jelly suggests, require at least 3 cores to function.
+Both species have a distinct core. There are instances of multiple cores, making up sentient colonies,`Lichens are an alien species of the slime family ... formed from innumerable smaller slimes that form mobile, sentient 'colonies'` ([Alien Ooze](https://wiki.spiralknights.com/Alien_Ooze)), as well as large royal jellies, examples of which are the Ice Queen and Royal Jelly.
 
-We derive this number from an amount of cores observed within the Ice Queen - 2 small cores rotating a larger one. We have not yet seen other instances of such pattern of rotation, as, usually, the cores rotate as a uniform structure within a volume of a body - he most prominent case being Jelly King.
+A notion could be established here, that of both sentient lichen colonies of multiple cores and larger jellies with multiple cores function identically, _as a single, unified organisms_, capable of higher mental functions as evident by existence of a monarchy of royal jellies, who, as far as the amount of core of the Ice Queen suggests, require at least 3 cores to function which might not be connected physically other than through a medium of their jelateneous body.
 
-That is, if we interpret the understanding of monarchy as universally common concept. And given general setting and presence of royal attributes, we can conclude that is indeed the commonly understood perception of monarchy.
+Ice Queen possesses 2 small cores rotating a larger one. We have not yet seen other instances of such pattern of rotation, as, usually, the cores rotate as a uniform cluster at the center of jelly's body, the most prominent example of this pattern being Royal Jelly.
 
-This monarchy is embodied by [Jelly King's](https://wiki.spiralknights.com/Jelly_King) and [Ice Queen's](https://wiki.spiralknights.com/Ice_Queen) [crowns](https://wiki.spiralknights.com/Royal_Jelly_Crowns) having many of _common design elements of a european Imperial Crown_.
+This monarchy is embodied by [Jelly King's](https://wiki.spiralknights.com/Jelly_King) and [Ice Queen's](https://wiki.spiralknights.com/Ice_Queen) [crowns](https://wiki.spiralknights.com/Royal_Jelly_Crowns) having many of _common design elements of the_ __european Imperial Crown__.
 
 - `monsters within the slime family actually have a ruling aristocracy of elite slimes` ([Another Trace - Kora](https://wiki.spiralknights.com/Another_Trace)).
 - `The Royal Jelly Palace has frozen over and its king usurped by the true heir to the slimy throne, the frigid Ice Queen!` ([Release Notes: 2011.10.19](https://wiki.spiralknights.com/Release_Notes_2011-10-19)).
 - `A regal crown resembling that ever-frigid Ice Queen. In addition to providing great defense, it is said to dramatically boost one's ego and create a cold detachment from those around them` ([Ice Queen Crown](https://wiki.spiralknights.com/Ice_Queen_Crown)).
+- `Ruggedly royal regalia recently reproduced from regally resinous remains` ([Royal Jelly Crown](https://wiki.spiralknights.com/Royal_Jelly_Crown)).
+
+We known that the jelly core are as such based on the line of slime core items, `A fist-sized, gelatinous lump collected from a jelly` ([Gel Core](https://wiki.spiralknights.com/Gel_Core)).
+
+Gel Core is used in alchemy of [Jelly Helm](https://wiki.spiralknights.com/Jelly_Helm), `Gelatinous headgear made from gooey guardians`. We can guess that those jellies' role is likely of guards, as it is those who guard entrance to the [Garden of Goo](https://wiki.spiralknights.com/Garden_of_Goo) behind [Royal Jelly Palace's walls](https://wiki.spiralknights.com/Royal_Jelly_Palace).
+
+This pattern of distinguished walls going to the sides of the main entrance as it was seen is common among other fortifications attributed to a few other civilizations found on Cradle, including depiction of gremlin fortresses.
+
+It is also here we are presented with a hierarchy characterized by coupling of rarity identified by Spiral Order and families of slimes -- brutes, rock jellies, and nobles. Given prior identification of 2-star Gel Core as _a guardians'_, `Gelatinous headgear made from gooey guardians` ([Jelly Helm](https://wiki.spiralknights.com/Jelly_Helm)), we can outline a vague roles of those jellies based on associated item names and descriptions, starting from brutes.
 
 ##### Brutes
 
-We known that those core-like objects are called cores based on the line of slime core items - `A fist-sized, gelatinous lump collected from a jelly` ([Gel Core](https://wiki.spiralknights.com/Gel_Core)). Gel Core is used in alchemy of [Jelly Helm](https://wiki.spiralknights.com/Jelly_Helm): `Gelatinous headgear made from gooey guardians`. We can guess that those jellies' role is likely of guards, as it is those who guard entrance to the [Garden of Goo](https://wiki.spiralknights.com/Garden_of_Goo) behind [palace's walls](https://wiki.spiralknights.com/Royal_Jelly_Palace). This pattern of explicitly distinct walls going to the sides of the main entrance as it was seen, is common among other fortifications, attributed to a few other civilizations found on Cradle - a motif of castles, first, albeit in a different context, pointed out in the [analysis of mysterious consoles' placements](), and then of the Great Citadel of Almire.
-
-It is here we are presented with a hierarchy, characterized by coupling of rarity identified by Spiral Order, and families of slimes - of brutes, rock jellies, and nobles. Given prior identification of 2-star Gel Core as _a guardians'_ (`Gelatinous headgear made from gooey guardians` - [Jelly Helm](https://wiki.spiralknights.com/Jelly_Helm)), we can outline a vague roles of the other names, starting from brutes.
-
-The [Brute Core](https://wiki.spiralknights.com/Brute_Core): `An oozing blue lump from a particularly potent gelatinous opponent` is utilized for it set of 3-star slime-themed gear:
+The [Brute Core](https://wiki.spiralknights.com/Brute_Core), `An oozing blue lump from a particularly potent gelatinous opponent`, is utilized for it set of 3-star slime-themed gear:
 
 - `A hardy helm crafted from overly oppressive ooze` ([Brute Jelly Helm](https://wiki.spiralknights.com/Brute_Jelly_Helm)).
 - `A firm set of mucilaginous mail crafted from the remains of particularly antagonistic jellies` ([Brute Jelly Mail](https://wiki.spiralknights.com/Brute_Jelly_Mail)).
-- 3-star [Brute Jelly Band](https://wiki.spiralknights.com/Brute_Jelly_Band) trinket is also found here.
+- [Brute Jelly Band](https://wiki.spiralknights.com/Brute_Jelly_Band) trinket is also found here.
 
-A brute, considering medieval themes of jelly kingdom and throne, considering specifics of hierarchy of brutes, rocks and royals, we may suggest the prior being a unit of castle's of kingdom's army.
+A brute, considering medieval themes of jelly kingdom, considering specifics of hierarchy of brutes, rocks and royals, we may suggest the prior serves to castle's of kingdom's army.
 
 There are a few other 3-star jelly cores:
 
 - `A solid, pulsating lump that oozes with vitriol` ([Toxic Core](https://wiki.spiralknights.com/Toxic_Core)).
 - `A pungent mass pulled from a slimy assailant. Its aroma is an excellent remedy for insomnia, as well as nighttime sniffling and sneezing` ([Zee Core](https://wiki.spiralknights.com/Zee_Core)).
 
-Those subspecies of slimes does not seem t belong to an aforementioned hierarchy, but rather a more primordial organization of lichens, where the cores are found, most prominently seen in [Zee Core](https://wiki.spiralknights.com/Zee_Core), due to a smaller scope of presence of sleep status effect.
+Those subspecies of slimes does not seem to belong to an aforementioned hierarchy, but rather a more primordial organization of lichens, where the cores are found, most prominently seen in [Zee Core](https://wiki.spiralknights.com/Zee_Core), due to a smaller scope of presence of sleep status effect, as well as general remoteness of toxic areas and Starlight Cradle.
 
 ##### Rock Slimes
 
-The [Rocky Core](https://wiki.spiralknights.com/Rocky_Core): `A delicious gummy treat with an impenetrable rocky shell. More than a few teeth have been lost by knights attempting to get at the gooey interior`, bears themes of sturdiness of rock, also present in the transmuted 4-star equipment:
+The [Rocky Core](https://wiki.spiralknights.com/Rocky_Core), `A delicious gummy treat with an impenetrable rocky shell. More than a few teeth have been lost by knights attempting to get at the gooey interior`, bears themes of sturdiness of rock, also present in the transmuted 4-star equipment:
 
 - `A tough topper tailored from jagged jelly` ([Rock Jelly Helm](https://wiki.spiralknights.com/Rock_Jelly_Helm)).
 - `Crafted from the most adamant of slimy specimens, it also functions as an emergency source of calories for stranded knights` ([Rock Jelly Shield](https://wiki.spiralknights.com/Rock_Jelly_Shield)).
 - `This gelatinous gear combines the sturdiness of stone with the piercing protection of sticky goo. its a wonder that you managed to beat up the jelly this is made out of` ([Rock Jelly Mail](https://wiki.spiralknights.com/Rock_Jelly_Mail)).
 - A 4-star [Rock Jelly](https://wiki.spiralknights.com/Rock_Jelly_Band) trinket is found here.
 
-We can suggest those being the heavy infantry of the kingdom, as well as them being the closest to royalty, as they have 4-star rarity.
+We can suggest those being the heavy infantry of the kingdom, as well as them being the closest to royalty, as they possess 4-star rarity.
 
 ##### Royalty and Nobles
 
-The [Royal Core](https://wiki.spiralknights.com/Royal_Core): `A sweet-smelling lump of ooze collected from a particularly noble specimen of slime` specifies the role and position of those slimes. Royal Core is utilized in most of 5-star slime-themed equipment, such as [Royal Jelly Mail](https://wiki.spiralknights.com/Royal_Jelly_Mail): `A viciously viscous set of armor crafted painstakingly from the most noble specimens of quivering slime`. This notion is also observed in the trinket of [Royal Jelly Band](https://wiki.spiralknights.com/Royal_Jelly_Band).
+The [Royal Core](https://wiki.spiralknights.com/Royal_Core), `A sweet-smelling lump of ooze collected from a particularly noble specimen of slime` specifies the role and position of those slimes. Royal Core is utilized in most of 5-star slime-themed equipment, such as [Royal Jelly Mail](https://wiki.spiralknights.com/Royal_Jelly_Mail), `A viciously viscous set of armor crafted painstakingly from the most noble specimens of quivering slime`.
+
+This notion is also observed in the line of trinket of [Jelly Band, Brute Jelly Band, Rock Jelly Band, and Royal Jelly Band](https://wiki.spiralknights.com/Royal_Jelly_Band).
 
 ##### Properties of Slime
 
@@ -7665,134 +7672,132 @@ These cores demonstrate color variation in types of jellies, but also their prop
 - `it also functions as an emergency source of calories for stranded knights` ([Rock Jelly Shield](https://wiki.spiralknights.com/Rock_Jelly_Shield)).
 - `it is durable, light, and delightfully berry-flavored` ([Brute Jelly Shield](https://wiki.spiralknights.com/Brute_Jelly_Shield)).
 
-This attribute, with consideration of danger is slime (`Please note that members of the slime monster family (jellies, lichens, polyps, glop drops, Royal Jelly, Ice Queen) are not edible and should not be ingested under any circumstance, despite the fact that some may resemble a confection` - [Regarding Slimes](https://forums.spiralknights.com/en/node/102352)), can be explained through a property of not lichens, but of tropical frogs due to the contrast color being a sign of toxicity, as a lead.
+This attribute, with consideration of danger of slime, `Please note that members of the slime monster family (jellies, lichens, polyps, glop drops, Royal Jelly, Ice Queen) are not edible and should not be ingested under any circumstance, despite the fact that some may resemble a confection` ([Regarding Slimes](https://forums.spiralknights.com/en/node/102352)), can be explained through a property of not lichens, but of tropical frogs due to the _contrast color being a sign of toxicity_.
 
-It is known that at least lichens arrived on a meteor, and, due to anatomical and biological similarity of jellies and lichens, we consider both being alien to Cradle. Apart from it, jellies, and specifically royal slimes, have visible core as large lichen colonies.
+It is known that at least lichens arrived on a meteor, and, due to anatomical and biological similarity of jellies and lichens, we consider both being alien to Cradle. Apart from it, jellies, and specifically royal slimes, have _visible core as large lichen colonies_.
 
-The [Daybreaker Band](https://wiki.spiralknights.com/Daybreaker_Band) line of trinkets specifies as being: `A curious circle coated with calcified slime`. This is important, as proposes a property of slime to calcify - which, in fact, is seen both in Polyps and in larger lichen colonies - _as the spikes they possess are most reminiscent of calcified slime_.
+The [Daybreaker Band](https://wiki.spiralknights.com/Daybreaker_Band) line of trinkets specifies as being `A curious circle coated with calcified slime`. This is important, as it formulates a _property of slime to calcify_ which is seen both in Polyps and in larger lichen colonies -- _as the spikes they possess are most reminiscent of calcified slime_.
 
-It is also important to mention a color shift of lichen colonies as they grow larger. Lichen colonies as well as jellies both are also capable of extending their spikes through the ground - this trait is particularly unique in general context to connect both species to a common ancestor, which, as we have suggested, are lichens, specifically yellow lichens.
+It is also important to mention a color shift of lichen colonies as they grow larger. Lichen colonies as well as jellies both are also capable of extending their spikes through the ground. This trait is particularly important in general context to connect both species to a common ancestor which, as we have suggested earlier, are yellow lichens.
 
-Under this logic it is the left ambiguous, how creatures like blast cubes, toxigels, slooms, and by proxy void gels came to existence, as they look and act practically same as lichens, yet have a single larger core. We will keep them in mind until later discussion.
+Under this logic it is the left ambiguous, how creatures like blast cubes, toxigels, slooms, and by proxy void gels came to existence, as they look and act nearly identical to lichens, yet have a single larger core and unnatural, at least for slimes, properties, such as self-destruction, which is also utilized as a weapon by the Collector. We will keep them in mind until later discussion.
 
-###### Themes of Sleep, Solstice and Alchemy
+###### Themes of Sleep, Solstice, and Alchemy
 
-The [Somnambulist's  Totem](https://wiki.spiralknights.com/Somnambulist%27s_Totem) is described as `An ordinary object with a unique texture and weight, the result of having been partially digested by a Sloombargo`, also suggests an existence of residue left by slimes. In both cases - of Daybreaker band and Somnambulist totem there is a distinct accent on a _transitory time_, a _transition from night to day_, a change. This is seen in the alchemy line of Daybreaker Band.
+The [Somnambulist's Totem](https://wiki.spiralknights.com/Somnambulist%27s_Totem) is described as `An ordinary object with a unique texture and weight, the result of having been partially digested by a Sloombargo`, also suggests an existence of residue left by slimes. In both cases of Daybreaker Band and Somnambulist totem there is a distinct accent on a _transitory time_, a _transition from night to day_, a change. This is seen in the line of items of [Daybreaker Band]().
 
-The somnambulist's Totem has similar theme, as it bridges the gap between day and night through a phenomenon somnambulistic walk, or, dream-like. If we develop this ide further - a somnambulist, metaphorically, would be anyone traversing the Starlight Cradle, marking it to a dream. That is not to say that Starlight Cradle does not physically exist, rather that the totality of its properties frames it as dream-like. We will keep this theme of dreams in mind.
+The Somnambulist's Totem has similar theme, as it bridges the gap between day and night through a phenomenon somnambulistic walk or dream-like state. If we develop this idea further -- a somnambulist, metaphorically, would be anyone traversing the Starlight Cradle, marking it equal to a traversed dream. This does not mean that Starlight Cradle does not physically exist, rather the totality of its properties frames it as dream-like, predominantly due to accent on sleep-inducing mist.
 
-There is also the https://wiki.spiralknights.com/Grand_Solstice_Ring which in its recipe combines concepts of say and night, represented by:
+There is also the [Grand Solstice Ring](https://wiki.spiralknights.com/Grand_Solstice_Ring) which in its recipe combines concepts of day and night, represented by:
 
-- `An enchanted ring that embodies the spirit of the solstice. Its sparkling silver luster shines brightest during the winter months` https://wiki.spiralknights.com/Silver_Solstice_Ring
-- `An enchanted ring that embodies the spirit of the solstice. Its glittering golden luster shines brightest during the summer months` https://wiki.spiralknights.com/Golden_Solstice_Ring
+- `An enchanted ring that embodies the spirit of the solstice. Its sparkling silver luster shines brightest during the winter months` ([Silver Solstice Ring](https://wiki.spiralknights.com/Silver_Solstice_Ring)).
+- `An enchanted ring that embodies the spirit of the solstice. Its glittering golden luster shines brightest during the summer months` ([Golden Solstice Ring](https://wiki.spiralknights.com/Golden_Solstice_Ring)).
 
-And we we are to apply alchemical motifs - the fact that Grand Solstice ring is a combination of opposites, which embodies characteristics of both while being greater - as `Grand` - than its components individually, seems to be one of more distilled metaphors for an alchemical motif.
+Both silver and gold are considered celestial metal in this cosmology, so the retunt to motifs of celestial bodies is particularly reminiscent of the celestial gear which itself has [alchemical motifs](). Yet even without ceelstial gear, the grand Solstice Ring can be interpreted theough an alchemical lens.
 
-More so, the color scheme of Grand Solstice Ring is of _red and white - which are absent in the Silver and Gold bands_. While silver is attributed to the Moon or night, and gold is attributed to Sun and day, red and white together are explained by an alchemical symbolism - of an alchemical marriage of a metaphorical Red King and White Queen, which themselves embody and encompass characteristics of Sun and Moon.
+The fact that Grand Solstice ring is a combination of opposites which embodies characteristics of both while being greater, as `Grand`, than its components individually, seems to be one of more distilled metaphors for an alchemical motif.
 
-While not directly related to alchemy, an idea of transition from night to day, an idea of somnambulism, existence of Starlight Cradle itself, - all are found in relation to slime family of monsters on Cradle - is a pattern nonetheless.
+More so, the color scheme of Grand Solstice Ring is of _red and white which are absent in the Silver and Gold bands_. While silver is attributed to the Moon and night, and gold is attributed to Sun and day, red and white together are explained by an alchemical symbolism -- of __an alchemical marriage of a symbolic Red King and White Queen__, which themselves embody and encompass characteristics of Sun and Moon.
 
-As there is a distinction between lichens and slimes, we propose, that the aforementioned theme of night passing into day amongst lichens is _a metaphor for emergence of consciousness_ - __a jelly kingdom__, - a complex hierarchy of individual consciousnesses arriving from a hivemind of primordial lichen colonies, bridged by a concept of multiple slime cores and a greater complexity.
+<!--As there is a distinction between lichens and slimes, we propose, that the aforementioned theme of night passing into day amongst lichens is _a metaphor for emergence of consciousness_ - __a jelly kingdom__, - a complex hierarchy of individual consciousnesses arriving from a hivemind of primordial lichen colonies, bridged by a concept of multiple slime cores and a greater complexity.-->
 
-Under this interpretation, Starlight Cradle becomes even more so important to the development of jelly kingdom, as its naming and themes may be interpreted under a few new perspectives, and that is while the location itself is mostly disconnected from the rest of Cradle, apart from containing the same common strata of ruins.
+<!--Under this interpretation, Starlight Cradle becomes even more so important to the development of jelly kingdom, as its naming and themes may be interpreted under a few new perspectives, and that is while the location itself is mostly disconnected from the rest of Cradle, apart from containing the same common strata of ruins.-->
 
 ##### Glop family of Slimes
 
-On the other hand, there are minis, [shankles](https://wiki.spiralknights.com/Shankle), and [glop drops](https://wiki.spiralknights.com/Glop_Drop), which lack a distinct core:
+On the other hand, there are minis, [shankles](https://wiki.spiralknights.com/Shankle), and [glop drops](https://wiki.spiralknights.com/Glop_Drop) which _lack a visually identifiable core_:
 
 - Minis originate from polyps, as implied by the throne room of the Royal Jelly Palace.
-- Drops are widespread in compounds and treasure vaults, which contains a third species of slimes - shankles. Yet, based on the tier 3 designs, there is a possibility of them possessing a core, which can be reshaped, or at least, an inner glow, which is more probable as no other slime species were capable of drastic changes of their shape.
+- Drops are widespread in compounds and treasure vaults which contain a third species of slimes -- shankles. Yet, based on the tier 3 designs, there is a possibility of them possessing a core, which can be reshaped, or at least, an inner glow, which is more probable since [blast cubes]() possess a glowing core.
 - Shankles are only species which have a distinct biological features, such as an eye, eyes, or a mouth.
 
 Considering the behavior of mimics, we can suggest those to inhabit the outskirts of gremlin settlements and facilities. But, they do have an implication of an existing hierarchy, as [Treasure Mimic's](https://wiki.spiralknights.com/Treasure_Mimic) tendrils have a crown of an imperial design. Through the presence of tendrils and their behavior -- as ones emerging from the ground, -- we can confirm, that shankles are sub-species of slimes.
 
 #### Gremlin Bioengineering
 
-Across the suggested physiology of slimes, existence of [toxigels](https://wiki.spiralknights.com/Lichen#Toxigel), [toxoils](), and [quicksilvers]() subspecies seem to become more so nuanced.
+Across the suggested physiology of slimes, existence of [Ice Cubes], [toxigels](https://wiki.spiralknights.com/Lichen#Toxigel), [toxoils](), and [quicksilvers]() subspecies seem to become more so nuanced.
 
-We propose, that during observed events both gremlins and Spiral Order had gained understanding of slimes' physiology, which had allowed for both to develop their own technologies.
+We propose, that during observed events both gremlins and Spiral Order had gained understanding of slimes' physiology which had allowed for both to develop their own technologies.
 
 It is important to establish, which slimes we consider artificial, as well as describe the reasoning behind this selection.
 
 ##### Blast Cubes
 
-Under current proposal, we suggest, that [Blast Cubes](https://wiki.spiralknights.com/Jelly#Blast_Cube) are artificial slimes, created by gremlins. We propose such origin due to Cubes' unique and unstable property to explode - this characteristic is not observed anywhere else, nor in any slime family. Yet, [Blast Cubes](), [explosive blocks](), and _Collector's bombs_ seem to have a _common nature or physical resemblance_, which could be a budget restriction, or an intentional design choice guided by gremlin technological advancements. Yet, while there is existence of an explored and an established link between compound 42 and toxic gels, there is no such link for blast cubes. This is what we will attempt to establish.
+Under current proposal, we suggest, that [Blast Cubes](https://wiki.spiralknights.com/Jelly#Blast_Cube) are artificial slimes, created by gremlins. We propose such origin due to Cubes' unique and unstable property to explode - this characteristic is not observed anywhere else, nor in any slime family. Yet, [Blast Cubes](), [explosive blocks](), and _Collector's bombs_ to have a _common nature or physical resemblance_, which could be a budget restriction or an intentional design choice guided by gremlin technological advancements. Yet, while there is existence of an explored and an established link between compound 42 and toxic gels, there is no such link for blast cubes. This is what we will attempt to establish.
 
-Blast Cubes have a peculiar variation in color, transitioning from _yellow, to _reddish crimson_, and finally to _purple_ depending on Clockworks depth or tier.
+Blast Cubes have a peculiar variation in color, transitioning from _yellow_, to _reddish crimson_, and finally to _purple_ depending on Clockworks tier.
 
-Visibly cracked blackened edges on all variants of the Cubes give impression of cooler areas on top of heated surface, _reminiscent of molten metal dross_. This theme of heat links those to Vog's curse within Firestorm Citadel, and to industrial motif of molten slag as an unstable result of heavy industry. The latter reminds us of [Blast Furnaces across Clockworks](), which, given their name, seem to fit well with abn established industrial theming.
+Visibly cracked blackened edges on all variants of the Cubes give impression of cooler areas on top of heated surface, _reminiscent of metal dross_. This theme of heat links those to Vog's curse within Firestorm Citadel and more prominenetly to an industrial motif of molten slag as an unstable result of heavy industry. The latter reminds us of [Blast Furnaces across Clockworks]() which, given location's name, seem to fit within an established industrial theming.
 
-In the latter two variants blast cubes possess _lightning arcs_ around the core within the main body of slime, an established so far element of an energy excess.
+In the latter two variants blast cubes possess _lightning arcs_ around the core within the main body of slime, an established so far element of an energy excess or its instability through other appearances of a lightning.
 
-When Blast Cubes are damaged enough, stability of they body seem to falter similar to larger jellies, - Jelly Kings' and Ice Queen's deaths, - as more lightnings emerge from the core and confinement of main body of slime across all explosive variants. In the very final moment the core explodes, suggesting that it being the energy source for the slime, apart from its nerve center. _This distinction in self-destructing purpose seems too rare to be an evolutionary trait_.
+When Blast Cubes are damaged enough, stability of they body seem to falter similar to larger jellies, -- Jelly Kings' and Ice Queen's deaths, -- while more lightning arcs emerge from the core and confinement of main body of slime across all explosive variants. In the very final moment the core explodes, suggesting that it being the energy source for the slime, apart from its nerve center.
 
-##### Presence of Explosive Blocks and Gun Blocks for Owlites
+###### Explosive Sphere, Explosive Block, Blast Cube
 
 As Blast Cubes function very similar to Explosive Blocks, we have to look at those within the context of they placement across the volume of Cradle and Clockworks.
 
 They are present in the Scarlet Fortress, as much as respawn pads.
 
-At the _Rampants_ Lockdown map, being the Scarlet Fortress, there are even gremlin [rocket blocks](https://wiki.spiralknights.com/File:Exploration-Rocket_Block.png) on the east side of the castle, showing a pattern resembling early bastions. As rocket clocks are usually associated with gremlins, their presence coupled with Rampants being connected to Lockdown map lobbies, suggests 2 explanations: of those being placed in the far past, or, those are built later by those who organize the Lockdown. As the prior is more complex, one suggestion, coupled with presence of gun puppies, may be of those being rudimentary cannons, given less grounded themes of Owlites.
+At the _Rampants_ Lockdown map, being the Scarlet Fortress, there are even gremlin [rocket blocks](https://wiki.spiralknights.com/File:Exploration-Rocket_Block.png) on the east side of the castle, showing a pattern resembling early bastions. As rocket clocks are usually associated with gremlins, their presence coupled with Rampants being connected to Lockdown map lobbies, suggests 2 explanations: of those being placed in the far past, or, those are built later by those who organize the Lockdown. As the prior is more complex, one suggestion, coupled with presence of gun puppies, may be of those being rudimentary cannons, given less grounded themes of Owlites or even placed by gremlins as ones to _link those areas by the elveators_.
 
-Weather this can be said of explosive blocks, we could not say with full certainty. The same can be attributed to higher tier gun puppies, such as those present in [Firestorm Citadel's Charred Court](https://wiki.spiralknights.com/Firestorm_Citadel/Charred_Court). As far as we are aware of gremlin technology, and as we mentioned it previously - a formidable chance of gremlins attempting to contain Firestorm Citadel exists, mainly due to [presence of elevators]().
+Whether this can be said of explosive blocks, we could not say with full certainty. The same can be attributed to higher tier gun puppies, such as those present in [Firestorm Citadel's Charred Court](https://wiki.spiralknights.com/Firestorm_Citadel/Charred_Court).
 
-With this, we are leaning to the idea of _explosive blocks' origins being rooted in Gremlin research_, while origin of _Blast Cubes_, given their more recent arrival as slimes, seems to be _that of artificial creation_.
+With this we are leaning to the idea of _explosive blocks' origins being rooted in gremlin research_, while origin of _Blast Cubes_, given their more recent arrival as slimes, seems to be _that of artificial creation_.
 
-More so, the design of explosive blocks become more so important, as __it is a pulsing sphere, similar to explosive sphere within the Core__, and also reminiscent of one within collapsed grim gate's portal, both contained in translucent cubes.
+More so, the design of explosive blocks become more so important, as __it is a pulsing sphere, similar to explosive sphere within the Core__, and also reminiscent of one within collapsed grim gate's portal, as both are contained in translucent cubes. This similarity, we propose, is intentional as then __the technology from the Core would be subtly applied across the Clockworks__.
 
-This design seems intentional, _as if the technology from the Core would be subtly applied across the Clocwkorks_.
-
-We will keep this peculiarity in mind once we get to the analysis of the Core proper, and [the other block, which case its instance within the Core]().
+We will keep this peculiarity in mind once we get to the analysis of the Core proper, and [the other block, which case its instance within the Core](#ghost-blocks).
 
 ##### Toxigels, Oilers, Toxoils
 
 Encountered [Toxins]() and [Oilers]() are placed together mainly due to [the contents and context of compound 42]().
 
-Based on the memos in the facility: `it seems to have formed an intelligence well beyond the scope of a standard bio-toxin` ([Compound 42 - Containment - Herex](https://wiki.spiralknights.com/Compound_42/Containment)), - it seems that the biological weapon in question was not intended to become such as it is seem by the time the facility is being burned to the ground. But, a plausible explanation can be presented, that those weapon were derived of slimes.
+Based on the memos in the facility, `it seems to have formed an intelligence well beyond the scope of a standard bio-toxin` ([Compound 42 - Containment - Herex](https://wiki.spiralknights.com/Compound_42/Containment)), it seems that the biological weapon in question was not intended to become such as it is found by the time the facility is being investigated. A likely explanation can be presented that those _weapons were derived of slimes after their arrival_.
 
-Event of the Vile Engine seem to suggest that the slime generator, while in-game were seen to produce quicksilver lichens, are in fact capable of both, judging by the outer regions of generators' influence, resulting in creation of the Rotting Metropolis: `It would seem as though those slime generators have been around much longer than we thought, seeping their vile toxins into any levels that should be near them. A modern city, much like those that the devilites inhabit seems to be overrun with these toxins, and was probably left behind by both the devilites and gremlins as a result. Now a legion of slime and undead creatures haunt the place, festering in the poisons that linger in the air` ([The Rotting Metropolis](https://wiki.spiralknights.com/The_Rotting_Metropolis)).
+Event of the Vile Engine seem to suggest that the slime generator, while in-game were seen to produce quicksilver lichens, may be capable of production of both, judging by the outer regions of generators' influence, resulting in creation of the Rotting Metropolis, `It would seem as though those slime generators have been around much longer than we thought, seeping their vile toxins into any levels that should be near them. A modern city, much like those that the devilites inhabit seems to be overrun with these toxins, and was probably left behind by both the devilites and gremlins as a result. Now a legion of slime and undead creatures haunt the place, festering in the poisons that linger in the air` ([The Rotting Metropolis](https://wiki.spiralknights.com/The_Rotting_Metropolis)), or that those lichens change their composition and gain toxicity.
 
-As for the [oilers](), tubes of dark liquid, oil, are found in the end of compound 42 and cisterns in the final arena of [Terminal Meltdown, Fuel Depot Entrance](https://wiki.spiralknights.com/File:Terminal_Meltdown_Fuel_Depot_Entrance.png). Those seem as evidence of oilers' artificial nature.
+As for the [oilers](), tubes of dark liquid, potentially oil, are found in the end of compound 42 and cisterns in the final arena of [Terminal Meltdown, Fuel Depot Entrance](https://wiki.spiralknights.com/File:Terminal_Meltdown_Fuel_Depot_Entrance.png). Those seem as evidence of oilers' artificial nature.
 
-And lastly, the fact [toxigels]() and oilers were mixed to create [toxoils](), unique subspecies to compound 42, suggests in most direct manner capacity of _gremlin researchers to create or derive engineered subspecies of slimes_.
+And lastly, the fact [toxigels]() and oilers were mixed to create [toxoils](), unique subspecies to compound 42, suggests in most direct manner __capacity of gremlin researchers to create engineered subspecies of slimes__.
 
 Notably, when oiler is ignited, its core also burns, making it visible only in such state. This industrial motif is also present for quicksilver lichens.
 
 ##### Quicksilver Lichens and Mercury
 
-As [toxoils were purposed to become bioweapons](), as [blast cubes were devised as mobile bombs](), as [oiler were used in the heating and smelting facilities](), _quicksilvers_, we believe, are utilized as _mobile batteries_.
+As [toxoils were purposed to become bioweapons](), as [blast cubes were devised as mobile bombs](), as [oiler were used in the heating and smelting facilities](), _quicksilvers_, we propose, are utilized as _mobile batteries_ across gremlin facilities.
 
-The first element is lichens' name, - quicksilver, - is an archaic term for mercury. The design of lichens suggest it being true, as quicksilver has same reflective properties, attributed to mercury.
+The first element is lichens' name, -- quicksilver,-- is an archaic term for mercury. The design of lichens suggest it being true, as quicksilver has same reflective properties, attributed to mercury.
 
-While a connection between mercury and self healing of those lichens may not relate to anything in particular, it is important to look at other aspect of their design and themes, present across Spiral Order equipment - [quicksilver armor](https://wiki.spiralknights.com/Quicksilver_Mail) alchemy tree, including [Mercurial Demo set](https://wiki.spiralknights.com/Mercurial_Demo_Suit).
+While a connection between mercury and self healing of those lichens may not relate to anything in particular, it is important to look at other aspect of their design and themes, present across Spiral Order equipment, the [quicksilver armor](https://wiki.spiralknights.com/Quicksilver_Mail) alchemy tree, including [Mercurial Demo set](https://wiki.spiralknights.com/Mercurial_Demo_Suit).
 
-The persisting theme is one of electricity:
+For this gear a motif of electricity is found:
 
-- `A fine set of mail made of what was once a Quicksilver` ([Quicksilver Mail](https://wiki.spiralknights.com/Quicksilver_Mail)). Despite referring to mercury in the past tense, the mail remain with this name. Quicksilver in this context might mean the lichen, as alchemy of the next in line upgrade - [Charged quicksilver Mail](https://wiki.spiralknights.com/Charged_Quicksilver_Mail) contains all of the familiar slime-related materials, such as gel cores, [Brute Core](https://wiki.spiralknights.com/Brute_Core), [Gel Core](https://wiki.spiralknights.com/Gel_Core), and [Volt Oil](https://wiki.spiralknights.com/Volt_Oil).
+- `A fine set of mail made of what was once a Quicksilver` ([Quicksilver Mail](https://wiki.spiralknights.com/Quicksilver_Mail)). Despite referring to mercury in the past tense, the mail remain with present name. Quicksilver in this context might mean the slime itself, as alchemy of the next in line upgrade, [Charged quicksilver Mail](https://wiki.spiralknights.com/Charged_Quicksilver_Mail) contains all of the familiar slime-related materials, such as gel cores, [Brute Core](https://wiki.spiralknights.com/Brute_Core), [Gel Core](https://wiki.spiralknights.com/Gel_Core), and [Volt Oil](https://wiki.spiralknights.com/Volt_Oil).
 - [Charged Quicksilver Mail](https://wiki.spiralknights.com/Charged_Quicksilver_Mail) is a direct upgrade of the prior with instruction of [Thunderball](https://wiki.spiralknights.com/Thunderball) into its alchemy.
 
-    The description of [its charged helm](https://wiki.spiralknights.com/Charged_Quicksilver_Helm): `An enhanced Quicksilver Helm conductive to the destruction of electrical foes`, - might suggest that it is a state of armor, or rather, mercury/quicksilver itself, within which charged quicksilver lichens are encountered.
+  The description of set's [charged helm](https://wiki.spiralknights.com/Charged_Quicksilver_Helm), `An enhanced Quicksilver Helm conductive to the destruction of electrical foes`, might suggest that it is a state of armor, or rather, mercury itself, within which charged quicksilver lichens are encountered.
 
-- The final upgrade, [Mercurial Mail](https://wiki.spiralknights.com/Mercurial_Mail): `A supreme set of silver armor that'll put a spring in your step while keeping shocks out of it`, and [Mercurial Helm](https://wiki.spiralknights.com/Mercurial_Helm) - `A sublime silver helmet that'll let you move as swiftly as water, though perhaps not quite so swiftly *through* it` have an emphasis on this armor's defense supremacy and speed, which is usually attributed to chemical properties of mercury as a liquid.
-- Same motif of speed is found in the [Mercurial Demo Suit](https://wiki.spiralknights.com/Mercurial_Demo_Suit) set: `A demo suit made from gremlin technology. It is for the bomber that wants a boost of speed, more power and a greatly reduced chance of dying by electrocution`.
+- The final upgrade, [Mercurial Mail](https://wiki.spiralknights.com/Mercurial_Mail), `A supreme set of silver armor that'll put a spring in your step while keeping shocks out of it`, and [Mercurial Helm](https://wiki.spiralknights.com/Mercurial_Helm), `A sublime silver helmet that'll let you move as swiftly as water, though perhaps not quite so swiftly *through* it`, have an emphasis on this armor's defense and speed which is usually attributed to properties of mercury as a liquid.
+- Same motif of speed is found in the [Mercurial Demo Suit](https://wiki.spiralknights.com/Mercurial_Demo_Suit), `A demo suit made from gremlin technology. It is for the bomber that wants a boost of speed, more power and a greatly reduced chance of dying by electrocution`. Could mercury be physically separate material from quicksiver in-universe?
 
-    While it is indeed stated that the armor utilizes gremlin technology, most prominently [Gremlonium](https://wiki.spiralknights.com/Gremlonium): `A highly advanced compound created by gremlin engineers to power their most devious machines. It constantly emits an unsettling hissing sound`, we propose, that there is greater symbolic and alchemical meaning to be found, which will be analyzed after the initial coverage of Clockworks' infrastructure.
+  <!--While it is indeed stated that the armor utilizes gremlin technology, most prominently [gremlonium](https://wiki.spiralknights.com/Gremlonium), `A highly advanced compound created by gremlin engineers to power their most devious machines. It constantly emits an unsettling hissing sound`, we propose, that there is greater symbolic and alchemical meaning to be found, which will be analyzed after the initial coverage of Clockworks' infrastructure.-->
 
-But currently, as far as initial role of quicksilvers go, they seem to represent a utilitarian role of batteries, as their gel is found across highly dangerous facilities with electric themes, specifically, [Ironclaw Munitions Factory](https://wiki.spiralknights.com/Ironclaw_Munitions_Factory).
+Currently, as far as initial role of quicksilvers goes, they seem to represent a utilitarian role of batteries, as their gel is found across highly dangerous facilities with electric themes, including the [Ironclaw Munitions Factory](https://wiki.spiralknights.com/Ironclaw_Munitions_Factory).
 
 Moreover, quicksilver lichens are produced by [slime generators](https://wiki.spiralknights.com/The_Vile_Engine/Processing_Plant) during the [Vile Engine mission](https://wiki.spiralknights.com/The_Vile_Engine).
 
-We have already discussed the nature of the Rotting Metropolis, using it to interpret existence of those generator in favour of Herex. Yet, the description `It would seem as though those slime generators have been around much longer than we thought, seeping their vile toxins into any levels that should be near them` ([The Rotting Metropolis](https://wiki.spiralknights.com/The_Rotting_Metropolis)) is particularly vague.
+<!--We have already discussed the nature of the Rotting Metropolis, using it to interpret existence of those generator in favour of Herex. Yet, the description `It would seem as though those slime generators have been around much longer than we thought, seeping their vile toxins into any levels that should be near them` ([The Rotting Metropolis](https://wiki.spiralknights.com/The_Rotting_Metropolis)) is particularly vague.-->
 
 ##### Environmental Themes of Gremlins
 
-One more explanation we may present here is of purely functional role of Slime Generators, unrelated to Herex or general strategic role of the prior.
+One more explanation we may present here is of purely functional role of slime generators, unrelated to Herex or general strategic role of the prior.
 
 This proposal states, that slime generators are a method of creating quicksilvers, while generators' poison themes may be attributed to the byproducts, if we are to commit to environmental aspect of gremlins across rank missions, specifically, of [Beyond the Axes of Evil](https://wiki.spiralknights.com/Beyond_the_Axes_of_Evil): `Despite your previous efforts, gremlins have reformed their logging operation in the Jigsaw Valley in order to supply their munitions plants with resources. Given the results of their last project, the Roarmulus Twins, Spiral HQ would like you to end their eco-destruction before it becomes anything more serious!`
 
-The toxic aspect then is the reimagining of mercury as a toxic chemical element, specifically, its vapours, suggesting a degradation of [quicksilvers](https://wiki.spiralknights.com/Lichen#Quicksilver) to [toxigels](https://wiki.spiralknights.com/Lichen#Toxigel), _mirroring the toxicity of expired lithium batteries_.
+The toxicity aspect then is the reimagining of mercury as a toxic chemical element, specifically, its vapours, suggesting a degradation of [quicksilvers](https://wiki.spiralknights.com/Lichen#Quicksilver) to [toxigels](https://wiki.spiralknights.com/Lichen#Toxigel), _mirroring the toxicity of expired lithium batteries_.
 
-But, we acknowledge that, as far as this suggestion goes and as it is the only one so far, which manages to plausibly explain an aforementioned design discrepancy, it is based more in the motifs, which, even when focused upon, are rather vague to be confidently substantial, compared to the alchemical theme we were focusing upon throughout the analysis.s
+But, as we acknowledge that, as far as this suggestion goes and as it is the only one so far, which manages to plausibly explain an aforementioned design discrepancy, it is based more in the motifs which, even when focused upon, are rather vague to be confidently substantial.
 
 ##### Node Field Technology and Gel Glue
 
