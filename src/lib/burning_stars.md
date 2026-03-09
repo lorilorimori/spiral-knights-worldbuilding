@@ -7107,67 +7107,71 @@ With this context in mind, we will now discuss entirety of known gremlin facilit
 
 As compounds are considered smaller gremlin facilities within skydomes, we have to address the more general notions, inspirations, and motifs of modern-day gremlin civilization.
 
-Throughout the rank missions and the Arcade, several gremlin facilities are encountered, those are predominantly compounds, located within biospheres of skydomes, and rank-mission exclusive underground complexes. The latter, such as Camp Crimson, complex 357, and Grand Arsenal, share the same defense measures, such as _barbed wire_, _anti-tank concrete blocks_, likely serving the same purpose as _dragon's teeth_, and _anti-tank hedgehogs_.
+Throughout the rank missions and the Arcade, several gremlin facilities are encountered, those are predominantly compounds, located within biospheres of skydomes, and rank-mission exclusive underground complexes. The latter, such as Camp Crimson, complex 357, and Grand Arsenal, share the same defense measures -- _barbed wire_, _anti-tank concrete blocks_, likely serving the same purpose as _dragon's teeth_, and _anti-tank hedgehogs_.
 
-Apart from those structure there are _production centers_ and _research facilities_, from which Ironclaw Munitions Factory and compound 42 stand out as the largest and well known.
+Apart from those structure there are _production centers_ and _research facilities_, from which Ironclaw Munitions Factory and compound 42 stand out as the largest and well known examples.
 
-We also have at least 2 types of numbered facilities: compounds and complexes. Their ownership within clans and members of Crimson Order remains vague, but will be analyzed further.
+We are also aware of at least 2 types of _numbered facilities_ -- compounds and complexes. Their ownership within gremlin clans and members of Crimson Order remains vague, but we intend to discuss it further.
 
 ##### Mecha Knight Factories
 
-One of more characteristic elements of gremlins was their skillful creation of constructs, such as battlepods, mecha knights, and gun puppies. We will return to gun puppies' designs later, as they were already present as creations of tortomega but now we will focus on mecha knights.
+One of more characteristic elements of gremlins is their skillful creation of constructs, such as battlepods, mecha knights, and gun puppies.
+
+We will return to gun puppies' designs later, as they were already present as creations of tortomega but now we will focus on mecha knights.
 
 One of such factories is found during [Toy Soldiers mission](https://wiki.spiralknights.com/Toy_Soldiers): `Recon Knights ... have discovered a mecha knight production facility close to Haven. Mecha Knights are believed to be gremlin-engineered sentries of the construct family that share many of the capabilities of a Spiral Knight`. This factory, as suggested by the layout of [Factory Floor](https://wiki.spiralknights.com/Toy_Soldiers#Gate_Map), is located within Clockwork tunnels outside of skydomes. Deeper into the factory the [Production Center](https://wiki.spiralknights.com/Toy_Soldiers/Production_Center) itself is located.
 
-The production center is represented by the battlepod surrounded by a hexagonal shield. As this shielding pattern is also present on modified Proto Shields:
+The production center is represented by the battlepod surrounded by a _hexagonal shield_. As this shielding pattern is also present on modified Proto Shields:
 
 - `A Proto Shield modified to provide some protection against fire` ([Emberbreak Shield](https://wiki.spiralknights.com/Emberbreak_Shield)).
 - `A Proto Shield modified to provide some protection against shock` ([Circuit Breaker Shield](https://wiki.spiralknights.com/Circuit_Breaker_Shield)).
-- `A Proto Shield modified to provide some protection against freeze` ([Frostbreaker Shield](https://wiki.spiralknights.com/Frostbreaker_Shield)).
+- `A Proto Shield modified to provide some protection against freeze` ([Frostbreaker Shield](https://wiki.spiralknights.com/Frostbreaker_Shield)), we can assume this technology is understandable enough to be either adapted by Spiral Order, as they upgrade the Proto Shield with Clockwork materials, `A small shield issued to all Spiral Knights recruits` ([Proto Shield](https://wiki.spiralknights.com/Proto_Shield)), or is a common representation of general protection to be created separate from gremlins' designs.
 
-We can assume this technology is understandable enough to be either adapted by Spiral Order, as they upgrade the Proto Shield with Clockwork material (`A small shield issued to all Spiral Knights recruits` - [Proto Shield](https://wiki.spiralknights.com/Proto_Shield)), or is a common representation of general protection to be created separate from gremlins'.
-
-Given items such as [Circuit Breaker Armor](https://wiki.spiralknights.com/Circuit_Breaker_Armor) - `Armor with a hacked elemental core aimed at resisting shock. However, this non-standard modification creates other elemental weaknesses`, we consider the scenario of this shielding technology to be common among both Spiral Order and gremlins without its direct adaptation in the same manner as indestructible shields.
+Given items such as [Circuit Breaker Armor](https://wiki.spiralknights.com/Circuit_Breaker_Armor) - `Armor with a hacked elemental core aimed at resisting shock. However, this non-standard modification creates other elemental weaknesses`, we consider the scenario of this shielding technology to be common among both Spiral Order and gremlins without its direct adaptation in the same manner as indestructible shields, which may also be seen as developed separately yet arriving to a common appearance, such case for gremlins being _Drakfang gremlin menders' bubble shield_.
 
 ##### Heavy Weapons Facility: Sparkcaster and Sputterspark
 
-The Heavy Weapons Facility is found during [Shocking Sentinel Sentries mission](https://wiki.spiralknights.com/Shocking_Sentient_Sentries) and is described as: `a secret weapons facility that according to the intel ..., could belong to a high ranking gremlin of The Crimson Order. It is heavily fortified by a small army of electrified constructs ... While it is unclear if this weapons stash actually belongs to a gremlin of The Crimson Order, it is no less worth infiltrating and neutralizing the weapons stash` ([Shocking Sentinel Sentries](https://wiki.spiralknights.com/Shocking_Sentient_Sentries)). The fact of its belonging is later confirmed by the dialogue between [Sputterspark](https://wiki.spiralknights.com/Sputterspark) and warmaster Seerus of Crimson Order within the final floor of the facility: `The Sparkcaster Deluxe is almost stable, I promise. I need a little more time, Warmaster. ... It looks like time has run out, Sputterspark. You'd better hope your little toy works` ([Sputterspark and Seerus](https://wiki.spiralknights.com/Shocking_Sentient_Sentries/Heavy_Weapons_Facility)).
+The Heavy Weapons Facility is found during [Shocking Sentinel Sentries mission](https://wiki.spiralknights.com/Shocking_Sentient_Sentries) and is described as: `a secret weapons facility that according to the intel ..., could belong to a high ranking gremlin of The Crimson Order. It is heavily fortified by a small army of electrified constructs ... While it is unclear if this weapons stash actually belongs to a gremlin of The Crimson Order, it is no less worth infiltrating and neutralizing the weapons stash` ([Shocking Sentinel Sentries](https://wiki.spiralknights.com/Shocking_Sentient_Sentries)).
 
-The facility itself houses a stationary device referred to a Sparkcaster, whose purpose, judging by the second encounter during [The Great Escape](https://wiki.spiralknights.com/The_Great_Escape) in the prison [yard](https://wiki.spiralknights.com/The_Great_Escape/The_Yard), is to hinder enemy movement on the frontlines by remote generation of artificial lightning from the rear.
+The fact of its belonging is later confirmed by the dialogue between [Sputterspark](https://wiki.spiralknights.com/Sputterspark) and warmaster Seerus of Crimson Order within the final floor of the facility, `The Sparkcaster Deluxe is almost stable, I promise. I need a little more time, Warmaster. ... It looks like time has run out, Sputterspark. You'd better hope your little toy works` ([Sputterspark and Seerus](https://wiki.spiralknights.com/Shocking_Sentient_Sentries/Heavy_Weapons_Facility)).
 
-Considering that the facility is marked as secret, it is plausible that Sparkcaster is of the same purpose as compound 42 of Herex of Crimson Order: `Production of Compound 42 is to cease immediately. While a formidable poison and no doubt useful in achieving a... 'higher' power amongst the Order, it seems to have formed an intelligence well beyond the scope of a standard bio-toxin` ([Compound 42 - Containment](https://wiki.spiralknights.com/Compound_42/Containment)), - that of Crimson Order member's secret research facility.
+The facility itself houses a stationary device referred to as `Sparkcaster`, whose purpose, judging by the second encounter during [The Great Escape](https://wiki.spiralknights.com/The_Great_Escape) in the prison [yard](https://wiki.spiralknights.com/The_Great_Escape/The_Yard), is to __hinder enemy movement on the frontlines by remote generation of artificial lightning from the rear__.
 
-The second iteration of the device is labelled as Sparkcaster 9000 Deluxe. Considering that it is stated as a `triumph in gremlin engineering` ([The Great Escape - The Yard - Sputterspark](https://wiki.spiralknights.com/The_Great_Escape/The_Yard)), we may read it in 2 ways: a comical hyperbole for the narrative and an actual analysis of the device with all of known laws of physic in mind.
+Considering that the facility is marked as secret, it is plausible that Sparkcaster is of the same purpose as compound 42 of Herex of Crimson Order, `Production of Compound 42 is to cease immediately. While a formidable poison and no doubt useful in achieving a... 'higher' power amongst the Order, it seems to have formed an intelligence well beyond the scope of a standard bio-toxin` ([Compound 42 - Containment](https://wiki.spiralknights.com/Compound_42/Containment)), that of Crimson Order member's secret research facility.
 
-As we are analyzing and connecting everything, we will go with the latter option. Specifically, the sole act of the device casting relatively controlled lightning is deeply related to the principles underlying Clockwork Power Complexes and [other instances of summoning lightning](). We will return to Sparkcaster in that section later. But as far as the themes and contextual framing of Sparkcaster allows, we believe, it would not be a logical leap to suggest an inspiration from _20th century wonder-weapons_.
+The second iteration of the device is labelled as `Sparkcaster 9000 Deluxe`. Considering that it is stated as a `triumph in gremlin engineering` ([The Great Escape - The Yard - Sputterspark](https://wiki.spiralknights.com/The_Great_Escape/The_Yard)), we may read it in 2 ways: a comical hyperbole for the narrative and an actual analysis of the device.
+
+As we are analyzing and connecting everything, we will go with the latter option. Specifically, the sole act of the device casting relatively controlled lightning is deeply related to the principles underlying Clockwork Power Complexes and [other instances of summoning lightning](). We will return to Sparkcaster in that section later. But as far as the themes and contextual framing of Sparkcaster allows, we suggest, it would not be an absurd logical leap to suggest Sparkcasted was inspired by __20th century German wonder-weapons__, and, notably, their crystallized image in popular culture.
 
 ##### Test Labs
 
-One of testing laboratories was found to contain schematics for Roarmulus Twins, or at that point in time, known only as Project R during the events of [Plan of Attack](https://wiki.spiralknights.com/Plan_of_Attack): `Deep within a toxic cavern lies a hidden test lab that gremlins have been using as a testing ground for components of Project R. One of these components still in development is reported to have schematics for the project close by` ([Plan of Attack](https://wiki.spiralknights.com/Plan_of_Attack)).
+One of testing laboratories was found to contain schematics for Roarmulus Twins, or at that point in time, known only as Project R during the events of [Plan of Attack](https://wiki.spiralknights.com/Plan_of_Attack), `Deep within a toxic cavern lies a hidden test lab that gremlins have been using as a testing ground for components of Project R. One of these components still in development is reported to have schematics for the project close by` ([Plan of Attack](https://wiki.spiralknights.com/Plan_of_Attack)). This implies existence of testing polygons within Clockworks.
 
 ##### Trap Chambers
 
-Trap chamber is introduced in [Faith in Armor mission](https://wiki.spiralknights.com/Faith_in_Armor): `An apprentice named Wilks who had just arrived from a Rescue Camp has found himself in what Spiral HQ calls a 'Trap Chamber.' These levels of most likely gremlin design seem to be specifically built to trap and ultimately eliminate those attempting to explore the Clockworks`.
+Trap chambers are introduced in [Faith in Armor mission](https://wiki.spiralknights.com/Faith_in_Armor), `An apprentice named Wilks who had just arrived from a Rescue Camp has found himself in what Spiral HQ calls a 'Trap Chamber.' These levels of most likely gremlin design seem to be specifically built to trap and ultimately eliminate those attempting to explore the Clockworks`.
 
 The [trap chamber](https://wiki.spiralknights.com/Faith_in_Armor/The_Trap_Chamber) itself consists of several enclosed structures, connected by bridges.
 
 ##### Weapon Caches, Factories, and Munition Storages
 
-Mission [Sewer Stash](https://wiki.spiralknights.com/Sewer_Stash) establishes existence of weapon caches across Clockworks: `Intel suggests that once manufactured, weapons are moved out of the Ironclaw Munitions Factory and stored in secret weapon caches throughout the Clockworks. One of these caches has been uncovered in one of the Clockwork's wasteworks systems` ([Sewer Stash](https://wiki.spiralknights.com/Sewer_Stash)). That weapon cache contains instances of battlepods.
+Mission [Sewer Stash](https://wiki.spiralknights.com/Sewer_Stash) establishes existence of weapon caches across Clockworks, `Intel suggests that once manufactured, weapons are moved out of the Ironclaw Munitions Factory and stored in secret weapon caches throughout the Clockworks. One of these caches has been uncovered in one of the Clockwork's wasteworks systems` ([Sewer Stash](https://wiki.spiralknights.com/Sewer_Stash)). That weapon cache contains 2 battlepods.
 
-A decommissioned type of similar munitions storages and factories is explored through [Assault on Machine Shop 13](https://wiki.spiralknights.com/Assault_on_Machine_Shop_13) mission - `decommissioned gremlin weapons factories that are still actively bustling with hostile constructs, and in some cases are even stocked with operational, active war machines`, proving presence of factories across varying terrain.
+A decommissioned type of similar munitions storages and factories is explored through [Assault on Machine Shop 13](https://wiki.spiralknights.com/Assault_on_Machine_Shop_13) mission, `decommissioned gremlin weapons factories that are still actively bustling with hostile constructs, and in some cases are even stocked with operational, active war machines`, proving presence of factories across varying terrain.
+
+Presence of lost factories within Clockworks further characterizes a grim reality of the semi-autonomous natire of the megastructure, which emerges predominantly through textual descriptions of the characters.
 
 ##### Crimson Order Hideouts
 
-Existence of Crimson Order hideouts is established during the events of [Spark and Roar](https://wiki.spiralknights.com/Spark_and_Roar): `An exceptionally high concentration of constructs has been found guarding an area of the Clockworks that Spiral HQ suspects could be a Crimson Order hideout`.
+Existence of Crimson Order hideouts is established during the events of [Spark and Roar](https://wiki.spiralknights.com/Spark_and_Roar), `An exceptionally high concentration of constructs has been found guarding an area of the Clockworks that Spiral HQ suspects could be a Crimson Order hideout`.
 
-[Hidden Hideout](https://wiki.spiralknights.com/Spark_and_Roar/Hidden_Hideout) presents itself as one belonging to Herex and later reinstated as such through symbolism of green Crimson Order insignia and presence of the Swarm.
+[Hidden Hideout](https://wiki.spiralknights.com/Spark_and_Roar/Hidden_Hideout) presents itself as one belonging to Herex and later reinstated as such through symbolism of _green Crimson Order insignia_ and presence of the Swarm.
 
-Before actual facility around the hideout found in [The Bitter Battle](https://wiki.spiralknights.com/Spark_and_Roar/The_Bitter_Battle), knights had to traverse a [march](https://wiki.spiralknights.com/Spark_and_Roar#Gate_Map) and [tundra](https://wiki.spiralknights.com/Spark_and_Roar#Gate_Map), referred as Cold March and Iron Tundra.
+T reach the facility around the hideout found in [The Bitter Battle](https://wiki.spiralknights.com/Spark_and_Roar/The_Bitter_Battle), knights had to traverse a [march](https://wiki.spiralknights.com/Spark_and_Roar#Gate_Map) and a [tundra](https://wiki.spiralknights.com/Spark_and_Roar#Gate_Map), referred as `Cold March` and `Iron Tundra`.
 
-While Iron Tundra is a deconstruction zone and Cold March is a compound, we have to consider general theme of the hideout being a small facility of a member of Crimson Order deep in the frozen location, potentially in proximity to arctic circle, or, given context of Clockworks, [Cooling Chambers'](https://wiki.spiralknights.com/Cooling_Chamber) effects onto the surroundings.
+While Iron Tundra is a deconstruction zone and Cold March is a compound, we have to consider general theme of the _hideout being a small facility of a member of Crimson Order deep into the frozen wasteland_, potentially in proximity to arctic circle, or, given context of Clockworks, [Cooling Chambers'](https://wiki.spiralknights.com/Cooling_Chamber) effects onto the surroundings. The _artifical nature of Cradle creates a far more complex environment for weather patterns to emerge_, as for arificial bioshpere of the megastructure the source of cold, as noted, would be as artifical as the rest of the environment, here suggested to be Cooling Chambers.
 
-The arena, [The Bitter Battle](https://wiki.spiralknights.com/Spark_and_Roar/The_Bitter_Battle) depth suggests it being a proper road to the hideout itself, as it is built from a series of gates, connected by a single road. Notably, it is the last gateway, which has blown open fenced gates and blaring alarms.
+The arena of [The Bitter Battle](https://wiki.spiralknights.com/Spark_and_Roar/The_Bitter_Battle) depth suggests it being a _primary road_ to the hideout itself, as it is built from a series of gates, connected by a single road. Notably, it is the last gateway, which has blown open fenced gates and _active, triggered alarms_.
 
 The hideout proper in its design suggests it being personal quarters in case of emergency. The [size](https://wiki.spiralknights.com/File:Hidden_Hideout.jpg) of the hideout is also of interest to us, containing a few points of interest:
 
@@ -7176,17 +7180,17 @@ The hideout proper in its design suggests it being personal quarters in case of 
 - Entrance and exit elevators connected to the system of Clockwork gates.
 - The cisterns and the main structural body behind the exit elevator. The location's design itself resembles gremlin town of [Emberlight](https://wiki.spiralknights.com/Emberlight), that is the hull of what is considered Clockwork tunnels is habitable and likely contains proper living quarters, which would suffice a few gremlins for a limited time, as it is first and foremost a hideout.
 
-We also propose, that it is potentially a bunker, considering the metal beam extending upwards, suggesting a reinforced structure, similar to the deepest location of [Ironclaw Munitions Factory]().
+We also propose, that it is potentially a bunker, considering the metal beam extending upwards, suggesting a reinforced structure, similar to the deepest location of [Ironclaw Munitions Factory]() with a giant support beam directed upwards.
 
 ##### Compound 42 and Slime Generators
 
-As for the rest of military research facilities, there is compound 42, which specializes in production of bioweapons. It is described as: `a gremlin bioweapons facility deep within the Clockworks. It is believed that this facility belongs to a member of the Crimson Order known only as Herex. The Recon Rangers have been tasked with infiltrating the facility and uncovering the nature of Herex's bioweapons before they are put to use` ([Compound 42](https://wiki.spiralknights.com/Compound_42)).
+As for the rest of military research facilities, there is compound 42, which specializes in production of bioweapons. It is described as `a gremlin bioweapons facility deep within the Clockworks. It is believed that this facility belongs to a member of the Crimson Order known only as Herex. The Recon Rangers have been tasked with infiltrating the facility and uncovering the nature of Herex's bioweapons before they are put to use` ([Compound 42](https://wiki.spiralknights.com/Compound_42)).
 
 When it is infiltrated, it is discovered that Herex had already ordered to burn it, removing all of evidence of its existence: `Production of Compound 42 is to cease immediately. While a formidable poison and no doubt useful in achieving a... 'higher' power amongst the Order, it seems to have formed an intelligence well beyond the scope of a standard bio-toxin. All traces of Compound 42 should be eliminated, along with the facility and any engineers not part of the inner fold. Remind the scorchers who find these orders uncomfortable that those who disobey shall soon hear my whisper in their ears. Seal the doors and burn everything to the ground` ([Compound 42 - Containment - Secret Memo - Herex](https://wiki.spiralknights.com/Compound_42/Containment)). The poison with intelligence of standard bio-toxin question are the [toxoils](https://wiki.spiralknights.com/Toxoil).
 
-The facility contains large storage tubes of green gel. Based on the quote `it seems to have formed an intelligence well beyond the scope of a standard bio-toxin` ([Compound 42 - Containment - Secret Memo - Herex](https://wiki.spiralknights.com/Compound_42/Containment)), we can make a working assumption that this gel content is the bio-toxin. But, this puts in question a natural origin of [toxoilers](https://wiki.spiralknights.com/Toxigel#Toxoil) and [toxigels](https://wiki.spiralknights.com/Toxigel#Toxigel). Regular [toxigels](https://wiki.spiralknights.com/Toxigel#Toxigel) and then oilers are both also found across locations, which does not seem to be connected to the compound.
+The facility contains large storage tubes of green gel. Based on the quote `it seems to have formed an intelligence well beyond the scope of a standard bio-toxin` ([Compound 42 - Containment - Secret Memo - Herex](https://wiki.spiralknights.com/Compound_42/Containment)), we can make a working assumption that this gel content is the developed bio-toxin. But, this puts in question a natural origin of [toxoilers](https://wiki.spiralknights.com/Toxigel#Toxoil) and [toxigels](https://wiki.spiralknights.com/Toxigel#Toxigel). Regular [toxigels](https://wiki.spiralknights.com/Toxigel#Toxigel) and then oilers both are found across locations which does not seem to be connected to the compound.
 
-At the last arena of the [containment](https://wiki.spiralknights.com/Compound_42/Containment) 6 large tubes of orange gel are found in the end of the structure, several of which are seen to be leaking. We suggest those are the basis for oilers in order to produce what became toxoils. There are also 3 large leaking tubes of green gel on the west side of the structure, toxic gel, comprising toxigels.
+At the last arena of the [containment](https://wiki.spiralknights.com/Compound_42/Containment) 6 large tubes of _orange gel_ are found in the end of the structure, several of which are seen to be leaking. We suggest those are the basis for oilers in order to produce what became toxoils. There are also 3 large leaking tubes of green gel on the west side of the structure, toxic gel, comprising toxigels.
 
 During the event of [Vile Engine](https://wiki.spiralknights.com/The_Vile_Engine) mission lichens were also involved: `Somewhere below a level that lichens have taken to inhabiting lies a strange facility of unknown origin that seems to be used for the production of toxic slime monsters. The 'slime generators' are capable of rapidly producing slime monsters that then quickly populate nearby levels. Squads in neighboring levels have already reported overwhelming numbers of toxic slimes, making it impossible to lead expeditions beyond depth 23. It is time ... to infiltrate this strange facility and shut down production of these vile creatures. Any data that you could collect as their origin would be highly valuable to Spiral HQ` ([Vile Engine](https://wiki.spiralknights.com/The_Vile_Engine)). The generators are presented in the [Processing Plant](https://wiki.spiralknights.com/The_Vile_Engine/Processing_Plant) as 2 battlepods creating not toxic, but [quicksilver](https://wiki.spiralknights.com/Quicksilver) lichens.
 
@@ -7194,134 +7198,139 @@ Considering past knowledge of Herex specializing in bioweapons, involving accide
 
 ##### Chemical Plants
 
-Existence of chemical plants is presented in the mission - [The Phantom Mask](https://wiki.spiralknights.com/The_Phantom_Mask):`Rhendon is waiting for you in an abandoned gremlin chemical plant where reconnaissance has located a cache of missing battle sprites. Secure the sprites and clear the area of hostiles. You are authorized to use any sprites you secure in order to complete the mission`.
+Existence of chemical plants is presented in the mission [The Phantom Mask](https://wiki.spiralknights.com/The_Phantom_Mask), `Rhendon is waiting for you in an abandoned gremlin chemical plant where reconnaissance has located a cache of missing battle sprites. Secure the sprites and clear the area of hostiles. You are authorized to use any sprites you secure in order to complete the mission`.
 
-##### Maskeraith, Sunset Steppes, and Haven Mines
+###### Maskeraith, Sunset Steppes, and Haven Mines
 
-This location is of particular interest to us duw to being one where [Maskeraith battle sprites are recovered](#maskeraith).
+This location is of particular interest to us due to being one where [Maskeraith battle sprites are recovered](#maskeraith).
 
 The other notion, which was not covered in relation to Maskeraith's analysis is their location. As Seraphynxs were found to continue Kat Tribe's deed, we are left with Drakons and Maskeraith.
 
-With the current framework, we propose, that Drakons have specifically settled in [Sunset Steppes](https://wiki.spiralknights.com/Sunset_Steppes), as this area was also part of dragons' descendants - tortomega, specifically the part of larger shattered landmass of tortomega homeland.
+With the current framework, we propose, that Drakons have specifically settled in [Sunset Steppes](https://wiki.spiralknights.com/Sunset_Steppes), as this area was also part of dragons' descendants -- tortomega, specifically the part of larger shattered landmass of tortomega homeland.
 
-As for Maskeraith, they are found hear the pile of bones within the facility. The facility itself in its design is similar to the Haven Mines, which are visited in Lockdown mode - with Clockwork tunnels being placed within the overgrown stone interior. And, as the facility is referred to as the [Creeping Cavern](https://wiki.spiralknights.com/The_Phantom_Mask/Creeping_Cavern), we can confirm, that the mines are also a subterranean location.
+As for Maskeraith, they are found hear the pile of bones within the facility. The facility itself in its design is similar to the _Haven Mines_ which are visited in Lockdown mode -- with Clockwork tunnels being placed within the _overgrown stone interior of a cavern_. And, as the facility is referred to as the [Creeping Cavern](https://wiki.spiralknights.com/The_Phantom_Mask/Creeping_Cavern), we can confirm, that the mines are also a subterranean location.
 
 It is then the relation between poison, chemicals and undeath which is established here.
 
-We have previously covered a supernatural/Underworld-related element both of frost, manifested as [Everfrost]() with its plots, and poison, as a hypothetical [Vile deity]() and themes of [Plague Essence](). As far as analysis goes, we can suspect a vague, but greater relation to Underworld.
+We have previously covered a supernatural or Underworld-related element both of frost, manifested as [Everfrost]() with its plots, and poison, as a hypothetical [Vile deity]() and of [Plague Essence](). As far as analysis goes, we can suspect a vague, but greater relation to Underworld.
 
-As for the patterns within gremlin facilities, we can draw parallels to a different facility found during a [Plan of Attack](https://wiki.spiralknights.com/Plan_of_Attack), as this facility is also found within a toxic cavern: `Deep within a toxic cavern lies a hidden test lab that gremlins have been using as a testing ground for components of Project R. One of these components still in development is reported to have schematics for the project close by` ([Plan of Attack](https://wiki.spiralknights.com/Plan_of_Attack)).
+As for the patterns within gremlin facilities, we can draw parallels to a different facility found during a [Plan of Attack](https://wiki.spiralknights.com/Plan_of_Attack), as this facility is also found within a toxic cavern, `Deep within a toxic cavern lies a hidden test lab that gremlins have been using as a testing ground for components of Project R. One of these components still in development is reported to have schematics for the project close by` ([Plan of Attack](https://wiki.spiralknights.com/Plan_of_Attack)).
 
-With this we can establish, based specifically on the descriptions, that a significant portion of Cradle has remained as-is - to be made of rock, - whose caverns were repurposed for, potentially, higher secrecy facilities.
+With this we can establish, based specifically on the descriptions, that a significant portion of Cradle's mass had remained potentially undisturbed, made of rock, whose caverns were repurposed for research facilities.
 
 ##### Camp Crimson
 
-Depth of [Camp Crimson](https://wiki.spiralknights.com/The_Collector/Camp_Crimson) is one of 2 known facilities of a distinct design. While Camp Crimson is not seen from the outside, the other location, - complex 357, - was.
+Depth of [Camp Crimson](https://wiki.spiralknights.com/The_Collector/Camp_Crimson) is one of 2 known facilities of a distinct design. While Camp Crimson is not seen from the outside, the other location, complex 357, was observed from its entrance.
 
-The camp within a proximity of an entrance, contains what seems to be rail tracks for the transportation vessels, resembling _armored trains_. Those vessels are armed with an artillery canons on the their roofs and contain barred cells within the hull. The entrance to the facility is characterized by a few bridging railroads through the gates into the proper facility.
+The camp within a proximity of an entrance contains what seems to be _rail tracks for the transportation vessels_ resembling __armored trains__. Those vessels are armed with an artillery canons on the their roofs and contain _rows of barred cells within the hull_. The entrance to the facility is characterized by a few _bridging railroads through the gates into the facility proper_.
 
-The same cells are observed all across the camp, with a few placed within the metal scaffolding-like structures above and below the depth of a camp. The rails are also found leading up and into the fortified perimeter of [Grand Arsenal](https://wiki.spiralknights.com/Grand_Arsenal), and seen multiple times within it, spanning across the facility.
+The same cells are observed all across the camp, with a few placed within the metal scaffolding-like structures above and below the depth of a camp.
 
-Entirety of the camp's site is structured as a highly secured location, with search lights, armored watchtowers, and barbed wire. Apart from those, a peculiar element of metal pillars is seen across the camp, explicitly noticeable near the exit elevator, with several metal pillars extending upwards with widespread usage of Crimson Order insignia. All of those designs are present both across Camp Crimson and later discussed complex 357.
+Similar rails are also found leading up and into the fortified perimeter of [Grand Arsenal](https://wiki.spiralknights.com/Grand_Arsenal) and seen multiple times within it -- spanning across the facility.
 
-It is unknown weather camps as such had operated solely as prisons, or were of worse purpose. Yet, as knights had arrived relatively recently, we can suggest that those structures were built within the context of clan and Crimson Order members' inner conflicts.
+Entirety of the camp's site is structured as a highly secured location, with search lights, armored watchtowers, and barbed wire. Apart from those, a peculiar element of metal pillars is seen across the camp, explicitly noticeable near the exit elevator, with several metal lattice pillars extending upwards with widespread usage of Crimson Order insignia. All of those designs are present both across Camp Crimson and later discussed complex 357.
 
-Then there are events of [Great Escape](https://wiki.spiralknights.com/The_Great_Escape): `Recon Knights have collected intel that has revealed the gremlin 'Crimson Order' has begun ordering gremlins to build makeshift prisons within the Clockworks where Spiral Knights are being taken and imprisoned. It is believed that these orders are coming in direct response to your destruction of the Roarmulus Twins. Further data suggests that these makeshift prisons are a temporary solution until a larger facility can be built. Spiral HQ however has no intention of these imprisoned knights staying long enough to find out`. The fact that this solution is suggested to be a temporary one, we can make a guess, that the earlier question regarding the purpose of Camp Crimson as a facility not restricted to an imprisonment, is probable.
+It is unknown weather camps as such had operated solely as prisons, _or were designed for a worse purpose_. Yet, as knights had arrived relatively recently, we can suggest that those structures were built within the context of clan and Crimson Order policy of _severely punishing lack of perceived loyalty_.
+
+Then there are events of [Great Escape](https://wiki.spiralknights.com/The_Great_Escape): `Recon Knights have collected intel that has revealed the gremlin 'Crimson Order' has begun ordering gremlins to build makeshift prisons within the Clockworks where Spiral Knights are being taken and imprisoned. It is believed that these orders are coming in direct response to your destruction of the Roarmulus Twins. Further data suggests that these makeshift prisons are a temporary solution until a larger facility can be built. Spiral HQ however has no intention of these imprisoned knights staying long enough to find out`. The fact that this solution is suggested to be a temporary one, we can guess that the earlier question regarding the purpose of Camp Crimson as a facility not restricted to an imprisonment, remains probable.
 
 ##### Complex 357
 
 Found at the end of [Crimson Chaos](https://wiki.spiralknights.com/Crimson_Chaos), [Complex 357](https://wiki.spiralknights.com/Crimson_Chaos/Complex_357) is a highly guarded facility, and the only one across rank missions, whose surface entrance is explicitly presented.
 
-While located within a gremlin compound within a skydome, the main building of the facility - its entrance specifically, - is very distinct by its design, most reminiscent of an _imperial style_:
+While located within a gremlin compound within a skydome, the main building of the facility, its entrance specifically, is very distinct by its design, most reminiscent of an _imperial style_:
 
 - Its inner yard has a wide inclined ascent to the entrance.
 - To the sides of the main road, patches of grass with trees, gun puppy statues, as ones found across the grounds of tortomega civilization are found.
 - Largest to date amount of battlepods at the entrance is found. Contrasting to Grand Arsenal, those seem to serve as a defense measure of the facility.
 - Crimson Order tapestry is seen on the armored front of the facility.
 
-The gate icon of the inner facility, - the underground complex itself labeled 357, - is of the same image of a rocket utilized to mark depths, identified as the Ironclaw Munitions Factory. Weather this complex is a research or a production facility is unknown.
+The gate icon of the inner facility, the underground complex itself labeled 357, is of the same image of a rocket utilized to mark elevator depths, identified as the Ironclaw Munitions Factory. Weather this complex is a research or a production facility is unknown.
 
-##### Herex's Infiltration of Complex 357
+##### Complex 357: Herex's Infiltration
 
-The contents of the facility - __the schematics__, - were crucial enough for Herex to infiltrate it prior to his actions regarding Crimson Order and intent to descend into the Core, as suggested by the recon module: `Infiltrate the Complex. Take all schematics. The Nine are quite but we will silence them. The Knights persue but we will halt them. Only Herex comprehends the Truth. Only Herex will descend. There can be no other` ([Crimson Chaos - Complex 357 - Recon Module: Herex](https://wiki.spiralknights.com/Complex_357)). At that point we do not know the _purpose of those schematics nor their contents_.
+The contents of the facility -- __the schematics__, -- were crucial enough for Herex to infiltrate it prior to his actions regarding Crimson Order and intent to descend into the Core, as suggested by the recon module: `Infiltrate the Complex. Take all schematics. The Nine are quite but we will silence them. The Knights persue but we will halt them. Only Herex comprehends the Truth. Only Herex will descend. There can be no other` ([Crimson Chaos - Complex 357 - Recon Module: Herex](https://wiki.spiralknights.com/Complex_357)). At that point we do not know the _purpose of those schematics nor their contents_.
 
-The facility itself contains only poison-themed constructs, alluding to Herex's poison motif. We believe, it is a no less important matter of discussion, weather the facility belongs to Herex. There are a few issues with identification of those constructs.
+The facility itself contains only poison-themed constructs, alluding to Herex's poison motif. We believe, it is a no less important matter of discussion, whether the facility belongs to Herex. There are a few issues with identification of those constructs.
 
 To start off, it is due to the fact Spiral Order was monitoring the facility prior to it going silent.
 
-The complex is described in the [Crimson Chaos](https://wiki.spiralknights.com/Crimson_Chaos) as follows: `Spiral HQ has been monitoring several known Crimson Order bases in hopes of intercepting one of their elusive high-ranking members. Recon knights assigned to watch one of those bases report that it has suddenly gone silent and have requested backup before investigating it further`. Then, a recon soldier bear the entrance elevator to the complex 357 reports: `We've been monitoring the base for weeks then it went silent. Quite suddenly. We're not sure what you're going to find down there. Our sensors show no active life forms`.
+The complex is described in the [Crimson Chaos](https://wiki.spiralknights.com/Crimson_Chaos) as follows: `Spiral HQ has been monitoring several known Crimson Order bases in hopes of intercepting one of their elusive high-ranking members. Recon knights assigned to watch one of those bases report that it has suddenly gone silent and have requested backup before investigating it further`. Then, a recon soldier near the entrance elevator to the complex 357 reports: `We've been monitoring the base for weeks then it went silent. Quite suddenly. We're not sure what you're going to find down there. Our sensors show no active life forms`.
 
-This suggests, that the events, identified as Herex's infiltration, had to transpire without any evidence of those happening at least on the surface of the facility. There are damaged battlepods, but we don't have enough information to suggest, that those were a result of an infiltration, although we believe it is likely, given general state of the facility.
+The events of Herex's infiltration had to transpire without any evidence of it happening at least on the surface of the facility. There are damaged battlepods, but we don't have enough information to suggest, that those were a result of an infiltration, although we believe it is likely, given severely damaged state of the facility, reminiscent of the sabotage of Grand Arsenal canons.
 
-While a speculation, the fact that 2 Ghostmane Stalkers are found at the end of the complex may imply, that the technology Spiral Order uses to detect lifeforms, does not work on camouflaged Stalkers.
+While a speculation, the fact that 2 Ghostmane Stalkers are found at the end of the complex may imply, that the _technology Spiral Order uses to detect lifeforms does not work on camouflaged Stalkers_.
 
-###### Haven Lab Infiltration
+###### Infiltration of Haven Laboratory
 
-But, there is another instance of Spiral Order detecting significant gremlin activity - during the events of A New Threat and the Collector:
+But, there is another instance of Spiral Order detecting significant gremlin activity -- during the events of [A New Threat]() and [The Collector]():
 
 - `And speaking of gremlins, we're starting to get an alarming number of reports of gremlins mobilizing in the Clockworks below Haven. We don't have too many details yet, but given the relations we've had with them so far, our guess is they're preparing for an attack` ([A New Threat - Kora](https://wiki.spiralknights.com/A_New_Threat/Lobby)).
 - `One moment everything was fine and the next thing we know gremlins are bursting out of the ground` ([Morlin](https://wiki.spiralknights.com/A_New_Threat/Lobby)).
 - `They burst out of the ground all around us...` ([The Collector - Camp Crimson - Nameless knight right of the Veteran Knight](https://wiki.spiralknights.com/The_Collector/Camp_Crimson)).
 
-This, we believe, establishes a notion, - that of __gremlins' strategy of infiltrating enemy facilities by traversing Clockwork Tunnels below__. As the events of the attack on the Laboratory, Herex is familiar with such approach.
+This, we propose, establishes __gremlins' strategy of infiltrating enemy facilities by traversing Clockwork tunnels below__. As the events of the attack on the Laboratory, Herex is familiar with such approach.
 
 As Spiral Order hadn't discovered any sudden activity, it may be interpreted in 2 ways:
 
 - The facility had already contained poison-themes constructs.
-- While the facility was monitored, the infiltration had taken place with poison-themed constructs being remnants of the infiltration, being outsiders to the facility.
+- While the facility was monitored, the infiltration had taken place with poison-themed constructs being remaining, left behind forces of the infiltration by Herex.
 
-Given sudden decline in facility's activity, we can only image how it had happened only based on the events of [A New Threat](https://wiki.spiralknights.com/A_New_Threat) mission. [A New Threat](https://wiki.spiralknights.com/A_New_Threat) is the only direct instance of Herex's plan being witnessed prior to Swarm's explicit involvement - of an sudden assault performed through underlying Clockwork tunnels of Haven Lab.
+Given sudden decline in facility's activity, we can image how it had happened only based on the events of [A New Threat](https://wiki.spiralknights.com/A_New_Threat) mission. [A New Threat](https://wiki.spiralknights.com/A_New_Threat) is the only direct instance of Herex's plan being witnessed first-hand -- as a sudden assault performed through underlying Clockwork tunnels below Haven Laboratory.
 
-If we attempt to extrapolate this strategy onto the complex, we can resolve the issue of a transportation of a squad of constructs into the facility under the logic of those belonging to Herex. But, compared to the New Threat, in Crimson Chaos we find constructs rather than living gremlins. And, small army of constructs is found in the Shadowplay's version of Firestorm Citadel, wherein those constructs had to be transported across the same route the knight would take, as more gremlin technology is found in the northern part of the Court.
+If we attempt to extrapolate this strategy onto the complex, we can resolve the issue of a transportation of a squad of constructs into the facility under the logic of those belonging to Herex similar to this army's presence during Shadowplay.
+
+But, compared to the New Threat, in Crimson Chaos we find constructs rather than living gremlins. And, small army of constructs is found in the Shadowplay's version of Firestorm Citadel, wherein those constructs had to be transported across the same route the knight would take, as more gremlin technology is found in the northern part of the Court.
 
 So far it seems that constructs belong to Herex, based on other his appearances and themes.
 
-###### Inner Fold of Compound 42
+###### "Inner Fold" of Compound 42
 
-It is also here we may identify gremlins accompanying Herex in Shadowplay. Herex is seen to hide his true motivations: `All traces of Compound 42 should be eliminated, along with the facility and any engineers not part of the inner fold. Remind the scorchers who find these orders uncomfortable that those who disobey shall soon hear my whisper in their ears. Seal the doors and burn everything to the ground` ([Compound 42 - Containment - Secret Memo: Herex](https://wiki.spiralknights.com/Containment)).
+It is also here we may identify gremlins which accompanying Herex at the end of Shadowplay. Herex is seen to hide his true motivations againt Crismon Order, `All traces of Compound 42 should be eliminated, along with the facility and any engineers not part of the inner fold. Remind the scorchers who find these orders uncomfortable that those who disobey shall soon hear my whisper in their ears. Seal the doors and burn everything to the ground` ([Compound 42 - Containment - Secret Memo: Herex](https://wiki.spiralknights.com/Containment)).
 
-Inner fold gremlins, given group's name, seem to be relatively trusted members close to Herex. Those would be likely loyal to Herex and his plans regarding Cradle and the Core. Given this reasoning, we propose, that are the [same gremlins found in the Throne Room of Shadowplay](https://wiki.spiralknights.com/Shadowplay/Throne_Room).
+Inner fold gremlins, given group's name, seem to be relatively trusted members close to Herex. Those would be loyal to Herex and his plans regarding Cradle and the Core. Given this reasoning, we propose, that are the [same gremlins found in the Throne Room of Shadowplay](https://wiki.spiralknights.com/Shadowplay/Throne_Room).
 
 ###### Iron Assassins and Ghostmane Stalkers
 
-The other instance of Herex's strategizing may be seen in the events of Operation Crimson Hammer, wherein Seerus explicitly suggests Spiral Order being under the command of Herex: `Who sent you infernal, iron assassins? Was it Herex? It matters not.` ([Operation Crimson Hammer - Engines of War - Seerus]())
+The other instance of Herex's strategizing may be seen in the events of Operation Crimson Hammer, wherein Seerus explicitly mistakens kingight of Spiral Order for Herex's people, `Who sent you infernal, iron assassins? Was it Herex? It matters not.` ([Operation Crimson Hammer - Engines of War - Seerus]())
 
-While Seerus also has under his command gremlin stalkers, the Knights being referred as assassins may hint at Ghostmane Stalkers being primary unit through which Herex executes his undercover operations.
+While Seerus also has under his command gremlin stalkers, the knights referred here as the assassins may hint at Ghostmane Stalkers being primary unit through which Herex executes his undercover operations, such case being infiltration of complex357, or utilizing more direct force as during the atack on the Haven Laboratory.
 
-More so, earlier mention of `Remind the scorchers who find these orders uncomfortable that those who disobey shall soon hear my whisper in their ears. Seal the doors and burn everything to the ground` ([Compound 42 - Containment - Secret Memo: Herex](https://wiki.spiralknights.com/Containment)) may also hint, that it is not him directly hunting for individuals which might have seemed so given his true opposition to Crimson Order, but rather those are Stalkers which operate on his behalf.
-
-Presence of Ghostmane Stalkers in the complex seems us as further proof of those being Herex's primary force in undercover operations.
+More so, earlier mention of `Remind the scorchers who find these orders uncomfortable that those who disobey shall soon hear my whisper in their ears. Seal the doors and burn everything to the ground` ([Compound 42 - Containment - Secret Memo: Herex](https://wiki.spiralknights.com/Containment)) may also hint, that it is not him directly hunting for individuals which might have seemed so given his true opposition to Crimson Order, but rather those are the _Stalkers which operate on his behalf_.
 
 ###### Development of Herex's Scheme
 
-Given events of Operation Crimson Hammer, we may assume, that by the time of that mission Crimson Order or at least Seerus is already aware of Herex's plans as ones opposing Crimson Order, which is drastically opposite to initial preparation prior to retrieval of the Artifact in [The Ancient Generator](https://wiki.spiralknights.com/The_Ancient_Generator): `Schemer Razwog: Work away from the others. The Order must never know we have the artifact. Find a way to power it. Bring it to me. Do not betray me. I will know` ([Crossing the Chasm - The Journey to Haven - Recon Module: Herex](https://wiki.spiralknights.com/Crossing_the_Chasm/The_Journey_to_Haven)).
+Given events of Operation Crimson Hammer, we may assume, that by the time of that mission Crimson Order or at least Seerus is already aware of Herex's plans as ones opposed to Crimson Order which is drastically more evident compared to the initial preparations during Artifact retrieval before [The Ancient Generator](https://wiki.spiralknights.com/The_Ancient_Generator): `Schemer Razwog: Work away from the others. The Order must never know we have the artifact. Find a way to power it. Bring it to me. Do not betray me. I will know` ([Crossing the Chasm - The Journey to Haven - Recon Module: Herex](https://wiki.spiralknights.com/Crossing_the_Chasm/The_Journey_to_Haven)).
 
-Entirety of Crimson Order facility - complex 357, - was slaughtered, seem to be a change Herex's strategy to more direct confrontation with Crimson Order, as also suggested by the recon module: `The Nine are quite but we will silence them. The Knights persue but we will halt them. Only Herex comprehends the Truth. Only Herex will descend. There can be no other` ([Crimson Chaos - Complex 357 - Recon Module: Herex](https://wiki.spiralknights.com/Complex_357)).
+Entirety of Crimson Order facility complex 357 was slaughtered. This event may be seen as a point of shift in herex's strategy to one of a direct confrontation with Crimson Order, as suggested by his recon module, identified by the danger room symbol, `The Nine are quite but we will silence them. The Knights persue but we will halt them. Only Herex comprehends the Truth. Only Herex will descend. There can be no other` ([Crimson Chaos - Complex 357 - Recon Module: Herex](https://wiki.spiralknights.com/Complex_357)).
 
-This narrative seem to also fit with Spiral Order, as it seem to arrive near earlier beginnings of Herex's execution of his plan. And, due to this parity, both Herex and Spiral Order in relation to Grand Arsenal from Seerus's perspective would seem to fit into the narrative of a direct armed confrontation.
+This narrative seem to also fit with Spiral Order, as it seem to arrive near earlier beginnings of Herex's execution of his plan. And, due to this parity, both Herex and Spiral Order in relation to Grand Arsenal from Seerus's perspective would seem to fit into the _narrative of a direct, large-scale, armed confrontation_.
 
 ###### Ownership and Contents of Complex 357
 
 With aforementioned notions considered, we must analyze the state of the complex itself. The complex lacks any visual signs of being Crimson Order facility apart from a few monitors depicting its insignia. This is important in terms of consistency, as other signs affirming facility's ownership tend to exist.
 
-We have previously seen Herex's compound 42 and Crimson Order hideout containing _Crimson Order insignia of green hue_, specifically, the [final arena of Containment of Compound 42](https://wiki.spiralknights.com/Compound_42/Containment), and [Hidden Hideout of Spark and Roar](https://wiki.spiralknights.com/Hidden_Hideout). As such design pattern in absent in complex 357, we may assume that _complex 357 does not belong to Herex_.
+We have previously seen Herex's compound 42 and Crimson Order hideout containing _Crimson Order insignia of green hue_, specifically, the [final arena of Containment of Compound 42](https://wiki.spiralknights.com/Compound_42/Containment), and [Hidden Hideout of Spark and Roar](https://wiki.spiralknights.com/Hidden_Hideout). As such design pattern in absent in complex 357, we may assume that __complex 357 does not belong to Herex__.
 
 Yet, this approach does not expand on presence of constructs:
 
-- While mobile constructs - such as elite mecha-knights could be explained through the logic of them arriving from the tunnels, gun puppies are usually seen to emerge from the floors through hatches.
-- Gun puppies are found at the main entrance road after the side bridge of the underground facility's elevator, and 2 more are found at respawn pads _behind the sandbag barricade guarding the gates of innermost facility_.
+- While mobile constructs, such as elite mecha-knights could be explained through the logic of them arriving from the tunnels, gun puppies are usually seen to emerge from the floors through hatches.
 
-    During Shadowplay, [Sick Puppies](https://wiki.spiralknights.com/Sick_Puppy#Sick_Puppy) are also present, which may hint at their mobility, but would not explain aforementioned placement as defensive one.
+  Gun puppies are found at the main entrance road after the side bridge of the underground facility's elevator, and 2 more are found at respawn pads _behind the sandbag barricade guarding the gates of innermost facility_.
 
-- There are 2 elite [poison knight](https://wiki.spiralknights.com/Poison_Knight#Poison_Knight) respawn pads by the sides of central battlepod in the final arena of the complex.
+  During Shadowplay, [Sick Puppies](https://wiki.spiralknights.com/Sick_Puppy#Sick_Puppy) are also present, which may hint at their mobility, but would not explain aforementioned placement as defensive one.
 
-    We will return to this pattern in the context of Ironclaw Munitions factory, but here it is notable to establish a patten of a battlepod surrounded by respawn pads of elite constructs. By that we refer to [production center](https://wiki.spiralknights.com/Production_Center) of [Toy Soldiers](https://wiki.spiralknights.com/Toy_Soldiers) mission. But, compared to production center, given a path to an elevator and potential location of schematics behind the battlepod, it is unlikely that it serves as a primary operational element of the facility, but rather its inner yard.
+- There are 2 elite [poison knight](https://wiki.spiralknights.com/Poison_Knight#Poison_Knight) respawn pads by the sides of central battlepod in the final arena and, seemingly, a courtyard of the complex.
 
-The central entrance of 9 tiles width to the first gatehouse surrounded by 2 armored watchtowers and accompanied by metal pillars on the sides, is severely damaged. The part of the bridge is blown off, and the part leading up the the gates has signs of bombardment or other force to be able to cause elongated gaps. This degree of damage could not be done by sole actions of Herex, if he was present, and Stalkers. But, it can be achieved, if we consider that both Mortafires and Demos are present during Shadowplay - as those are ones present in Deconstruction Zones, which, by design, are in a process of deconstruction. Considering the potential of [Mortafires' heavy infantry rockets](https://wiki.spiralknights.com/Mortafire) and [Demos' explosives](https://wiki.spiralknights.com/Demo), this seems as a plausible explanation.
+  We will return to this pattern in the context of Ironclaw Munitions factory, but here it is notable to establish a patten of a battlepod surrounded by respawn pads of elite constructs. By that we refer to [production center](https://wiki.spiralknights.com/Production_Center) of [Toy Soldiers](https://wiki.spiralknights.com/Toy_Soldiers) mission. But, compared to production center, given a path to an elevator and potential location of schematics behind the battlepod, it is unlikely that it serves as a primary operational element of the facility, but rather its inner yard.
 
-Throughout entirety of the facility there are many instances of fortifications from concrete blocks to barbed wire and anti-tank hedgehogs. Without demolishing those it'll be impossible to proceed deeper into the facility. Near the entrance to the courtyard, protected by 2 gates, several corpses are found.
+The central entrance of 9 tiles width to the first gatehouse surrounded by 2 armored watchtowers and accompanied by metal pillars on the sides, is severely damaged.
 
-Then, the facility is also filled with mineral rocks, which also hinder the movement deeper into the complex. Based on their different coloration, most distinctly seen on the eastern side of the complex, the _rocks are most likely made of the same minerals, as Moonstone, Dark Matter, Valestone, etc._ The Knight is required to clear those up in order to reach the end of the facility - we will keep this in mind.
+The south end of the bridge is blown off, and the part leading up the the gates has signs of bombardment or even gaps across the lengths of the brindge, which evoke imagery of Roarmulus Twins' laser canons. This degree of damage could not be done by sole actions of Herex, if he was present, and Stalkers. But, it can be achieved, if we consider that both Mortafires and Demos are present during Shadowplay -- as those are ones present in Deconstruction Zones which, by design, are in a process of deconstruction. Considering the potential of [Mortafires' heavy infantry rockets](https://wiki.spiralknights.com/Mortafire) and [Demos' explosives](https://wiki.spiralknights.com/Demo), this seems as a plausible explanation.
+
+Throughout entirety of the facility there are many instances of fortifications from concrete blocks to barbed wire and anti-tank hedgehogs. Without demolishing those it'll be impossible to proceed deeper into the facility. Near the entrance to the courtyard, protected by 2 gates, several gremlin corpses are found.
+
+Then, the facility is also filled with mineral rocks, which also hinder the movement deeper into the complex. Based on their different coloration, most distinctly seen on the eastern side of the complex, the _rocks are most likely made of the same minerals, as Moonstone, Dark Matter, Valestone, etc._ The knight is required to clear those up in order to reach the northern end of the facility and the elevator.
 
 ###### Locations of The Schematics
 
@@ -7332,92 +7341,95 @@ Those seem to us to be _the exact locations containing the schematics_:
 - East of the front gates there is a room with a gold key, secured by 5 gates, activated by buttons, hidden among minerals. The room has a single [gun block](https://wiki.spiralknights.com/File:Exploration-Gun_Block.png) and a target, with 1 gremlin corpse and multiple torn pages on the floor, 2 clips, and multiple monitors depicting static.
 - West of the front gates a room contains 2 cisterns, purple and green tubes of gel, monitors, a few smaller vials, 1 clip and a gremlin corpse with a few torn pages on the floor surrounding it.
 
-    Notably, west of the entrance to the room a pool of gel and valestone is seen pumped out of a small pipe - [a specific design patten we will later identify as one of grinded minerals]().
+    Notably, west of the entrance to the room a pool of gel and valestone is seen pumped out of a small pipe -- [a specific design patten we will later identify as one of grinded minerals]().
 
     Norse of the most-west section with rocket blocks, a single tube of green liquid is located and few luminite minerals are found below it among a pair of 2 gears.
+
 - The final room is located north of the complex, beyond the battlepod. There are also torn pages, several monitors, 2 clips, monitors with static, and, notably, several large books: as one is opened at the table, a tome, and what is supposedly a bookshelf, with a single gremlin corpse nearby.
 
-Judging by that, it seems that the infiltration was sudden
+Judging by those rooms' interior the infiltration was likely sudden.
 
-Given all of those properties within the complex, from its gate icon to contents and context, we propose _Complex 357 being a multi-purposed research facility_ belonging to a different member of Crimson Order, which had utilized poison-themed constructs in its defenses.
+Given all of those properties within the complex, from its gate icon to contents and context, we propose _Complex 357 being a multi-purposed research facility_ belonging to a different member of Crimson Order.
 
 But, we still do not know the contents of those schematics nor their purpose. We will return to those ones we cover the majority of the facilities on Cradle.
 
-##### Cradle Defenses
+##### Cradle Defenses: Shadow Damage Warfare
 
-Cradle weapons are encountered directly during intro cinematic, as were used on Skylark as well as potentially mentioned by Parma in the Refuge: `Once, the gremlins were in charge of maintaining Cradle's defenses. But they had their own plans` ([Dreams and Nightmares - Refuge - Parma's Scout](https://wiki.spiralknights.com/Refuge)).
+Cradle weapons are observed directly during the intro cinematic, as they were used to strike down Skylark. They were potentially mentioned by Parma in the Refuge, `Once, the gremlins were in charge of maintaining Cradle's defenses. But they had their own plans` ([Dreams and Nightmares - Refuge - Parma's Scout](https://wiki.spiralknights.com/Refuge)).
 
-Judging by the footage, the beams had originated from the exposed Clockworks' segments from 3 sources. The beams themselves are most reminiscent of lasers utilized by the battlepods of Grand Arsenal and Big Iron, as well as incorporated into Roarmulus Twins. A key difference here is the fact _those lasers are purple_. It can be explained by an application of shadow damage, which seems as both most plausible and single explanation.
+Judging by the footage, the beams had originated from the exposed Clockworks' segments from 3 sources. The beams themselves are most reminiscent of _lasers_ utilized by the battlepods of Grand Arsenal and Big Iron, as well as incorporated into the Roarmulus Twins. A key difference here is the fact __those lasers are pink__. This color can be explained by an application of shadow damage which we present as our single explanation.
 
-Usage of shadow damage is not novel for gremlins, as they did utilize it, although in lesser amounts, _mostly attributed to the members of Crimson Order_, such as Seerus and his devices bombs - [Dark Retribution](https://wiki.spiralknights.com/Dark_Retribution) alchemy tree: `The perfected version of the shadowy bomb that Warmaster Seerus engineered with the sole purpose of eliminating other gremlins that stood in his way. It is thought to have been reserved for use against other members of the Crimson Order` ([Dark Retribution](https://wiki.spiralknights.com/Dark_Retribution)). So the usage of it for the planetary defenses seems as likely explanation, considering that shadow damage is known to be dangerous both to gremlins and lichens.
+Usage of shadow damage is not novel for gremlins, as they did utilize it, although in lesser amounts, _mostly attributed to the members of Crimson Order_, such as Seerus and his devices bombs, [Dark Retribution](https://wiki.spiralknights.com/Dark_Retribution) alchemy tree, `The perfected version of the shadowy bomb that Warmaster Seerus engineered with the sole purpose of eliminating other gremlins that stood in his way. It is thought to have been reserved for use against other members of the Crimson Order` ([Dark Retribution](https://wiki.spiralknights.com/Dark_Retribution)). The usage of it for the planetary defenses seems as likely explanation, considering that shadow damage is known to be dangerous both to gremlins and lichens -- _species native to the material realm_.
 
-##### The Collector
+##### The Collector and Evil Eye
 
-The Collector is described as follows: `There have been reports of a large, mechanical entity we have named the 'Collector' who has been intercepting our knights and taking both them and the sprites they were tracking and imprisoning them in a well-guarded compound deep within the Clockworks. Armed with your new sprite, your mission is to find this 'Collector' and rescue the knights and the sprites it has taken captive` ([The Collector](https://wiki.spiralknights.com/The_Collector)).
+The Collector is described as follows, `There have been reports of a large, mechanical entity we have named the 'Collector' who has been intercepting our knights and taking both them and the sprites they were tracking and imprisoning them in a well-guarded compound deep within the Clockworks. Armed with your new sprite, your mission is to find this 'Collector' and rescue the knights and the sprites it has taken captive` ([The Collector](https://wiki.spiralknights.com/The_Collector)).
 
-Based on the analysis of Camp Crimson we came to conclusion, that the camp itself was established prior to arrival of Spiral Order, and, due to ability to capture Knights and Sprites by the Collector, we propose that its previous function was to capture gremlins at least.
+Based on the analysis of Camp Crimson we came to conclusion, that the camp itself was established prior to arrival of Spiral Order, and, due to ability to capture Knights and battle sprites by the Collector, we have [proposed]() that its primary function was to capture gremlins.
 
 Apart from this, it is likely that it had also served as an elite unit across constructs such as mecha knights by the fact of having similar design of wrenches in place of limbs and great offensive capabilities.
 
-One of greater importance elements of its arsenal is the large charged explosion. This is the key element to a larger motif which will be then analyzed across gremlin technology. The explosion in both instances of the Collector - within the camp and at the [Overworks](https://wiki.spiralknights.com/Breaking_in_the_Recruits/The_Overworks), - deals split shadow and normal damage, its only shadow damaging attack - _uncharacteristic of any other construct_. Moreover, the __explosion has an antique evil eye__ to appear, the same _observed across Electron and Graviton bombs design_. Considering this, a white painted evil eye of the same antique design with the Collector's eye meant to be an iris seems as an intentional design choice, which also points to its explosive shadow damage attack.
+One of greater importance elements of its arsenal is the large charged explosion. This is the key element to a larger motif which will be then analyzed across gremlin technology. The explosion in both instances of the Collector, at the camp and at the [Overworks](https://wiki.spiralknights.com/Breaking_in_the_Recruits/The_Overworks), deals split shadow and normal damage. It is the only shadow damage attack, __uncharacteristic of any other construct__. Moreover, the __explosion has an antique evil eye__ to appear, the same _observed across Electron and Graviton bombs design_. Considering this, a _white painted evil eye of the same antique design with the Collector's eye meant to be an iris_ seems as an intentional design choice which points to its explosive shadow damage attack. The functional purpose of the iris of the evile eye is also found in the [ghost blocks]() which we will cover separate from gremlin technology.
 
-Apart from it, a different relation to curse arises here.
+A different relation to curse arises here.
 
-Lord Vanaduke, when he has no mask, has red and orange arcs of lightning around him. Those lightnings are the same as the collector. Moreover, Arkus also in his later stages of the fight has lightning arcs present in the same pattern, although of purple color, same as Darkfire Lord Vanaduke unmasked.
+Lord Vanaduke, when he has no mask, __has red and orange arcs of lightning around him__. Those lightnings are __the same as the Collector__. Moreover, Arkus also in his later stages of the fight has lightning arcs present in the same pattern, although of purple color, same as Darkfire Lord Vanaduke unmasked.
 
 We suggest that this is a design pattern. If it would not be for the evil eye, this would not be a reason for an analysis of the latter. But, as the theme of curse in its different forms is consistent here, we propose that it serves as an argument for the _Collector being constructed utilizing far more advanced technology_, involving Underworld and application of shadow damage through the common pattern of an eye.
 
-We were to develop this idea further, of Collector being an elite construct unit, application of shadow damage may be specifically devised to target other gremlins on a larger scale of entire battlefield, reminiscent of [Seerus's Dark Retribution](https://wiki.spiralknights.com/Dark_Retribution). This does not exactly mean, that the Collector was designed by Seerus, as there are other 7 members of Crimson Order left unknown, but it is a pattern nonetheless.
+We were to develop this idea further, of Collector being an elite construct unit, application of shadow damage may be specifically devised to target other gremlins on a larger scale of entire battlefield, reminiscent of [Seerus's Dark Retribution](https://wiki.spiralknights.com/Dark_Retribution). This does not exactly mean, that the Collector was designed by Seerus, as there are other 7 members of Crimson Order left unknown, but it is a pattern nonetheless applicable to gremlins as species vulnerable to shadow damage.
 
-The COllector possess a system on the back which seems to contain a storage of bombs. While this function does not reveal much, the symbol on the backpack tells much more - it is an inverted emblem found on the [ghost blocks](https://wiki.spiralknights.com/Ghost_Block#Ghost_Block), which requires us to study the latter as we cover Clockworks themselves.
+The Collector possess a system on the back which seems to contain a storage of bombs. While this function does not reveal much, the symbol on the backpack tells much more - it is an inverted emblem found on the [ghost blocks](https://wiki.spiralknights.com/Ghost_Block#Ghost_Block) which requires us to study the latter as we cover Clockworks themselves.
 
 ##### Electron Vortex
 
-Electron vortex is an elemental counterpart of the Graviton bomb, but both have the same animation and presence of an antique evil eye of the same shape as the Collector. The case of the Collector - due to its explosion's design, we propose, is of the same nature as more likely electron bomb and less likely graviton bomb, yet, tapping into the powers of curse and Underworld.
+Electron vortex is an elemental counterpart of the Graviton bomb, but both possess the same animation and presence of an antique evil eye of the same shape as Collector's shadow explosion. The case of the Collector, due to its explosion's design, we propose, is of the same nature as electron bomb or graviton bomb, yet, tapping into the powers of Underworld and shadow damage.
 
-But, due to descriptions of those bombs we believe they were invented in different period of time:
+Due to descriptions of those bombs we suggest they were invented in different period of time:
 
 - `A small explosive charge with mysterious origins. It is capable of generating a vortex of crushing gravity` ([Graviton Charge](https://wiki.spiralknights.com/Graviton_Charge)).
 - `A Graviton Bomb fortified with potentially dangerous amounts of shadow steel. Its blast should draw your foes toward it... if it doesn't rip the entire universe in two, that is` ([Graviton Vortex](https://wiki.spiralknights.com/Graviton_Vortex)).
 - `A small electro-explosive charge with mysterious origins. It is capable of generating a crippling vortex of electricity` ([Electron Charge](https://wiki.spiralknights.com/Electron_Charge)).
 - `Adapted from several unconventional Gremlin theories on physics, anyone unlucky enough to be dragged into this bomb's blast is in for a shock` ([Electron Bomb](https://wiki.spiralknights.com/Electron_Bomb)).
-- `An Electron Bomb modified with a payload of unstable organic essence. Foes caught in its punishing radius are cruelly referred to as "thunderstuck"` ([Electron Vortex](https://wiki.spiralknights.com/Electron_Vortex)). As it is stated to be `modified with a payload of unstable organic essence`, and by the fact of being a 5-star equipment, it has 1 additional material to its recipe - [Storm Chaser](https://wiki.spiralknights.com/Storm_Chaser): `A rare elemental found hovering in storm clouds. Their electric hum creates an almost melodic choir that can be faintly heard between thunderclaps`, which seems to us as direct confirmation of the elemental being used in the transmutation process.
+- `An Electron Bomb modified with a payload of unstable organic essence. Foes caught in its punishing radius are cruelly referred to as "thunderstuck"` ([Electron Vortex](https://wiki.spiralknights.com/Electron_Vortex)). As it is stated to be `modified with a payload of unstable organic essence`, and by the fact of being a 5-star equipment, it has 1 additional material to its recipe, [Storm Chaser](https://wiki.spiralknights.com/Storm_Chaser), `A rare elemental found hovering in storm clouds. Their electric hum creates an almost melodic choir that can be faintly heard between thunderclaps`, which seems to us as direct confirmation of the elemental being used in the transmutation process.
 
-We propose an explanation. That is gremlins have invented [Electron Vortex](https://wiki.spiralknights.com/Electron_Vortex) based of the [Graviton Bomb](https://wiki.spiralknights.com/Graviton_Bomb) through introduction of their own tech, specifically related to electricity and shock, likely through application of [Storm Chasers](), as it is present in the recipe.
+We propose that gremlins have invented [Electron Vortex](https://wiki.spiralknights.com/Electron_Vortex) based of the [Graviton Bomb](https://wiki.spiralknights.com/Graviton_Bomb) through introduction of their own technology specifically related to electricity and shock likely through application of [Storm Chasers](), as it is present in the recipe.
 
 We will see [later, that entirety of Clockworks at the end operates on instances of more arcane or magic properties of an established setting](), heavily leaning into magitech.
 
-As it is an elemental counterpart to Graviton Bomb, the reason for devilish material - [Forbidden Fruit](https://wiki.spiralknights.com/Forbidden_Fruit) specifically, had to be justified, which here, we suggest, is a common underlying motif. It can be argued that [Forbidden Fruit](https://wiki.spiralknights.com/Forbidden_Fruit) is also used transmute [Twisted Spine Cone](https://wiki.spiralknights.com/Twisted_Spine_Cone), but we have to remember that Snarbolax, whom this item is attributed to, [is related to curse and then Underworld]().
+As it is an elemental counterpart to Graviton Bomb, the reason for devilish material, [Forbidden Fruit](https://wiki.spiralknights.com/Forbidden_Fruit), had to be justified which here, we suggest, is a common underlying motif. It can be argued that [Forbidden Fruit](https://wiki.spiralknights.com/Forbidden_Fruit) is also used transmute [Twisted Spine Cone](https://wiki.spiralknights.com/Twisted_Spine_Cone), but we have to remember that Snarbolax, whom this item is attributed to, [is related to curse and therefore Underworld]().
 
 ##### Gremlin Incinerators
 
-Multiple [Gremlins incinerators](https://wiki.spiralknights.com/Gremlin_Incinerator#Gremlin_Incinerator) are found in the end of compound 42 have a unique design. Not only they are as large as Razwog, their masks seem to suggest a similar inspiration. Those masks differ from regular wielding masks by the fact of being less of a visor and more of an eye. Notably, the plate the red eye is located on, also is capable of moving across the height of helm's surface as it has a slot underneath, similar to Collector's design.
+Multiple [Gremlins incinerators](https://wiki.spiralknights.com/Gremlin_Incinerator#Gremlin_Incinerator) are found in the end of compound 42 have a unique design. Not only they are as large as Razwog, their masks seem to suggest a similar inspiration. Those masks differ from regular wielding masks by the fact of being _less of a visor and more similar of an eye_. Notably, the plate the red eye is located on, also is capable of moving across the height of helm's surface as it has a slot underneath, similar to the Collector and batterbots.
 
-Considering those scorchers are an elite units implied to be under a command of Herex of Crimson Order, we can make an educated guess that the _Collector's design in the context of gremlin elite units is more common than it seems._
+Considering those scorchers are an elite units implied to be under a command of Herex of Crimson Order, we can make an educated guess that the _Collector's design in the context of gremlin elite units is more common than it initially seemed_, but respresentative of a __elite branch of gremlin engineering relying on shadow damage__.
 
 ##### Grand Arsenal
 
 One of a few elements worth mentioning within the Grand Arsenal are the railways extending from the frontiers of of the complex. While no transportation carts were seen across the operation, we can suggest at least 2 uses for them:
 
 - As there are several holding cells within the facility, it can be argued that those were transported across the rails, but, their number is minimal, compared to one of Camp Crimson.
-- A more likely explanation is those railways are designed to deliver ammunition from the complex. Grand Arsenal is the only place apart from Razwog's facility above power complex, wherein [unused rockets are rotated enough](https://wiki.spiralknights.com/File:Exploration-Unused_Rocket.png) for gremlin insignia to be visibly seen, rather than its stripes.
+- A more likely explanation is those railways are designed to deliver ammunition from the facility. Grand Arsenal is the only place apart from Razwog's facility above power complex, wherein [unused rockets are rotated enough](https://wiki.spiralknights.com/File:Exploration-Unused_Rocket.png) for gremlin insignia to be visibly seen, rather than its stripes.
 
-Then there are what seems to be conveyors for missiles found below the Grand Arsenal artillery - 2 lines of missiles extending from the chambers protected with red force fields. Those 2 lines then, passing through a wall of the facility end with vertical launching systems, as evident by both the metal beams and how those rockets react to being damaged - by launching upwards. Since it is essentially a fortified arsenal storage facility, we can gather that it is not the production lines, but only of delivery and transportation.
+Then there are what seem to be conveyors for missiles found below the Grand Arsenal artillery, 2 lines of missiles extending from the chambers protected with red force fields. Those 2 lines then, passing through a wall of the facility end with vertical launching systems, as evident by both the metal beams and how those rockets react to being damaged -- by launching upwards. Since Grand Arsenal is a fortified weapon storage facility, we can conclude that it is not the production lines, but only methods of transportation.
 
 ##### Crimson Throne and Aftermath
 
-The other point of interest is located at the end of Grand Arsenal, in the innermost location only labeled as "Aftermath" during the operation. It is accessed from behind the wall of the main entrance of the Arsenal, wherein the arsenal itself is found, with Crimson Order tapestry hanging above. This part of facility is the only one with visible walls extending above the ground level, resembling lobbies of danger missions.
+The other point of interest is located at the end of Grand Arsenal, in the innermost location only labeled as `Aftermath` during the operation.
 
-The location of Aftermath seems to be the briefing room of the facility or its command center. We suspect such usage by 2 designs:
+It is accessed from behind the wall of the main entrance of the Arsenal, wherein the arsenal itself is found, with Crimson Order tapestry hanging above. This part of facility is the only one with visible walls extending above the ground level, resembling lobbies of danger missions.
+
+The location of Aftermath seems to be the _briefing room of the facility and its command center_. We suspect such application by 2 design choices:
 
 - As due to its unique execution with Crimson Order throne present at its center surrounded by hulls or built inactive Roarmulus Twins.
 - Apart from the throne, there are 3 distinct areas.
 
-    On sides of the throne 6 monitors are present, which seem to contain an important data, as it is encrypted. One of the soldiers accompanying Feron comments on the gremlin cryptography: `It'll take forever to decipher gremlin cryptography` ([Operation Crimson Hammer - Aftermath - knight right of Feron]). We will revisit it later.
+  On sides of the throne 6 monitors are present which seem to contain an important strategic data, as it is encrypted. One of the soldiers accompanying Feron comments on the gremlin cryptography: `It'll take forever to decipher gremlin cryptography` ([Operation Crimson Hammer - Aftermath - knight right of Feron]).
 
-    The other area is located south of the throne, it is the one seen first, it also contains several non-interactive monitors.
+  The other area is located south of the throne, it is the one seen first, it also contains several non-interactive monitors.
 
-By the sides of the throne room, there are 2 lines of storage, containing inactive and damaged Roarmulus Twins and battlepods. Weather those are manufactured within the facility is unknown, but, as suggested by existence of the Ironclaw Munitions Factory, it seems that the latter is responsible for the production, while Arsenal is mostly utilized for storage.
+By the sides of the throne room, there are 2 lines of storage containing inactive and damaged Roarmulus Twins and battlepods. Whether those are manufactured within the facility is unknown, but, as suggested by existence of the Ironclaw Munitions Factory, it seems that the latter is responsible for the production, while Arsenal is mostly utilized for storage.
 
 ##### Ironclaw Munitions Factory
 
@@ -7571,7 +7583,7 @@ As for the Roarmulus Twins, we suggest that at least ironwood was harvested to c
 
 #### Gun Puppies: From Dragons to Red Roarmulus Twins
 
-We have proposed, the tier 1 gun puppies were made of stone, designed and created by descendants of dragons - tortomega, to imitate dragons. Howlitzers became undead drakes. While we have covered tier 1 designs, tier 2 and 3 were not. So far we have only drawn parallels between extreme design of Red Roarmulus Twins to elemental tier 3 gun puppies.
+We have proposed, the tier 1 gun puppies were made of stone, designed and created by descendants of dragons -- tortomega, to imitate dragons. Howlitzers became [undead wyverns](). While we have covered tier 1 designs, tier 2 and 3 gun puppies were not properly discussed in telation to gremlins designs. So far we have only drawn parallels between extreme design of Red Roarmulus Twins to elemental tier 3 gun puppies.
 
 The tier 1 origin's idea was based on the design of tier 1 gun puppies, specifically, their outer shells being made of stone, as well as lacking more complex metal designs of the rest of gremlin constructs, apart from lumbers. We keep in mind, that tier 1 gun puppies were seen with a revealed hull, containing mechanical internals. This structure is reminiscent of tortodrones, whose externals are made of stone, while those are identified as constructs.
 

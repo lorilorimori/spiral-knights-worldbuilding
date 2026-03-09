@@ -22,7 +22,9 @@
 
 - `Apocrean Realm` -> `Apocrean realm` (canon spelling)
 - `Kat tribe` -> `Kat Tribe` (canon spelling)
-- replace `kill` with synonyms
+- replace `kill` with synonyms (dispatched)
+- seemingly/seems -> synonyms
+- Battle Sptrite -> battle sprite
 
 - rebis thery is removed
 
