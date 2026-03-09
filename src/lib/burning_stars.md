@@ -6651,34 +6651,31 @@ Another potential inspiration for eye's design is prominent presence of the part
 As most of instances of curse are connected to Underworld and depictions of the evil eye, those will be noted first:
 
 - For the first time, evil eye is seen as a color pattern on [Greavers' wings](https://wiki.spiralknights.com/Greaver).
-  - Elemental Greavers have the pattern glowing in accordance to their elemental theme and status effect, apart from the curse itself, which as a common motif, not seen explicitly.
-  - Greavers have metal helms with an eye as a visor, which we proposed to be a common design across legions of Underworld, connecting it with the Nefarious Imp.
-- Tortodrones' shell plates have evil eye carved on them, possessing a red glow in enraged state.
-  - Artificially derived [tortodrone shell gear](https://wiki.spiralknights.com/Ancient_Shell) has mineral-related glow of those eyes.
+  - Elemental Greavers have the pattern glowing in accordance to their elemental theme and status effect, apart from the curse itself.
+  - Greavers have metal helms with an eye as a visor, which we proposed to be a common design across legions of Underworld utilizing shadow steel.
+- Tortodrones' shell plates have evil eye initially carved on them, possessing a red glow in an enraged state.
+  - Derived [tortodrone shell gear]() has mineral-colored glow of those eyes.
 - Graviton [Bomb](https://wiki.spiralknights.com/Graviton_Bomb) has a symbol of an antique evil eye carved on it. The explosion of the bomb resembles the grim gate's opened portal vortex, without leading to dark city, instead having a dark core. The vortex is then followed by an explosion with an imagery of an antique evil eye.
   - Similar vortex resulting of the explosion is present in [Grim Gates](https://wiki.spiralknights.com/File:Exploration-Fiend_Gate.png) during their portal collapse, but this instance has presence of curse-colored vortex, identical to maelstrom of dark ritual in Moorcroft Manor.
-  - Presence of Margrel is characterized by the the aforementioned case of the maelstrom of curse supposedly pouring from the Underworld and a location wherein Black Kats did come from.
+  - Presence of Margrel is characterized by the the aforementioned case of the maelstrom of curse supposedly pouring from the Underworld and a source of undead Black Kats.
 - Antique evil eye in present on [heavy statues](https://wiki.spiralknights.com/File:Exploration-Heavy_Statue.png). They have troika-like weapon and helm in its shape resembling a devilite, with a characteristic single eye.
   - Evil eye symbol is seen on the titans of the titan arcade gates. We concluded tat the statue and titan are the same entity.
-- Snarbolax is cursed, but has it contained within its fur, which grants it its defenses and ability to exist and haunt after death. It has themes of haunting and supernaturally seeing eyes.
+- Snarbolax is cursed, [the curse is accumulated within its fur](), which grants it its appearance and supernatural abilities to [exist and haunt after death]().
 - [Nefarious Imp raiment](https://wiki.spiralknights.com/Nefarious_Raiment) and [hood](https://wiki.spiralknights.com/Nefarious_Hood) have highly advanced designs incorporating a more abstract version of evil eye imagery.
-  - That armor, helm specifically, has a glowing symbol of evil eye similar to [Gran Faust](https://wiki.spiralknights.com/Gran_Faust).
-  - Same advanced shape was seen on Gran Faust and Faust guards.
-- A 90-degree rotated antique evil eye is depicted within the front cloth pattern of the Chaos Cloak. Chaos Cloak has themes of curse being seemingly a part of universal whole within Nameless Realm.
+- A 90-degree rotated antique evil eye is depicted within the front cloth pattern of the Chaos Cloak. Chaos Cloak incorporates curse into its weakenesses.
 - The dread seal contains image of the evil eye.
-  - Dread seal is present on [Carnavons](https://wiki.spiralknights.com/Carnavon#Carnavon), warriors of Almire. Their bear similar concentrated degree of curse as Black Kats, their claws are of dark matter form the supposed influence of darkfire - merging or Underworld's curse and Vog's curse into a single phenomenon.
-    - [Darkfire Lord Vanaduke](https://wiki.spiralknights.com/Darkfire_Vanaduke) has same dark matter claws, and is immortal, while being maddened, cursed by the fiery deity Vog.
-  - The Seal is also present on [Margrel](https://wiki.spiralknights.com/Margrel), in addition, [black kats](https://wiki.spiralknights.com/Black_Kat#Black_Kat) being both summoned ([1](https://wiki.spiralknights.com/Kataclysmic_Confrontation), [2](https://wiki.spiralknights.com/Book_of_Dark_Rituals)) - the former are summoned all across known Clockworks and Margrel is summoned through a [dark ritual](https://wiki.spiralknights.com/Book_of_Dark_Rituals).
-    - [Mewkats](https://wiki.spiralknights.com/Mewkat#Mewkat) are closely related to black kats as both being grimalkin transformed into Undead - a parallel to citizens and legion of Almire.
-    - [Grimalkin](https://wiki.spiralknights.com/Mewkat#Grimalkin) emerge in areas covered by an unnatural darkness, one being related to Underworld through Philoso's research of Undead.
-      - Research of Undead was possibly performed by Titans before discovery of Underworld proper.
-  - [Seraphynx the Black Kat](https://wiki.spiralknights.com/Seraphynx_(Black_Kat)#Gallery) battle sprite transformed by the Core has the same Seal present under certain conditions of evolution, combining divinity of heavenly kingdom and curse-aligned nature of post-Kataclysm Kat Tribe.
-- [Trojans](https://wiki.spiralknights.com/Trojan), including Arkus have dark matter crystal embedded, trojans of tier 3 and resurrected Arkus have the crystal burning in pink flame.
-  - The purple flame is closely related to [Dark Embers](https://wiki.spiralknights.com/Dark_Ember), the latter is related to Lord Vanaduke's curse, Underworld.
+  - Dread seal is present on [Carnavons](https://wiki.spiralknights.com/Carnavon#Carnavon), [twice-cursed](#nature-of-darkfire) warriors of Almire. They bear similar concentrated degree of curse as Black Kats, their claws are made of dark matter form the supposed merging or Underworld's curse and Vog's curse into a single phenomenon of darkfire.
+    - [Darkfire Lord Vanaduke](https://wiki.spiralknights.com/Darkfire_Vanaduke) has same dark matter claws, is immortal, delusional, is cursed by the fiery beast-deity Vog followed by application of Underworld's common purple curse.
+  - The Seal is also present on [Margrel](https://wiki.spiralknights.com/Margrel) and [Black Kats](https://wiki.spiralknights.com/Black_Kat#Black_Kat). Both are summoned from the Underworld. Black Kats are summoned across Clockworks and Margrel is summoned through the [dark ritual at the Moorcroft Manor]().
+    - [Mewkats](https://wiki.spiralknights.com/Mewkat#Mewkat) are closely related to black kats and grimalkin.
+    - [Grimalkin](https://wiki.spiralknights.com/Mewkat#Grimalkin) emerge in areas covered by an unnatural darkness of Underworld.
+  - [Seraphynx the Black Kat](https://wiki.spiralknights.com/Seraphynx_(Black_Kat)#Gallery) battle sprite transformed by the Core has Dread Seal present under certain conditions of evolution, combining divinity of kats of heavenly kingdom and curse-aligned nature of post-Kataclysm Kat Tribe at the epicenter of the Kataclysm.
+- [Trojans](https://wiki.spiralknights.com/Trojan), including Arkus have dark matter crystal embedded, trojans of tier 3 and resurrected Arkus have the crystal burning with pink flame.
+  - The purple flame is closely related to [Dark Embers](https://wiki.spiralknights.com/Dark_Ember), the latter is related to Lord Vanaduke's curse, Underworld, yet they remain separate phenomena, apart from a common element of dark matter being present.
   - Trojans and corrupted tortodrones petrify once the dark matter inside is destroyed, releasing purple mist, similar to [Baleful Aura](https://wiki.spiralknights.com/Baleful_Aura#Baleful_Aura).
   - Trojans [were sealed in the Underworld](https://wiki.spiralknights.com/The_Return_of_Ur) but do not possess the dread seal, an idea of the seal devised in the Underworld.
   - Undead [Dreadnaughts](https://wiki.spiralknights.com/Dreadnaught) can inflict curse while being not a curse-ridden entities, but they are linked through power to resurrect to the grim totems.
-- Apocrea, while without evil eye symbolism, is an entity of shadow damage and an eldritch god, with similar futuristic designs of the city, close to ones of Nefarious Imp armor, yet without sign of curse present within.
+- Apocrea, while without evil eye symbolism, is an entity of shadow damage and an eldritch deity, with similar futuristic designs of the city, close to ones of Nefarious Imp armor, yet without sign of curse present within.
 - Explicit curse seals forbid some of abilities of a sealed entity.
   - The [Cursed Nature Sprites](https://wiki.spiralknights.com/Firestorm_Citadel/Charred_Court) could not establish a link to Spirit Mother and its realm.
   - Curse placed on Knight disallows it to inflict damage.
@@ -6688,9 +6685,9 @@ As most of instances of curse are connected to Underworld and depictions of the 
 
 Entities imbued with curse last far longer under unnatural means and have amplified power compared to their nature prior to being afflicted with curse:
 
-- Lord Vanaduke and Darkfire Lord Vanaduke, Margrel, black kats, carnavons, trojans - generally live for more than thousand of years.
-- In some instances they are resistant to curse: devilites and Vanaduke, fiends in general.
-- Armors and gear explicitly related to Underworld and curse of their owners, such as Kat Tribe armors, are weak to curse, while items related to divinity are strongly resistant to curse. The latter are often charaterised as divine or holy.
+- Lord Vanaduke and Darkfire Lord Vanaduke, Margrel, black kats, carnavons, trojans -- have extended lifespan or possess immortality such as Lord Vanaduke and Margrel.
+<!--- In some instances they are resistant to curse: devilites and Vanaduke, fiends in general.-->
+- Armors and gear explicitly related to Underworld and curse of their owners, such as Kat Tribe armors and armor of the Fallen Valkyrian, a celestial beings, are weak to curse, while items related to divinity are strongly resistant to curse. The latter are often charaterised as [divine or celestial]().
 
 In relation to gremlins, gremlin technology, and Clockworks:
 
@@ -6994,85 +6991,115 @@ Though this relation we can formulate a relation within the persistent triad of 
 
 ##### Implied Time Periods
 
-We will return to a different interpretation of the king within the analysis of Crimson Order, but currently, we have to consider this time discrepancy as a played straight argument in favour of our explanation of events of [Ghost in The Machine] and [unresolved ancient existence of laser technology in battlepods](), and subsequently, to first explanation of Tinkinzar as a real figure.
+We will return to a different interpretation of the king within the analysis of Crimson Order, but currently, we have to consider this time discrepancy as inentional and as an argument in favour of our explanation of events of [Ghost in The Machine] and [unresolved ancient existence of laser technology in battlepods]().
 
-So, this idea of a assumed to be immortal king also ties in with a concept, first established during the [analysis of Ghost in The Machine danger mission](#ghosts-in-the-machine), - that Ironclaw Munitions Factory is the assembly line for not only Roarmulus Twins but other technology, specifically shock-themed lasers, the same ones present on Big Iron battlepod. [This battlepod secures the bridge of Isoran Vessel in the Iron Hulk](#ghosts-in-the-machine). This large time span is based of the fact the bodies of space jockeys to that point had turned to dust, haunting the space vessel, while gremlins had to contain in in the Dry Docks with their own machinery, primarily mecha knights.
+The idea of an assumed to be immortal king also ties in with a concept first established during the [analysis of Ghost in The Machine danger mission](#ghosts-in-the-machine) that Ironclaw Munitions Factory is the assembly line not only for Roarmulus Twins but other technology -- the shock-themed lasers, the same ones present on Big Iron battlepod. [This battlepod secures the bridge of Isoran Vessel in the Iron Hulk](#ghosts-in-the-machine).
 
-##### Great Colony as an Imperial Colony
+We have noted in [the analysis of Big Iron battlepod that presence of wires](#battlepods-and-laser-technology) and battlepod itself suggests gremlins' involvement, a containment measure and one established over a hundered years ago. This large time span is based of the fact the bodies of space jockeys to that point had turned to dust, haunting the space vessel, while gremlins had to contain the ship in the Dry Docks with their own machinery and constructs.
 
-Then there is the name of Great Colony. Great Colony can be characterized as gremlin capital in a general sense, based of the known clans and depths, but disregarding a possibility of a greater scope entity, as none was currently presented. Considering the time spans we are working with, some evidence of gremlins' presence on Cradle had to be established from the very beginning of Clockworks construction, so the Great Colony must be one of the oldest developments.
+If gremlin king was near-immortal, how old are members of Crimson Order? Does their larger physical stature contrubute to a potentially altered, unaging physiology?
 
-We propose, that the name itself here suggests _that Great Colony is a literal colony, a colonial domain on a distant planet - that of Cradle,_ - meaning, that there exists a gremlin interstellar empire with a remote metropole, to which Great Colony had to belong, rather than a civilization relegated to single planet of Cradle.
+##### Great Colony
 
-As Great Colony is one of more significant locations of gremlin civilization on Cradle, and considering how ancient are Clockworks themselves, even taking in account that gremlins were implied to be assisted in its construction - `Some say the gremlins that you see working on it now are responsable. But that seems too great even for their seemingly infinite work force` ([Plinkop](https://wiki.spiralknights.com/Plinkop#Dialogue)), and `if we are to believe that indeed a lost kingdom from the past has somehow wound up in a massive mechanical world in present day, the question remains, why? its all a bit too convenient. But do gremlins really have this kind of power? I suspect something more than even what they are capable of engineering` ([Eye of the Needle - Kora](https://wiki.spiralknights.com/Eye_of_the_Needle)), - Clockworks should have been present at least by the time Iron Hulk was haunted.
+Great Colony can be characterized as gremlin capital on Cradle.
 
-More so, as Isorans are already an interstellar species, their questions of gremlin technology (`Adapted from several unconventional Gremlin theories on physics, anyone unlucky enough to be dragged into this bomb's blast is in for a shock` - [Electron Bomb](https://wiki.spiralknights.com/Electron_Bomb)) would make the latter in relation to Isorans even more advanced, allowing for the same if not greater degree of space travel.
+<!--Considering the time periods we are working with, some evidence of gremlins' presence on Cradle had to be established from the very beginning of Clockworks construction, so the Great Colony must be one of the oldest developments.-->
 
-Of course, there exists a possibility of Clockworks existing for thousands of years, which does seem more plausible, at lest if we only consider its scope being a planet, as then Strangers of Haven would not have any modern recounts of Clockworks beginnings: `"How old are the Clockworks?" - It is hard to know exactly as so much of what is within seems to hold their origin from different worlds. Some appear to be from realms of great antiquity, no doubt once home to innumerable old gods and creatures. This world is an unnatural one. What you see within it was never meant to be here. The great histories of so many worlds endlessly churning through the cogs of this great machine` ([Plinkop](https://wiki.spiralknights.com/Plinkop#Dialogue)). That is, if their responses are taken at face value, and with an assumption that Clockworks had not appeared in a few hundred years, even with an assistance of currently unknowns third party, as Plinkop's and Kora's dialogues suggest.
+We propose that _Great Colony is a settlement -- a colonial domain_ on Cradle. As gremlins had no history on Cradle before Clockworks, reminiscent of Kats, coupled with the term of the colony, we suggest, it implies that there exists a _gremlin interstellar empire_ with a remote metropole to which Great Colony had to belong, rather than a civilization relegated to Cradle.
 
-We could analyze the location of Great Colony in the same manner, as we had attempted to understand what purpose Dry Docks serve and the architecture of Owlite Academy. But here, it is not the location itself is important, but rather an understanding of what had happened before current hierarchy of clans was established.
+As Great Colony is one of more significant locations for gremlin civilization on Cradle and considering how ancient are Clockworks, taking in account that gremlins were implied to be assisted in its construction:
+
+- `Some say the gremlins that you see working on it now are responsable. But that seems too great even for their seemingly infinite work force` ([Plinkop](https://wiki.spiralknights.com/Plinkop#Dialogue)).
+- `if we are to believe that indeed a lost kingdom from the past has somehow wound up in a massive mechanical world in present day, the question remains, why? its all a bit too convenient. But do gremlins really have this kind of power? I suspect something more than even what they are capable of engineering` ([Eye of the Needle - Kora](https://wiki.spiralknights.com/Eye_of_the_Needle)), Clockworks should have been present at least by the time Iron Hulk was haunted.
+
+More so, as Isorans are already an interstellar species, their discussion of gremlin technology such as [Electron Bomb](https://wiki.spiralknights.com/Electron_Bomb)), `Adapted from several unconventional Gremlin theories on physics, anyone unlucky enough to be dragged into this bomb's blast is in for a shock`, would reframe gremlins relative to Isorans as even more advanced, allowing for the _same if not greater degree of space travel_.
+
+There also exists a possibility of Clockworks existing for _thousands of years_ given its which does seem plausible, at least if we only consider its scope being a planet, as then Strangers of Haven would not have any modern recounts of Clockworks beginnings,
+
+If Strangers' responses are taken at face value, `"How old are the Clockworks?" - It is hard to know exactly as so much of what is within seems to hold their origin from different worlds. Some appear to be from realms of great antiquity, no doubt once home to innumerable old gods and creatures. This world is an unnatural one. What you see within it was never meant to be here. The great histories of so many worlds endlessly churning through the cogs of this great machine` ([Plinkop](https://wiki.spiralknights.com/Plinkop#Dialogue)), then they would have to arrive to Cradle after Clockworks were built, with no method to attain the knowledge of its construction. This still sets us at lower boundary of hundered of years and this shorter period of time would provide means to remove unnatural longevity of gremlin elite. Yet, such interpretation would require means of Clockworks' faster construction -- a third party or an instrument which would assist its construction:
+
+- `Some say the gremlins that you see working on it now are responsable. But that seems too great even for their seemingly infinite work force` ([Plinkop](https://wiki.spiralknights.com/Plinkop#Dialogue)).
+- `if we are to believe that indeed a lost kingdom from the past has somehow wound up in a massive mechanical world in present day, the question remains, why? its all a bit too convenient. But do gremlins really have this kind of power? I suspect something more than even what they are capable of engineering` ([Eye of the Needle - Kora](https://wiki.spiralknights.com/Eye_of_the_Needle)).
+
+We could analyze the location of Great Colony in the same manner as we had attempted to understand what purpose Dry Docks serve and the architecture of Owlite Academy. But here, it is not the location itself is important, but rather an understanding of what had happened before current hierarchy of clans was established.
 
 ##### The Precursor Planet Before Cradle
 
-Considering the scale of Clockworks, as they comprise most likely most of all known volume of the planet, we assume, that some foundation for their construction, the raw materials, had to be gathered somewhere - be it a different planets or the one from which initially the construction began: `Within a seemingly impossible machine all manners of alien worlds exist within the giant globes that endlessly churn through every floor. What purpose do they serve? And from where did these worlds come? Before the crash the Skylark performed a partial scan of Cradle's surface that revealed what appeared to be a landscape composed of enormous parches of disparate terrain. The Clockworks are a manufactured place, perhaps the worlds they contain are harvested from the terrain above. But how?` ([Recon Module: Gloaming Wildwoods - Euclid](https://wiki.spiralknights.com/Recon_Module:_Gloaming_Wildwoods)).
+Considering the scale of Clockworks, as they comprise most likely most of all known volume of the planet, we assume, that some foundation for their construction, the raw materials, had to be gathered somewhere -- be it a different planet or the one from which initially the construction began, -- `Within a seemingly impossible machine all manners of alien worlds exist within the giant globes that endlessly churn through every floor. What purpose do they serve? And from where did these worlds come? Before the crash the Skylark performed a partial scan of Cradle's surface that revealed what appeared to be a landscape composed of enormous parches of disparate terrain. The Clockworks are a manufactured place, perhaps the worlds they contain are harvested from the terrain above. But how?` ([Recon Module: Gloaming Wildwoods - Euclid](https://wiki.spiralknights.com/Recon_Module:_Gloaming_Wildwoods)).
 
-In the first case - `a landscape composed of enormous parches of disparate terrain`, we can appeal to the idea of many worlds being literally gathered, put together as Cradle, which may place Great Colony as the very first location of gremlin settlement.
+In the first case, `a landscape composed of enormous parches of disparate terrain`, we can appeal to the idea of many worlds from different realms or planets being gathered and then put together as Cradle which may place Great Colony as the very first location of gremlin settlement.
 
-The second case - `The Clockworks are a manufactured place, perhaps the worlds they contain are harvested from the terrain above`, can lead to Great Colony being also the first settlement, but within an environment of a single planet, that was harvested to build Clockworks form inside.
+The second case, `The Clockworks are a manufactured place, perhaps the worlds they contain are harvested from the terrain above`, can lead to Great Colony being also the first settlement, but within an environment of a single planet, that was harvested to build Clockworks form inside.
 
-While those explanations have vague foundation based on the lack of information, they remove a dependency on an undisclosed planet, and at least, weave it into the general narrative, as the prior had to be incorporated into Cradle either way at some point in time under current chronology. Apart from this, the phrase: `The Clockworks are a manufactured place, perhaps the worlds they contain are harvested from the terrain above` seems to be too specific to be a speculation, rather than a plain guess, as most of those locations can be seen as completely unrelated.
+While those explanations have vague foundation based on the lack of information, they remove a dependency on an undisclosed planet, and, at last, weave it into the general plot. Apart from this, the phrase `The Clockworks are a manufactured place, perhaps the worlds they contain are harvested from the terrain above` _is very specific_ as it presents a possibility of Cradle being a single planet from which its civlizations and resources were harvested.
 
-But, due to prior 8 chapter, we are currently seeing __the idea of a single precursor planet, which had to encompass all of those civilizations, to be true.__
+The interconnectedness of symbols and civilization they belong, we propose, serves as the most solid evidense of __the idea of a single precursor planet which had to encompass all of prior civilizations__, with gremlins arriving far into the future past disappearance of owlites.
 
-This planet had to contain most of the entities from the timeline: dragons, Owlites, Kats, kingdom of Ironmight and Almire. These include later discoveries of the Nameless Realm and Underworld. This proposal, then, would not conflict with epochs of kingdom of Almire. Despite a possibility of decoupling Almire's narrative and history from the rest, mainly from the origins of legion of Ur and the relation to heavenly kingdom of valkyries, mentioned forgotten time, it would not bring drastic changes to the timeline, as currently all of the Underworld-adjacent laws are not restricted by presence of the Core, apart from spirits returning to material realm.
+This planet, Cradle, had to contain all discussed civilization across the timeline. These include later discoveries of the Nameless Realm and Underworld. This proposal, we believe, would not conflict with each of epochs -- it would not bring drastic changes to the timeline, other than setting a defined andpresent location of those events.
 
 #### Gremlin Physiology
 
-As for gremlins, while the location of Great Colony remains unknown, we still can attempt to guess, what was life for gremlins in the past before creaton of Clockworks based on the current depictions of gremlins.
+As for gremlins, while the location of Great Colony remains unknown, we still can attempt to guess, what was life for gremlins in the past before creation of Clockworks based on the current apperance of gremlins.
 
 ##### Gremlin Goggles
 
-Gremlin goggles are by margin the most defining design element of gremlins apart from their anatomy, habitat and behaviors, consistent across all instances of gremlins independent of their rank, position, affiliation, or clan. All of known gremlin coats, which mostly correspond to clans and, presumably, depth - Tenderfoot, Ironclaw, Darkfang, Grinchlins, and partially Ghostmane, including ones in Emberlights and Haven, - they wear goggles.
+Gremlin goggles are by margin the most defining design element of gremlins apart from their anatomy, habitat and behaviors, consistent across all instances of gremlins independent of their rank, position, affiliation, or clan. All of known gremlin clans presumably corresponding to specifics of Clockworks' depths -- Tenderfoot, Ironclaw, Darkfang, Grinchlins, and partially Ghostmane, including ones in Emberlights and Haven, -- wear goggles.
 
 This makes us think of a greater importance of goggles. We could suggest that underground conditions had taken generational effect on gremlin physiology.
 
-Gremlins of Haven, such as Pakrat, [Nonna](), who is, notably, a ghostmane gremlin, Punch and Vise, they still wear similar uniform and have obscured muzzles with goggles or rebreether masks. Punch and Vise in particular have _Strangers' asymmetrical design of their masks_, which we can interpret rather lineary, as if those gremlins are in Havan for a long time, which would allow Strangers' culture and designs to be adopted by them.
+Gremlins of Haven, such as Pakrat, [Nonna](), who is, notably, a ghostmane gremlin, Punch and Vise, still wear similar uniform and have obscured muzzles with goggles or rebreether masks. Punch and Vise in particular have _Strangers' asymmetrical design of their masks_ which we can interpret as if those gremlins are in Havan for a long time which would allow Strangers' culture and designs to be adopted by them.
 
-Then, there is a separate case of Crimson Order member, Seerus, as he lacks any explicitly advanced equipment, preferring a rudimentary mask over goggles. The issue of our earlier suggestion of gremlins requiring goggles conflicts with Seerus's lack of goggles.
+Could goggles be essential for gremlin eyesights since they inhabit internal volume of the planet, rather than natural sunlight on the surface?
 
-It is in case of Seerus, through the mask his eyes can be seen, which possess a quality unique only to him - _bright spiral eyes_. This, with perception of Seerus being described as: `Taking on ol' Seerus aye? Careful now, he's not right in the head. Proper imbalanced that one. He and I go way back, but not in any way worth remembering` ([Operation Crimson Hammer - Lobby - Vise](https://wiki.spiralknights.com/Vise)) by Vise, might be a design decision meant to convey Serus's character as-is, but, as for the actual explanation for the physiological differences explored to the level of detail we covered across the analysis, we could only rely on the purely design-driven explanation, rather than one rooted in the setting's metaphaphysics.
+###### Case of Seerus
 
-Yet, this does not negate the multifacted application of goggles for gremlins.
+Then, there is a separate case of Crimson Order member Seerus, as he lacks any explicitly advanced equipment, preferring a rudimentary mask over goggles.
 
-In the same relation to goggles, - Darkfang gremlins and Ironclaw gremlins have different designs of goggle lenses, as the prior is round, while the latter has slitted design. Tenderfoot gremlins and gremlins of Haven, Pakrat specifically, also follow Ironclaw design pattern.
+It is in case of Seerus, through the mask his eyes can be seen which possess a quality so far unique only for him -- _bright spiral eyes_. This, with perception of Seerus being described as, `Taking on ol' Seerus aye? Careful now, he's not right in the head. Proper imbalanced that one. He and I go way back, but not in any way worth remembering` ([Operation Crimson Hammer - Lobby - Vise](https://wiki.spiralknights.com/Vise)) by Vise, the eyes may be an out-of-universe design decision meant to convey Seerus's character, but, as for the actual explanation for the physiological differences explored to the level of detail we covered across the analysis, we have to rely on the explanation which functions within the setting's laws. So far, his designs remains a mystery.
 
-Due to this, we propose, that the amount of sunlight has influenced this design. While there are artificial skydomes, a greater protection would be required from natural sunlight. And, as Darkfang clan inhabits the lowest Clockwork depth among major 3 clans, omitting Grinchlins, they would likely possess a less restricted field of view due to potential lack of light at their depth.
+###### Goggles' Derivatives
 
-In this context, the events of [A Gremlin in Knead]() Emberlight cook, Groat's design _expands on goggle's configurable design_. As during the possession by [Dread Velvet](), Groat's goggles are identical to Darkfang gremlins', and after the possession, they obtain a slitted design, similar to Pakrat's. This can be connected to the possessor, as one disregarding Groat's physiology in order to perceive as much surrounding as possible.
+Darkfang gremlins and Ironclaw gremlins have different designs of lenses, as the prior is round, while the latter has slitted design. Tenderfoot gremlins and gremlins of Haven, Pakrat specifically, also follow Ironclaw design pattern.
 
-In this regard we could attempt to link fur or coat color of gremlins to their inhabited depths, which would manifest in the idea of richness of color for gremlins corrsponding to presence of sunlights or light in general, leading to less contrast, more pale colors. Under this logic, we would postions more mysterious Ghostmane gremlins at the deepest depths of Clockworks, as tose have a reason to possess a characteristic of their mane in their name, compared to naming convention of clans.
+We propose the amount of sunlight has to influence this design. While there are artificial skydomes, we have seen its suns to be depicted as lightbulbs, so a greater protection would be required from natural sunlight. As Darkfang clan inhabits the lowest Clockwork depth among 3 major clans, omitting Grinchlins, they would likely possess a _less restricting lenses due to potential lack of light at their depth_, assuming a unique environemt of each tier to exist apart from the established insfluence of the Core.
 
-###### Augmentation Scenario
+###### Groat's Goggles
 
-The last element of the goggles we will suggest, but which leans heavily into speculation due to nature of the sources we had used so far: could it be, that in the context of Clockworks as a megastructure, goggles are designed to be augmentations of gremlins' vision capabilities?
+In this context, the events of [A Gremlin in Knead]() focus on Emberlight cook, Groat, and we are interested in his goggle's design. The mission _expands on goggle's configurable design_.
 
-As googles are mounted with no system to hold them in place. When observed in conjunction with the rest of accessories and equipment within the established design language, they possess a [greater level of detail](https://wiki.spiralknights.com/Gremlin_Goggles), emphasizing their importance.
+During Groat's the possession by the [Dread Velvet]() _Groat's goggles are identically configured to Darkfang gremlins'_ and after the possession is lifted _goggle's lenses obtain a familiar slitted design_. This change can be explined both by configurable lenses of the goggles and, albeit more speculative, Velvelt's disregard of Groat's physiology in order to perceive the most of the surrounding, reminsicent of Void gremlins.
 
-The mounting, of course, can be explained by the same design system, but, as we have seen, in a setting, where nature of _mist energy was accounted and acknowledged at a mechanical level_, what are the chances of those smaller details to be preoperly explained?
+###### Goggles Augmentation Scenario
 
-While we do not have a concrete answer, the possibility of such scenario should be retained.
+The last element of the goggles we will suggest, but which leans heavily into speculation due to nature of the sources we had used so far -- could it be that in the context of Clockworks as a megastructure goggles are designed to be augmentations of gremlins' vision capabilities?
 
-##### Day-Night Cycle of Skydomes
+Googles are mounted with no system to hold them in place outside of out-of-universe stylistic assumptions. When observed in conjunction with the rest of accessories and equipment within the established design language, they possess a [greater level of detail](https://wiki.spiralknights.com/Gremlin_Goggles) which might emphasize their importance.
 
-Presence of Sun and Moon plates within Clockworks' artificial sky of skydomes. The moon is identical to one on Cradle's orbit, as both have a characteristic spiral on the near side.
+The mounting, of course, can be explained by the very design system, we will leave a possibility of this design being intentional, since the setting possess a few instance of [body horror at least in relation to curse]().
 
-The fact those are located within Clockwork skydomes does suggest that those locations are built to house biospheres, when compared to regular Clockwork tunnels. But, apart from budget restrictions of the game, why would both celestial bodies had to be presented as ones of Cradle's star system, with all of the moving machinery accompanying it?
+##### Gremlin Coat
 
-It is also within those skydomes gremlin facilities - the compounds, - are present on par with other stratums in archaeological sense, such as tortomega ruins across Aurora Isles in their different forms.
+We attempt to link fur coat color of gremlins to their inhabited depths which would manifest in the idea of richness of color for gremlins corresponding to their environemnt.
 
-Based on those elements we can suggest that gremlins, as species, had to be either nocturnal or inhabiting planetary surface under natural conditions, - living below ground, as a cave-dwelling species. But then, presence of fur makes it an uncommon characteristic of such specie. It is also presence of a day-night cycle within the skydomes which would point to more natural conditions in the past, be it Cradle, a different planet, or gremlin homeworld, but one to allow gremlins to _consistently build artificial suns and moons, gliding on the inner wall of skydomes_.
+The correlation between gremlin clans' ominant coat color may be linked to their habitation characterized by presence of sunlight and other factors, which would plausibly influce one's fur.
 
-Given the fact gremlin compounds, a term for the military facilities, are located in those skydomes, seems to indicate their trait of goggles as a later measure from potentially generational effects of living underground.
+The hypothesis of sunlight is debatable as skydomes contain artificial light sources, whose nature may be designed to replicate natural sunlight, since those skydomes contain patches of landmass from the surface with their own ecosystems.
+
+Yet, there are rare Ghostmane gremlins which possess characteristic mane reflectded in their name, preserving a naming convention of gremlin clans. We do not know the reason for their pale fur, but we can speculate this property would require an extensive protection from the sunlight.
+
+##### Introduction to Skydomes
+
+Presence of substitute Sun and Moon plates within Clockworks' skydomes majorly expands on their purpose within larger Clockworks. The moon is identical to one on Cradle's orbit, as both have a characteristic spiral on the near side. The fact those systems, with a proper _mounting and rotary mechanism take a significatn amount of the skydome machinery_, leaves us to suggest that __skydomes are built to house biospheres__, juxtaposed to regular Clockwork tunnels which were not intended for such function, being _service tunnels_.
+
+It is also within those skydomes gremlin facilities -- the compounds, -- are present on par with other stratums, such as tortomega ruins in their different states of preservation, from Wild Path to Slumbering Sanctuary.
+
+Based on those elements we can suggest that gremlins, as species, had to consider those design elemnts when skydomes were construcyed. This would mesn 2 important to elements, the first hinting at their natural habitat as either nocturnal species, or their presence on planetary surface was impossible since life below ground, as subeterranen species, might have taken precedence after their relocation into Clockworks.
+
+We suggest that [lumbering operarions across Aurora Isles]() _during the day_ imply at gremlins natural activity during the day, but isolation from the sunlight had resulted in a poorer eysight, which had eventually _resulted in mass adoption of goggles_.
+
+The other importnat elemnt to skydomes is the assumtion that since those contain other locations from the surface of Cradle in a preserved, stable state, albeit shattered, they were _designed to preserve those landmasses_ rather than process entirety of the planet into the megastructure.
+
+This separtion onto skydomes and the rest fo Clockworks, we suggest, might further, slightly reveal the purpose of Clockworks.
 
 With this context in mind, we will now discuss entirety of known gremlin facilities.
 
@@ -8528,9 +8555,9 @@ We have extensively covered the facility where the schematics are located being 
 
 We have analyzed the room the supposed schematics were located. Based on those we can came to a series of suggestion, each relating to its room in the facility:
 
-- East room: gun block and its target, supposedly set up for testing.
-- West room: Chemicals, minerals, and slime samples.
-- Nothern room: Ancient tomes, reminiscent of or potentially related to Owlites.
+- East room: gun block and its target set up for testing.
+- West room: chemicals, minerals, and slime samples.
+- Northern room: ancient tomes, reminiscent or potentially related to Owlites.
 
 How those objects relate to gremlins?
 
@@ -8538,38 +8565,39 @@ The east room had a canon, which is a common militaristic motif of gremlins on C
 
 As for Owlites, as far as tomes' design goes and their usage of elementals for the operation of Clockworks, seem to be the primary and the deepest lead we can identify.
 
-We could've also looked into other instances of gremlin schematics - and those relate to:
+We could've also looked into other instances of gremlin schematics and their mentions:
 
 - `If this is true there will likely be a terminal of some kind close to one of Project R's components. Locate the terminal and recover the schematics for analysis. It should shed light on the exact nature of Project R` [Plant of Attack](https://wiki.spiralknights.com/Plan_of_Attack).
 - `Gremlin construction sites often contain valuable schematics of gremlin structures and even weaponry. Once obtained by Spiral HQ, they provide rare insights into gremlin engineering. Gremlin schematics are typically stored in terminals somewhere on site. These terminals are locked down and heavily guarded` [Hazardous Heist](https://wiki.spiralknights.com/Hazardous_Heist).
 
-But, compared to those, complex 357 lacks any terminals to extract those schematics. And given presence of paper clips, as well as books, we can suggest those being written on paper medium - an uncommon decision given gremlin cryptography is seemingly advanced enough even for Spiral Order, judging by the dialogue in the Aftermath: `It'll take forever to decipher gremlin cryptography` ([Operation Crimson Hammer - Aftermath - knight right of Feron]). Apart from being not digitalized, likely kept in secrecy, then, there is not much we can derive from those speculations. There are, as discussed, several aspects to those elements of the complex:
+But, compared to those intances, _complex 357 lacks any terminals to extract those schematics_. And given presence of paper clips as well as books we can suggest those being written on a paper medium -- an uncommon decision given gremlin cryptography is seemingly advanced enough even for Spiral Order, judging by the dialogue in the Aftermath: `It'll take forever to decipher gremlin cryptography` ([Operation Crimson Hammer - Aftermath - knight right of Feron]). Apart from being not digitalized, likely kept in secrecy there is not much we can derive from those speculations.
 
-- Study of [rocket blocks](https://wiki.spiralknights.com/File:Exploration-Rocket_Block.png), connection to mineral/crystal blocks and capacity to demolish those
+There are more notable elements of the complex:
+
+- Study of [rocket blocks](https://wiki.spiralknights.com/File:Exploration-Rocket_Block.png), connection to mineral or crystal blocks and capacity to demolish those.
 - Excess presence of aforementioned crystals across complex grounds.
-- Valestone being grinded to powder and ancient tomes.
+- Valestone being grinded to powder.
+- Presence of ancient tomes.
 
-As far as we have researched, we are unable to decipher the written form of the language. That is if it is an instance of a completed language. And, considering that most of this symbols would not be looked at, despite their consistency, it may be an unfinished set of characters or one we could not solve so far.
+Based on the time Herex had infiltrated th complex prior to Shadowplay we assume that the schematics, to an unknown degree, should describe foundational elements of Clockworks or the Core, as they were retrieved before Herex's descend into the Core.
 
-In this context, the language is only important as its placement to the understanding contents of the schematics. And given our prior analysis of the complex, the context - the time Herex had infiltrated it prior to Shadowplay, - we make a guess, that the schematics, to an unknown degree, should describe foundational elements of Clockworks or even the Core.
+Then there are Herex's recon modules, with prior instances usually hinting his direct and physical presence in the past, such cases being Razwog's facility and Hidden Hideout with the first direct hint of Swarms' existence. Due to existence of those modules we can suggest that Herex was present, at least, in the northern room of the complex which can hint at our reasoning of those rooms containing the schematics stored with the ancient tomes.
 
-Then there are Herex's recon modules, with prior instances usually hinting his direct and physical presence in the past - such cases being Razwog's facility and Hidden Hideout with the first direct hint of Swarms' existence. Due to existence of those instances, we come to suggest, that Herex was present, at least, in the northern room of the complex, which can hint at our reasoning of those rooms containing the schematics.
+<!--If it is so, then, at least the room containing ancient tomes is the one connected the most with the contents of the schematics.-->
 
-If it is so, then, at least the room containing ancient tomes is the one connected the most with the contents of the schematics.
+With the presenct information on the nature of the Core we can find a distinct elemnt to the architecture of the Core, specifcally, its varying and unpredictable layout mentioned by Parma in the Refuge: `Apologies for not appearing in person. I'm hidden away in a safe place. I knew I'd never make it here in time when I noticed your signal. Luckily I was able to pull some strings and find you an exit` ([Dreams and Nightmares - Refuge - Parma's Scout](https://wiki.spiralknights.com/Refuge)).
 
-And now, if we recall the earlier chapters' discussions [regarding nature and symbolism of Nameless Realm]() and [Metaphysical Stack](), and how we have proposed Sleeper to be an energy-based entity same as Spirit Mother, it would be a proper question to ask, - _how gremlins have discovered Whitespace in the first place?_ And if they did not discover it, opened, or created, how this greater relation with Sleeper within the Core had begun?
+<!--If we recall the earlier chapters' discussions [regarding nature and symbolism of Nameless Realm]() and [Metaphysical Stack](), and how we have proposed Sleeper to be an energy-based entity same as Spirit Mother, it would be a proper question to ask, - _how gremlins have discovered Whitespace in the first place?_ And if they did not discover it, opened, or created, how this greater relation with Sleeper within the Core had begun?-->
 
-In order to prevent ourselves from diving into the relation with the Sleeper, Core, Clockworks and the Swarm, we may relate to one element, mentioned by Parma in the Refuge: `Apologies for not appearing in person. I'm hidden away in a safe place. I knew I'd never make it here in time when I noticed your signal. Luckily I was able to pull some strings and find you an exit` ([Dreams and Nightmares - Refuge - Parma's Scout](https://wiki.spiralknights.com/Refuge)).
+The fact Knight can get lost within the Whitespace of the Core which itself can be controlled through unknown means, we can make a proposal -- the __schematics describe a specification or a blueprint of the Core or of its components__. This would provide a plausible explanation, unrelatedd to the Artificat specifically, as Herex is familiar with it. This explanation allows us both to navigate and understand  the Core as a megastructure revolving around physical principles despite its [deific motifs](#divine-clockwork-tunnels-and-whitespace).
 
-The fact Knight can get lost within the Whitespace of the Core, which itself can be controlled through unknown means, we can make a proposal.
-
-Given further relation of gremlins to the Core, Consoles, and the Artifact, we propose, that the __schematics describe the specification - the mechanical design, a blueprint of the Core or its components__, which allow both to navigate and understand it as a megastructure revolving around physical principles, distinct from ones commonly observed in the material realm, albeit without inclusion of the Swarm, but, with consideration of Whitespace itself as the contents of the Core.
-
-We are yet to understand, what is responsible for chaotic pathways within the Core, - weather it is effect of Swarm's presence or a natural environment, as one related to the Nameless Realm, in both instances retrieval of specification of the Core as a man-made location completely alien to the rest of Cradle seems to be a proper step of preparations before descending into one.
+We are yet to understand, what is responsible for chaotic pathways within the Core, -- whether it is effect of Swarm's presence or a natural state of the environment. The retrieval of specification of the Core as a man-made location completely alien to the rest of Cradle seems to be a proper step of preparations before descending into one.
 
 It can be argued that members of Crimson Order should be capable of understanding and traversing the Clockworks, yet, there is no evidence of such principles being directly applied nor observed. As far Spiral Order is aware, there is at least one instance of anomalous movement of large region across Clockworks, being Firestorm Citadel: `We thought things were getting pretty predictable, even at the depths you've been exploring. The Core was in sight. But now some kind of massive negative energy anomaly has surfaced above the Core, blocking access to it. Recon Knights have said that all they see near it is fire, endless fire. We don't know what it is just yet, but squads near that depth have already gone missing. This is bad news` ([Ending in Fire - Kora](https://wiki.spiralknights.com/Ending_in_Fire)).
 
-#### Console: Part 3 - Artifact, Console, and a Hatch
+With the unpredictability of Clockworks as a motif, we apply it to the volume within the Core, and shcematics would allow to some degree gain control or predict its movements.
+
+#### Consoles: Part 3: Artifact, Console, and a Hatch
 
 It is suggested, that combination of the Artifact and console is capable of opening the Core. The terms of generator and the Artifact will be used interchangeably.
 
