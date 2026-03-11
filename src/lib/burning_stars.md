@@ -7916,7 +7916,7 @@ It is then a question of why a titan is slumbering. Given out proposal of titans
 
 Due to this, as a working proposal, we are leaning into, what we consider, satisfying narrative, of remaining titans fleeing the veiled homeland, followed by falling into an eternal slumber which utilized said sleeping mist reminiscent of the cursed miasma until Undercorp becomes less of a threat.
 
-#### Ice Queen
+#### Ice Queen: Part 1: Artifical Nature of Ice Cubes
 
 Ice Queen and rest of [Ice Cubes](https://wiki.spiralknights.com/Ice_Cube#Ice_Cube) can be grouped together as both possess the same frozen nature. Ice Cubes in particular can be re-frosted through application of frost status effect. As everfrost is extracted from freeze-themed enemies, it evokes the image of frozen-over Amu-Sol by Maulos where __frozen over Royal Jelly Palace is most reminiscent of frozen Amu-Sol through presence of supernatural cold__.
 
@@ -8972,39 +8972,37 @@ In order to arrive to a definitive conclusion, we must recover current knowledge
 
 #### Causality of Shadow Lairs
 
-As far as we have analyzed peculiar cases of cause and effect within the timeline - specifically, the logic and general mechanics behind Artifact consoles' activations and energy surging, we came to an idea of __console requiring activation, which allows Artifact to be placed, and open the Core__. At least the initial activation of the console has an effect onto the surroundings in the form of jamming communication. Presence of energy in preparations to the Artifact's placement seems to have forced resurgence of cursed fire at the Firestorm Citadel.
+As far as we have analyzed peculiar cases of cause and effect within the timeline of Clockworks, specifically, the [logic and mechanics behind consoles' activations and energy surges](), we came to an idea of __console requiring preemptive activation which allows Artifact to be placed and open the Core__. The initial activation of the console has an effect onto the surrounding environemnt in the form of jamming comminucations noise. Presence of energy in preparations to Artifact connection with the console causes the surroundings to be charged with excess energy, in this case manifested as the resurgence of curse. Across the Clockworks, the influence of Core's energy [manifests in physiological differences]() of inhabiting megastructure's tiers ecosystems.
 
-The energy surge is the part of console's preparation. With this, we have managed to explain the events of Shadowplay, as the Artifact was placed once the knight have arrived, while energy surge and jamming was identified earlier.
+The same logic was applied at the console of Royal Jelly Palace, as its activation had to precede the events of [A New Threat](), as only one signal was received by Spiral Order of an energy surge, and then tracked to the remaining activated console, `First, we've located an energy signature similar to the one emanating from that Artifact you found in the Clockworks. We're homing in on that energy signature now` ([A New Threat - Kora](https://wiki.spiralknights.com/A_New_Threat/Lobby)).
 
-The same logic was applied at the console of Royal Jelly Palace, as its activation had to precede the events of [Ancient Generator](), as only one signal was received by Spiral Order of an energy surge, and then tracked by the Artifact: `First, we've located an energy signature similar to the one emanating from that Artifact you found in the Clockworks. We're homing in on that energy signature now` ([A New Threat - Kora](https://wiki.spiralknights.com/A_New_Threat/Lobby)).
+By the time existence of Royal Jelly Palace was revealed (`I've been able to track down the source of that energy signature` - [Another Trace - Kora](https://wiki.spiralknights.com/Another_Trace)), Herex in possession of a charged at Razwog's facility Artifact had reached the Royal Jelly Palace console and used the Artifact to temporarily open the Core [exatly when Alpha Squad had reached the Core Terminal]() persued by the disturbed Swarm in proximity of openning Core.
 
-By the time existence of Royal Jelly Palace was revealed (`I've been able to track down the source of that energy signature` - [Another Trace - Kora](https://wiki.spiralknights.com/Another_Trace)), Herex in possession of a charged at Razwog's facility Artifact had reached the Royal Jelly Palace console and used the Artifact to temporarily open the Core by the time of which Alpha Squad had reached the Core Terminal.
+Generally, as stated in the beginning of [shadow lairs section](#shadow-lairs), all Shadow Lairs follow seemingly a different continuity -- as if they were located in a different timeline or chronology, separate from the rank missions, where the key entities were not defeated by the knight. There, we have attempted to resolve it through __complete acknowledgement of Undercorp as an actor, paramount to current state of Cradle__ _and responsible for existence of those depths within the Shadow Lairs_ [happening after the events of Dreams and Nightmares]().
 
-Generally, as stated in the beginning of [shadow lairs section](#shadow-lairs), all Shadow Lairs follow seemingly a different continuity - as if they were located in a different timeline or chronology, separate from the rank missions. There, we have attempted to resolve it through __complete acknowledgement of Undercorp as an actor, paramount to current state of Cradle__.
+##### Reignition of Shadow Firestorm Citadel
 
-Further we will reiterate on those ideas and conclusion in preparation to the final analysis of the Swarm and all of its relations.
+In the first analysis of Shadow Lairs -- of Shadow Firestorm Citadel, -- we proposed its approximate position within a timeline as following an activation of the console in the Throne Room, causing the lingering curse to be revitalized now in absence of Lord Vanaduke.
 
-##### Shadow Firestorm Citadel
-
-In the first analysis of Shadow Lairs - of Shadow Firestorm Citadel, - we proposed its approximate position within a timeline as following an activation of the console in the Throne Room, causing the entire cavern to be set aflame. Then, we proposed involvement of Undercorp as the only major actor within entire narrative, capable to manipulate curse to such extent, linking it both to cursing the Citadel and summoning Black Kats across Clockworks.
+Then, we proposed involvement of Underworld as the only major actor within entire timeline able to manipulate curse to such extent, linking it both to cursing the Citadel and summoning Black Kats across Clockworks.
 
 Through curse, the Citadel was transformed, with a few its portions resembling its crumbling state. As for Lord Vanaduke, as we had his still cursed finery, we suggested it being the evidence for his soul remnants lingering in the [specifics of his finery and mask's alchemy and design]().
 
-Then there was the case of Carnavons and Dread Seals. Based on earlier analysis of Black Kats, and then curse in general, we came to an idea of Dread Seal specifically - of a magic seal of purple color, and a seal on Faust, - to be Underworld's creation, while only Avenger's alchemy tree and sealed sword had their [curse negated, suppressed, and inverted](). Through this logic we proposed, that __the seal is used to forcefully bind an already departed soul to a corporeal body__, causing it to remain. This principle was then extrapolated onto Darkfire Lord Vanaduke, as his armor was prime argument for the Undercorp's involvement - explaining armor's design as forged from shadow steel with a purpose of containing Lord Vanaduke's soul brought back into material realm [over changed metaphysics of Cradle]().
+Then there was the case of Carnavons and Dread Seals. Based on earlier analysis of Black Kats and then curse in general we came to an idea of Dread Seals of purple color to be created by Underworld, while Avenger's alchemy tree and sealed sword had their [curse negated, suppressed, and inverted](). Through this logic we proposed that __the seal is used to forcefully bind a soul to a corporeal body__, causing it to [exhibit shadow damage from metaphysical restriction placed upon it](). This principle was then extrapolated onto Darkfire Lord Vanaduke, as his armor was prime argument for Underworld's involvement. His armor, [identified as his prison](), after his departure and reignition of fires through the activated console with the Artifact within, it was reforged from shadow steel in a new fiend-oriened design similar to other Underworld equipment made of shadow steel with a purpose of securing the Core.
 
-While those logical leaps resolve most of causal conflicts and contradictions, they present a level of interpretation, which either has no intention to be this complicated, oversight, or is intentional series of design choices, given our exploration of the timeline.
+While those logical leaps resolve most of causal conflicts and contradictions, they present a level of speculation with large logical leaps within the established plot.
 
 As we follow the idea of intentional designs such as these, we will attempt to justify existence of Shadow Lairs through this framework of a few prime actors within the timeline.
 
-##### Shadow Gloaming Wildwoods
+##### Cursed Miasma of Shadow Gloaming Wildwoods
 
-Shadow Gloaming Wildwoods were the result of Undercorp reenacting events of titans' fall through the release of curse into the woods from the collapsed grim gates' portals, paired with potential of Spiral Order discovering staging area of corrupted tortodrones during [March of Tortodrones](). This phenomenon came to be understood as the [miasma](). And given its application in modern times, we proposed that this method was used in the past, [when tortomega were annihilated by efforts of Undercorp]().
+Shadow Gloaming Wildwoods were the result of Undercorp reenacting events of annihilation of tortomega civilization fall through the release of curse into the woods of their veiled homeland from the collapsed grim gates' portals paired with potential of Spiral Order discovering staging area of corrupted tortodrones during [March of Tortodrones](). This phenomenon came to be understood as the [miasma]().
 
-##### Shadow Royal Jelly Palace
+##### Ice Queen: Part 2: Reenactment of Amu-Sol Incident
 
-Involvement of Undercorp seems us fitting both for Shadow Gloaming Wildwoods and Shadow Royal Jelly Palace, wi the later being a re-enactment of Maulos's invasion of Amu-Sol. His being a everfrost-imbued trojan with a proactive goal seem to parallel Ice Queens arrival to the Palace.
+Through discussion of the specifics of Frost Cubes and Ice Queen we came to the proposal of Shadow Royal Jelly Palace existing as a _reenactment of Maulos's usurpation of Amu-Sol_ by the Ice Queen. As Maulos was an everfrost-imbued trojan with a proactive goal, so Ice Queen's arrival to the Royal Jelly Palace, we have proposed, was strategically engineered to hinder progress to the Core by lowering the usurped Palace into the Shadow Lairs.
 
-We have suggested, that, as toxoils, oilers, and blast cubes were artificially created by gremlins, so were Ice Cubes and Ice Queen, - serving in the same manner as oiler, but on cooling chamber facilities, as both the location and frost-themed enemies are connected to supernatural frost of everfrost. Given earlier analysis of other regions of Clockworks, this seems plausible, as a if even slime royalty was involved into the experiments.
+We have suggested that _toxoils_, _oilers_, _quicksilvers_, and _blast cubes_ [were artificially created by gremlins](), so were [Ice Cubes and Ice Queen](), -- being functional elements of their corresponfing facilities. Across cooling chamber facilities everfrost is used as the source of tempreture regulation, and existence of __Ice Queen may be seen as an extreme end of gremlins' practice applied by Underworld to create Jelly royalty__. Within this narrative Underworld not only functions as the true perptrator concealing itself within the confict of warring factions, but utilizes gremlin technology within present confict _as it did so against Owlites and tortomega with their own technology_, and further, in a larger scheme, gremlins on Cradle.
 
 ##### Shadow Ironclaw Munitions Factory
 
