@@ -8980,7 +8980,7 @@ By the time existence of Royal Jelly Palace was revealed (`I've been able to tra
 
 Generally, as stated in the beginning of [shadow lairs section](#shadow-lairs), all Shadow Lairs follow seemingly a different continuity -- as if they were located in a different timeline or chronology, separate from the rank missions, where the key entities were not defeated by the knight. There, we have attempted to resolve it through __complete acknowledgement of Undercorp as an actor, paramount to current state of Cradle__ _and responsible for existence of those depths within the Shadow Lairs_ [happening after the events of Dreams and Nightmares]().
 
-##### Reignition of Shadow Firestorm Citadel
+##### Reignation of Shadow Firestorm Citadel
 
 In the first analysis of Shadow Lairs -- of Shadow Firestorm Citadel, -- we proposed its approximate position within a timeline as following an activation of the console in the Throne Room, causing the lingering curse to be revitalized now in absence of Lord Vanaduke.
 
@@ -8994,7 +8994,7 @@ While those logical leaps resolve most of causal conflicts and contradictions, t
 
 As we follow the idea of intentional designs such as these, we will attempt to justify existence of Shadow Lairs through this framework of a few prime actors within the timeline.
 
-##### Cursed Miasma of Shadow Gloaming Wildwoods
+##### Release of Cursed Miasma Across Shadow Gloaming Wildwoods
 
 Shadow Gloaming Wildwoods were the result of Undercorp reenacting events of annihilation of tortomega civilization fall through the release of curse into the woods of their veiled homeland from the collapsed grim gates' portals paired with potential of Spiral Order discovering staging area of corrupted tortodrones during [March of Tortodrones](). This phenomenon came to be understood as the [miasma]().
 
@@ -9004,63 +9004,69 @@ Through discussion of the specifics of Frost Cubes and Ice Queen we came to the 
 
 We have suggested that _toxoils_, _oilers_, _quicksilvers_, and _blast cubes_ [were artificially created by gremlins](), so were [Ice Cubes and Ice Queen](), -- being functional elements of their corresponfing facilities. Across cooling chamber facilities everfrost is used as the source of tempreture regulation, and existence of __Ice Queen may be seen as an extreme end of gremlins' practice applied by Underworld to create Jelly royalty__. Within this narrative Underworld not only functions as the true perptrator concealing itself within the confict of warring factions, but utilizes gremlin technology within present confict _as it did so against Owlites and tortomega with their own technology_, and further, in a larger scheme, gremlins on Cradle.
 
-##### Shadow Ironclaw Munitions Factory
+##### Recreation of Red Roarmulus Twins Through Applied Vog's curse
 
-Lastly, the Shadow Ironclaw Munitions Factory is one closely associated with fire theme of Grand Arsenal. The original factory, while in possession of Ironclaw gremlin clan was ordered to mass-produce Roarmulus Twins, so it is particularly close to warmaster Seerus. By the time Spiral Order invades Grand Arsenal during operation Crimson Hammer, it is framed as if those events take place after mission [Built to Destroy](), as Spiral Order is already aware of Project R.
+Lastly, the Shadow Ironclaw Munitions Factory is one closely associated with application of fire across Grand Arsenal during Isoran operation `Crimson Hammer`.
 
-The justification of Red Roarmulus Twins existence is generally unknown, given there were no prerequisites in favour of such designs nor observed preexisting designs.
+The original factory, while in possession of Ironclaw gremlin clan, was ordered to mass-produce Roarmulus Twins by Seerus of Crimson Order. This led to suggestion that [all clans serve Crimson Order, Great Colony, and abide to Iron Law]().
 
-But, under the current theory, we have suggested, that gremlins are in fact [very much familiar with more arcane or metaphysical properties of the Universe](), referred in the context of Clockworks as [magitech](), and, particularly, [ability to contain hazardous regions of Clockworks](), such being built in proximity of the Firestorm Citadel and Iron Hulk - the Gauntlet and Dry Docks, with the latter failing to the haunting.
+By the time Spiral Order invades Grand Arsenal during operation Crimson Hammer, it is framed as if those events _take place after_ [Built to Destroy](), as Spiral Order is already aware of Project R and the event regarding Roarmulus Twins' destruction were happaning at a fast pace.
 
-The notion of Clockworks falling to Underworld's influence is not restricted to Dry Docks, as we have seen, the state of CLockworks at Haunted Passages is one of greater examples of such case being evidently present.
+The justification of Red Roarmulus Twins existence is generally unknown, given there were no prerequisites in favour of such designs nor observed preexisting designs, other than Seerus's practice of utilizing fire-infused lasers across Grand Arsenal, __making him the only figure familiar both with the technology of fiery lasers and the Twins, as latter's engineer__.
 
-Then there is presence of Isorans as ones to force a final decision of destruction of Haven, as the development of Roarmulus Twins had began after Isorans crash landing, suggesting __their advancements to the Core to be as disruptive to Tinkinzar's plan as much as presence of loose entity like Emberlight__.
+We have suggested that gremlins are [familiar with more arcane and metaphysical properties of the Universe](), referred in the context of Clockworks as [magitech](), and, particularly, [ability to contain hazardous regions of Clockworks](), such being built in proximity of the Firestorm Citadel and Iron Hulk -- [modifying the Gauntlet]() and [securing Dry Docks](), with the latter being overtaken by the haunting of [perished Isorans of the vessel]().
 
-These factors, we propose, are the prerequisites for gremlins to develop a weapon, which is related in its design and nature to properties of Underworld/otherworldly in a far greater capacity.
+The notion of Clockworks falling to Underworld's influence is not restricted to Dry Docks, as we have seen, the state of Clockworks at haunted passages and fiend-inhabitet depths are the larger examples of such case being present.
 
-With this we may attempt to identify a reasoning for such design choice from the perspective of gremlins and approval or initiation from the Crimson Order.
+Then there is presence of Isorans as ones to force a final decision of destruction of Haven, as the development of Roarmulus Twins had began after Isorans crash landed, suggesting __their advancements to the Core to be as disruptive to Tinkinzar's plan as much as presence of loose factions like gremlns of Emberlight__.
 
-The idea of Herex not entering in proximity of Firestorm Citadel until Lord Vanaduke is defeated hints at an absolute danger of this location. This association with fire may be the reason for its integration into suppression arsenal of gremlins.
+These factors, we propose, are the prerequisites for gremlins to develop a weapon which is related in its design and nature to properties of Underworld in a far greater capacity, potentially even with assistance of Underworld directly, since Red Roarmulus Twins bear similarity to Vog-influenced armors and gear. We consider involvement of Underworld here as plausible as for prior described Shadow Lairs' regions.
 
-We suggest, that the transition to near-unnatural Vog-inspired hazardous design of Red Roarmulus Twins stems from the idea of replicating state of Firestorm Citadel as most potent roadblock to reaching the console. As Grand Arsenal was already heavily fire-themes, with its the battlepods possessing fire lasers, as ones of Red Roarmulus Twins, further development of fire-themed machinery seems fitting at least in the context of Seerus's affiliations with fire status effects and greater Crimson Order in case of Seerus's loss of influence after the fall of Grand Arsenal.
+With this we will attempt to identify a reasoning for such design choice from the perspective of gremlins and approval or initiation from the Crimson Order.
 
-The idea of Herex hunting the rest of Crimson Order would then be seen as further escalation of the conflict, wherein creation of another wonder-weapon would be justified. If we also consider the idea of Iron Law as one of perpetual status quo of the Core being sealed, any entity opposing this position would require an organizational resource to rebuild Roarmulus Twins. Given that Herex works as a rogue member of the Order, the existence of Red Roarmulus Twins can then be only seen as one attributed to Crimson Order.
+The idea of Herex not entering in proximity of Firestorm Citadel until Lord Vanaduke is defeated hints at a persisting danger of this location. This association with fire may be the reason for its integration into suppression arsenal of gremlins.
+
+We suggest, that the transition to near-unnatural Vog-inspired hazardous design of Red Roarmulus Twins stems from the idea of replicating state of Firestorm Citadel as the most potent roadblock to reaching the Core.
+
+As Grand Arsenal was already heavily fire-themed with its the battlepods possessing fire lasers, a further development of fire-themed machinery seems fitting at least in the context of Seerus's affiliations with fire status effect and greater Crimson Order.
+
+The idea of Herex hunting the rest of Crimson Order would then be seen as further escalation of the conflict, wherein creation of another wonder-weapon would be justified. If we also consider the idea of Iron Law as one of perpetual status quo of the Core being sealed, any entity opposing this position would require an organizational resource to rebuild Roarmulus Twins. Given that Herex works as a rogue member separate from the Order, ad at that point he is within the Core, the existence of Red Roarmulus Twins can then be only seen as one attributed to Crimson Order or Seerus directly as most prominent, living figure after his escape from the Grand Arsenal.
 
 ##### Unknown Passage
 
-While the above explanations for Shadow Lairs existence and justification within a single timeline were resolved, apart from the Core remaining sealed, one particular element had remained nit discussed.
+While the above explanations for Shadow Lairs existence and justification within a single timeline were resolved, apart from the Core remaining sealed, one particular element had remained not discussed.
 
-Every Shadow Lair ends in the Unknown Passage. We have previously pointed out a few design peculiarities of Passage's design, but now, we will use make a proper introduction to the Swarm from the point of megastructure's architecture.
+Every Shadow Lair ends in the Unknown Passage. We have previously pointed out a few design peculiarities of Passage's design, but now we will use make a proper introduction to the Swarm from the point of megastructure's architecture.
 
-Here we will _further attempt reasoning out of a different canon_, as an alternative interpretation to already visited events. We will place events of Shadow Lairs in concrete points of the timeline.
+<!--Here we will _further attempt reasoning out of a different canon_, as an alternative interpretation to already visited events. We will place events of Shadow Lairs in concrete points of the timeline.-->
 
-Unknown Passage's iteration is found in [It Came From Below](), but that instance seemingly has no justified reason to contain Whitespace blocks while not leading into the Whitespace.
+Unknown Passage is found during [It Came From Below](), but that instance seemingly has no justified reason to contain Whitespace blocks while not leading into the Whitespace.
 
-Here we will disclose an idea, which will be later explored in greater detail, but one we are rather confident - that _the Unknown Passage lead into the breach within the Core_, which Parma in the Refuge has mentioned: `We aren't sure what it is exactly, but it needs our help. This world was created to protect it but somehow The Swarm breached the Core and has been feeding on the energy and growing like a leech ever since` ([Dreams and Nightmares - Refuge - Parma's Scout](https://wiki.spiralknights.com/Refuge)). The presence of pink lightning within the Unknown Passage further affirms this idea of excess energy.
+Here we will disclose an idea which we will later explore in greater detail, but one we are observe as less conflicrting within the timeline -- __Unknown Passage leads into the breach within the Core__ which Parma at the Refuge has mentioned, `We aren't sure what it is exactly, but it needs our help. This world was created to protect it but somehow The Swarm breached the Core and has been feeding on the energy and growing like a leech ever since` ([Dreams and Nightmares - Refuge - Parma's Scout](https://wiki.spiralknights.com/Refuge)).
 
-Under this framework, we may suspect, that Sleeper is unable to control entrances to the Core, but capable of influencing the surrounding it areas through manifestation of Whitespace blocks.
+Under this framework, we may suspect, that Sleeper is unable to control entrances to the Core, but capable of influencing the surrounding it areas through manifestation of Whitespace.
 
-And, as the only proved so far instance of descending into the Core by the knight was evidently during Dreams and Nightmares, we suggest, that the Unknown Passage in [The Descend into Darkness]() of [It Came From Below]() had to be either located far above the near-Core depths, so that entrance to the Core was not reachable, - which would contradict presence of Whitespace blocks, - or the Swarm had to ascend to the lower depths, while the Core was sealed for the Gates operate as expected - to reach Haven.
+And, as the only proved so far instance of descending into the Core by the knight was evidently during Dreams and Nightmares, we suggest, that the Unknown Passage as [The Descend into Darkness]() of [It Came From Below]() had to be either located far above the near-Core depths, so that entrance to the Core was not reachable, -- which would contradict presence of Whitespace blocks, -- or the Swarm had to ascend to the lower depths, while the Core was sealed for the gates to lead into the Core and instead route to Haven.
 
-We can resolve this through the same logic as one we applied to the Shadow Firestorm Citadel - _of being set in different point in time_. By that we mean, that the Unknown Passage of [It Came From Below]() was indeed located near the Core by being a breached Core entrance, but due to sealed state of the Core in that moment of time, prior to the events of Shadowplay, any route inside the Core was impossible, as much as the entrance from the lower platform in the Core Terminal was blocked by a closed Core hatch.
+We can resolve this through the same logic as one we applied to the Shadow Firestorm Citadel - _of being set in different point in time_ -- that the Unknown Passage of [It Came From Below]() was indeed located near the Core by being a breached Core entrance, but due to sealed state of the Core in that moment in time, prior to the events of Shadowplay, any proper elevator route inside the Core was impossible, as much as the entrance from the lower platform in the Core Terminal was blocked by the closed Core hatch.
 
-Judging by the fact Swarm is present in the Hidden Hideout - a Crimson Order facility at a lower depth, seem to imply that _Swarm can ascent above Shadow Lairs_.
+Judging by the fact Swarm is present in the Hidden Hideout -- a Crimson Order facility at a lower depth, seem to imply that __Swarm can ascent above Shadow Lairs__.
 
-While at least one expedition to the Core Terminal after the King of Ashes is seemingly expected to happen, given presence of Vaelyn's on-site core team, then knight had to uncover depth 23 Clockwork Terminal's northern location of a few knights around the Shadow Lairs' elevators.
+While at least one expedition to the Core Terminal after the King of Ashes is seemingly expected to happen, given presence of Vaelyn's on-site core team, then knight had to uncover depth 23 Clockwork Terminal's northern location of a few knights around the Shadow Lairs' elevators. The existence of the northern location framed in a narrative of knight being unaware of the Swarms creates a lingering contradition of the present events and a resolution of those events happening after Dreams and Nightmares.
 
-It is the Shadow Key then, which would forbid further descend into the lairs. The item is out of place, both due to being a Swarm-related item, and a mechanic, never seen before. Of course, we assume there are in-universe reasons for the key to exist.
+It is the Shadow Key then, which would forbid further descend into the lairs. The item is out of place, due to being a Swarm-related item. We assume, there is an in-universe reason for the key to exist.
 
-Lastly, the are 4 more elements to discuss. The rectangular lopping pattern of the middle section of the Unknown Passage, the eye of the swarm sources, by which Unknown Passage is identified at the loading screen, and the pattern of several monster gates.
+<!--5 doors - comlex and unknown passage-->
 
-We will start from the gates. We point those out due to a reason - both the end platform of the Unknown Passage and final arena of the [Descent into Darkness](https://wiki.spiralknights.com/Dreams_and_Nightmares/Descent_into_Darkness) of the Dreams and Nightmares possess a series of doors, which deactivate as waves of the Swarm are cleared out. After all doors deactivate, the Swarm does not disappear in both instances.
+<!--We will start from the gates. We point those out due to a reason - both the end platform of the Unknown Passage and final arena of the [Descent into Darkness](https://wiki.spiralknights.com/Dreams_and_Nightmares/Descent_into_Darkness) of the Dreams and Nightmares possess a series of doors, which deactivate as waves of the Swarm are cleared out. After all doors deactivate, the Swarm does not disappear in both instances.-->
 
-But, the familiar design of specifically series of doors is also observed in the complex 357 in the laboratory of the west wing. There, the doors are unlocked by buttons which are secured by mineral blocks. Apart from suggesting a high importance to secure the laboratory with several doors, we do not have more leads.
+<!--But, the familiar design of specifically series of doors is also observed in the complex 357 in the laboratory of the west wing. There, the doors are unlocked by buttons which are secured by mineral blocks. Apart from suggesting a high importance to secure the laboratory with several doors, we do not have more leads.-->
 
-Previously we have suggested that the schematics had to be located in proximity of Herex's recon module, but given the room is located right nearby the exit elevator, it seems to vulnerable of a location, while the room with 5 locked doors seems far more secure, even if minerals are not supposed to be present across the complex. But, if we operate in game principles, the deepest location of the complex would be the one to hide most valuable information.
+<!--Previously we have suggested that the schematics had to be located in proximity of Herex's recon module, but given the room is located right nearby the exit elevator, it seems to vulnerable of a location, while the room with 5 locked doors seems far more secure, even if minerals are not supposed to be present across the complex. But, if we operate in game principles, the deepest location of the complex would be the one to hide most valuable information.-->
 
-The third notion is of obfuscated minimap on knight's HUD, which is reminiscent of the loss of signal for Firestorm Citadel instance of Console and Core during [The Path is Revealed](https://wiki.spiralknights.com/Dreams_and_Nightmares/The_Path_is_Revealed). [Previously](), we have suggested that due lack of the Swarm near the Consoles in the events of Shadowplay, it is Core's energy or the security measure which does not permit for communication to come through. In case of the Unknown Passage and, notably, Grasping Plateau, the minimap is hidden, which, in case of the latter, might be rather due to third party's interception of the connection, suggesting its power over the equipment. We have discussed this notion in relation to the Swarm's symbol of an eye, as it completely overtakes the icon on the elevator screens. But weather this is signal jamming - is unknown, as Core Terminal and the Core have clear minimaps. Due to this, we are leaning to the idea of the signal being intercepted locally.
+<!--The third notion is of obfuscated minimap on knight's HUD, which is reminiscent of the loss of signal for Firestorm Citadel instance of Console and Core during [The Path is Revealed](https://wiki.spiralknights.com/Dreams_and_Nightmares/The_Path_is_Revealed). [Previously](), we have suggested that due lack of the Swarm near the Consoles in the events of Shadowplay, it is Core's energy or the security measure which does not permit for communication to come through. In case of the Unknown Passage and, notably, Grasping Plateau, the minimap is hidden, which, in case of the latter, might be rather due to third party's interception of the connection, suggesting its power over the equipment. We have discussed this notion in relation to the Swarm's symbol of an eye, as it completely overtakes the icon on the elevator screens. But weather this is signal jamming - is unknown, as Core Terminal and the Core have clear minimaps. Due to this, we are leaning to the idea of the signal being intercepted locally.-->
 
-The last element of the discussion - the symbol of Unknown Passage, - will be left to the proper analysis of the Swarm. Here we are only acknowledging its existence. And in terms of acknowledgement, we have to address a peculiarity regarding its appearances across rank missions.
+<!--The last element of the discussion - the symbol of Unknown Passage, - will be left to the proper analysis of the Swarm. Here we are only acknowledging its existence. And in terms of acknowledgement, we have to address a peculiarity regarding its appearances across rank missions.-->
 
 ##### Acknowledgement of Encounters with the Swarm
 
