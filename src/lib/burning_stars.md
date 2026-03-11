@@ -1,5 +1,5 @@
 ---
-# Burning stars. Worldbuilding and mythology of Spiral Knights.
+# Burning stars. Worldbuilding, mythology, and megastructure of Spiral Knights.
 # for custom layouts see mdsvex.config.js
 layout: entries_rebis
 ---
@@ -28,7 +28,7 @@ layout: entries_rebis
 </h1>
 
 <SubTitleCentered>
-<em>Worldbuilding and Mythology of Spiral Knights.</em>
+<em>Worldbuilding, Mythology, and Megastructure of Spiral Knights.</em>
 </SubTitleCentered>
 
 Spiral Knights ficional setting had proven to be able to captivate years after its release. In this study we aim to provide an exhaustive answer what makes Spiral Knights succeed in this area through a popularized approach of analyzing its worldbuilding and story.
@@ -8610,7 +8610,7 @@ There is one more case of a language barrier during the events of [Operation Gre
 
 As far as this document discusses the specifics of gremlin language, we were unable to decypher it.
 
-#### Gremlin Schematics
+#### Complex 357 Schematics
 
 We have extensively covered the facility where the schematics are located being complex 357.
 
@@ -8660,44 +8660,51 @@ With the unpredictability of Clockworks as a motif, we apply it to the volume wi
 
 #### Consoles: Part 3: Artifact, Console, and a Hatch
 
-It is suggested, that combination of the Artifact and console is capable of opening the Core. The terms of generator and the Artifact will be used interchangibly.
+It is suggested, that combination of the Artifact and console is capable of opening the Core.
 
-Ancient [Generator](https://wiki.spiralknights.com/The_Artifact) can contain some amount of energy, as evident by Herex and Razwog dialogue, as Razwog was tasked to find a way to power the Generator: `Schemer Razwog: Work away from the others. The Order must never know we have the artifact. Find a way to power it. Bring it to me. Do not betray me. I will know` [Crossing the Chasm - The Journey to Haven - Herex](https://wiki.spiralknights.com/Crossing_the_Chasm/The_Journey_to_Haven) and `Too late again! I have already collected the power I need to use the Artifact and nothing you can do now will stop what I have set in motion` ([Shadowplay - Throne Room - Herex](https://wiki.spiralknights.com/Shadowplay/Throne_Room)). This energy, supposedly, allows t to power the console, as seen in the events of Shadowplay.
+The [Artifact](https://wiki.spiralknights.com/The_Artifact) can contain some amount of energy, as evident by Herex and Razwog dialogue, as Razwog was tasked to find a method to power it:
 
-Originally, the generator is made known of in the Power Complex-[like](https://wiki.spiralknights.com/File:Area-The_Ancient_Generator-Restoring_Power.png) facility, with wires [going up into the platform with the Artifact](https://wiki.spiralknights.com/File:TheArtifact-FirstSight.png). Both wires of the activated console and wires found all across Clockworks have the same animation of being powered, as a pulse of blue light travels across them. This design - of an idea of energy being transferred, - is similar to the pulse lines found in the holographic screen of an active console.
+- `Schemer Razwog: Work away from the others. The Order must never know we have the artifact. Find a way to power it. Bring it to me. Do not betray me. I will know` [Crossing the Chasm - The Journey to Haven - Herex](https://wiki.spiralknights.com/Crossing_the_Chasm/The_Journey_to_Haven).
+- `Too late again! I have already collected the power I need to use the Artifact and nothing you can do now will stop what I have set in motion` ([Shadowplay - Throne Room - Herex](https://wiki.spiralknights.com/Shadowplay/Throne_Room)).
+
+This charge allows the Artifact, when inserted into the Console, to power it, as depicted during the events of Shadowplay.
+
+Originally, the Artifact is made known of in the Power Complex-[like](https://wiki.spiralknights.com/File:Area-The_Ancient_Generator-Restoring_Power.png) facility, with wires [going up into the platform with the Artifact on it](https://wiki.spiralknights.com/File:TheArtifact-FirstSight.png). Both wires of the activated console and wires found all across Clockworks have the same flow of presumably electricity depicted as a pulsing blue light traveling across them. This design, of energy being transferred, is similar to the pulsing lines found in the holographic screen of an active console of Firestom Citadel.
 
 <!-- It is there both Cradle, its Moon, and Cradle's golden frame are depicted as essentials of what consoles operates with. Then, the intense light of an Artifact placed into the slot and connected to the console is similar to the light of the Core's shell plate seams, although lacking steam. Below the active console bolts of lightning are seen - that is another connection between role of Power Complexes and Clockworks, and general importance of energy. -->
 
-There is a quote regarding Razwog's power complex: `Our scans have located an ancient generator below this camp. It should be sending power to the surface, but something seems to be diverting it. We need you to go investigate the ancient generator and divert power back to the surface` ([Rescue Camp - Greta](https://wiki.spiralknights.com/Greta_Dialogue/Rescue_Camp)). Given the ends of this operation, we interpret this quote as if Razwog's facility was the one to prevent generator from sending power. The very fact of Spiral Order identifying the generator as the source of power conflicts with the earlier Herex's quote: `Schemer Razwog: Work away from the others. The Order must never know we have the artifact. Find a way to power it. Bring it to me. Do not betray me. I will know` ([Crossing the Chasm - The Journey to Haven - Herex](https://wiki.spiralknights.com/Crossing_the_Chasm/The_Journey_to_Haven)). This can be partially resolved through an idea of the generator now being charged, and at the time of Herex's quote it was not.
+There is a quote regarding Razwog's power complex: `Our scans have located an ancient generator below this camp. It should be sending power to the surface, but something seems to be diverting it. We need you to go investigate the ancient generator and divert power back to the surface` ([Rescue Camp - Greta](https://wiki.spiralknights.com/Greta_Dialogue/Rescue_Camp)). Given the purpose of this operation, we interpret this quote as if Razwog's facility was the one to prevent the Artifact from sending power to the surface. The very fact of Spiral Order identifying the Atifact as the source of power, conflicts with the earlier Herex's quote, `Schemer Razwog: Work away from the others. The Order must never know we have the artifact. Find a way to power it. Bring it to me. Do not betray me. I will know` ([Crossing the Chasm - The Journey to Haven - Herex](https://wiki.spiralknights.com/Crossing_the_Chasm/The_Journey_to_Haven)). This can be partially resolved through an idea of the Artifcat _by the time Isorans discovered its signal was already charged_ and at the time of Herex's quote it was not charged.
 
-Yet, it is unknown weather generator was originally found in Razwog's facility or was placed in order to be powered by the facility.
+Yet, it is unknown whether generator was originally found in Razwog's facility or was relocated there in order to be recharged.
 
-Moreover, it is stated that its power is being diverted, as rerouted. To where it is rerouted. The only lead here is the quote from Feron: `The name's Feron, Lieutenant of the Spiral Order. We had believed this entire complex was derelict until the elevator leading to it suddenly surged to life. Upon investigating the whole place soon went up in a blaze!` ([Crossing the Chasm - The Journey to Haven - Feron](https://wiki.spiralknights.com/Crossing_the_Chasm/The_Journey_to_Haven)). It suggests, that the facility was observed to be inactive, and as it is reached through a previously inactive elevator in the Rescue Camp, we suggest that it is power of the generator which reactivated this part of Clockworks.
+Moreover, it is stated that its power is being diverted from being sent to the surface. The only lead here is the quote from Feron, `We had believed this entire complex was derelict until the elevator leading to it suddenly surged to life. Upon investigating the whole place soon went up in a blaze!` ([Crossing the Chasm - The Journey to Haven - Feron](https://wiki.spiralknights.com/Crossing_the_Chasm/The_Journey_to_Haven)). This complex connects the chasm between rescue camp and south of Haven. It is suggested that this facility is connected to Razwog's complex as he is present there. Whether this complex was reactivated by the Artifact at Razwog's facility or just by the fact of confrontation with the knights, is also unknown.
 
-Then it is the other matter is of the fact that Herex warned off Razwog: `The Order must never know we have the artifact` ([Crossing the Chasm - The Journey to Haven - Herex](https://wiki.spiralknights.com/Crossing_the_Chasm/The_Journey_to_Haven)). This suggests, that:
+Then it is the other matter is of the fact that Herex warned off Razwog, `The Order must never know we have the artifact` ([Crossing the Chasm - The Journey to Haven - Herex](https://wiki.spiralknights.com/Crossing_the_Chasm/The_Journey_to_Haven)). This quote has several important implication in regards to Herex's plot:
 
-- __Artifact was not intended by the second highest gremlin authority - Crimson Order - to be found nor recovered__.
+- __Artifact was not intended to be found or retrieved, and should remain so by the second highest gremlin authority, Crimson Order__.
 
-    The Artifact was located below the camp and was detectable from the surface. The fact that power was seemingly diverted of it could mean that it was used for a different purpose, we are unaware of that purpose.
+  The Artifact was located below the camp and was detectable only from the surface of the camp, as its breached metal floor had revealed a service tunnel, through which Razwog's facility with the Artifact was reached.
 
-- __Crimson Order is aware of Artifact's function__. The seemingly un-powered state of the Artifact is then to be desired, as it was found by Herex as such.
+  The fact that power was seemingly diverted of it could mean that it was used for a different purpose -- we are unaware of that purpose.
+
+- __Crimson Order is aware of Artifact's function__. The seemingly un-powered state of the Artifact is then to be desired, as it was found by Herex in means of recharging it, _therefore both him and Crimson Order knows Artifact's purpose_.
 
 This idea of Herex going against Crimson Order was explored in a few other instances:
 
 - `The Iron Law is Broken! The Crimson Order is False! The Nine are blind, they cannot see the Truth that lies below. The Nine are deaf, they cannot hear the Resonance that beats within this world. Herex no longer serves as one of the Nine. Only Herex sees and hears the Truth. Only Herex will prevail. Follow Herex and you will be spared` ([Spark and Roar - Hidden Hideout - Herex](https://wiki.spiralknights.com/Hidden_Hideout)).
-- `Infiltrate the Complex. Take all schematics. The Nine are quite but we will silence them. The Knights persue but we will halt them. Only Herex comprehends the Truth. Only Herex will descend. There can be no other` ([Crimson Chaos - Complex 357 - Herex](https://wiki.spiralknights.com/Complex_357))
+- `Infiltrate the Complex. Take all schematics. The Nine are quite but we will silence them. The Knights persue but we will halt them. Only Herex comprehends the Truth. Only Herex will descend. There can be no other` ([Crimson Chaos - Complex 357 - Herex](https://wiki.spiralknights.com/Complex_357)).
 
-From this, we can conclude, that the __intention to open the Core is one prohibited by Crimson Order__.
+From this we can conclude that the __intention to open the Core is one prohibited by Crimson Order__ since the Artifact's function within the Consoles presents currently the most plausible explanation of why the Core was opened during Dreams and Nightmares.
 
 ##### Chronology of The Core Opening: Part 1
 
-Alpha Squad was sent into the Clockworks right after the crash landing, and most of te missions did follow their path, where they left behind Recon Modules. In the Core their last recon module is found: `We are at the end of the line. ...  And then we could go no further. As I record this, the darkness is nearly upon us, consuming the world we see, the light. But then the Core, it began to open, filling the place with such a light, such an intense, blinding light. Euclid has made the call; faced with the darkness, we'll enter the core, enter the light` ([Recon Module: Entrance to the Core - Parma](https://wiki.spiralknights.com/Recon_Module)). _It is the first time throughout rank missions Core was reported to open_.
+Alpha Squad was sent into the Clockworks right after the crash landing of Skylark, and most of the missions did follow their path, where they left behind Recon Modules. At the Core Terminal their last recon module is found, `We are at the end of the line. ...  And then we could go no further. As I record this, the darkness is nearly upon us, consuming the world we see, the light. But then the Core, it began to open, filling the place with such a light, such an intense, blinding light. Euclid has made the call; faced with the darkness, we'll enter the core, enter the light` ([Recon Module: Entrance to the Core - Parma](https://wiki.spiralknights.com/Recon_Module)). _It is the first time throughout rank missions Core was reported to open_.
 
 _The second time_ core was reported to open was during [A Call to Arms](https://wiki.spiralknights.com/A_Call_to_Arms): `This is Vaelyn at the Core Terminal. Team wiped out. Darkness everywhere. Send help. It is opening` ([A Call to Arms - Vaelyn](https://wiki.spiralknights.com/A_Call_to_Arms#Dialogue)).
 
-As we have no first-hand experiences of Alpha Squad descending into the Core, we will start our investigation from a more recent series of events, initialed by Shadowplay and followed by Vaelyn contacting regarding the Core in [A Call To Arms]().
+As we have no first-hand experiences of Alpha Squad descending into the Core, we will start our investigation from a more recent series of events, initialed by Shadowplay and followed by Vaelyn contacting regarding the Core in [A Call To Arms](https://wiki.spiralknights.com/A_Call_to_Arms).
 
-The restoration of the Citadel by Nature Sprites was halted seemingly due to activation of the console: `Though the nature sprites have been steadily making progress in fighting the flames, something or someone has recently caused a violent resurgence in its destructive power. Spiral HQ requests that you gather together a crack squad of knights and return to the collapsing ruins of Firestorm Citadel in order to discover the source of the disturbance.` ([Shadowplay](https://wiki.spiralknights.com/Shadowplay)). Yet, _it is activated only by the time knight reaches the throne room_, as Herex places the Artifact within the console.
+The restoration of the Citadel by Nature Sprites was halted seemingly due to activation of the Console: `Though the nature sprites have been steadily making progress in fighting the flames, something or someone has recently caused a violent resurgence in its destructive power. Spiral HQ requests that you gather together a crack squad of knights and return to the collapsing ruins of Firestorm Citadel in order to discover the source of the disturbance.` ([Shadowplay](https://wiki.spiralknights.com/Shadowplay)). Yet, __it is visually activated only by the time knight reaches throne room's Console__, _as Herex places the Artifact within the console_.
 
 Then, there is a call from Vaelyn during A Call To Arms, wherein Vaelyn states, that the Core is opening and only after which the events of Dream and Nightmares follow. The issue we observe here is of interpretation and timeline before Shadowplay.
 
@@ -8705,27 +8712,31 @@ In [The Flickering Flame](https://wiki.spiralknights.com/The_Flickering_Flame) t
 
 Kora reinstates: `We were in the middle of receiving a report from Lieutenant Vaelyn's team at the Core Terminal when our signal was disrupted. It took some time, but I've managed to pinpoint the source of the disruption. It's coming from that strange device you discovered near Vanaduke's throne room in Firestorm Citadel. It seems like someone has activated it. ... [Activated it? How?] ... We don't know for sure but it has to be related to the Artifact. The energy signatures are identical. If the Artifact is involved that means...` ([The Flickering Flame - Kora](https://wiki.spiralknights.com/The_Flickering_Flame)).
 
-There is a possibility of knight first reaching the surface, and only then receiving an emergency call from Vaelyn, if we consider ascent to the surface after Shadowplay as canon. On the other hand, we are not aware, weather effects of Artifact within the console differ from the state preceding events of Shadowplay -- that is what is the source of disruption, which had already had significant effects on the state of Citadel.
+There is a possibility of knight first reaching the surface, and only then receiving an emergency call from Vaelyn, _if we consider ascent to the surface at the end of Shadowplay as canon_. On the other hand, we are not aware, whether effects of the Artifact on the environment within the console differ from the state preceding events of Shadowplay as a source of disruption which had already had significant reigniting effect on the Citadel.
 
-It here also unknown, what were the contents of the previous report, which was not received: `We were in the middle of receiving a report from Lieutenant Vaelyn's team at the Core Terminal when our signal was disrupted. It took some time, but I've managed to pinpoint the source of the disruption` ([The Flickering Flame - Kora](https://wiki.spiralknights.com/The_Flickering_Flame)). But, as it is was stated, that Spiral HQ was in the middle of receiving a report, which can be interpreted as a comlink was already established and it was a regular report, or, it was blocked prior to being received.
+We also do not know what were the contents of the previous report which was not receivedp properly: `We were in the middle of receiving a report from Lieutenant Vaelyn's team at the Core Terminal when our signal was disrupted. It took some time, but I've managed to pinpoint the source of the disruption` ([The Flickering Flame - Kora](https://wiki.spiralknights.com/The_Flickering_Flame)). But, as it is was stated, that Spiral HQ was in the middle of receiving a report, which can be interpreted as:
 
-Then, in both cases, the disruption was sudden. It is here we are unaware of how much time has passed since Lord Vanaduke was vanquished, as up to that point most of the cavern within which Firestorm Citadel is located, was extinguished.
+- A comlink was already established and it was a regular report, so no information on Core's opening, or;
+- It was blocked prior to being received and heard.
 
-We can gather that right after Vanaduke was defeated, Vaelyn started her expedition: `I understand that Lieutenant Vaelyn has already led a team to the Core terminal and is establishing a base of operations for research` ([Honor and Duty - Feron](https://wiki.spiralknights.com/Honor_and_Duty)), and by the next mission a contact with the Core Terminal was established: `We've already established our research base and are collecting a tremendous amount of data that we would have never had without your efforts.` ([The Search Continues - Vaelyn](https://wiki.spiralknights.com/The_Search_Continues)). It is then assumed that the knight had to reach the Core Terminal at least once, evident by already established dialogue with Vaelyn and her team in [The Path is Sealed](), as well as the team reaching the Core during a few missions after [The king of Ashes]():
+In both cases the _disruption is sudden_. We are unaware how much time has passed since Lord Vanaduke was vanquished, as up to that point most of the cavern within which Firestorm Citadel is located, was mostly extinguished by Nature Sprites.
 
-- `I understand that Lieutenant Vaelyn has already led a team to the Core terminal and is establishing a base of operations for research` ([Honor and Duty - Feron](https://wiki.spiralknights.com/Honor_and_Duty)).
-- `We've already established our research base and are collecting a tremendous amount of data that we would have never had without your efforts` ([The Search Continues - Vaelyn](https://wiki.spiralknights.com/The_Search_Continues)).
+We can gather that right after Vanaduke was defeated, Vaelyn started her expedition: `I understand that Lieutenant Vaelyn has already led a team to the Core terminal and is establishing a base of operations for research` ([Honor and Duty - Feron](https://wiki.spiralknights.com/Honor_and_Duty)), and by the next mission a contact with the Core Terminal was established, `We've already established our research base and are collecting a tremendous amount of data that we would have never had without your efforts.` ([The Search Continues - Vaelyn](https://wiki.spiralknights.com/The_Search_Continues)).
 
-Based of Herex's activity, we can gather that he and his supposed "inner fold" (`All traces of Compound 42 should be eliminated, along with the facility and any engineers not part of the inner fold. Remind the scorchers who find these orders uncomfortable that those who disobey shall soon hear my whisper in their ears` - [Compound 42 - Containment - Herex](https://wiki.spiralknights.com/Compound_42/Containment)) moved into the Citadel once it became safe to traverse. We considered inner group mainly due to presence of gremlins in the Throne Room of Shadowplay with Herex. Here, real-time insertion of the Artifact into the console could be a hyperbolic gesture to emphasize the stakes at certain moment. Yet, we propose, this would not disregard the fact that the Core was opening and before it energy signature of the Artifact was detected. We could have unlinked this activity within the console to Core opening, but, due to how narrative is posed, it is the most likely connection.
+Since the latter mission directly states that the Core was reached by Vaelyn's team in a form of a notice, we can suggest that the knight is yet to reach the Core Terminal the second time from the Arcade, marking [The Path Is Sealed]() as the last encounter with Vaelyn before the events of Shadowplay.
 
-With this we have a following questions to examine:
+Based of Herex's activity, we can gather that he and his supposed "inner fold" (`All traces of Compound 42 should be eliminated, along with the facility and any engineers not part of the inner fold. Remind the scorchers who find these orders uncomfortable that those who disobey shall soon hear my whisper in their ears` - [Compound 42 - Containment - Herex](https://wiki.spiralknights.com/Compound_42/Containment)) moved into the Citadel once it became safe to traverse. We considered inner group mainly due to presence of gremlins in the Throne Room of Shadowplay with Herex. Here, real-time insertion of the Artifact into the console could be a hyperbolic non-canon gesture meant to emphasize the stakes at certain moment.
 
-- Was the Core opening before events of Shadowplay?
-- Is the time of detected by Spiral HQ energy signature one of the Artifact changing its state to charged or is it of the Console's activation with the charged Artifact which resonates across Clockworks?
+Yet, we propose, this would not disregard the fact that the Core was opening and before it energy signature of the Artifact was detected. We could have decoupled this activity within the console from the Core opening, but, due to how narrative is posed, it is the most likely a causal connection.
+
+With this we have a following questions to discuss:
+
+- Was the Core opening before events of Shadowplay, as it was meant to be Vaelyn's message?
+- Is the time of detected by Spiral HQ energy signature one of _the Artifact changing its state to charged_ or is it of _console's activation with the charged Artifact which had resonated across the Clockworks_?
 
 ##### Chronology of The Core Opening: Part 2
 
-There is an instance of the first time Core opening, which was witnessed by the Alpha Squad. This is the point of inconsistency introduced in the previous section:
+There is an instance of the first time Core opening which was witnessed by the Alpha Squad. This is the point of inconsistency introduced in the previous section:
 
 - `First, we've located an energy signature similar to the one emanating from that Artifact you found in the Clockworks. We're homing in on that energy signature now. Finding the source might help us understand what that gremlin schemer Razwog planned on doing with the Artifact or what the device is actually capable of` ([A New Threat - Lobby - Kora](https://wiki.spiralknights.com/A_New_Threat/Lobby)).
 
