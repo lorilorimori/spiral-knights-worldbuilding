@@ -102,6 +102,7 @@ In order to achieve desired level of cohesiveness of the research, we will outli
 - `The Dream-Quest of Unknown Kadath` and the Dream Cycle
 - `Blame!`
 - `Made in Abyss`
+- `Cibola Burn` of `The Expanse` series by James Corey
 - `Final Fantasy V`, `Final Fantasy VI`, and `Final Fantasy VII`-->
 
 ### Table of Contents
@@ -326,6 +327,8 @@ Weather this proposal as well as the prior categories of energy could be traced 
 In order to characterize descrete locations and associated items, we now will propose a term for the designs and environments within the Core, as observed during the events of [Dreams and Nightmares](https://wiki.spiralknights.com/Dreams_and_Nightmares), namely, the monochrome environemnt which takes form of mostly featureless cubes of varying size, phasing in and out of existence, and capable of forming pathways across internal volume of the Core, gates and mineral-like keys.
 
 For proper distinction we will define this environemnt as the _Whitespace -- a volume within the Core and the matter identifed by its unique shape, color and texture_. The Core will be referencing the encompassing structure observed from the outlook point of the Core Terminal.
+
+<!--Depictions of Whitespace also bear blue hue as it is observed at the bottom of gate map and Core depths' elevator icon.-->
 
 ##### Spiral Order and introduction to Alchemy
 
@@ -8096,7 +8099,7 @@ Moonstone then, when introduced to Creep Cakes, allows for an elemental connecti
 
 In terms of relation to sprite foods, given currently established nature of all sprites, the progression from more mote to stone, to orb, and to a star within the [Sprite Food Alchemy Machine](https://wiki.spiralknights.com/Sprite_Food_Alchemy_Machine), when considered with _focus of mineral dust_, may hint at existence of a _novel direction of minerals application_.
 
-#### Clockworks Megastructure and Magitech
+#### Clockworks Megastructure: Part 1: Magitech
 
 As previously explored, gremlin technology utilizes supernatural principles found across most civilization of Cradle, as owlites, tortomega, and devilites. We will discuss the remaining elements of Clockworks in the current state they are found in, while exlaining them through the existing framework.
 
@@ -8209,6 +8212,8 @@ Evidently, some structure of Cradle before its transformation into megastructure
 - Gloaming Wildwoods
 
 Gremlin compounds, [despite their role to gremlins](), remain incorporated into natural environments of skydomes which, when considered without their wilderness of undeath, seem as a generally better alternative to towns and settlements within Clowckworks proper, its tunnels, such cases being Emberlight. Whether Great Colony is also located outside of skydomes, is a valid question.
+
+Contents of __skydomes possess their own center of gravity__, as from the perspective of this landmass it is skdome which rotates, identified by the open gap top of the skydome. From the outside perspective of Clockwork tunnels all skydomes within the rotary gears of the pillars are oriented so their crane locking mechanism is always on top, allowing a crane from other pillars to transport them.
 
 ##### Haunted Clockworks and Underworld's Seige of Cradle
 
@@ -8469,6 +8474,7 @@ First, 3 new concepts are introduced by Whitespace, assumed to be located within
   - Through the border of the platform connected to the pillars over the ground goes a single pipe
   - But, Unknown Passage's platform has 3 paths extending from it, except south, behind the knight
   - Whitespace platform has only a single path and one of four pillars obscured by the different material comprised of physical Whitespace matter.
+  - The Clockwork tunnels' exit platforms also possess mounted floodlights, one by each side of the platform.
 
 - Transition from the metal design of Clockwork tunnels to an abstract shapes of Whitespace proper
 
@@ -8831,100 +8837,136 @@ We are left with 2 senarios:
 
   The quote `these personal recordings will have to suffice as a record of our expedition until HQ can establish an Uplink system with squads in the field` ([Recon Module: Gloaming Wildwoods - Euclid](https://wiki.spiralknights.com/Recon_Module)) might suggest that their entire expedition was devoid of contact with Spiral HQ, placing Alpha Squad's arrival at the Core Terminal earlier in the timeline.
 
-The latter scenario, while is more convoluted, reduces more inconcistencies emerging from a lack of information, and, importantly, resolves identification of a single signal by Kora, or if it had remained until he mission Sovereign Slime, it would suggest this time period Herex was traversion Clockworks to place charged Artifact into the first console would mean him visiting the Royal Jelly Palace twice. This scenarion would also resolve the issue of the console being destroyed yet its signal remaining, as it would be destroyed only after the Artifact was stolen from the Laboratory while th econsole was emitting the signal Kora managed to locate.
+The latter scenario, while it is more convoluted, reduces more inconcistencies emerging from a lack of information -- it resolves identification of a single signal by Kora, or, if it had remained until he mission Sovereign Slime, it would suggest this time period Herex was traversion Clockworks to place charged Artifact into the first console would mean him visiting the Royal Jelly Palace twice. This scenarion would also resolve the issue of the console being destroyed yet its signal remaining, as it would be destroyed only after the Artifact was stolen from the Laboratory while the console was _continiously emitting_ the signal Kora managed to locate after coming back online.
 
-#### Core Terminal
+#### Clockworks Megastructure: Part 2: Clockwork Terminals
 
-As we are approaching the Core, the distinct designs of Clockwork Terminal become more so important. Throughout terminals' analysis we will identify common motifs present only across a strict set of the depths. Those will include regular _Clockwork Terminals_, the _Core Terminal_, and the _Unknown Passage_.
+As knights approach the Core and its facilities, the distinct architecture of Clockwork Terminals starts to show.
 
-We will focus primarily on architecture and the design patterns which would allow to group those. As much of those locations are related to the Swarm, we consider its potential influence, as mentioned in [relation to nature of the schematics](), but so far we will start from the basic premise of common design elements as they are presented, weather or not those were a result of a third party's influence.
+Throughout terminals' analysis we will identify common architectural elements present only across a strict set of the depths. Those will include regular _Clockwork Terminals_, the _Core Terminal_, and the _Unknown Passage_.
 
-Primary element of all Clockwork Tunnels, Terminals, the Arcade and the Unknown Passage is the usage of _regular Clockworks tiles with no regional status effect affiliation_. Given presence of many other regions and areas with defined status effects, regular tunnels, despite them being encountered on par with other, considering the setting of Clockworks as of the megastructure, they would offer primarily a transportation system across different functional regions - connecting, for example cooling chambers to blast furnaces, as well as regular service tunnel around skydomes. Terminals, given their name and purpose, serve as static locations at set intervals, compared to changing surrounding environment.
+<!--As much of those locations are related to the Swarm, we consider its potential influence, as mentioned in [relation to nature of the schematics](), but so far we will start from the basic premise of common design elements as they are presented, weather or not those were a result of a third party's influence.-->
+
+Primary element of all Clockwork Tunnels, Terminals, the Arcade, Unknown Passage, and elevator of the Rescue Camp is the usage of _regular Clockworks tiles with no regional status effect_. Terminals specifically are located outside of skydomes.
+
+Given presence of many other regions and areas with defined status effects, regular tunnels, despite them being encountered on par with other, considering the setting of Clockworks as of the megastructure, [they would function primarily as a transportation system across different functional regions](#clockwork-pillars-and-skydomes), connecting megastructure's facilities, such as cooling chambers, wasteworks, and blast furnaces. Terminals, countrary to the volatile layout of Clockworks, given their name and purpose, remain static locations at set intervals acorss the variability of Clockworks' network of connections.
+
+##### Introduction to The Core Terminal
 
 In the context of not only Clockwork terminals, but Clockworks in general, Core Terminal and Unknown Passage possess a subtle chaotic mechanical design element, which contrasts the rest of Clockworks.
 
-On the main platform of the Core Terminal its most distinctive element is found, apart from the Core itself located below - _a peculiar amount of monitors irregularly stacked across the platform and walls_. Those monitors depict only a single image across their screens, being a blue lock, or, in case of [Dreams and Nightmares](), Shadow Lairs' or Swarms symbol of a pink eye on pure black static, with no distinction of a floor theme, compared to an established pattern of depth identification.
+On the main platform of the Core Terminal its most distinctive element is found, apart from the Core itself located below, __an excessive amount of monitors irregularly stacked across the platform and walls__. Those monitors depict only a single image across their screens, being a blue lock, or, in case of [Dreams and Nightmares](), evelator icon of Shadow Lairs -- a pink eye on pure black static, with no distinction of a floor theme, compared to an established pattern of depth identification.
 
-Based on the designs of Grand Arsenal, briefing room at the Aftermath, we can conclude that the _monitors are a gremlin technology_. Monitors possess a retrofuturistic design with their screens having distinct scan lines. The general box-like shape is reminiscent of analog television era technology. Although trivial, evident by presence of color this technology can be mapped at least onto the standards from real-world second half of 20s century. But, the general design may suggest, possibly, an underdeveloped state of that technology in the context of Clockworks.
+Based on the designs of Grand Arsenal, briefing room at the Aftermath, we can conclude that the _monitors are a gremlin technology_. Monitors possess a retrofuturistic design with their screens having distinct scan lines. The general box-like shape is reminiscent of analog television. Although trivial, evident by presence of color this technology can be mapped at least onto the standards from real-world second half of 20s century. But, the general design may suggest an underdeveloped state of that technology in the context of Clockworks and the specific of its range of technology baing applied to operate -- such example being a visual distinction between technology of Clockworks and consoles, _prior's analog telescreens to holographic displays of the latter_.
 
-In case of the Unknown Passage, despite it being infested by the Swarm, a design element can be seen through depth's layout - an inexplicably random placement of the 3-tile width roads, with a few defined looping sections, separated by the switch gates and irregularly placed 1-tile platforms which Swarm turrets emerging from them.
+##### Introduction to The Unknown Passage
 
-The pattern of 1-tile structures being placed nearby the tunnels' main passage is not a patterns restricted to Unknown Passage, but rather _it is observed across all Clockwork tunnels, disregarding their purpose_, although in a more symmetrical pattern.
+In case of the Unknown Passage, despite it being infested by the Swarm, a design element can be seen through depth's layout -- __an inexplicably irregular placement of the 3-tile widthwalkways with a few defined looping sections separated by the switch gates and irregularly placed 1-tile platforms mostly within the loops__ from which Swarm turrets strategically emerge.
 
-The layout of Unknown Passage has a distinct beginning and end, with established 5-tile width road leading to and from platforms with corresponding elevators, located on a single line of sight - from the perspective of a lower entrance platform, the exit elevator with its series of gates is located directly on the norse, with the space between those point being comprised of an aforementioned looping layout of 3-tile width roads. And of course, entirety of west and east sides of seemingly larger structure of the depth is missing, with 3-tile passages within seemingly lacking a cohesion, looping at irregular intervals and shapes.
+The pattern of 1-tile structures being placed nearby the tunnels' main passage is not a patterns restricted to Unknown Passage, but rather _it is observed across all Clockwork tunnels, placed in a symmetrical pattern_.
 
-But, one consistency allows us to suggest the following - a few configuration of layout of Clockwork tunnens possess a general starting position for the elevator of 4-pillar entrance platform and an exit with projectors, - those elements are characteristic for the tunnels, including ones in the Core and Shadow Lairs.
+The layout of Unknown Passage has a distinct beginning and end, with established 5-tile width road leading to and from the platforms with corresponding elevators, located on a single line of sight. The starting platform is located slightly below the passge and the exit elevator with its series of gates is located directly on the norse, with the space between those points being the looping layout of 3-tile width roads.
 
-In the Core Terminal, the entire main platform has a cone-like shape, pointing and ending at the precipice with the ground elevator to a lower platform, which from the sides is seen to lead directly to Core's supposed entrance.
+Entirety of west and east sides of seemingly larger structure of the depth are missing.
 
-This design of an extended, _rounded platform which also serves as a lookout point with a ground elevator leading to a lower walkway directly below_ an is very similar to the __walkways to the Gates in the Haven Arcade__. But, in case of the Core Terminal, the lower walkway, which is a few tiles away from the Core hatch itself, is broken, with the Core hatch itself, of course, being sealed.
+Noted initially in [relation to Whitesapce Clockwork tunnels](#divine-clockwork-tunnels-and-whitespace), all tunnels possess a specific layout of the entrance elevator platform, while the exit platform has mounted projectors, - those elements are characteristic of most Clockwork tunnels, including ones in the Core and the Unknown Passage.
 
-Core's surface itself has a few notable design elements, such as metal loops, placed seemingly for transportation purposes, similar to carrier hooks of transpoted by cranes skydomes across the [Clockwork pillars](), and a plated design of the shell covered with additional machinery, whose scale indicates its essential role for operation of the Core as a device. Core's seemingly suspended state also hints at the same principle which allows for contents of skydomes and Cradle to float - potentially, being the source of this gravitational behavior, unless it utilizes preexisting conditions of Cradle, given our past discussions on the nature of heavenly kingdom, Valkyries, and Owlites.
+##### Elevator Lookout Deck: Core Terminal, Arcade
 
-Core's hatch possess distinct features fitting well the scale of Core's shell components, megalithic in composition and layout. But, apart from them, the other distinct element of the hatch is a radial array of extended bolts, seen from a top of the Core Terminal's northern lookout ledge. Those bolts are most similar to _ones found on the prize boxes_, 4 in total, - one on each corner of the container, - extend as the box opens.
+In the Core Terminal, the main platform north of the elevator stairs has a cone-like shape, pointing further to the north, ending at the precipice with the ground-only elevator to a slightly concealed lower platform, which leads directly to Core's supposed entrancem, the hatch, depicted at the mission card of Dreams and Nightmares.
 
-We suggest, this design element coupled with air escaping the prize box, hints at the purpose of those features both for the prize box and the Core as a locking mechanism. This indicates, despite an observed glow from the seams of Core's shell, that the internal volume of the Core is intended to be in a controlled environment, __explicitly separate from the rest of megastructure__. This separation seems fitting due to the specifics of an environment of the Core revealed during the events of [Dreams and Nightmares]().
+This design of an extended, _rounded platform which also serves as a lookout point with a ground elevator leading to a lower walkway directly below_ identical to the __walkways to the Gates in the Haven Arcade__ and a __deck north of the Rescue Camp__, the latter leading to the derelict gremlin facility and Haven. In case of the Core Terminal, the lower walkway which is a few tiles away from the Core hatch itself is broken with the Core hatch being shut.
 
-The rest of the Core Terminal platform, its sides are protected by walls, with a small wall located at platform's center, where several monitors are placed against it. While walls can be explained by general safety measures, the chaotic element both of the _Unknown Passage's middle section and Core Terminal's monitors' placement_ seems as one requiring an analysis.
+We suggets that the positioning of those deck is intentional, designed for aforementioned purpose of observation of the facilities below, being the Arade pillars, Core and Core's hatch, and the chasm south of Haven. Among those instances we will keep track of Core Terminal's deck as of greater interest for us, as it is coupled with the presence of telescreens which are related to operation of Core's hatch through teh depicted symbol of a lock.
 
-While Unknown Passage's layout can be so far written off as the result of Swarm presence, the monitors had to be explicitly placed by gremlins in a such pattern, with a clear depiction of a message meant to convey the only important aspect and purpose of that depth - the state of the Core being locked. Given that the narrative revolves around the Core being sealed, as well as the general premise of the importance of the entrance to the Core, the meaning of Iron Law, he Artifact and Consoles to the Crimson Order, the symbol of a lock on gremlin technology at one of more important location can only convey a message in relation to a concrete design element present in that same location, of a Core remaining sealed.
+##### Design of Core's Shell
 
-We propose, that such placement is intentional and designed to introduce a currently unnamed property of megastructure's design, which we will refer not as chaotic as earlier, but organic, as it contrasts rigidity of Clockworks' designs both across static and changing depths. We are leaning to such direction, primarily to a following narrative emerging in relation to Clockworks:
+Surface of the Core, it shell, is observed in 2 instances: at the Core Terminal and on the main webpage of the game.
 
-- `I am confident that aside from a potential energy source, the Core is a kind of nerve center for everything you see within the Clockworks. You can feel it in what little air is down here; a wild, ominous sense that this is no mere machine` ([Vaelyn](https://wiki.spiralknights.com/Vaelyn)). - `Everything about the Core suggests there are no 'doors' into it. its not a structure built to enter from the outside. Rather, it seems just the opposite. ... I don't know, but it is certainly a terrifying picture she has painted. Something stirs within the heart of this world, something terrible. I've felt it since we first set foot on this world; invisible eyes watching our every move, shapes that form just out of view... something greater than gremlins calls this world home` ([The Search Continues - Vaelyn](https://wiki.spiralknights.com/The_Search_Continues)).
+<!--In the latter case, it is captured from a different angle which , depicting an opened hatch as light eminates from it. itself has a few notable design elements:-->
+
+- a plated shell covered with pipes. Those might indicate their essential role for operation of the Core and at least its shell. Apart from them there are e few metal loop which might have been utilized for purposes of transporation or anchoring by the Core.
+- Seams between the plates of the Core radiate light identical to the depiction of light from the opened hatch at the bottom of the webpage, as well as relatively reminisimilar to the depictions of Whitespace on knight's gate map.
+- Core is suspended an empty volume of the depth 29 which may hint at the same principle which allows contents of skydomes and Cradle to possess their own local center of gravity. Since there are powerfull winds seen below the platform of Core Terminal and beyond Core's horizon lit in red glowing smoke, we can suggest this chamber is large enough in its volume to allow wind patterns to form.
+
+Core's hatch possess distinct features fitting well the scale of Core's shell components as well as its megalith-like scale. The other distinct feature of the hatch is a _radial array of extended bolts_, seen from a top of the Core Terminal's northern ledge. Those bolts are most similar to _ones found on the prize boxes_, 4 in total, -- one on each corner of the container, -- which extend as the box opens.
+
+We suggest, this design element coupled with air escaping the prize box, hints at the purpose of those elemnts both for the prize box and the Core as a _pressurized locking mechanism_. This indicates, despite an observed glow from the seams of Core's shell, the internal volume of the Core is intended to be in a controlled, contained environment, __explicitly separate from the rest of megastructure__. This separation seems fitting due to the specifics of an environment of the Core revealed during the events of [Dreams and Nightmares]() and foreshadowed within the Gate Map.
+
+##### Purpose of The Core Terminal and Organic Motif
+
+<!--The rest of the Core Terminal platform, its sides are protected by walls, with a small wall located at platform's center, are mounted with aforementioned monitors placed against it.-->
+
+As other Clockwork Terminals, Core terminals has characteritic for tunnels elemnts, such as walls, placed on the sides of the platform and its center, monitars stacked against them.
+
+Yet, the chaotic element represented by the _main section's layout of Unknown Passage_ and _Core Terminal's placement of monitors_ is particularly mysterious.
+
+While the layout of the Unknown Passage can be written off as an obscure result of Swarm presence, the __monitors had to be placed by gremlins in such irregular pattern__ _with an intent derived of the purpose of the screens to depict certain information essential to the context of the location as the closest to access the Core_. As the monitors depict an lock icon in elevator-like design, we have interpreted it as the state of the Core being locked.
+
+The concealed nature of Herex's retrival of the Artifact coupled with the assumtion that Crmson Order had intentionally hid the Artifact since they were aware of its function suggests that Crimson Order does not allow the Core to be opened.
+
+<!--Given that the narrative revolves around the Core being inaccessible, as well as the general premise of the importance of the entrance to the Core, the meaning of Iron Law, the awareness of Crimson Order of Artifact's function, the symbol of a lock can only convey a message in relation to a concrete design element present in that same location, of a Core remaining sealed.-->
+
+We propose, that such placement is intentional and designed to introduce a currently unnamed property of megastructure's design which we will refer not as chaotic, as earlier, but organic, as it contrasts rigidity of Clockworks' layout, which we will couple with _Isorans' perception of the megastructure as a living organism_:
+
+- `I am confident that aside from a potential energy source, the Core is a kind of nerve center for everything you see within the Clockworks. You can feel it in what little air is down here; a wild, ominous sense that this is no mere machine` ([Vaelyn](https://wiki.spiralknights.com/Vaelyn)).
+- `Everything about the Core suggests there are no 'doors' into it. its not a structure built to enter from the outside. Rather, it seems just the opposite. ... I don't know, but it is certainly a terrifying picture she has painted. Something stirs within the heart of this world, something terrible. I've felt it since we first set foot on this world; invisible eyes watching our every move, shapes that form just out of view... something greater than gremlins calls this world home` ([The Search Continues - Vaelyn](https://wiki.spiralknights.com/The_Search_Continues)).
 
     Aspects of stirring, a heart, and eyes are established.
 
-    The part where `invisible eyes watching our every move, shapes that form just out of view` is closely similar to the Swarm, as an _entity with a distinct eye symbolism_. The same motif was presented by Herex: `I am the thousand eyes that watch you in the darkness. I am the hissing blade that whispers your doom. Tear down every wall and cog in this accursed place and you will find only shadows` ([A New Threat - The Lab - Herex](https://wiki.spiralknights.com/A_New_Threat/The_Lab)). But, weather this is meant to convey the connection of the two in a different, literal meaning, we will not discuss for now.
+    The part where `invisible eyes watching our every move, shapes that form just out of view` is closely similar to the Swarm, as it is an entity most associated with eye symbolism. The same motif was presented by Herex, `I am the thousand eyes that watch you in the darkness. I am the hissing blade that whispers your doom. Tear down every wall and cog in this accursed place and you will find only shadows` ([A New Threat - The Lab - Herex](https://wiki.spiralknights.com/A_New_Threat/The_Lab)).
 
 - `The Core that we seek, there's something truly dreadful about it. I know that it may very well be what gets us home, but I can't shake this feeling that we've been thinking about it all wrong. ... I mean that the Core isn't a big battery that runs this world, but rather it and the whole of this world is a massive prison designed to keep something from ever leaving. Think about our geo-scans of Cradle just before the crash- they show it as being composed of hundreds of massive slabs of other worlds, almost like plates of armor. Then you have the Clockworks, the most unnatural thing I've ever seen. An entire world whose sole purpose seems to be stopping anyone from ever reaching its Core` ([Becoming a Champion - Feron](https://wiki.spiralknights.com/Becoming_a_Champion)).
 
-    The idea of a prison or a containment, and an unnamed planetary will is found here.
+    The idea of a prison or a containment, and an unnamed planetary will is found here. This idea of a prison is being juxtaposed by Vaelyn to an initial perception of Cradle as a fortress, foreshadowing a relation of the Architect with the Clockworks, `THIS WORLD WAS CREATED TO PROTECT ME. VULNERABLE IN SLUMBER, WORLDS WERE DRAWN TO SHIELD ME FROM THE DARKNESS. THIS WORLD HAS BECOME MY PRISON` ([Echo Stone: Ironclaw Munitions Factory]()).
 
 - `This is a world designed to confuse its travelers. It wants to trap and destroy them. I'm starting to think its like a cat, toying with its prey before delivering the final blow` ([Recon Module: Ironclaw Munitions Factory - Rulen](https://wiki.spiralknights.com/Recon_Module)).
 
-It is due to those associations with characteristics, which can only be attributed to a living sentient being, we call this an organic motif.
+Depending on the interpretaion of the events which had led to Crimson Order preventing the Core to be ever opened, we can assume a _foreboding nature_ which may have been the reason for such placement of the monitors, which also manifests in the deterirating state of the lower part of the terminal as a _broken off bridge above the hatch_. So far those are hypothetical scenarios, but ones which we will keep track of, as they may allow us to refine the events that preceeded arrival of Skylark.
 
-From here, we can finally begin to analyze the Swarm. First we have to return to the monitors.
+#### Eye Iconography of Shadow Lairs
 
-##### Swarm's Presence
+When the Core is sealed, the monitors depict an imagery of a blue lock on the background of 2-color pale blue pattern similar to established status effect of a depth on the elevator gates. The color blue was for the most part associated with energy and therefore the Core. While Core's color is seen as predominantly while at the Arcade Gates, and as it is seen by the design of Whitespace, blue color is found on elevator icons within the Core and seams of Core's shell plates. The lock, as we proposed earlier, is meant to identify the [state the Core remains in]().
 
-When the Core is sealed, the monitors depict an imagery of a blue lock on the background of 2-color pale blue pattern similar to established status effect of a depth on the elevator gates. The color blue was for the most part associated with energy, and the Core. While Core's color is seen as predominantly while at the Arcade Gates, and as it is seen by the design of Whitespace, blue color is found on elevator icons within the Core and seams of Core's shell plates. The lock, as we proposed earlier, is meant to symbolize the state the Core operates.
+During the event of [The Path is Revealed](https://wiki.spiralknights.com/Dreams_and_Nightmares/The_Path_is_Revealed), black static with no hue overtakes the background. On the foreground, it is the symbol of a pink eye associated with the Shadow Lairs. With this, we are presented several instances of depths marked with that symbol:
 
-During the event of [The Path is Revealed](https://wiki.spiralknights.com/Dreams_and_Nightmares/The_Path_is_Revealed), black static with no hue overtakes the background. On the foreground, it is the symbol of a pink eye, so far associated with Shadow Lairs.
+- Depth 23 Clockwork Terminal leads to locked elevators to the Shadow Lairs, those elevators' monitors depict symbol of Shadow Lairs
+- Past the locked elevators Shadow Lairs begin. Even when Swarm's implied presence is found only near the exit elevator, those depth remain marked as parts of Shadow Lairs' depths _at an unknown depth_.
+- The Unknown Passage in its 2 variants -- Unknwon Passage and [A Descent into Darkness](https://wiki.spiralknights.com/It_Came_From_Below#Gate_Map), as part of the Shadow Lairs, bears their symbol on the Gate Map.
 
-From here on out, we will consider appearances of Swarm's symbols as canon.
+Then there are location with presence of the Swarm but their icons bith on the gate Map and evelators depict a standard icon acording to Clockwotks' pattern:
 
-With this, we are presented several instances of depth which are marked with that symbol:
+- Cooling chamber depath labeled [Into the Maw] during mission [It Came From Below](). The depth possesses an elevator to Unknown Passage. The elevator is surrounded with black clouds and depicts Shadow lairs' elevator icon.
+- Core Terminal at [Dreams and Nightmares](https://wiki.spiralknights.com/Dreams_and_Nightmares) bears its Clockwork Terminal elevator icon. Only the telescreens of the Core Terminal platform display the symbol of Shadow Lairs.
+- Clockwork Terminal at depth 23 leads to a northern location with locked elvators to Shadow Lairs. Those elevators have no black clouds but depict an eye.
+- Herex's Hidden Hideout has a regular Clockworks tunnel icon despite black clouds of the Swarm found surrounding the hideout.
+- Core's depth of Descend Into Darkness has no depiction of an eye, despite being one of locations with the Swarm being present the most.
 
-- Shadow Lairs' depths, where Swarm's implied presence is found only at exit elevators
-- Depth 23 Clockwork Terminal entrances to Shadow Lairs
-- The Unknown Passage
+This pattern of presence of an eye we will attempt to fit into an established framework of how _elevators display depths_. The elevators depict a theme and an enemy type of a target depth. The theme and monster type are predetermined from a select roster which is identical between knight's interface and the elevator, and, since the icon is derived of the elevators, __it is gremlins' system of depth classification__.
 
-Then, there 4 location with presence of the Swarm, but with a default icon:
+Some location which are present in planet's volume, but either alien to it or depict a concrete area, such as munitions factory, Scarlet Fortress, Firestorm Citadel, Grand Arsenal, -- they possess a distinguished from the service tunnels icon, -- the region icon which corresponds to contents of those depths.
 
-- Cooling chamber of [Into the Maw] from [It Came From Below](). The depth possesses an elevator to Unknown Passage. The elevator is surrounded with black clouds.
-- Core Terminal at Dreams and Nightmares, has its Clockwork Terminal icon, while the as its gate icon remains to be a terminal, with only its monitors displaying the symbol.
-- Clockwork Terminal at depth 23 leads to a northern location with entrances to Shadow Lairs. Those elevators have no black clouds, but possess an eye.
-- Hidden Hideout has a regular Clockworks tunnel icon.
-- Core's depth of Descend Into Darkness has no depiction of an eye, despite being one of locations with the Swarm most presence.
+There are also gremlin complexes, compounds, and camps, where only the prior has a distinct icon identical to one of Ironclaw Munitions Factory.
 
-This pattern of presence of an eye we will attempt to fit into an established framework of how Clockwork display depths at elevator screens and who is responsible for the depiction of a gate map from the perspective fo a knight.
+If we commit to the idea those icons are designed by gremlins, we can extract a pattern, where the icon is meant to depict a major, predominant, definitive element of the depth. For Ironclaw Munitions Factory and complex 357 it is an icon of a rocket, for castles -- a tower, for tunnels -- a cog, characteritic of mechanical motif of Gret Colony gremlins. _Those icons coincide with location's purpose_.
 
-To start off, the elevators depict a theme and an enemy type of followed depth. The theme and monster type are predetermined from a select roster which is identical between knight's interface and the elevator.
+While Spiral Order has its own [enemy classification system], which occasionally can not identify an enemy, it exists separately from depths' icons, which leads us to suggest that this separation is such as it is described above. In order for Knights to orient themselves within Clockworks, _they utilize a preexisting system of symbols_, which is then incorporated into Spiral Order as long as they remain on Cradle.
 
-Some location which are present in planet's volume, but either alien to it or depict a concrete area, such as munitions factory, Scarlet Fortress, Firestorm Citadel, Grand Arsenal, - all possess a distinct from the tunnels icon - the region icon, which corresponds to contents of those depths, identified by a semi-linear path from an entrance elevator to one of the exit.
+Within the symbolic system of gremlin design we can now identify role of Shadow Lairs' elevator icon.
 
-There are also complexes and camps, where only the prior has a distinct icon.
+The symbol is either:
 
-If we assume, that those icons are designed by gremlins, we can extract a pattern, where the icon is meant to depict a major, predominant, definitive element of the depth. For Ironclaw factory and complex 357 it is an icon of a rocket, for castles, it is a tower, for tunnels, it is a cog, - all of those icons coincide with locations' purpose.
+- Gremlin's identification of the Swarm as important enough to break an established system of icon formation.
+- Assuming that the Swarm operates as a hive due to its name, we can suggest the elevator icon being hijacked by the Swarm as it is capable of interfacing with gremlin technology, observed in action by the different color of electric lights of the skydom systems of the Unknown Passage.
 
-While Spiral Order has its own [enemy classification system], which occasionally can not identify an enemy, it exists separately from depths' icons, which leads us to suggest that this separation is such as it is described. That in order for Knights to orient themselves within Clockworks, _they utilize a preexisting system of symbols_, which is seemingly accepted by all of present sentient civilization on Cradle.
+In both scenarios the symbols itself is not yet explained. More so, as the knight traverses Shadow Lairs, __they do not encounter eye symbolism directly from entities of the Swarm__. Yet, there is only one being with an eye and associated with the Swarm -- one appearing at the end of The Path is Revealed. Since it is the only entity with a distinct eye, __we interpret it as the intitial source of eye symbolism for the Swarm__.
 
-Within this system of gremlin design we can now identify role of Shadow Lairs' elevator icon. ere we will follow 2 scenarios to properly identify it. Either:
+We propose it would be plausibe to consider presence of __this entity to be the source of eye symbolism__:
 
-- The Swarm overtakes a preexisting intended depth icon by its own;
-- Or, the elevator can recognize a followed depth by its primary element.
+- In the first scenario it is required for grelins to observe this entity in order to depict it within the elevators.
+- In the second scenario we can view this being as an avatar of Swarm's presence, forcig and making itself known within the technology it can reach.
+
+While we will not commit to a single interpretation, we should note on the Core Terminal monitors depicting the eye instead of a lock once the Core had opened. It remains unknwon whether it is an accounted state of those systems to depict the eye.
 
 In order to arrive to a definitive conclusion, we must recover current knowledge of Shadow Lairs.
 
@@ -10887,12 +10929,13 @@ Nameless Realm and material realm are connected through the Whitespace within th
 - The Artifact, used to power the consoles, is hidden by Crimson Order in an unknown location.
 
 - Crimson Order member Herex is influenced by the same madness as one afflicting king Tinkinzar, causing him to seek the Artifact while being aware of the Swarm.
+- The console at Royal Jelly Palace is activated by Herex, now available for a charged Artifact to be placed.
 
 - Compound 42 is established by Herex with means of opposing Crimson Order.
 
 - Artifact is recovered by Herex and is brought into the derelict power complex facility below Rescue Camp near Haven. Razwog is tasked with recharging the Artifact.
 
-- Another Isoran vessel - Skylark, discovers Cradle. Cradle's automatic defenses, as they are not controlled by gremlins at this point in time, strike Skylark down, causing it to crash land on Cradle's surface near the chasm south of Haven.
+- Another Isoran vessel, Skylark, discovers Cradle. Cradle's automatic defenses, as they are not controlled by gremlins at this point in time, strike Skylark down, causing it to crash land on Cradle's surface near the chasm south of Haven.
 
 - Alpha Squad begins a descend.
 
@@ -10902,8 +10945,8 @@ Nameless Realm and material realm are connected through the Whitespace within th
 
 - Skylark crew retrieves vessel's secondary generator, moving it to Strangers' Haven Lab, establishing there prime research facility with most of retrieved artifacts/boss trophies nearby a reinforced bunker, repurposed as the Spiral HQ command and a Guild Hall.
 - The knight is tasked with retrieving the Artifact in the events of the [Ancient Generator]() and [Crossing the Chasm]() into Haven. By that time the Artifact is charged and is stored in Razwog's facility.
-- The Artifact is placed into Haven Laboratory.
-- The console at Royal Jelly Palace is activated by Herex, now available for a charged Artifact to be placed. At that point the Artifact is in possession of Spiral Order, located in Haven Laboratory while Kora detects signal of the console.
+- The console at Royal Jelly Palace is activated by Herex, now available for a charged Artifact to be placed.
+- The Artifact is relocated into Haven Laboratory.
 - Herex retrieves the Artifact from the Laboratory and carries it to Royal Jelly Palace.
 - The moment the Console in the Royal Jelly Palace is activated, both Swarm senses it and approaches the Core, as well as Alpha Squad reaches the Core Terminal, entrance to the Core.
 
