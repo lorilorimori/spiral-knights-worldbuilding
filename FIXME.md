@@ -28,6 +28,7 @@
 - canon ~> cannon
 - rebis thery is removed
 - Console -> console
+- lab -> laboratory
 
 ### CONSIDER
 
