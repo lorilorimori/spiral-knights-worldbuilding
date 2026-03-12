@@ -1,8 +1,8 @@
 # Worldbuilding of Spiral Knights
 
-This repository contains the sources of a study of Spiral Knights fictional setting, lore, mythology, and its worldbuilding -- [`src/lib/burning_stars.mdx`](./src/lib/burning_stars.md), -- and its additional materials.
+This repository contains the sources of a study of Spiral Knights fictional setting, its lore, mythology, and worldbuilding ([`src/lib/burning_stars.mdx`](./src/lib/burning_stars.md)).
 
-The document is built for multiple targets: `.pdf` or a webpage:
+The document can be built for multiple mediums: `.pdf` or a webpage.
 
 Build requirements:
 
