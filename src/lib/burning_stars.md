@@ -1,5 +1,5 @@
 ---
-# Burning stars. Worldbuilding, mythology, and megastructure of Spiral Knights.
+# Burning stars. Worldbuilding and mythology of Spiral Knights.
 # for custom layouts see mdsvex.config.js
 layout: entries_rebis
 ---
@@ -28,7 +28,7 @@ layout: entries_rebis
 </h1>
 
 <SubTitleCentered>
-<em>Worldbuilding, Mythology, and Megastructure of Spiral Knights.</em>
+<em>Worldbuilding and Mythology of Spiral Knights.</em>
 </SubTitleCentered>
 
 Spiral Knights ficional setting had proven to be able to captivate years after its release. In this study we aim to provide an exhaustive answer what makes Spiral Knights succeed in this area through a popularized approach of analyzing its worldbuilding and story.
@@ -3100,11 +3100,11 @@ The events of all of so far covered kingdoms are framed in a genre of fantasy, b
 
 Then there is the Core concealing Whitespace as completely alien to any other location, and the rest of Clockworks which hold and contain aforementioned individual regions. With the Core, the rest of megastructure -- Clockworks, -- is grouped together under current assumption of being man-made creation -- gremlins'.
 
-If we consider a possibility of the Whitespace in unknown physical appearance to exist prior to construction of the Core around it not as a gremlin technology but, given its effects onto reality, a preexisting phenomenon, how ot would be possible and where are its limits?
+If we consider a possibility of the Whitespace in unknown physical appearance to exist prior to construction of the Core around it not as a gremlin technology but, given its effects onto reality, a preexisting phenomenon, how it would be possible and where are its limits?
 
-Could pre-Core existe of Whitespace, given motif of Heavens for valkyries and by magnitudes greater presence of magic, compared to accounts of Isorans affirmed by their age as an interstellar civilization, explain those notions?
+Could existence of Whitespace before the Core, given motif of Heavens for valkyries and by magnitudes greater presence of magic, compared to accounts of Isorans affirmed by their age as an interstellar civilization, explain those notions?
 
-As there are only a few signs of the nature of existence outside of Cradle, most of which come from extrapolated Isoran past, operations of Undercorp, and Apocrea's plan, assuming latter's operation being unaffected by its entrance located in proximity of the Core.
+As there are only a few signs of the nature of existence outside of Cradle, most of which come from extrapolated Isoran past, operations of Undercorp and Apocrea's plan, assuming latter's operation being unaffected by its entrance located in proximity of the Core.
 
 Through this logic, as the Core conceals Whitespace, we could plausibly include preemptive existence of this life-animating influence on nearby civilizations through their abundant connection with supernatural on modern Cradle, compared to the rest of existence, if those civilization originate from a single location, a precursor to mechanical Cradle.
 
@@ -7945,9 +7945,9 @@ From there we gat a few trivia regarding operation of Undercorp and potentially 
   - `Don't mind Hubert, he's been de-spiked` ([Clockworks - Scenario Room - Geo Knight](https://wiki.spiralknights.com/Scenario_room)).
   - [Haven Lab](https://wiki.spiralknights.com/Lab) in particular contains de-spiked Ice Cube.
 
-- `One day I’ll win enough to build my own palace! Glorp glorp!` ([Golden Slime Casino - Jelly Cube](https://wiki.spiralknights.com/Golden_Slime_Casino)). This implies, that with enough crown which are established to be also used by Jelly Kingdom, one could achieve a status of nobility within the hierarchy of the kingdom. This would also lead to the earlier method of lichens incorporating cores to be not the only method one can become a nobility, but rather the status of a colony itself, as an organism, gaining physical power demonstrated by lichen colonies and instances of jelly royalty across Cradle. This can be a reasonable suggestion, given that Ice Queen possesses only 3 cores, instead of any larger number, observed the prior instances, and the fact she is stated to have usurped the palace: `The Royal Jelly Palace has frozen over and it's king usurped by the true heir to the slimy throne, the frigid Ice Queen!` ([Shadows Fall Over Cradle!](https://forums.spiralknights.com/en/node/29852)).
+- `One day I’ll win enough to build my own palace! Glorp glorp!` ([Golden Slime Casino - Jelly Cube](https://wiki.spiralknights.com/Golden_Slime_Casino)).
 
-The jelly norse of the casino is identified as the royal jelly, also evident by its crown. Notably, this instance of royal jelly seemingly has a single royal core which suggests that one _to become a royalty does not to become a colony of multiple cores_.
+  It implies that with enough crowns which are established to be also used by Jelly Kingdom, one could achieve a status of nobility within the Jelly hierarchy. Notably this jelly cube has a small crown which allows it to be identified as a noble. This would lead to the earlier method of _lichens incorporating cores to be not the only method one can become a nobility_, --  but rather __the status as a colony may be only one of multiple means of attaining physical power__. This can be a reasonable suggestion, given that Ice Queen possesses only 3 cores and this jelly with a crown possesses only a single core.
 
 What is the relation of devilites to the casino? The [Yesmen](https://wiki.spiralknights.com/Yesman) at the [casino](https://wiki.spiralknights.com/Golden_Slime_Casino) state:
 
@@ -9416,13 +9416,13 @@ It is implied that gremlins had an assistance in building Clockworks. As in Whit
 
 As it is the only instance of Swarm gaining power with the exactness of the method it gains it, we suggest it being the metaphor for creation:
 
-`WHAT IT WAS BEFORE IT IS NO MORE. NEITHER BEAST NOR GOD, IT IS A CREATION UNLIKE ALL.` (Echo Stone: Firestorm Citadel).
+`WHAT IT WAS BEFORE IT IS NO MORE. NEITHER BEAST NOR GOD, IT IS A CREATION UNLIKE ALL` (Echo Stone: Firestorm Citadel).
 
 This establishes a state preceding the current one. The term Creation will be looked at shortly.
 
-`IN HIS MADNESS, THE ARCHITECT BETRAYED THE PACT.` (Echo Stone: Ironclaw Munitions Factory)
+`IN HIS MADNESS, THE ARCHITECT BETRAYED THE PACT` (Echo Stone: Ironclaw Munitions Factory).
 
-The Pact between the Sleeper and the Architect is struck. Betrayal of the Pact resulted in the current status quo of Core being Sealed, with `THIS WORLD HAS BECOME MY PRISON.` and `TWISTING HIS CREATION INTO A GAME OF DEATH, IT NOW DEVOURS ALL WHO ENTER ITS IRON EMBRACE.` (Echo Stone: Ironclaw Munitions Factory)
+The Pact between the Sleeper and the Architect is struck. Betrayal of the Pact resulted in the current status quo of Core being Sealed, with `THIS WORLD HAS BECOME MY PRISON.` and `TWISTING HIS CREATION INTO A GAME OF DEATH, IT NOW DEVOURS ALL WHO ENTER ITS IRON EMBRACE` (Echo Stone: Ironclaw Munitions Factory).
 
 Based on this we can gather that the Pact had involved transformation of creation of Cradle into a mechanized fortress which could serve as a prison. Gremlins would inhabit and, at least, maintain its defenses.
 
@@ -9493,9 +9493,17 @@ Now we will elaborate on the details of the symbolism behind definition of energ
 
 </BookCitation>
 
-It is here we must make an accent on the nature of the First Matter as, also, the chaos, `The unfettered opposites in chaos. “Chaos” is one of the names for the prima materia` `Mercurius, standing on the round chaos, holding the scales which signify the pondus et mensura. The rotundum is a prefiguration of the gold`, and as `Hermaphrodite on the winged globe of chaos, with the seven planets and the dragon`.
+This coincides with the soul deeply related to _omnipresence of energy_, furthermore found in the Core, as a distinctly divine location not through specific of the tunnels of the megastructure, but its role. The attribute of chaos and specifically Nameless Realm, as one considering all statues, we propose, can now be linked through the alchemical meaning back to the nature of energy, wherein energy, through its presence, becomes the first matter. Such interpretation would __bridge the gap between__ the [celestial, divine and chaotic motifs]() __as different manifestations of the first matter__ _across different period of time_.
 
-A similar identity of the first matter was identified in `The Forge and the Crucible` by _Mircea Eliade_:
+For each civilization of Cradle first matter is found through the lens of what those species search and how theier method of search is performed:
+
+- Tortomega found minerals, their focused power as crimsonite and detrimetally chaotic as dark matter.
+- Owlites studies magic and through it developed their thechnology, and found a realm reflective of the extreme ends of magic, as being as destructive as it is benevolent.
+- Gremlins understood fist matter through energy, their flaw becoming a being of a simialr to appearance of whitespace entity as the Swarm, characterized by hunger, consumption, and expansion.
+
+Among existing civilization only 2 remains seemingly unaffected, Isorans and griffins.
+
+An idea of a _round chaos_ as firts matter can be similarly identified in `The Forge and the Crucible` by _Mircea Eliade_:
 
 <BookCitation source="The Forge and the Crucible - Mircea Eliade">
 
@@ -9503,19 +9511,19 @@ A similar identity of the first matter was identified in `The Forge and the Cruc
 
 </BookCitation>
 
-We propose, that the Prima Materia, at its base form is the energy, one which is present in everything across material realm, is shown by Sparks of Life and, potentially, by blue glow of [Silkwing healing powers](https://wiki.spiralknights.com/Silkwing#Silkwing). Concentration of raw energy drastically amplifies vitality of everything that it surrounds, as evident by the Core's influence throughout knight's descend and Hahn's elaborations on differences between Clockworks' tiers, up to if not limited to the transformation of battle sprites.
+We propose that the __first matter is the energy__, one which is present in everything across material realm, is shown by Sparks of Life and, potentially, by blue glow of [Silkwing healing powers](https://wiki.spiralknights.com/Silkwing#Silkwing). _Concentration of raw energy drastically amplifies vitality of everything that it surrounds_, as evident by the Core's influence throughout knight's descend and Hahn's elaborations on differences between Clockworks' tiers, up to if not limited to the transformation of battle sprites and powering of Vog's curse, as the latter depends on the more fundamental principle of energy -- those were our observations when we first [summarized the established metaphysics of Cradle](#state-of-cradle-metaphysics).
 
-And then, there is a concept of __massa confusa, primordial chaos, which is extracted to be refined by an alchemist__. This process of refinement is what we will explore next.
+And then, there is a concept of __massa confusa, primordial chaos, which is extracted to be refined by an alchemist__.
 
-##### Great Work
+##### Shadow Lairs as The Alchemical Great Work
 
 In relation to Shadow Lairs, those concepts are further explored through the narrative of the original order of Shadow Lairs' traversion, before they were available to be initiated in any order.
 
-We propose, that Shadow Lairs, as separate expeditions, contain a thematic element to them, found through their symbolic themes relating to alchemy.
+We propose, that Shadow Lairs, as separate expeditions, contain a thematic element to them, found through their symbolic themes relating to alchemical great work. The notion of a descend into the Shadow Lairs, through the Unknown Passage, into the Sanctuary, and acquisition of a rare material, unique to the lair is, we propose, is an alchemical metaphor for the _process of creation of the Great Work, and of a particular kind_.
 
-The notion of a descend into the Shadow Lairs, through the Unknown Passage, into the Sanctuary, and acquisition of a rare material, unique to the lair is, we believe, is an alchemical metaphor for the process of creation of the Great Work, and of a particular kind.
+By that we mean, as the phenomenon of alchemy, as preceeding chemistry, is _rooted in a projection of inner consciousness onto a physical world, of subjective to explain objective reality_, as a result, the latter's elements also become symbolic.
 
-By that we mean, as the phenomenon of alchemy as of pseudo-chemistry is rooted from a projection of inner consciousness onto a physical world, of subjective to explain objective reality, as a result, the latter's elements also become symbolic. Here we perform a similar operation. This theme we a referring to in regards to each expedition and material is concealed in the alchemical process itself, and its final goal, here described from the english translation of _Carl Jung's_ `Psychology and Alchemy`:
+Here we perform a similar operation. This theme we a referring to in regards to each expedition and material is concealed in the alchemical process itself, and its final goal, here described from the english translation of _Carl Jung's_ `Psychology and Alchemy`:
 
 <BookCitation source="Psychology and Alchemy - Carl Jung">
 
@@ -9535,9 +9543,7 @@ By that we mean, as the phenomenon of alchemy as of pseudo-chemistry is rooted f
 
 </BookCitation>
 
-The quote: `Our understanding … , aided by the “celestial and glowing spirit,” must transform this natural work of art — chaos — into the celestial nature of the quintessence, and into the life- giving (vegetabilis) essence of heaven. The precious substance is potentially contained in this chaos as a massa confusa of all the elements rolled into one`, we believe, is the paramount explanation to the operational logic behind the deific entities' relations we are about to cover. As earlier, we have to keep this symbolism in mind.
-
-And, through the four stages of alchemical process:
+The quote: `Our understanding … , aided by the “celestial and glowing spirit,” must transform this natural work of art — chaos — into the celestial nature of the quintessence, and into the life- giving (vegetabilis) essence of heaven. The precious substance is potentially contained in this chaos as a massa confusa of all the elements rolled into one`, we suggest, is the explanation to the operational logic behind the deific entities' relations we are about to cover.
 
 <BookCitation source="Psychology and Alchemy - Carl Jung">
 
@@ -9557,39 +9563,45 @@ And, through the four stages of alchemical process:
 
 </BookCitation>
 
-Here we are to apply this concept on Shadow Lairs, forming a correspondence. Isorans crash land on Cradle led by their search of an energy source which became the Core. Paralleling it, an idea is introduced by knights which start to feel as if they were intended to crash land. With this an aspect of destiny or fate is introduced, followed by a guardianship of Cradle.
+Here we are to apply this concept on Shadow Lairs, forming a correspondence.
 
-The events of Dreams And Nightmares reveal Swarm as the greatest so far threat physically present on Cradle, apart from Underworld, and Apocrea as an eldritch deity.
+Isorans crash land on Cradle led by their search of an energy source which became the Core. Paralleling it, an idea is introduced by knights which start to feel as if they were intended to crash land. With this an aspect of destiny or fate is introduced, followed by a guardianship of Cradle through inheritence of a moral authority over Cradel to protect it after heavenly kingdom and, potentially, at a certain point in time gremlins before their decline.
+
+The events of Dreams And Nightmares reveal Swarm as the greatest so far threat physically present on Cradle, apart from Underworld, and Apocrea as an eldritch deity. The Swarm, through its role as an opposite of Whitespace yet bearing its nature, we propose, can be speculated as a flawed end of the process of `The precious substance is potentially contained in this chaos as a massa confusa of all the elements rolled into one, and man must diligently apply his mind to it so that “our heaven” may come into reality (ad actum)`.
 
 Then there are the materials. We propose an existence of a symbolic parallel in the materials acquired in the Sanctuary depending on the Shadow Lair and the stages of the Great Work. The three prior materials represent the alchemical stages -- a metaphorical process of transformation of Prima Materia. This symbolism is depicted as follows:
 
 - The [Nightmare Mane](https://wiki.spiralknights.com/Nightmare_Mane) being the blackening (`A coat of coarse fur taken from a Snarbolax. Each fiber seems to curl and fray as if life is still flowing through it` - [Nightmare Mane](https://wiki.spiralknights.com/Nightmare_Mane)).
 - The sample of the [Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore) being the whitening (`An extremely rare metal of great power said to be from the heavens above. It is often completely wasted on crowns and jewelry for slime royalty` - [Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore)).
-- Acquisition of [Gremlonium](https://wiki.spiralknights.com/Gremlonium) being the reddening. It is described as `A highly advanced compound created by gremlin engineers to power their most devious machines` ([Gremlonium](https://wiki.spiralknights.com/Gremlonium)), seems to be a red powder, which is the same as powder of projection in 12-step process of Great Work and, generally, given a wonder-weapon narrative of gremlin technology, and of Roarmulus Twins, seem to be a depiction of such state, -- as a powder produced by a highly-advanced, highly technological process, yet remaining as such.
+- Acquisition of [Gremlonium](https://wiki.spiralknights.com/Gremlonium) being the reddening. It is described as `A highly advanced compound created by gremlin engineers to power their most devious machines` ([Gremlonium](https://wiki.spiralknights.com/Gremlonium)), a red powder.
 - Lastly, there is [Maiden's Tear](https://wiki.spiralknights.com/Maiden%27s_Tear): `A sacred jewel cherished by Almirian knights. Given to them by their beloved, it is said to keep them safe in battle`.
 
-  Here we depart from the 4-step model of Great Work, and utilize 3 steps, as evident by the suggested role of Gremlonium. But, the material remains, and, we suggest a well-fitting explanation.
+  Here we depart from the 4-step model of Great Work, and utilize 3 steps, as evident by the suggested role of Gremlonium.
 
-  This material is a sacred jewel, and in conjunction with the theme of fire due to traversal of the Shadow Firestorm Citadel, it serves as the metaphorical crucible for the creation of the Great Work of Prime Matter, referring to Isorans, literally being forged -- prepared, -- to stand against the Swarm. __Firestorm Citadel serves as the fire of__ `highest intensity`, __from which Maiden's Tear, a sacred jewel, finally emerges__.
+  This material is a sacred jewel, and in conjunction with the theme of fire due to traversal of the Shadow Firestorm Citadel, it serves as the metaphorical crucible for the creation of the Great Work of Prime Matter, referring to Isorans, literally being forged -- prepared, -- to stand against the Swarm. __Firestorm Citadel serves as the fire of__ `highest intensity`, __from which Maiden's Tear, a sacred jewel, finally emerges__: `It consists of the four elements, with fire representing the spirit concealed in matter. This is the fourth, absent and yet present, who always appears in the fiery agony of the furnace and symbolizes the divine presence—succour and the completion of the work`.
 
-  The jewel is then the representation of the _reunion and reconciliation of 2 Isoran pasts_ -- one of Isora, their present, and one of Almire and Cradle, the spiritual aspect of Isorans and their shadow, -- symbolized by the alchemical path of the Almirian Crusader set.
+The jewel is the stone where `the chaotic antagonism of the elements is replaced by the most intense mutual alliance, which is what makes the stone incorruptible`, a `diamond body`, and then the representation and the end of Shadow Lairs being the reunion and reconciliation of 2 Isoran pasts through supernatural fire of the Citadel -- one of Isora, their present; and one of Almire, the spiritual aspect of Isorans and their shadow coexisting with the divinity, -- symbolized by the alchemical path of the Almirian Crusader set.
+
+With this framework we arrive to the idea of __Shadow Lairs being representative of the Great Work__ _through an alchemical process_, this time, __performed on Isorans by themselves through the very ordeal of Shadow Lairs__ -- __Isorans of Cradle become its Opus__.
 
 ##### Red King and White Queen
 
-In additional, while potentially misleading, component to this proposal is the arrangement of Red King and White Queen who through the metaphor of union create the divine Rebis.
+In additional, while potentially misleading, component to this proposal is the arrangement of Red King and White Queen who through the metaphor of union create the divine rebis.
 
 Within the cosmology of Spiral Knights there are such figures:
 
-- The supposed genius king Tinkinzar, associated with the Crimson Order -- hence the Red King.
-- Spirit Mother, a divine and benevolent entity, closely related to Almire. Given our analysis, this entity is similar in nature to Sleeper -- as a deity. Given themes of divinity within natural kingdom of Almire, Spirit Mother can be consider as the White -- the White Queen.
+- _The Red King_: the supposed genius king Tinkinzar associated with the Crimson Order and therefore attaining color redd.
+- _The White Queen_: The deities of the paradise above heavenly kingdom, Sleeper and Spirit Mother, are divine, benevolent entities. While Spirit Mother is closely related to Almire, Sleeper exists in gremlin plot. Here, we suggest the Sleeper taking that role of a divine figure, potentially, even _Hermes_ or _Mercurius_.
 
-It is then the unity of both requiring to achieve an enlightened state of being which we have proposed to be the existence of a civilization of guardians which [secure access to the paradise]() and in return receive a divine benediction from a deific entity from the secured, higher realm, the [heavenly kingdom of griffins, owlites, and valkyries]().
+It is then the unity of both requiring to achieve an enlightened state of being which we have proposed to be the existence of a civilization of guardians which [secure access to the paradise]() and in return receive a divine benediction from a deific entity from the secured, higher realm, the [heavenly kingdom of griffins, owlites, and valkyries](), leading up to and including physical immortality, as observed for the Fallen Valkyrian.
 
-We have proposed this resolution earlier in relation to heavenly kingdom, as them being named as such, with references to paradise, seems as more distinct example of such _symbolically, spiritually, and metaphysically divine link_. This explanation also had allowed us to answer a question of how Whitespace came into existence, with us proposing an idea of Cradle containing it in a different form before being enclosed into a megastructure, as Valkyries of heavenly kingdom had to inhabit and protect it.
+We have proposed this resolution earlier in relation to heavenly kingdom, as them being named as such, with references to paradise, seems as more distinct example of such _symbolically, spiritually, and metaphysically divine link_. This explanation also had allowed us to answer a question of how Whitespace came into existence, with us proposing an idea of Cradle containing it in a different form before being enclosed into a megastructure, as valkyries of heavenly kingdom had to inhabit and protect it, as the paradise.
 
 Earlier distinction between Sleeper's Dream and a World so far corresponds with an external and internal element of the megastructure, as Whitespace had to be that dream which exists before Clockworks. Inplace of the Core it was the castles of heavenly kingdom which had existed between material relam and the paradise.
 
-In this interpretation, given an already existing synthesis of Core's energy and Cradle as an armed world-fortress, the Great Work can be the state of Cradle with a Core remaining open. As Whitespace is of literal white with an entity of Sleeper, gremlins are mostly characterized by Crimson Order and, more importantly, figure of a seemingly benevolent king in the past. Here we replace benevolence of Spirit Mother with abstraction of __Whitespace with a proposition that it conceales the higher realms, Spirit Mother's realms and the paradise of heavenly kingdom__.
+In this interpretation, given an already existing synthesis of Core's energy and Cradle as an armed world-fortress, the Great Work can be the state of Cradle with a Core remaining open as a successful starting position.
+
+As Whitespace is of literal white with an entity of Sleeper, gremlins are mostly characterized by Crimson Order and, more importantly, figure of a benevolent king in the past. Here we replace benevolence of deity with abstraction of __Whitespace with a proposition that it conceales the higher realms, Spirit Mother's realm and the paradise above heavenly kingdom__.
 
 #### The Void: Part 2: Massa Confusa
 
