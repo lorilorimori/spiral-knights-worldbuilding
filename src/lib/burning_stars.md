@@ -9038,8 +9038,6 @@ While the above explanations for Shadow Lairs existence and justification within
 
 Every Shadow Lair ends in the Unknown Passage. We have previously pointed out a few design peculiarities of Passage's design, but now we will use make a proper introduction to the Swarm from the point of megastructure's architecture.
 
-<!--Here we will _further attempt reasoning out of a different canon_, as an alternative interpretation to already visited events. We will place events of Shadow Lairs in concrete points of the timeline.-->
-
 Unknown Passage is found during [It Came From Below](), but that instance seemingly has no justified reason to contain Whitespace blocks while not leading into the Whitespace.
 
 Here we will disclose an idea which we will later explore in greater detail, but one we are observe as less conflicrting within the timeline -- __Unknown Passage leads into the breach within the Core__ which Parma at the Refuge has mentioned, `We aren't sure what it is exactly, but it needs our help. This world was created to protect it but somehow The Swarm breached the Core and has been feeding on the energy and growing like a leech ever since` ([Dreams and Nightmares - Refuge - Parma's Scout](https://wiki.spiralknights.com/Refuge)).
@@ -9070,68 +9068,48 @@ It is the Shadow Key then, which would forbid further descend into the lairs. Th
 
 ##### Acknowledgement of Encounters with the Swarm
 
-Another note on the canon of Shadow Lairs is the response to threat of the Swarm within both rank missions and outside of them.
+Another note on the canon of Shadow Lairs is the feedback to threat of the Swarm within both rank missions and outside of them.
 
-There is no reaction on the result of an expedition into those. Events of [It Came From Below](https://wiki.spiralknights.com/It_Came_From_Below/Into_the_Maw) demonstrate the threat of the Swarm without a distinct follow-up in the form of conversations with Spiral HQ, apart from Kora's comment: `As if all these strange occurrences weren't bad enough ...` ([The Flickering Flame - Kora](https://wiki.spiralknights.com/The_Flickering_Flame)). But, given events
+There is no acknowledgement on the result of expeditions into th Shadow Lairs. Events of [It Came From Below](https://wiki.spiralknights.com/It_Came_From_Below/Into_the_Maw) demonstrate the threat of the Swarm without a distinct follow-up in the form of conversations with Spiral HQ, apart from Kora's comment, `As if all these strange occurrences weren't bad enough ...` ([The Flickering Flame - Kora](https://wiki.spiralknights.com/The_Flickering_Flame)), which happens after the fist canon encounter with the Swarm.
 
-Given current knowledge of Swarm based on the contents of Shadow Lairs, as in the boss depths of Shadow Lairs, a depth preceding Unknown Passage is, in the very end, influenced by the Swarm - we can create an approximate suggestion of an elevator rerouting into the Shadow Lairs, combined with expansive influence of the Swarm, given the follow-up mission of [Flickering Flame](https://wiki.spiralknights.com/The_Flickering_Flame), implying that events, which had to propel post-Vanaduke arc revolving around the Swarm, had to stem from the initial activation of the Console, catching attention of Spiral HQ: `We were in the middle of receiving a report from Lieutenant Vaelyn's team at the Core Terminal when our signal was disrupted. It took some time, but I've managed to pinpoint the source of the disruption. It's coming from that strange device you discovered near Vanaduke's throne room in Firestorm Citadel. It seems like someone has activated it. We don't know for sure but it has to be related to the Artifact. The energy signatures are identical` ([The Flickering Flame - Kora](https://wiki.spiralknights.com/The_Flickering_Flame)).
+With this understanding, we now will approach Swarm's presence and influence first discussed in relation to appearances of [Shadow Lairs icon across elevator monitors](#eye-iconography-of-shadow-lairs).
 
-Lastly, the crew stationed at Clockworks terminal depth 23 describes the Swarm as: `` (), which might mean, that a few knights had managed to exit the Lairs preemptively, as reaching the Sanctuary would reveal a greater scale threat much earlier.
+##### Swarm's Influence on The Gate Map
 
-With this understanding, we now will approach Swarm's presence and influence.
+First scenario suggests, that Swarm is capable of influencing technology for its own use, in the same pattern as Unknown Passage's skydome _remains operational and lit_ despite possessing a distinct pink color.
 
-###### Scenario 1: Swarm Can Influence Technology
+This demonstrates that Swarm is capable of interacting with gremlin, and potentially, any technology as the symbol is identified in knight's HUD, making itself present through this technological vector of influence.
 
-First scenario suggests, that Swarm is capable of influencing technology for its own use, in the same pattern as Unknown Passage's skydome _remains operational_ and lit despite possessing a distinct color.
+The earlier distinction can be interpreted as follows. The Swarm influences only a smaller part of the depth, hence making its elevator unreachable to its presence.
 
-This alone demonstrates, that Swarm is capable of interacting with gremlin, and potentially any, technology as the symbol is identified in knight's HUD, making itself present through this technological vector of influence.
+On the contrary, depiction of its symbol on an elevator announces total control over the underlying depth.
 
-The earlier distinction can be interpreted as follows. The Swarm influences only a smaller part of the depth, hence making its elevator unreachable to its influence with its presence. On the contrary, depiction of its symbol on an elevator announces total control over the underlying depth. Ths paradigm explains icon of [Into The Maw](), which we also acknowledge to be predominantly and primarily an out-of-universe narrative device. But, this approach does not explain Core Clockwork Terminal, unless it is not capable to be overtaken, which makes it an exception, uncharacteristic of the scenario, where Swarm can overtake technology, essentially proving that statement wrong. Contrary to this, the symbol of a lock should seemingly be accompanied by an unlocked lock, as suggested by binary state of the Core as sealed. In this paradigm a sudden appearance of an eye, which does not follow the established theming pattern (unless we consider the background as not static but blackness of the Swarm itself), marks it as external to an existing system.
+The symbol of a lock across Core Terminal should seemingly be accompanied by an unlocked lock, as suggested by binary state of the Core as sealed. In this paradigm a sudden appearance of an eye which does not follow the established theming pattern marks it as external to an existing system.
 
-Hidden Hideout has a characteristic framing of both ambiance and black clouds, but it is a safe area with no Void monsters present.
+Hidden Hideout has a characteristic framing of both ambiance and black clouds, but it is a safe area with no Swarm-themed enemies present.
 
-Lastly, entrances to Shadow Lairs have no black clouds, but only an icon with elevator possessing a mechanical lock, which _may explain a case of the lair below being contained_.
+Lastly, entrances to Shadow Lairs have no black clouds, but only an icon with elevator possessing a mechanical lock, which _may explain a case of the lair below being contained by the lock over the elevator_.
 
-Shadow Lairs themselves are composed of large variety of depths, with only Unknown Passage being their common element. Other depth apart from the latter only possess an elevator surrounded by black clouds, other than that, the depth remain as regular regions with their corresponding environments:
+Shadow Lairs themselves are composed of large variety of depths, with only Unknown Passage being their common element. Other depth apart from the Passage only possess an elevator surrounded by black clouds. Other than that, the depths remain as regular regions with their corresponding environments:
 
 - Gloaming Wildwood had remained as such, with no defined environment.
 - Royal Jelly Palace one in the tunnels now is covered with blizzard, reminiscent of darkness of Owlite Academy.
-- Ironclaw Munitions Factory is in the tunnels.
-- Firestorm Citadel as it was in the cavern, had remained there. Event of Shadowplay may suggest that the cavern was partially extinguished due to actions of Nature Sprites.
+- Ironclaw Munitions Factory is in the tunnels lit by orange lights of the farther Clockwork pillars.
+- Firestorm Citadel as it was in the cavern, had remained there. Events of Shadowplay may suggest that the cavern was partially extinguished due to actions of Nature Sprites.
 
-Lastly, in the Core, [monster doors]() _have dark purple eye of the Shadow Lairs being present_. Those gates have a distinct purple wireframe cubes, compared to white and gold color of Whitespace and its locked doors. As 3-dimensional pink cubes appear only in the Swarm Entity, we have may assume this being a case of Swarm's influence onto Whitespace. On the other hand, movement of those cubes is characteristic of Whitespace, rather than Swarm's black clouds. This distinction does not confirm nor deny Swarm's influence, making it similar to the case of Core Terminal monitors - as ambiguous.
+In the Core, [monster doors]() _have dark purple eye of the Shadow Lairs being present_. Those gates have a distinct purple wireframe cubes, compared to _white and gold color of Whitespace and its locked doors_. As 3-dimensional pink cubes appear only within the Swarm avatar, we have may assume this being a case of Swarm's influence onto Whitespace. On the other hand, movement of those cubes is characteristic of Whitespace, rather than Swarm's black 2-dimensional clouds. This distinction does not confirm nor deny Swarm's influence, making it similar to the case of Core Terminal monitors, as ambiguous.
 
-Due to presence of a contradiction regarding Clockwork Core Terminal, this proposal seem to not to hold up. But, teh design of Unknown Passage's skydome can be explained by it.
+This scenario proposes, that the locations which are marked with Shadow Lairs icon, are set manually by gremlins.
 
-###### Scenario 2: Shadow Lairs' Depths are manually marked
+Among currently established location, each depth apart from Unknown Passage had existed outside of an area of Swarm's presence which Spiral Order had labelled Shadow Lairs. This leaves only __Unknown Passage to be not only a depth of Shadow Lairs proper as a source of its presence prior to Isorans' arrival__.
 
-This scenario proposes, that the locations which are marked with Shadow Lairs' icon, are set manually by gremlins.
+We have committed to an idea of Shadow Lair expeditions happening later in the timeline. Through those ideas and a concept of volatile mobility of regions within Clockworks we suggested that all of depths other than Uunknown Passage depths were pulled from their proper locations and with involvement of Underworld actor.
 
-Among currently established location, each depth apart from Unknown Passage had existed outside of an area of Swarm's presence which Spiral Order had named Shadow Lairs. This leaves only Unknown Passage to be not only a common depth across all Lairs, but a source of its presence prior to Isorans' arrival.
+This idea of new depths being identified as Shadow Lairs conflicts with other instances of locations which hint at Swarm's presence, prime case being cooling chamber of [Into the Maw](). As those location are accessed only through a locked elevator, we suggest that this is a __containment measure devised by gremlins__. And if it is such, then control over the gates, their icons, can point at an intent to warn against entering those locations, unless the elevator icons are under control of the Swarm, which seems to us at that point plausible due to color of Unknown Passage's skydome.
 
-We have previously committed to an idea of Shadow Lairs' expeditions happening later in the timeline, perpetuated by ideas of an unknown actor, which we suspect to be Undercorp, and Shadow Firestorm Citadel's causally consistent placement in the timeline as after events of Dream and Nightmares. Through those ideas and a concept of volatile mobility of regions within Clockworks, we suggested that all of non-unknown Passage depths are pulled from their proper locations for unknown reasons.
+The case of Unknown Passage appearing an It Came From Below as a reroute from an intended destination within a narrative of a maw as a trap can be explained by Swarm's ability to change gate's layout as a form of influence onto technology. __Unknown Passage becomes the origin point of Swarm's ascent into surrounding depths__.
 
-This idea of new depths being identified as Shadow Lairs conflicts with other instances of locations which sign at Swarm's presence, prime case being cooling chamber of [Into the Maw](). But, as those location are accessed only through a lock, we suggest that this is a containment measure. And it it is such, then control over the gates, their icons can only point at an intent to warn against entering those locations.
-
-With this interpreting we can suggest, that the events which led to preexisting location to become as such in the Shadow Lairs, excluding Swarm's presence, had to become such prior to being relocated into lower depths, with a few issues:
-
-- While Firestorm Citadel had always been tier 3 depth location, it had remained mostly unchanged in this specific context;
-- Gloaming Wildwoods' and Royal Jelly Palace's population can be explained by influence of the Core, as one which had led to creatures', essentially, mutation.
-- Ironclaw Munitions Factory, given its context, has a conflict of being inhabited by Darkfang clan, rather than Ironclaw. We have only a single explanation why a different clan is present there: teh factory was moved to ownership of Darkfang clan due to factory's original personnel of Ironclaw clan missing due to events of [Built to Destroy]().
-
-This explanation would not conflict with Clockwork Core Terminal icon remaining unchanged despite Swarm direct presence above the Core, while resolving the issue of Shadow Lairs' influence. But, as far as this idea goes, it does not explain the reasons behind Unknown Passage's skydome being operational and lit in the thematically corresponding light.
-
-The case of Unknown Passage appearing an It Came From Below as a reroute from an intended destination also then is explained by identification of following depth by an elevator, as leading to a contaminated area. With this, the Swarm can be interpreted then as capable of changing gate's layout, while being able to present itself through technology only partially in teh form of effects on the skydome. Under this logic, the icon of monitors in [The Path Is Revealed]() is an intended design choice, rather than Swarm's influence onto technology.
-
-In relation to monster doors in the Whitespace, under this explanation, doors' symbol of an eye can be considered an instance of Whitespace being aware of the Swarm, depicting it by a common symbol.
-
-The concept of black clouds surrounding an elevator is then a case of uncontained Swarm's presence, which does not lead to direct change of depth's identification by elevator system. Yet, there is still a case of Unknown passage's skydome __as now it becomes the origin point of Swarm's ascent into surrounding depths__ weather those are sealed or not.
-
-Lastly, the thematic element at this point was not considered, which, as we subjectively observe it, can course-correct our assumptions, suggesting a third option of Swarm being capable of influencing the technology. This thematic element mainly stems from idea of Swarm __announcing its presence in a foreboding manner__, _which resolves issue of skydome, but for the rest of symbol's appearances, only leans us to the first explanation_. So it can be a case of both.
-
-With this, we arrive to the idea of the source of Shadow Key as a physical item with Shadow Lairs' eye depicted on it, as well as pure black composition. As the key is made of the same matter, its application to the locks may hint at the design of those locks as manufactured specifically to accept those keys. As the aftereffect of those keys unlocking the gates, we observe similar pink arcs of lightning as on the monster gates while they are raised.
-
-This general ambiguity will follow our latter analysis of the Swarm.
+<!--With this, we arrive to the idea of the source of Shadow Key as a physical item with Shadow Lairs' eye depicted on it, as well as pure black composition. As the key is made of the same matter, its application to the locks may hint at the design of those locks as manufactured specifically to accept those keys. As the aftereffect of those keys unlocking the gates, we observe similar pink arcs of lightning as on the monster gates while they are raised.-->
 
 ---
 
