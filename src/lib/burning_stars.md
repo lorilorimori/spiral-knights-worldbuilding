@@ -9176,11 +9176,11 @@ We will begin from the _thought experiment, where the Swarm was initially sealed
 
 After this we add a following quote: `We've taken to calling it The Sleeper. We aren't sure what it is exactly, but it needs our help. This world was created to protect it but somehow The Swarm breached the Core and has been feeding on the energy and growing like a leech ever since` ([Dreams and nightmares - Refuge - Parma' Scout](https://wiki.spiralknights.com/Refuge)).
 
-It is then here a question, or rather, a contradiction, within our framework arises: how the Swarm was able to feed on Core's energy while being sealed within the Core? The Swarm is directly encountered in the most active to date state within Shadow Lairs. Where is the Swarm coming from: from the inside of the Core - the Whitespace, or, from the Shadow Lairs?
+A contradiction is found across those quotes -- __how the Swarm was able to feed on Core's energy while being sealed within the Core__? The Swarm is directly encountered in the most active to date state within Shadow Lairs. Where is the Swarm coming from: from the inside of the Core -- the Whitespace, or from the Unknown Passage?
 
-As Parma stated, the Swarm had breached the Core - suggesting that the Swarm was draining the energy while the Core was sealed - a state at which Cradle had remain for an unknown time, and at least by the time Isorans crash landed.
+As Parma stated, the Swarm had breached the Core, suggesting that the Swarm was draining the energy while the Core was sealed, a state, at which Cradle had remain for an unknown time before arrival of Isorans.
 
-If the Swarm is within the Core, and power source is located outside of the Core, which is then not the essence of Whitespace, - the Swarm had reach outside of the Core by breaching it from within.
+If the Swarm is within the Core, and power source is located outside of the Core, which is then not the essence of Whitespace, -- the Swarm had reach outside of the Core by breaching it from within.
 
 Through the assumption of power source being outside the Core we will establish Shadow Lairs as the location of most presence of the Swarm to be in proximity of the breach. By that reasoning, affirmed by the common depth of the Unknown Passage as one uniting all of Shadow Lairs' expeditions, we suggest it being the prime reason for serving as the location of the breach. If we assume that the entrance to the Sanctuary in the end of the Unknown Passage is beyond the breach Parma had spoken of, then this would require for Sanctuary to be inside of the Core.
 
@@ -9188,73 +9188,75 @@ Through the assumption of power source being outside the Core we will establish 
 
 We have previously addressed the state Unknown Passage is found in, with the elevator platform, as the Core Terminal, being broken off.
 
-If the Sanctuary is located within the Core, the elevator of Unknown Passage of Shadow Lairs should, by that logic, go through the established breach, which is also an entrance to the Core, as it is accessible through the elevator, reminiscent of Core's hatch [position below the Core Terminal platform]() during Dreams and Nightmares and on [depiction of an opened hatch on the site]().
+If the Sanctuary is located within the Core, the elevator of Unknown Passage of Shadow Lairs should, by that logic, go through the established _breach within Core's shell_ which is also an entrance to the Core, as it is accessible through the elevator, reminiscent of Core's hatch [position below the Core Terminal platform]() during Dreams and Nightmares and on depiction of an opened hatch on the website.
 
-The volume beyond Sanctuary's mechanical skydome of Clockworks' design is pure white, nowhere else we find such design apart from the [Refuge](https://wiki.spiralknights.com/Dreams_and_Nightmares/Refuge), which, as long as Dream and Nightmares indeed take the knight and Vaelyn into the Core, is located in the Core with Parma, Sleeper, and the remaining members of Alpha Squad.
+The volume beyond Sanctuary's mechanical skydome of Clockworks' design is pure white, nowhere else we find such design apart from the [Refuge](https://wiki.spiralknights.com/Dreams_and_Nightmares/Refuge), which, as long as Dream and Nightmares takes the knight and Vaelyn into the Core, is located in the Core with Parma, Sleeper, and the remaining members of the Alpha Squad.
 
-If Sanctuary's skydome is outside of the Core, Spiral HQ, given their ability to detect Artifact's trace, would be able to notice an abnormal skydome, with an environment of Whitespace. It is still possible, that the Sanctuary is outside of the Core, as it could be shaded by the Shadow Lairs, as the skydom of Unknown Passage is the only one being the opposite of Sanctuary and of Refuge - being completely black. And yet, as this seems soo complex of a structure, and considering the designs of Whitespace and Refuge, we propose, that the Sanctuary is within the Core.
+If Sanctuary's skydome is outside of the Core, Spiral HQ, given their ability to detect Artifact's trace, would be able to notice an abnormal skydome with an accompanied environment of Whitespace. It is still possible, that the Sanctuary is outside of the Core, as it could be shaded by the Shadow Lairs, as the skydom of Unknown Passage is the only one being the opposite of Sanctuary and of Refuge -- being completely black. And yet, as this seems soo complex of a structure, and considering the designs of Whitespace and Refuge, we propose, that the __Sanctuary is located within Whitespace of the Core__.
 
-The later Sleepers statement of Sanctuary being safe: `YOU ARE SAFE HERE, KNIGHT. WITHIN THIS DREAM, ITS MANY EYES CANNOT SEE YOU NOR CAN ITS MANY ARMS REACH YOU` ([Echo Stone: Gloaming Wildwoods](https://wiki.spiralknights.com/Echo_Stone:_Gloaming_Wildwoods)), suggests it possessing a limited capacity to remain unreachable by the Swarm, as hinted by Parma's statement of the two being in conflict over the energy reserves of the Core: `The Swarm breached the Core and has been feeding on the energy and growing like a leech ever since. ... The Swarm keeps growing stronger while The Sleeper grows weaker` ([Dreams and Nightmares - Refuge - Parma's Scout](https://wiki.spiralknights.com/Dreams_and_Nightmares/Refuge)).
+The later Sleeper's statement of Sanctuary being safe, `YOU ARE SAFE HERE, KNIGHT. WITHIN THIS DREAM, ITS MANY EYES CANNOT SEE YOU NOR CAN ITS MANY ARMS REACH YOU` ([Echo Stone: Gloaming Wildwoods](https://wiki.spiralknights.com/Echo_Stone:_Gloaming_Wildwoods)), suggest it possessing a limited capacity to remain unreachable by the Swarm, as hinted by Parma's statement of the those beings existing in a perpetual conflict over the energy reserves of the Core: `The Swarm breached the Core and has been feeding on the energy and growing like a leech ever since. ... The Swarm keeps growing stronger while The Sleeper grows weaker` ([Dreams and Nightmares - Refuge - Parma's Scout](https://wiki.spiralknights.com/Dreams_and_Nightmares/Refuge)).
 
 #### Introductions of The Swarm
 
-Here we have to bring up an earlier idea of Shadow Firestorm Citadel, as its variant of Unknown Passage leads to the Sanctuary where the Echo Stone reveals the name of the entity: `AS I DREAMED, IT CONSUMED. IT DEVOURED THE KNOWLEDGE OF TIME... MEMORIES OF THE DEAD... THE HEARTS OF KINGS AND THE SOULS OF THEIR PEOPLE... GOOD AND EVIL... IT CONSUMED. IT GREW STRONGER, ENDLESSLY MIRRORING ITSELF WITHIN THE SPACE OF MY DREAM. ENDLESSLY MIRRORING... EXPANDING... INFINITE. WHAT IT WAS BEFORE IT IS NO MORE. NEITHER BEAST NOR GOD, IT IS A CREATION UNLIKE ALL. IT IS... THE SWARM` ([Echo Stone: Firestorm Citadel](https://wiki.spiralknights.com/Echo_stones#Echo_Stone)). This revelation, given a buildup in the form of other Echo Stones, reachable through all major, boosted variants of bosses, seems far more grand compared to a passing name reveal in comparison, as Parma had referenced the Swarm as such in the Refuge: `But then...then the light surrounded us and we were safe. We've taken to calling it The Sleeper. We aren't sure what it is exactly, but it needs our help. This world was created to protect it but somehow The Swarm breached the Core and has been feeding on the energy and growing like a leech ever since` ([Dreams and Nightmares - Refuge - Parma's Scout](https://wiki.spiralknights.com/Refuge)).
+Here we have to bring up an earlier idea of Shadow Firestorm Citadel, as its variant of Unknown Passage leads to the Sanctuary where the Echo Stone reveals the name of the entity, `AS I DREAMED, IT CONSUMED. IT DEVOURED THE KNOWLEDGE OF TIME... MEMORIES OF THE DEAD... THE HEARTS OF KINGS AND THE SOULS OF THEIR PEOPLE... GOOD AND EVIL... IT CONSUMED. IT GREW STRONGER, ENDLESSLY MIRRORING ITSELF WITHIN THE SPACE OF MY DREAM. ENDLESSLY MIRRORING... EXPANDING... INFINITE. WHAT IT WAS BEFORE IT IS NO MORE. NEITHER BEAST NOR GOD, IT IS A CREATION UNLIKE ALL. IT IS... THE SWARM` ([Echo Stone: Firestorm Citadel](https://wiki.spiralknights.com/Echo_stones#Echo_Stone)).
 
-In both cases, we are presented with a situation, where the name of the endgame threat is revealed twice - outside of rank missions' progression, being the Shadow Lairs, and within it, in Dreams and Nightmares.
+This revelation, given a buildup in the form of other Echo Stones, reachable through all major, ampliphied variants of bosses, seems far more grand compared to a passing name reveal in comparison, as Parma had referenced the Swarm as such in the Refuge: `But then...then the light surrounded us and we were safe. We've taken to calling it The Sleeper. We aren't sure what it is exactly, but it needs our help. This world was created to protect it but somehow The Swarm breached the Core and has been feeding on the energy and growing like a leech ever since` ([Dreams and Nightmares - Refuge - Parma's Scout](https://wiki.spiralknights.com/Refuge)).
 
-It seems unconventional, as knight's pacing in relation to both revelations would be different. This is, essentially a question of weather the knight had traversed Shadow Lairs before the events of The Flickering Flame, as missions which follow it, given urgent context, does not allow for such change of pace to realistically happen.
+In both cases we are presented with a situation, where the name of the endgame threat is revealed twice -- outside of rank missions' progression, being the Shadow Lairs; and throighout rank mission -- in Dreams and Nightmares.
 
-More so, the name reveal is not evidently observed as a statement, rather a passing remark, _as if the knight was supposed to traverse the Shadow Lairs_ prior to reaching those events. Only Kora discovers the Swarm as a new term: `` ([Delved Too Deep - Kora]()). Apart from it, we have only assumed that Alpha Squad was completely sealed in the Core, but weather is was constantly battling the Swarm, instead of confronting it only during opened state of the Core, is unknown.
+It seems unconventional, as knight's pacing in relation to both revelations would be different. This is, essentially, a question of whether the knight had traversed Shadow Lairs before the events of The Flickering Flame, as missions which follow it, given urgent context, does not allow for such change of pace to realistically happen.
 
-But, despite th0se ambiguities, we __do know that it is Alpha Squad which had labelled the entity of Echo Stones the Sleeper__, while this entity was referring to the Swarm as such: `But then...then the light surrounded us and we were safe. We've taken to calling it The Sleeper. We aren't sure what it is exactly, but it needs our help. This world was created to protect it but somehow The Swarm breached the Core and has been feeding on the energy and growing like a leech ever since` ([Dreams and Nightmares - Refuge - Parma's Scout](https://wiki.spiralknights.com/Refuge)). Their passing remark on the name of the Swarm and the naming convention of Sleeper as related of dreams, we believe, highly likely stems from a revelation, similar to Echo Stones. Under this paradigm, the phrase `Apologies for not appearing in person. I'm hidden away in a safe place. I knew I'd never make it here in time when I noticed your signal` ([Dreams and Nightmares - Refuge - Parma's Scout](https://wiki.spiralknights.com/Refuge)) may potentially hint at a different, other than Refuge, location, - one potentially associated with the Sanctuary, as it is there Echo Stones were found by the knight.
+More so, the name reveal is not evidently observed as a statement, rather a passing remark, _as if the knight was supposed to traverse the Shadow Lairs_ prior to reaching those events. Only Kora discovers the Swarm as a new term: `Amazing that after all this time we didn't know the truth. I mean, we've suspected for a while now that this planet was some kind of prison but who could have guessed that this 'Swarm' was just waiting for someone to stumble across the Core and free it?` ([Delved Too Deep - Kora](https://wiki.spiralknights.com/Delved_Too_Deep)). Apart from it, we have only assumed that Alpha Squad was completely sealed in the Core, but whether they were constantly battling the Swarm, instead of confronting it only during opened state of the Core, is unknown.
+
+But, despite those ambiguities, we __do know that it is Alpha Squad which had labelled the entity of Echo Stones the Sleeper__, while this entity was referring to the Swarm as such: `But then...then the light surrounded us and we were safe. We've taken to calling it The Sleeper. We aren't sure what it is exactly, but it needs our help. This world was created to protect it but somehow The Swarm breached the Core and has been feeding on the energy and growing like a leech ever since` ([Dreams and Nightmares - Refuge - Parma's Scout](https://wiki.spiralknights.com/Refuge)). Their passing remark on the name of the Swarm and the naming convention of Sleeper as related of dreams, we believe, highly likely stems from a _revelation similar to one the knight finds across the Echo Stones_. Under this paradigm the phrase `Apologies for not appearing in person. I'm hidden away in a safe place. I knew I'd never make it here in time when I noticed your signal` ([Dreams and Nightmares - Refuge - Parma's Scout](https://wiki.spiralknights.com/Refuge)) may potentially hint at a different, other than Refuge, location, -- one potentially associated with the Sanctuary, as it is there Echo Stones were found by the knight.
 
 #### The Breach: Part 3
 
-Then it is the proposal of Sanctuary located outside of the Core. Spiral HQ has the technology to detect surges of energy and accompanied consoles' activation. But, they hadn't noticed anything apart from energy surges by activation of Consoles during the events of rank missions.
+Then it is the proposal of Sanctuary located outside of the Core. Spiral HQ has the technology to detect surges of energy accompanying consoles' activation. But, they hadn't noticed anything apart from energy surges by activation of consoles during the events of rank missions.
 
-Sanctuary skydome can potentially be hidden within Cradle's volume but, as mentioned, it would be thematically incorrect for 2 identical locations to be both outside and inside of the Core with the established common design of Core's interior.
+Sanctuary skydome can potentially be hidden within Cradle's volume but, as mentioned, it would be thematically incorrect for 2 identical locations to be both outside and inside of the Core with the established common design of Core's interior, the Whitespace.
 
 And yet, we have to discuss weather Unknown Passage is located in the Core, and by extensions, Shadow Lairs, as despite the seemingly clear-cut case being presented with, those possibilities should not be removed completely, unless fully ruled out of an established framework and megastructure.
 
-Whitespace design is nowhere present, except the Core, as we explore them in [Dreams and Nightmares](https://wiki.spiralknights.com/Dreams_and_nightmares). [Refuge](https://wiki.spiralknights.com/Dreams_and_Nightmares/Refuge), despite having a Core elevator icon, has the same design of skydome as the Sanctuary and Whitespace blocks. The question is then: __why the Sanctuary has a different elevator icon?__
+Whitespace design is nowhere present, except the Core, as we explore them in [Dreams and Nightmares](https://wiki.spiralknights.com/Dreams_and_nightmares). [Refuge](https://wiki.spiralknights.com/Dreams_and_Nightmares/Refuge), despite having a Core elevator icon, has the same design of skydome as the Sanctuary and Whitespace blocks. The question is then -- __why the Sanctuary has a different elevator icon?__
 
 #### Sleeper's definition of a Dream: Part 1
 
-We could have argued, that we are met with a concept of the Swarm hijacking elevator icons, one of which is then overridden by Whitespace, but this is only one explanation.
+We have proposed that the Swarm hijacks elevator icons, one of which is them was overridden by icon of the Sanctuary within the Whitespace.
 
-In order to properly resolve much inconsistencies, we have to inspect the idea of a Dream as a tangible concept, which is referred by the Sleeper as a, seemingly, physical space or volume.
+In order to properly resolve much inconsistencies, we have to inspect the idea of a Dream as a tangible concept referred by the Sleeper as, seemingly, a physical space.
 
-At a current point, Swarm's location can be interpreted in 2 ways:
+At a current point Swarm's location can be interpreted in 2 ways:
 
-1. The Swarm is located within the Core. Then it breaching the Core means getting outside of the Core, feeding of its energy externally, suggested by lightning bolts of Core Terminal.
+1. The Swarm is located within the Core. Then, Swarm breaching the Core means getting outside of the Core, feeding of its energy externally, identified by lightning bolts of Core Terminal.
 
-    It is visibly present on the outside as in the events of Shadow Lairs and It Came From Below's Into The Maw. As the depth's name of Descend into Darkness is used twice - in the context of [Dreams and Nightmares](https://wiki.spiralknights.com/Dreams_and_Nightmares/Descent_into_Darkness) and of [Unknown Passage](https://wiki.spiralknights.com/It_Came_From_Below#Gate_Map) preceded by [Into the Maw](https://wiki.spiralknights.com/It_Came_From_Below/Into_the_Maw). We won't discard the potential for Shadow Lair being in the Core.
+    Swarm is visibly present on the outside as in the events of Shadow Lairs and Into The Maw. The depth's name -- Descend into Darkness -- is used twice, in the context of [Dreams and Nightmares](https://wiki.spiralknights.com/Dreams_and_Nightmares/Descent_into_Darkness) and of [Unknown Passage](https://wiki.spiralknights.com/It_Came_From_Below#Gate_Map) preceded by [Into the Maw](https://wiki.spiralknights.com/It_Came_From_Below/Into_the_Maw). We won't discard the potential for Shadow Lair being in the Core.
 
-    This part of the Swarm could be the one escaping from the Core through the breach - this Swarm feeds of the energy from outside of the Core as if its internals do not provide the Swarm the means to persist. The distinction here is made between energy's presence across power complexes and wires, and the Whitespace of the Core. On the other hand, this setting seems to complex, as any form of energy at some point relates to a universal medium of energy, so the idea of the Swarm breaching from the outside into the interior of the Core seems far more simple and complete.
+    This part of the Swarm could be the one escaping from the Core through the breach -- this Swarm feeds of the energy from outside of the Core as if its internal volume does not provide the Swarm the means to persist. The distinction here is made between presence of energy across power complexes and wires, and the Whitespace of the Core. On the other hand, this setting seems to complex, as any form of energy at some point relates to a universal medium of energy, so the idea of the Swarm breaching from the outside into the interior of the Core seems more direct.
 
-    Then, it was stated that the Swarm was "mirroring" itself within the Dream:
+    Then, it was stated that the Swarm was `mirroring` itself within the Dream:
 
-    `IT GREW STRONGER, ENDLESSLY MIRRORING ITSELF WITHIN THE SPACE OF MY DREAM. ENDLESSLY MIRRORING... EXPANDING... INFINITE.` ([Echo Stone: Firestorm Citadel](https://wiki.spiralknights.com/Echo_Stone:_Firestorm_Citadel))
+    `AS I DREAMED, IT CONSUMED. ... IT GREW STRONGER, ENDLESSLY MIRRORING ITSELF WITHIN THE SPACE OF MY DREAM. ENDLESSLY MIRRORING... EXPANDING... INFINITE.` ([Echo Stone: Firestorm Citadel](https://wiki.spiralknights.com/Echo_Stone:_Firestorm_Citadel))
 
-    We will keep this concept of a Dream and act of mirroring in mind. One thing is certain here, - the only deific entity, related to themes of Whitespace is the Sleeper due to lack of any other present contestants, as well as the Sleeper being the only entity referring to the Swarm as such through interactions both with the Alpha Squad and with the knight:
+    We will keep this concept of a Dream and act of mirroring in mind. One thing is certain here, -- the only deific entity, related to themes of Whitespace is the Sleeper due to lack of any other present contestants, as well as the Sleeper being the only entity referring to the Swarm as such through interactions both with the Alpha Squad and with the knight, assuming it is the author of Echo Stones:
 
     - `WHAT IT WAS BEFORE IT IS NO MORE. NEITHER BEAST NOR GOD, IT IS A CREATION UNLIKE ALL. IT IS... THE SWARM.` ([Echo Stone: Firestorm Citadel](https://wiki.spiralknights.com/Echo_Stone:_Firestorm_Citadel)).
 
-        The uncertainty here makes us think of the Swarm as being greater than both beast and god, an eldritch entity even, given presented framing.
+        The uncertainty here makes us think of the Swarm as being greater than both beast and god, an eldritch entity.
 
-    - `he fell while protecting us from The Swarm. He stood his ground even when the rest of us were forced to flee. ... But then...then the light surrounded us and we were safe. We've taken to calling it The Sleeper. We aren't sure what it is exactly, but it needs our help. This world was created to protect it but somehow The Swarm breached the Core and has been feeding on the energy and growing like a leech ever since.` ([Dreams and Nightmare - Refuge - Parma's Scout](https://wiki.spiralknights.com/Refuge)).
+    - `...he fell while protecting us from The Swarm. He stood his ground even when the rest of us were forced to flee. ... But then...then the light surrounded us and we were safe. We've taken to calling it The Sleeper. We aren't sure what it is exactly, but it needs our help. This world was created to protect it but somehow The Swarm breached the Core and has been feeding on the energy and growing like a leech ever since.` ([Dreams and Nightmare - Refuge - Parma's Scout](https://wiki.spiralknights.com/Refuge)).
 
-        The act of breaching is framed as an external to the Core action, coupled with the World.
+        The act of breaching is framed as an external to the Core action, since the squad had entered the Core through the hatch from the outside -- an opposite of what Vaelyn had initially believed.
 
 2. The Swarm is located in the Clockworks outside of the Core, within the region of Shadow Lairs. Breaching the Core in that context means entering it from the outside, and feeding on energy within the Core, being the Whitespace.
 
     As the events of [Dreams and Nightmares](https://wiki.spiralknights.com/Dreams_and_Nightmares) suggest, Swarm's concentration within the Core is seen in lesser amount, yet [growing by the depth](https://wiki.spiralknights.com/Dreams_and_Nightmares/Descent_into_Darkness), at least by fact of currently absent [Swarm Sources](https://wiki.spiralknights.com/The_Swarm#Swarm_Source).
 
-Those proposals have a common, partially thematic foundation, - as both require the knight to enter Core's interior of Whitespace at some point in time, with the Sanctuary most likely being located within the Core, and the Unknown Passage in the Clockworks. Our [earlier analysis]() of Whitespace Clockwork tunnels may also be brought up here, as the only tunnels within the Core are of divine theme.
+Those proposals have a common, partially thematic foundation, -- as both require the knight to enter Core's interior of Whitespace at some point in time, with the Sanctuary most likely being located within the Core, and the Unknown Passage in the Clockworks. Our [earlier analysis of Whitespace Clockwork tunnels]() may also be brought up here, as the only tunnels within the Core are of divine theme.
 
 #### Sleeper's definition of a Dream: Part 2
 
-`I DREAM... WITHIN MY DREAM I SAW IT OPEN THE VOID, FELT ITS ENDLESS HUNGER. YOU ARE SAFE HERE, KNIGHT. WITHIN THIS DREAM, ITS MANY EYES CANNOT SEE YOU NOR CAN ITS MANY ARMS REACH YOU. BUT THIS DREAM IS FLEETING. USE WHAT IS HERE TO PREPARE FOR THE BATTLE TO COME. IT KNOWS OF YOU NOW. IT WILL FIND A WAY OUT AND COME FOR YOU.` ([Echo Stone: Gloaming Wildwoods](https://wiki.spiralknights.com/Echo_Stone:_Gloaming_Wildwoods))
+`I DREAM... WITHIN MY DREAM I SAW IT OPEN THE VOID, FELT ITS ENDLESS HUNGER. YOU ARE SAFE HERE, KNIGHT. WITHIN THIS DREAM, ITS MANY EYES CANNOT SEE YOU NOR CAN ITS MANY ARMS REACH YOU. BUT THIS DREAM IS FLEETING. USE WHAT IS HERE TO PREPARE FOR THE BATTLE TO COME. IT KNOWS OF YOU NOW. IT WILL FIND A WAY OUT AND COME FOR YOU` ([Echo Stone: Gloaming Wildwoods](https://wiki.spiralknights.com/Echo_Stone:_Gloaming_Wildwoods)).
 
 The punctuation is crucial for the interpretation. We may see the first statement as if Sleeper had either:
 
@@ -9266,110 +9268,124 @@ Paired with:
 - The hunger belonging to the Void;
 - The hunger belonging to the Swarm.
 
-Here, we observe a case of subject continuity - the subject - Sleeper, applies to both verbs, as if he saw the Void being opened and feeling Void's hunger, as there is no new subject introduced after the comma. Then there is a possessive `ITS ENDLESS HUNGER`, - it refers to the hunger originating from `IT`, being the Swarm, rather than the Void. The latter case will be later important in relation to a question weather the void possesses an inherent hunger, which is already, potentially by proxy, attributed to the Swarm. So far we may assume that it is the Swarm whose hunger is felt by Sleeper.
+Here, we observe a case of subject continuity. The subject -- Sleeper -- applies to both verbs, as if the Sleeper _saw the Void being opened_ and _feeling Void's hunger_, as there is no new subject introduced after the comma.
 
-With this logic, we suggest, that a Void had opened not within the dream, but the Sleeper saw the Void opening from his slumbering state, as if the Void is outside the Core.
+Then there is a possessive `ITS ENDLESS HUNGER`, -- it refers to the hunger originating from `IT`, being the Swarm, rather than the Void. The latter case will be later important in relation to a question weather the void possesses an inherent hunger which is already, potentially by proxy of the Swarm, attributed to the Swarm. So far we suggest that __it is the Swarm whose hunger is felt by Sleeper__.
 
-Despite it, the Dream's placement must be questioned - what and where is it? Is it the Core, its interior, Cradle, or the Sanctuary's skydome? The latter is of particular interest, as in the context of entering the Sanctuary for the first time, from the Shadow Gloaming Wildwoods, which was initially the first unlocked Lair (`Shadow Lairs are grouped into three ranks. All knights with Tier 3 clearance automatically gain Shadow Lair Clearance 1. Completing a Shadow Lair Rank 1 earns you clearance into the next rank and so on.` - [Release Notes: 2011.10.19](https://wiki.spiralknights.com/Release_Notes_2011-10-19)), states that it is, seemingly, the Sanctuary which is referred to as a `fleeting dream`: `WITHIN THIS DREAM ... BUT THIS DREAM IS FLEETING. USE WHAT IS HERE TO PREPARE FOR THE BATTLE TO COME.` ([Echo Stone: Gloaming Wildwoods](https://wiki.spiralknights.com/Echo_Stone:_Gloaming_Wildwoods)).
+With this logic, we suggest, that a Void had opened not within the dream, but __the Sleeper saw the Void opening from his slumbering state__, as if __the Void is outside of the Dream__.
+
+Despite it, the Dream's placement must be questioned -- what is it and where is it located?
+
+Is it the Core, its interior, Cradle, or the Sanctuary's skydome? The latter is of particular interest, as in the context of entering the Sanctuary for the first time, from the Shadow Gloaming Wildwoods, which was initially the first unlocked Lair (`Shadow Lairs are grouped into three ranks. All knights with Tier 3 clearance automatically gain Shadow Lair Clearance 1. Completing a Shadow Lair Rank 1 earns you clearance into the next rank and so on.` - [Release Notes: 2011.10.19](https://wiki.spiralknights.com/Release_Notes_2011-10-19)), states that it is, seemingly, the Sanctuary which is referred to as a `fleeting dream`: `WITHIN THIS DREAM ... BUT THIS DREAM IS FLEETING. USE WHAT IS HERE TO PREPARE FOR THE BATTLE TO COME.` ([Echo Stone: Gloaming Wildwoods](https://wiki.spiralknights.com/Echo_Stone:_Gloaming_Wildwoods)), seemingly being temporary invulnerable to Swarm's reach.
 
 There're mentions of a Dream in other instances:
 
-- `I DREAM ... WITHIN MY DREAM I SAW IT OPEN THE VOID, FELT ITS ENDLESS HUNGER.` ([Echo Stone: Gloaming Wildwoods](https://wiki.spiralknights.com/Echo_Stone:_Gloaming_Wildwoods))
-- `WITHIN THIS DREAM, ITS MANY EYES CANNOT SEE YOU NOR CAN ITS MANY ARMS REACH YOU.` ([Echo Stone: Gloaming Wildwoods](https://wiki.spiralknights.com/Echo_Stone:_Gloaming_Wildwoods))
-- `BUT THIS DREAM IS FLEETING. USE WHAT IS HERE TO PREPARE FOR THE BATTLE TO COME.` ([Echo Stone: Gloaming Wildwoods](https://wiki.spiralknights.com/Echo_Stone:_Gloaming_Wildwoods))
-- `I DREAM ... WITHIN MY DREAM I SEE YOUR LEGION FALLING TO THIS WORLD LIKE BURNING STARS.` ([Echo Stone: Royal Jelly Palace](https://wiki.spiralknights.com/Echo_Stone:_Royal_Jelly_Palace))
-- `VULNERABLE IN SLUMBER, WORLDS WERE DRAWN TO SHIELD ME FROM THE DARKNESS.` ([Echo Stone: Ironclaw Munitions Factory]())
-- `AS I DREAMED, IT CONSUMED. ... IT GREW STRONGER, ENDLESSLY MIRRORING ITSELF WITHIN THE SPACE OF MY DREAM.` ([Echo Stone: Firestorm Citadel](https://wiki.spiralknights.com/Echo_Stone:_Firestorm_Citadel))
+- `I DREAM ... WITHIN MY DREAM I SAW IT OPEN THE VOID, FELT ITS ENDLESS HUNGER` ([Echo Stone: Gloaming Wildwoods](https://wiki.spiralknights.com/Echo_Stone:_Gloaming_Wildwoods)).
+- `WITHIN THIS DREAM, ITS MANY EYES CANNOT SEE YOU NOR CAN ITS MANY ARMS REACH YOU` ([Echo Stone: Gloaming Wildwoods](https://wiki.spiralknights.com/Echo_Stone:_Gloaming_Wildwoods)).
+- `BUT THIS DREAM IS FLEETING. USE WHAT IS HERE TO PREPARE FOR THE BATTLE TO COME` ([Echo Stone: Gloaming Wildwoods](https://wiki.spiralknights.com/Echo_Stone:_Gloaming_Wildwoods)).
+- `I DREAM ... WITHIN MY DREAM I SEE YOUR LEGION FALLING TO THIS WORLD LIKE BURNING STARS` ([Echo Stone: Royal Jelly Palace](https://wiki.spiralknights.com/Echo_Stone:_Royal_Jelly_Palace)).
+- `VULNERABLE IN SLUMBER, WORLDS WERE DRAWN TO SHIELD ME FROM THE DARKNESS` ([Echo Stone: Ironclaw Munitions Factory]()).
+- `AS I DREAMED, IT CONSUMED. ... IT GREW STRONGER, ENDLESSLY MIRRORING ITSELF WITHIN THE SPACE OF MY DREAM` ([Echo Stone: Firestorm Citadel](https://wiki.spiralknights.com/Echo_Stone:_Firestorm_Citadel)).
 
-The Sleeper's `my dream` and `this dream` are two distinct locations separated spatially and temporally, as the Sleeper talks about the Swarm in the past tense - `I SAW`, `FELT`, `IT GREW`. But then Sleeper talks in the present - `USE WHAT IS HERE`, `THIS DREAM IS FLEETING`, `I SEE YOUR LEGION`.
+The Sleeper's `my dream` and `this dream` are __two distinct locations__ separated spatially and temporally, as the Sleeper talks about the Swarm in the past tense -- `I SAW`, `FELT`, `IT GREW`. But then Sleeper talks in the present -- `USE WHAT IS HERE`, `THIS DREAM IS FLEETING`, `I SEE YOUR LEGION`.
 
-The structure of the sentences suggests, that Sleeper is not sleeping or dreaming during the current events, as `THIS DREAM IS FLEETING` ([Echo Stone: Gloaming Wildwoods](https://wiki.spiralknights.com/Echo_Stone:_Gloaming_Wildwoods)), as if the Sanctuary is not Sleeper's dream, but of the knigh. Of course the state of Sleeper's slumber is metaphysical, which had allowed it to recall events of it dreaming.
+The structure of the sentences suggests that Sleeper is not sleeping or dreaming during the current events, as `THIS DREAM IS FLEETING` ([Echo Stone: Gloaming Wildwoods](https://wiki.spiralknights.com/Echo_Stone:_Gloaming_Wildwoods)), as if the Sanctuary is not Sleeper's dream in the present. This suggests that the state of Sleeper's slumber is metaphysical which had allowed it to recall events of it dreaming.
 
-This pattern seems intentional, as if the Sleeper was weakened by the time it awakened by, seemingly, and act the Swarm breaching the Core, which is so far the only distinct, not metaphorical act, as confirmed by Parma: `This world was created to protect it but somehow The Swarm breached the Core and has been feeding on the energy and growing like a leech ever since` ([Dreams and Nightmare - Refuge - Parma's Scout](https://wiki.spiralknights.com/Refuge)) and `The Swarm keeps growing stronger while The Sleeper grows weaker` ([Parma's Scout](https://wiki.spiralknights.com/Dreams_and_Nightmares/Refuge)).
+This pattern seems intentional, as if the Sleeper was weakened by the time it awakened by, seemingly, and act the Swarm breaching the Core, which is so far the only distinct, not metaphorical act, as confirmed by Parma, `This world was created to protect it but somehow The Swarm breached the Core and has been feeding on the energy and growing like a leech ever since` ([Dreams and Nightmare - Refuge - Parma's Scout](https://wiki.spiralknights.com/Refuge)) and `The Swarm keeps growing stronger while The Sleeper grows weaker` ([Parma's Scout](https://wiki.spiralknights.com/Dreams_and_Nightmares/Refuge)).
 
-There is a space for an interpretation, where the Sanctuary's `fleeting dream` is Sleeper's `my dream`, from which it seemingly awakens, or at least capable to communicate, but, there are no evidence to connect the two, given metaphysical and generally vague nature of the Dream. It seems correct to assume that the place where Sleeper is - a proposal of it being in the Sanctuary, as the most fortified against influence of the Swarm, - leads to an idea that Sleeper is in the Sanctuary, as _sanctuary, as a term, carries an inherent meaning_. Here, the terms of refuge and sanctuary would be interchangeable in the presence of a common threat, which only narrows the identity of a Dream. For that we have to look at a different word - `THE WORLD`.
+There is a space for an interpretation, where the Sanctuary's `fleeting dream` is Sleeper's `my dream`, from which it seemingly awakens, or at least capable to communicate.
 
-Before this we must make a remark - if the Sanctuary is a fleeting dream, by the time of knights entering proper into the Core, the dream should not exist, which would be symbolized by a proper gate icon, rather than a white void of the Unknown Passage's elevator. While this may contradict our proposal of Shadow Lairs expeditions happening after Dream and Nightmares, we won't make final decision regarding their temporal placement.
+But, there are no evidence to connect the two, given metaphysical and generally vague nature of the Dream. It seems correct to assume that the place where Sleeper is -- a proposal of it being in the Sanctuary, as the most fortified against influence of the Swarm, -- leads to an idea that Sleeper is in the Sanctuary, as _sanctuary, as a term, carries an inherent meaning of security or sacred spiritual connection_. Here, the terms refuge and sanctuary would be interchangeable in the presence of a common threat which only narrows the identity of a Dream. For that we have to look at a different word -- `THE WORLD`.
+
+<!--Before this we must make a remark -- if the Sanctuary is a fleeting dream, by the time of knights entering proper into the Core, the dream should not exist, which would be symbolized by a proper gate icon, rather than a white void on the Unknown Passage's elevator.-->
+
+<!--While this may contradict our proposal of Shadow Lairs expeditions happening after Dream and Nightmares, we won't make final decision regarding their temporal placement.-->
 
 #### Sleeper's definition of The World
 
 The World is mentioned several times across Echo Stones:
 
-- `WITHIN MY DREAM I SEE YOUR LEGION FALLING TO THIS WORLD LIKE BURNING STARS.` ([Echo Stone: Royal Jelly Palace](https://wiki.spiralknights.com/Echo_Stone:_Royal_Jelly_Palace)).
+- `WITHIN MY DREAM I SEE YOUR LEGION FALLING TO THIS WORLD LIKE BURNING STARS` ([Echo Stone: Royal Jelly Palace](https://wiki.spiralknights.com/Echo_Stone:_Royal_Jelly_Palace)).
 - `THIS WORLD WAS CREATED TO PROTECT ME` ([Echo Stone: Ironclaw Munitions Factory]()).
-- `VULNERABLE IN SLUMBER, WORLDS WERE DRAWN TO SHIELD ME FROM THE DARKNESS.` ([Echo Stone: Ironclaw Munitions Factory](https://wiki.spiralknights.com/Echo_Stone:_Ironclaw_Munitions_Factory))
-- `THIS WORLD HAS BECOME MY PRISON.` ([Echo Stone: Ironclaw Munitions Factory](https://wiki.spiralknights.com/Echo_Stone:_Ironclaw_Munitions_Factory)).
+- `VULNERABLE IN SLUMBER, WORLDS WERE DRAWN TO SHIELD ME FROM THE DARKNESS` ([Echo Stone: Ironclaw Munitions Factory](https://wiki.spiralknights.com/Echo_Stone:_Ironclaw_Munitions_Factory))
+- `THIS WORLD HAS BECOME MY PRISON` ([Echo Stone: Ironclaw Munitions Factory](https://wiki.spiralknights.com/Echo_Stone:_Ironclaw_Munitions_Factory)).
 
-The rough examination allows to suggest that the world is Cradle, converted into a megastructure known as the Clockworks.
+The rough examination allows us to suggest that the `world` is Cradle, converted into a megastructure known as Clockworks.
 
-Those statement make seem like the term "world" refers both to Cradle and the "worlds" contained within the skydomes. But how they were drawn to shield the Sleeper, if not through the rotation across the Clockworks - manifested as the depths of Arcade Gates? Does this mean that Cradle itself as the World, is positioned external to the Dream of internals of the Core?
+Those statement make seem like the term `world` refers both to Cradle and the "worlds" contained within the skydomes. But how they were drawn to shield the Sleeper, if not through the rotation across the Clockworks -- manifested as the depths of Arcade Gates? Does this mean that Cradle itself as the World, _is positioned as external to the Dream of internals of the Core_?
 
-This gives another clue to Sleeper's physical location, drawn to the confinements of the Core: within the Core. The Sanctuary specifically, or being at the volume of Whitespace.
+This gives another clue to Sleeper's physical location, drawn to the confinements of the Core -- it is within the Core, either the Sanctuary or at the volume of Whitespace.
 
 ##### Hypothesis of Core's Internal Volume
 
-The Core at the Core Terminal does not seem particularly large, seemingly capable of containing a single skydome. This raises the question of plausibility of Refuge and Sanctuary being different locations within a single skydome. With the established physics of Whitespace, Whitespace is capable of manifesting matter - Whitespace blocks, out of "nothing", - could it be that the volume of the Core is far larger than it is perceived on the outside, given already established eldritch motifs?
+The Core at the Core Terminal does not seem particularly large, seemingly capable of containing a single skydome. This raises the question of plausibility of Refuge and Sanctuary being different locations within a single skydome. With the established physics of Whitespace, Whitespace is capable of manifesting matter -- Whitespace blocks, out of "nothing" and similar to [vanishing of matter by ghost blocks](), -- could it be that the volume of the Core is far larger than it is perceived on the outside, given already established eldritch and divine motifs?
 
-The spacial abnormal state of Whitespace in terms of material realm was previously hinted by the nature of [Ghost Blocks](https://wiki.spiralknights.com/Ghost_Block#Ghost_Block). We have extensively covered their symbolism, and specifically, a light-blue glow reminiscent of the Core and Artifact, while having a depiction of an eye, found throughout gremlin and Underworld technology. We don't currently know of ghost block's meaning apart from it possessing a capacity to make matter disappear.
+The spacial, abnormal state of Whitespace in terms of material realm was previously hinted by the nature of [Ghost Blocks](https://wiki.spiralknights.com/Ghost_Block#Ghost_Block). We have covered their symbolism, and specifically, a light-blue glow reminiscent of the Core and the Artifact, while bearing a stone carving of an eye found throughout gremlin and Underworld technology. We don't currently know of ghost block's meaning apart from it possessing a capacity to make matter visually disappear.
 
-If, hypothetically, the Whitespace of the Core is infinite, how Sleeper could grow weaker within the infinite volume and infinite energy? It might be that the Sanctuary is finite, defined by its skydome, and it is within an infinite space of literal white space of the Core. Within this logic, the Whitespace would be only volume contained within the Core, meaning that it is the source of energy.
+If, hypothetically, the Whitespace of the Core is infinite, how Sleeper could grow weaker within the infinite volume and infinite energy? It might be that the Sanctuary is finite, defined by its skydome, and it is within an infinite space of white space of the Core. Within this logic, the Whitespace would be only volume contained within the Core, meaning that _it is the source of energy_.
 
-The idea of infinite space of Whitespace can be suggested by the Echo Stone:
+The idea of infinite volume of Whitespace can be suggested by the Echo Stone:
 
 `IT GREW STRONGER, ENDLESSLY MIRRORING ITSELF WITHIN THE SPACE OF MY DREAM. ENDLESSLY MIRRORING... EXPANDING... INFINITE.` ([Echo Stone: Firestorm Citadel](https://wiki.spiralknights.com/Echo_Stone:_Firestorm_Citadel))
 
 If this statement is taken literally, we are encountered with several issues:
 
 - The Dream is not strictly Sanctuary, as the Sanctuary is finite.
-- This makes the Dream the Whitespace.
-- As a result, the prior assumption of Sleeper observing the Void being opened from his dream on the outside is wrong - meaning that the Void and the Swarm had to be placed within WHitespace of the Core. That is if the Dream is restricted to the Core's volume.
+- This makes the Dream to be the Whitespace of volume of the Core.
+<!--- As a result, the prior assumption of Sleeper observing the Void being opened from his dream on the outside is wrong -- meaning that the Void and the Swarm had to be placed within Whitespace of the Core. That is if the Dream is restricted to the Core's volume.-->
 
 #### Sleeper's definition of a Dream: Part 3
 
-While the Dream is either the Core or Whitespace or the Sanctuary, option of skydome and Whitespace being the Sleeper's dream presents an opportunity for a World to be referring either to Cradle or Core's artificial shell and above, including Cradle.
+While the Dream is either the Core or Whitespace or the Sanctuary, option of skydome and Whitespace being the Sleeper's dream presents an opportunity for a World to be referring either to Cradle or Core's artificial shell and beyond, including Cradle.
 
 `THIS WORLD HAS BECOME MY PRISON.` ([Echo Stone: Ironclaw Munitions Factory](https://wiki.spiralknights.com/Echo_Stone:_Ironclaw_Munitions_Factory)).
 
-This quote then can only be referred to the stat of the Core as sealed.
+This quote can refer to the state of the Core being sealed.
 
 `YOU ARE SAFE HERE, KNIGHT. WITHIN THIS DREAM, ITS MANY EYES CANNOT SEE YOU NOR CAN ITS MANY ARMS REACH YOU.` ([Echo Stone: Gloaming Wildwoods](https://wiki.spiralknights.com/Echo_Stone:_Gloaming_Wildwoods))
 
 The phrasing `NOR CAN ITS MANY ARMS REACH YOU` is similar to the following lines:
 
-- `I lost sight of him as things went black. It felt like a thousand hands were pulling us away. As if something didn't want us to follow` [Dreams and Nightmares - A Step Beyond - Vaelyn](https://wiki.spiralknights.com/Vaelyn).
-- `Luckily I was able to pull some strings and find you an exit` [Dreams and Nightmares - Refuge - Parma's Scout](https://wiki.spiralknights.com/Dreams_and_Nightmares/Refuge) - the scenario of ending up within the skydome of the Core is familiar to the Shadow Lairs leading to Sanctuary.
+- `I lost sight of him as things went black. It felt like a thousand hands were pulling us away. As if something didn't want us to follow` [Dreams and Nightmares - A Step Beyond - Vaelyn](https://wiki.spiralknights.com/Vaelyn) -- Vaelyn referring to the Swarm.
+- `Luckily I was able to pull some strings and find you an exit` [Dreams and Nightmares - Refuge - Parma's Scout](https://wiki.spiralknights.com/Dreams_and_Nightmares/Refuge). This scenario of finding themselves within the skydome of the Core is familiar to the Shadow Lairs leading to Sanctuary, _as if being guided and rescued_.
 
-Since the first quote is attributed to Vaelyn, it is possible, that the Sleeper, through the breach, arranged for the Knight to enter the Sanctuary.
+Since the first quote is attributed to Vaelyn, it is possible, that the Sleeper, through the breach, arranged for the Knight to enter the Sanctuary, since there are no other known entrances to the Core.
 
-This wording makes it seem like the "arms" are reaching from the outside, and, considering that in both current scenarios knight escapes into the Whitespace, it seems that the arms are outside of the Core. The only reason why arms would be present if they were not preventing anyone entering the Core, but capturing.
+This wording makes it seem like the `arms` are reaching from the outside, and, considering that in both current scenarios knight escapes into the Whitespace, it seems that the _arms are outside of the Core_.
 
-Parma mentions of exit: `I knew I'd never make it here in time when I noticed your signal. Luckily I was able to pull some strings and find you an exit` ([Dreams and Nightmares - Refuge - Parma's Scout](https://wiki.spiralknights.com/Dreams_and_Nightmares/Refuge)). It suggests that the knight and Vaelyn were in danger, as evident by higher Swarm presence, as well as by the naming of the depth, [Descent into Darkness](https://wiki.spiralknights.com/Dreams_and_Nightmares/Descent_into_Darkness). Yet, there is no supposed darkness in the Core, if the Swarm is originating from the outside, unless it is Whitespace which is changed to trap te knight, as suggested by the existence of a multi-gate arena, reminiscent of the Unknown Passage.
+<!--The only reason why arms would be present if they were not preventing anyone entering the Core, but capturing.-->
 
-There is also existence of a Swarm entity with a distinct, looking down eye, whose appearance is implied by Shadow Lairs' gates, the symbol of an eye across monster gates of Whitespace, and behind the Core with the [Shadows Fall Over Cradle]() update - we do not know, from where it comes during its initial appearance in Dream and Nightmares. As far as this investigation is prying a case of Swarm being external, the Swarm entity fits the narrative, as it is recognized within the Core's gates, and general presence outside of the Core.
+Parma mentions of exit, `I knew I'd never make it here in time when I noticed your signal. Luckily I was able to pull some strings and find you an exit` ([Dreams and Nightmares - Refuge - Parma's Scout](https://wiki.spiralknights.com/Dreams_and_Nightmares/Refuge)). It suggests that the knight and Vaelyn were in danger, as evident by higher Swarm presence, as well as by the naming of the depth, [Descent into Darkness](https://wiki.spiralknights.com/Dreams_and_Nightmares/Descent_into_Darkness). Yet, there is no supposed darkness in the Core, if the Swarm is originating from the outside, unless it is Whitespace which is changed to trap the knights, as suggested by the existence of a multi-gate arena, reminiscent of the Unknown Passage.
+
+<!--There is also existence of a Swarm entity with a distinct, looking down eye, whose appearance is implied by Shadow Lairs' gates, the symbol of an eye across monster gates of Whitespace, and behind the Core with the [Shadows Fall Over Cradle]() update - we do not know, from where it comes during its initial appearance in Dream and Nightmares.-->
+
+<!--As far as this investigation is prying a case of Swarm being external, the Swarm entity fits the narrative, as it is recognized within the Core's gates, and general presence outside of the Core.-->
 
 #### Sleeper's definition of a Dream: Part 4
 
-Now with that paradigm, we return to the question of the Dream - what it is, and then, where is the Swarm. So far we have established, that:
+Now with that paradigm, we return to the question of the Dream -- what it is, and then, where is the Swarm?
+
+So far we have established, that:
 
 1. If the Dream is the white skydome of Sanctuary/Refuge, and the Swarm opens the Void within the Core, it breaches the Core and enters the Clockworks. The Whitespace could be considered Swarm's source and yet the Swarm can't reach the Sanctuary.
 2. Dream is the Core with Whitespace included, Swarm is an external entity to the Core, breaching it from the outside and accessing infinite energy of Whitespace, mirroring itself there.
 
-The Core and Cradle are referred separately, as 'my dream' and the World, as Sleeper slept through construction of Clockworks. Namely `VULNERABLE IN SLUMBER` means that it was not protected, until `WORLDS WERE DRAWN TO SHIELD ME FROM THE DARKNESS` - protected by Cradle and its worlds ([Echo Stone: Ironclaw Munitions Factory](https://wiki.spiralknights.com/Echo_Stone:_Ironclaw_Munitions_Factory)).
+The Core and Cradle are referred separately, as `my dream` and the World, as Sleeper slept through construction of Clockworks. Namely `VULNERABLE IN SLUMBER` means that it was not protected, until `WORLDS WERE DRAWN TO SHIELD ME FROM THE DARKNESS`, protected by Cradle and its worlds ([Echo Stone: Ironclaw Munitions Factory](https://wiki.spiralknights.com/Echo_Stone:_Ironclaw_Munitions_Factory)).
 
 Cradle was created to protect Sleeper. Where Vaelyn was right and [Echo Stone: Ironclaw Munitions Factory](https://wiki.spiralknights.com/Echo_Stone:_Ironclaw_Munitions_Factory) tell, it became a prison in a sense that the Sleeper was imprisoned at by Architect: `THIS WORLD WAS CREATED TO PROTECT ME. VULNERABLE IN SLUMBER, WORLDS WERE DRAWN TO SHIELD ME FROM THE DARKNESS. THIS WORLD HAS BECOME MY PRISON. IN HIS MADNESS, THE ARCHITECT BETRAYED THE PACT. TWISTING HIS CREATION INTO A GAME OF DEATH, IT NOW DEVOURS ALL WHO ENTER ITS IRON EMBRACE` ([Echo Stone: Ironclaw Munitions Factory]()).
 
 In that context, the Core being sealed is an act of imprisonment, as no other structure is stated to be sealed, apart from Clockworks from the beginning being referred as a maze:
 
-- `The Core that we seek, there's something truly dreadful about it. I know that it may very well be what gets us home, but I can't shake this feeling that we've been thinking about it all wrong. ... I mean that the Core isn't a big battery that runs this world, but rather it and the whole of this world is a massive prison designed to keep something from ever leaving. Think about our geo-scans of Cradle just before the crash- they show it as being composed of hundreds of massive slabs of other worlds, almost like plates of armor. Then you have the Clockworks, the most unnatural thing I've ever seen. An entire world whose sole purpose seems to be stopping anyone from ever reaching its Core` ([Becoming a Champion - Feron](https://wiki.spiralknights.com/Becoming_a_Champion)).
+- `The Core that we seek, there's something truly dreadful about it. I know that it may very well be what gets us home, but I can't shake this feeling that we've been thinking about it all wrong. ... I mean that the Core isn't a big battery that runs this world, but rather it and the whole of this world is a massive prison designed to keep something from ever leaving. Think about our geo-scans of Cradle just before the crash - they show it as being composed of hundreds of massive slabs of other worlds, almost like plates of armor. Then you have the Clockworks, the most unnatural thing I've ever seen. An entire world whose sole purpose seems to be stopping anyone from ever reaching its Core` ([Becoming a Champion - Feron](https://wiki.spiralknights.com/Becoming_a_Champion)).
 - `This is a world designed to confuse its travelers. It wants to trap and destroy them. I'm starting to think its like a cat, toying with its prey before delivering the final blow` ([Recon Module: Ironclaw Munitions Factory - Rulen](https://wiki.spiralknights.com/Recon_Module)).
 
 The Core could not be built momentarily, as its physicality is of material realm. It would be part of protection originally build with the Cradle. But now the Core and Cradle are reframed into a prison:
 
 `IN HIS MADNESS, THE ARCHITECT BETRAYED THE PACT. TWISTING HIS CREATION INTO A GAME OF DEATH, IT NOW DEVOURS ALL WHO ENTER ITS IRON EMBRACE.` ([Echo Stone: Ironclaw Munitions Factory](https://wiki.spiralknights.com/Echo_Stone:_Ironclaw_Munitions_Factory))
 
-The `IT` term in the [Echo Stone: Firestorm Citadel](https://wiki.spiralknights.com/Echo_Stone:_Firestorm_Citadel) - `AS I DREAMED, IT CONSUMED. ... IT GREW STRONGER, ENDLESSLY MIRRORING ITSELF WITHIN THE SPACE OF MY DREAM.` - makes it seem that it is Cradle, which possesses an iron embrace, contrary to Swarm.
+The `IT` term in the [Echo Stone: Firestorm Citadel](https://wiki.spiralknights.com/Echo_Stone:_Firestorm_Citadel), `AS I DREAMED, IT CONSUMED. ... IT GREW STRONGER, ENDLESSLY MIRRORING ITSELF WITHIN THE SPACE OF MY DREAM`, makes itself seem that it is Cradle which possesses an iron embrace, contrary to the Swarm.
 
-But, the Swarm was getting stronger inside the the space which is occupied by or is the same as the dream - `THE SPACE OF MY DREAM`. It is possible, if we think of the Dream being not the Sanctuary, but on the contrary, the Core with its Whitespace contained - for example, a definition of a space under Sleeper's authority over matter. This idea ties to a the fact that Swarm was feeding on Core's energy, mirroring itself now within the Whitespace, which allows it to mirror itself until the Core was sealed. Weather this would permanently leave the Core sealed with Swarm's presence both inside and outside of the Core - is unknown.
+But, the Swarm was getting stronger inside the the space which is occupied by or is the same as the dream - `THE SPACE OF MY DREAM`. It is possible, if we think of the Dream being not the Sanctuary, but the Core with its Whitespace contained -- for example, a definition of a space under Sleeper's authority over matter. This idea ties to a the fact that Swarm was feeding on Core's energy, mirroring itself now within the Whitespace, which allows it to mirror itself until the Core was sealed. Weather this would permanently leave the Core sealed with Swarm's presence both inside and outside of the Core -- is unknown.
 
 The term of mirroring, if interpreted, would mean presence of mirrors in a confinement. Such confinement being only the Whitespace within the Core, as it is the only location capable of direct creation of matter.
 
@@ -9380,21 +9396,23 @@ Or, if Dream's space being Cradle, the mirrorings would be then the Shadow Lairs
 
 Both os those statements allow to suggest that the Core is the dream, from which outside events are being observed.
 
-Based on this we come to the following conclusion: _Sleeper's dream is Core's volume. Whitespace itself is infinite and is the source of Energy_. The space taken by the Whitespace is surrounded by the Core to interact with it in a controlled manner, as proven by presence of Consoles. Weather Refuge is located in the same skydome as the Sanctuary - remains unknown.
+Based on this we come to the following conclusion -- __Sleeper's dream is Core's volume__, __Whitespace itself is infinite and is the source of Energy__.
 
-From Core's sealed state, Sanctuary and entities within are capable of limited control over Core's operation, accessing Core internal space, as Parma managed to find an exit to the Refuge through the Whitespace. An exit in that sense, from infinity of Whitespace, which as it got deeper, was the more occupied by the Swarm. Connection to the rest of Clockworks from within the Core would not be possible then, or at least by a small degree, as suggested by Whitespace blocks at Sanctuary elevator from the Unknown Passage.
+The space taken by the Whitespace is surrounded by the Core to interact with it in a controlled manner, as proven by presence of consoles. Weather Refuge is located in the same skydome as the Sanctuary, remains unknown.
 
-But the Core's sealed state does not mean the slumbering state of the Sleeper, as it was already sleeping yet before Architect's betrayal, that is `VULNERABLE IN SLUMBER, WORLDS WERE DRAWN TO SHIELD ME FROM THE DARKNESS.` ([Echo Stone: Ironclaw Munitions Factory]()). The Swarm feeds of Whitespace, but once the Core was sealed, the Swarm was severed from it, which led it to breaching it from the outside.
+From Core's sealed state, Sanctuary, and entities within it are capable of limited control over Core's operation, accessing Core internal space, as Parma managed to find an exit to the Refuge through the Whitespace. An exit in that sense, from infinity of Whitespace, which, as it got deeper, was the more occupied by the Swarm. Connection to the rest of Clockworks from within the Core would not be possible then, or at least by a small capacity, as suggested by Whitespace blocks at Sanctuary elevator from the Unknown Passage.
 
-This explanation, in the same manner, as the variations of Unknown Passage and Shadow Lairs, relies on the temporal aspect of the narrative - that the events are told and observed sequentially. This is the only our proposal which would allow, given definitions of the dream, for the Swarm to exist across both inside and outside of the Core, while logically breaching it, and allowing for a straightforward narrative to happen.
+But the Core's sealed state does not mean the slumbering state of the Sleeper, as it was already sleeping yet before Architect's betrayal, that is `VULNERABLE IN SLUMBER, WORLDS WERE DRAWN TO SHIELD ME FROM THE DARKNESS.` ([Echo Stone: Ironclaw Munitions Factory]()). The Swarm feeds on Whitespace, but once the Core was sealed, the __Swarm was severed from it, which led it to breaching it from the outside__.
 
-And despite this, the question of the potential, greater mass of the Swarm. - the one that had infinitely expanded within the Whitespace, is left untouched, unless it is yet to be seen in the Whitespace.
+This explanation, in the same manner, as the variations of Unknown Passage and Shadow Lairs, relies on the temporal aspect of the narrative -- that the events are told and observed sequentially. This is the only our proposal which would allow, given definitions of the dream, for the Swarm to exist across both inside and outside of the Core, while breaching it.
+
+And despite this, the question of the potential, greater mass of the Swarm -- the one that had infinitely expanded within the Whitespace, is left untouched, unless it is yet to be seen in the Whitespace. _It is also possible that earlier quotes of the Swarm escaping since the Core was left open were omiting a step of Swarm entering the volume of the Core_.
 
 Lastly, the act of opening the Void is one to be later looked at, as there are several dimensions material realm is known to open portals to.
 
 #### Sleeper's definition of The Pact
 
-It is implied that gremlins had an assistance in building Clockworks. As in Whitespace it was seen to be possible to manifest matter, and, potentially, Divine Clockwork tunnels, based of its transition into the abstract. Would this mean that the concept of Swarm mirroring itself is Sleeper's term for not specifically multiplication, but creation?
+It is implied that gremlins had an assistance in building Clockworks. As in Whitespace it was seen to be possible to manifest matter, and, potentially, Divine Clockwork tunnels, based of its transition into Whitespace. Would this mean that the concept of Swarm mirroring itself is Sleeper's term for not specifically multiplication, but creation?
 
 As it is the only instance of Swarm gaining power with the exactness of the method it gains it, we suggest it being the metaphor for creation:
 
@@ -9406,46 +9424,44 @@ This establishes a state preceding the current one. The term Creation will be lo
 
 The Pact between the Sleeper and the Architect is struck. Betrayal of the Pact resulted in the current status quo of Core being Sealed, with `THIS WORLD HAS BECOME MY PRISON.` and `TWISTING HIS CREATION INTO A GAME OF DEATH, IT NOW DEVOURS ALL WHO ENTER ITS IRON EMBRACE.` (Echo Stone: Ironclaw Munitions Factory)
 
-based on this we can gather, that the Pact had involved transformation of creation of Cradle into a mechanized fortress. Gremlins would inhabit and, at least, maintain its defenses.
+Based on this we can gather that the Pact had involved transformation of creation of Cradle into a mechanized fortress which could serve as a prison. Gremlins would inhabit and, at least, maintain its defenses.
 
-We suggest it also being form Gremlins' perspective known as the Iron Law, due to its significance to Herex: `The Iron Law is Broken` ([Spark and Roar - Hidden Hideout - Herex](https://wiki.spiralknights.com/Hidden_Hideout)). This state of brokenness is characterized by supposed falsehood of Crimson Order: `The Crimson Order is False! The Nine are blind, they cannot see the Truth that lies below. The Nine are deaf, they cannot hear the Resonance that beats within this world` ([Spark and Roar - Hidden Hideout - Herex](https://wiki.spiralknights.com/Hidden_Hideout)).
+We suggest it also being form Gremlins' perspective known as the Iron Law, due to its significance to Herex, `The Iron Law is Broken` ([Spark and Roar - Hidden Hideout - Herex](https://wiki.spiralknights.com/Hidden_Hideout)). This state of brokenness is characterized by supposed falsehood of Crimson Order, `The Crimson Order is False! The Nine are blind, they cannot see the Truth that lies below. The Nine are deaf, they cannot hear the Resonance that beats within this world` ([Spark and Roar - Hidden Hideout - Herex](https://wiki.spiralknights.com/Hidden_Hideout)).
 
-By that, maintenance of the Pact, of ones upholding it - the Crimson Order, - is an incorrect position. The current condition of Cradle is one of broken Iron Law from Herex's perspective, and of broken Pact from the perspective of Sleeper, with the Core being currently sealed as a measure. And yet, the Core must be kept sealed for the Swarm not to escape, which is seemingly agreed upon by all parties - that opened Core and the Swarm should not be present in proximity of each other.
+By that, maintenance of the Pact, of ones upholding it -- the Crimson Order, -- is an incorrect position. The current condition of Cradle is one of broken Iron Law from Herex's perspective, and of broken Pact from the perspective of Sleeper, with the Core being currently sealed as a measure. And yet, the Core must be kept sealed for the Swarm to remain within Cradle, which is seemingly agreed upon by all parties -- that opened Core and the Swarm should not be present in proximity of each other.
 
-In relation to the Spiral Order, there seems to be a logical leap or an assumption, that the Swarm comes from the Core - which was an above topic of discussion, but one which might be truthful if the main volume of thw Swarm is within the Core, rather than in the Unknown Passage.
+In relation to the Spiral Order, there seems to be a logical leap or an assumption that the Swarm comes from the Core -- which was an above topic of discussion, but one which might be truthful if the main volume of the Swarm is within the Core, rather than in the Unknown Passage.
 
-Even if we consider both proposals to be true, a plausible explanation, which allows to resolve those conflicts, emerges - Iron Law is the idea of Core remaining sealed - a crisis-control measure to prevent Swarm from escaping either directly from the Core, or using its energy to expand from the Shadow Lairs. In both instances Crimson Oder did hide the Artifact prior to Skylark crash landing.
+Even if we consider both proposals to be true, a plausible explanation, which allows to resolve those conflicts, emerges -- _Iron Law is the idea of Core remaining sealed -- a crisis-control measure to prevent Swarm from escaping_ either directly from the Core or using its energy to expand from the Shadow Lairs. In both instances Crimson Oder did hide the Artifact prior to Skylark crash landing.
 
-Through connections:
+Through the following quotes:
 
 - `TWISTING HIS CREATION INTO A GAME OF DEATH, IT NOW DEVOURS ALL WHO ENTER ITS IRON EMBRACE.` (Echo Stone: Ironclaw Munitions Factory).
-- `WITHIN MY DREAM I SAW IT OPEN THE VOID, FELT ITS ENDLESS HUNGER.` (Echo Stone: Gloaming Wildwoods).
+- `WITHIN MY DREAM I SAW IT OPEN THE VOID, FELT ITS ENDLESS HUNGER.` (Echo Stone: Gloaming Wildwoods), we suggest that the Sleeper was slumbering during the Pact breakage, as shields were drawn, and Cradle constructed.
 
-We suggest that the Sleeper was slumbering during the Pact breakage, as shields were drawn, and Cradle constructed. And as the Pact was broken, the Swarm or rather the entity before it had emerged, if we consider it as `it`, which had `opened the void`, and became `neither beast nor god`:
+And as the Pact was broken, the Swarm or rather the entity before it had emerged, if we consider it as `it`, which had `opened the void`, and became `neither beast nor god`:
 
-- `IT GREW STRONGER, ENDLESSLY MIRRORING ITSELF WITHIN THE SPACE OF MY DREAM. ENDLESSLY MIRRORING... EXPANDING... INFINITE.` (Echo Stone: Firestorm Citadel)
-- `WHAT IT WAS BEFORE IT IS NO MORE. NEITHER BEAST NOR GOD, IT IS A CREATION UNLIKE ALL.` (Echo Stone: Firestorm Citadel)
+- `IT GREW STRONGER, ENDLESSLY MIRRORING ITSELF WITHIN THE SPACE OF MY DREAM. ENDLESSLY MIRRORING... EXPANDING... INFINITE` (Echo Stone: Firestorm Citadel).
+- `WHAT IT WAS BEFORE IT IS NO MORE. NEITHER BEAST NOR GOD, IT IS A CREATION UNLIKE ALL` (Echo Stone: Firestorm Citadel).
 
-While it is stated to expand within the space of Sleeper's dream, which was one of larger issues as we defined the physical nature of the dream, the mirroring aspect had remained as an imperative to Swarm's nature, which did not seemingly change throughout Sleeper's narration, as consumption and hunger were its inherent properties.
+While it is stated to expand within the space of Sleeper's dream, which was one of larger issues as we defined the physical nature of the dream, the mirroring aspect had remained as an imperative to Swarm's nature which did not seemingly change throughout Sleeper's narration, as consumption and hunger were its inherent properties.
 
 We may assume, that there was an entity in place of the Swarm prior to this state. Given Sleeper's perspective the nature of Creation is one also vaguely defined.
 
-Then, given context of `WORLDS WERE DRAWN TO SHIELD ME FROM THE DARKNESS.` (Echo Stone: Ironclaw Munitions Factory), the darkness originally had to be located outside of Cradle - one which we have initially supposed to be one of Underworld up to and including one of Apocrean Realm wit the latter being a more present antagonist on terms of themes.
+Then, given context of `WORLDS WERE DRAWN TO SHIELD ME FROM THE DARKNESS` (Echo Stone: Ironclaw Munitions Factory), the darkness originally had to be located outside of Cradle -- one which we have initially supposed to be one of Underworld up to and including one of Apocrean Realm with the latter being a more dangerous antagonist in terms of [their themes and intentions]().
 
-At that, the Iron Law can be related to Sleeper's term of Iron Prison and iron embrace, as Cradle and the Core.
-
-Through this logic, we can propose, that the characteristic state of Cradle as one of iron prison is linked to the nature of Iron Law and the operational principle of the Core remaining Sealed, as evident by Crimson Order hiding the Artifact.
+The Iron Law can be related to Sleeper's term of Iron Prison and iron embrace, as Cradle and the Core. Through this logic, we can propose, that the characteristic state of Cradle as one of iron prison is linked to the nature of Iron Law and the operational principle of the Core remaining sealed, as evident by Crimson Order hiding the Artifact.
 
 It is then the entity suspected to help construct the Clockworks is the initial, non-malevolent precursor of the Swarm, which went though a process of transformation into the Swarm in proximity of an act of opening the Void.
 
-Its nature, shared with the Whitespace by the fact of rectangular, similar, abstract design, - while we will return to this design in the context of the Void and its effects, - the design seem to contain a common ancestry between nature of Whitespace and the Swarm
+Its nature, shared with the Whitespace by the fact of rectangular, similar, abstract patterns, -- while we will return to this appearance in the context of the Void and its effects, -- it seem to contain a common ancestry between nature of Whitespace and the Swarm.
 
-The scenario of the Core had to be sealed seem to be the case of a temporal solution, which, while allowing to contain the Swarm - as by severing it from the Core, imprisoned the Sleeper itself within the Core. So far the issue remains in the interpretation of the words: `IT GREW STRONGER, ENDLESSLY MIRRORING ITSELF WITHIN THE SPACE OF MY DREAM. ENDLESSLY MIRRORING... EXPANDING... INFINITE.` (Echo Stone: Firestorm Citadel), which suggest a concept of infinity to be common with Sleeper's understanding of infinity - as it being an infinite volume of Whitespace.
+The scenario of the Core had to be sealed seem to be the case of a temporal solution, which, while allowing to contain the Swarm -- by _severing it from the Core, had imprisoned the Sleeper itself within the Core_. So far the issue remains in the interpretation of the words, `IT GREW STRONGER, ENDLESSLY MIRRORING ITSELF WITHIN THE SPACE OF MY DREAM. ENDLESSLY MIRRORING... EXPANDING... INFINITE` (Echo Stone: Firestorm Citadel), which suggest a concept of infinity to be common with Sleeper's understanding of infinity -- as an infinite volume of Whitespace.
 
-This leads us to the following ideas:
+This leads us to the following concepts:
 
-- The Swarm had opened the Void outside of the Core and was expanding within the space of the Core until the Core was sealed, severing the Swarm and forcing it to breach the Core in order to sustain itself on the Whitespace.
-- Then it is either the Swarm which had remained at least outside of the Core, whose expansion was stopped with the Core being sealed, or the act of sealing the Core had led to a separation of the Swarm into entities outside of the Core and within the Core. The prior seems more simple and straightforward so far.
+- The Swarm had opened the Void outside of the Core and was expanding within the space of the Core until the Core was sealed, severing the Swarm and forcing it to breach the Core in order to sustain itself on energy of the Whitespace.
+- Then it is either the Swarm which had remained outside of the Core, whose expansion was stopped with the Core being sealed, or the act of sealing the Core had led to a separation of the Swarm into entities outside of the Core and within the Core. The prior scenatio seems more direct and straightforward despie a logical leap of an assumption of the _Swarm escaping from the Core_ rather than _using it to power itself and then escape_.
 
 Depending on the interpretation and, conclusively, the time of its expansion within the Core, we can rule out one of those interpretations we manage to identify the state of the Whitespace at a current point in time.
 
@@ -9477,10 +9493,9 @@ Now we will elaborate on the details of the symbolism behind definition of energ
 
 </BookCitation>
 
-It is here we must make the greatest accent on the nature of the First Matter as, also, the chaos: `The unfettered opposites in chaos. “Chaos” is one of the names for the prima materia` `Mercurius, standing on the round chaos, holding the scales which signify the pondus et
-mensura. The rotundum is a prefiguration of the gold`, and as `Hermaphrodite on the winged globe of chaos, with the seven planets and the dragon`.
+It is here we must make an accent on the nature of the First Matter as, also, the chaos, `The unfettered opposites in chaos. “Chaos” is one of the names for the prima materia` `Mercurius, standing on the round chaos, holding the scales which signify the pondus et mensura. The rotundum is a prefiguration of the gold`, and as `Hermaphrodite on the winged globe of chaos, with the seven planets and the dragon`.
 
-A similar identity of the first matter was identified in "The Forge and the Crucible" by Mircea Eliade:
+A similar identity of the first matter was identified in `The Forge and the Crucible` by _Mircea Eliade_:
 
 <BookCitation source="The Forge and the Crucible - Mircea Eliade">
 
@@ -9500,7 +9515,7 @@ We propose, that Shadow Lairs, as separate expeditions, contain a thematic eleme
 
 The notion of a descend into the Shadow Lairs, through the Unknown Passage, into the Sanctuary, and acquisition of a rare material, unique to the lair is, we believe, is an alchemical metaphor for the process of creation of the Great Work, and of a particular kind.
 
-By that we mean, as the phenomenon of alchemy as of pseudo-chemistry is rooted from a projection of inner consciousness onto a physical world, of subjective to explain objective reality, as a result, the latter's elements also become symbolic. Here we perform a similar operation. This theme we a referring to in regards to each expedition and material is concealed in the alchemical process itself, and its final goal, here described from the english translation of Carl Jung's "Psychology and Alchemy":
+By that we mean, as the phenomenon of alchemy as of pseudo-chemistry is rooted from a projection of inner consciousness onto a physical world, of subjective to explain objective reality, as a result, the latter's elements also become symbolic. Here we perform a similar operation. This theme we a referring to in regards to each expedition and material is concealed in the alchemical process itself, and its final goal, here described from the english translation of _Carl Jung's_ `Psychology and Alchemy`:
 
 <BookCitation source="Psychology and Alchemy - Carl Jung">
 
@@ -9542,22 +9557,22 @@ And, through the four stages of alchemical process:
 
 </BookCitation>
 
-Here we are to apply this concept on Shadow Lairs, forming a correspondence. Isorans crash land on Cradle led by their search of an energy source, which became the Core. Paralleling it, an idea is introduced by knights, which start to feel as if they were intended to crash land. With this an aspect of destiny or fate is introduced, followed by a guardianship of Cradle.
+Here we are to apply this concept on Shadow Lairs, forming a correspondence. Isorans crash land on Cradle led by their search of an energy source which became the Core. Paralleling it, an idea is introduced by knights which start to feel as if they were intended to crash land. With this an aspect of destiny or fate is introduced, followed by a guardianship of Cradle.
 
-The events of Dreams And Nightmares reveal Swarm as the greatest so far threat physically present on Cradle, apart from Undercorp, and Apocrea as an eldritch deity.
+The events of Dreams And Nightmares reveal Swarm as the greatest so far threat physically present on Cradle, apart from Underworld, and Apocrea as an eldritch deity.
 
-Then there are the materials. We propose an existence of a symbolic parallel in the materials acquired in the Sanctuary depending on the Shadow Lair and the stages of the Great Work. The three prior materials represent the alchemical stages - a metaphorical process of transformation of Prima Materia. This symbolism is depicted as follows:
+Then there are the materials. We propose an existence of a symbolic parallel in the materials acquired in the Sanctuary depending on the Shadow Lair and the stages of the Great Work. The three prior materials represent the alchemical stages -- a metaphorical process of transformation of Prima Materia. This symbolism is depicted as follows:
 
 - The [Nightmare Mane](https://wiki.spiralknights.com/Nightmare_Mane) being the blackening (`A coat of coarse fur taken from a Snarbolax. Each fiber seems to curl and fray as if life is still flowing through it` - [Nightmare Mane](https://wiki.spiralknights.com/Nightmare_Mane)).
 - The sample of the [Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore) being the whitening (`An extremely rare metal of great power said to be from the heavens above. It is often completely wasted on crowns and jewelry for slime royalty` - [Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore)).
-- Acquisition of [Gremlonium](https://wiki.spiralknights.com/Gremlonium) being the reddening. It is described as `A highly advanced compound created by gremlin engineers to power their most devious machines` ([Gremlonium](https://wiki.spiralknights.com/Gremlonium)), seems to be a red powder, which is the same as powder of projection in 12-step process of Great Work and, generally, given a wonder-weapon narrative of gremlin technology, and of Roarmulus Twins, seem to be a depiction of such state, - as a powder produced by a highly-advanced, highly technological process, yet remaining as such.
+- Acquisition of [Gremlonium](https://wiki.spiralknights.com/Gremlonium) being the reddening. It is described as `A highly advanced compound created by gremlin engineers to power their most devious machines` ([Gremlonium](https://wiki.spiralknights.com/Gremlonium)), seems to be a red powder, which is the same as powder of projection in 12-step process of Great Work and, generally, given a wonder-weapon narrative of gremlin technology, and of Roarmulus Twins, seem to be a depiction of such state, -- as a powder produced by a highly-advanced, highly technological process, yet remaining as such.
 - Lastly, there is [Maiden's Tear](https://wiki.spiralknights.com/Maiden%27s_Tear): `A sacred jewel cherished by Almirian knights. Given to them by their beloved, it is said to keep them safe in battle`.
 
-    Here we depart from the 4-step model of Great Work, and utilize 3 steps, as evident by the suggested role of Gremlonium. But, the material remains, and, we suggest a well-fitting explanation.
+  Here we depart from the 4-step model of Great Work, and utilize 3 steps, as evident by the suggested role of Gremlonium. But, the material remains, and, we suggest a well-fitting explanation.
 
-    This material is a sacred jewel, and in conjunction with the theme of fire due to traversal of the Shadow Firestorm Citadel, it serves as the metaphorical crucible for the creation of the Great Work of Prime Matter, referring to Isorans, literally being forged - prepared, - to take on the Swarm. __Firestorm Citadel serves as the fire of highest intensity, from which Maiden's Tear, a sacred jewel, finally emerges__.
+  This material is a sacred jewel, and in conjunction with the theme of fire due to traversal of the Shadow Firestorm Citadel, it serves as the metaphorical crucible for the creation of the Great Work of Prime Matter, referring to Isorans, literally being forged -- prepared, -- to stand against the Swarm. __Firestorm Citadel serves as the fire of__ `highest intensity`, __from which Maiden's Tear, a sacred jewel, finally emerges__.
 
-    It is then the representation of the reunion of 2 Isoran pasts - one of Isora, and one of Almire, - symbolized by the alchemical path of the Almirian Crusader set.
+  The jewel is then the representation of the _reunion and reconciliation of 2 Isoran pasts_ -- one of Isora, their present, and one of Almire and Cradle, the spiritual aspect of Isorans and their shadow, -- symbolized by the alchemical path of the Almirian Crusader set.
 
 ##### Red King and White Queen
 
@@ -9565,38 +9580,38 @@ In additional, while potentially misleading, component to this proposal is the a
 
 Within the cosmology of Spiral Knights there are such figures:
 
-- The supposed genius king Tinkinzar, associated with the Crimson Order - hence the Red King.
-- Spirit Mother, a divine and benevolent entity, closely related to Almire. Given our analysis, this entity is similar in nature to Sleeper - as an entity of pure energy. Given themes of divinity within pre-cursed Almire, Spirit Mother can be consider as White - the White Queen.
+- The supposed genius king Tinkinzar, associated with the Crimson Order -- hence the Red King.
+- Spirit Mother, a divine and benevolent entity, closely related to Almire. Given our analysis, this entity is similar in nature to Sleeper -- as a deity. Given themes of divinity within natural kingdom of Almire, Spirit Mother can be consider as the White -- the White Queen.
 
-It is then the unity of both requiring to achieve an enlightened state of being, which we have proposed to be the existence of a civilization of guardians which secure access to the Nameless Realm and in return receive a divine benediction from a deific entity from the secured, higher realm.
+It is then the unity of both requiring to achieve an enlightened state of being which we have proposed to be the existence of a civilization of guardians which [secure access to the paradise]() and in return receive a divine benediction from a deific entity from the secured, higher realm, the [heavenly kingdom of griffins, owlites, and valkyries]().
 
-We have proposed this resolution earlier in relation to heavenly kingdom, as them being named as such, with references to paradise, seems as more distinct example of such both symbolically divine and metaphysically divine link. This explanation also had allowed us to answer a question of how Whitespace came into existence, with us proposing an idea of Cradle containing it in a different form before being enclosed into a megastructure, as Valkyries of heavenly kingdom had to inhabit and protect it.
+We have proposed this resolution earlier in relation to heavenly kingdom, as them being named as such, with references to paradise, seems as more distinct example of such _symbolically, spiritually, and metaphysically divine link_. This explanation also had allowed us to answer a question of how Whitespace came into existence, with us proposing an idea of Cradle containing it in a different form before being enclosed into a megastructure, as Valkyries of heavenly kingdom had to inhabit and protect it.
 
-Earlier distinction between Sleeper's Dream and a World so far corresponds with an external and internal element of the megastructure, as Whitespace had to be that dream which exists before Clockworks.
+Earlier distinction between Sleeper's Dream and a World so far corresponds with an external and internal element of the megastructure, as Whitespace had to be that dream which exists before Clockworks. Inplace of the Core it was the castles of heavenly kingdom which had existed between material relam and the paradise.
 
-In this interpretation, given an already existing synthesis of Core's energy and Cradle as an armed world-fortress, the Great Work in fact can be the state of Cradle with a Core remaining opened. AS Whitespace is of literal white with an entity of Sleeper, gremlins are mostly characterized by Crimson Order and, more importantly, figure of a benevolent king in the past. As we can see, here we replace benevolence of Spirit Mother with abstraction of Whitespace, which removes an explicitly female characteristic compared to classic interpretation of an alchemical Rebis, but at that, allows for the rest of symbolic elements to remain as they are presented.
+In this interpretation, given an already existing synthesis of Core's energy and Cradle as an armed world-fortress, the Great Work can be the state of Cradle with a Core remaining open. As Whitespace is of literal white with an entity of Sleeper, gremlins are mostly characterized by Crimson Order and, more importantly, figure of a seemingly benevolent king in the past. Here we replace benevolence of Spirit Mother with abstraction of __Whitespace with a proposition that it conceales the higher realms, Spirit Mother's realms and the paradise of heavenly kingdom__.
 
-#### The Void: Part 2 - Massa Confusa
+#### The Void: Part 2: Massa Confusa
 
 As the general outline of the relations between the Core, Sleeper, and the Swarm is established, we now are required to analyze the relation between:
 
 - The Void;
 - The Swarm;
-- And, an entity which supposedly preceded creation of the Swarm.
+- An entity which supposedly preceded creation of the Swarm.
 
 Due to this, identifying precise nature of the Void is instrumental to any further analysis or progress in regards to understanding the supposed nature of the Swarm and of the events which had happened between complete erasure of Owlites as last of native to material realm civilizations and arrival of gremlins.
 
-Earlier we suggested, that __a concept of massa confusa should manifest within proposed alchemical cosmology__ of Cradle, while the omnipresent energy took place of first matter, manifested and transferred in different mediums, taking inspiration not from medieval alchemy, but from modern physics, which fits the fantastic setting of Isorans as a highly-advanced civilization.
+Earlier we suggested, that __a concept of massa confusa should manifest within proposed alchemical cosmology__ of Cradle, while the omnipresent energy took place of first matter, manifested and transferred in different mediums, taking inspiration not from medieval alchemy, but from modern physics which fits the fantastic, mediavalistic setting of Isorans as a highly-advanced civilization.
 
-This duality of medieval and futuristic is reflected in Isorans themselves - as they, by the nature of being named knights, have corresponding designs, which incorporate a lot of different time periods into a technologically advanced base. Given our analysis of Shadow Lairs as an alchemical process, and a confrontation with a shadow, this thematic parity of the Swarm and Isorans can be seem as a pattern.
+This duality of medieval and futuristic is reflected in Isorans themselves -- as they, by the nature of being named knights, have corresponding designs, which incorporate a lot of different time periods into a technologically advanced base. Given our discussion of Shadow Lairs as an alchemical process, and a confrontation with a shadow, this thematic parity of the Swarm and Isorans can be seem as a concrete pattern.
 
-The Void is encountered physically once - the one time we have mentioned it in the very introduction of the void as a concept - as Shadow or Void variants of enemies emerging from Swarm sources. Their death hints at their _distinct metaphysics, separate from the entities of material realm_. As other variants of monsters, such as zombies, are identified by their affiliation with a status effect, the void served as a primary characteristic for Swarm-related monsters. Due to this we can assume a direct presence of the void as the black matter in its many appearances across Swarm's manifestations.
+The Void is encountered physically once -- the one time we have mentioned it in the very introduction of the void as a concept -- as _Shadow or Void variants of enemies emerging from Swarm sources_. Their death hints at their _distinct physiology, separate from the entities of material realm_. As other variants of monsters, such as zombies, are identified by their affiliation with a status effect, the void served as a _primary equalizing characteristic for Swarm-related monsters_. Due to this we can assume a __direct presence of the void as the black matter in its many appearances across Swarm's manifestations__.
 
-Then, there is a concept of consuming everything material realm is capable of containing - a property identified as the hunger, either of the Void or of the Swarm. So far, given consistency of currently introduced themes: `AS I DREAMED, IT CONSUMED. IT DEVOURED THE KNOWLEDGE OF TIME... MEMORIES OF THE DEAD... THE HEARTS OF KINGS AND THE SOULS OF THEIR PEOPLE... GOOD AND EVIL... IT CONSUMED` (Echo Stone: Firestorm Citadel), as both void and Swarm can be carriers of this property of hunger, the Swarm can be one to carry properties of the void, and of its hunger. Due to this ambiguity, currently we will consider at least the Swarm to be associated with hunger.
+Then, there is a concept of consuming everything material realm is capable of containing -- a property identified as the hunger, either of the Void or of the Swarm. So far, given consistency of currently introduced themes, `AS I DREAMED, IT CONSUMED. IT DEVOURED THE KNOWLEDGE OF TIME... MEMORIES OF THE DEAD... THE HEARTS OF KINGS AND THE SOULS OF THEIR PEOPLE... GOOD AND EVIL... IT CONSUMED` (Echo Stone: Firestorm Citadel), as both void and Swarm can be carriers of this property of hunger, the Swarm can be one to carry properties of the void, and of its hunger. Due to this ambiguity, currently we will consider at least the Swarm to be associated with hunger.
 
-The other case, arguably, does not explicitly state on the malevolence of the Void, but rather that existence of the void within material realm is not natural arrangement of matter, as much as Whitespace is within the Core, which separates inside volume from the material realm. The act of opening the Void by the Swarm from Sleeper's quotes analysis may suggest a process, which went out of control, potentially resulting in a current nature of the Swarm.
+The other case, arguably, does not explicitly state on the malevolence of the Void, but rather that existence of the void within material realm is not natural arrangement of matter. The act of opening the Void by the Swarm from Sleeper's quotes analysis may suggest a process which went out of control, potentially resulting in a current nature of the _Swarm as a void-based eldritch being_.
 
-At that, we are not aware, weather an ability to "consume" belongs to nature of the Void, as little directly is known of it.
+We are not aware, whether an ability to "consume" belongs to nature of the Void, as little directly is known of it.
 
 If we continue to draw parallels between nature fo Whitespace as extension of Nameless Realm, and the void, from what we have covered in [Divine and Whitespace Clockworks](#divine-and-whitespace-clockworks), Whitespace is capable of:
 
