@@ -9775,9 +9775,9 @@ While keeping this narrative of Kats in mind, we also bring up the Book of Grey 
 
 In this case we observe a seemingly divine tool operating by principles, which are common with other realms. This is the parallel which we have seen multiple times, but now with the addition of Apocrea and Sleeper, energy and the Void, we observe a distinct presence of __opposites with a common physical foundation__.
 
-As The Book of Grey Feathers was the cause of Kataclysm, we observe a narrative, where __prime thematic tools__, in case of Owlites being magic tomes, __become the catalyst for civilization's downfall__.
+As The Book of Grey Feathers was the cause of Kataclysm, we observe a narrative, where _prime tools_, in case of Owlites being magic tomes, __become the catalyst for civilization's downfall_.
 
-__This association is reminicent of the earlier proposal of the key technology of those civilizations becoming their downfall while being the reflections of the first matter through their unique perspectives as methods of understanding their present reality__.
+This association is similar to earlier proposal of the key technology of those civilizations becoming their downfall while being the [reflections of the first matter through their unique perspectives as methods of understanding their present reality](#alchemical-analysis).
 
 In case of gremlins and their merging of magic and science, the fundamental force which had allowed them to create Clockworks -- Sleeper's power adjacent to dreaming, -- comes back in the form of the entity of same appearance as Whitesapce, being the Swarm in its similarity to environment of the Core. This does not mean that that nature of the Swarm is one of Whitespace, but we presume an overlap between them because of their appearances are so similar.
 
@@ -9825,11 +9825,9 @@ If we develop further this idea, then the transformation of Lord Vanaduke throug
 
 While we do not know of the exact relation of void monsters with the void, the act of them appearing as in this context zombies, suggests [power of the void or Swarm over undead state of being](#the-void-part-2-massa-confusa).
 
-_The case of Void zombies is them more so interesting, suggesting Swarm's power over concepts of life and death._
+_The case of void zombies is observed through power over their corporeal form adn soul, suggesting Swarm's power over concepts of life and death._
 
-<!--The latter is a result of Nameless Realm and Void being mirror states of each other, while containing all of world's elements. Weather curse is tied to nature of the Swarm, with all consideration of their different designs and themes - is unknown, as the multitude of curse's manifestations in the material realm varies significantly. But, this is a reason for us to remember an earlier question of what if curse were to be applied to nature of Whitespace?-->
-
-The other possibility is the Shadow Firestorm Citadel, which is connected to the Swarm by its presence in the Throne Room and the general location of this Citadel in the Shadow Lairs. The fact of _Swarm empowering any entity, disregarding its mechanical or cursed state seems as as much valid as Mender's or Silkwing's ability to heal_.
+The other possibility is the Shadow Firestorm Citadel which is connected to the Swarm by its presence in the Throne Room and the general location of this Citadel in the Shadow Lairs. The fact of _Swarm empowering any entity, disregarding its mechanical or cursed state seems as much valid as Mender's or Silkwing's ability to heal_.
 
 If so, Darkfire Lord Vanaduke would remain as a single king, whose heart was consumed by curse, which is [reminicent of the vague interpretation of trjans' cold hearts](#poisoned-minds-and-cold-hearts). The rest of his people -- their souls -- would be consumed by the fact of curse afflicting them. Presence of the Swarm here seems unconventional, or, one which _encompasses influence of Underworld, which would frame the Swarm as an instrument of gremlin's downfall derived of their discovered technology_.
 
@@ -9893,7 +9891,7 @@ Usually, an act of burning presents a case of an excess energy even is a current
 
 Discussed in relation to [revival through totems, a wave of shadow energy passes through the skull to force it back to undeath](#grim-totems-part-2-undead-dreadnoughts-and-binding). In relation to the Swarm, we have are presented with void souls and heatless beings. Totem rebinds one's already detached soul back to the body dovoid of its vitality from willing haunting of the said body.
 
-Through this principle we can suggest that souls are either forced into void monsters to be animated, or void monsters only meant to immitate life, which would potentially explain their sudden appearance.
+Through this principle we can suggest that souls are either forced into void monsters to be animated, or void monsters only meant to immitate life which would potentially explain the logisttics of their appearance as being formed from the void the moment they are seen.
 
 If we assume that the Swarm had taken qualities of the Void, after it was influenced by it, and, as it was capable of feeding on Core's energy, it was of Whitespace origin, how its pink color and pink glow of void monsters could be explained?
 
@@ -9933,7 +9931,7 @@ As we do not see other leads other than the third essential being the curse, we 
 
 <!--Here, the Void and Nameless Realm are the dual interpretations of first matter and its paradoxical nature, one of darkness and wildness, opposed by the divinity of Whitespace.-->
 
-Under current interpretation Nameless Realm presents a case of first matter being identified by owlites. It followed by the Void introduced through the Swarm. Uniform nature of the Void was reminiscent of Apocrea's primordial blackness while itself reminiscent of the state of [first matter as massa confussa](#the-void-part-2-massa-confusa), a chaotic, unreconciles state of matter, but one we could not commit due to its limited presence within the Swarm.
+Under current interpretation Nameless Realm presents a case of first matter being identified by owlites. Then the Void was introduced through the Swarm. We noted on uniform nature of the Void as reminiscent of Apocrea's primordial blackness as both were paerticularly similar to an extent of the state of [first matter as round chaos or massa confussa](#the-void-part-2-massa-confusa), a chaotic state of matter, but one we could not commit due to its limited presence within the Swarm.
 
 This notion could be similar to the Void in the teachings of Godai, wherein it represents a concept of Heaven, Ether, Space, Center, and Void, which, in consideration of the motif of [Celestial Kingdom](#celestial-kingdom) might be close to the real identity of the Void within Spiral Knights.
 
@@ -9941,7 +9939,7 @@ This idea also is similar to the the concept of _emptiness in Buddhism, of Śūn
 
 This theme is of the same nature as an established motif, which is found across mythology and folklore -- of __paradoxical emptiness of the Void, from which the World was formed__ in the according creation myth, such as _Wu Chi of Taoist_, the _Genesis of Christian Theology_, as _Chaos of Greek mythology_, and _Ginnungagap of Norse mythology_, and as _Sunyata of Buddhism_. This idea was suggested in the context of [first analysis of Apocrea' goals](#apocreas-goal-of-negation-of-existence-part-2), as primordial blackness, depite its framing, remains ancient elemnt of the cosmology, and therefore, the initial state of reality, now identified as the round chaos, or more dangerous massa confusa.
 
-Due to this, we propose, that the __Void is the real origin of the Universe in Spiral Knights__, known as [primordial blackness and chaos](#the-void-part-5-primordial-black-massa-confusa-the-void), reflective of the [multitudes of alchemical first matter as inherently dangerorous substance].
+Due to this lack of symbols universallypresent in alchemy, we propose, that the __Void is the very alchemical void of the Universe, same as Primordial Blackness and Nameless Realm__, reflective of the [multitudes of alchemical first matter as inherently dangerorous substance](#shadow-lairs-as-the-alchemical-great-work).
 
 The Swarm, through its role as an opposite of Whitespace yet bearing its nature, can be seen as a flawed end of the alchemical process of `The precious substance is potentially contained in this chaos as a massa confusa of all the elements rolled into one, and man must diligently apply his mind to it so that “our heaven” may come into reality (ad actum)` (Psychology and Alchemy - Carl Jung).
 
@@ -9961,119 +9959,118 @@ Resonance is a term used by Herex in his information module in [Hidden Hideout](
 - `The Nine are blind, they cannot see the Truth that lies below. The Nine are deaf, they cannot hear the Resonance that beats within this world. Herex no longer serves as one of the Nine. Only Herex sees and hears the Truth` ([Spark and Roar - Hidden Hideout - Recon Module - Herex](https://wiki.spiralknights.com/Spark_and_Roar/Hidden_Hideout)).
 - `Infiltrate the Complex. Take all schematics. The Nine are quite but we will silence them. The Knights persue but we will halt them. Only Herex comprehends the Truth. Only Herex will descend. There can be no other` ([Crimson Chaos - Complex 357 - Herex](https://wiki.spiralknights.com/Complex_357)).
 
-Comprehension of truth is tied to being located in or near the Core. The truth is equal to hearing the resonance beating. The latter is the organic motif, which was brought up in relation to [Core Terminal's design](). Then we add quote from Echo Stone of Shadow Royal Jelly Palace: `YOU FALL WITH PURPOSE, BURNING EVER BRIGHTER AS YOU REACH FOR THE HEART OF THIS WORLD.`
+Comprehension of truth is tied to being located in or near the Core and it is equal to hearing a certain resonance beating. The _resonance has the_ [organic motif](#organic-motif-and-duality) to it due to present metaphor of a beating heart, with which among existing entities, only the Core is associated both by Isorans and the [Echo Stone of Shadow Royal Jelly Palace](): `YOU FALL WITH PURPOSE, BURNING EVER BRIGHTER AS YOU REACH FOR THE HEART OF THIS WORLD`.
 
-With this we can identify 2 organic motifs within Cradle's nature:
+With this we can identify 2 dominant presences which possess the organic motif:
 
-- Of eyes, arms/hands pulling (`ITS MANY EYES CANNOT SEE YOU NOR CAN ITS MANY ARMS REACH YOU`), mouths, hunger and consumptions, - attributed to the Swarm. A common organic motif.
-- Of Heart, heartbeat, and nerve center, attributed to the Core.
+- _Attributed to the Swarm_: of eyes, arms, mouths, hunger and consumption.
+- _Attributed to the Core_: of heart, heartbeat, and nerve center.
 
-Due to the term of resonance to be able to beat, as a heart, we are questioned weather Herex means by this - through organic motif, - the Swarm, of the energy source of the Core. it is stated, that Crimson Order is deaf due to them being unable to hear the resonance. _The only other instance of similar motifs which involve sound is the roaring of Apocrean engines across stars_. There are also a physical shivers within the Unknown Passage and the Core during Swarm's approach - as if the significant volume of the megastructure was shivering. We can assume that it can be considered a heartbeat of which Herex had spoken. The parallel to the heart is also drawn through presence of pink lightning in the Unknown Passage - as if it were the power which makes the heart contract.
+Due to the term of resonance to be able to beat, as a heart, we are questioned whether Herex means by by this the Swarm or the energy source of the Core. it is stated, that Crimson Order is deaf due to them being unable to hear the resonance. The only other instance of similar motifs which involve sound is the roaring of Apocrean engines across stars. There are also a physical shivers within the Unknown Passage and at the Core Termina during Swarm's presence. We can consider it the heartbeat of which Herex had spoken.
 
-Based on the idea of Crimson Order sealing the Core as an aftereffect of Architect's madness and betrayal, the analogue to being blind and deaf seem to fit by being cut off the truth within the Core. Herex's Truth in that context means following Architect's madness. Which, through the alignment with the Swarm, seem to suggest it being a truth from the perspective of a supposed madness. This idea should be justified, as Herex, by being a trusted member of Crimson Order, had to, originally, be with the rest of the Order in their planning, and stability of the Iron Law.
+Based on the idea of Crimson Order sealing the Core as an aftereffect of Architect's madness and betrayal, the analogue to being blind and deaf seem to fit by being cut off the truth from a sealed or otherwise decoupled state og the Core, which is resolved trough its opening.
 
-We believe, here we are observing a parallel to betrayal of the Architect, which would pose a question - weather Herex and Architect were affected by the same ill mindset? If we immediately bring up older narratives, could it be the case of "poisoned minds" of trojans for them to turn against Isorans during a [Forgotten Time]()?
+Herex's Truth in that context means following Architect's madness. Which, through the alignment with the Swarm, seem to suggest it being a truth from the perspective of madness. This change should possess an explanation and justification, as Herex, by being a member of Crimson Order, had to, originally, be loyal as the rest of the Order in their to the king.
 
-We have previously argued that Herex's narrative to some degree is similar to one of Tinkinzar, and as we return to this concept here, we have to evaluate weather this proposition is indeed the truth behind those events.
+Here we are observing a parallel to betrayal of the Architect, which would pose a question, whether Herex and Architect were affected by the same ill mindset.
 
-As far as complexity of the Swarm as an entity goes, it being potentially a result of multiple aforementioned concepts being merged seems as justified. And if we introduce the idea of an Apocrean engine to be present here - as a tangible agent of entropy powered through souls, then this would explain a majority of subtle similarities between those entities. And yet, we need a strong foundation to perform this conclusion.
+Furthermore, a certain narrative of an oppostion to natural order of material realm was found in the twisted vision of devoted apocrean cultists. If we bring up older narratives, could the case of [poisoned minds of trojans](#poisoned-minds-and-cold-hearts) for them to turn against Isorans during a [Forgotten Time](#trojans-are-deceived-spiral-wardens) be of similar nature to madness of certain gremlins, despite lack of this intent, _identifiable thriugh intent of the Swarm as an ally_?
 
-#### Divine Properties of Whitespace
+This leads us back to 2 sources of this change in opposition to material realm: Underworld, or Apocrea. In case of Underwold we proposed Fallen Falkyrian to be the entity behind trojan plot, but here the narrative of madneess see to be cha.
 
-Chaos Cloak grants protection in the Nameless Realm, and is characterized by elemental defense. It also has depiction of an antique evil eye, linking to curse though this design, as well as weakness to curse and all statuses. The [Divine Veil], by nature of divine protects of all unnatural damage - shadow and elemental. Through the analysis of elementals, which [Clockwork facilities do incorporate](#clockworks-and-Magitech), they also can be considered as unnatural, or magic, as Spiral Order refers in the [Arcana](https://wiki.spiralknights.com/Arcana): `An exceptional handgun that fires powerful, elemental shots that many Spiral Knights refer to as 'magic missiles'`.
+<!--As far as complexity of the Swarm as a representative of multiple themes goes, it being potentially a result of multiple aforementioned concepts being merged seems as justified. And if we introduce the idea of an Apocrean engine to be present here - as a tangible agent of entropy powered through souls, then this would explain a majority of subtle similarities between those entities. And yet, we need a strong foundation to perform this conclusion.-->
 
-Compared to the affinity within Nameless Realm, divinity grants protection from curse. We have followed this logic during [intermediate analysis of curse]() - with this, we have gathered, that Nameless Realm incorporates curse as a natural phenomenon.
+#### Gold Crystal of Whitespace Key
 
-The [Divine Avenger]() [inverts](#inversion-of-curse) _the curse, transforming it to elemental damage, yet with prevalent Dread Seal symbolism_. This was covered in the [Inversion of Curse](#inversion-of-curse). This motif, encapsulated by the Avenger may be the exact lead we are searching for, __due to to symbolism of gold in relation to divinity and as complementary color in Whitespace__.
+Among singuler floating crystals with the theoretical base of minerals we are aware of 2 such intances: [Eye of Fury](https://wiki.spiralknights.com/Eye_of_Fury) and a _gold crystal functioning as a key across Core depths_.
 
-<!-- A similar extrapolation was in the phenomenon of [glowing patterns on the Ancient Grove ruins](https://wiki.spiralknights.com/File:Area-March_of_the_Tortodrones-Ancient_Grove.png), outer carvings of [Tortofists](https://wiki.spiralknights.com/Grand_Tortofist), and inner surface of [tortoise shields](https://wiki.spiralknights.com/Grand_Tortoise), glow pattern of [Gran Faut](https://wiki.spiralknights.com/Gran_Faust) and [Volcanic Plate Shield](https://wiki.spiralknights.com/Volcanic_Plate_Shield). All of those items relate to Underworld. In case of Ironmight, it was covered in the [Ironmight kingdom](#ironmight-kingdom) and [Volcanic elements](#volcanic-elements). -->
+Through divinity of Whitesapce we propose that _those crystals are of the same origin traced back to heavenly kingdom and rider gods_, since rage was a characteritic element for them as much as orbs of alchemy, and here, at the entrance to heavenly kingdom, this divine nature primarily is manifested through crystals, as the gold mineral. This mineral through its relation to the divine is most similar to luminite, and yet its color and color of eye of rage is different. We could rely on the [radiant gold light of divine and celetial being](#cradle-metaphysics-part-2-divine-and-celestial-beings), which includes luminite, but it would not explain the specifics of color for aforemnetioned crystals.
 
-There are also notions of rage, which seem to tie to more ancient properties of the world, as the [Eye of Fury]() and [Tome of Rage](), as the prior is a _never seen before crystal_, similar to [gold crystal keys of Whitespace](), and the latter bearing ancient symbol of alchemy and the orb of alchemy as a metaphorical gateway, represented by a glowing circle on tome's cover.
+#### Ability to Influence Clockworks Gate Map
 
-One last element we will introduce is the potential [celestial origins of the heavenly kingdom](#the-moon-and-nature-sprites), paralleling an underlying myth of Asgard's creation. This element consists of the idea that _somebody before gremlins had to protect Sleeper as it slept_. As heavenly kingdom already has this guardian motif, in many aspects paralleling Spiral Order, - we propose them being those guardians of the heavenly realm, or paradise as it is referred, physically being at the border of the Nameless Realm, - an idea also explored in [its similarity to Celestial Kingdom]().
+The motor, interfacing nature of the Swarm compared to Sleeper's inability to manipulate Clockwroks outside of the Core in proper, positions in it a way which takes the prior motif of hands, eyes, and, to a lesser extent, hunger and frames it as natural function of the Swarm. Swarm possess capacity and ability to exist on its own, apart from its mothod of sustenance through direct harvest of energy of the Core, while both, if we were to hypothetically remove Sleeper's weakened state, are capable to influence gate map of Clockworks.
 
-#### Motif of Arms
+As we suggested the Swarm to be present as a result of Architect's betrayal and madness, coupled with the idea of gremlins being assisted by a higher power to build Clockworks makes us think of a scenraio, where the fullest extent of Sleeper's abilties to influence gate map can be exrapolotaed on direct manipulation of matter outsied of the Core, wherein Swarm's abilities are Sleeper's capabilities to interface with reality of material realm.
 
-We propose, that Whitespace is the presence of the Nameless Realm in material realm through containment in the Core. By proxy of Whitespace, Nameless Realm embodies a divine aspect of real-world alchemical Prime Matter while preserving its chaotic nature. It exists as the highest realm within which divine entities exist. The Void present the whole from which creation of known cosmology stems and from which at some point Nameless Realm had to also separate, containing a capacity to contain souls as energy, while the Void became the absence of those. And as Apocrea, through Danford, states that everything comes back to primordial black, we have marked Apocrea and its means of turning everything back to the void as agents of entropy.
+While this interpreation is promising, the unique property of Swarm being associated with all monsters with presence of the void remains unique to its compound nature.
 
-Before Whitespace being enclosed it was the place Heavenly kingdom of Valkyries had originated, - as heavenly or celestial beings, - and as gods were assisted by giants in construction of Asgard, so Valkyries were assisted by titans, tortomega, in construction of physical heavenly kingdom, which, as Asgard itself was both physical, and located in separate realm.
+With this, we can propose an interpretaion of the Swarm as an artifically created being theough identification of the Swarm as [not god nor beast](#organic-motif-and-duality), yet bearing elemnts of both. If it were a native to this cosmology entity, we would argue its identification as a god would not be coupled with a beast, since there are beings such as beast-deity Vog, for whom its deific nature is more prevalent in term sof its abiliity to influence reality.
 
-The motif of arms, eyes, and hunger, apart from association with the beast, also carries a different connotation in the context of megastructure's construction. If we consider Whitespace being a place for a literal Sanctuary of past gremlin empire, and of Swarm being sourced from Whitespace, what its role outside of the Core would be, given its case of opening the Void? The context of megastructure presumes existence of builders -which are gremlins, - but, as much work as they had done, there were instances of concern weather they alone did this: `` (). The property of the Swarm possessing hand may be that divine presence - an extension of Whitespace, - which manipulates matter outside of the Core. Other than that reasoning, we do not see Swarm precursor's role which would place it outside of the Core.
+<!--Swarm's potential to possess an interfacing function across Clockworks for heavy machinery to be the thematic argument for its reference to arms, while on its own, Swarm by design does not possess an infinite source of power at tits disposal, which is within the Core.-->
 
-__Swarm's potential to possess an interfacing function across Clockworks for heavy machinery to be the thematic argument for its reference to arms__, while on its own, Swarm by design does not possess an infinite source of power at tits disposal, which is within the Core.
-
-#### Motif of Curse
+#### Curse Annex and The Swarm
 
 As for the Truth and resonance which Herex has spoken of, given his opposite alignment, the truth here seems to be nature of the Swarm, as far as we can gather information based on Herex's behavior and prior analysis of Sleeper's metaphors.
 
 The only concrete distinction of the Swarm is that it opposes Sleeper and it was brought to existence through a combination of at least 2 essentials - Void and Whitespace.
 
-We consider _how Underworld through curse had hijacked each of known civilizations_, we then can extrapolate this concept onto the initial advancements of gremlin empire and Swarm being the entity assisting in Clockworks construction gone wrong.
+We consider _how Underworld through curse had seized each of known civilizations_, we then can extrapolate this concept onto the initial advancements of gremlin empire and Swarm being the entity associated with the Clockworks.
 
-If we were to introduce aspect of the curse, we would lean to the idea of Swarm being its metaphorical embodiment, as of a failure to achieve aforementioned Great Work's completion due to:
+If we were to introduce aspect of the curse as the source of its pink color, we would lean to the idea of Swarm being its metaphorical embodiment as a failure to complete Great Work or proper extraction of first matter as a round chaos since Swarm was the one to open the Void.
 
-- Prior alchemical themes;
-- Curse seemingly empowering the bearer at a cost;
-- Prior instances of curse as a tool, with Undercorp eventually targeting most valuable elements of said civilizations.
+<!--In case of Nameless Realm, Whitespace, and the Void, as massa confusa, we have to consider a myth of divine alchemical Rebis as an end of properly combining opposites of Prime Matter as the primordial Void and divine Nameless Realm, in order to complete the Great Work. As Great Work was targeting immortality, prime execution of this process was left to the alchemist.-->
 
-In case of Nameless Realm, Whitespace, and the Void, as massa confusa, we have to consider a myth of divine alchemical Rebis as an end of properly combining opposites of Prime Matter as the primordial Void and divine Nameless Realm, in order to complete the Great Work. As Great Work was targeting immortality, prime execution of this process was left to the alchemist.
+In this alchemical connotation of Cradle, as a megastructure appearing from a certain Pact, could be seen as gremlin's Great Work in the making, as it was built around slumbering Sleeper, who remains sleeping, and as of current discussion, when it awakens, it would be vulnerable no more to currently present dangers, `VULNERABLE IN SLUMBER, WORLDS WERE DRAWN TO SHIELD ME FROM THE DARKNESS. THIS WORLD HAS BECOME MY PRISON` ([Echo Stone: Ironclaw Munitions Factory](https://wiki.spiralknights.com/Echo_Stone:_Ironclaw_Munitions_Factory)).
 
-In this alchemical connotation Cradle could be seen as gremlin's Great Work in the making, as it was built around slumbering Sleeper, and as of current discussion, when it awakens, it would not be likely vulnerable to currently presented dangers. This interpretation requires for a distinct intent for the initiation of the breakage of the Pact between Architect and Sleeper.
+The originally intended unity of Core's components with one of its essentials being compromised, immobilizing Sleeper within the Core, resembles themes of Underworld targeting the weakest elements of prior civilizations:
 
-The originally intended unity of Core's components with one of its essentials being compromised, immobilizing Sleeper within the Core, seems us to parallel _themes of Undercorp targeting or hijacking the weakest elements of prior civilization_:
-
-- For titans that were tortodrones, meant to protect the latter.
-- For Owlites, the Book of Grey Feathers and the Academy were the prime center of their researches.
+- For titans that were tortodrones rmaining in a long migrarion to the now absent home of tortomega.
+- For Owlites, the Book of Grey Feathers and the Academy were the prime center of their research.
 - For pre-Cradle Isorans, Wardens were the main protectors.
-- For Almire, Lord Vanaduke was their leader and the Great Citadel, their capital.
-- Then, it would be not the power source of the planet for gremlins, but in a theme of defenses, - whatever was the Swarm, a builder, or a protector from the Core, as Sleeper refers to it as entity changed beyond recognition: `WHAT IT WAS BEFORE IT IS NO MORE. NEITHER BEAST NOR GOD, IT IS A CREATION UNLIKE ALL` ([Echo Stone: Firestorm Citadel](https://wiki.spiralknights.com/Echo_Stone:_Firestorm_Citadel)).
+- For Almire, Lord Vanaduke was their leader and the Great Citadel, their capital, the powerfull figure can be found not in Lord Vanaduke as a person, but his position as the king, and, simplifying, in command of kingdom's legions.
+- Then, it would be not the power source of the planet for gremlins, but the means of megastructure's construction.
 
-Then, if we follow this idea unconscious hunger, the motif of an eye and power to directly manipulate souls seems fitting only for entities with a will twisted by curse. The eye so far was always drawn back to nature of curse in its many forms. The manifestation of curse, closest to being depicted through the gremlin infrastructure as the eye of Shadow Lairs on the monitors, is the one used to be carved on tortodrones' shells. There, the eyes were as means of securing the mineral power source through native to material realm methods, as in Carnavons, Black Kats, Faust, and Lumbers. Essentially the capacity of sealing of souls or energy through aspects of curse is predominantly Undercorp's method. If Swarm was created through a direct act of Undercorp's involvement, the eye would be rather simply justified as a mark of Undercorp's involvement.
+Then, if we follow this idea unconscious hunger, the motif of an eye and power to directly manipulate souls seems fitting only for entities with a will twisted by curse. The eye so far was associated with nature of curse in its many forms, relating back to the Underworld as the [evil eye](). The manifestation of curse, closest to being depicted through the gremlin infrastructure as the eye of Shadow Lairs on the monitors, is the one used to be carved on tortodrones' shells. There, the eyes were as means of securing the mineral power source [through native to material realm methods of immitating dread seals](#cursed-constructs).
 
-At that, motif of divinity would be likely preserved, if only Void and Whitespace as cosmic opposites would be united, as it seems natural order of all things. But, we know certainly, that it is the curse, which conflicts with divinity wen abstracted from current context of the Swarm, - the prime example for it being [Armor of the Fallen](https://wiki.spiralknights.com/Armor_of_the_Fallen), which is related to curse. Here [Crown of the Fallen](https://wiki.spiralknights.com/Crown_of_the_Fallen) halo would be the most direct representation of any darkness.
+The capacity of sealing of souls or energy through aspects of curse is attributed to Underworld. If Swarm was created through a direct act of Underworld's involvement, the eye would be a sign or a mark of its presence, as it was for tortomega developing tortodrones.
 
-If we observe Fallen's armor set, _it would not be explicitly visible that it was once a divine armor, if not for a divine counterpart_. The other instance of this pattern is found in Almirian Crusaders before and after being burned by Vog's fires. The same case, we suggest, is found here, as __curse twists its bearer to the point of inability to recognize its original nature__.
+Since curse conflicts with divinity -- the prime example for it being [Armor of the Fallen](https://wiki.spiralknights.com/Armor_of_the_Fallen), -- __divinity of Whitesapce would behave as it was for the appearances of Fallen Valkyrian__, now with additon of the __Void as an obscuring, fundamental presence__, as violent first matter which is perceived as the opposite of perfect order of Whitespace as the initial state of said first matter.
 
-Yet, the proposed presence o curse does not explain its introduction or total composition of the Swarm. For this, we need to cover other instances of pink symbolism, while noticing the thematic parallels.
+If we observe Fallen Valkyrian's armor, _it would not be explicitly visible that it was once a divine armor, if not for a divine counterpart_. The other instance of this pattern is found in Almirian Crusaders before and after being burned by Vog's fires. The same case, we suggest, is found here, as __curse twists its bearer to the point of inability to recognize its original nature__.
 
 #### Void Monsters
 
-Due to the rest of Swarm's design, apart from its blackness derived from the Void, pink color and eye symbolism we so far have attributed to curse. As both Void and Nameless Realm proper are the foundations of the Universe, curse would be accounted for.
+Due to the rest of Swarm's design, apart from its blackness derived from the Void, pink color and eye symbolism we have attributed to curse.
 
 Void monsters while are depicted as variants of most entities found on Cradle, behave differently, their physiology is fundamentally different from creatures of material realm.
 
-- Void [Lumbers]() have no paper seal and possess a giant axe. The only other axe-wielding lumber is the Ironwood Sentinel. Given latter's naming, we know it is made of ironwood by gremlins, given their activities in this field of research. Those lumbers are seemingly more combat-oriented, than the other lumbers.
-- Void [Zombies]() have armor. The only zombies which have it are Slag Walkers and Carnavons - both fallen warriors of the kingdom of Almire.
-- Void [Thwackers](https://wiki.spiralknights.com/Thwacker#Void_Thwacker) are main gremlin enforcers, but possess a cutter-type weapon, a direct upgrade to less military-oriented gremlins.
+- Void [Lumbers]() __possess a giant axe__ and have no paper seal. The only other axe-wielding lumber is the [Ironwood Sentinel](). Given latter's name, we know it is made of ironwood by gremlins. Those lumbers are seemingly more combat-oriented, than the other lumbers.
+- Void [Zombies]() __wear armor__. The only zombies which have it are Slag Walkers and Carnavons - both fallen warriors of the kingdom of Almire.
+- Void [Thwackers](https://wiki.spiralknights.com/Thwacker#Void_Thwacker) are main gremlin enforcers, but possess a __cutter-type weapon__, a direct upgrade to less military-oriented gremlins.
 - Void [Wolvers](https://wiki.spiralknights.com/Wolver#Void_Wolver) in their muzzle design are similar to apparition of a giant wolver and perma-frostifurs, both being extremes of wolvers' transition into supernatural.
 - Void [Gels](https://wiki.spiralknights.com/Lichen#Void_Gel) are not Toxoils, which at least suggests Herex's invention of the latter was a later occurrence, or one not replicated/consumed by the Swarm.
 
-Those _combat oriented aspects_ make us think, apart from gameplay perspective, of the Swarm as _possessing context and knowledge of each of "species" of void monsters_, which allows it to __maximize its offensive potential__.
+Those _combat oriented aspects_ make us think of the Swarm as _possessing context and knowledge of each void monster_ which allows it to __maximize its offensive potential__.
 
-Earlier we have noted that both definition of consumption and of the Swarm are derived from the Sleeper, and should be interpreted with as much diligence as his definition of the Dream.
+With this, we come to the idea of the void, as it is the identified composition of the Swarm, burning, `... the shadows came alive and began to attack us. Rulen became enveloped in it and by the time Grantz freed him his body was badly burned. He said it felt like both fire and ice` ([Recon Module: Entrance to the Core - Parma](https://wiki.spiralknights.com/The_King_of_Ashes/The_Path_is_Sealed)).
 
-As the Swarm is called as such, it is not a single entity, rather a _multitude of entities which are unified under a single purpose_ - which we understand as one of consuming indefinitely.
+We can suggest that the process of consumption covered in relation ot its [infleunce on reality](#organic-motif-and-duality) may be lethal, __it burns the body, consumes the soul, and takes memories__. Host's soul is what left and it is consumed, too, seemingly, to power the Swarm by the fact of being a form of energy.
 
-It is then the property of sources of Void monsters emerge from - sources, similar to a geysers, which lack a distinct shape, taking it in cases of oppression as Void monsters. Through the process of Void monsters emerging from the void, we do not suggest them being the units of the Swarm, as they are derivatives of the Void, its shape, but rather the Swarm is the indistinguishable presence of something which was influenced by the Void.
+Environment of the Core in that regard is similar to extinguished Firestorm Citadel, as those souls were released from their cursed bodies, while in the Core presence of the Swarm is suppressed by weakened Sleeper's presence.
 
-This swarm of many is in a current state is hungry, and was such before it opened the void. At the same time, we are given information, that the Swarm alludes to its final state of this being, while its past was seemingly more fragmented, _less unified_.
+Previously we have alluded to the skydome of the Unknown Passage as possessing same void appearance as void monsters as an argument in [favour of Swarm's attack on gremlin technology](#swarms-influence-on-the-gate-map). If this principle is extrapolated onto _Whitespace monster gates and void monsters_, we suggest, __it surpasses the limitation of technology as a medium, through its nature -- as the void -- making itself compatible with any matter of material realm or realms above__.
 
-With this, and the idea of shadow burning, we can suggest, that process of consumption is lethal, - __it burns the body, consumes the soul, and takes memories__. Though this process, it discovers the body and gains ability to recreate the body now out of the Void with its imprinted will - which unites it as the Swarm on all layers of being, rather than rearranging original matter. Owner's soul is what is left and it is consumed to, seemingly, power the Swarm by the fact of being a form of energy, and Swarm by its affiliation with energy and Core is closely related to its properties.
+This would partially explain the nature of void monsters as consumed with the void, it does not reveal the process of their creation, since those void entities appear from Swarm geysers which are more tangibly present.
 
-<!-- While the Passage itself is within the skydome, we can potentially explain this by being a containment for the location, as it was seemingly ripped from the larger structure, as we have not seen non-gremlin actors demolishing the tunnels. The fact of Clockwork tunnels being located in the skydome may suggest also a case of it being a compound or a deconstruction zone, but a distinct chaotic design suggest it being proper Clockworks tunnels. -->
+We seuggest that encountered void monsters are created by the void. They might have been consumed in the past, and the result of this process unravels the body and captures the soul. the soul is used to power created void monsters. The details of the process remains unknwon and may be revealed in the future __depending on the degree this plot would permeate with themes of body horror__, whether the void monsters were at some point creatures of material realm _whose physiology was remade into one of the void_. This scenario, given its similarity to _Vog's curse and other instances of curse fundamentally altering one's original nature_, we propose, is the actual state of void's influnce.
 
-Void monsters themselves may be revealed at the very start, specifically, on the [Steam banner and a few promotional images](https://media.spiralknights.com/v/20250204161829/images/wallpaper/surrounded/spiral_knights_surrounded_1024x768.jpg). Gremlins' design of wide open eyes on the foreground, as well as presence of only 1 distinct accent color on dark shapes of monsters seem us as particularly reminiscent of Swarms' Void monsters. But, due to different color, it seems to be artistically changed version, as well as presence of tortodrones and other constructs was not observed in large quantity, although lumbers being considered constructs.
+Void monsters themselves may have been revealed at the very start of the knight's introduction, specifically, on the [Steam banner and a few promotional images](https://media.spiralknights.com/v/20250204161829/images/wallpaper/surrounded/spiral_knights_surrounded_1024x768.jpg). Gremlins' design of wide open eyes on the foreground, as well as presence of only _a single accent color_ on dark shapes of monsters seem us as particularly reminiscent of void monsters. But, due to different color, it seems to be a changed version. We also note presence of, supposedly, _void tortodrone_, which were not observed yet.
 
-This allows us to propose, that the Swarm utilizes the void as a resource, through which it interfaces with the World. This process does not explicitly destroy matter, but rather can control it, - at least the technology, - and consume the rest. Within its presence within technology, its color of pink manifests itself, mirroring internals of Void-based monsters, whom we will cover soon. __So far color pink seems to be a sort of internal energy - an animating force, which then manipulates the Void__.
+With this, we are met with a possibility of the nature of the Swarm before it had opened the Void, as one of Whitespace being gaining will or instinct though introduction of said will -- in thise case bing infuence of the curse. This would mean that __Whitespace, as a divine realm, can be cursed__.
 
-With this, we are met with 2 major possibilities of the nature of the Swarm before it opened the Void:
+<!--#### Void Souls
 
-- One of individuals, unrelated to Whitespace, gaining its reminiscence through consumption of energy and mirroring within it, and;
-- The one, where it is based on Whitespace, and for some reason, it had to gain individuality compared to Whitespace, while also attaining metaphysical hunger, which roots itself in a need of energy, which weakens the Sleeper.
+Souls either inherit the elemental property from nature of their death or of the method they had remained in material realm.
 
-In both cases we still need to explain nature of pink energy, eyes, and, notably, one specific symbol, found only twice.
+- As both of those statements so far fit to the definition of Static Souls and Flame Souls.
+- Frost Souls were sealed in everfrost, which resulted in their affiliation with the frost.
+- The [Freed Soul](https://wiki.spiralknights.com/Soul#Freed_Soul) has explicit chains motif, which we covered in relation to Vanaduke. This specific souls has a design is different from the rest, and, as it is freed only later, we can conclude the [Apocrean Sigil](https://wiki.spiralknights.com/Apocrean_Sigil#Apocrean_Sigil) being the reason for its change in design: `An otherworldly brand placed upon a soul claimed by the mysterious Apocrea. Removing it allows the captured soul to escape imprisonment within the terrible realm of the Apocrea` ([Apocrean Sigil](https://wiki.spiralknights.com/Apocrean_Sigil#Apocrean_Sigil)).
 
-#### Unknown Symbol
+With this, we can conclude, that the __containment of the Soul shapes its affiliation with an element__.
+
+Through this logic, we arrive to Void Souls. Void here becomes the method of containment. We will link the fact of Void Souls existing through the [nature of consumption](#the-hearts-of-kings-and-the-souls-of-their-people), we propose, that those __Void Souls are the consumed souls of living being by the Swarm, where their memories were taken, and bodies erased__.-->
+
+#### Unknown Symbol of Unknown Passage
 
 All loading screen present a recognizable snapshot of a followed location, even the Sanctuary being depicted by its [empty skydome in the Whitespace](https://wiki.spiralknights.com/File:Loading_Screen-The_Sanctuary.png). Unknown Passage has a [black void with an instance of a symbol](https://wiki.spiralknights.com/File:Loading_Screen_Unknown_Passage.png), which is only seen once, _within the vulnerable core of an active_ [Swarm Source](https://wiki.spiralknights.com/Swarm#Swarm_Source).
 
@@ -10194,14 +10191,6 @@ This act is _the definition of an initial step of the process of Great Work_, - 
 In case of Arkus, transformed into trojan, his proximity to it increased to a point of him transforming into a fiend. Then, as he, as trojans, has dark matter, which, as we concluded being the symptom, rather that the reason for the affliction. And this exact affliction had allowed for a connection to Underworld's physics and granted immortality, as well as channeling of energy seen in the lightnings. This logic was applied to Lord Vanaduke and Darkfire Lord Vanaduke, as in both instances they are cursed by Underworldly powers and present cases of lightning arcs.
 
 But, as we discussed, there is no energy in the Void, as then there would be no reason for the Swarm to siege the Core, nor entire premise of Undercorp would not have worked. This reasoning allows us to further reason out other possibilities within set metaphysics, from which only the curse remains, as narratively consistent as much as powerful concept. One of which is existence of Void souls.
-
-##### Void Souls
-
-Souls either inherit the elemental property from nature of their death or of the method they had remained in material realm. As both of those statements so far fit to the definition - Static Souls and Flame Souls, - we are left with Frost Souls. Those were sealed in everfrost, which seemingly resulted in their affiliation with the frost. The [Freed Soul](https://wiki.spiralknights.com/Soul#Freed_Soul) has explicit chains motif, which we covered in relation to Vanaduke. This specific souls has a design is different from the rest, and, as it is freed only later, we can conclude the [Apocrean Sigil](https://wiki.spiralknights.com/Apocrean_Sigil#Apocrean_Sigil) being the reason for its change in design: `An otherworldly brand placed upon a soul claimed by the mysterious Apocrea. Removing it allows the captured soul to escape imprisonment within the terrible realm of the Apocrea` ([Apocrean Sigil](https://wiki.spiralknights.com/Apocrean_Sigil#Apocrean_Sigil)).
-
-With this, we can conclude, that the __containment of the Soul shapes its affiliation with an element__.
-
-Through this logic, we arrive to Void Souls. Void here becomes the method of containment. We will link the fact of Void Souls existing through the [nature of consumption](#the-hearts-of-kings-and-the-souls-of-their-people), we propose, that those __Void Souls are the consumed souls of living being by the Swarm, where their memories were taken, and bodies erased__.
 
 #### Conclusions on The Swarm
 
