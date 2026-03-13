@@ -6480,7 +6480,7 @@ Given both presence and relevancy of owlite architecture in the context of Almir
 
 We have mentioned that Carnavons and Slag Zombies have similar design and are only ones with explicit armor. One particular concept we are interested in is _whether Carnavons are canon, would not their cursed affliction and Dread Seals also be made canon?_ __Would this context render Shadow Firestorm Citadel canon?__ And if so, how would it fit with the existing Firestorm Citadel outside of Shadow Lairs?
 
-All of Shadow Lairs' locations reach Shadow Lairs proper -- the [Unknown Passage](https://wiki.spiralknights.com/Unknown_Passage) -- while only boss depths contain the first distinct, visual signs of the Swarm, the rectangular black mist and Swarm Source. The physicality of those areas makes Shadow Lair depths nearly as tangible as their original variants visited across the rest of Clockworks and throughout rank mission.
+All of Shadow Lairs' locations reach Shadow Lairs proper -- the [Unknown Passage](https://wiki.spiralknights.com/Unknown_Passage) -- while only boss depths contain the first distinct, visual signs of the Swarm, the rectangular black mist and Swarm source. The physicality of those areas makes Shadow Lair depths nearly as tangible as their original variants visited across the rest of Clockworks and throughout rank mission.
 
 Assuming Owlites, as the heavenly kingdom above the mountains, had witnessed the war of 3 kingdoms -- Ironmight, Almire, and Raiders, -- they had to stay away from the conflict given lack of their presence. But only after the fall of all kingdom their descendatns, owlites, would study kingdom of Almire. By that time the kingdom is stagnant, yet there seemingly was a period of time, when lands of all while burned kingdoms were united as an [Almirian Empire](#almirian-empire), with Lord Vanaduke characterized as eternal. This accent on timelessness had led us to suggest a cursed, undead state of the empire.
 
@@ -9252,7 +9252,7 @@ At a current point Swarm's location can be interpreted in 2 ways:
 
 2. The Swarm is located in the Clockworks outside of the Core, within the region of Shadow Lairs. Breaching the Core in that context means entering it from the outside, and feeding on energy within the Core, being the Whitespace.
 
-    As the events of [Dreams and Nightmares](https://wiki.spiralknights.com/Dreams_and_Nightmares) suggest, Swarm's concentration within the Core is seen in lesser amount, yet [growing by the depth](https://wiki.spiralknights.com/Dreams_and_Nightmares/Descent_into_Darkness), at least by fact of currently absent [Swarm Sources](https://wiki.spiralknights.com/The_Swarm#Swarm_Source).
+    As the events of [Dreams and Nightmares](https://wiki.spiralknights.com/Dreams_and_Nightmares) suggest, Swarm's concentration within the Core is seen in lesser amount, yet [growing by the depth](https://wiki.spiralknights.com/Dreams_and_Nightmares/Descent_into_Darkness), at least by fact of currently absent [Swarm sources](https://wiki.spiralknights.com/The_Swarm#Swarm_Source).
 
 Those proposals have a common, partially thematic foundation, -- as both require the knight to enter Core's interior of Whitespace at some point in time, with the Sanctuary most likely being located within the Core, and the Unknown Passage in the Clockworks. Our [earlier analysis of Whitespace Clockwork tunnels]() may also be brought up here, as the only tunnels within the Core are of divine theme.
 
@@ -9915,6 +9915,8 @@ Through this we can bring Swarm's nature to 3 essentials:
 
 #### Color of The Swarm
 
+As Swarn-native beings _are not identified by knight's HUD_, we will use present names of the entities -- _Swarm source and Swarm Portal_.
+
 In the current cosmology there are practically no instances of both color pink and eyes being present in other context than Underworld's manifestations of curse.
 
 Curse itself, as observed through analysis [color-coded symbolic association](#intermission-analysis-of-curse) has many forms, but, all of them in the allude to eyes and color.
@@ -10042,6 +10044,13 @@ Void monsters while are depicted as variants of most entities found on Cradle, b
 
 Those _combat oriented aspects_ make us think of the Swarm as _possessing context and knowledge of each void monster_ which allows it to __maximize its offensive potential__.
 
+As suggested by void variants of monsters, and specifically gremlins, their snouts and Darkfang clan-depth goggles, the pink represent the internals of those beings. Zombies also follow this pattern, as internals of their skulls are of the same color.
+
+If we apply this logic to the rest of the Swarm - pink details are practically always contained within a larger black structure. Yet, there are exceptions:
+
+- Such as Swarm turrets, which, contrary to the pattern, depict a pink cube which contains a black cube, while smaller pink cubes ascent from the void base into turret's main body.
+- Root-like structures of Swarm source through which an impulse travels to the edges of the system appear pink.
+
 With this, we come to the idea of the void, as it is the identified composition of the Swarm, burning, `... the shadows came alive and began to attack us. Rulen became enveloped in it and by the time Grantz freed him his body was badly burned. He said it felt like both fire and ice` ([Recon Module: Entrance to the Core - Parma](https://wiki.spiralknights.com/The_King_of_Ashes/The_Path_is_Sealed)).
 
 We can suggest that the process of consumption covered in relation ot its [infleunce on reality](#organic-motif-and-duality) may be lethal, __it burns the body, consumes the soul, and takes memories__. Host's soul is what left and it is consumed, too, seemingly, to power the Swarm by the fact of being a form of energy.
@@ -10050,7 +10059,7 @@ Environment of the Core in that regard is similar to extinguished Firestorm Cita
 
 Previously we have alluded to the skydome of the Unknown Passage as possessing same void appearance as void monsters as an argument in [favour of Swarm's attack on gremlin technology](#swarms-influence-on-the-gate-map). If this principle is extrapolated onto _Whitespace monster gates and void monsters_, we suggest, __it surpasses the limitation of technology as a medium, through its nature -- as the void -- making itself compatible with any matter of material realm or realms above__.
 
-This would partially explain the nature of void monsters as consumed with the void, it does not reveal the process of their creation, since those void entities appear from Swarm geysers which are more tangibly present.
+This would partially explain the nature of void monsters as consumed with the void, it does not reveal the process of their creation, since those void entities appear from Swarm portals which are more tangibly present.
 
 We seuggest that encountered void monsters are created by the void. They might have been consumed in the past, and the result of this process unravels the body and captures the soul. the soul is used to power created void monsters. The details of the process remains unknwon and may be revealed in the future __depending on the degree this plot would permeate with themes of body horror__, whether the void monsters were at some point creatures of material realm _whose physiology was remade into one of the void_. This scenario, given its similarity to _Vog's curse and other instances of curse fundamentally altering one's original nature_, we propose, is the actual state of void's influnce.
 
@@ -10070,146 +10079,107 @@ With this, we can conclude, that the __containment of the Soul shapes its affili
 
 Through this logic, we arrive to Void Souls. Void here becomes the method of containment. We will link the fact of Void Souls existing through the [nature of consumption](#the-hearts-of-kings-and-the-souls-of-their-people), we propose, that those __Void Souls are the consumed souls of living being by the Swarm, where their memories were taken, and bodies erased__.-->
 
-#### Unknown Symbol of Unknown Passage
+#### Ruination of Unknown Passage
 
-All loading screen present a recognizable snapshot of a followed location, even the Sanctuary being depicted by its [empty skydome in the Whitespace](https://wiki.spiralknights.com/File:Loading_Screen-The_Sanctuary.png). Unknown Passage has a [black void with an instance of a symbol](https://wiki.spiralknights.com/File:Loading_Screen_Unknown_Passage.png), which is only seen once, _within the vulnerable core of an active_ [Swarm Source](https://wiki.spiralknights.com/Swarm#Swarm_Source).
+We can suggest, since the space beyond Unknown Passage's skydome is black, there might be a greater mass below to which sources and portals are linked. Then, since the loading screen is particularly abstract, we can link it through its symbol with Swarm sources, as the latter are marked by the aforementioned symbol.
 
-While Swarm Source is not identified as such by knight's HUD auto-targeting, and wiki proposes a name for it being Swarm Source, we will use the [very first name which was given](https://wiki.spiralknights.com/index.php?title=The_Swarm&oldid=47623) to this entity on the wiki - Swarm Seed.
+The symbol within the Swarm source shivers within a black cloud similar to the dread seal. If we were to attempt to discover a pattern within the symbol itself, it is similar to looping section of the passage, where several paths extend from a square loop.
 
-[Swarm Seed]() serves as a point from which Swarm propagates itself. It possesses and ability to slow down the knight and grants enhanced defense to monsters in its area of influence, corresponding to the ground being covered in wht is seemingly, also, Void's presence, and pulsating root-like structure.
+Occasionally, those looping pathways may contain a separate nearby 1-tile structure with the Swarm turret emerging from those. Notably, the floor tiles closer to the inner wall of those looping structures are missing, revealing metallic carcass -- could this be a case of the Swarm turret damaging the surroundings given their strategic placement?
 
-Being a source of Swarm's local presence, it, same as Swarm Portal, appears from the ground, suggesting a greater mass below, which is symbolically and topologically important ot the source itself - as the source is distinctly marked by the aforementioned symbol. This __symbolically links the source to the symbol__. As all sources do contain this symbol, we recall Grim Gates, as those too depict a location. For convenience, we will call it the unknown symbol, as its is associated with the Unknown Passage.
+<!--The layout of the depth also is worth discussion in that context. As we noted on its chaotic placement, the entrance and the exit structures which have corresponding elevators, are precisely aligned, reminiscent of other instances of prolonged symmetrical gremlin structures, Grand Arsenal and complex 357 above-ground entrance and secured perimeter.-->
 
-The symbol itself shivers within a black cloud similar to the dread seal. If we were to attempt to discover a pattern within the symbol itself, it is similar to looping section of the passage, where several paths extend from a square loop.
-
-Notably, the floor tiles closer to the inner wall of those looping structures are missing, revealing metallic carcass. Occasionally, those looping pathways may contain a separate nearby 1-tile structure with the Swarm turret emerging from those. Those looping structure, to a degree, are similar to the unknown symbol itself. The layout of the depth also is worth discussion in that context - as we noted on its chaotic placement, the entrance and the exit structures, which have corresponding elevators, are precisely aligned, reminiscent of other instances of prolonged symmetrical gremlin structures, Grand Arsenal and complex 357 above-ground entrance and secured perimeter.
-
-Unknown Passage, as mentioned previously, is designed as regular Clockworks tunnel outside of skydomes, apart from deconstruction zones, if 1-tile structures are not to be considered. All of those more regular n nature location have a concrete theme. Unknown Passage also has a corresponding theme but it extends and reaffirms Swarm's themes - a _theme of unknown, unknowable, and unexplorable_.
+Those qualities of the depth allow for the most precise mental image of the Swarm to be formed, it bears a _theme of unknown, unknowable, and unexplorable_, as an eldritch location of complex origin not meant to be undertood.
 
 - The unknown aspect ties with an unidentified depths of Shadow Lairs up to Unknown Passage, as its location, layout, themes, are outside of an established by Clockworks common architecture paradigm. Clockwork Terminal are the only locations which relate to this more ancient architecture.
-- The unknowable aspect ties with the framing of the Swarm as an eldritch entity, which is not meant to be understood not defeated, but only suppressed.
-- Unexplorability emerges from urgency of the endless onslaughts coupled with eldritch unknowable motif. The act of attempting to map Unknown Passage is tied with this concept, as the passage, given its main section between entrance and the exist, actively designed to trap the one exploring it.
+- The unknowable aspect ties with the framing of the Swarm as an eldritch entity, which is not meant to be understood nor defeated, but suppressed and sealed by available means through gremlins' actions.
+- Unexplorability emerges from the urgency of an endless onslaught coupled with eldritch unknowable motif. The act of attempting to map Unknown Passage is tied with this concept, as the passage, given its main section between entrance and the exist, actively designed to trap one exploring it.
 
-Presence of gremlin corpses further suggests a case of urgency and combat, reminiscent of Hidden Hideout, which Crimson Order had ambushed. And, as above the hideout, the path is filled with obstacles. This seems as an intentional design choice, which, as far as we can suggest, is meant to show how the path was attempted to be sealed with other means, involving both this and explosion of the bridge to the exit elevator.
+Presence of gremlin corpses further suggests a case of urgency and combat, reminiscent of Hidden Hideout which Crimson Order had ambushed. And, as the hideout, the path is filled with obstacles. This seems as an intentional design choice which, as far as we can suggest, is meant to show how the path was attempted to be sealed with other at hand means, involving both the obstacles and explosion of the bridge to the exit elevator, later repaired with Whitespace.
 
-It is also worth noting, that both in hidden hideout and here, gremlin corpses are near the entrance and large amount of obstacles. In Hidden Hideout we suggested that gremlins were defeated as they had entered the facility. Here, presence of the broken bridge would suggest 2 explanations:
+It is also worth noting, that both in hidden hideout and Unknwon Passage, _gremlin corpses are located near the entrance elevator_. In Hidden Hideout we suggested that gremlins were defeated as they had entered the facility.
 
-- Either the bridge is blown off by gremlins, implying source of the threat to come from the elevator, of it is the unstable structure which caused a collapse.
-- Or, an emerging here theme of divine intervention by Sleeper frames the state of disrepair of the passage, as one to be caused either by the Swarm or gremlins, represented by Architects betrayal of the Pact. This may fit an ide of something destroyed by the Swarm and what is repaired by Sleeper.
+In case of Unknown Passage the bridge could have been blown off by gremlins to disconnect the elevator from the skydome. Otherwise it was destroyed by the Swarm to sever access from the entrance elevator into the Core.
 
-As gremlins are located near the entrance, and the exit bridge is blown off, it is peculiar that most of those __gremlins are seen running towards the entrance__.
+As gremlins are located near the entrance, it is peculiar those __gremlins are seen facing towards the entrance__. There is one gremlin with a hatch, located near a dent in the metal carcass of the tunnel. Could it be, that this exact placement of a single gremlin with a tool hints at the nature of demolition? A gremlin with a mending wrench is the closest to the entrance, and, given menders' strategy, we may assume that they are the most remote to the incoming threat.
 
-There is one gremlin with a hatch, located near a dent in the metal carcass. Could it be, that this exact placement of a single gremlin with a tool hints at the nature of demolition? A gremlin with a mending wrench is the closest to the entrance, and, given menders' strategy, we may assume that they are the most remote to the incoming threat. Rest of the gremlins seen to be in the act of running from the exit elevator of the passage,suggesting a source of danger being located there.
+We suggest, that gremlins had to cross a bridge at the exit prior to it exploding or breaking it, and then attempting to leave the passage through the entrance, suggesting that the Swarm was coming from the norse, and a potential breach.
 
-This positioning would mean, that gremlins had to cross a bridge near the exit prior to it exploding or breaking, and then attempting to leave the passage, suggesting that the Swarm was coming from the norse, and a potential breach.
+Amount of monster gates also saises questions, making it seem as another echelon of defense, reminiscent of east wing of complex 357. And yet, it seems improper for an entity which was not stopped by explosion to be the stopped by obstacles across the passage, unless those are not placed by gremlins. A few of those obstacles are unbreakable, and then they can be removed through _ghost blocks located behind them_ which, if those obstacles were placed by gremlins, suggest a sertain pattern to their placement.
 
-Amount of monster gates is also peculiar, making it seem as another echelon of defense. And yet, it seems improper for an entity which was not stopped by explosion to be the stopped by obstacles across the passage, unless those are not placed by gremlins.
+Due to this lack of distinction and lack of evidence, apart from position of gremlin corpses, we would consider the idea of Swarm emerging from the north of the passage as one worth keeping in mind. More so, this interpretation, if the passage leads to the breach into the Core, would affirm a potential for Swarm at that point originating from the Core, wherein _it had mirrored itself endlessly_, leading to it potentially attaining current volume.
 
-Due to this lack of distinction and lack of evidence, apart from position of gremlin corpses, we would consider the idea of Swarm emerging from the north of the passage as one worth keeping in mind. More so, this interpretation, if the passage leads to the breach into the Core, would affirm a potential for Swarm originating from the Core, wherein it had mirrored itself endlessly, leading to it potentially attaining current shape.
+#### Symbol of Unknown Passage
 
-In the context of eyes' pattern, we can link the eye to the Swarm and the Swarm Entity as the most organic depiction of an eye. Could it be, _that the eye pattern and followed association was derived and sourced from this very entity_? More so as it appears briefly in [The Path is Revealed]() and in [promotional art of Shadows Falling Over Cradle](), has a single most organic depiction of an eye, which curse-bearing entities lack. This Swarm Entity seems to be an avatar, an embodiment of everything Swarm is. This would bring all of the essentials into a single entity, much like Darkfire Lord Vanaduke we proposed to be an entity of 2 curses applied to a base of a living being.
+All loading screen present a _recognizable snapshot of a followed up location_ among which even the Sanctuary is depicted by its [empty skydome in the Whitespace](https://wiki.spiralknights.com/File:Loading_Screen-The_Sanctuary.png).
 
-Now, we can return with this approach to to the unknown symbol.
+Unknown Passage, countrary to those examples, has a [black void with a single rectangular symbol](https://wiki.spiralknights.com/File:Loading_Screen_Unknown_Passage.png) which is only seen once _within the vulnerable core of an active_ [Swarm source](https://wiki.spiralknights.com/Swarm#Swarm_Source). When Swarm source is temporary suppressed, its roots disappear while the symbol at its core vanishes, becoming seemingly dormant. After some time Swarm source resturns to it full state, with pink roots spanning across the ground while the symbol at its center flickers 3 times.
 
-Paired with themes of the Swarm as one defying preestablished systems, we consider the case of it overtaking technology, rather than being identified by it. _Shadow Lairs being sealed then is the only confidently gremlin action directed at Swarm's containment_, and as result, one Crimson Order had to be aware of, which is why they hid the Artifact.
+Swarm source serves as a point from which Swarm can influence the surrounding void monster, and, given design of its spanning, _pulsing outwards root-like network_, can propagate itself. It possesses and ability to slow down the knight and grants enhanced defense to monsters in its area of influence corresponding to the ground being covered with void and the roots.
 
-There, we have also identified, that the Swarm, _the region of Shadow Lairs has started from the Unknown Passage_, marking it the epicenter of Swarm's presence at least outside of the Core. With this paradigm in mind, we can attempt to apply framing and interpretations for the unknown symbol.
+Being a source of Swarm's local presence, it, same as Swarm Portal, appears from the ground, hereit being matter of Whitespace or ground of Clockwork tunnels.
 
-As the symbol is inscribed onto the Unknown Passage as a location through presentation at the loading scren, could it be, that is the case is an exception from the pattern -- that the fact of the passage being unknown deep into Shadow Lairs marks it as unknowable? If we then introduce the capacity of the Swarm to overtake technology, could it be that the symbol overtakes the depicted location of the skydome, hence making it unknown and loading screen depicting it as such, as a symbol, rather than a location? Yet, this would make this symbols even more so important as a visual representation of Swarm's obscuring influence in a set form.
+Previously we have attributed [apperance of the eye to the Swarm Avatar](#eye-iconography-of-shadow-lairs) at the end of The Path Is Revealed, as the most organic depiction of that eye and the single entity bearing a distinct eye.
 
-If we recall the previous idea of the Swarm both defying the patterns and of our inability to distinct its actions from gremlins', can _physicality of that symbol in fact be related to the location of Unknown Passage as one where the Void was initially opened_? In other words, could Unknown Symbol be the very portal from which the Void came?
+Paired with themes of the Swarm as one defying preestablished systems, we consider the case of it overtaking technology, rather than being identified by it. _Shadow Lairs being sealed then is the only gremlin action directed at Swarm's containment_, and as result, one Crimson Order had to be aware of, which is why they hid the Artifact.
 
-Then it is the color of the symbol - of pink, the only color present within discrete elements of Swarm entities - which we suggested to be curse merged with immaterial nature of Whitespace and incorporation of the Void to Swarm's nature.
+There, we have also identified, that the Swarm, _the region of Shadow Lairs has started from the Unknown Passage_, marking it the epicenter of Swarm's presence outside of the Core. With this paradigm in mind, we can attempt to apply framing and interpretations for the unknown symbol.
 
-If the symbol is the portal, would this mean, that the Void is inherently malevolent? And, depending on the base form of the Swarm, did both Void and Whitespace represent this very abstract foundation of reality?
+It is known that Swarm had opened the Void which was incorporated into Swarm's nature. Since Swarm overtakes technology and life, we can extrapolate its influence onto knigt's HUD, therefore obscuring the actual location of the Unknown Passage. Compared to oyther regions, it is an exception which, when coupled with the act of openning the Void, can result in the Unknwon Passage being in proximity of Swarm's transformation in its present state.
 
-As suggested by void variants of monsters, and specifically gremlins, their snouts and Darkfang clan-depth goggles, the pink represent the internals of those entities. Zombies also follow this pattern, as internals of their skulls are of the same color.
+This suggestion does not exlain the reason why the symbol also appers within the Swarm source.
 
-If we apply this logic to the rest of the Swarm - pink details are practically always contained within a larger black structure.
+Then it is the color pink of the symbol, the only color present within discrete elements of Swarm entities which we suggested to be [curse-sourced](#curse-annex-and-the-swarm) merged with [immaterial nature of Whitespace and incorporation of the Void](#composition-of-the-swarm).
 
-There are exception:
+The sime-technological [foundation of Whtespace may serve as a the source of a rectangular pattern](#divine-clockwork-tunnels-and-whitespace) in order for Swarm source specifically to adopt to the same extent as Whitesapce cubes exits with Swarm's black smoke. Since the symbol itself is pink, we connect it wo the presentation of energy within the Swarm, as it [exsists within the internals of Void entities and souls](#void-monsters).
 
-- Such as Swarm turrets, which, contrary to the pattern, depict a pink cube which contains a black cube, while smaller pink cubes ascent from the void base into turret's main body.
-- "Roots" of Swarm Spawn, through which an impulse travels to the edges of the system. The source of this expansion is hidden in the pink color and the symbol Swarm Spawn possesses.
+Those are all the hints we have fathered in attept to understand Swram sources' nature. Since Swarm source appears in the depths above it -- the region boss depths, -- given their recent placement in the Shadow Lairs, we prpose it is __Swarm's method of proper propagation__ _followed after the initial appearance of the smoke_.
 
-We have discussed this pattern earlier, suggesting this color being representation of energy, the driving source which manipulates the Void. If this color is inherent to the Void, this would negate its equivalence to Apocrea's primordial blackness by attributing it a concrete color. Then, if this rectangular shape is essential to the metaphysics as they presented - of the Void and Whitespace being not obscured or truncated through the technology, the pink would become an opposite of Whitespace's gold. And, if the Void was as fundamental, why it is depicted within the Swarm as only 2-dimensional?
+This interpretation, when extrapolated onto the point of Swarm's origin, would characterise the symbol as representative of Swarm's ongoing expansion and the point of its origin. While it is a speculation, we suggest the precise nature of this symbol to be the location of the concrete location within Clockworks _where the Void was first introduced into the material realm_.
 
-All of those factor make this proposal of Unknown Symbol, Void and pink being the universal foundation as vaguely fitting, one that attempts to remove unseen in so far elements of an underlying physical system.
+#### Pink Lightning: Part 2: Unknown Passage
 
-The eyes are important, but they serve external function of observation, while the symbol is of propagation. Given this organic motif, we propose that the __symbol links the pink energy, propagatory role for the Swarm, and a metaphorical heart__, which provides the means for heartbeat heard by Herex.
+For the first time we have mentioned pink lightning in relation to [Arkus]() and [Margrel's dark ritual](). There we proposed that the lightning was a symbol of an established link of excess energy between Underworld and material realm.
 
-It is then a question of weather the symbol comes from the Swarm or of the Void. As it has the shape, similar to other Whitespace and Swarm-themed designs, Core's designs, of square angles and shapes, it is inherently connected with the Swarm to some capacity due to design similarity and close presence at very least.
+For the Swarm pink is symbolic and identical to its assumed cursed state and internal energy.
 
-As the knight is capable of damaging Swarm Spawns compared to Swarm Sources only spawns' above ground matter is the one to be targeted. Swarm announces its presence with an eye and black matter, both across Shadow Lairs, and as the Swarm Entity, while the Swarm Seed symbol coveys a different meaning.
-
-And with this, we arrive to the very first idea - __Unknown Symbol is the source of the Void opened by the Swarm, and connected to alien nature of pink color__. This proposal is founded on our assumption of unrelated to the Void nature of pink.
-
-In relation to the Void, if we recall Danford's descriptions, if the Void was explicitly malevolent, it would not require agents of entropy such as Apocrea, and if it is true, then those qualities of hunger are attributed to the Void rather than our thematic hypothesis of hunger being attributed to curse.
-
-If the Swarm is a direct manifestation of the Void, this would make the Void as dangerous as Apocrea, but the eye motif prevents us from such conclusion, as it introduces an element of association with the curse and motif of eyes. Affirming this, Swarm would be considered a godlike entity, which Sleeper acknowledges to even surpass god, due to a bestial aspect of this entity.
-
-It is due to this seemingly separate themes beating traced back to their instances outside of the Swarm, we are led to believe that the void on its own does not possess inherent malevolence, but, it can be weaponized as much as curse.
-
-Lastly, it is the bestial motif which makes itself known through curse-ridden entities. With this, we are left with the nature of pink, specifically, the lightning in the Unknown Passage.
-
-#### Pink Lightning: Part 2 - Unknown Passage
-
-For the first time we have mentioned pink lightning iin relation to Arkus. Then, it was found to be related to the Dark ritual, which had summoned Margrel. There, we proposed, that the lightning was a tool to link Underworld and material realm, due to its symbolism of a lightning striking a ritual circle.
-
-In the context of the Swarm, pink is symbolic and identical to its internal energy, an essence, responsible for manipulation of the Void.
-
-Due to this Unknown Passage, even without the notions of pink, implies vast amounts of energy being stored in proximity of Unknown Passage. But with the inclusion of meaning of pink, we arrive to a concrete type of energy Swarm utilizes. The act of Swarm sustaining itself over Core's energy, and by this weakening the Sleeper further affirms nature of lightning as evidence of energy.
-
-The lightning itself on Cradle is one associated with Clockworks' Power Complexes and exterior of the Core. In lesser manner it is related to heavenly kingdom through the Storm Chaser. Based on the fact Swarm was feeding off the Core, the lightnings could be of this origin, as the energy traversing through the Swarm in incorporated in it parts of Clockworks. This hypothesis would fit with our prior suggestion of Swarm's "essence" being of color pink.
-
-The pink or purple lightning in general is seen in a following instances:
+The lightning, generally, is seen in following instances:
 
 - Arkus's Leviathan Blade strike. It strikes the ground with pink lightning and forms crimsonite crystals, which, in this context can finally be explained as instant condensation of energy to crystals as we proposed them - minerals - to be.
 - Pink lightning striking the ritual site in Moorcroft Manor prior to summoning Margrel.
 - Trojans' charge, which inflicts shock and creates lightning arcs.
-- Lord Vanaduke's arcs of lightning during his unique cast of Fire Snakes spell.
-- Sparks of Life could also be attributed to this phenomenon, despite being different color.
+- Lord Vanaduke's arcs of lightning during his unique cast of fire snakes.
 - Monster Doors contain arcs of lightning in presence of enemies.
 - Gorgofist, a seemingly the same weapon used by corrupted tortodrones, has purple lightning, attributed to dark matter mineral.
+- Sparks of Life could also be attributed to this phenomenon, despite teir blue color.
 
-Lastly, there are one-time Callers, which come from the second most ancient period of time, when demigod Valkyrian Riders had existed:
+Presence of lightning actoss Unknown Passage as if it were a power complex, we propose, implies vast amounts of energy being transmitted within the skydome. The act of Swarm sustaining itself over Core's energy, and by this weakening the Sleeper, further affirms nature of lightning as equal to energy, and one, potentially located near the origin point of the Swarm outside of the Core after the inclusion of the Void.
 
-- Usable [Storm Caller](https://wiki.spiralknights.com/Storm_Caller#Storm_Caller): `A party favor of the gods, used to summon a lightning bolt from the heavens`.
-- Usable [Frenzy Caller](https://wiki.spiralknights.com/Frenzy_Caller#Frenzy_Caller): `A party favor of the gods, used to summon a flash of frenzy from the heavens`.
-- Usable [Rage Caller](https://wiki.spiralknights.com/Rage_Caller#Rage_Caller): `A party favor of the gods, used to summon a shaft of rage from the heavens`.
+Lastly, there are one-time usable Callers which come from the second most ancient period of time, when _Rider demigods_ had existed:
 
-All of the Callers describe the lightning striking the ground as one originating from heavens, while relating to the prize boxes of according themes. And, as we remember, those are primordial definitions of modern elements, attributed to dragons.
+- `A party favor of the gods, used to summon a lightning bolt from the heavens` ([Storm Caller](https://wiki.spiralknights.com/Storm_Caller#Storm_Caller)) summons a yellow lighning striking the knight.
+- `A party favor of the gods, used to summon a flash of frenzy from the heavens` ([Frenzy Caller](https://wiki.spiralknights.com/Frenzy_Caller#Frenzy_Caller)) summons a _purple lighning_.
+- `A party favor of the gods, used to summon a shaft of rage from the heavens` ([Rage Caller](https://wiki.spiralknights.com/Rage_Caller#Rage_Caller)) summons a _red lightning_. It is unique as stokes of red flames emerge from the ground after the strike.
 
-Tha Callers allow us also to develop further an idea of a realms being connected: as _pink lightning is a sign of Underworld's presence_, so _rage, frenzy, and storm, as primordial elements of creation, arrive from a higher realm_. And, as the paradise, or Spirit Mother's realm was the closest to heavenly kingdom, we assume the lightning originate either from it, or, from the Nameless Realm as one which unites all elements.
+All of the Callers describe the lightning striking the ground as one originating from heavens, while relating to the prize boxes of according themes -- _the primordial elements weilded by dragons_.
 
-The idea, that we believe unites both of those phenomenons, is the folklore interpretation of lightning adapted into the setting, mentioned in relation to [Arkus](#arkus-the-design), and Fallen Valkyrian, - of the divine intervention and a consequent breach between of realms. It is the same idea we have essentially identified above, as __lightning physically breaches realms__. Opening of the Void is then non-metaphorical method of conveying that a connection with a realm of the Void was established.
+Tha Callers allow us also to develop further an idea of a realms being connected -- as _pink lightning is a sign of Underworld's presence_ so _rage, frenzy, and storm, as primordial elements of creation, arrive from heavenly kingdom_. And, as the paradise, or Spirit Mother's realm was the closest to heavenly kingdom, we assume the lightning originate either from there, or, from the Nameless Realm as one which unites all elements.
 
-So what happens, __when a connection is established not with the embodiment of divinity, a heavenly, chaotic, yet divine realm, nor Underworld, but the alchemical void of existence - massa confusa__, _an embodied lack of existence as a primordial essence within an established existence_, a primordial black, as Danford calls it?
+If we consider presence of curse whithin Swarm's physiology, pink lightning is explained by this excat nature, as energy permeating a cursed being, rather than one summoned by a being of material relam from the Underworld.
 
-This act is _the definition of an initial step of the process of Great Work_, - as an alchemist extracts massa confusa, and through a multi-step process refines it.
+The idea that we believe unites those instances of lightning is the folklore interpretation of lightning adapted into the setting -- of the divine intervention and a consequent breach between of realms. It is the same idea we have essentially identified above, as __lightning physically breaching the realms__.
 
-In case of Arkus, transformed into trojan, his proximity to it increased to a point of him transforming into a fiend. Then, as he, as trojans, has dark matter, which, as we concluded being the symptom, rather that the reason for the affliction. And this exact affliction had allowed for a connection to Underworld's physics and granted immortality, as well as channeling of energy seen in the lightnings. This logic was applied to Lord Vanaduke and Darkfire Lord Vanaduke, as in both instances they are cursed by Underworldly powers and present cases of lightning arcs.
+With this information we can speculate that the lintning was the method Swarm prior to its infusion with the Void had opened it.
 
-But, as we discussed, there is no energy in the Void, as then there would be no reason for the Swarm to siege the Core, nor entire premise of Undercorp would not have worked. This reasoning allows us to further reason out other possibilities within set metaphysics, from which only the curse remains, as narratively consistent as much as powerful concept. One of which is existence of Void souls.
+<!--So what happens, __when a connection is established not with the embodiment of divinity, a heavenly, chaotic, yet divine realm, nor Underworld, but the alchemical void of existence - massa confusa__, _an embodied lack of existence as a primordial essence within an established existence_, a primordial black, as Danford calls it?-->
 
-#### Conclusions on The Swarm
+<!--This act is _the definition of an initial step of the process of Great Work_, - as an alchemist extracts massa confusa, and through a multi-step process refines it.-->
 
-Given significance of pink:
+<!--In case of Arkus, transformed into trojan, his proximity to it increased to a point of him transforming into a fiend. Then, as he, as trojans, has dark matter, which, as we concluded being the symptom, rather that the reason for the affliction. And this exact affliction had allowed for a connection to Underworld's physics and granted immortality, as well as channeling of energy seen in the lightnings. This logic was applied to Lord Vanaduke and Darkfire Lord Vanaduke, as in both instances they are cursed by Underworldly powers and present cases of lightning arcs.-->
 
-- Its identity as connection point with Underworld and transfer of energy;
-- Identification as animating force of the Swarm and its act of opening the void with bestial aspect of hunger.
+<!--But, as we discussed, there is no energy in the Void, as then there would be no reason for the Swarm to siege the Core, nor entire premise of Undercorp would not have worked. This reasoning allows us to further reason out other possibilities within set metaphysics, from which only the curse remains, as narratively consistent as much as powerful concept. One of which is existence of Void souls.-->
 
-We will make our conclusion in favour of curse being the very reason Swarm's existence. It is the case of curse being applied to a system, which inherits properties of Whitespace, which symbolically redefines meaning of living, and applies curse to it. The Void then presents itself as a resource which allows to greater potential within the material realm due to its inherent property on being undefined as a matter, hence massa confusa.
-
-__We propose that the Swarm is a union of an entity of Whitespace, driven by a transformative nature of curse, amplified by the direct contact with the Void.__
-
-The reasoning for opening og the Void on Swarm's regard could be then explained by relation to curse as the principle coming from the underworld, and by proxy, Blinding Abyss and the Void. As under current framework, all of those realm lack own sources of energy, as the material realm, Swarm's hunger by lack of energy would be the means of using the Void as a tool, which works independent of an environment.
-
-The Void also becomes a fitting tool due to its properties to be used as a corporeal medium in place of Whitespace, as the latter, while comes from separate realm, is partially confined to material realm due to its symbolic 3-dimensionality and presence within the Core as a shell. _The Void defies those principals_, manifesting as an essence with no 3rd dimension, with only Swarm Entity gaining it as most physical and concrete presence of the Swarm as an individual entity, an avatar, or its embodiment.
-
-Here we tie meaning of Unknown Symbol to this proposal, as the Void was opened by a malevolent entity guided by curse and corresponding to it bestial principle.
-
-##### Alchemical Failure
+#### Swarm as The Alchemical Failure
 
 Now, if we apply alchemical narrative to this process of opening and extraction of the Void, followed by falling state of Gremlin Empire, does there exist a term or a concept for a failed handling of that mass?
 
@@ -10229,43 +10199,39 @@ Now, if we apply alchemical narrative to this process of opening and extraction 
 
 </BookCitation>
 
-The Swarm, both by its name and themes, discussed above, is the absence of an individual. As Swarm is guided by its hunger, we place it in parallel to the idea of being consumed by unconscious forces. This does not directly translate from an aforementioned quote, but, we believe, it shows elements of _an archetypical narrative propagating itself over time through different mediums where it manifests itself_.
+The excerp, `dissolution and reintegration of chaos is an operation which, whatever the context, presents at least two interdependent significations: cosmological and initiatory. Every 'death' is at once a reintegration of cosmic night and pre-cosmological chaos`, we suggest, is the essential of this procerss of Swarm's creation. As the Swarm deocid of primordiality as an entity of Whitesapce, had taken Void, a chaos, and integrated it. Then, the Swarm is identified by its all-consuming nature, we interpret it within the framework of being consumed by unconscious force.
 
-And, as we have pointed point liquidity of the Void, the themes of water here seem particularly fitting, suggesting a corresponding narrative of a descend into the abyss, characterized by the blackening.
+And, as the Void possess a degree of liquidity when found on the ground and flowing upwards, the resemblence to water here seems fitting.
 
-Lastly, there was an inherent danger to the opus. There are cases, when the danger to completion of Great Work is presented as internal - due to being exposed to the raw contents of massa confusa, and to external, identified as a symbolic devil, and without it, according to Jung, both are the implications of confronting the shadow, which is reflected in the act of extraction and purification of the first matter.
+We akcnowledge the absence or misplacement of curse within this narrative, which presents an issue of identifying the nature of pink color. At this stage we are unable to present a candidate otherwise fitting to the elemnts of Swarm's nature which would be capable to explain its present appearance and instincts.
 
-It is also hero's death within the narrative of descend into the abyss or belly of the beast, as it symbolizes the inherent danger of this process well enough. And, if this step is done correctly, the hero acquires elixir of immortality, apotheosis, rebirth, within an unlimited set of interpretations, the completion of the work in a symbolic framework.
+<!--##### Involvement of Undercorp
 
-##### Involvement of Undercorp
+Here we will focus specifically on the narrative of an external force as one attributed to a symbolic devil, as we are committed to a narrative of Underworld being the prime perpetrator behind Cradle.
 
-Here we will focus specifically on the narrative of an external force as one attributed to a symbolic devil, as we are committed to a narrative of Underworld being present and Undercorp being a prime perpetrator.
+We do not know how curse is supposed to appear in an immaterial realm, apart from the first-hand impressions of the Apocrean Realm, its inhabitants, and Underworld-native ecosystem being [greavers](https://wiki.spiralknights.com/Greaver) which this symbolism of evil eye initially unrelated to curse had stemmed from.
 
-Earlier we have suggested Whitespace being different from Nameless Realm proper, - the idea of curse afflicting entity of Whitespace prior to opening the Void should be a reason and intent to open it in a similar manner to Phantoms bearing characteristic curse and malevolence, while located between Underworld and material realm, within [graveyards](#graveyards).
+It is then the nature of Swarm which encompasses all of it. As curse was encountered in large amount of shapes, forms, and manifestations, under a specific application it is plausible to manifest unseen earlier phenomenon. Then, as Whitespace, being a divine relam, had remained susceptible to curses and darkness of Underworld, as [they exist in opposition](#forgotten-time-part-2-radiance-of-griffon).
 
-We do not know what curse is supposed to look and feel like in a immaterial realm, apart from the first-hand impressions of the Apocrean Realm, its designs, and underworld-native entities, as [greavers](https://wiki.spiralknights.com/Greaver), from which this symbolism of curse had stemmed.
+This threat of darkness of Underworld was initially _the reason for its protection both by the heavenly kingdom and later gremlins_.-->
 
-It is then the nature of Swarm which encompasses all of it. As curse was encountered in large amount of shapes, forms, and manifestations, under a specific application it is plausible to manifest unseen earlier phenomenon. Then, as Whitespace is not the Nameless Realm proper, which assumes its weakness towards elements, such as darkness, despite its divine design, it is then susceptible to Underworld's general influence, here being the curse. _That would be the reason for its protection both by the heavenly kingdom and within the Core_. This logic fits with our prior discussion of Nature Sprites being able to be cursed, despite their pure water being the only resource to extinguish shadow fires.
+#### Consoles: Part 4: Architecture of Early Gremlin Empire
 
-Those conclusions allow us to further remove now unnecessary elements within the narrative, as the Swarm becomes a result of Undercorp's action, while the curse is the tool. The means remain unknown, but we have many implications regarding those due to events of Shroud of Apocrea. Among those, the is the Sleeper and the Architect remain among which Architect's madness seemingly became to event which stated gremlins' civilization downfall.
+The designs identified by the [Greek key relate to an earlier time of Whitespace being united with the rest of Clockworks](#divine-clockwork-tunnels-and-whitespace).
 
-#### Consoles: Part 4 - Architecture of Early Gremlin Empire
+The Architect, given his role, also is framed as a figure which bridges divine aspects of Whitespace, reiteration of the paradise, and rest of gremlins. Those themes were the prime reason for our earlier proposal the king being a fictional symbol used by Crimson Order.
 
-The designs identified by the Greek key relate to an earlier time of Whitespace being united with the rest of Clockworks. The Architect, given his role, also iis framed as a figure which bridges divine aspects of Whitespace, reiteration of Valkyrian paradise, and rest of gremlins. Those themes were the prime reason for our earlier proposal the king being a fictional symbol used by Crimson Order.
+But, under interpretation of the king existing, we arrive to a more complex narrative which involves design of consoles and [symbolism of gremlin emblems](#intent-and-symbolism-of-gremlin-emblems).
 
-But, under interpretation of the king existing, we arrive to a more complex narrative, which involves positions of consoles.
+Consoles are places behind the throne room in a higher-elevation location with 2 entrances on the sides both of Royal Jelly Palace and Firestorm Citadel. Previously we suggested it to be an inner chamber behind monarch's protection for both heavenly kingdom and kingdom of Almire. Then, given established backgrounds and motifs, as well as the approximate time periods, we suggested those consoles serving for gremlin empire both in their function and symbolism -- as symbolically, culturally important locations.
 
-Consoles are places behind the throne room in a higher-elevation location with 2 entrances on the sides both of Royal Jelly Palace and Firestorm Citadel.
+If we add imperial motifs of modern gremlin empire, we can crreate an idealised image of a state, an empire, whose autority was derived from interfacing with the divine. Due to how architecture of consoles and the Core depths differs greatly from modern gremlin designs, we will follow the imperial motif and refer to those technologically advanced designs -- the Artifact and the Consoles, -- as _Early Gremlin Empire_.
 
-Previously we suggested it to be an inner chamber behind monarch's protection for both Owlite Castle and Great Citadel. But now, given established backgrounds and motifs, we can suggest those consoles serving, primarily for gremlin empire, as also culturally important locations, whose placement within those locations is both symbolic and functional. If we add imperial motifs of modern gremlin civilization, we can draw parallels to the Roman Empire. And there, the most probable function of such design as of Consoles, with their design patterns we see those as altars to a figure within the Core, as the closest to a deity entity.
+<!--Coincidentally, the Roarmulus Twins, as being derived of the myth of foundation of Rome, coincidentally, refer to the Roman Empire, seemingly a spiritual foundation for an early gremlin empire, one witnessed by Crimson Order and the king.-->
 
-Due to how this architecture differs greatly from modern gremlin designs, we will follow the imperial motif and refer to those technologically advanced designs - the Artifact and the Console, - as of Early Gremlin Empire.
+<!--With this, we may have smaller range of languages, from which gremlin conlang was created. The runes point to a germanic origins, while the imperial motif points as greek or latin languages. Those could be potential stepping stones for identified the language, if it contains meaning.-->
 
-Notably, the Roarmulus Twins, as being derived of the myth of foundation of Rome, coincidentally, refer to the Roman Empire, seemingly a spiritual foundation for an early gremlin empire, one witnessed by Crimson Order and the king.
-
-With this, we may have smaller range of languages, from which gremlin conlang was created. The runes point to a germanic origins, while the imperial motif points as greek or latin languages. Those could be potential stepping stones for identified the language, if it contains meaning.
-
-Now those loose ends covered, we can now finally move to the Architect.
+Now those loose ends covered, we can now discuss the Architect.
 
 #### The Architect
 
@@ -10479,11 +10445,11 @@ This proposal would establish negative energy of shadow damage-focused weapons, 
 - Dark Matter is one to be included in trojans' supposed madness, one of Arkus, and related to Darkfire Vanaduke and Carnavons.
 - Souls, as variation of energy, identical to one within the minerals has to relate to the eternal energy, as well as concepts of chaos and nothingness, identifying those as one.-->
 
-In this context of identifying distinct in color energy of souls, eternal energy, and one powering the Swarm, we would like to focus of the subtle design similarity of obsidian obelisks and Swarm Seed:
+In this context of identifying distinct in color energy of souls, eternal energy, and one powering the Swarm, we would like to focus of the subtle design similarity of obsidian obelisks and Swarm source:
 
 - Polished obsidian tiles possess rectangular shape of varying size, which we can compare to pattern the Void possesses. At that, we do known that the cities are being built using the essence (), while the rest of the matter, likely, the obsidian, is being dreamt up by Apocrea (). Could it be, that the Void is one which is reshaped by Apocrea in the same, but mastered form, as the Swarm in the material realm?
-- Presence of a distinct source of eternal energy - as the obelisk, - is similar to the Swarm Seed central elemnt of the Unknown Symbol being a source of Swarm's energy behind manipulation of the Void.
-- Within the Swarm Seed, the energy is present both in a rectargular pattern and from a singular source.
+- Presence of a distinct source of eternal energy - as the obelisk, - is similar to the Swarm source central elemnt of the Unknown Symbol being a source of Swarm's energy behind manipulation of the Void.
+- Within the Swarm source, the energy is present both in a rectargular pattern and from a singular source.
 - As etental energy is fpuld tp be below the floors of locations within Apocrean Relam, internals of Void Minsters from Swarm are also seen to posses a differnt color, of the energy, accompnying the Swarm.
 
 Those similarities make us think of __an inherent connection between principles which Swarm utilizes to contain its energy, and of Apocrean Realm__.
