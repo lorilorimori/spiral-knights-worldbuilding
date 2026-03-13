@@ -3511,9 +3511,7 @@ The idea of capturing souls is one of central elements to Apocrea's motivation, 
 
 Allister Danford in the context of eldritch horror may represent a similar character -- [Danforth](https://lovecraft.fandom.com/wiki/Danforth) of [`In the Mountains Of Madness`](https://lovecraft.fandom.com/wiki/At_the_Mountains_of_Madness). It is also worth noting that Apocrean activity, as eldritch entity, __manifests as insomnia__, as stated per memorandum: `We at Spiral HQ are concerned about a spike in the number of knights who push themselves to the limit with lack of sleep, and Medical has noted a similar uptick in knights who want to sleep, but can't. We suspect this is at least partly due to recent Apocrean activity in the Clockworks` ([Sleep is for the Strong](https://forums.spiralknights.com/en/node/111472)).
 
-##### Apocrea's Goal Of Negation Of existence: Part 2
-
-<!--may be compared to otehr wolrd-ending nihilistic threats in ch11, here we define it-->
+##### Apocrea's Goal Of Negation Of Existence: Part 2
 
 Apocrea, semantically, may be derivation of a term _Apocrypha_, referring to _texts, which exist outside of Biblican canon_. This connection allows for 2 sides of an emerging narrative to be outlined:
 
@@ -3642,7 +3640,7 @@ The inital quote of `Along the shore the cloud waves break` is interesting to us
 
 ###### Onyx Castle of Kadath, Dreamlands
 
-In relation to metals -- Perplexing Element, `A rare metal recovered from a shattered mountain deep within the realm of the Apocrea. Under a microscope it reveals to have a kind of impossible geometry`, -- it was recovered from a shattered mountain makes us think of _great onyx canyons on the north of Dreamlands_.
+In relation to metals -- [Perplexing Element](), `A rare metal recovered from a shattered mountain deep within the realm of the Apocrea. Under a microscope it reveals to have a kind of impossible geometry`, -- it was recovered from a shattered mountain makes us think of _great onyx canyons on the north of Dreamlands_.
 
 Onyx was used as primary building material for civilization of Inganok and a castle for Elder Gods at the top a mountain Kadath, as revealed by the events of [`The Dream-Quest of Unknown Kadath`](https://lovecraft.fandom.com/wiki/The_Dream-Quest_of_Unknown_Kadath).
 
@@ -3677,18 +3675,22 @@ From those 3 items, their design and behavior, we can derive following ideas:
 - Obelisks are capable of being repurposed into equipment, their functon weaponized -- a direction found for graviton technology in prior case of deveilites
 - Given emergence of tendrils during weapons' charge attacks, entities of Apocrean Realm are summoned through utilization of weapons and, potentially, power of obelisks, as those comprise the functioning and essetial part of those weapons.
 
-As all of weapons are repurposed [obsidian obelisks](https://wiki.spiralknights.com/Apocrean_Furniture). All of obelisks have an identical description: `A jet-black stele of unnatural stone from the realm of the Apocrea. As you gaze upon it, the stone seems to writhe and pulse with an eternal energy that is simultaneously alluring and sinister in a most grotesque manner`. Obelisks are referred to be made of obsidian, which is called here as `unnatural stone` -- same as [Obsidian Shard](https://wiki.spiralknights.com/Obsidian_Shard): `A jet-black shard of unnatural stone. Holding it fills your head with imagery of a distant shore where waves crash against rocks that seem to writhe in the chill of the water`. This means, either:
+As all of weapons are repurposed [obsidian obelisks](https://wiki.spiralknights.com/Apocrean_Furniture). All of obelisks have an identical description: `A jet-black stele of unnatural stone from the realm of the Apocrea. As you gaze upon it, the stone seems to writhe and pulse with an eternal energy that is simultaneously alluring and sinister in a most grotesque manner`. Obelisks are referred to be made of obsidian, which is called here as `unnatural stone` -- same as [Obsidian Shard](https://wiki.spiralknights.com/Obsidian_Shard): `A jet-black shard of unnatural stone. Holding it fills your head with imagery of a distant shore where waves crash against rocks that seem to writhe in the chill of the water`.
+
+This means, either:
 
 - Obsidian is a mineral in its nature related and found in Apocrean Realm
 - Obsidian itself is what unnatural stone resembles the most as the closest mineral from the material realm to depict the unnatural. It is not obsidian of material realm, but a mineral most similar to it.
 
-###### Unnatural Stone of Apocrean Realm
+##### Unnatural Stone of Apocrean Realm
 
 As onyx was the primary material in construction of Kadath castle, we would suggest that obsidian is the mineral which is favoured by Apocrea. This would mean abundance of obsidian or other mineral across Apocrean Realm.
 
 On the contrary, even given accent on different minerals and jewels of several prize boxes, the eldritch -- unknowable and ambigious, -- nature of obsidian, which frames it with an unresolvable vagueness, it would be a soild argument to identify a different mineral as the unnatural stone, rather than obsidian itself.
 
-As minerals are associated with cosmic forces, as dragons' species embody universal aspects, as wisps, as representaions of abstract will and share aspect of progress and consciousness, -- the thread of __spiritually symbolic value becoming a cosmic constant__ seems to us as a reasonable argument to assume that unnatural stone is obsidian because of obsidian's inherent to this universe symbolic, particularly eldritch, quality.
+As minerals are associated with cosmic forces, as dragons' species embody universal aspects, as wisps, as representaions of abstract will and share aspect of progress and consciousness, -- the thread of __spiritually symbolic value becoming a cosmic constant__ seems to us as a reasonable argument to assume that _unnatural stone is obsidian_ because of obsidian's inherent to this universe symbolic, particularly eldritch, quality.
+
+In relation to metals of Apocrean Relam, __we suggest this stone is only being refered as obsidian due to its appearances__, but due to its origin from a an eldritch relam, in its composition, we suggest __it to possess supernatural topology__ as the [Perplexing Element](), `A rare metal recovered from a shattered mountain deep within the realm of the Apocrea. Under a microscope it reveals to have a kind of impossible geometry`
 
 ##### Origin of Graviton Technology
 
@@ -3705,7 +3707,7 @@ As far as Obsidian Crusher and context of Apocrean Realm allows, Crusher's 3-dot
 
 Apart from those notions, we observe presence of purple energy, permiating obsidian weapons as well as through the broken floors of obsidian across Nexus-adjacent locations. The latter is most distinctly seen in Haven Town Square, where _obsidian obelisk emerges from the ground with the corresponding lines of purple light_.
 
-##### Eternal Energy, Obsidian and Minerals
+##### Eternal Energy, Obsidian, and Minerals
 
 Obelisks refer to an `eternal energy` within their descriptions: `A jet-black stele of unnatural stone from the realm of the Apocrea. As you gaze upon it, the stone seems to writhe and pulse with an eternal energy that is simultaneously alluring and sinister in a most grotesque manner` ([Obsidian Obelisks](https://wiki.spiralknights.com/Apocrean_Furniture)). Due to lack of any other references to a specific type of energy, we propose that this exact eternal energy is one observed in the aforementioned gear as _a purple glowing stream_.
 
@@ -3746,9 +3748,9 @@ Apocrea is located within the cities. Here we recall idea of an Apocrean obsidia
 
 The quote `geometry and madness share meaning` suggests a concept of madness being reflected in an eldritch geometry or topology of Apocrean architecture, which might result in the unexplicable nature of, for example, Perplexing Element. So far we were considering Obsidian Nexus being an instance of the city's architecture, due to its defined design. And through its depiction we have previously arrived to the idea of Kadath. If we follow those parallels further, as well as add up to them concept of `constructed from thought, from unnatural impulse`, we arrive to the idea of cities being manifested by Apocrea's will, as those characterisics follow after the cities, albeit with an ambiguity, one that might be potentially intentional.
 
-This idea of `constructed from thought, from unnatural impulse` contradicts the physical construction process of cities, as suggested by the [Binding Essence](https://wiki.spiralknights.com/Binding_Essence): `A strange, vile reagent thought to be harnessed by the Apocrea to build their structures`, unless this process consists of multiple steps of varying physicality.
+This idea of `constructed from thought, from unnatural impulse` contradicts the physical construction process of cities, as suggested by the [Binding Essence](https://wiki.spiralknights.com/Binding_Essence), `A strange, vile reagent thought to be harnessed by the Apocrea to build their structures`, unless this process consists of multiple steps of varying physicality.
 
-We are considering the metaphysical, dream-oriented interpretaion as plausibly applicable both to cities and machines. First, we will test an interpretation of `impuse` and `thought` as characteristics of the act of dreaming, as cities had physicality and material explored through Apocrean sigils, and then we will test the grammatically accurate interpretation, wherein cities are ones constructed from thought becouse of ambigious boundary of concepts between geometry and madness of `geometry and madness share meaning`.
+We are considering the metaphysical, dream-oriented interpretaion as plausibly applicable both to cities and machines. First, we will test an interpretation of `impuse` and `thought` as characteristics of the act of dreaming, as cities had physicality and material explored through Apocrean sigils, and then we will test the grammatically accurate interpretation, wherein cities are ones constructed from thought because of ambigious boundary of concepts between geometry and madness of `geometry and madness share meaning`.
 
 Through `Apocrea dream dark machines into being` we can then propose physicality of those machines. `Only souls keep these engines roaring, heard screaming across distant stars. Only souls can fill their void, sublime in its vast emptiness` states that __souls are the fuel of those machines__, labelling them engines. The act of roaring so far was attributed to engines specifically, rather than souls, so we can conclude that its is those engines are being heard as `screaming across distant stars`, which would establish their physical presence.
 
@@ -3912,7 +3914,7 @@ Undercorp is located at the Underworld. Below the Underworld, it is Apocrean Rea
 
 In the end, apart from the Void, one final realm remains -- Nameless Realm: `A forbidden mantle said to grant the wearer protection within the nameless realm where all elements are said to converge into one and divide into all` ([Chaos cloak](https://wiki.spiralknights.com/Chaos_cloak)). We will revisit this realm later, as in order to analyze it, we have to cover rest of past history, specifically [Kingdom of Almire](#chapter-vi-kingdom-of-almire) and [Owlites, and Kat Tribe](#chapter-viii-kat-tribe).
 
-##### Metaphysics of Dreams: Part 1 - Apocrea
+##### Metaphysics of Dreams: Part 1: Apocrea
 
 Apocrean Realm is an eldritch location with theme of dreams, so it must be analyzed on the motif of dreams in relation to Outer Gods of Lovecraft's universe. This notion of dreams will be [later](#metaphysics-of-dreams-part-2-sleeper) important in the context of the Sleeper's name and reflection of act of dreaming onto reality.
 
@@ -8384,7 +8386,7 @@ This leaves us with the last notion we have kept in mind - as alchemy works as a
 - The sphere confined in a cube is a symbolic representation of a _squared circle_ -- a motif found in alchemy, identical to completion of Great Work.
 - The votex-like behavior of vortex block, explosive nature of explosive blocks, and illusive property of ghost block rreminds us of 3 primordial forces of frenzy, rage and storms.
 
-##### Isoran of Alchemy Stations
+##### Isoran Alchemy Stations
 
 Lastly, there are alchemy stations themselves. There are predominently only 4 argumenets in favour of alchemy stations being designed and built by gremlins, contrary to a belief that only isroans had relied on alchemy, while there were no information of gremlins using it:
 
@@ -9567,7 +9569,7 @@ Here we are to apply this concept on Shadow Lairs, forming a correspondence.
 
 Isorans crash land on Cradle led by their search of an energy source which became the Core. Paralleling it, an idea is introduced by knights which start to feel as if they were intended to crash land. With this an aspect of destiny or fate is introduced, followed by a guardianship of Cradle through inheritence of a moral authority over Cradel to protect it after heavenly kingdom and, potentially, at a certain point in time gremlins before their decline.
 
-The events of Dreams And Nightmares reveal Swarm as the greatest so far threat physically present on Cradle, apart from Underworld, and Apocrea as an eldritch deity. The Swarm, through its role as an opposite of Whitespace yet bearing its nature, we propose, can be speculated as a flawed end of the process of `The precious substance is potentially contained in this chaos as a massa confusa of all the elements rolled into one, and man must diligently apply his mind to it so that “our heaven” may come into reality (ad actum)`.
+The events of Dreams And Nightmares reveal Swarm as the greatest so far threat physically present on Cradle, apart from Underworld, and Apocrea as an eldritch deity.
 
 Then there are the materials. We propose an existence of a symbolic parallel in the materials acquired in the Sanctuary depending on the Shadow Lair and the stages of the Great Work. The three prior materials represent the alchemical stages -- a metaphorical process of transformation of Prima Materia. This symbolism is depicted as follows:
 
@@ -9605,23 +9607,23 @@ As Whitespace is of literal white with an entity of Sleeper, gremlins are mostly
 
 #### The Void: Part 2: Massa Confusa
 
-As the general outline of the relations between the Core, Sleeper, and the Swarm is established, we now are required to analyze the relation between:
+As the general outline of the relation between the Core, Sleeper, and gremlins is established, we now are required to analyze the relation between:
 
 - The Void;
 - The Swarm;
 - An entity which supposedly preceded creation of the Swarm.
 
-Due to this, identifying precise nature of the Void is instrumental to any further analysis or progress in regards to understanding the supposed nature of the Swarm and of the events which had happened between complete erasure of Owlites as last of native to material realm civilizations and arrival of gremlins.
+Due to this, identifying precise nature of the Void is instrumental to any further analysis or progress in regards to understanding the supposed nature of the Swarm and of the events which had happened between complete erasure of Owlites and arrival of gremlins.
 
-Earlier we suggested, that __a concept of massa confusa should manifest within proposed alchemical cosmology__ of Cradle, while the omnipresent energy took place of first matter, manifested and transferred in different mediums, taking inspiration not from medieval alchemy, but from modern physics which fits the fantastic, mediavalistic setting of Isorans as a highly-advanced civilization.
+We [proposed]() that the omnipresent energy took place of first matter, manifested and transferred in different mediums, taking inspiration both from medieval alchemy and 20th century physics, which fits the fantastic and mediavalistic setting of Spiral Knights.
 
-This duality of medieval and futuristic is reflected in Isorans themselves -- as they, by the nature of being named knights, have corresponding designs, which incorporate a lot of different time periods into a technologically advanced base. Given our discussion of Shadow Lairs as an alchemical process, and a confrontation with a shadow, this thematic parity of the Swarm and Isorans can be seem as a concrete pattern.
+This duality of medieval and futuristic is reflected in Isorans themselves, as they, by the nature of being named knights, have corresponding designs, which incorporate a lot of different time periods into a technologically advanced basis. Given our identification of [Shadow Lairs as an alchemical process](), this thematic parity of the Swarm and Isorans can be seem as a concrete correspondence when isorans are forced into a position of valkyries as the next iteration of guardians of heavens.
 
-The Void is encountered physically once -- the one time we have mentioned it in the very introduction of the void as a concept -- as _Shadow or Void variants of enemies emerging from Swarm sources_. Their death hints at their _distinct physiology, separate from the entities of material realm_. As other variants of monsters, such as zombies, are identified by their affiliation with a status effect, the void served as a _primary equalizing characteristic for Swarm-related monsters_. Due to this we can assume a __direct presence of the void as the black matter in its many appearances across Swarm's manifestations__.
+The Void is encountered physically once -- the one time we have mentioned it in the very introduction of the void as a concept -- as _Shadow or Void variants of enemies emerging from Swarm sources_. __Their death, produced sounds, and name -- Void, -- hint at their distinct physiology, separate from the inhabitants of material realm__. As other variants of monsters, such as zombies, are identified by their affiliation with a status effect, the _void serves as a primary equalizing characteristic for Swarm-related monsters_. Due to this we can assume a __direct presence of the void as the black matter in its many appearances across Swarm's manifestations__.
 
-Then, there is a concept of consuming everything material realm is capable of containing -- a property identified as the hunger, either of the Void or of the Swarm. So far, given consistency of currently introduced themes, `AS I DREAMED, IT CONSUMED. IT DEVOURED THE KNOWLEDGE OF TIME... MEMORIES OF THE DEAD... THE HEARTS OF KINGS AND THE SOULS OF THEIR PEOPLE... GOOD AND EVIL... IT CONSUMED` (Echo Stone: Firestorm Citadel), as both void and Swarm can be carriers of this property of hunger, the Swarm can be one to carry properties of the void, and of its hunger. Due to this ambiguity, currently we will consider at least the Swarm to be associated with hunger.
+Then, there is a concept of consuming everything material realm is capable of containing -- a property identified as the hunger, either of the Void or of the Swarm. So far, given consistency of currently introduced themes, `AS I DREAMED, IT CONSUMED. IT DEVOURED THE KNOWLEDGE OF TIME... MEMORIES OF THE DEAD... THE HEARTS OF KINGS AND THE SOULS OF THEIR PEOPLE... GOOD AND EVIL... IT CONSUMED` (Echo Stone: Firestorm Citadel), as both void and Swarm can be carriers of this property of hunger, the Swarm can be one to carry properties of the void, and of its hunger. Due to this ambiguity, currently we will consider at least _the Swarm to be associated with hunger_.
 
-The other case, arguably, does not explicitly state on the malevolence of the Void, but rather that existence of the void within material realm is not natural arrangement of matter. The act of opening the Void by the Swarm from Sleeper's quotes analysis may suggest a process which went out of control, potentially resulting in a current nature of the _Swarm as a void-based eldritch being_.
+The other case, arguably, does not explicitly state on the malevolence of the Void, but rather that existence of the void within material realm is not natural arrangement of matter. The act of opening the Void by the Swarm from Sleeper's quotes analysis may suggest a process which was not expected, potentially resulting in a current nature of the __Swarm as a void-based eldritch being__.
 
 We are not aware, whether an ability to "consume" belongs to nature of the Void, as little directly is known of it.
 
@@ -9630,151 +9632,168 @@ If we continue to draw parallels between nature fo Whitespace as extension of Na
 - Forcing matter to disappear, as suggested by the nature of ghost blocks and environment of Whitespace within the Core.
 - Manufacturing Clockwork tunnels of a unique kind, unless those are depicted as consumed by Whitespace, as if being abstracted to maintain their function, while the nature of ghost blocks further alludes to a less material nature of Whitespace.
 
-Lastly, as we approach the Void through the Swarm we have to acknowledge widespread presence of opened eyes in association with the Swarm. The eye symbolism can not be discussed without acknowledgement of the curse as a different, yet consistent carrier of this design.
+<!--The Swarm, through its role as an opposite of Whitespace yet bearing its nature, we propose, can be speculated as a flawed end of the process of `The precious substance is potentially contained in this chaos as a massa confusa of all the elements rolled into one, and man must diligently apply his mind to it so that “our heaven” may come into reality (ad actum)`.-->
 
-In relation to the Nameless Realm, there is [Chaos Cloak](), which encompasses curse into its properties: `A forbidden mantle said to grant the wearer protection within the nameless realm where all elements are said to converge into one and divide into all` ([Chaos Cloak](https://wiki.spiralknights.com/Chaos_Cloak)), and chaos of [Dark matter](https://wiki.spiralknights.com/Dark_Matter#Dark_Matter): `dark and ominous in color said to contain the essences of both chaos and nothingness`. Those dualities are similar to the alchemical void as an unrefined state, which, given Dark Matter as a potent power source, may be a variation of the prior in the same manner as energy, further solidifying the transitional state of all power sources and energy mediums as origination from a common fundamental principle.
+As we approach the Void through the Swarm we have to acknowledge widespread presence of opened eyes in association with the Swarm. The eye symbolism can not be discussed _without acknowledgement of the curse and Underworld as different, yet consistent carriers of this design_.
 
-We do know that dark matter is a source of energy potent to power tortodrones. The [shadow energy, which powers Phantamos, is contained, which we discussed in relation to Grim Totems](), is also seemingly found to power Apocrean gear, to the point of similar physiological effects.
+In relation to the Nameless Realm, there is [Chaos Cloak](), which encompasses curse into its properties, `A forbidden mantle said to grant the wearer protection within the nameless realm where all elements are said to converge into one and divide into all` ([Chaos Cloak](https://wiki.spiralknights.com/Chaos_Cloak)), and chaos of [Dark matter](https://wiki.spiralknights.com/Dark_Matter#Dark_Matter), `dark and ominous in color said to contain the essences of both chaos and nothingness`. Those dualities are similar to the alchemical first matter in its unrefined, unfettered state -- `The unfettered opposites in chaos. “Chaos” is one of the names for the prima materia. The mercurial dragon of Greek alchemy, surnamed ἕν τò πᾶν gave rise to descriptions of the prima materia as Unum, Unica Res, and Monad and to the statement in the “Liber Platonis quartorum” that man is well qualified to complete the work because he possesses that which is simple, i.e., the soul. Mylius describes the prima materia as the elementum primordiale. It is the “pure subject and the unity of forms,” and in it any form whatsoever may be assumed (in quo retinetur quaelibet forma cum possibilitate)` (Psychology and Alchemy - Carl Jung), which, given Dark Matter as a potent power source, may be a variation of the prior in the same manner as energy, further solidifying the transitional state of all power sources and energy mediums as origination from a common fundamental principle.
 
-While we keep in mind those concepts - of __the Void being the element of Swarm's nature__, - void exists mostly separate from anything of Underworld of Apocrean origin, apart from a shared _eldritch motif with the latter_, and _eye motif with the prior_.
+<!--We do know that dark matter is a source of energy potent to power tortodrones. The [shadow energy, which powers Phantamos, is contained, which we discussed in relation to Grim Totems](), is also seemingly found to power Apocrean gear, to the point of similar physiological effects.-->
 
-#### The Void: Part 3 - Symbolic Beast
+While we keep in mind those concepts -- of __the Void being the element of Swarm's nature__, -- void exists mostly separate from anything of Underworld of Apocrean origin, while the Swarm, as extension of the Void, bears a shared _eldritch motif with the Apocrea_, and _eye motif of Underworld_.
 
-It is implied that the Swarm originated with Architect's maddening betrayal, and as discussed earlier, themes of hunger are present here, as in:
+#### The Void: Part 3: Swarm as the Symbolic Beast
+
+We can suggest that the Swarm originated with Architect's maddening betrayal as those two events mark the shift in gremlin and Sleeper relation.
+
+Notably, themes of hunger are present both for Sleeper's prison and the Swarm:
 
 - `WITHIN MY DREAM I SAW IT OPEN THE VOID, FELT ITS ENDLESS HUNGER.` [Echo Stone: Gloaming Wildwoods]().
 - `TWISTING HIS CREATION INTO A GAME OF DEATH, IT NOW DEVOURS ALL WHO ENTER ITS IRON EMBRACE.` [Echo Stone: Ironclaw Munitions Factory]().
 
-    If coupled with the previous idea, then it is the Swarm which devours, apart fom Clockworks' iron embrace.
+Earlier [organic motif] of the Core is reaffirmed through utilization of the Swarm and in other case Cradle as a hungering entity. The name of second depth of [It Came From Below](), [Into the Maw](), is a direct metaphor on the entrance to the Unknown Passage, as it is the first direct encounter with the Swarm across rank missions. This establishes __a metaphor of the Swarm being the beast__, _into whose maw knight descends and reaches darkness_ -- `In the hero myth this state is known as being swallowed up in the belly of the whale or dragon` (Psychology and Alchemy - Carl Jung), or simply the belly of the beast.
 
-- Earlier organic themes of the Core, covered in the [Core Terminal](#core-terminal), as well as the implications of existence of the Swarm are being reaffirmed here directly in relation to the Swarm as a living entity.
-- The name of second depth of [It Came From Below]() - [`Into the Maw`]() - is a direct metaphor on the entrance to the Unknown Passage, as it is the first direct encounter with the Swarm across rank missions. This establishes __a metaphor of the Swarm being the beast__, _into whose maw knight descends and reaches darkness_ - a belly of the beast.
+This further connects Swarm with previous _alchemical narrative of internal fire within darkness of the beast_, where the Isorans' arrival on Skylark, a setback and eventual conquest of Cradle's dangers is framed as fire of stars, `YOU FALL WITH PURPOSE, BURNING EVER BRIGHTER AS YOU REACH FOR THE HEART OF THIS WORLD. HOLD DEARLY THIS FIRE IN YOU, FOR DARKNESS WILL CONSUME ALL THE NIGHT IF ITS STARS BEGIN TO FADE. HOLD DEARLY THIS FIRE IN YOU, FOR DARKNESS WILL CONSUME ALL THE NIGHT IF ITS STARS BEGIN TO FADE` ([Echo Stone: Royal Jelly Palace](https://wiki.spiralknights.com/Echo_Stone#Echo_Stone)). Sleeper establishes that _the darkness is yet to come_, __as an admonition of a worse fate__.
 
-This further connects Swarm with previous _alchemical narrative of internal fire within darkness of the beast_, where the internal fire corresponds to Sleeper's quote of `HOLD DEARLY THIS FIRE IN YOU, FOR DARKNESS WILL CONSUME ALL THE NIGHT IF ITS STARS BEGIN TO FADE` (Echo Stone: Royal Jelly Palace). Here, it is also established that the darkness is yet to come, _as an admonition of a worse fate_.
+This would not directly mean, physically, that the Void or the Swarm is the darkness, as Sleeper's metaphors omit much of details in regards to the main actors and dangers, but rather, _the darkness is everything that is endangering Sleeper_.
 
-This would not directly mean, physically, that the Void of the Swarm is the darkness, as Sleeper's metaphors omit much of details in regards to the main actors and dangers - but rather the darkness is everything endangering Sleeper. At that point, it would seem thematically fitting, that Sleeper is in the Whitespace, is the opposite of darkness by their corresponding definitions. But, the only consistent darkness we found so far was of Underworld. We have previously suspected for Apocrean Realm and Underworld to be related, which was the initial reasoning for their darkness to be one Sleeper was referring to, and here we are presented with a case of the Swarm being a carrier for a different kind of darkness, one which seemingly forces stars to fade.
+At that point, through association of Sleeper with light, it would seem fitting to assume that Sleeper is in the Whitespace -- what we proposed to be by [identifying physical location of Sleeper's dream](#sleepers-definition-of-a-dream-part-4).
 
-It is suggested, that Cradle itself was twisted, or changed, to devour everything. Cradle is a creation of the Architect, who we proposed to be gremlin king. By this link, his betrayal becomes implicitly the source of organic motif, which from the perspective of megastructure, can seen as an opposite to rigid operation of Clockworks as a mechanism.
+And yet, the only consistent darkness we found so far was of Underworld. We have previously suspected for Apocrean Realm and Underworld to be related, which was the initial reasoning for their darkness to be one Sleeper was referring to, and here we are presented with a case of the Swarm being a carrier for a different kind of darkness, one which seemingly forces stars to fade due to most present danger of the Swarm and Sleeper's focus on the Swarm through its Echo Stones.
 
-It is then through this reasoning we may suggest, _that an initial factor for such thematic transition had to be the culprit with a symbolically organic nature_ in order for the cascade of following events to happen:
+It is suggested, that Cradle itself was twisted, or changed, to devour, `TWISTING HIS CREATION INTO A GAME OF DEATH, IT NOW DEVOURS ALL WHO ENTER ITS IRON EMBRACE.` [Echo Stone: Ironclaw Munitions Factory](). Cradle is a creation of the Architect, [who we proposed to be the gremlin king](). By this link, his betrayal becomes implicitly the source of organic motif which from the perspective of megastructure can seen as an opposite to rigid operation of Clockworks as a mechanism.
+
+It is then through this reasoning we suggest _that an initial factor for such thematic transition had to be the culprit with a symbolically organic or chaotic nature_ in order for the cascade of following events to happen:
 
 - `THIS WORLD WAS CREATED TO PROTECT ME. VULNERABLE IN SLUMBER, WORLDS WERE DRAWN TO SHIELD ME FROM THE DARKNESS.` (Echo Stone: Ironclaw Munitions Factory)
 - `IN HIS MADNESS, THE ARCHITECT BETRAYED THE PACT.` (Echo Stone: Ironclaw Munitions Factory)
-- `I've felt it since we first set foot on this world; invisible eyes watching our every move, shapes that form just out of view... something greater than gremlins calls this world home.` ([The Search Continues - Vaelyn](https://wiki.spiralknights.com/The_Search_Continues))
-- `AS I DREAMED, IT CONSUMED. IT DEVOURED THE KNOWLEDGE OF TIME... MEMORIES OF THE DEAD... THE HEARTS OF KINGS AND THE SOULS OF THEIR PEOPLE... GOOD AND EVIL... IT CONSUMED.` (Echo Stone: Firestorm Citadel)
+- `I've felt it since we first set foot on this world; invisible eyes watching our every move, shapes that form just out of view... something greater than gremlins calls this world home` ([The Search Continues - Vaelyn](https://wiki.spiralknights.com/The_Search_Continues)).
+- `AS I DREAMED, IT CONSUMED. IT DEVOURED THE KNOWLEDGE OF TIME... MEMORIES OF THE DEAD... THE HEARTS OF KINGS AND THE SOULS OF THEIR PEOPLE... GOOD AND EVIL... IT CONSUMED` (Echo Stone: Firestorm Citadel).
 
-This ties with the prior idea of the Swarm being a later occurrence, while Cradle was indeed made to shield Sleeper from the darkness - one that is not the Void, but, one sourced from Apocrean realm or Underworld.
+This ties with the prior idea of the Swarm being a later occurrence, while Cradle was indeed made to shield Sleeper from the darkness -- one that is not the Void, but one sourced from Apocrean realm or Underworld as _explicitly malevolent factions throughout Cradle's history_.
 
 Then, as we covered the details of Iron Law, Cradle became a prison to contain and seal the Swarm within by keeping the Core perpetually locked.
 
-#### The Void: Part 4 - The Darkness and Dream Motif
+#### The Void: Part 4: The Darkness and Dream Motif
 
-We have argued that the darkness, which is external to Cradle, given its transformation into a fortress, is one of either, the Underworld, or of Apocrean Realm. Both cases of such darkness were deeply connected to a multi-dimensional nature of reality and realms from which this darkness originates.
+We have argued that the darkness, which is external to Cradle, given latter's transformation into a fortress, is one of either the Underworld or Apocrean Realm.
 
-Then, through association with metaphysical dreaming of Apocrea, we have drawn vague parallels with the Sleeper, suggesting a potentially common nature of those dreams - as in terms of how they affect material realm.
+Both cases of such darkness were deeply connected to a multi-dimensional nature of reality and realms from which darkness originates.
 
-For this we have appealed to [Apocrean Engines](https://lorikayman.github.io/entries/rebis-theory#apocrean-engines), now their context becomes relevant. There, we have explicitly selected a quote: `all hope is merely waiting for their dark shroud to return this cosmic play to its primordial black`.
+Then, [through association with metaphysical dreaming of Apocrea](#metaphysics-of-dreams-part-1-apocrea), we have drawn vague parallels with the Sleeper, suggesting a potentially common nature of those dreams, specifically, in terms of _how they affect material realm_.
 
-Could it be, that this exact "primordial black" is the Void, to which we have loosely attributed eldritch nature of Apocrea? In that case, is Sleeper's Sanctuary one to protect from `All of them mere crops against their relentless scythe! Though they may steal sanctuary in the cracks and corners of their terrible realm, it is ever fleeting. The blinding gaze of the Apocrea is boundless` ([Professor Allister Danford](https://forums.spiralknights.com/en/node/91276))?
+To understand this, we have appealed to [Apocrean Engines](https://lorikayman.github.io/entries/rebis-theory#apocrean-engines), now their context becomes relevant. There, we have identified that [Apocrea's goal was one of total negation of existence](#apocreas-goal-of-negation-of-existence-part-2) of the material realm and realms above [through power of soul-powered engines which would allow such metaphysical shift to happen](#apocrean-engines).
 
-##### Metaphysics of Dreams: Part 2 - Sleeper
+Could it be, that this exact `primordial black` is the Void, to which we have loosely attributed eldritch nature of Apocrea? In that case, can Sleeper's Sanctuary protect from `All of them mere crops against their relentless scythe! Though they may steal sanctuary in the cracks and corners of their terrible realm, it is ever fleeting. The blinding gaze of the Apocrea is boundless` ([Professor Allister Danford](https://forums.spiralknights.com/en/node/91276)), while it exists outside of Swarm's reach?
 
-In the [analysis of Apocrean Realm]() and [Apocrea]() we came to the idea of supernatural nature of Apocrea's dreaming. Precisely, Apocrea's goal is to bring currently known cosmology into its initial state, refered to as the primordial black.
+#### Metaphysics of Dreams: Part 2: Sleeper
 
-The means Apocrea achieves this is through capture of souls through Shrouds within the material realm and, likely, from Underworld. Then, those souls are used to fuel metaphysical engines created in the same principle as the obsidian cities within the Apocrean Realm. The supposed method the engines achieve this is through an act of screaming, which is heards across the material realm. At that, the act of creation of those devices is one resulting from Apocrea dreaming.
+In the [analysis of Apocrean Realm]() and [Apocrea]() we came to the idea of supernatural nature of Apocrea's act of dreaming. Precisely, Apocrea's goal is identified to bring currently known cosmology into its initial state, refered as the `primordial black`.
 
-Being an eldritch entity, we compared motif of dreams and dreaming deities across Lovecraft's works, which were considered the complete cycle of princples laws and deities - also refered as Yog-Sothothery. There, we found that the act of dreaming is indeed metaphysical, finalizing in Azathoth baing the largest and most known example of that motif, as for it, result of dreaming is the Universe. At that we concluded, that as in Yog-Sothothery, slumber of deities result in creation of matter and exsitence, - a concept applicable to Apocrea.
+The means Apocrea achieves this is through capture of souls through Shrouds within the material realm and, likely, from Underworld, since entities of Underworld are found within the Shroud across grasping Plateau. Then, those souls are used to fuel metaphysical engines created in the same principle as the obsidian cities within the Apocrean Realm. _The supposed method the engines achieve this is through screaming which is heards across the material realm_. The act of [creation of those devices is one resulting from Apocrea's dreaming](#apocrean-engines).
 
-Then there was analysis of Sleeper, whose metaphorical world, dream, and act of dreaming also have resulted in a concepts, unnatural from the position of an inhabitant of the material realm, tied to Whitespace.
+Apocrea being an eldritch entity, we compared motif of dreams to dreaming deities across H.P. Lovecraft's works. There, we found that the act of dreaming is indeed metaphysical, finalizing in Azathoth baing the largest and most known example of that motif, as for its result of dreaming is the Universe of human narrators. We concluded that __slumber of deities results in creation of matter and exsitence__ -- a concept applicable to Apocrea.
 
-Apocrean dreaming motif itself is presented as follows:
+Then there was analysis of Sleeper, whose metaphorical world, dream, and act of dreaming also have resulted in a concepts seen as supernatural from the perspective of an inhabitant of the material realm, tied and manifested in Whitespace.
 
-- `Plucked from the depths of the Apocrean realm, Obsidian Prize boxes are almost certainly guaranteed to not induce madness upon ownership.  ... And opening one will not in any way unleash a terrible, ancient entity from a world of unending, dark dreams into your own` ([Announcement](https://forums.spiralknights.com/en/node/91276)).
+Yet, Apocrean dreaming motif itself is presented as follows:
+
+- `Plucked from the depths of the Apocrean realm, Obsidian Prize boxes are almost certainly guaranteed to not induce madness upon ownership. ... And opening one will not in any way unleash a terrible, ancient entity from a world of unending, dark dreams into your own` ([Announcement](https://forums.spiralknights.com/en/node/91276)).
 - `'Wrap thyself in my embrace and succumb to my infinite love. Let your breath drift from you like candle smoke, dreaming deeper and deeper still'` ([Obsidian Mantle of Devotion](https://wiki.spiralknights.com/Obsidian_Mantle_of_Devotion#Obsidian_Mantle_of_Devotion)).
 - `Through my eyes you will see the path to ages. Pure is my gaze, free from the lies of reality'` ([Obsidian Mantle of Sight](https://wiki.spiralknights.com/Obsidian_Mantle_of_Sight#Obsidian_Mantle_of_Sight)).
 
-    The eyes' motif is reaffirmed through Apocrea's instances of deadly gaze, such being [Apocrean Harvester](). This paradigm also positions reality as false, and as a result, questioning the reality. This state of being uprooted we see as relatively similar to Herex's perception of reality, opposed to one established by Crimson Order.
+  The eyes' motif is reaffirmed through Apocrea's instances of deadly gaze, such being [Apocrean Harvester](). This paradigm also positions reality as false, and as a result, causes one to question reality.
+
+  This state of being uprooted we see as particularly similar to Herex's perception of reality, as opposed to one maintained by Crimson Order and the king.
 
 - `Within cities where geometry and madness share meaning, constructed from thought, from unnatural impulse, the Apocrea dream dark machines into being. Only souls keep these engines roaring, heard screaming across distant stars. Only souls can fill their void, sublime in its vast emptiness. Oh such beautiful souls! Bright and vibrant like fruit warming on the branch from a summer’s sun, longing for the pull of the earth below, the chance to seed and grow and birth anew. What terrible naivety! What utter farce! All of them mere crops against their relentless scythe! Though they may steal sanctuary in the cracks and corners of their terrible realm, it is ever fleeting. The blinding gaze of the Apocrea is boundless. The daylight, the starlight; all hope is merely waiting for their dark shroud to return this cosmic play to its primordial black. Dear heavens! The stars grin down with lustful intent! It is an abomination, an embodiment of sublime beauty, dark and blooded! I weep and laugh before the shroud that waits!` ([Professor Allister Danford](https://forums.spiralknights.com/en/node/91276)).
 
-Sleeper's dreaming is a metaphysical state within which it was observing the events of Swarm opening the Void. The general idea of a differnt deity possessing a motif of dreams was already noted in the analysis of Apocrea freming, as highly specific in terms of the establsihed cosmology. And yet, we had no direct information on the tangibility of Sleeper's dreams.
+Sleeper's dreaming is a metaphysical state within which it had observed the events of Swarm opening the Void.
+
+The general idea of a different deity possessing the motif of dreams was already noted in the analysis of Apocrea. And yet, we had no direct information on the tangibility of Sleeper's dreams, other than its location within the Core.
 
 There are locations within the Core, which are referred as dreams, which makes the act of dreaming connected to physical reality.
 
-If we follow with this concept further, we arrive to the nature of the act of dreaming itself. If the [Sanctuary]() is a metaphysical dream, and a location, then _creation of a dream can be safely interpreted as an act of creation_. The creation of Core Skydomes' contents, such as Refuge or Sanctuary may well fit to this idea, given that the matter they are constructed is of the same type as one appearing across Whitesapce of the Core. The addition of ghost blocks and Whitespace matter seems _as direct acts of creation of matter_, which, given Whitespace's abstract architecture, are seemingly assembled into larger structures.
+If we follow with this concept further, we arrive to the nature of the act of dreaming itself. If the [Sanctuary]() is a dream, and a location, then _creation of a dream can be interpreted as an act of creation_. The creation of Core Skydomes' volume, such as Refuge or Sanctuary, fits to this requirement, given that the matter they are constructed is of the same type as one appearing across Whitesapce of the Core.
 
-But, there are evident transitions from those abstract shapes to matter of material realm, in the [Step Beyond](), [Refuge]() and [Sanctuary](). it can be thought of as a continuous act of matter being refined to a common form - which is a direct change of energy to matter as a mediums. There is also instance of the Unknown Passage as matter from Whitespace is integrated with the metal of Clockwork tunnels.
+As Whitespace matter is manipulated to appear, it is seen _as direct act of creation of matter_ which, given abstract architecture of Whitespace, seemingly assembles it into larger, functional structures.
 
-Yet, we have not observed creation of metal tunnels from Whitespace nor grass, which found in Refuge and Sanctuary. The fact that divine Clockwork tunnels are in the Guild Hall may be a case of those tunnels being built in the Core or with an intention to remain within the Core, as tunnels of skydomes containing Refuge and Sanctuary.
+There are evident transitions from abstract shapes of Whitespace to matter of material realm -- across [Step Beyond](), [Refuge]() and [Sanctuary](). it can be thought of as a continuous act of matter being refined to a common form -- which is a direct change of energy to matter as a medium. There is also instance of the Unknown Passage as matter from Whitespace is integrated with the metal of regular Clockwork tunnels.
 
-The transition from regular matter to Whitesapce can only be distinguished so far from the idea of Whitespace mimicking the tunnels, rather than transforming itself into matter of tunnels. Presence of blast furnaces across Clockworks would not then be required, as contents of the Core could have already provided resourced necessary.
+Yet, we have not observed creation of metal tunnels from Whitespace nor grass which found at the Refuge and Sanctuary. The fact that divine Clockwork tunnels are in the Guild Hall may be a case of those tunnels being built in the Core or with an intention to remain within the Core, similar to white skydomes containing Refuge and Sanctuary.
 
-Duw to this, we are taking as a working theory the following: __Sleeper's act of dreaming manifests in reality matter of Whitespace and assembles it into larger structures__. _Divine Clockworks tunnels are built by gremlins as service tunnels within the Core_, as much as skydomes and Clockwork tunnels outside of the Core.
+The transition from regular matter to Whitespace can only be distinguished so far from the idea of Whitespace mimicking the tunnels, rather than transforming itself into matter of tunnels. Presence of blast furnaces across Clockworks would not then be required, as contents of the Core could have already provided resourced necessary.
 
-##### The Engine
+Due to this we propose a working theory as following -- __Sleeper's act of dreaming manifests in reality matter of Whitespace and assembles it into larger structures__, __while the Divine Clockworks tunnels are built by gremlins as service tunnels within the Core__ under the same engineering principles as the rest of Clockwork tunnels outside of the Core.
 
-Here, we also have a suggestion from Danford's perspective on the cosmology of the world: `waiting for their dark shroud to return this cosmic play to its primordial black`, which fits with the idea of massa confusa as the initial alchemical state of the world.
+#### The Void: Part 5: Primordial Black, Massa Confusa, The Void
+
+Here, we also have a suggestion from Danford's perspective on the cosmology of the world, `waiting for their dark shroud to return this cosmic play to its primordial black`, which fits with the idea of massa confusa as the _initial, alchemical, unfettered state of the world_.
 
 As it is described as void, primordial black, and _as we have seen the difference between black and purple in the form of Swarm's Void, Underworld's shadow energy, and obsidian designs_, we are left with a binary choice of either:
 
-- __Identifying the primordial black__, the sublime emptiness, where souls are tunneled, __as Swarm's Void__.
-- __Making Swarm's Void a separate concept from Apocrea's void__.
+- __Identifying the primordial black__, and `Only souls can fill their void, sublime in its vast emptiness`, __as Swarm's Void__.
+- __Making the Void a separate concept from Apocrea's primordial blackness__.
 
-The engines screams which parallels the idea of hunger of the Swarm, as both could be using the void as a tool, and both being seemingly powered by forms of energy, primarily souls.
+The engines' scream parallels the hunger of the Swarm, as _both possess an organic motif_ and _both are seemingly powered by forms of energy, as souls_, but not limited to them in case of the Swarm.
 
 `WHAT IT WAS BEFORE IT IS NO MORE. NEITHER BEAST NOR GOD, IT IS A CREATION UNLIKE ALL.` (Echo Stone: Firestorm Citadel)
 
-As concept of godhood was explored in relation to Whitespace and general definition of divinity on Cradle, relating to Sleeper, Spirit Mother, Valkyrian Riders, and nature of Nameless Realm, the beast is covered only through organic and alchemical motifs.
+As concept of godhood was explored in relation to Whitespace and general definition of divinity on Cradle, relating to Sleeper, Spirit Mother, [Riders](#lesser-creaton-myth), and [nature of Nameless Realm](#divinity-of-nameless-realm), the beast is covered only through organic motif.
 
-For this, we need to proceed with the study beast's motif, which _evidently characterizes the Swarm_. Due to this, we can consider both the concept of god and of beast to be present in the Swarm individually, but their totality is the vague, incomplete nature of the Swarm.
+For this, we need to proceed with the study of beast's motifs which _evidently characterizes the Swarm_. Due to this, we can consider both _the concepts __of god and of beast__ _to be present in the Swarm_ individually, but their totality is the vague, incomplete nature of the Swarm, as _they remain particularly abstract from the precise nature of each deity or beast encountered_.
 
-The other conclusion is the particular similarity of Apocrean engines, which function as devices of accelerating approach of the primordial black, and of Swarm with its hunger and metaphysical consumption. But, in order to connect unconnected and unrelated designs of the Swarm and Apocrean Realm, we have to search for further clues.
+The other conclusion is the particular similarity of Apocrean engines, which function as devices interfacing with the primordial black, and of the Swarm with its hunger and metaphysical consumption, potentiially refered as darkness by the Sleeper. But, in order to compare those unrelated intentions and designs of the Swarm and Apocrean, we have to search for further clues.
 
-As we have already explored Sleeper's act of dreaming, the Sanctuary Alchemy Machine becomes a dremt into existence device, which _through symbolism, links alchemy to primordial philosophical water as prima materia, due to which the capacity to transmute - as a crucible and a vessel, - emerges_. If the device of such complexity does exist, and is replicated across Clockworks, what are the ablities of Apocrea as a deity also identified to be capable of creating devices of aforemnetioned complexity and ultimate purpose, likely surpassing localized ability to perform transmutations?
+As we have already explored Sleeper's act of dreaming, the __Sanctuary Alchemy Machine becomes a dreamt into the existence device__ which, __through symbolism of water and roots, links its alchemy to primordial philosophical water as prima materia__, due to which the capacity to transmute matter emerges.
 
-In regards to Whitespace and its accent on simple geometry, we also observe a potential development in relation to Apocrean Realm proper: `Within cities where geometry and madness share meaning, constructed from thought, from unnatural impulse, the Apocrea dream dark machines into being` ([Professor Allister Danford](https://forums.spiralknights.com/en/node/91276)). Could it be that the deeper Apocrean Realm has similar design to Whitespace, as now both seem to be the results of eldritch deities dreaming?
+If the device of such complexity does exist, and is replicated across Clockworks, [so far proposed to be created by Isorans](#isoran-alchemy-stations), what are the ablities of Apocrea as a deity also identified to be capable of creating devices, _notably Obelisk of Creation_, of aforemnetioned complexity and ultimate purpose, likely _operating with multiple realms, given specificity of obsidian weapons_?
 
-As the result of both dreamers manifests special matter assembled into complex structures, we would further link matter of Whitespace to one dreamt by Apocrea. Weather it is obsidian, or other matter, equivalent in its unnatural properties to Whitespace, remains unknown and leaves a large gap for speculation based only on the themes and eldritch narratives.
+In regards to Whitespace and its accent on simple geometry, we also observe a potential development in relation to Apocrean Realm proper, `Within cities where geometry and madness share meaning, constructed from thought, from unnatural impulse, the Apocrea dream dark machines into being` ([Professor Allister Danford](https://forums.spiralknights.com/en/node/91276)). Could it be that the deeper Apocrean Realm has similar design to Whitespace, as now both seem to be the results of eldritch deities dreaming?
+
+As the result of both dreamers [manifests special matter assembled into complex structures](#unnatural-stone-of-apocrean-realm), we would further link matter of Whitespace to one dreamt by Apocrea. It lead to a following concept -- __what is matter of Whitespace to Sleeper, so obsidian is to Apocrea__.
 
 #### Organic Motif and Duality
 
-We have suggested, that the reason for the current state of Cradle is responsible a culprit, which had to possess and introduce an organic motif to the concept of megastructure and a narrative.
+We have suggested, that the reason for the current state of Cradle is responsible a culprit, which had to [possess and introduce an organic motif to the concept of megastructure and a narrative](#the-void-part-3-swarm-as-the-symbolic-beast).
 
-Architect's madness, his betrayal, opening of the Void by the Swarm in its hunger are all events, connected both in causality and themes. In present time there is Herex, which aligns himself with the Swarm, and concept of madness sourced from Apocrea.
+Architect's madness, his betrayal, opening of the Void by the Swarm in its hunger, are all events, connected both in causality and themes. In present times it is Herex, who aligns himself with the Swarm, and concept of madness sourced from Apocrea.
 
-Given position of the Architect and references to king Tinkinzar, it seems that the Clockworks were near completion or at a set pace by the time king went mad, in order to earn his title of an architect. So, some event had happened, which was not expected by the `mechanical genius`, which also lived through Clockworks' construction if we take this concept of the king as a living figure, rather than an idea propagated by Crimson Order.
+Given position of the Architect and references to king Tinkinzar, it seems that the Clockworks were near completion or at a set pace by the time king went mad, _in order to earn his title of an architect from Sleeper_. An event had happened, which _was not expected by nor from the_ `mechanical genius` which also lived through Clockworks' construction if we commit to concept of [the king as a living figure](#intent-and-symbolism-of-gremlin-emblems).
 
-This could plausibly, albeit without evidence, be the same time Tinkinzar had disappeared, as we have discussed on Pakrat speaking of the king as if he saw him: `Tinkinzar not seen for many many years. Crimson Order carries out Tinkinzar's plans for Cradle. Emberlight was blight on master plan because built by outcasts. Haven was probably the same, founded by non-Gremlins` ([Pakrat](https://wiki.spiralknights.com/Pakrat#Dialogue)). This would mean, tat Iron Law is, while being established in response to Swarm's danger, a a recent development within gremlin society. Weather this is true, is still unknown, but it is a point we have to keep in mind.
+This could plausibly, albeit without evidence, be the same time Tinkinzar had disappeared, `Tinkinzar not seen for many many years. Crimson Order carries out Tinkinzar's plans for Cradle. Emberlight was blight on master plan because built by outcasts. Haven was probably the same, founded by non-Gremlins` ([Pakrat](https://wiki.spiralknights.com/Pakrat#Dialogue)). This would mean, that Iron Law is, while being established in response to Swarm's danger, as a recent development within gremlin society.
 
-With consideration of this idea, disappearance of the king may be a hint of his madness. At the same time, _this parity of madness and absence had reminded us of Herex due to his disappearance in the eyes of Crimson Order_, explained by his plot.
+With consideration of this idea, disappearance of the king may be a hint of his madness, as there must exist a reason for this event to be noted by Pakrat. At the same time, _this parity of madness and absence had reminded us of Herex due to his disappearance in the eyes of Crimson Order_, [explained by his plot](#herexs-treason).
 
-This parallel alone places Herex and Tinkinzar in a similar positions, whose individual perception of the resonance or the truth is seemingly twisted.
+_This parallel alone places_ __Herex and Tinkinzar in a similar positions, whose individual perception of the resonance or the truth became twisted at a certain point__.
 
-##### Black Kats' Hunger
+As much as we have focused on the idea of an organic motif from Swarm's designs and principle of hunger, hunger itself was present earlier in the nature of Black Kats, `These shadowy beasts hunger for arcane power and raided the Moorcroft Manor Archives' precious collection of magical grimoires` ([Kataclysmic Confrontation](https://wiki.spiralknights.com/Kataclysmic_Confrontation)).
 
-As much as we have focused on the idea of an organic motif from Swarm's designs and principle of hunger, hunger itself was present earlier in the nature of Black Kats: `These shadowy beasts hunger for arcane power and raided the Moorcroft Manor Archives' precious collection of magical grimoires` ([Kataclysmic Confrontation](https://wiki.spiralknights.com/Kataclysmic_Confrontation)).
+We have covered Black Kats [earlier](). It does seem that the erasure of Kat Tribe by Kataclysm, their banishment to Underworld, had also affected them in their undeath. They search for Owlite tomes [even as reincarnation as battle sprites](). The notion of seemingly past civilization at their final state being manifested in vessels of e-class battle sprites -- as a phenomenon from effects of the Core -- by itself has no similarities across Cradle. Then, the act of past civilizations emerging in place of battle sprites became more so complex as we have covered Maskeraith.
 
-We have covered Black Kats [earlier](). It does seem that the erasure of Kat Tribe by Kataclysm, or their banishment to Underworld, had also affected them in their post-mortem state. They search for Owlite tomes even as reincarnation as battle sprites. The notion of seemingly past civilization at their final state being manifested in vessels of e-class battle sprites - as a phenomenon from effects of the Core - by itself has no similarities across Cradle. Then, the act of past civilizations emerging in place of battle sprites became more so complex as we have covered Maskeraith.
+Maskeraith's case offered a potential for the same nature of the Core to be coupled with imprint of Underworld, allowing curse to exist in those reincarnations. And, those reincarnations were of such great importance for the Collector to collect them early to Isorans' arrival. We can conclude that Crimson Order at that point already knew of the side effects of Core's influence onto technology intoduced to the unique metaphysical state of Cradle permeating with mist energy.
 
-Maskeraith's case offered a potential for the same nature of the Core to be coupled with imprint of Underworld, allowing curse to exist in those reincarnations. And, those reincarnations were of such great importance for the Collector to collect them early to Isorans' arrival.
+While keeping this narrative of Kats in mind, we also bring up the Book of Grey Feathers which, despite its name, had energy aura radiating from the [same principle of fiendish sigils forming text](), as [fiendish circles of art](). And by that principle, the misapplication of this power was the reason for [Underworld being brought metaphysically closer to material realm]() on Cradle and surrounding Owlite Academy as the epicenter of the Kataclysm.
 
-While keeping this narrative of Kats in mind, we also bring up the Book of Grey Feathers, which, despite its name, had an energy aura radiating from the [same principle of fiendish sigils forming text](), as [fiendish circles of art](). And by that principle, the ill-application of this power was the reason for Underworld being brought metaphysically closer to material realm on Cradle and surrounding Owlite Academy as the epicenter of the Kataclysm.
+In this case we observe a seemingly divine tool operating by principles, which are common with other realms. This is the parallel which we have seen multiple times, but now with the addition of Apocrea and Sleeper, energy and the Void, we observe a distinct presence of __opposites with a common physical foundation__.
 
-In this case we observe a seemingly divine tool operating by principles, which are common with other realms. This is the parallel which we have seen multiple times, but now with the addition of Apocrea and Sleeper, energy and the Void, these is a distinct presence of __opposites with a common foundation__.
+As The Book of Grey Feathers was the cause of Kataclysm, we observe a narrative, where __prime thematic tools__, in case of Owlites being magic tomes, __become the catalyst for civilization's downfall__.
 
-As The Book of Grey Feathers was the cause of Kataclysm, we observe a narrative, where __prime thematic tool__, - in case of Owlites magic tomes, - __becomes a catalyst for civilization's downfall__. In case of gremlins and their merging of alchemy and science, as Isorans notably, the fundamental principle which powers their civilization - Sleeper's power adjacent to dreaming, - comes back around in the form of the entity of same metaphysical principles - being the Swarm in its similarity to environment of the Core. More so, with a _distinct power over undeath, compared to the object of such reflection, framed as combatting the undeath_.
+__This association is reminicent of the earlier proposal of the key technology of those civilizations becoming their downfall while being the reflections of the first matter through their unique perspectives as methods of understanding their present reality__.
+
+In case of gremlins and their merging of magic and science, the fundamental force which had allowed them to create Clockworks -- Sleeper's power adjacent to dreaming, -- comes back in the form of the entity of same appearance as Whitesapce, being the Swarm in its similarity to environment of the Core. This does not mean that that nature of the Swarm is one of Whitespace, but we presume an overlap between them because of their appearances are so similar.
 
 Now we will attempt to observe state of Kat Tribe in their undeath and of Void monsters of the Swarm as two results of the same pattern.
 
-If Kataclysm brought Underworld to material realm for a civilization of heavenly kingdom, could this degree of proximity be also mirrored? By that we mean - as much as heavenly kingdom was between material realm and Nameless Realm, could darkness of Owlite Academy be on the same distance from the material realm to its source?
+If Kataclysm brought Underworld to material realm for a civilization of heavenly kingdom, could this degree of proximity be also mirrored? By that we mean -- as much as heavenly kingdom was between material realm and paradise, could darkness of Owlite Academy be on the same distance from the material realm to its source?
 
-If we assume so, then an intervention with an entity of Whitespace would lead to its transformation - paralleling Black Kats, - to an entity of the same proximity to an opposite of Nameless Realm or Whitespace - being the Void, which we already found to be conceptually close to the prior.
+If we assume so, then an intervention with Whitespace would lead to its transformation, paralleling Black Kats, into an entity of the same proximity to an opposite of divienity and excess of energy -- being the Void _in its lack of energy_, since the Swarm opened the Void and requires energy to grow.
 
 As we take this as a working hypothesis, we may also inspect the other references to the nature of the Swarm by Sleeper:
 
 `IT DEVOURED THE KNOWLEDGE OF TIME... MEMORIES OF THE DEAD... THE HEARTS OF KINGS AND THE SOULS OF THEIR PEOPLE... GOOD AND EVIL... IT CONSUMED.` (Echo Stone: Firestorm Citadel)
 
-Swarm's hunger, as Black Kats' hunger, is similar, as in both cases it targets the energy and soul, while transcending matter. Sleeper's quotes in regards to Swarm's power to consume is what we will explore next.
+Swarm's hunger is similar to Black Kats' hunger as in _both cases this hunger targets energy, as the soul and an aura_, while transcending matter. Sleeper's quotes in regards to Swarm's power to consume is what we will explore next.
 
 ##### Sleeper's definition of The Swarm
 
