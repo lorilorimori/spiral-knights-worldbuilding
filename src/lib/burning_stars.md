@@ -8250,19 +8250,19 @@ Presence of bombies in that context may be explained in following ways:
 
 #### Grim Totems: Part 2: Undead Dreadnoughts and Binding
 
-Finally, [Static Dreadnoughts](https://wiki.spiralknights.com/Static_Deadnaught#Static_Deadnaught) have unique, futuristic design of shoulder pads and arm guards same as other shock-themed undead discussed above. Those instances of [Static Dreadnoughts](https://wiki.spiralknights.com/Static_Deadnaught#Static_Deadnaught) are ost associated with Dry Docks and Iron Hulk depths of Isoran vessel, but general presence of Dreadnoughts is not limited to this location, present also in all variants Firestorm Citadel.
+[Static Dreadnoughts](https://wiki.spiralknights.com/Static_Deadnaught#Static_Deadnaught) have unique, futuristic design of shoulder pads and arm guards same as other shock-themed undead discussed above. Those instances of [Static Dreadnoughts](https://wiki.spiralknights.com/Static_Deadnaught#Static_Deadnaught) are most associated with Dry Docks and Iron Hulk depths of Isoran vessel, but general presence of dreadnoughts is not restricted to this location.
 
 Notably, it is the design of Static Dreadnoughts' shoulder pads which is similar to design pattern of 3-star pulsars, specifically [Kilowatt Pulsar](https://wiki.spiralknights.com/Kilowatt_Pulsar), with its _2 vertical lines_ being present. More so, pulsars' drawn patterns seem to suggest a symbolic application depending on the utilized element or status effect.
 
 All Dreadnoughts wear an armor, the Almirian Guards even have proper crusader armor. While this factor was important in relation to our proposal of nature of zombies as Isorans, Dreadnoughts still remain as ones _far surpassing any living species in their scale_, comparable to Lord Vanaduke, more associating with giants than anyone else - an idea, that was suggested when we had inspected [Ancient Plate Armor](https://wiki.spiralknights.com/Ancient_Plate_Armor): `A suit of artifact armor that is said to have been worn by titans. Though it offers amazing protection, its incredible weight makes it cumbersome to wear`.
 
-But, apart from their scale, one common element allows us to understand the nature of dreadnoughts, - their ability to resurrect recently fallen undead as long as perished undead's skull remains intact. This requires us to analyze grim totems now _with all knowledge of current metaphysics in attempt to properly define this power of resurrection_.
+But, apart from their scale, one common element allows us to understand the nature of dreadnoughts, -- their ability to resurrect recently fallen undead as long as perished undead's skull remains intact. This requires us to analyze grim totems now _with all knowledge of current metaphysics in attempt to properly define this power of resurrection_.
 
 By its nature, grim totem is a mechanism originating from the Underworld as its occult-themed technology with accent on purple energy and incorporation of face-like patterns.
 
-The principle behind the resurrection, through observation, is one of a visible wave of purple energy which, as it propagates over an area, resurrects recently deceased undead from their remaining skulls and reconstructs their bodies.
+The principle behind the resurrection, through observation, is one of a _visible wave of purple energy_ which, as it propagates over an area, resurrects recently deceased undead _from their remaining skulls_ and reconstructs their bodies.
 
-This description is reminiscent of Grantz's description of Firestorm Citadel, specifically, the way Lord Vanaduke's will manifests: `Their broken, burnt frames crumbling and rising once more, ready for another battle. And just as they refuse to fall, so does the burning ruin around them. It is almost as if this whole realm is trapped in a single moment from some forgotten time, never changing, never allowing itself to finally turn to ash. ... You can feel it in the smoldering air - an eternal will holding this place together, never allowing its inhabitants to rest` ([Recon Module: Firestorm Citadel - Grantz](https://wiki.spiralknights.com/Artifact)).
+This description is reminiscent of Grantz's description of Firestorm Citadel, specifically, the way Lord Vanaduke's will manifests, `Their broken, burnt frames crumbling and rising once more, ready for another battle. And just as they refuse to fall, so does the burning ruin around them. It is almost as if this whole realm is trapped in a single moment from some forgotten time, never changing, never allowing itself to finally turn to ash. ... You can feel it in the smoldering air - an eternal will holding this place together, never allowing its inhabitants to rest` ([Recon Module: Firestorm Citadel - Grantz](https://wiki.spiralknights.com/Artifact)).
 
 If we also refer to the idea of spirits returning to material realm on Cradle, we may operate in terms of spirit leaving and returning to the body, [haunting it](), allowing resurrection to happen, as it was observed in case of fallen Isoran vessel during events of [Ghost in The Machine]() danger mission.
 
@@ -8270,13 +8270,13 @@ If we also refer to the idea of spirits returning to material realm on Cradle, w
 
 <!--Could it be, that the same phenomenon happens in regards to graveyards and other instances of undead reacting to presence of the living, such cases being the Phantoms of graveyards and Grimalkin across the Candlestick Keep? This proposal would fit within our operational framework.-->
 
-Across cultures, it is variable when the soul leaves the body, and in case of our cosmology, we have seen instances of soul leaving instantly - as when Lord Vanaduke was defeated, - with his body remaining and the traces of his [soul with curse being linger within the armor - as finery]().
+Across cultures, it is variable when the soul leaves the body, and in case of our cosmology, we have seen instances of soul leaving instantly, as when Lord Vanaduke was defeated, with his body remaining and the traces of his [soul with curse being linger within the armor as his retrived finery]().
 
 In case of zombies, presence of a soul is characterized by glowing eyes. And then there are skulls themselves which function as corporeal containers for the souls. This logic previously had allowed us to provide a system, where souls is meant to inhabit the body through the head, and that concept allowed us to explain nature of Lord Vanaduke's mask as the container for lord's soul.
 
-But, the energy emission of the totem does not affect dreadnoughts themselves. More so, the resurrected zombies do not contain heat -- a shared property with the Void monsters of the Swarm. As we don't yet know nature of heat, it should be a speculation to assume, that the resurrected lack souls, but rather that the essential vitality of one's being is revoked by forceful rebinding of the soul, but, this interpretation, too, depends on the nature of the heat as metaphysical matter used to infuse weapons.
+But, the energy emission of the totem does not affect dreadnoughts themselves. More so, the resurrected zombies do not contain heat -- a shared property with the [Void monsters of the Swarm](). As we don't yet know nature of heat, it would be a speculation to assume that the resurrected beings lack souls, but rather that the _essential vitality of one's being is revoked by forceful rebinding of the soul_. This interpretation, too, depends on the nature of the heat as metaphysical matter used to infuse weapons.
 
-Instead, we can attempt to explain it from the _perspective of other devilite technology_ - the cases being of a soul-energy motif:
+Instead, we can attempt to explain it from the _perspective of other devilite technology_ -- the cases being of a soul-energy motif:
 
 - Fiendish glyphs, whose operation is of data and energy storage. The latter application is essential for operation of grim gates, which tap into teleportation and transportation over realms.
 - Usage and storage of souls indefinitely in everfrost.
@@ -8289,7 +8289,7 @@ Those factors, this motif of dark matter and energy being tethered together in o
 
 At the same time, that is a case of Blackened Shrine, which is most likely a fiendish device, as suggested by [magma cult]() and [our exploration of this culture](). The shrine has bound Lord Vanaduke's soul to the body, transforming the latter. Compared to this, grim totem only resurrects, but does not transform, albeit it is seen only being used on undead, rather than fiends or the living.
 
-With this, we propose that it is the soul which is rebound to a corpse, _it is being empowered by emitted dark energy of the totem_, which operates as a dread seal placed onto a creature, but in a single instance of that wave of binding energy.
+With this, we propose that it is the soul which is rebound to a corpse, _it is being empowered by emitted shadow energy of the totem_ which operates as a [dread seal]() placed onto a being.
 
 ##### Grudge of the Undead and Dark Matter Emissions
 
@@ -9632,8 +9632,6 @@ If we continue to draw parallels between nature fo Whitespace as extension of Na
 - Forcing matter to disappear, as suggested by the nature of ghost blocks and environment of Whitespace within the Core.
 - Manufacturing Clockwork tunnels of a unique kind, unless those are depicted as consumed by Whitespace, as if being abstracted to maintain their function, while the nature of ghost blocks further alludes to a less material nature of Whitespace.
 
-<!--The Swarm, through its role as an opposite of Whitespace yet bearing its nature, we propose, can be speculated as a flawed end of the process of `The precious substance is potentially contained in this chaos as a massa confusa of all the elements rolled into one, and man must diligently apply his mind to it so that “our heaven” may come into reality (ad actum)`.-->
-
 As we approach the Void through the Swarm we have to acknowledge widespread presence of opened eyes in association with the Swarm. The eye symbolism can not be discussed _without acknowledgement of the curse and Underworld as different, yet consistent carriers of this design_.
 
 In relation to the Nameless Realm, there is [Chaos Cloak](), which encompasses curse into its properties, `A forbidden mantle said to grant the wearer protection within the nameless realm where all elements are said to converge into one and divide into all` ([Chaos Cloak](https://wiki.spiralknights.com/Chaos_Cloak)), and chaos of [Dark matter](https://wiki.spiralknights.com/Dark_Matter#Dark_Matter), `dark and ominous in color said to contain the essences of both chaos and nothingness`. Those dualities are similar to the alchemical first matter in its unrefined, unfettered state -- `The unfettered opposites in chaos. “Chaos” is one of the names for the prima materia. The mercurial dragon of Greek alchemy, surnamed ἕν τò πᾶν gave rise to descriptions of the prima materia as Unum, Unica Res, and Monad and to the statement in the “Liber Platonis quartorum” that man is well qualified to complete the work because he possesses that which is simple, i.e., the soul. Mylius describes the prima materia as the elementum primordiale. It is the “pure subject and the unity of forms,” and in it any form whatsoever may be assumed (in quo retinetur quaelibet forma cum possibilitate)` (Psychology and Alchemy - Carl Jung), which, given Dark Matter as a potent power source, may be a variation of the prior in the same manner as energy, further solidifying the transitional state of all power sources and energy mediums as origination from a common fundamental principle.
@@ -9797,155 +9795,155 @@ Swarm's hunger is similar to Black Kats' hunger as in _both cases this hunger ta
 
 ##### Sleeper's definition of The Swarm
 
-Compared to Black Kats, Swarm has an ambiguous nature, which not only is framed differently, but its name itself serves great importance. The Swarm, as entity's name, was revealed by Sleeper in the [Echo Stone: Firestorm Citadel](): ``. And was used as such by Parma in the Refuge, being mentioned briefly.
+Compared to Black Kats, Swarm has an ambiguous nature, which not only is framed differently, but its name itself serves great importance. The Swarm, as entity's name, was revealed by Sleeper and presumably adopted by the Alpha Squad, since they are the first Isorans to reach Sleeper.
 
-Due to this short introduction, compared to Shadow Lairs' one within the Sanctuary, we have speculated weather Alpha Squad had their own experiences with the contents of Echo Stones. We affirmed this proposition by the very fact of a dreaming motif of Sleeper being reflected in its name, as it is labeled so by Alpha Squad. And, as the Swarm was also a name which was mentioned by Parma, and introduced in the finale of Shadow Lairs, it becomes a term, derived from Isorans' interaction with the Sleeper.
+We have speculated whether Alpha Squad had their own experiences with the Echo Stones or by other mean of introducing Swarm's danger. We affirmed this proposition by the very fact of a dreaming motif of Sleeper being reflected in its name, as it is labeled so by Alpha Squad. And, as the Swarm was also a name which was mentioned by Parma, and introduced in the finale of Shadow Lairs, it becomes a term, derived from Isorans' interaction with the Sleeper.
 
-After that we also noted on the remote safe location, where Parma was located, one that is not the Refuge, suggesting it to be adjacent if not the Sanctuary itself. Due to those notions, we have to look at the term of the Swarm itself as it is used by the Sleeper.
+After that we also noted on the remote safe location, where Parma was located, one that is not the Refuge, suggesting it to be adjacent to if not the Sanctuary itself. Due to those notions, we have to look at the term of the Swarm itself as it is used by the Sleeper.
 
-As we have discussed the quotes within Echo Stones, Sleeper utilizes very obscure or vague terms for objects within the material realm and Cradle - __as act of dreaming was metaphysical and its result being physical, so the Swarm should be looked at upon through this perception__.
+As we have discussed the quotes within Echo Stones, Sleeper utilizes very obscure or vague terms for objects within the material realm and Cradle, _while act of dreaming was metaphysical and its result being physical, so the Swarm should be looked at upon through this perception_.
 
-On the same manner, the act of consumption, as it was described to be practically metaphysical, has physical effects, which, given further framing, seem to be reflected in Cradle's history. As we have Swarm's themes, and operate predominantly through those, as the metaphysical property of Swarm's presence is acknowledged directly by Sleeper, the name of the Swarm as a hint at its nature remains currently unexplored aspect of its nature, which requires us to study its manifestations individually.
+In the same manner, the act of consumption has physical effects, which, given further framing, seem to be reflected in Cradle's history. As we have Swarm's themes, and operate predominantly through those, as the metaphysical property of Swarm's presence is acknowledged directly by Sleeper, the name of the Swarm as a hint at its nature remains currently unexplored aspect of its nature which requires us to study its manifestations individually.
 
-Due to this, we will start from most direct definition of Swarm's effects as they are described by the Sleeper, and through those, we will approach physicality of the Swarm.
+Due to this, we will start from most direct definition of Swarm's effects as they are described by the Sleeper, and through those, we will approach physicality and, eventually, nature and origin of the Swarm.
 
 ##### `THE HEARTS OF KINGS AND THE SOULS OF THEIR PEOPLE`
 
-As kings and people are mentioned, we immediately have started to look for similarities or parallel across known kingdoms.
+As kings and people are mentioned, we immediately have started to look for relevant kingdoms.
 
-There is, of course, Almire, and 2 kingdoms which had invaded it, as derived from Almire's Fall. We identified those 2 kingdom as the Ironmight kingdom and loosely defined faction of Raiders, as fitting for the same period of time. There is also heavenly kingdom of Valkyries, which had not seemingly intervened with the warring kingdom, if it is not one of the 3 warring kingdoms.
+There is, of course, kingdom of Almire, and 2 kingdoms which had invaded it, as derived from Almire's Fall. We identified those 2 kingdom as the Ironmight kingdom and loosely defined faction of Raiders, as fitting for the same period of time. There is also heavenly kingdom of Valkyries, which had not seemingly intervened with the warring kingdoms.
 
-With this, other than Almire, Ironmight and heavenly kingdom, there are no other significant to the history kingdoms.
+Gremlin civilization on Cradle also can be identified as a kingdom through title of gremlin king.
 
-Then, the fact that this quote was presented after Shadow Firestorm Citadel, seems as an intentional design choice, of the same pattern of Shadow Ironclaw Munitions Factory being related to Echo Stone, which had introduced the Architect and the Pact, relating those to gremlins. Under this paradigm we are drawn to associate Almire's Fall, the cursed immortality of Lord Vanaduke and of his people to one connected with the Swarm, although indirectly, given Sleeper's vague terminology.
+Yet, only Almirian and gremlin kings had an ailment -- Lord Vanaduke's delusion or Tinkinzar's madness.
+
+Then, the fact that this quote was presented after Shadow Firestorm Citadel, seems as an intentional design choice, of the same pattern of Shadow Ironclaw Munitions Factory being related to Echo Stone, which had introduced the Architect and the Pact, relating those to gremlins. Under this paradigm we are drawn to associate Almire's Fall, the cursed immortality of Lord Vanaduke and of his people to one connected with the Swarm, although indirectly, given Sleeper's vague terminology, since the only relation there is to be observed is presence of the Swarm at Citadel's throne room.
 
 Due to narrative of kings' and peoples' souls being consumes, we can select 2 interpretations of that phrase, corresponding to Almire and heavenly kingdom respectively.
 
-###### Case of Almire
-
 If we develop further this idea, then the transformation of Lord Vanaduke through curse, as if his heart was consumed, then souls of king's people is, likely, the state they are found - the Legion of Almire of undead, including cursed Carnavons. As all are classified as undead, and the fiery souls are released only by the time Lord Vanaduke is defeated and the Citadel start to crumble due to lack of `an eternal will` to keep it persisting, it can be a potential theme to link both undeath and Swarm as unnatural occurrences in the material realm.
 
-_The case of Void zombies is them more so interesting, suggesting Swarm's power over concepts of life and death_, and, by proxy, curse.
+While we do not know of the exact relation of void monsters with the void, the act of them appearing as in this context zombies, suggests [power of the void or Swarm over undead state of being](#the-void-part-2-massa-confusa).
 
-The latter is a result of Nameless Realm and Void being mirror states of each other, while containing all of world's elements. Weather curse is tied to nature of the Swarm, with all consideration of their different designs and themes - is unknown, as the multitude of curse's manifestations in the material realm varies significantly. But, this is a reason for us to remember an earlier question of what if curse were to be applied to nature of Whitespace?
+_The case of Void zombies is them more so interesting, suggesting Swarm's power over concepts of life and death._
+
+<!--The latter is a result of Nameless Realm and Void being mirror states of each other, while containing all of world's elements. Weather curse is tied to nature of the Swarm, with all consideration of their different designs and themes - is unknown, as the multitude of curse's manifestations in the material realm varies significantly. But, this is a reason for us to remember an earlier question of what if curse were to be applied to nature of Whitespace?-->
 
 The other possibility is the Shadow Firestorm Citadel, which is connected to the Swarm by its presence in the Throne Room and the general location of this Citadel in the Shadow Lairs. The fact of _Swarm empowering any entity, disregarding its mechanical or cursed state seems as as much valid as Mender's or Silkwing's ability to heal_.
 
-If so, Darkfire Lord Vanaduke would remain as a single king, whose heart was consumed by a more commonly known curse. The rest of his people - their souls - would be consumed by the fact of curse afflicting them - as Carnavons. Presence of the Swarm here seems to unconventional, or, one which encompasses nature of curse, as __two are linked by Sleeper's vague intent to convey crucial information while showing it through Shadow Lairs__.
-
-###### Case of heavenly kingdom
-
-The prime argument of this interpretation is based on the vague results of Kataclysm - of Owlites and valkyries seemingly disappearing, while Kat Tribe became undead. In this framing Kats are most reminiscent of Almire's state in present time, as final nature of both at some point _relates back to nature of curse_, and, in both cases nature of Underworld is explored.
-
-But, compared to Almire, there are no kings seen in relation to paradise. The only figure which could be one of a king was in our proposal of Celestial Kingdom and Jade Emperor being a potential inspiration, to which we had arrived through a location of heavenly kingdom on top of the mountains. There, we suggested a possibility of Spirit Mother and Nature Sprites originating from that location, being in proximity of Nameless Realm or one closely related to divinity of Whitespace.
-
-But, despite those suggestions, this thread was left mostly thematic, with no direct evidence, providing only theoretical thematic conclusions.
+If so, Darkfire Lord Vanaduke would remain as a single king, whose heart was consumed by curse, which is [reminicent of the vague interpretation of trjans' cold hearts](#poisoned-minds-and-cold-hearts). The rest of his people -- their souls -- would be consumed by the fact of curse afflicting them. Presence of the Swarm here seems unconventional, or, one which _encompasses influence of Underworld, which would frame the Swarm as an instrument of gremlin's downfall derived of their discovered technology_.
 
 ##### `THE KNOWLEDGE OF TIME`
 
-The knowledge of time could be interpreted as removal of any elements through which a chronology could be reconstructed, which is partially due to nature of Cradle. It is also nature of Spiral Order as one encompassing several epochs into a greater paradigm which is embodies by the style of combat Isorans utilize.
+The knowledge of time could be interpreted as removal of any elements through which a chronology could be reconstructed, which is partially true due to structure of Clockworks, despite its skydomes containing the past civilizations.
 
-Alchemy on its own has priorities, which surpass time, evident by the fact of transmutation of items from different epochs.
+As far as we can attept to link this phrase to the Swarm, we can only suggest an erasure of the means past civilizations were metaphorically consumed by Underworld through their complete destruction, which positions the Swarm as extension of Underworld, which would be possible only if we apply the pattern of gremlin technology being the casue of their downfall, herein identified as nature of Whitespace. Yet _this suggestion is too vague to be confidently related to this phrase specifically_.
 
-This interpretation can also be applied to Owlites, as those did document everything around them, even long gone kingdoms as Almire. So then the fact Kataclysm, stemming seemingly from dual nature of Nameless Realm, which Owlites did study, may be a symbolic way of saying them being erased - erasing knowledge of time as a records.
+##### `MEMORIES OF THE DEAD` and Void Souls
 
-Other mentions of time as a themes in such instances as Eternal Study of Scarlet Fortress and Valkyries as they are presented in myths, _also allude to greater importance of time to their culture_. The fact that they also fell to Underworld, through potential of Nefarious Imp's involvement only reaffirms our suspicions of Underworld's agents being present throughout Cradle's earlier history.
+Memories of the dead can be interpreted as souls, as their identity -- the consciousness -- resides within the souls, while the body operates as its aura made corporeal.
 
-And yet, the term, which Sleeper utilizes to describe this property of Swarm is too vague on ots own.
+Presence of souls was related to the unnatural state Cradle is in through direct influence of heavenly kingdom securing the paradise within material realm, assumed to be Whitesapce, [causing the beoundary between life and undeath to thinnen](#cradle-metaphysics-part-1-death-undeath-boundary).
 
-##### `MEMORIES OF THE DEAD`
+Previously we have explored all souls except for the Void Souls found within the Core.
 
-Based of the earlier analysis of the metaphysical state Cradle is found, as one where spirits return to material realm, we stopped at 2 potential sources of this change: The Core and Kataclysm.
+As Vog's curse had its effect of Firestorm Citadel's souls being tethered to their corporeal forms, as Isoran souls across Iron Hulk were returning by haunting constructs, as Frost Souls were as such due to existence in the Abyss below Underworld, __Void souls had to exist in a state related to nature of the Void__ manipulated by the Swarm. We can specualate that the act of consumtion of memories of the dead had allowed the Swarm to create void monsters in the first place, but this does not explain their nature. But, it hints at void's compatibility and ability to be infused with the souls, as well as, potentially ecosystem of Cradle.
 
-We have proposed that the Core had to be that phenomenon, as Kataclysm had to happen before Owlite Academy was incorporated into Cradle, and by nature of Void Souls within the Core. The Souls were always related to the unnatural state Cradle is in. But Void Souls present a case of, if we follow with other instances of souls, a potential means of their perishment in material realm.
-
-As Vog's curse had its effect of Firestorm Citadel's souls being tethered to fire, as Isoran souls of Iron Hulk were afflicted by haunting of gremlin constructs, as Frost Souls were as such due to existence in the Abyss below Underworld, Void souls had to exist in conditions of the Void manipulated by the Swarm. If we follow our [metaphysical stack](), the void should be the final resting place of all energy. Then, the Swarm, as it opens the Void, should bring back the souls with the massa confusa where itself it traverses - even into the Core.
-
-As for the quote itself, we may also consider consumption of memories of the dead as related to Swarm's ability to create void monsters. But, as they lack heat, as resurrected undead, they might not contain distinct souls, but operate by energy of the same composition as totems - without distinct souls.
+The other interpretation we can suggest is one of withholding memories, as souls, within itself through act of consumption, which is reminiscent of Apocrea's harvest of souls with no means for this energy to be returned into the system of [metaphysical stack](). This, ones again, brings Apocrea and the Swarm in proximity of each other, rather than Underworld.
 
 ##### `GOOD AND EVIL`
 
 As concepts of the hunger and consumption are defined identical, we can attempt to apply them to the concepts of good and evil as they are presented by Sleeper.
 
-This may be the erasure of those concepts once the carrier of those concepts - one who perceives them - is consumed by the void. This wording reminds us of Apocrea, once again: `The blinding gaze of the Apocrea is boundless. The daylight, the starlight; all hope is merely waiting for their dark shroud to return this cosmic play to its primordial black. Dear heavens! The stars grin down with lustful intent! It is an abomination, an embodiment of sublime beauty, dark and blooded! I weep and laugh before the shroud that waits!`. And under alchemical principles this is, in the context of Whitespace, the opposite - as Rebis contains all of those qualities, but rather through negation of all, it achieves presence of all, - as an idea, defined by symbolism of white color in opus.
+This concept reminds us of Apocrea's perception of presence existence before the shroud, `The blinding gaze of the Apocrea is boundless. The daylight, the starlight; all hope is merely waiting for their dark shroud to return this cosmic play to its primordial black. Dear heavens! The stars grin down with lustful intent! It is an abomination, an embodiment of sublime beauty, dark and blooded! I weep and laugh before the shroud that waits!`.
 
-Another way to interpret this quote is to rely on Lovecraftian themes of eldritch entities, as the Swarm is depicted and framed as such, and as Apocrea.
+Another way to interpret this quote is to rely on Lovecraftian themes of eldritch entities, as the Swarm is depicted and framed as such. Moral concept of good and evil usually does not exist for those entities. Yet, there exists an opposite as a deific being of divine origin which can perceive and reflect those concepts as benediction, as Spirit Mother, and to some extent, Sleeper. Such acknowledgent of morals is observed at least for Spirit Mother and for Sleeper in its relation to existetial threat.
 
-Concepts of good and evil do not exist for those entities. There exists an opposite, a deific being, one in Nameless Realm or heavenly kingdom, a being of a divine origin, - a concept, which we explored from a different perspective reemerges here. Essentially, an opposite of postmodern eldritch entity being a deity, which rather than erasing or being unaware of the concept of morality, is attuned to those as only an entity of pure grace can, a classical approach to postmodern.
-
-Such morality, we believe, is observed in actions of Spirit Mother and Almire, as both continue to exist long time Almire itself, Owlite civilization, and up to arrival of Isorans.
-
-Once again, an idea of a relation now of souls and hunger may be found in the themes of Apocrea and Kats:
+<!--Once again, an idea of a relation now of souls and hunger may be found in the themes of Apocrea and Kats:
 
 - `Though you may venture beyond this nexus, you will undoubtedly fall into one of their traps along the way. The Apocrea bend reality, twisting the environment they invade into a trap. In these traps they stalk any life, harvesting their souls for some unimaginable purpose` ([The Obsidian Nexus](https://wiki.spiralknights.com/Apocrean_Harvester)).
 - `These shadowy beasts hunger for arcane power and raided the Moorcroft Manor Archives' precious collection of magical grimoires` ([Kataclysmic Confrontation](https://wiki.spiralknights.com/Kataclysmic_Confrontation)).
 
-As those two cases also are connected to nature of souls, we have to keep the in mind in case of a different common motif to be found.
+As those two cases also are connected to nature of souls, we have to keep the in mind in case of a different common motif to be found.-->
 
-The way Sleeper's quotes are interpreted has also ties with the thematic parity of Shadow Lairs' and themes of Echo Stones:
+<!--The way Sleeper's quotes are interpreted has also ties with the thematic parity of Shadow Lairs' and themes of Echo Stones:
 
-- [Echo Stone: Gloaming Wildwoods](https://wiki.spiralknights.com/Echo_Stone:_Gloaming_Wildwoods) speaks of Swarm as one to possess bestial features, which is similar to how Snarbolax is described: `Be advised that Recon Knights have reported the presence of a terrible beast the likes of which we have not seen before stalking this forest. Known as 'the Snarbolax,' it appears as a shadowy mass of fangs and claws and seems completely immune to our weaponry. Should you encounter it, try and find a means of escape as fast as possible` ([Shadow of the Beast](https://wiki.spiralknights.com/Shadow_of_the_Beast)).
+- [Echo Stone: Gloaming Wildwoods](https://wiki.spiralknights.com/Echo_Stone:_Gloaming_Wildwoods) speaks of Swarm as one to possess bestial features, which is similar to how Snarbolax is described, `Be advised that Recon Knights have reported the presence of a terrible beast the likes of which we have not seen before stalking this forest. Known as 'the Snarbolax,' it appears as a shadowy mass of fangs and claws and seems completely immune to our weaponry. Should you encounter it, try and find a means of escape as fast as possible` ([Shadow of the Beast](https://wiki.spiralknights.com/Shadow_of_the_Beast)).
 - [Echo Stone: Royal Jelly Palace](https://wiki.spiralknights.com/Echo_Stone:_Royal_Jelly_Palace) speaks of Isorans as aliens falling onto Cradle with purpose, which is similar to how slimes arrived, from whom Ice Queen is derived. Other than that, we don't think this has any relation to further engineering performed on slimes, lichens specifically.
-- [Echo Stone: Ironclaw Munitions Factory](https://wiki.spiralknights.com/Echo_Stone:_Ironclaw_Munitions_Factory) speaks of Cradle as gremlins' - Architects, - creation after the gremlin facility - Shadow Ironclaw Munitions Factory, - was traversed. It is also due to this parity of the location, its context and content of a corresponding Echo Stones we have previously arrived to the ide of king Tinkinzar being the Architect.
-- [Echo Stone: Firestorm Citadel](https://wiki.spiralknights.com/Echo_Stone:_Firestorm_Citadel) seemingly contains the same motif as one suggested in the context of Great Work in the [symbolic analysis](#alchemical-symbolism-of-shadow-lairs-great-work-and-rebis) of Shadow Lairs, as it brings conclusion to all of the above elements in fire, as if the Citadel was the fiery crucible. The theme of kings and souls being consumed, as described by the stone. also parallels Almire.
+- [Echo Stone: Ironclaw Munitions Factory](https://wiki.spiralknights.com/Echo_Stone:_Ironclaw_Munitions_Factory) speaks of Cradle as gremlins', Architects, creation after the gremlin facility -- Shadow Ironclaw Munitions Factory -- was traversed.
+- [Echo Stone: Firestorm Citadel](https://wiki.spiralknights.com/Echo_Stone:_Firestorm_Citadel) seemingly contains the same motif as one suggested in the context of Great Work in the [symbolic analysis of Shadow Lairs](), as it brings conclusion to all of the above elements in fire, as if the Citadel was the fiery crucible.-->
 
-In case of Echo Stones it had shown the extent of Swarm's influence through connection to kings - essentially Almire, - and then giving it a name. In case of Maiden's Tear, it a symbolic element of completeness of the spiritual Work manifested as a capacity to traverse Shadow Lairs and eagerness to withstand them as the demonstration of the Swarm's extent of power. And yet, all of those motifs seem to converge in this vague pair of themes of wildness, hunger, and of darkness or shadows, with allusion to chaos.
+<!--In case of Echo Stones it had shown the extent of Swarm's influence through connection to kings - essentially Almire, - and then giving it a name. In case of Maiden's Tear, it a symbolic element of completeness of the spiritual Work manifested as a capacity to traverse Shadow Lairs and eagerness to withstand them as the demonstration of the Swarm's extent of power. And yet, all of those motifs seem to converge in this vague pair of themes of wildness, hunger, and of darkness or shadows, with allusion to chaos.-->
 
-It seems to us that by the fact of all of those concepts being vaguely connected, we are missing a core element to this narrative, which would bridge the gap between nature of the Swarm, Void and the rest of Cradle's history.
+It seems to us that by the fact of all of those concepts being vaguely connected, we are missing a core element to this narrative, which would bridge the gap between nature of the Swarm, Void and the rest of Cradle's history, other than Swarm being the latest attempt of Underworld to seize Cradle.
 
 #### Composition of The Swarm
 
 Opening of the Void still requires a will or an intent, as it was a direct action, one to be related to Architect's madness and betrayal.
 
-As the most present theme here is of the parity of hunger and darkness, we are reminded of shadow damage as it is described by Hahn: `Shadow damage is generally caused by concentrations of negative energy. Attacks that inflict shadow damage include anything from the psychic manipulation of the aforementioned negative energy to physical attacks using weapons forged from dark matter.` ([The Shadow Knows - Hahn](https://wiki.spiralknights.com/The_Shadow_Knows))
+As the most present theme here is of the parity of hunger and darkness, we are reminded of shadow damage as it is described by Hahn: `Shadow damage is generally caused by concentrations of negative energy. Attacks that inflict shadow damage include anything from the psychic manipulation of the aforementioned negative energy to physical attacks using weapons forged from dark matter` ([The Shadow Knows - Hahn](https://wiki.spiralknights.com/The_Shadow_Knows)).
 
-Shadow damage is an assault on the sentience. By proxy, dark matter possesses those properties: `A fabled mineral dark and ominous in color said to contain the essences of both chaos and nothingness`. So it is effect of chaos and of nothingness which take toll on the attacked. The above energy, characterized as the _negative energy is then an instance of negation of order of matter and a source of disorder_.
+Shadow damage is an assault on the sentience. It is derived of dark matter, `A fabled mineral dark and ominous in color said to contain the essences of both chaos and nothingness`. So it is effect of chaos and of nothingness which take toll on the attacked. The above energy, characterized as the _negative energy is then an instance of negation of order of matter and a source of disorder_.
 
-Shadows is also the term Alpha Squad refers to the Swarm: `We are at the end of the line. Pursued by some kind of terrible darkness we are forced into the unknown. As we neared the Core- I don't know how to describe this really... the shadows came alive and began to attack us. Rulen became enveloped in it and by the time Grantz freed him his body was badly burned. He said it felt like both fire and ice` ([Recon Module: Entrance to the Core - Parma](https://wiki.spiralknights.com/Recon_Module)) as well as the the term of [Shadows Falling Over Cradle](https://wiki.spiralknights.com/Release_Notes_2011-10-19). Apart from a symbolic identification of the Swarm as a shadow, we are revealed the __effects of the void onto living organisms - of burning__.
+Shadows is also the term Alpha Squad refers to the Swarm: `We are at the end of the line. Pursued by some kind of terrible darkness we are forced into the unknown. As we neared the Core- I don't know how to describe this really... the shadows came alive and began to attack us. Rulen became enveloped in it and by the time Grantz freed him his body was badly burned. He said it felt like both fire and ice` ([Recon Module: Entrance to the Core - Parma](https://wiki.spiralknights.com/Recon_Module)) as well as the the term of [Shadows Falling Over Cradle](https://wiki.spiralknights.com/Release_Notes_2011-10-19). Apart from a symbolic identification of the Swarm as a shadow, we are revealed the __effects of the void onto living organisms -- of burning__.
 
-Usually, an act of burning presents a case of an excess energy even is a current setting. One similarity to burning is recalled in relation to weapons' level of heat. Radiant fire crystals are related to the accumulation of the energy - heat - weather or not it is the result of the Core. Fire Crystals have similar inner glow, implying presence  of energy. Then heat itself is presented both as a floating essence, a life force of enemies as they leave it metaphorically, and as fire crystals. As with the energy and souls, we suggest, heat is of the same in nature, a form Energy takes form, as it can be collected to crystals under the same principle as [minerals containing energy](#minerals-and-souls-part-1). This ties back to the idea of Void monsters lacking heat due to absence of distinct souls, which has still a remaining conflict of constructs having heat. Although this can potentially be explained by storm chaser being a soul as much as flame soul as an enemy and a material seem consistent.
+Metaphysically, void lacks energy. Void can be present within a lost soul.
 
-In relation to the Swarm, we have arrived to lack of heat to be a lack of distinct soul - void soul, which is already decoupled from material realm by the ide of being pulled from the Void, while void monsters remain unknown.
+Usually, an act of burning presents a case of an excess energy even is a current setting. One similarity to burning is recalled in relation to weapons' level of heat. Radiant fire crystals are related to the accumulation of the energy -- heat. Fire Crystals have similar inner glow, implying presence of energy. Then heat itself is presented both as a floating essence, a life force of enemies as they leave it, metaphorically, and as fire crystals. As with the energy and souls, we suggest, heat is of the same in nature, a form energy takes form when passed through an aura in its corporeal form, as it can be collected to crystals under the same principle as [minerals containing energy](#minerals-and-souls-part-1). This ties back to the idea of Void monsters lacking heat.
 
-If we assume that the Swarm had taken qualities of the Void, after it was influenced by it, and,as it was capable of feeding on Core's energy, it was of Whitespace origin, how pink color would be relevant to this composition?
+Discussed in relation to [revival through totems, a wave of shadow energy passes through the skull to force it back to undeath](#grim-totems-part-2-undead-dreadnoughts-and-binding). In relation to the Swarm, we have are presented with void souls and heatless beings. Totem rebinds one's already detached soul back to the body dovoid of its vitality from willing haunting of the said body.
 
-More connection can be drawn from the design of locked enemy gates within the Core - of _deep purple color with a distinct eye_. It is then Whitespace itself is aware of the Swarm as a threat, which requires a mark on the gates.
+Through this principle we can suggest that souls are either forced into void monsters to be animated, or void monsters only meant to immitate life, which would potentially explain their sudden appearance.
 
-A 2-color quality is found here, as Swarm is characterized by the black and pink - purple in Whitespace, while Whitespace is white, accompanied by gold.
+If we assume that the Swarm had taken qualities of the Void, after it was influenced by it, and, as it was capable of feeding on Core's energy, it was of Whitespace origin, how its pink color and pink glow of void monsters could be explained?
 
-Through this we can bring Swarm's nature, as well as a distinguished nature of the Void to 3 essentials:
+More connection can be drawn from the design of locked enemy gates within the Core -- of _deep purple color with a distinct eye_.
 
-1. [Whitespace](#divine-and-whitespace-clockworks) represents order, divinity, godhood, and blessing, by proxy of [Spirit Mother](#almire-and-spirit-mother), Sleeper, and contrasts to the Swarm themes. It is light, with an accent color of gold. Whitespace, either through consumption of energy by the Swarm is what gave it its shape, of it is due to Swarm being in the beginning and entity of Whitespace. Out current belief, given setting of megastructure, leans to the latter idea of Swarm being of Whitespace in origin, now with addition of liquidity of the Void.
-2. The Void is closely related to chaos, hunger, and beast, or is represented as them though actors. It is metaphorical darkness, described as shadows, and literal blackness. Through the Swarm, it is devoid of color, with an accent on pink.
-3. The third element is hidden in the nature of pink, symbolism of eys, symbol of Swarm Spawn, and hunger. To identity it is to look for meaning of pink.
+A 2-color quality is found here, as Swarm is characterized by the black and pink -- purple in Whitespace, -- while Whitespace is predominantly white, accompanied by gold.
+
+Through this we can bring Swarm's nature to 3 essentials:
+
+1. [Whitespace](#divine-and-whitespace-clockworks).
+
+  It represents order, divinity, godhood, by proxy of [Spirit Mother](#almire-and-spirit-mother), Sleeper, and contrasts to the Swarm themes. It is light, with an accent color of gold.
+
+  Whitespace, either through consumption of energy by the Swarm or by directly being a part of the Swarm, is what gave the latter its shape.
+
+2. The Void.
+
+  It is closely related to chaos, hunger, and beasts. It is dark, described as shadows, and literal blackness. It is incorpored by the Swarm, here it is observed as to be devoid of color, while the Swarm gains an accent pink color compared to gold of Whitespace.
+
+3. The third element, we propose, is hidden in the nature of pink, symbolism of eys leading to the Swarm avatar, symbol of Unknwon passage, and hunger. To identity it is to look for meaning of pink and eyes.
 
 #### Color of The Swarm
 
-In the current cosmology there are practically no instances of both color pink and eyes being present in other context than Underworld's manifestations of curse. Curse itself, as observed through analysis [color-coded symbolic association](#intermission-analysis-of-curse) has many forms, but, all of them in the allude to eyes and color.
+In the current cosmology there are practically no instances of both color pink and eyes being present in other context than Underworld's manifestations of curse.
 
-Even earlier we have spoken of Whitespace being already present on Cradle before arrival of gremlins - in different form, but still of divinity - at the age when heavenly kingdom had existed. Gremlins had only discovered it and established a Pact, which led Tinkinzar to engineer Clockworks and the Core from an unseen threat which we are leaning to relate to Apocrea. There, we have asked for a hypothetical scenario where curse is to be applied onto whitespace, and corresponding Nameless Realm. While Nameless Realm was one to incorporate curse, Whitespace is still physical, which does not require extensive protection - as evident by knight capability to traverse volume of the Core.
+Curse itself, as observed through analysis [color-coded symbolic association](#intermission-analysis-of-curse) has many forms, but, all of them in the allude to eyes and color.
 
-Now we can specify this question - in an environment between realms, between material realm and Nameless Realm, how it would react to introduction of curse, while it is vulnerable to it by its location?
+Even earlier we have spoken of Whitespace being already present on Cradle before arrival of gremlins -- in different form, but still divine, as paradie -- at the age when heavenly kingdom had existed. Gremlins had only discovered it and established a Pact, which led Tinkinzar to engineer Clockworks and the Core from an unseen threat which we are leaning to relate to Apocrea. There, we have asked for a hypothetical scenario [where curse is to be applied onto paraise](#cradle-metaphysics-part-4-universal-laws) and corresponding Nameless Realm.
 
-As we have seen with darkfire, introduction of multiple elements allows for an entity of greater complexity to emerge, and that was a case of curse being applied on an entity haunted by Vog's curse.
+Now we can specify this question -- in an environment between realms, between material realm and Nameless Realm, how being of that nature would react to introduction of curse, while remaining corporeal?
 
-As we do not see other leads other than the third being the curse, we will discuss its plausibility to exist for such entity of Whitespace coupled with the Void. In order to test this possibility, we are required to cover of the rest of internal relations within the Swarm.
+As in case of darkfire we have explaiend it by a [synthesis of 2 curses](#nature-of-darkfire), leading to an entity of greater complexity to emerge, herein, __given presence of the Void and Whitespace, what would be the transformaive effect of curse onto such being__?
 
-#### Instances of The Void
+As we do not see other leads other than the third essential being the curse, we will discuss its plausibility to exist for such entity of Whitespace coupled with the Void. In order to test this possibility, we are required to cover of the rest of internal relations within the Swarm.
 
-Here, the Void and Nameless Realm are the dual interpretations of Prime Matter and its paradoxical nature, one of darkness and wildness, opposed by the order of Whitespace.
+#### The Void: Part 6: First Matter
+
+<!--Here, the Void and Nameless Realm are the dual interpretations of first matter and its paradoxical nature, one of darkness and wildness, opposed by the divinity of Whitespace.-->
+
+Under current interpretation Nameless Realm presents a case of first matter being identified by owlites. It followed by the Void introduced through the Swarm. Uniform nature of the Void was reminiscent of Apocrea's primordial blackness while itself reminiscent of the state of [first matter as massa confussa](#the-void-part-2-massa-confusa), a chaotic, unreconciles state of matter, but one we could not commit due to its limited presence within the Swarm.
 
 This notion could be similar to the Void in the teachings of Godai, wherein it represents a concept of Heaven, Ether, Space, Center, and Void, which, in consideration of the motif of [Celestial Kingdom](#celestial-kingdom) might be close to the real identity of the Void within Spiral Knights.
 
-This idea also is similar to the the concept of _emptiness in Buddhism, of Śūnyatā_, the ultimate reality, but, as the concepts from alchemy persists by alchemy incorporating many different teachings depending on the author, we only acknowledge it.
+This idea also is similar to the the concept of _emptiness in Buddhism, of Śūnyatā_, the ultimate reality, but, as the concepts from alchemy persists by alchemy incorporating many different teachings depending on the author, we only acknowledge it as a possibility.
 
-This theme is of the same nature as an established motif, which is found across mythology and folklore - of __paradoxical emptiness of the Void, from which the World was formed__ in the according creation myth, such as _Wu Chi of Taoist_, the _Genesis of Christian Theology_, as _Chaos of Greek mythology_, and _Ginnungagap of Norse mythology_, and as _Sunyata of Buddhism_. This idea was suggested in the context of [rock salt as an alchemical prime](#rock-salt-and-alchemical-primes), possessing similar dual external relation-oriented nature.
+This theme is of the same nature as an established motif, which is found across mythology and folklore -- of __paradoxical emptiness of the Void, from which the World was formed__ in the according creation myth, such as _Wu Chi of Taoist_, the _Genesis of Christian Theology_, as _Chaos of Greek mythology_, and _Ginnungagap of Norse mythology_, and as _Sunyata of Buddhism_. This idea was suggested in the context of [first analysis of Apocrea' goals](#apocreas-goal-of-negation-of-existence-part-2), as primordial blackness, depite its framing, remains ancient elemnt of the cosmology, and therefore, the initial state of reality, now identified as the round chaos, or more dangerous massa confusa.
 
-Due to this, we can make a guess, that the Void is the real origin of the Universe in Spiral Knights.
+Due to this, we propose, that the __Void is the real origin of the Universe in Spiral Knights__, known as [primordial blackness and chaos](#the-void-part-5-primordial-black-massa-confusa-the-void), reflective of the [multitudes of alchemical first matter as inherently dangerorous substance].
 
-Then there is existence of dragons, which we so far considered far more ancient species. As with the creation myth, dragons are generally thought of as the most ancient creatures, which fits with our established timeline. Since the dragons of Spiral Knights exist in 3 subspecies, and as we concluded, capable of traversing Underworld and material realm, what makes then incapable of also accessing the supposed divine realm, characterized so far as Nameless Realm, mainly to how elemental defense is the one protection in Nameless Realm.
-
-We have previously considered the [creation myth]() as one depicting divinity of dragons. In it, storm dragon was the one closest to a divine dragon, whose passing created sun and mountains, the foundation for the world, as it was explicitly stated to be created, compared to being razed and shaped, as if there was a specific sequence by which dragons' power could create a world. As hypothetical Shadow Dragon carries will of destruction, we can argue it being an essential for the cyclical process of nature, _unless it was also influenced by the Underworld_.
+The Swarm, through its role as an opposite of Whitespace yet bearing its nature, can be seen as a flawed end of the alchemical process of `The precious substance is potentially contained in this chaos as a massa confusa of all the elements rolled into one, and man must diligently apply his mind to it so that “our heaven” may come into reality (ad actum)` (Psychology and Alchemy - Carl Jung).
 
 <!-- Apocrea specifically represents some interesting motifs:
 
