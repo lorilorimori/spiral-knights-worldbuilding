@@ -12,6 +12,6 @@ vite.config.ts.timestamp-*
 
 #
 
-/assets/img/**/*.png~
-/assets/img/**/*.krz~
+/assets/img/**/*.png\~
+/assets/img/**/*.krz\~
 /assets/img/**/*.krz-autosave.kra
