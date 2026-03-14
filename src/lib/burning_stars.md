@@ -10233,26 +10233,28 @@ If we add imperial motifs of modern gremlin empire, we can crreate an idealised 
 
 Now those loose ends covered, we can now discuss the Architect.
 
-#### The Architect
+#### King Tinkinzar, The Architect
 
-There are narratives:
+There are established narratives:
 
-- Of an actor from Underworld, present on Cradle from its beginning;
+- An actor from Underworld, present on Cradle from its beginning;
 - A heavenly guardian civilization;
-- Of alchemy being a tool which roots itself in fundamental properties of reality;
-- Primordial black of Apocrea, its engines, and the Void;
+- Alchemy being a tool which roots itself in fundamental properties of reality;
+- Primordial Black of Apocrea, its engines, and the Void;
 - Metaphysical dreaming of Apocrea and Sleeper;
-- Sleeper's vulnerability to darkness;
-- An empire, which had built a megastructure to protect a slumbering Sleeper within;
-- A dreaming deity is later imprisoned within the core of megastructure.
-- An eldritch horror motif found for Herex, Swarm, and Apocrea.
-- A gremlin king, who leads his people to coexist with the Sleeper;
-- Architect being inflicted by a madness, which breaks above unity;
-- Crimson Order being the arbiter of king's will, Iron Law, and timeless containment of Cradle.
+- Sleeper's vulnerability to darkness in slumber and creation of a multi-civilizational plan to prtotect it;
+- An empire, which had built a megastructure to protect a slumbering Sleeper within it;
+- A dreaming deity is later imprisoned within the core of the megastructure.
+- An eldritch horror found through Herex, Swarm, and Apocrea.
+- A gremlin king, who leads his people to coexist with the Sleeper and its divinity;
+- Architect of the protective megastructure is inflicted by madness, causing entire fortress to be compromised with the highest stakes Cradle ever seen;
+- Crimson Order being the arbiter of king's will, Iron Law, and timeless containment of Cradle's compromised state.
 
-When all of those factors are presented, nature of madness becomes the centerpoint of this narrative. As previously, We will follow with the proposal of king Tinkinzar being the Architect, one to live through creation of Clockworks.
+When all of those factors are presented, nature of madness becomes the centerpoint of this narrative, as it had moved the next iteration of guardians of paradise -- gremlins -- into a death spiral of slow loss of control over compromised by Underworld and Swarm megastructure.
 
-As alchemical analysis so far was fitting, we have discovered across not only alchemy, but a large multitude of narratives which involve kings, divine powers bestowed to them, followed by a calamity.
+As previously, We will follow with the proposal of [king Tinkinzar being the Architect](#king-tinkinzar-and-gremlin-regime), one to live through creation of Clockworks.
+
+As alchemical analysis so far was applied in relation to the Void and its identification. Now, we have discovered not only alchemy, but a large multitude of narratives which involves kings, divine powers bestowed to them, followed by a calamity:
 
 <BookCitation source="Psychology and Alchemy">
 
@@ -10667,19 +10669,14 @@ Nameless Realm and material realm are connected through the Whitespace within th
 
 </SubTitleCentered>
 
-- The Void exists a primordial realm which encompasses all of potential existence before it is created.
+- The Void, as an alchemical chaos, exists as it encompasses all of potential existence before Universe is created.
+- From the Void all potential that could be, is released in a creation of Universe made of multiple realms. Those realms contain all of the energy now manifested, shaping those realms.
 
-    It is the alchemical round chaos, which encompasses all of existence in its potential state.
+    The Nameless Realm exists as an absolute realm of Universe manifested from the Void, while the Void remains in a state of primordial chaos. Nameless realm is the state void besomes ones it comes into being. It contains the majority of energy in its most abstract form. From the rest of the energy, the remaining of world's matter would form as the material realm, paradise, Underworld, Blinding Abyss, and Apocrean Realm.
 
-- From the Void all of potential is realeased in the creation of multiple realms. Those realms contain all of the energy now manifested, arranged, and characterized by the distribution of said energy.
+- Followed by the Nameless realm is the paradise -- home of entities of energy and light, referred to as the celestial beings. Among them were deities -- Spirit Mother and Sleeper.
 
-    The Nameless Realm was the first to separate, it contained the majority of potential energy in its most abstract form. From the rest of the energy, the remaining of world's matter would form as the material realm, Underworld, Blinding Abyss, and Apocrean Realm.
-
-    Nameless Realm is the counterpart to the Void, compared to the rest of the realms, it possess the same nature as the Void, as its potential allws for direct creation of matter from energy. But, at that point, the Void is found in its current state, now defined by the lack of energy.
-
-- By its nature, Nameless Realm is home of entities of energy, referred to as the celestial beings. Among them were deities -- Spirit Mother and Sleeper.
-
-    Nature of this relam is represented by a universal medium of energy. This energy is manifested as souls, subtle bodies, with later attained corporeal bodies in the material realm also refered as auras, surrounding said souls.
+    Nature of this realm is represented by a universal medium of energy. This energy is manifested as souls, subtle bodies, with later attained corporeal bodies in the material realm also refered as auras, surrounding said souls.
 
     Souls manifest as consciousness in the material realm, and auras become the energy radiance of those souls beyond physical bodies. The rest of energy, unable to form in larger entities, manifests as Heat, Fire Crystals, Minerals, Crystal and Mist energy. The mist energy in particular is the most unrefined form of energy closest to the Nameless Realm.
 
@@ -10705,7 +10702,7 @@ Nameless Realm and material realm are connected through the Whitespace within th
 
 - The space which allowed Valkyries to enter material realm would later be contained within volume of the Core.
 
-- Valkyries become the first civilization to become the guardians of the realm which they themselves call the paradise or the heavenly kingdom, one to exist in proximity of the Nameless Realm. Their primary purpose is to protect a deity within the Nameless Realm, identified as the Sleeper, as it slumbers.
+- Valkyries become the first civilization to become the guardians of the realm which they themselves call the paradise, one to exist in proximity of the Nameless realm. Their primary purpose is to protect a deity within the paradise, identified as the Sleeper, as it slumbers.
 
     With this information, paradise is established as the proper space from which Valkyries had emerged orignally, one separate from the material realm and Cradle, while the heavenly kingdom is a physical location within the material realm. This distinction is important as it allows for clearer perception of the timeline.
 
@@ -10821,7 +10818,7 @@ Nameless Realm and material realm are connected through the Whitespace within th
 
     Philoso manages to invert the curse, causing it to be weaponized against fiends of the Underworld and of undead.
 
-    Moreover, Philoso rediscovers the Nameless Realm proper, whose chaotic nature proves to be extremely dangerous, but also reactive to the presence of realms close to the Void - the Underworld.
+    Moreover, Philoso rediscovers the Nameless realm proper, whose chaotic nature proves to be extremely dangerous, but also reactive to the presence of realms close to the Void - the Underworld.
 
 - At that point in time Sleeper remains under protection of heavenly kingdom.
 - Underworld contacts divine kat Margrel, which establishes a defective group known as the Kat Tribe armed with powers of Underworld and curse.
@@ -10830,7 +10827,7 @@ Nameless Realm and material realm are connected through the Whitespace within th
 
 - Through ill-usage of the tome located in the Grey Feather tower of Owlite Academy of Magics, an event known as the Kataclysm occures, causing the Grey Feaher tower of the Academy to be drawn into the Underworld, making the darkness of Underworld creep into the rest of the Academy. The entire population of heavenly kingdom is erased from existence, while members of Kat Tribe are banished into the Underworld and transfomed into curse-ridden mindless beasts.
 
-    The darkness in question eventually leads back to Apocrean Realm. Through the means of this darkness and metaphysics of lower realms, far greater degree of danger is presented to deities of Nameless Realm.
+    The darkness in question eventually leads back to Apocrean Realm. Through the means of this darkness and metaphysics of lower realms, far greater degree of danger is presented to deities of Nameless realm.
 
 - The heavenly kingdom as well as the academy with owlite technology used to repel the darkness of Underworld lay dormant and undisturbed.
 
@@ -10855,9 +10852,9 @@ Nameless Realm and material realm are connected through the Whitespace within th
 
     Most of planetary mass is either smelted in blast furnaces or is repurposed to hinder and secure access to the Core.
 
-- Core is built to secure the connection between the material realm and Nameless realm, the gateway connecting the two, with intoduced technology, became the Whitesapce - a volume where Sleeper has control over, - being the prior paradise before heavenly kingdom appeared in the material realm proper.
+- Core is built to secure the connection between the material realm and paradise, the gateway connecting the two, with intoduced technology, became the Whitesapce - a volume where Sleeper has control over, - being the prior paradise before heavenly kingdom appeared in the material realm proper.
 
-    The Core has 3 functions: to house Sleeper, to control operation of Clockworks, and to produce energy for the megastructure, derived from the Nameless Realm. The energy produced manifests itself as mist energy, crystal energy forming cross matter, forming minerals and fire crystals, but, predominantly, it is distributed as electricity throughout power complexes.
+    The Core has 3 functions: to house Sleeper, to control operation of Clockworks, and to produce energy for the megastructure, derived from the paradise. The energy produced manifests itself as mist energy, crystal energy forming cross matter, forming minerals and fire crystals, but, predominantly, it is distributed as electricity throughout power complexes.
 
 - In the practical infinity of Whitespace of the Core, Divine Clockwork tunnels are constructed to interface with the Core over gremlin technology, while connecting directly to Whitespace of the Core. Specifically, a skydome, as ones used to house preserved locations across Cradle, is built within the Core to contain the Sanctuary - a location of Sleeper's greatest prsence, and a point of direct communication.
 
@@ -10871,13 +10868,13 @@ Nameless Realm and material realm are connected through the Whitespace within th
 
 - It is due to Undercorp reemerging, as gremlins were researching shadow damage - an uncommon type of damage for material realm in general, as in previous times, undercorp did provide great advancements to Cradle, with soul-sensing gates and graviton-derived electron technology.
 
-- Undercorp prepares to sabotage King Tinkinzar's reign in order to prevent Sleeper's awakening and subsequent apotheosis for the guardian civilization, cutting off possibility of Undercorp acquiring energy directly from the Nameless Realm.
+- Undercorp prepares to sabotage King Tinkinzar's reign in order to prevent Sleeper's awakening and subsequent apotheosis for the guardian civilization, cutting off possibility of Undercorp acquiring energy directly from the paradise.
 
     Through those means, as trojans were tricked into corruption, the king and gremlins are tricked by Apocrean technology introduced by Undercorp.
 
 - Cradle defenses are constructed - anti-aircraft artillery, - which was tapping into shadow damage, as one gremlins themselves were vulnerable. More technology, accessible only to the gremlin military elite, is built utilizing Undercorp technology.
 
-- To assist further construction of Clockworks, an artificial entity, derived of the energy-based nature of Nameless Realm is brought into the material realm within Clockwork stratums. In parity with the Core, a far greater pace of construction is achieved, as heavy-duty operation is done through direct manipulation and transporation of matter across volume of Clockworks. This initial force from Whitespace would eventually become known as the Swarm.
+- To assist further construction of Clockworks, an artificial entity, derived of the energy-based nature of paradise is brought into the material realm within Clockwork stratums. In parity with the Core, a far greater pace of construction is achieved, as heavy-duty operation is done through direct manipulation and transporation of matter across volume of Clockworks. This initial force from Whitespace would eventually become known as the Swarm.
 
 - Tinkinzar's rule provides most prosperous time for the empire, with the capital being the Great Colony. Initial gremlin clans near that time would be already established.
 
