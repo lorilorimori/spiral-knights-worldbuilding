@@ -10203,7 +10203,18 @@ The excerp, `dissolution and reintegration of chaos is an operation which, whate
 
 And, as the Void possess a degree of liquidity when found on the ground and flowing upwards, the resemblence to water here seems fitting.
 
-We akcnowledge the absence or misplacement of curse within this narrative, which presents an issue of identifying the nature of pink color. At this stage we are unable to present a candidate otherwise fitting to the elemnts of Swarm's nature which would be capable to explain its present appearance and instincts.
+We acknowledge the absence or misplacement of curse within this narrative which presents an issue of identifying the nature of pink color. At this stage we are unable to present a candidate otherwise fitting to the elemnts of Swarm's nature which would be capable to justify its present appearance and instincts.
+
+With this, we arrive to the proposed identity of the Swarm:
+
+- An entity of Whitespace, a paradise devoid of heavenly kingdom is recontained in the Core, was the force assisting gremlin empire in physical construction of Clockworks within Cradle according to the pact with its slumbering deity -- colloqially named Sleeper -- and gremlin king Tinkinzar, accorfing to which gremlins will build a secured fortress for Sleeper until it wakes up in exchange for gremlins gaining a home, reminiscent of the heavenly kingdom, and becoming guardians of the paradise after events of Kataclysm.
+- The king is stuck with madness a result of which a part of native to Whitespace being opens the Void -- a primordial realm as ancient as the Nameless Realm. Ether due to indtroduction of chaotic nature of the Void to divine Whitespace it becoms cursed, or by latter's being driven by an intent born of imposed curse, the resulting entity -- the Swarm -- gain power over Clockworks through syphoning of energy within the Core and using it to grow.
+- To stop the Swarm, gremlins seal the Core and sever the connection of it with the Swarm, trapping in in the location in proximty of the Core, the Unknown Passage.
+- The Swarm is either trapped both within and outside of the Core, remaining decoupled, or it is forced from the Core, remaining at the Unknown Passage, while gremlins seal access to those depths with a key made of Void.
+- - Gremlins, as Crinson Order, establish an Iron Law -- a principle of keeping the Core perpetually sealed, while hiding the device used to interface with the Core -- the Artifact.
+- The Swarm within the Uknown Passage breaches the Core and starts to feed on it, slowly regaining its power over the megastructure and its inhabitants.
+
+The cascade of those events began from Architect's madness which we intend to discuss next.
 
 <!--##### Involvement of Undercorp
 
@@ -10252,9 +10263,9 @@ There are established narratives:
 
 When all of those factors are presented, nature of madness becomes the centerpoint of this narrative, as it had moved the next iteration of guardians of paradise -- gremlins -- into a death spiral of slow loss of control over compromised by Underworld and Swarm megastructure.
 
-As previously, We will follow with the proposal of [king Tinkinzar being the Architect](#king-tinkinzar-and-gremlin-regime), one to live through creation of Clockworks.
+As previously, we will follow with the proposal of [king Tinkinzar being the Architect](#king-tinkinzar-and-gremlin-regime) as one to live through creation of Clockworks and to disappear due to unknown reasons.
 
-As alchemical analysis so far was applied in relation to the Void and its identification. Now, we have discovered not only alchemy, but a large multitude of narratives which involves kings, divine powers bestowed to them, followed by a calamity:
+As alchemical analysis so far was applied in relation to the Void and its identification. Now, we have discovered not only alchemy, but a large multitude of narratives which involves kings, divine powers bestowed to them, _followed by a calamity_:
 
 <BookCitation source="Psychology and Alchemy">
 
@@ -10852,13 +10863,15 @@ Nameless Realm and material realm are connected through the Whitespace within th
 
     Most of planetary mass is either smelted in blast furnaces or is repurposed to hinder and secure access to the Core.
 
-- Core is built to secure the connection between the material realm and paradise, the gateway connecting the two, with intoduced technology, became the Whitesapce - a volume where Sleeper has control over, - being the prior paradise before heavenly kingdom appeared in the material realm proper.
+- Core is built to secure the connection between the material realm and paradise, the gateway connecting the two, with intoduced technology, became the Whitesapce -- a volume where Sleeper has control over, -- being the prior paradise before heavenly kingdom appeared in the material realm proper.
 
-    The Core has 3 functions: to house Sleeper, to control operation of Clockworks, and to produce energy for the megastructure, derived from the paradise. The energy produced manifests itself as mist energy, crystal energy forming cross matter, forming minerals and fire crystals, but, predominantly, it is distributed as electricity throughout power complexes.
+    The Core has 3 functions: to house Sleeper, to control operation of Clockworks, and to produce energy for the megastructure, derived from the paradise.
+
+    The energy produced manifests itself as mist energy, crystal energy forming cross matter, forming minerals and fire crystals, but, predominantly, it is distributed as electricity throughout power complexes.
 
 - In the practical infinity of Whitespace of the Core, Divine Clockwork tunnels are constructed to interface with the Core over gremlin technology, while connecting directly to Whitespace of the Core. Specifically, a skydome, as ones used to house preserved locations across Cradle, is built within the Core to contain the Sanctuary - a location of Sleeper's greatest prsence, and a point of direct communication.
 
-- In the Sanctuary, a first alchemy machine is build by the Sleeper, its design would be propagated across the Clockworks - replicated by gremlins.
+<!--- In the Sanctuary, a first alchemy machine is build by the Sleeper, its design would be propagated across the Clockworks - replicated by gremlins.-->
 
 - Artifact and Consoles were constructed as the final measure of defense in case of all of Clockworks would fall to the threat of darkness. The Core would be accessed by a series of consoles, which would require a specific key - an device, which had to be charged in order to power the concoles and control through them access to the Core.
 
@@ -10872,7 +10885,7 @@ Nameless Realm and material realm are connected through the Whitespace within th
 
     Through those means, as trojans were tricked into corruption, the king and gremlins are tricked by Apocrean technology introduced by Undercorp.
 
-- Cradle defenses are constructed - anti-aircraft artillery, - which was tapping into shadow damage, as one gremlins themselves were vulnerable. More technology, accessible only to the gremlin military elite, is built utilizing Undercorp technology.
+- Cradle defenses are constructed -- anti-aircraft artillery, -- which was tapping into shadow damage, as one gremlins themselves were vulnerable. More technology, accessible only to the gremlin military elite, is built utilizing Undercorp technology.
 
 - To assist further construction of Clockworks, an artificial entity, derived of the energy-based nature of paradise is brought into the material realm within Clockwork stratums. In parity with the Core, a far greater pace of construction is achieved, as heavy-duty operation is done through direct manipulation and transporation of matter across volume of Clockworks. This initial force from Whitespace would eventually become known as the Swarm.
 
