@@ -31,6 +31,7 @@
 - Console -> console
 - lab -> laboratory
 - hijacked -> synosym / seized
+- great work -> Great Work
 
 ### CONSIDER
 

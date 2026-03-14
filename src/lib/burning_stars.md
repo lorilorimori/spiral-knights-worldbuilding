@@ -2830,7 +2830,7 @@ What is important here, is that across the myths, Fomorians were ones ruling ove
 
 The other argument is related to the single eye symbolism. As titans are depicted as cyclops, and possessing a single eye of an helm, a connection to the eye of Balor could be made here. Balor's eye symbolizes evil and destructive power, conveniently similar to the dread seal, named here as the evil eye.
 
-#### Minerals and Souls: Part 1
+#### Minerals and Souls: Part 1: An Introduction
 
 As it was established, dark matter and crimsonite can be charged. This ability allows minerals be used as a _power source for Clockwork gates_, _tortodrones' operation_, and _alchemizing explosives_ -- weaponized minerals in the similar notion of [grim gates' portal collapse being weaponized as vortex blocks and graviton bombs](#grim-gate-portal-collapse).
 
@@ -3405,7 +3405,7 @@ Outside of Haven there is a [graveyard](https://wiki.spiralknights.com/Blades_of
 
 During the events of [Breaking in the Recruits](https://wiki.spiralknights.com/Breaking_In_the_Recruits) the Collector fight happens at a location similar to Haven town square. Collector's arena is a distinct city square with a building at its north _featuring armaments within, nearly identical to the auction house_ -- suggesting this being town's center, as auction house and a community center as central to city's plan.
 
-##### Minerals and Souls: Part 2 - Strangers' Mining Operations, Crystal and Mist Energy
+##### Minerals and Souls: Part 2: Strangers' Mining Operations, Crystal and Mist Energy
 
 Strangers are known to perform mining operations in proximity of Haven, evident by [Greave's outfit](https://wiki.spiralknights.com/Greave) and roster of items, particularly:
 
@@ -3726,7 +3726,7 @@ The meaning of those crowns remains unknown so far, but, as they are constructed
 
 With this, to an established landscape of Apocrean Realm we add a concept of a native to it `eternal energy`, which when observed, is colored purple. This energy might be one aloowing for suspention in the air of earlier proposed [Apocrean ritual circles](#apocrean-ritual-circles) in an unknwon -- ethereal, -- state, which allows them to be formed into 3-dimensional structures.
 
-Despite this seeming difference, as we had a _notion of energy in different variants being central to other narratives_, presence of _color purple_ both within finite structure of colored lines and as more abstract presence within the obelisks, we would __identify eternal energy as the universal Energy__. Within this identification, Apocrea's need for souls would be explained by them being a specific -- sentient, -- configuration of tha energy, as a container.
+Despite this seeming difference, as we had a _notion of energy in different variants being central to other narratives_, presence of _color purple_ both within finite structure of colored lines and as more abstract presence within the obelisks, we would __identify eternal energy as the universal Energy__. Within this identification, Apocrea's need for souls would be explained by them being a specific -- sentient, -- configuration of that energy, as a container.
 
 ##### Freed Souls
 
@@ -4730,7 +4730,7 @@ As dark matter, in the form of ruinoues crystal, becomes now relevant, we will r
 
 We will also keep in mind tortodrones through their similarity to trojans. They are animated with the dark matter crystals as a power source. In order to power tortodrone with dark matter, its shell is deconstructed, and fiendish sigils are carved in place of evil eyes on the shell plates. It was already explored, how devilites may use those sigils, concluding to them being a [protective and summoning, utility means](#ritual-circles-circle-of-art-pentacles).
 
-#### Minerals and Souls: Part 3 - Mineral Charge
+#### Minerals and Souls: Part 3: Mineral Charge
 
 Tortodrones' case suggests that __a violent intervention had to happen in order to introduce dark matter__.
 
@@ -8375,7 +8375,7 @@ Water was vaguely introduced in relation to Blinding Abyss, but more importantly
 
 ##### Ownership of Orbs of Alchemy
 
-The prior scenario presumes existence of Orbs of Alchemy before Isorans or even Strangers, and given context of Sanctuary Alchemy Station, we are leaning to either them being devised by gremlins or coming before gremlins. The latter scenario requires elaboration -- and that is mostly due to presence of the same symbol for civilizations which we ruled out to be not related to Clockworks -- Valkyries, owlites, celestial beings, or griffins, but related deeply with the Sleeper, a deific entity, which by its supernatural yet benevolent nature became a candidate to inhabit higher eralms of heavenly kingdom, specifically, the paradise, as [a benefactor at the heart of the supposed heavenly kingdom](). With this, Orbs of Alchemy can be seen as a universal constant - an essential element to existence and operation of alchemy and transmutation taking concrete and unchanging form through Universe's existence, unless they are devised by the primary civilization at a guard of the paradise and heavenly kingdom -- the celestial beings, the inhabitants of heavenly kingdom.
+The prior scenario presumes existence of Orbs of Alchemy before Isorans or even Strangers, and given context of Sanctuary Alchemy Station, we are leaning to either them being devised by gremlins or coming before gremlins. The latter scenario requires elaboration -- and that is mostly due to presence of the same symbol for civilizations which we ruled out to be not related to Clockworks -- Valkyries, owlites, celestial beings, or griffins, but related deeply with the Sleeper, a deific entity, which by its supernatural yet benevolent nature became a candidate to inhabit higher realms of heavenly kingdom, specifically, the paradise, as [a benefactor at the heart of the supposed heavenly kingdom](). With this, Orbs of Alchemy can be seen as a universal constant - an essential element to existence and operation of alchemy and transmutation taking concrete and unchanging form through Universe's existence, unless they are devised by the primary civilization at a guard of the paradise and heavenly kingdom -- the celestial beings, the inhabitants of heavenly kingdom.
 
 Given so far particularly abstract nature of the Sleeper and the paradise, we propose that the invention of orbs of alchemy may be attributed to griffins through a repeated application of celetial metals in their instrucments and gear. The correlation of orb's power to its proximity to the Core, then, suggests the latter influencing with its energy power of the orbs as much as other lifeforms. As orbs are used independent of the nature of the gear, they may be seen as the neutral, all-ncompassing catalyst, a philosopher's stone, and therefore one acknowledging all reality, linking itself to the chaos of Nameless Realm.
 
@@ -8443,7 +8443,7 @@ While the bolt is held within the teeth of a wrench is a subject of symbolic int
 
   Lastly, the lack of angular lines on this symbol compared to one of Iron Law grants it nobility as representative of the elite and authority of gremlin civilization. The lack of angular lines will make itself more present in a few no less important instances, specifically, theie language and deasigns of the Consoles.
 
-  In favour of xistence of the king contribtes another important element of Clockworks -- a certtain care was put into the skydomes containing compounds and other structures, with artificial day-night cycle. The structures, other than larger castles, are placed within the skydomes and compared to the tunnels or deconstruction zones are finely preserved. This, we propose, demonstrates the intent to preserve Cradle's past with care which, _given the incompetence of Seerus and Herex as leaders, implies an exsitence of a benevolent figure both to gremlins and Cradle_, __as no such engineering, moral, and foresight feat would be expected of those members of Crimson Order__.
+  In favour of existence of the king contribtes another important element of Clockworks -- a certain care was put into the skydomes containing compounds and other structures, with artificial day-night cycle. The structures, other than larger castles, are placed within the skydomes and compared to the tunnels or deconstruction zones are finely preserved. This, we propose, demonstrates the intent to preserve Cradle's past with care which, _given the incompetence of Seerus and Herex as leaders, implies an exsitence of a skilled figure both to gremlins and Cradle_, _as no engineering, moral, and foresight gesture is to be expected of known members of Crimson Order_.
 
 Those similarities, as well as the implied longevity and a supposed benevolence of king Tinkinzar in contrast with the realities of gremlin civilization had initially lead us to the idea of concept of a great gremlin king being engineered specifically by Crimson Order, if we work strictly from lack of any physical evidence of his existence. But, the symbolism at absence of physical evidence is what we were operating throughout the analysis, and, as it was noted above, had us to commit to idea of gremlin king to exist at some point in gremlin civilization, responsible for existence of Clockworks.
 
@@ -9555,7 +9555,7 @@ The quote: `Our understanding … , aided by the “celestial and glowing spirit
 
   The prima materia was thought of as an ever-changing substance, or else as the essence or soul of that substance. It was designated with the name “Mercurius,” and was conceived as a paradoxical double being called monstrum, hermaphroditus, or rebis. The lapis-Christ parallel establishes an analogy between the transforming substance and Christ, in the Middle Ages doubtless under the influence of the doctrine of transubstantiation, though in earlier times the Gnostic tradition of older pagan ideas was the dominant factor. Mercurius is likened to the serpent hung on the cross (John 3 : 14), to mention only one of the numerous parallels.
 
-  The “Cantilena” ends with the apotheosis of the virgin-mother. This the above-mentioned Pandora depicts as a glorification of Mary, the assumptio Beatae Mariae Virginis. After her death, by a divine miracle her body was again united with her soul and both together were taken up to heaven. This has long been the view of the Church, although it has only recently been promulgated as a dogma. (In fig. 232) she is marked with the words “terra” and “corpus Lyb” (body) and “die wonn der jung-frowenn wardt” (who became the joy of virgins); the dove descends upon her, and God the Father touches her with his right hand in benison. She is crowned. The figure of God holding the orb is inscribed “Anima Seel” and “Jesse pater, filius et mater.” “Mater” refers to the Queen of Heaven enthroned beside him, the King; for in her the earth substance, becoming transfigured in her resurrected body, is absorbed into the Godhead. On the left is a bearded figure equal in rank to God the Father, inscribed “Sapientia Wyssheit.” In the shield below there is a picture of the rebis being freed from the prima materia.
+  The “Cantilena” ends with the apotheosis of the virgin-mother. This the above-mentioned Pandora depicts as a glorification of Mary, the assumptio Beatae Mariae Virginis. After her death, by a divine miracle her body was again united with her soul and both together were taken up to heaven. This has long been the view of the Church, although it has only recently been promulgated as a dogma. [She] is marked with the words “terra” and “corpus Lyb” (body) and “die wonn der jung-frowenn wardt” (who became the joy of virgins); the dove descends upon her, and God the Father touches her with his right hand in benison. She is crowned. The figure of God holding the orb is inscribed “Anima Seel” and “Jesse pater, filius et mater.” “Mater” refers to the Queen of Heaven enthroned beside him, the King; for in her the earth substance, becoming transfigured in her resurrected body, is absorbed into the Godhead. On the left is a bearded figure equal in rank to God the Father, inscribed “Sapientia Wyssheit.” In the shield below there is a picture of the rebis being freed from the prima materia.
 
   In the stone, as we know, the chaotic antagonism of the elements is replaced by the most intense mutual alliance, which is what makes the stone incorruptible, this being the reason why, in our author’s opinion, it has the same effect as the blood of the Saviour: “sanitas atque vita diuturna in foelicitate, propter quam praecipue lapis noster est petendus” (health and long life in felicity, on account of which our stone is chiefly to be sought).
 
@@ -9603,7 +9603,7 @@ Earlier distinction between Sleeper's Dream and a World so far corresponds with 
 
 In this interpretation, given an already existing synthesis of Core's energy and Cradle as an armed world-fortress, the Great Work can be the state of Cradle with a Core remaining open as a successful starting position.
 
-As Whitespace is of literal white with an entity of Sleeper, gremlins are mostly characterized by Crimson Order and, more importantly, figure of a benevolent king in the past. Here we replace benevolence of deity with abstraction of __Whitespace with a proposition that it conceales the higher realms, Spirit Mother's realm and the paradise above heavenly kingdom__.
+As Whitespace is of literal white with an entity of Sleeper, gremlins are mostly characterized by Crimson Order and, more importantly, figure of a king in the past. Here we replace benevolence of deity with abstraction of __Whitespace with a proposition that it conceales the higher realms, Spirit Mother's realm and the paradise above heavenly kingdom__.
 
 #### The Void: Part 2: Massa Confusa
 
@@ -10012,7 +10012,7 @@ If we were to introduce aspect of the curse as the source of its pink color, we 
 
 <!--In case of Nameless Realm, Whitespace, and the Void, as massa confusa, we have to consider a myth of divine alchemical Rebis as an end of properly combining opposites of Prime Matter as the primordial Void and divine Nameless Realm, in order to complete the Great Work. As Great Work was targeting immortality, prime execution of this process was left to the alchemist.-->
 
-In this alchemical connotation of Cradle, as a megastructure appearing from a certain Pact, could be seen as gremlin's Great Work in the making, as it was built around slumbering Sleeper, who remains sleeping, and as of current discussion, when it awakens, it would be vulnerable no more to currently present dangers, `VULNERABLE IN SLUMBER, WORLDS WERE DRAWN TO SHIELD ME FROM THE DARKNESS. THIS WORLD HAS BECOME MY PRISON` ([Echo Stone: Ironclaw Munitions Factory](https://wiki.spiralknights.com/Echo_Stone:_Ironclaw_Munitions_Factory)).
+In this alchemical connotation of Cradle, as a megastructure appearing from a certain Pact, could be seen as gremlin's Great Work in the making, as it was built around slumbering Sleeper, who remains sleeping, and as of current discussion, when it awakens, we assume it would be vulnerable no more, `VULNERABLE IN SLUMBER, WORLDS WERE DRAWN TO SHIELD ME FROM THE DARKNESS. THIS WORLD HAS BECOME MY PRISON` ([Echo Stone: Ironclaw Munitions Factory](https://wiki.spiralknights.com/Echo_Stone:_Ironclaw_Munitions_Factory)).
 
 The originally intended unity of Core's components with one of its essentials being compromised, immobilizing Sleeper within the Core, resembles themes of Underworld targeting the weakest elements of prior civilizations:
 
@@ -10264,7 +10264,13 @@ As alchemical analysis so far was applied in relation to the Void and its identi
 
 <BookCitation source="Psychology and Alchemy">
 
-  This, in the alchemical allegory, is expressed by the King’s cry for help from the depths of his unconscious, dissociated state. The conscious mind should respond to this call: one should operari regi, render service to the King, for this would be not only wisdom but salvation as well. Yet this brings with it the necessity of a descent into the dark world of the unconscious, the ritual κατάβασις εἰς ἄντρον, the perilous adventure of the night sea journey, whose end and aim is the restoration of life, resurrection, and the triumph over death. Arisleus and his companions brave the quest, which ends in catastrophe, the death of Thabritius. His death is a punishment for the incestuous coniunctio oppositorum. The brother-sister pair stands allegorically for the whole conception of opposites. These have a wide range of variation: dry-moist, hot-cold, male-female, sun-moon, gold-silver, mercury-sulphur, round-square, water-fire, volatile-solid, physical-spiritual, and so on. The regius filius is a rejuvenated form of the Father-King. The youth is frequently shown with a sword and represents the spirit, while the father represents the body. In the Rosarium version of the “Visio” the death of the son is the result of his complete disappearance into the body of Beya during coitus. In another version he is eaten by his father, or the Sun is drowned in Mercurius or swallowed by the lion. Thabritius is the masculine, spiritual principle of light and Logos which, like the Gnostic Nous, sinks into the embrace of physical nature. Death therefore represents the completion of the spirit’s descent into matter. The alchemists depicted the sinful nature of this occurrence in various ways ...
+  As the grain of fire lies concealed in the hyle, so the King’s Son lies in the dark depths of the sea as though dead, but yet lives and calls from the deep: “Whosoever will free me from the waters and lead me to dry land, him will I prosper with everlasting riches.”
+
+  The connection with the Rex marinus of the “Visio Arislei” is obvious. Arisleus tells of his adventure with the Rex marinus, in whose kingdom nothing prospers and nothing is begotten. Moreover there are no philosophers there. Only like mates with like, consequently there is no procreation. The King must seek the counsel of the philosophers and mate Thabritius with Beya, his two children whom he has hatched in his brain.
+
+  When we are told that the King is exanimis, inanimate, or that his land is unfruitful, it is equivalent to saying that the hidden state is one of latency and potentiality. The darkness and depths of the sea symbolize the unconscious state of an invisible content that is projected. Inasmuch as such a content belongs to the total personality and is only apparently severed from its context by projection, there is always an attraction between conscious mind and projected content. Generally it takes the form of a fascination.
+
+  This, in the alchemical allegory, is expressed by the King’s cry for help from the depths of his unconscious, dissociated state. The conscious mind should respond to this call: one should operari regi, render service to the King, for this would be not only wisdom but salvation as well. Yet this brings with it the necessity of a descent into the dark world of the unconscious, the ritual κατάβασις εἰς ἄντρον, the perilous adventure of the night sea journey, whose end and aim is the restoration of life, resurrection, and the triumph over death. Arisleus and his companions brave the quest, which ends in catastrophe, the death of Thabritius. His death is a punishment for the incestuous coniunctio oppositorum. The brother-sister pair stands allegorically for the whole conception of opposites. These have a wide range of variation: dry-moist, hot-cold, male-female, sun-moon, gold-silver, mercury-sulphur, round-square, water-fire, volatile-solid, physical-spiritual, and so on. The regius filius is a rejuvenated form of the Father-King. The youth is frequently shown with a sword and represents the spirit, while the father represents the body. In the Rosarium version of the “Visio” the death of the son is the result of his complete disappearance into the body of Beya during coitus. In another version he is eaten by his father, or the Sun is drowned in Mercurius or swallowed by the lion. Thabritius is the masculine, spiritual principle of light and Logos which, like the Gnostic Nous, sinks into the embrace of physical nature. Death therefore represents the completion of the spirit’s descent into matter.
 
   ...
 
@@ -10272,7 +10278,7 @@ As alchemical analysis so far was applied in relation to the Void and its identi
 
   ...
 
-  Here again we have a repetition of the coniunctio of Nous and Physis. But the latter is a cosmogonic event, whereas this is a catastrophe brought about by the intervention of the philosophers. So long as consciousness refrains from acting, the opposites will remain dormant in the unconscious. Once they have been activated, the regius filius—spirit, Logos, Nous—is swallowed up by Physis; that is to say, the body and the psychic representatives of the organs gain mastery over the conscious mind. In the hero myth this state is known as being swallowed up in the belly of the whale or dragon. The heat there is usually so intense that the hero loses his hair, i.e., he is reborn bald as a babe. This heat is the ignis gehennalis, the hell into which Christ descended in order to conquer death as part of his opus.
+  Here again we have a repetition of the coniunctio of Nous and Physis. But the latter is a cosmogonic event, whereas this is a catastrophe brought about by the intervention of the philosophers. So long as consciousness refrains from acting, the opposites will remain dormant in the unconscious. Once they have been activated, the regius filius—spirit, Logos, Nous—is swallowed up by Physis; that is to say, the body and the psychic representatives of the organs gain mastery over the conscious mind. In the hero myth this state is known as being swallowed up in the belly of the whale or dragon.
 
   ...
 
@@ -10280,105 +10286,82 @@ As alchemical analysis so far was applied in relation to the Void and its identi
 
 </BookCitation>
 
-Apart from the dangers of opus itself - as an act of mind inspecting the unconsciousness - the shadow, Shadow Lairs and the Swarm on our part, - we are given a narrative of symbolic role of a king as an element of opus, which requires work of reconciliation, if not literal work from a flawed state of mind and physical being, identified only as madness by Sleeper.
+The state of Clockworks as remaining indefinitely sealed due to danger of the Swarm as the lingering, an in that regard slowly advancing, manifestation of improper -- possessing hunger -- extraction and application of the first matter, as the Void, we interpret as this exact state of entrapment hiwh cevetually required for a descend into both symbolic and material darkness of the Swarm.
 
-It is here we should finally look at the name of Clockworks. Based on: `VULNERABLE IN SLUMBER, WORLDS WERE DRAWN TO SHIELD ME FROM THE DARKNESS. THIS WORLD HAS BECOME MY PRISON. IN HIS MADNESS, THE ARCHITECT BETRAYED THE PACT. TWISTING HIS CREATION INTO A GAME OF DEATH, IT NOW DEVOURS ALL WHO ENTER ITS IRON EMBRACE.` ([Echo Stone: Ironclaw Munitions Factory](https://wiki.spiralknights.com/Echo_Stone:_Ironclaw_Munitions_Factory)), we can suggest, that this term is referring to Sleeper's awakening. As Sleeper being asleep and due to this being vulnerable, it was the reason for Clockworks - as a megastructure, - to be constructed.
+Apart from the dangers of opus itself, as an act of mind inspecting the unconsciousness -- the shadow, Shadow Lairs, and the Swarm, -- a narrative is presented of symbolic role of protection of Cradle from further escalation of the danger, `FOR DARKNESS WILL CONSUME ALL THE NIGHT IF ITS STARS BEGIN TO FADE` (Echo Stone: Royal Jelly Palace). The king becomes an element of opus which requires work of reconciliation on a flawed state, identified as madness by the Sleeper.
 
-We can assume, based on the name itself, that Clockworks are related to time, as a mechanics analog clock, counting until Sleeper's awakening. The analog component is less explicit, despite its coupleing with mechanical rather than digital, as it is found on depth icons of Clockwork Terminals. More so, the digital aspect reveals itself only in more advanced cases - prime example being the consoles' holographic displays.
+we noted earlier on the naming convention of Clockworks, as a mechanism, meant to be associated with time. With `VULNERABLE IN SLUMBER, WORLDS WERE DRAWN TO SHIELD ME FROM THE DARKNESS. THIS WORLD HAS BECOME MY PRISON. IN HIS MADNESS, THE ARCHITECT BETRAYED THE PACT. TWISTING HIS CREATION INTO A GAME OF DEATH, IT NOW DEVOURS ALL WHO ENTER ITS IRON EMBRACE.` ([Echo Stone: Ironclaw Munitions Factory](https://wiki.spiralknights.com/Echo_Stone:_Ironclaw_Munitions_Factory)), and followed by the definitive name of the megastructure the name of the planet being Cradle allows us to propose that gremlins' _pact revolves around preparations to Sleeper's awakening_. As Sleeper is a deity remaining in slumber, it is part of the pact with gremlins to create a protected environment for it, since no other civilization was present to guard it. This leads to a significantly differnt state of the deity once it awakes, but at that point we are concerned with the specifics of this operation and Architect's madness.
 
-We have mentioned this concept previously, but now in relation to the Architect, a definitive name of the megastructure, which is engineered by the Architect, as well as the name of the planet being Cradle, allows us to propose, that _the Architect was aware of the metaphysical state of Sleeper's slumber_. And if the proposal regarding explosive blocks being fundamnentally Whitespace technology, then in earlier times gremlins had a far greater connection with the Core.
+And if the proposal regarding explosive blocks being a Whitespace technology, then in earlier times labelled as the [Early Gremlin Empire](#consoles-part-4-architecture-of-early-gremlin-empire) gremlins had a far greater connection with the Core.
 
-As we are unaware of the effects of Sleeper's proper awakening, we consider this a secret knowledge of upper importance, which, plausibly, once it was shared with the Architect, it would convince Tinkinzar to create the megastructure in the first place and establish a Pact of defense, becoming the next guardian civilization after Valkyries' ceasation.
+This process of building Clockworks consists of transforming a precursor planet's internal volume into Clockworks, while preserving its kingdoms, which would explain existence of skydomes.
 
-This process of building Clockworks consists of transforming a preexisting planet's internal volume into Clockworks, while preserving its more important historical locations, which would explain reasoning behind skydomes, as well as frame the king as, potentially, a morally benevolent figure, contrasting modern gremlins of Great Colony. This concept also leads us back to the idea of a paradigm shift within gremlins' history.
+We do not known whether _containment of land within skydomes_ was a willing act of the king, since we are unaware of his morality. There are gremlins such as Vise and Punch who are presented a diffenrt side of interraction with gremlins, a lack of hostility and presence of encouragement in their exchange with the knight, `Taking on ol' Seerus aye? Careful now, he's not right in the head. Proper imbalanced that one. He and I go way back, but not in any way worth remembering` ([Operation Crimson Hammer - Lobby - Vise](https://wiki.spiralknights.com/Vise)), which, we can suggest, presents a nuance and moral greys to the perception of gremlins. Therefore, a __possibility of a genious yet benevolent king is plausible__.
 
-The following concept is one of more general trope of a king's rule being taken over by a council of multiple figures, due to king's breakdown under an ambiguous, varying across myths and stories, reasons. But one particular _example, which by itself serves as one of the foundations for such narrative_, is the aforementioned concept of a [philosopher-king](https://tvtropes.org/pmwiki/pmwiki.php/Main/ThePhilosopherKing), King Solomon. We have inderinct mentioned him when we were discussing the [origins of fiendish symbols adn the circles of Art]().
+The following concept is one of more general trope of a king's rule being taken over by a council. But one particular _example, which by itself serves as one of the foundations for such narrative_, is the aforementioned concept of a [philosopher-king](https://tvtropes.org/pmwiki/pmwiki.php/Main/ThePhilosopherKing), King Solomon, through 2 notably unreliable recounts of king's plan and wisdom:
 
-As all gremlin clans serve the Great Colony, and by proxy king Tinkinzar, we can suggest, _given Roman motif, that the kingdom Tinkinzar had built, was not a monolithic structure, but a series of clans united in their beliefs and ideology_, defined by the Iron Law.
+- `All gremlins belonging to the colony serve King Tinkinzar. Tinkinzar is said to be a great ruler and mechanical genius, responsible for the vision of the whole Clockworks. It is our understanding however that the kind is never seen by common gremlins, but instead his orders are delivered and carried out by his Crimson Order, a fearful and zealous band of gremlins who alone share audience with the great king` ([Haven - Bootshuze](https://wiki.spiralknights.com/Bootshuze#Dialogue)).
+- `Tinkinzar not seen for many many years. Crimson Order carries out Tinkinzar's plans for Cradle. Emberlight was blight on master plan because built by outcasts. Haven was probably the same, founded by non-Gremlins. Not part of plan!` ([Pakrat](https://wiki.spiralknights.com/Pakrat#Dialogue)).
 
-Given both such structure, a possession of technology, knowledge and vision which Architect possesses, _his madness then does not have causal reason to exist unless it is caused by an_ __external factor__ - a perpetrator, not native to Cradle.
+As all gremlin clans serve the Great Colony, and by proxy king Tinkinzar, yet, given Roman motifs of [early gremlin technology](#consoles-part-4-architecture-of-early-gremlin-empire) that the kingdom Tinkinzar had witnessed, we do nit know _whether those clans are a recent development_.
 
-##### Architect's Madness: Part 1 - Eldritch Motif
+Given both the megastructure, a possession of technology, knowledge, and vision which Architect possesses, _his madness does not have causal explanation nor reason to exist, unless it is caused by an external factor_.
 
-Across known factions of Cradle, there are only 2 thematically and narratively fitting entities, which can be plausibly linked in their methods to a concept of madness _in its most broad meaning_: Apocrea and Underworld:
+##### Architect's Madness: Part 1: Eldritch Motif
 
-- Underworld consists of its proper inner structure with its elemental deities, Undercorp, and Nefarious Imp. The energy resource seems to be Undercorp's prime reason for expansion, as a corporation, while greater Underworld was involved into previous conflicts on Cradle.
+Across known factions of Cradle, there are only 2 thematically and narratively fitting entities, which can be plausibly linked in their methods to a concept of madness _in its most broad meaning_ -- Apocrea and Underworld:
 
-    Its main examples of a pattern, resembling madness, are trojans, Arkus, Kat Tribe, Black Kats specifically, including Margrel, and Lord Vanaduke.
+- Underworld consists of its proper inner structure with its elemental deities, Undercorp, Nefarious Imp, and recently, Fallen Valkyrian. The energy resource seems to be Undercorp's prime reason for expansion, as a corporation, while greater Underworld was involved into previous conflicts on Cradle.
 
-    Notably, across all of those examples _they had retained their motivations after being cursed_, we will discuss this soon.
+    Its main examples of a pattern, resembling madness, are trojans, Arkus, Kat Tribe, Black Kats specifically, including Margrel, and Lord Vanaduke. Few of them _had retained their motivations after being cursed or reborn_.
 
-- Apocrean Realm is represented by Apocrea itself and its most defined motivation as an agent of entropy through Danford. The entropy is propagated by metaphysical engines, powered by souls, which allow the primodrial blackness and supposedly Void to be reintroduced to material realm through their roaring. The souls are harvested through creation of dimensonal traps within materrial realm through the Shroud.
+- Apocrean Realm is represented by Apocrea itself and its most defined motivation as an agent of entropy through Danford. The entropy is propagated by metaphysical engines powered by souls which allow the primodrial blackness and supposedly Void to be reintroduced to material realm through their roaring. The souls are harvested through creation of dimensonal traps within materrial realm through the Shroud.
 
-    The only its corresponding representation of madness is later mental state of professor Danford. Danford's madness is eldritch god madness, one can not recover from given its out-of-universe cultural inspiration. This madness, compared to prior case of Underworld also _changes one's motivation_, as we have examples of such being the case in Yog-Sothothery - _it fundamentally alters one's ideology and beliefs_.
+    The only its corresponding representation of madness is later mental state of professor Danford. Danford's madness is one of lovecrafian origin, one can not recover completely from, given its out-of-universe inspiration. This madness, compared to prior case of Underworld also _changes one's motivation_, as we have examples of such being the case in Yog-Sothothery - _it fundamentally alters one's ideology and beliefs_.
 
-Eralier we noted, that it is due to shared presence of circles of art, the ritual circles made of minerals, Apocrean Realm and Underworld had to be historically connected, where Apocrean Realm is a far more historically ancient, given eldritch motif, rather than concerete, relatively defined history of Underworld.
+Eralier we noted, that it is due to shared presence of circles of art, the ritual circles made of minerals, Apocrean Realm and Underworld had to be historically connected, where Apocrean Realm is a far more ancient because of its eldritch themes, rather than concerete, relatively defined history of Underworld.
 
-At that, Apocrean Realm seems timeless due to its eldritch theme and unchanging, opposing to life nature, compared to Underworld which was characterized as one to be in a few points vulnerable - such being a case of Legion of Ur conquering Underworld, as well as Valkyries later capable of sealing the legion in the Underworld. _This vulnerability had seemingly led Underworld to work through cunning nature and preplanned scheming, rather than a direct confrontation_.
+Becouse of the eldritch connection, Apocrean Realm is preceived as timeless and unchanging, opposing to life nature, compared to Underworld which was characterized as one to be in a few inances vulnerable, such being a case of Legion of Ur conquering Underworld, as well as Valkyries later capable of sealing the legion in the Underworld. _This vulnerability had seemingly led Underworld to work through cunning nature and preplanned scheming, rather than a direct confrontation_.
 
-Underworld itself, when compared to Apocrean Realm, due to motivations of its actors, presents a more understandable, postmodern interpretation of reality, given corporate settting of Undercorp. While there are deities close to concepts and elements with the Blinding Abyss and multitude of "dark gods," those, including Vog, do not possess _strictly unexplicable malevolence_ across the narrative. The case of Vog specifically, because of its aid to Lord Vanaduke, can be interpreted as a cruel trickster god. The conquest motif, n the other hand, is attibuted to specific entities, such as Nefarious Imp due to its name, who we suggested to be an orchestrator of many events relating to Cradle, and Maulos, who represents trojans with their "poisoned minds," "cold hearts," and influence of Blinding Abyss as an archetypical in terms of mythology location.
+Underworld, when compared to Apocrean Realm, due to motivations of its actors, operates within understandable interpretation of reality, such as through corporate settting of Undercorp. While there are deities close to concepts and elements with the Blinding Abyss and multitude of "dark gods," those, including Vog, do not possess _strictly unexplicable malevolence_ across the narrative. The case of Vog specifically, because of its aid to Lord Vanaduke, can be interpreted as a cruel god. The conquest of material relam is attibuted to specific entities and orchestrator of many events relating to Cradle, come from within current framework as motivatedd by expansion of Underworld's civilization and an essential need in the resource of energy which Underworld supposedly lacks.
 
-The rest of inhabitants of Underworld possesss perceivable motivations and it is through them we have arrived to an idea of energy being the prime reason for their continious targeting of Cradle.
+As Undercorp is motivated by energy and souls which contain said energy, they still are close in their principles to Apocrea due to both operating through souls as a resource.
 
-As Undercorp is motivated by energy and souls which contain said energy, they still are close in their principles to Apocrea due to _both operating through souls as a resource_.
+Underworld had attempted to siege Cradle across different periods of time, and every time they leave their methods and technology which had allowed us to identify that pattern in the first place. Gremlins are not the exception, as we have seen their technology to be related to one of Undercorp, and as the latter allows for their own technology, such as monster doors, to be widely used across Clockworks, it eventually culminated in creation of the Swarm.
 
-Underworld had attempted to siege Cradle across different periods of time, and every time they leave their methods and technology which had allowed us to identify that pattern in the first place. Gremlins are not the exceptions here, as we have seen their technology to be related to one of Undercorp, and as the latter allows for their own technology, such as monster doors, to be widely used across Clockworks. Even the curse, which we have discussed extensively in relation to nature of the Swarm, is signature of Underworld's presence and motifs.
+Madness itself is one of thematic elemnts for Apocrea as dreams are for its ability to influence reality, while for Underworld, madness is restricted in its presence to properties of dark matter and shadow energy, `Shadow damage is generally caused by concentrations of negative energy. Attacks that inflict shadow damage include anything from the psychic manipulation of the aforementioned negative energy to physical attacks using weapons forged from dark matter` ([The Shadow Knows - Hahn](https://wiki.spiralknights.com/The_Shadow_Knows)), `Striking with the savage power of the Underworld, this dark weapon has been known to drive weak-minded knights to the brink of madness` ([Acheron](https://wiki.spiralknights.com/Acheron)). Within the theme of weapons, and knights explicitly, we can only compare this case of madness to one of trojans, Lord Vanaduke, Black Kats -- as instances of that madness. But, this comparison suffers from the same lack of defintion of madness as a concept, partially due to metaphorical layering of Sleeper's speech.
 
-Madness itself is the prime thematic focus, as well as dreams, for Apocrea, while for Underworld, madness is restricted in its presence only to properties of dark matter and shadow energy or damage, as a far lesser theme: `Shadow damage is generally caused by concentrations of negative energy. Attacks that inflict shadow damage include anything from the psychic manipulation of the aforementioned negative energy to physical attacks using weapons forged from dark matter` ([The Shadow Knows - Hahn](https://wiki.spiralknights.com/The_Shadow_Knows)). As Acheron frames it: `Striking with the savage power of the Underworld, this dark weapon has been known to drive weak-minded knights to the brink of madness` ([Acheron](https://wiki.spiralknights.com/Acheron)). Within the theme of weapons, and knights explicitly, we can only compare this case of madness to one of Arkus and trojans - as potential instances of madness. But, this comparison suffers from the same lack of defintion of madness as a concept, partially due to metaphorical layering of Sleeper's speech.
-
-Previously we have mentioned that curse had not effect on motivation of curse-influenced entities - as Lord Vanaduke's relation to Almire, as Arkus's and trojans' relation to Guardian's Oath, and Margrel attainment of the Book of Grey Feathers, - only __their objective reasoning was betrayed, but the subjective goal had remained unchanged__.
+Previously we have mentioned that curse had not effect on motivation of curse-influenced entities -- as Lord Vanaduke's relation to Almire, as Arkus's and trojans' relation to Guardian's Oath, and Margrel attainment of the Book of Grey Feathers, -- only __their objective reasoning was betrayed, but the subjective goal had remained unchanged__.
 
 Within this paradigm in mind, what can be derived of Architect's motivations, existence of Cradle and the state it is discovered in, as well as Herex's motivations?
 
-##### Architect's Madness: Part 2 - Undercorp
+##### Architect's Madness: Part 2: Undercorp
 
-The established idea of Sleeper's protection by means of guardian civilization was further proved by Parma's statement of gremlins nbeing in charge of Cradle's defenses: `` ([Dreams and Nightmares - Refuge - Parma's Scout]()).
+The established idea of Sleeper's protection by means of guardian civilization was further proved by Parma's statement of gremlins being in charge of Cradle's defenses: `Once, the gremlins were in charge of maintaining Cradle's defenses. But they had their own plans` ([Dreams and Nightmares - Refuge - Parma's Scout]()).
 
-Throughout the chapter we came to the idea of gremlins attempting to secure Cradle after the Swarm was created through means of sealing the Core, and, we proposed it being a change from explicit ptotection of the planet to their own security, which can also be interpreted as breakage of the Pact, where Sleeper's fortress became a prison.
+Throughout the discussion we came to the conclusion of gremlins attempting to secure Cradle after the Swarm was created. We proposed a change to happen from __explicit protection of the planet to their own security__.
 
-If we develop this narrative further, as we extrapolate the previous thematic occurances, the Architect in his madness would be one to indirectly initiate creation of the Swarm. This Undercorp-based solution requires us to analyze only 2 essentials of Swarm: curse and Whitespace, where the latter is the initial physical body of this entity, while the curse, or the other element in place of it, is the driving force, which had allowed for a separation from the Core. _Possibility of presence of curse in Swarm's nature would contribute to curse-derived madness of Architect, leading to direct involvement of Undercorp_.
+If we develop this narrative further, as we extrapolate the previous thematic occurances, the Architect in his madness would be one to indirectly initiate creation of the Swarm. This required us to analyze only 2 essentials of Swarm: curse and Whitespace, where the latter is the initial physical body of this entity, while the curse, or the other element in place of it, is the driving force, which had allowed for a separation from the Core and attainment of its own will. Possibility of presence of curse in Swarm's nature would contribute to potentially curse-derived madness of Architect.
 
-Then, the means of this madness, as one according to the pattern, are to be induced by Undercorp. This requires a time, where Undercorp had to appoach the Architect during a conflict or in preparation to it - one, as we now know from previous iteration of this pattern, should have resolved an important aspect of the targeted civilization. The conflict we are refering to is one of similar nature as when Almire was about to fall, Kat tribe being a tool for aquisition of the book, and trojans being led away from Guardian's Oath in means of becoming Underworld's army. The only conflict we are aware for gremlins is the darkness Sleeper had to be protected from, so its introduction through Undercorp's schemes is possible.
+Then, the means of this madness, as one according to the pattern, are to be induced through operations of Underworld. This requires a time, where Undercorp had to appoach the Architect during a conflict or in preparation to it, currently identified by outsourced wotk to devilites and their presencee across Clowwork tunnels.
 
-As we have seen devilite-inhabited Clockworks, their presence as Undercorp towards whome gremlins outsource their work, presence of undeath across Clockworks, it would be plausble to suggest, that in case of construction of the megastructure, Undercorp presented its technology or people, as manpower.
+The only conflict we are aware for gremlins is the darkness Sleeper had to be protected from.
 
-This explanation may reveal reasons for Architect's madness to be one of similar origin as Lord Vanaduke's, where Architect becomes the source of the affliction, as the affliction would be applied, reminiscent of Almire being cursed, to Whitesapce - as the location meant to be protected.
+As we have seen devilite-inhabited Clockworks, their presence as Undercorp towards whome gremlins outsource their work, presence of undeath across Clockworks, application of monster doors with fiendish imagery, exists by the time Isorans arrive, it would be plausble to suggest, that in case of construction of the megastructure, Undercorp presented its technology.
 
-Then we are given a narrative of undesirable realms being opened - to Underworld and of the Void being opened from material realm by the Swarm.
+This explanation may reveal reasons for Architect's madness to be one of similar origin as Lord Vanaduke's, where the Architect becomes the source of the affliction, as the affliction would be applied, reminiscent of Almire being cursed, to Whitesapce, as the location meant to be protected.
 
-Specifically, why no other entity had opened the Void, as a primordial realm? Could this be explained by primordial nature of Sleeper's presence and Whitespace as its proxy? At that, why the Void was not opened before - does awareness of it comes from the nature of afflicted with curse entity? If it is the latter, then this would tether the Void and Nameless Realm further, but not explanain the reasoning for Void being opened. More so, if Void is chaotic as Nameless Realm, and Swarm is capable of manipulating it, why entities from opposite end would not be capable of doing so?
+Then we presented a narrative of undesirable realms being opened -- Underworld and the Void.
 
-As the Void is one of primordial realms, as much as Nameless relam is reminiscent of it as an opposite with an excess of energy, we should acknowledge our suspitions regarding the Void being the primordial blackness Danford was speaking of.
+Why the Void was not opened before? Does awareness of it come from the nature of afflicted with curse entity? If it is, then this would tether the Void and paradise further, but not explanain the reasoning for Void being opened.
 
-This would introduce Apocrea as one to be involved into the events of Cradle at a greater scale than the apperances of the Shroud.
+Eventually we arrived to the idea which identified the Void, Nameless realm and primordial black as states of first matter. This had introduced Apocrea as one to be involved into the events of Cradle at a greater scale than the apperances of the Shroud.
 
-With this, we should examine possibility of Apocrea's involvement.
+##### Architect's Madness: Part 3: Theme of Seige of Cradle
 
-##### Architect's Madness: Part 3 - Roaring Engines
+The Swarm, compared to previous iterations of means to seize Cradle, as Vanaduke's army and Margrel's Tribe of Black Kats, becomes a most powerfull and promising to date method which would achieve a seemingly desirable outcome.
 
-If we attempt to acknowledge Danford's words regarding `engines roaring, heard screaming across distant stars` ([Allister Danford](https://forums.spiralknights.com/en/node/91276)), the Swarm, while being the most recent attempt of Undercorp to siege material realm, _the act of opening the Void and consuming souls had made it to resemble_ [Apocrean engine](), as the Swarm possess all essential charateristics of the engine:
-
-- It has capacity for metaphysical consumtion, souls included, which are seen in the Core.
-
-    `Only souls keep these engines roaring ... Only souls can fill their void, sublime in its vast emptiness`
-
-- Then the sense of hearing is involved
-
-    `The Nine are deaf, they cannot hear the Resonance that beats within this world` [Spark and Roar - Hidden Hideout - Herex]().
-
-    `Only souls keep these engines roaring, heard screaming across distant stars`
-
-- Act of hunger and limitless expansion, mentioned by Sleeper, suggets a degree of danger to existence.
-
-    `HOLD DEARLY THIS FIRE IN YOU, FOR DARKNESS WILL CONSUME ALL THE NIGHT IF ITS STARS BEGIN TO FADE.` (Echo Stone: Royal Jelly Palace)
-
-    `All of them mere crops against their relentless scythe! Though they may steal sanctuary in the cracks and corners of their terrible realm, it is ever fleeting. The blinding gaze of the Apocrea is boundless. ... The daylight, the starlight; all hope is merely waiting for their dark shroud to return this cosmic play to its primordial black. ... It is an abomination, an embodiment of sublime beauty, dark and blooded!`
-
-We also know the result of that event, of Sleeper being sealed and Undercorp appearing in the material realm.
-
-The Swarm, compared to previous iterations, as Vanaduke's army and Margrel's Tribe of Black Kats, seems us as a tool which would achieve a desirable outcome in their subjective perception.
-
-We are placing Tinkinzar's madness between themes of alchemical Great Work and a hindrance to achieve it through a repeated pattern of civilizations crumbling to Underworld's sabotage. The madness here holds the aspect of above motif of cosmic horror story, _reminiscent of our comparison of Herex's disappearance to Tinkinzar's_.
+We are placing Tinkinzar's madness between themes of alchemical Great Work and a hindrance to achieve Great Work through a repeated pattern of civilizations crumbling to Underworld's sabotage. The madness here holds the aspect of above motif of cosmic horror story, reminiscent of our comparison of Herex's madness to one of Tinkinzar.
 
 Swarm's creation is an act of introduction of curse and a narrative of cosmic horror:
 
@@ -10386,81 +10369,112 @@ Swarm's creation is an act of introduction of curse and a narrative of cosmic ho
 
   This theme introduces a justified motif of madness within the abstracted cosmic horror story. Based on the eldritch component of the narrative, it is revealing nature of truth as maddening by being a case of [going mad from the revelation](https://tvtropes.org/pmwiki/pmwiki.php/Main/GoMadFromTheRevelation). It is embodied by Herex and a later rank missions transition to this theme most recognized by seeming inexplicability of the Swarm.
 
-- The concept of king Tinkinzar, as we have proposed, is to be linked to the trope of the philosopher-king, stemming from the king Solomon. The archetypical nature of the narrative reflects in the myth-like framing of the Architect, including the paradoxical events of Somolom's later reign, which had followed the initial construction of the First Temple.
+- The concept of king Tinkinzar, as we have proposed, is to be linked to the trope of the _philosopher-king falling to illusions_ -- a narrative we will explore in relation to king Solomon as he potential inspiration for Architect's character. The archetypical nature of the narrative reflects in the myth-like framing of the Architect, including the paradoxical events of king Solomon's later reign which had followed the initial construction of the First Temple.
 
-Contrary to Lord vanaduke and perception of him as in misery by, including but not limited to, Nature Sprites, suggests that Sleeper has eiether a different morality, or, the deed that was done by the Architect was unforgivable in Sleeper's eyes. As the prior has less chances to be true, given vagueness and affiliations of Sleeper, we are leaning to the idea of Architect willingly discovering and going through the process resultig in madness.
+Compared to Lord Vanaduke and his relation to Spirit Mother through Nature Sprites, the deed that was done by the Architect was not unforgivel by Sleeper as it calls this act a betrayal.
 
-Then, the last component due to which, mainly, the entire timeline was reconstructed, - the pattern of Underworld's intervention first as a newfound source of power desired within the context of an isolated narrative.
+This connection can be couple with the process resulting in madness, similar to Herex, as within this perspective of betrayal, __affiliation with the Swarm and its symbolism is the key element which can reveal the nature of madness__.
 
-It is represented by Tortomega falling to Undercorp, Owlites erased by Kataclysm, Almire falling due to Lord Vanaduke's actions, and several smaller narratives such as trojans, Kat Tribe, and Snarbolax, - all related to different iterations and manifestations of curse as both literal and metaphorical carrier of Underworld's presence.
+Then, the last component, due to which, mainly, the entire timeline gains a theme, -- the pattern of Underworld's intervention coupled with inique state of Cradle as containing an access to paradise.
 
-By addition to each iteration of a greater scope of the narrative than previous - as _Tortomega were set in the woods_, as Almire was _a kingdom eventually becoming and undead empire_, and as Owlites were set in the _setting of the entirety of heavenly kingdom_, gremlins are paired with an entire planet, while encompassing all of the prior, - this seems as a distinct narrative if framed in such manner.
+It is represented by Tortomega falling to Undercorp, Owlites erased by Kataclysm, Almire falling due to Lord Vanaduke's actions, and several smaller narratives such as trojans and Kat Tribe, - all related to different iterations and manifestations of curse as both literal and metaphorical carrier of Underworld's presence.
+
+In addition, __each iteration of that plot, the setting attains a greater scope than the previous__ -- as _Tortomega were set in the woods_, as Almire was _a kingdom eventually becoming and undead empire_, and as Owlites were set in the _setting of the entirety of heavenly kingdom_, _gremlins are paired with an entire planet_, while encompassing all of the prior, while capturing them in skydomes, suspended indefinitely.
 
 With all of those components, we suggest the justification behind introduction of curse to Swarm's creation, as a part of an ultimate failure to uphold the Pact struck with the Sleeper is due to Underworld's influence.
 
-At that, the madness is reinstated by the cosmic horror theme and nature of truth (`The Nine are blind, they cannot see the Truth that lies below. The Nine are deaf, they cannot hear the Resonance that beats within this world` [Spark and Roar - Hidden Hideout - Herex]()).
+<!--The madness is reinstated by the cosmic horror theme and nature of truth (`The Nine are blind, they cannot see the Truth that lies below. The Nine are deaf, they cannot hear the Resonance that beats within this world` [Spark and Roar - Hidden Hideout - Herex]()).-->
 
-Both enigmatic nature of Tinkinzar and his seemingly [deathless reign]() up until recent events is not commonly seen so far as a motif. The only entity which could be compared to him would be Nefarious Imp, as it had to outlast titans as species from their initial beginnings prior to Undercorp's involvement and to the recent events of [Arctic plot](#arctic-plot) and at least up to creation of Gran Faust, due to latter's design.
+<!--Both enigmatic nature of Tinkinzar and his, seemingly, [immortal reign]() up until recent events is not commonly seen so far as a motif. The only entities which could be comparable to him would be Nefarious Imp and Fallen Valkyrian.-->
 
-With this narrative of power and Truth or the Resonance, we suggest, that the Swarm, as Sleeper's antithesis, as it fulfills the role Sleeper was intended to perform, of a unity of guardian civilization with a deity, but framed into complete sudjugation of the species by the semi-deific entity which lack will, but is driven by instinct.
+<!--With this narrative of power and Truth or the Resonance, we suggest, that the Swarm, as Sleeper's antithesis, as it fulfills the role Sleeper was intended to perform, of a unity of guardian civilization with a deity, but framed into complete sudjugation of the species by the semi-deific entity which lack will, but is driven by instinct.-->
 
-And, as it was seen, Swarm's primary motivation is of consumption. So, we can extrapolate the detrimental effects of the pattern onto this period of time, where the curse in its many iterations had led to consumtion of the civilization in question. As Kat Tribe became cursed, undead and immortal, as kingdom of Almire achieved immortality through curse by being burned by Vanaduke's shadow fires, so gremlins and rest of Cradle had to fall to the Swarm. But, compred to earlier intances, the Void makes this act more literal, described by the nature of consumption.
+<!--Swarm's primary motivation is consumption. We can extrapolate the detrimental effects of the pattern onto this period of time, where the curse in its many iterations had led to consumtion of the civilization in question. As Kat Tribe became cursed, undead and immortal, as kingdom of Almire achieved immortality through curse by being burned by Vanaduke's shadow fires, so gremlins and rest of Cradle had to fall to the Swarm. But, compred to earlier intances, the Void makes this act more literal, described by the nature of consumption.-->
 
-With this, we can propose, that __Herex's goal is to intentionally replicate a flawed state of immortality__, where the flaws are concealed by the maddened state of the actor. This scenario was achieved before by past civilizations through curse and Underworld, - a failure of the Great Work, while the proposed scenario, as it is envisioned by Tinkinzar, is one of completing the Work. At that, _the immortality in case of gremlins is achieved by being consumed, - as souls, - which is similar to Kats and Almire's army being stripped of their identities, with only base instincts remaining_.
+We can speculate that the attainment of immortality through curse can be the driving factor, which would reframe the madness as an attempt to reach that state of being in a controlled manner, but, as seen in case of the Swarm, it is achieved by being consumed, as souls, stripped of their identities, with only base instincts remaining, if not those, too, being subjected to Swarm's will.
 
-##### Architect's Madness: Part 4 - Apocrea
+<!--With this, we can propose, that __Herex's goal is to intentionally replicate a flawed state of immortality__, where the flaws are concealed by the maddened state of the actor and negating nature of being. This scenario was achieved before by past civilizations through curse and Underworld, - a failure of the Great Work, while the proposed scenario, as it is envisioned by Tinkinzar, is one of completing the Work. At that, _the immortality in case of gremlins is achieved by being consumed, - as souls, - which is similar to Kats and Almire's army being stripped of their identities, with only base instincts remaining_.-->
+
+##### Architect's Madness: Part 4: Apocrea
 
 As Swarm's goals and symbolism were relatively covered, but the nature of Architect's madness remains, as well as earlier question of why only the Swarm, as a supposed curse-driven entity, had opened the Void in the first place.
 
-As we have no distinct, thematically fitting answer when looking only for Undercorp's involvement, we will perform a logical leap and include Apocrea as the perpetrator and as the true source of madness, one, which we have mentioned when we were comparing curse-derived madness to one of Apocrea, - proposing, that the nature of Architect's madness stems from influence of Apocrea.
+As we have no distinct, thematically fitting answer when looking only for Underworld's involvement, we will perform a logical leap and include Apocrea as the perpetrator and as the true source of madness, proposing that the nature of Architect's madness stems from influence of Apocrea.
 
-We have already suggested a connection between _Swarm and Apocrean engines_, as well as the _Void and primordial black_, so, could other connections be discovered? In order to do so, we have to analyze now with the knowledge of other periods of time the events of Shroud of Apocrea.
+Since we connected Apocrean realm and Underworld through common laws within minerals and ritual circles, wherein Underworld inherits this technology and knowledge from an eldritch realm, this leap may be seen as less unexpected.
+
+If we attempt to acknowledge Danford's words regarding `engines roaring, heard screaming across distant stars` ([Allister Danford](https://forums.spiralknights.com/en/node/91276)), the Swarm, while being the most recent attempt of Underworld to siege material realm, _the act of opening the Void and consuming souls had made it to resemble_ [Apocrean engine](), as the Swarm possess all essential charateristics of the engine:
+
+- It has capacity for consumtion of matter, including souls:
+
+    - `Only souls keep these engines roaring ... Only souls can fill their void, sublime in its vast emptiness`
+
+- The sense of hearing is involved when referring to the Swarm:
+
+    - `The Nine are deaf, they cannot hear the Resonance that beats within this world` ([Spark and Roar - Hidden Hideout - Herex]()).
+    - `Only souls keep these engines roaring, heard screaming across distant stars`
+
+- Act of hunger and limitless expansion, accented by Sleeper, suggets a degree of danger to existence:
+
+    - `... FOR DARKNESS WILL CONSUME ALL THE NIGHT IF ITS STARS BEGIN TO FADE` (Echo Stone: Royal Jelly Palace).
+    - `All of them mere crops against their relentless scythe! Though they may steal sanctuary in the cracks and corners of their terrible realm, it is ever fleeting. The blinding gaze of the Apocrea is boundless. ... The daylight, the starlight; all hope is merely waiting for their dark shroud to return this cosmic play to its primordial black. ... It is an abomination, an embodiment of sublime beauty, dark and blooded!`
+
+This connection between Swarm and Apocrean engines, as well as [the Void and primordial black], we will use as our foundation. In order to do so, we have to discuss now with the knowledge of other periods of time the events of Shroud of Apocrea.
 
 ##### Obsidian Nexus
 
-Entrance to the Nexus is done throuhh a portal, manifested by the Harvester diring a traversal of Haunted Passage within the Clockworks. The same portal is then seen at the end of the Nexus, which suggests that the Nexus itself exists in a remote location.
+Entrance to the Nexus is done through a portal, manifested by the Harvester during the traversal of Haunted Passage within the Clockworks. The same portal is then seen at the end of the Nexus which suggests that the Nexus itself exists in a remote location.
 
-The name itself, nexus, suggests it being a location, which provides a connection between several points, here being the material realm and Apocrean Realm. And, as it is Apocrean entity, likely Harvester, who captures the knight, we can assume that the Nexus itself is located within the Shroud and, potentially, within APocrean Realm proper.
+The name itself -- nexus -- suggests it being a location, which provides a connection between several points, here being the material realm and Apocrean Realm. And, as it is Apocrean entity, likely Harvester, who captures the knight, we can assume that the Nexus itself is located within the Shroud and, potentially, within Apocrean Realm proper.
 
-As far as current metaphysics allow, there are no entities which can willingly open a connection between Realms, apart from the Swarm when it opened the Void. Imn other cases - Dark Ritual, sumoning of Black Kats, summoning of Legion of Ur, initiation of the Katasrophe, - all of those events require a ritual to be performed.
+As far as current metaphysics allow, there are no entities which can willingly open a connection between Realms, apart from the Swarm when it had opened the Void. In other cases, Dark Ritual, sumoning of Black Kats, summoning of Legion of Ur, initiation of the Kataclysm, -- all of those events _require a ritual to be performed_.
 
-As we [have already covered the architecture of the Nexus](), we will reiterate only on the design pattern, which will estcblish itself properly in the Deprature - of the supposed eternal energy emerging from below the obsidian floors, accompanied by the rectangular lining between the sems of the floor obsidian platforms. Specifically at the exit from the Nexus, the lines do to go along the seams of the floor tiles, but extend in a tree-like pattern of irregular angles from the portal.
+As we [have already covered the architecture of the Nexus](#onyx-castle-of-kadath-dreamlands), we will reiterate only on the design pattern, which will establish itself properly in the Deprature -- of the _eternal energy emerging from below the obsidian floors_, accompanied by the _lining between the floor seams of the obsidian platforms_. Specifically at the exit from the Nexus, the lines do to go along the seams of the floor tiles, but extend in a tree-like pattern of irregular angles from the portal.
 
-This pattern of eternal energy being visibly spread from the central elemnts is characteristic of not only the portal, but of obsidian obelisks, weather or not those are seem to emerge through broken floors, or possess a solid base, where the latter is surrounded by the rectangular pattern of the the glow.
+This pattern of eternal energy being visibly spread from the central elements is characteristic of not only the portal, but of obsidian obelisks, while those are seen to emerge through broken floors, revealing glow of eternal energy below.
 
 ##### Departure
 
-In the Departure, a design of lines, or flows of eternal energy is seen most distincly, as the architecture presents itself among irregulary placed obsidian peaks and obelisks is now replaced with a seemignly cityscape, as poklished obsidian floor are seen through out the area below the knight. Across those floor the occasianl giant floating obelists are seen, which preserve the pattern of being surrounded by the rectangulat patterns of eternal enery flow.
+In the Departure, a design of lines, or flows of eternal energy is seen most distincly, as the architecture presents itself among irregulary placed obsidian peaks and obelisks is now replaced with a cityscape, as polished obsidian floor are seen throughout the area. Across those floors the occasional giant floating obelists are seen which preserve the pattern of being surrounded by the rectangular lining of eternal enery flow.
 
-It is also there a descrete obsidian structure is observed - of cube on a pedestal, with 2 rectangular pillars at pedestal corners. Both near surface of the cube and top surfaces of the pillrs possess a symbol of 2 recrtangles, one smaller drawn within the larger, at differnt angles of rotation of the surface. This patten is placed into a third square, which goes along the sides of the surface. In fact, the cube structure is a pyramid, as on top of it a samller cube is seen, with lines going along the rest of the first layer.
+It is also there a descrete obsidian structure is observed -- of cube on a pedestal, with 2 rectangular pillars at pedestal corners. Both near surface of the cube and top surfaces of the pillrs possess a symbol of 2 recrtangles, one smaller, drawn within the larger at a different angle of rotation. This pattern is placed into a third square, the largest, which fits onto the surface with no altered angles, its sides parallel to the sides of the cube.
 
-##### Minerals and Souls: Part 5 - Dark Matter
+The cube is then revealed to be a pyramid or ziggurat, as on top of it a samller cube is seen, with lines going along the rest of the first layer.
 
-This architecture reaveals 3 important elemnts:
+Obelisk of Creation is the only known other mechanism which allows creation of gear indistinguishable from alchemy stations, while the portal into the shroud is the only method of traversing across material relam with, seemingly, no ritual involved even compared to the grim gates.
 
-- It suggests a potential symbol of the realm;
-- Allows to observe it as a potential reference of Apocrean architecture of the cities.
-- The design pattern of eternal energy being separate from circles of art made of minerals. Or, as the gold circles are observed to also floet at the Grasping Plateau, may reveeal it being deeply related to dark matter.
+<!--##### Minerals and Souls: Part 5: Dark Matter-->
 
-As the presence of eternal energy in set patterns or dark matter is our second link regrding a connection between Apocrean Realm and the Swarm, it also introduces a potential for minerals to possess more arcane properties. While we have seen minerals yto float within the pillars, it being capale of floating in this utilitary form, if it is a mineral, is a new concept. And, if it is related to minerals, our prime suspect for its identity, as a physial container of its powerm, eternal energy, is dark matter both due to its color, being related and likely found in the Underwolrrd, and its dual nature of `chaos and nothingness` ([Dark Matter]()).
+<!--- It suggests a potential symbol of the realm through one depicted on the cube, symbol for alchemy of the other principle used to create obsidian gear;-->
 
-At that, we propose, that eternal energy, which is found below the grouds of Apocrean Relam, is one to be identified as the essence of chaos and nothingness of dark matter.
+<!--The design pattern of eternal energy is separate from circles of art made of minerals, yet it bears a resemblence to Whitespace through its utilization of rectangular patterns.-->
 
-This proposal would establish negative energy of shadow damage-focused weapons, its purple color, to one of Apocrea, which can be seen as plausible due to the capacity of this energy, of dark matter-infused weapons, being Archeron as prime example, to cause madness.
+A connection between shadow damamge, shadow energy, dark enery, and eternal energy remains as it was explored in the initial analysis of APocrean realm. While all eventually relate back to universal energy as the first matter, the resemblence and relation to chaos and nothingness, as its aspect captured in dark matter, must be accounted for.
+
+<!--As the presence of eternal energy in set patterns reminsicent of dark matter is our third link regarding a connection between Apocrean Realm and the Swarm, it also introduces a potential for minerals to possess more arcane properties.-->
+
+<!--While we have seen minerals to float within the mineral pillars across Clockworks, it being capable of floating in this utilitary form, if it is a mineral, is a new concept. And, if it is related to minerals, our prime suspect for its identity, as a physial container of its powerm, eternal energy, is dark matter both due to its color, being related and likely found in the Underwolrrd, and its dual nature of `chaos and nothingness` ([Dark Matter]()).-->
+
+<!--At that, we propose, that eternal energy, which is found below the grouds of Apocrean Relam, is one to be identified as the essence of chaos and nothingness of dark matter.-->
+
+Those connection establish negative energy of shadow damage-focused weapons, its purple color, to one of Apocrea, which can be seen as plausible due to the capacity of this energy, of dark matter-infused weapons, being Archeron as prime example, to cause madness.
 
 <!--This connection leads to 2 conclusions:
 
 - Dark Matter is one to be included in trojans' supposed madness, one of Arkus, and related to Darkfire Vanaduke and Carnavons.
 - Souls, as variation of energy, identical to one within the minerals has to relate to the eternal energy, as well as concepts of chaos and nothingness, identifying those as one.-->
 
-In this context of identifying distinct in color energy of souls, eternal energy, and one powering the Swarm, we would like to focus of the subtle design similarity of obsidian obelisks and Swarm source:
+In this context of identifying distinct in color energy of souls, eternal energy, and one powering the Swarm, we would like to focus on the subtle design similarity of obsidian obelisks and Swarm source:
 
-- Polished obsidian tiles possess rectangular shape of varying size, which we can compare to pattern the Void possesses. At that, we do known that the cities are being built using the essence (), while the rest of the matter, likely, the obsidian, is being dreamt up by Apocrea (). Could it be, that the Void is one which is reshaped by Apocrea in the same, but mastered form, as the Swarm in the material realm?
-- Presence of a distinct source of eternal energy - as the obelisk, - is similar to the Swarm source central elemnt of the Unknown Symbol being a source of Swarm's energy behind manipulation of the Void.
+- Polished obsidian tiles possess rectangular shape of varying size which we can compare to pattern the Void possesses, also is found in the design pattern of eternal energy bearing resemblence to Whitespace through its utilization of rectangular patterns.
+
+  We know that the cities are being built using the binding essence, while the rest of the matter, the obsidian, is being dreamt up by Apocrea, as a potential alternative to matter of Whitespace, wherein obsidian is called as such due to visual similarities.
+
+- Presence of a distinct source of eternal energy -- as the obelisk, -- is similar to the Swarm source as one of more prominent symbols of the Unknown Passage, bearing a [unique symbol](#symbol-of-unknown-passage) being a source of Swarm's energy behind manipulation of the Void, _a point of origin of its propagation_.
 - Within the Swarm source, the energy is present both in a rectargular pattern and from a singular source.
-- As etental energy is fpuld tp be below the floors of locations within Apocrean Relam, internals of Void Minsters from Swarm are also seen to posses a differnt color, of the energy, accompnying the Swarm.
+- As etental energy is found to be below the floors of locations within the shroud, internals of Void monsters are seen to possess a differnt color and uniform physiology of the [energy of pink color same as one integrated within the Swarm](#color-of-the-swarm), proposed to be [derived of curse within the Void](#curse-annex-and-the-swarm).
 
-Those similarities make us think of __an inherent connection between principles which Swarm utilizes to contain its energy, and of Apocrean Realm__.
+Through those similarities we propose of __an inherent connection between principles which Swarm utilizes to contain its energy and of Apocrean Realm__.
 
 ##### Significance of Purple Color
 
