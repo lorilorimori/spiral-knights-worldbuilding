@@ -9495,7 +9495,7 @@ Now we will elaborate on the details of the symbolism behind definition of energ
 
 </BookCitation>
 
-This coincides with the soul deeply related to _omnipresence of energy_, furthermore found in the Core, as a distinctly divine location not through specific of the tunnels of the megastructure, but its role. The attribute of chaos and specifically Nameless Realm, as one considering all statues, we propose, can now be linked through the alchemical meaning back to the nature of energy, wherein energy, through its presence, becomes the first matter. Such interpretation would __bridge the gap between__ the [celestial, divine and chaotic motifs]() __as different manifestations of the first matter__ _across different period of time_.
+This coincides with the soul deeply related to _omnipresence of energy_, furthermore found in the Core, as a distinctly divine location not through specific of the tunnels of the megastructure, but its role. The attribute of chaos and, specifically, Nameless Realm, as one considering all status effects, we propose, can now be linked through the alchemical meaning back to the nature of energy, wherein energy, through its presence, becomes the first matter. Such interpretation would __bridge the gap between__ the [celestial, divine and chaotic motifs]() __as different manifestations of the first matter__ _across different period of time_.
 
 For each civilization of Cradle first matter is found through the lens of what those species search and how theier method of search is performed:
 
@@ -9615,7 +9615,7 @@ As the general outline of the relation between the Core, Sleeper, and gremlins i
 
 Due to this, identifying precise nature of the Void is instrumental to any further analysis or progress in regards to understanding the supposed nature of the Swarm and of the events which had happened between complete erasure of Owlites and arrival of gremlins.
 
-We [proposed]() that the omnipresent energy took place of first matter, manifested and transferred in different mediums, taking inspiration both from medieval alchemy and 20th century physics, which fits the fantastic and mediavalistic setting of Spiral Knights.
+We [proposed](#alchemical-analysis) that the omnipresent energy took place of first matter, manifested and transferred in different mediums, taking inspiration both from medieval alchemy and 20th century physics, which fits the fantastic and mediavalistic setting of Spiral Knights.
 
 This duality of medieval and futuristic is reflected in Isorans themselves, as they, by the nature of being named knights, have corresponding designs, which incorporate a lot of different time periods into a technologically advanced basis. Given our identification of [Shadow Lairs as an alchemical process](), this thematic parity of the Swarm and Isorans can be seem as a concrete correspondence when isorans are forced into a position of valkyries as the next iteration of guardians of heavens.
 
@@ -9694,7 +9694,7 @@ Apocrea being an eldritch entity, we compared motif of dreams to dreaming deitie
 
 Then there was analysis of Sleeper, whose metaphorical world, dream, and act of dreaming also have resulted in a concepts seen as supernatural from the perspective of an inhabitant of the material realm, tied and manifested in Whitespace.
 
-Yet, Apocrean dreaming motif itself is presented as follows:
+Apocrean dreaming motif itself is presented as follows:
 
 - `Plucked from the depths of the Apocrean realm, Obsidian Prize boxes are almost certainly guaranteed to not induce madness upon ownership. ... And opening one will not in any way unleash a terrible, ancient entity from a world of unending, dark dreams into your own` ([Announcement](https://forums.spiralknights.com/en/node/91276)).
 - `'Wrap thyself in my embrace and succumb to my infinite love. Let your breath drift from you like candle smoke, dreaming deeper and deeper still'` ([Obsidian Mantle of Devotion](https://wiki.spiralknights.com/Obsidian_Mantle_of_Devotion#Obsidian_Mantle_of_Devotion)).
@@ -9775,7 +9775,7 @@ While keeping this narrative of Kats in mind, we also bring up the Book of Grey 
 
 In this case we observe a seemingly divine tool operating by principles, which are common with other realms. This is the parallel which we have seen multiple times, but now with the addition of Apocrea and Sleeper, energy and the Void, we observe a distinct presence of __opposites with a common physical foundation__.
 
-As The Book of Grey Feathers was the cause of Kataclysm, we observe a narrative, where _prime tools_, in case of Owlites being magic tomes, __become the catalyst for civilization's downfall_.
+As The Book of Grey Feathers was the cause of Kataclysm, we observe a narrative, where _prime tools_, in case of Owlites being magic tomes, _become the catalyst for civilization's downfall_.
 
 This association is similar to earlier proposal of the key technology of those civilizations becoming their downfall while being the [reflections of the first matter through their unique perspectives as methods of understanding their present reality](#alchemical-analysis).
 

@@ -20,15 +20,17 @@
   - `-- ..., --`,
   - ` , \`...citation...\`, `
 
+- rebis thery is removed
+
 - `Apocrean Realm` -> `Apocrean realm` (canon spelling)
 - `Kat tribe` -> `Kat Tribe` (canon spelling)
 - replace `kill` with synonyms (dispatched)
 - seemingly/seems -> synonyms
 - Battle Sptrite -> battle sprite
 - canon ~> cannon
-- rebis thery is removed
 - Console -> console
 - lab -> laboratory
+- hijacked -> synosym / seized
 
 ### CONSIDER
 
@@ -40,3 +42,7 @@
 - all gunslinger priests were isorans
 - griffins are descentands of wyverns and ancestors of valkyries and owlites
 - Kat are inherently divine, celestial beings, exist within heavenly kingdom. Kat Tribe are defecive group associated with Underworld
+- herex activates rjp console during a new threat, reaches in with charged artifact after taking it from the lab
+- alchemy stations are built by isroans from clockwork materials
+- grim totems rebind souls with no vitality
+- from void/round chaos/massa confusa emerges nameless realm present with energy and divinity, followed by rest of realm. the void itself remains and manifests as chaos
