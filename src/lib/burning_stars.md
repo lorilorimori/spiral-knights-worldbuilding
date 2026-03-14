@@ -10208,11 +10208,10 @@ We acknowledge the absence or misplacement of curse within this narrative which 
 With this, we arrive to the proposed identity of the Swarm:
 
 - An entity of Whitespace, a paradise devoid of heavenly kingdom is recontained in the Core, was the force assisting gremlin empire in physical construction of Clockworks within Cradle according to the pact with its slumbering deity -- colloqially named Sleeper -- and gremlin king Tinkinzar, accorfing to which gremlins will build a secured fortress for Sleeper until it wakes up in exchange for gremlins gaining a home, reminiscent of the heavenly kingdom, and becoming guardians of the paradise after events of Kataclysm.
-- The king is stuck with madness a result of which a part of native to Whitespace being opens the Void -- a primordial realm as ancient as the Nameless Realm. Ether due to indtroduction of chaotic nature of the Void to divine Whitespace it becoms cursed, or by latter's being driven by an intent born of imposed curse, the resulting entity -- the Swarm -- gain power over Clockworks through syphoning of energy within the Core and using it to grow.
+- The king is struck with madness a result of which a part of native to Whitespace being opens the Void -- a primordial realm as ancient as the Nameless Realm. Either due to introduction of chaotic nature of the Void to divine Whitespace it becoms cursed, or by latter's being driven by an intent born of imposed curse, the resulting entity -- the Swarm -- gain power over Clockworks through syphoning of energy within the Core and using it to grow.
 - To stop the Swarm, gremlins seal the Core and sever the connection of it with the Swarm, trapping in in the location in proximty of the Core, the Unknown Passage.
 - The Swarm is either trapped both within and outside of the Core, remaining decoupled, or it is forced from the Core, remaining at the Unknown Passage, while gremlins seal access to those depths with a key made of Void.
-- - Gremlins, as Crinson Order, establish an Iron Law -- a principle of keeping the Core perpetually sealed, while hiding the device used to interface with the Core -- the Artifact.
-- The Swarm within the Uknown Passage breaches the Core and starts to feed on it, slowly regaining its power over the megastructure and its inhabitants.
+- The Swarm within the Unknown Passage breaches the Core and starts to feed on it, slowly regaining its power over the megastructure and its inhabitants.
 
 The cascade of those events began from Architect's madness which we intend to discuss next.
 
@@ -10230,19 +10229,15 @@ This threat of darkness of Underworld was initially _the reason for its protecti
 
 The designs identified by the [Greek key relate to an earlier time of Whitespace being united with the rest of Clockworks](#divine-clockwork-tunnels-and-whitespace).
 
-The Architect, given his role, also is framed as a figure which bridges divine aspects of Whitespace, reiteration of the paradise, and rest of gremlins. Those themes were the prime reason for our earlier proposal the king being a fictional symbol used by Crimson Order.
+The Architect, given his role, becomes the person who bridges divine aspects of Whitespace and gremlins. Eventually we have arrived to a more complex narrative which involves design of consoles and [symbolism of gremlin emblems](#intent-and-symbolism-of-gremlin-emblems).
 
-But, under interpretation of the king existing, we arrive to a more complex narrative which involves design of consoles and [symbolism of gremlin emblems](#intent-and-symbolism-of-gremlin-emblems).
+Consoles are places behind the throne room in a higher-elevation location with 2 entrances on the sides both of Royal Jelly Palace and Firestorm Citadel. Previously we suggested it to be an inner chamber behind monarch's protection for both heavenly kingdom and kingdom of Almire. Then, given established backgrounds and motifs, as well as the approximate time periods, we suggested those consoles serving for gremlin empire in multiple contexts, as mechanism operating the Core while constructed with its technology, as well as _symbolically and culturally important locations_.
 
-Consoles are places behind the throne room in a higher-elevation location with 2 entrances on the sides both of Royal Jelly Palace and Firestorm Citadel. Previously we suggested it to be an inner chamber behind monarch's protection for both heavenly kingdom and kingdom of Almire. Then, given established backgrounds and motifs, as well as the approximate time periods, we suggested those consoles serving for gremlin empire both in their function and symbolism -- as symbolically, culturally important locations.
-
-If we add imperial motifs of modern gremlin empire, we can crreate an idealised image of a state, an empire, whose autority was derived from interfacing with the divine. Due to how architecture of consoles and the Core depths differs greatly from modern gremlin designs, we will follow the imperial motif and refer to those technologically advanced designs -- the Artifact and the Consoles, -- as _Early Gremlin Empire_.
+If we add imperial motifs of modern gremlin empire, we can create an image of a state, an empire, whose autority was derived from interfacing with the divine. Due to how architecture of consoles and the Core differs greatly from modern gremlin designs, we will follow the imperial motif and refer to those technologically advanced designs -- the Artifact and the Consoles, -- as ones devised by an _Early Gremlin Empire_ when Clockworks were beuilt and the king was present as its architect.
 
 <!--Coincidentally, the Roarmulus Twins, as being derived of the myth of foundation of Rome, coincidentally, refer to the Roman Empire, seemingly a spiritual foundation for an early gremlin empire, one witnessed by Crimson Order and the king.-->
 
 <!--With this, we may have smaller range of languages, from which gremlin conlang was created. The runes point to a germanic origins, while the imperial motif points as greek or latin languages. Those could be potential stepping stones for identified the language, if it contains meaning.-->
-
-Now those loose ends covered, we can now discuss the Architect.
 
 #### King Tinkinzar, The Architect
 
