@@ -3540,15 +3540,7 @@ It is a specifc interpretation of a personafied force of death within a framewor
 
 Within this narrative _Apocrea becomes god of death, which denies natural cycle of life_ -- __it does not maintain order or balance, it is a one-directional purposed annihilation of existence__. It is a figure respresentative of an End-of-the-World narrative, where after reaching the state of `primordial blackness` the potential __cyclical rebirth of existence of classical mythology is denied__, as suggested by the acknowledgement of this natural order: `Oh such beautiful souls! Bright and vibrant like fruit warming on the branch from a summer’s sun, longing for the pull of the earth below, the chance to seed and grow and birth anew. What terrible naivety! What utter farce! All of them mere crops against their relentless scythe!`.
 
-Eldritch deities of Yog-Sothothery nor works beyond it do not define their goals as equal to negation of existence, but usually operate on their own, often unknowable to human conciousness, principles, which may be only perceived as negative or lackig from human perspective. This ambiguity of nuanced motivation, we suggest, is absent due to Danford's elaborate explanation coinciding with focus on harvest of souls from accounts of lot souls found across the Obsidian Nexus.
-
-But, it order to further identify Apocrea's effects on physical effects, we should eventually cover nature of the [Void](#the-void-part-1) and its possible relation to `primordial blackness`, as there are a few particularly similar concepts found across other metaphysical systems worth investigating in [due time](#the-void-part-2-massa-confusa):
-
-- _Wu Chi of Taoism_
-- _Chaos of Greek mythology_
-- _Ginnungagap of Norse mythology_
-- _Sunyata of Buddhism_
-- Alchemical Void
+Eldritch deities of Yog-Sothothery nor works beyond it do not define their goals as equal to negation of existence, but usually operate on their own, often unknowable to human conciousness, principles which may be only perceived as negative or lackig from human perspective. This ambiguity of nuanced motivation, we suggest, is absent due to Danford's elaborate explanation coinciding with focus on harvest of souls from accounts of lot souls found across the Obsidian Nexus.
 
 ##### Apocrean Materials
 
@@ -3787,28 +3779,24 @@ There are [scarabs](https://wiki.spiralknights.com/Scarab), which also have a si
 
 With this, the aforementioned three-dot pattern of Obsidian Crusher's explosion is a plausible depiction of Apocrea's eyes, assuming a simlar to Harvester eldritch physiology as native to Apocrean Realm.
 
-It is also here a narrative of false reality is established -- false or deceiving, through which Apocrea's eyes or gaze allows to see through.
-
-In terms of strictly lovecraftian narrative, it would be true, as eldritch beings possess a magnitudes more expansive understanding of reality.
-
-This would not characterize perceived reality as explicitly malevelent, but it will offer a different perspective on Apocrea's vision from cultists' perspective, even considering its goal of negation of existence.
+It is also here a narrative of false reality is established -- false or deceiving, through which Apocrea's eyes or gaze allows to see through. In terms of strictly lovecraftian narrative, it would be true, as eldritch beings possess a magnitudes more expansive understanding of reality. This would not characterize perceived reality as explicitly malevelent, but it will offer a different perspective on Apocrea's vision from cultists' perspective, even considering its goal of negation of existence.
 
 ###### Obsidian Mantle of Rituals
 
 `'With great practice and tender care, with an eternal heart and mind so pure: sharpen the stone, sturdy the chain, welcome the night, drink the cup of kings'` ([Obsidian Mantle of Rituals](https://wiki.spiralknights.com/Obsidian_Mantle_of_Rituals#Obsidian_Mantle_of_Rituals)).
 
-As the name of the mantle contains a term "ritual", we can assume that the process of:
+As the name of the mantle contains a word `ritual`, we can assume that the process of:
 
 - `sharpening the stone`
 - `sturdying the chain`
 - `welcoming of the night`
 - `drinking the cup of kings`
 
-Is the description of said ritual. There is a high probability of metaphors beign present. We will return to this ritual later.
+Is the description of said ritual. There is a high probability of metaphors beign present. [We will return to this ritual later](#the-ritual).
 
 The `eternal heart and mind so pure` relates to a prerequisite of one to perform the ritual. The idea of purity was mentioned above in `Pure is my gaze, free from the lies of reality'` ([Obsidian Mantle of Sight](https://wiki.spiralknights.com/Obsidian_Mantle_of_Sight#Obsidian_Mantle_of_Sight)), which may identify one performing the ritual as already under Apocrea's influence.
 
-An eternal heart, we assume, is immortality. Other than that, we are reminded of depths' names of [The Silent Legion](https://wiki.spiralknights.com/The_Silent_Legion): `Poisoned Minds` and `Cold Hearts`. This is also a motif of minds and hearts we have to keep track of in case of familiar themes to be discovered later. Among Apocrean cultists a sacred ritual is established.
+An eternal heart, we suggest, is immortality. We are reminded of depths' names of [The Silent Legion](https://wiki.spiralknights.com/The_Silent_Legion): `Poisoned Minds` and `Cold Hearts`. This is also a motif of minds and hearts we have to keep track of in case of familiar themes to be discovered later. Among Apocrean cultists a sacred ritual is established.
 
 ###### Obsidian Mantle of Influence
 
@@ -3816,15 +3804,15 @@ An eternal heart, we assume, is immortality. Other than that, we are reminded of
 
 Starting from the end, we need to cover the apocrean engines: `Only souls keep these engines roaring, heard screaming across distant stars. Only souls can fill their void, sublime in its vast emptiness ... All of them mere crops against their relentless scythe! Though they may steal sanctuary in the cracks and corners of their terrible realm, it is ever fleeting. The blinding gaze of the Apocrea is boundless. The daylight, the starlight; all hope is merely waiting for their dark shroud to return this cosmic play to its primordial black. ... I weep and laugh before the shroud that waits!` ([Recovered from the journal of Prof. Allister Danford, Dean of Antiquities - Professor Allister Danford](https://forums.spiralknights.com/en/node/91276)).
 
-At [apocrean engines](#apocrean-engines) we have identified the `roaring like the death of this world` as the roar of engines Danford describes, which are fueled by captured souls. Those engines are ones to be heard across material realm and are the means to return the world to its initial state. The phrase `dark shroud to return this cosmic play to its primordial black` defines Apocrea's goal from Danford's perspective as such.
+At [apocrean engines](#apocrean-engines) we have identified the `roaring like the death of this world` as the roar of engines Danford describes, which are fueled by captured souls. __Those engines are ones to be heard across material realm__ and are the means to return the world to its initial state. The phrase `dark shroud to return this cosmic play to its primordial black` defines Apocrea's goal from Danford's perspective as such.
 
-The `quiet as a child's whisper`, while we do not have any relations to chldren yet, there might be a metaphor for Apocrea's eldritch duality as in description of obelisks: `eternal energy that is simultaneously alluring and sinister in a most grotesque manner` ([Obsidian Obelisks](https://wiki.spiralknights.com/Apocrean_Furniture)).
+The `quiet as a child's whisper`, while we do not have any relations to whisper yet, there might be a metaphor for Apocrea's eldritch duality as in description of obelisks: `eternal energy that is simultaneously alluring and sinister in a most grotesque manner` ([Obsidian Obelisks](https://wiki.spiralknights.com/Apocrean_Furniture)), as providing a guidance or, potentially, innocence.
 
 <!--This is very important, but, so far, we may connect the roaring death to roaring engines as ones to bring about the end. Now, with introduction of the mantle, we also may conclude that the one true voice is one of Apocrea, which is also heard from the engines due to application of word "roaring."-->
 
 The quote `Speak with the one, true voice and they will listen` may be interpreted in 2 ways:
 
-- It suggests that a reader of those notes will speak with true cosmic voice of Apocrea, as Apocrea was previously referring to the reader as "you," and Apocrea, ones the speaker becomes aware of it, starts to listen. Apocrea will respond in the aforementioned manner.
+- It suggests that a listener of those notes will speak with true cosmic voice of Apocrea, as Apocrea was previously referring to the listener as "you," and Apocrea, ones the speaker becomes aware of it, starts to listen. Apocrea will respond in the aforementioned manner.
 - The "they", the mantle refers to anyone outside of the cult. Given mantle's name -- `of influence`, -- is may be seen as a method of communion with Apocrea, allowing one to be possessed by Apocrea's goal both mentally and, potentially, physically.
 
 Yet, as Apocrea had referred to itself as `I`:
@@ -3832,7 +3820,7 @@ Yet, as Apocrea had referred to itself as `I`:
 - `Through my eyes you will see the path to ages. Pure is my gaze, free from the lies of reality'` ([Obsidian Mantle of Sight](https://wiki.spiralknights.com/Obsidian_Mantle_of_Sight#Obsidian_Mantle_of_Sight))
 - `'Wrap thyself in my embrace and succumb to my infinite love. Let your breath drift from you like candle smoke, dreaming deeper and deeper still'` ([Obsidian Mantle of Devotion](https://wiki.spiralknights.com/Obsidian_Mantle_of_Devotion#Obsidian_Mantle_of_Devotion))
 
-We would suggest that among aforementioned interpretations, the latter scenario -- of influencig through Apocrea's voice, -- seems more plausible, as it implies the subject neither reader nor Apocrea, while still referring to the cultist on individual basis. Mantle's influence emerges from bearer's supernatural worship to Apocrea and capacity to speak with Apocrea's voice and likely will. It may be framed as anc of supernatural, eldritch possession.
+We would suggest that among aforementioned interpretations, the latter scenario -- of influencig through Apocrea's voice, -- seems more plausible, as it implies the subject neither the listener nor Apocrea, while still referring to the cultist on individual basis. Mantle's influence emerges from bearer's supernatural worship to Apocrea and capacity to speak with Apocrea's voice and likely will. It may be framed as anc of supernatural, eldritch possession.
 
 ###### Obsidian Mantle of Devotion
 
@@ -3842,13 +3830,13 @@ The act of devotion present in mantle's name, given `Wrap thyself in my embrace 
 
 The quote `my infinite love`, based on the other instances of first person, allows us to conclude that it is Apocrea speaking and referring to itself.
 
-`Let your breath drift from you like candle smoke, dreaming deeper and deeper still` quote, then, seemingly refers to the result of this devotion. The act of smoke drifting reminds us of an idea of breath leaving the body -- death, or souls leaving the body. The act of dreaming in that regard seems supernatural, as if being possessed. In combination with smoke metaphor, we would suggest a state of possession, wherein one's soul is extracted, leaving the body without it in a state, similar to a slumber, but animated.
+`Let your breath drift from you like candle smoke, dreaming deeper and deeper still` quote, then, seemingly refers to the result of this devotion. The act of smoke drifting reminds us of an idea of breath or soul leaving the body. The act of dreaming in that regard seems supernatural, as if being possessed. In combination with smoke metaphor, we would suggest a state of possession, wherein one's soul is extracted, leaving the body without it in a state, similar to a slumber, yet remaining animate.
 
-The `infinite love` is peculiar, as it offers only this state of being. In combination with act of devotion we would offer an interpretation, where the act of succumbing to infinite love is one of oblivion, death, of being utilized as the fuel for the engine, as devotion is an act of giving. And, according to Danford, Apocrea's ultimate goal as one of negation of existence through collection of souls and funneling them to the engines.
+The `infinite love` is peculiar, as it offers only this state of being. In combination with act of devotion we would offer an interpretation, where the act of _succumbing to infinite love is one of oblivion, death, of being utilized as the fuel for the engine_. And, according to Danford, Apocrea's ultimate goal as one of negation of existence through collection of souls and funneling them to the engines.
 
 While this is a more grim interpretation, it conflicts with individuality of those followers, as Apocrea speaks to them. But, in case of devotion, and prior interpretation of influence, this individuality is either suppressed or removed as the last state of follower's being. When devotion is absolute, and becouse of it, the devotee may offer themselves -- which is colloqually being the soul, [contrary to an aura](#auras-and-souls), -- to Apocrea.
 
-From this reversed perspective death becomes not an oblivion, but a tarted by Apocrea state of being within `primordial black` or as a fuel for the engine. The latter scenario may be seen as more grim, as oblivion of the metaphysical state of `primordial black` is not achieved by the soul, but the soul is repurposed to become engine's fuel. Whether those states are identical, is unknown, as it depends on metaphysical properties of the black, -- whether it is alchemical void of potential, or it is a final state of existence devoid of energy. The priomordial of the black makes us think of the prior, alchmical interpretation of massa confusa, but the exact conclusion requires us to discuss nature of the Void proper and then its relation to `primordial black`.
+From this reversed perspective death becomes not an oblivion, but a tarted by Apocrea state of being within `primordial black` or as a fuel for the engine, as oblivion of the metaphysical state of `primordial black` is not achieved by the soul, but the soul is processed to become engine's fuel. Whether those states are identical, is unknown, as it depends on metaphysical properties of the black, -- whether it is alchemical void of potential, or it is a final state of existence devoid of energy.
 
 ###### Apocrea's Eldritch Madness
 
@@ -3856,13 +3844,13 @@ As presented in [Obsidian Mantle of Devotion](#obsidian-mantle-of-devotion), Apo
 
 The confict becomes existential, as it reqires for perception of reality without a filter, while remaining human, -- a madness in lovecraftian and cosmic horror terms.
 
-We will keep track of this notion of madness, as we are yet to discuss a figure of the Architect, which is stated to possess madness: `IN HIS MADNESS, THE ARCHITECT BETRAYED THE PACT. TWISTING HIS CREATION INTO A GAME OF DEATH, IT NOW DEVOURS ALL WHO ENTER ITS IRON EMBRACE` ([Echo Stone: Ironclaw Munitions Factory](https://wiki.spiralknights.com/Artifact)).
+<!--We will keep track of this notion of madness, as we are yet to discuss a figure of the Architect, which is stated to possess madness: `IN HIS MADNESS, THE ARCHITECT BETRAYED THE PACT. TWISTING HIS CREATION INTO A GAME OF DEATH, IT NOW DEVOURS ALL WHO ENTER ITS IRON EMBRACE` ([Echo Stone: Ironclaw Munitions Factory](https://wiki.spiralknights.com/Artifact)).-->
 
 ##### Obsidian Prize Box
 
 As far as those items' origins go, we have the last one -- the Obsidian Prze Box itself, as well as its [announcement](https://forums.spiralknights.com/en/node/91276): `Plucked from the depths of the Apocrean realm, Obsidian Prize boxes are almost certainly guaranteed to not induce madness upon ownership. There is literally almost no chance you will hide one deep within your family cellar and pour over its intricate, arcane craftsmanship. And opening one will not in any way unleash a terrible, ancient entity from a world of unending, dark dreams into your own. No, instead, the Obsidian Prize Box contains an assortment of unique and very rare Apocrean treasures. These ageless, undying antiquities include: ... Plus a bonus chance for even more prizes! 25% chance for all Obsidian Prize Boxes to also contain Shadow Accessories`.
 
-The origin of the box allows us to suggest with high certainty that the obsidian sets come from Apocrean Realm, rather than being constructed in the material realm, if we assuma that the originof prize box itself matches source of its contents: `Plucked from the depths of the Apocrean realm, Obsidian Prize boxes`.
+The origin of the box allows us to suggest with high certainty that the obsidian sets come from Apocrean Realm, rather than being constructed in the material realm, if we assuma that the originof prize box itself matches source of its contents, `Plucked from the depths of the Apocrean realm, Obsidian Prize boxes`.
 
 The reveal of those items, apart from cosmic horror tropes, introduces Apocrea to material realm: `opening one will not in any way unleash a terrible, ancient entity from a world of unending, dark dreams into your own`. As here a reference goes to a single entity we can conclude it being either an aspect of Apocrea's presence or a native to Apocrean Realm being, such as Apocrean Harvester. Presence of such entity in the material realm is framed as destructive, characteristic of lovecraftian narratives, wherein presence of alien or eldritch beings is one harmful or explicitly malevelent towards humanity.
 
@@ -4609,7 +4597,7 @@ First and second depths of [The Silent Legion](https://wiki.spiralknights.com/Th
 
 This seems to us as most prominent symbolism in regards to the Silent Legion within Spiral Knights cosmology. If we were to interpret those titles by focusing on attribution to multiple entities and their minds and hearts, with a high certainty we would attribute them to the members of the Silent Legio -- trojans.
 
-`Cold hearts` can be interpreted as unfeeling or uncaring, "cold-hearted". Trojans are turned to stone at that point, so it could be a metaphor for stone, both as stone cold and relentless in their goals.
+`Cold hearts` can be interpreted as unfeeling or uncaring, "cold-hearted." Trojans are turned to stone at that point, so it could be a metaphor for stone, both as stone cold and relentless in their goals.
 
 The `poisoned minds` are more nuanced, it is not a singular mind which in that case would be Arkus, but, we psorpose, __multiplicity refers to the legion itself__. `Poisoned mind` coupled with its colloqual, non-occult understanding, _implies an adoption of a negative perception of something or someone by third party's means_.
 
@@ -8390,16 +8378,16 @@ This leaves us with the last notion we have kept in mind - as alchemy works as a
 
 Lastly, there are alchemy stations themselves. There are predominently only 4 argumenets in favour of alchemy stations being designed and built by gremlins, contrary to a belief that only isroans had relied on alchemy, while there were no information of gremlins using it:
 
-- Clockwork tunnel-like design of sation of 2-klayers design
-- presence of monitors is not associated with Spiral Order but gremlins
-- mysterius alchemy station had to possess an explanation for its appearance and lack of blueprints
-- Sanctuary alchemy station replicates the design of Clockworks' alchemy stations
+- Clockwork tunnel-like design of sation of 2-klayers design;
+- Presence of monitors is not associated with Spiral Order but gremlins;
+- Mysterius alchemy station had to possess an explanation for its appearance and lack of blueprints;
+- Sanctuary alchemy station replicates the design of Clockworks' alchemy stations.
 
 As far as the concept of Spiral Order possessing the fitting technology is, the similarity of stations' designs with the Clockworks, yet a complete lack of alchemy preset for gremlin, despite existence of the Sanctuary, we currently commit to an interpretion of _alchemy stations being built by Isorans_ from resources at hand. Such explanation would provide a few means to explain stations' designs while acknowledging lack of alchemy as it was observed for Isorans, for gremlins.
 
 Since orbs of alchemy remain the common symbol, and as we have suggest them being constructed by heavenly kingdom, they would not have value for gremlin civilization, yet they share the symbol between old Cradle and Isora, further contributing to a common elements of Valkyrian and Spiral Order cultures. If orb of alchemy were adopted on Cradle, then Spiral Order had to rely on other means to perform transmutation.
 
-This leaves Sanctuary and Mysterious Alchemy Station as the only exceptions. While Sanctuary Alchemy Station can be plausibly explained by it adopting Isoran designs, as creator of Echo Stones had witnessed arrival of Isorans on Skylark, the Mysterius Alchemy Station's origins remain unknown.
+This leaves Sanctuary and Mysterious Alchemy Station as the exceptions. While Sanctuary Alchemy Station can be plausibly explained by it adopting Isoran designs, as creator of Echo Stones had witnessed arrival of Isorans on Skylark, the Mysterius Alchemy Station's origins remain unknown.
 
 #### King Tinkinzar and Gremlin Regime
 
@@ -9939,7 +9927,7 @@ This notion could be similar to the Void in the teachings of Godai, wherein it r
 
 This idea also is similar to the the concept of _emptiness in Buddhism, of Śūnyatā_, the ultimate reality, but, as the concepts from alchemy persists by alchemy incorporating many different teachings depending on the author, we only acknowledge it as a possibility.
 
-This theme is of the same nature as an established motif, which is found across mythology and folklore -- of __paradoxical emptiness of the Void, from which the World was formed__ in the according creation myth, such as _Wu Chi of Taoist_, the _Genesis of Christian Theology_, as _Chaos of Greek mythology_, and _Ginnungagap of Norse mythology_, and as _Sunyata of Buddhism_. This idea was suggested in the context of [first analysis of Apocrea' goals](#apocreas-goal-of-negation-of-existence-part-2), as primordial blackness, depite its framing, remains ancient elemnt of the cosmology, and therefore, the initial state of reality, now identified as the round chaos, or more dangerous massa confusa.
+This theme is of the same nature as an established motif, which is found across mythology and folklore -- of __paradoxical emptiness of the Void, from which the World was formed__ in the according creation myth, such as _Wu Chi of Taoist_, the _Genesis of Christian Theology_, as _Chaos of Greek mythology_, and _Ginnungagap of Norse mythology_, and as _Sunyata of Buddhism_. As primordial blackness, depite its framing, remains ancient elemnt of the cosmology, and therefore, the initial state of reality, now identified as the round chaos, or more dangerous massa confusa.
 
 Due to this lack of symbols universallypresent in alchemy, we propose, that the __Void is the very alchemical void of the Universe, same as Primordial Blackness and Nameless Realm__, reflective of the [multitudes of alchemical first matter as inherently dangerorous substance](#shadow-lairs-as-the-alchemical-great-work).
 
@@ -9984,9 +9972,11 @@ This leads us back to 2 sources of this change in opposition to material realm: 
 
 #### Gold Crystal of Whitespace Key
 
-Among singuler floating crystals with the theoretical base of minerals we are aware of 2 such intances: [Eye of Fury](https://wiki.spiralknights.com/Eye_of_Fury) and a _gold crystal functioning as a key across Core depths_.
+Among singular floating crystals with the theoretical base of minerals we are aware of 2 such intances: [Eye of Fury](https://wiki.spiralknights.com/Eye_of_Fury) and a _gold crystal functioning as a key across Core depths_.
 
 Through divinity of Whitesapce we propose that _those crystals are of the same origin traced back to heavenly kingdom and rider gods_, since rage was a characteritic element for them as much as orbs of alchemy, and here, at the entrance to heavenly kingdom, this divine nature primarily is manifested through crystals, as the gold mineral. This mineral through its relation to the divine is most similar to luminite, and yet its color and color of eye of rage is different. We could rely on the [radiant gold light of divine and celetial being](#cradle-metaphysics-part-2-divine-and-celestial-beings), which includes luminite, but it would not explain the specifics of color for aforemnetioned crystals.
+
+But, since the color of the key is differnt, while the mineral is native to Whitespace, we would consider it to possess all of aspects previously split among currently found minerals, including dark matter and luminite. The _gold color of the mineral, through alchemical interprestaion of gold, becomes representative of its completion_.
 
 #### Ability to Influence Clockworks Gate Map
 
@@ -10298,7 +10288,7 @@ This process of building Clockworks consists of transforming a precursor planet'
 
 We do not known whether _containment of land within skydomes_ was a willing act of the king, since we are unaware of his morality. There are gremlins such as Vise and Punch who are presented a diffenrt side of interraction with gremlins, a lack of hostility and presence of encouragement in their exchange with the knight, `Taking on ol' Seerus aye? Careful now, he's not right in the head. Proper imbalanced that one. He and I go way back, but not in any way worth remembering` ([Operation Crimson Hammer - Lobby - Vise](https://wiki.spiralknights.com/Vise)), which, we can suggest, presents a nuance and moral greys to the perception of gremlins. Therefore, a __possibility of a genious yet benevolent king is plausible__.
 
-The following concept is one of more general trope of a king's rule being taken over by a council. But one particular _example, which by itself serves as one of the foundations for such narrative_, is the aforementioned concept of a [philosopher-king](https://tvtropes.org/pmwiki/pmwiki.php/Main/ThePhilosopherKing), King Solomon, through 2 notably unreliable recounts of king's plan and wisdom:
+The following concept is one of more general trope of a king's rule being taken over by a council. But one particular _example, which by itself serves as one of the foundations for such narrative_, is the aforementioned concept of a [philosopher-king](https://tvtropes.org/pmwiki/pmwiki.php/Main/ThePhilosopherKing) through 2 notably unreliable recounts of king's plan and wisdom:
 
 - `All gremlins belonging to the colony serve King Tinkinzar. Tinkinzar is said to be a great ruler and mechanical genius, responsible for the vision of the whole Clockworks. It is our understanding however that the kind is never seen by common gremlins, but instead his orders are delivered and carried out by his Crimson Order, a fearful and zealous band of gremlins who alone share audience with the great king` ([Haven - Bootshuze](https://wiki.spiralknights.com/Bootshuze#Dialogue)).
 - `Tinkinzar not seen for many many years. Crimson Order carries out Tinkinzar's plans for Cradle. Emberlight was blight on master plan because built by outcasts. Haven was probably the same, founded by non-Gremlins. Not part of plan!` ([Pakrat](https://wiki.spiralknights.com/Pakrat#Dialogue)).
@@ -10369,7 +10359,7 @@ Swarm's creation is an act of introduction of curse and a narrative of cosmic ho
 
   This theme introduces a justified motif of madness within the abstracted cosmic horror story. Based on the eldritch component of the narrative, it is revealing nature of truth as maddening by being a case of [going mad from the revelation](https://tvtropes.org/pmwiki/pmwiki.php/Main/GoMadFromTheRevelation). It is embodied by Herex and a later rank missions transition to this theme most recognized by seeming inexplicability of the Swarm.
 
-- The concept of king Tinkinzar, as we have proposed, is to be linked to the trope of the _philosopher-king falling to illusions_ -- a narrative we will explore in relation to king Solomon as he potential inspiration for Architect's character. The archetypical nature of the narrative reflects in the myth-like framing of the Architect, including the paradoxical events of king Solomon's later reign which had followed the initial construction of the First Temple.
+- The concept of king Tinkinzar, as we have proposed, is to be linked to the trope of the _philosopher-king falling to illusions_. The archetypical nature of the narrative reflects in the myth-like framing of the Architect.
 
 Compared to Lord Vanaduke and his relation to Spirit Mother through Nature Sprites, the deed that was done by the Architect was not unforgivel by Sleeper as it calls this act a betrayal.
 
@@ -10478,25 +10468,29 @@ Through those similarities we propose of __an inherent connection between princi
 
 ##### Significance of Purple Color
 
-As earlier we have concluede, that the energy within the Paradise and Nameless Relam is one which shapes into souls, minerals, auras, crystal and mist energy, as Swarm drains this energy, the energy is settled within the Void as pink hue due to presence of curse.
+As earlier we have concluded that the energy within the Paradise and farther Nameless Realm is one which shapes into souls, minerals, auras, and crystal, as Swarm drains this energy, the energy is settled within the Void as pink hue and [pink lightning](#pink-lightning-part-1-underworld) due to [presence of curse](#pink-lightning-part-2-unknown-passage).
 
-How eternal energy fits into this fremework? It is established that Apocrean Engines are the means of Apocrea's plan to achieve its goal. Souls are collected through the Shroud by the Harvester and than are fed to the engines. The name of energy as eternal suggests its lack of limits, either across time, or in capacity.
+How eternal energy fits into this fremework? It is established that Apocrean Engines are the means of Apocrea's plan. Souls are collected through the Shroud by the Harvester and fed to the engines. The name of energy as eternal suggests its lack of limits, either across time, or in capacity. Souls already possess that characteristic of endless capacity, limited only by its output in the moment.
 
-If we assume that its is the latter, then it would conflict with the idea of engines requiring strictly souls. Why engines would not be powered by that same energy, while being a potential variation of one found within dark matter.
+<!--If we assume that its is the latter, then it would conflict with the idea of engines requiring strictly souls. Why engines would not be powered by that same energy, while being a potential variation of one found within dark matter.-->
 
-Or, we can consider eternal energy as timeless, as it can not dissapate, compared to, for example, mist energy. Within this interpretation, it would not conflict with an established ideas of minerals and souls, apart from being of distinct color. If eternal energy is amassed by Apocrea, why would it possess this color?
+We can consider eternal energy as timeless, as it can not dissapate, compared to, for example, mist energy. Within this interpretation it would not conflict with an established ideas of minerals and souls, apart from being of distinct color and possessing a distinct aspect identical to dark matter.
 
-We propose, that this change in color is explained by the same nature why dark matter is purple. It is described as a `mineral ...` ([Dark Matter]()), so if we link it to the purposes of Apocrea, its goal to return rest of reality to the Void, nature of chaos and nothingness when separated would be seen as a valuable, isolated property, wherein souls represent the totality of those properties, found across the minerals. So, in order to power the devices, capable of manipulating the Void, rest of the roster of properties of that energy would be seemingly required, exaplning the need in souls.
+<!--If eternal energy is amassed by Apocrea, why would it possess this color?-->
 
-This leads us to the following ideas:
+We propose that this change in color is explained by the same nature why dark matter is purple, as derived of _two opposited -- chaos and nothingness -- which we can now connect to the Nameless realm and the Void_, yet both are the same entity of first matter percieved and extracted by different means.
 
-- Pink energy of the Swarm, as one connected with a distinct aspect of metaphysics, similar to other minerals. Significance of pink, as well as of curse, as a color which does not naturally occure in nature, we belive, further ties nature of the Swarm, as a curse-animated entity, nature of curse itself to be one of most mysterious properties of established metaphysics.
-- Gold color of minerals within the Core being the closest to a true color of energy while being in solid form of containment. As gold is considered a divine element, its presence within the alchemically significant realm is not irregular.
-- Apocrea and Underworld being associated with qualities of energy which are reflected in Dark Matter, as the rest of dual properties of a soul and omnipresent energy.
+We link concepts of dark matter back to the purposes of Apocrea -- its goal to [return rest of reality to its initial state](#apocreas-goal-of-negation-of-existence-part-2), -- nature of chaos and nothingness when separated would be seen as a valuable, isolated property, wherein souls represent the totality of those properties, found across the minerals same as the universal energy. So, in _order to power the device, capable of manipulating the Void, rest of the roster of properties of that energy would be seemingly required_, exaplaining the need in souls.
 
-While formation of minerals, nor nature of curse are not descretely explained as phenomenons, the correspondence of colors seem for us to be resolved enough to move forward.
+<!--This leads us to the following concepts:-->
 
-##### Grasping Plateau
+<!--- Pink energy of the Swarm, as one connected with an aspect of energy, similar to dark matter and other minerals.-->
+<!--- Gold color of minerals within the Core being the closest to a true color of energy while being in solid form of containment. As gold is considered a divine element, its presence within the alchemically significant realm is not irregular.-->
+<!--- Apocrea and Underworld being associated with qualities of energy which are reflected in Dark Matter, as the rest of dual properties of a soul and omnipresent energy.-->
+
+<!--While formation of minerals, nor nature of curse are not descretely explained as phenomenons, the correspondence of colors seem for us to be resolved enough to move forward.-->
+
+<!--##### Grasping Plateau
 
 With context of Owlite and Almirian history, we can pinpoint the moment when Grasping Plateau was captured by the Shroud.
 
@@ -10513,133 +10507,126 @@ Then it is the source of embers, being an opened burning sarcophagus, similar to
 
 Then it is darkness of Underworld which envelops the Plateau. As gravetyrads are in proximity of Underworld, this is fitting, but also implies that the Shroud can exists in multiple realms, even capturing devilites.
 
-According to this logic, the Shroud makes also its appearance - of proximity of Apocrean Realm, - through presence of its obsidian structures menifesting dericntly from underlying volume of eternal energy, as evident by structure in the Town Sqaure and Grasping Plateau.
+According to this logic, the Shroud makes also its appearance - of proximity of Apocrean Realm, - through presence of its obsidian structures menifesting dericntly from underlying volume of eternal energy, as evident by structure in the Town Sqaure and Grasping Plateau.-->
 
 ##### Eldritch Source of Madness
 
-Items, such as, among all things, Obsidian Prize Boxes: `Plucked from the depths of the Apocrean realm, Obsidian Prize boxes are almost certainly guaranteed to not induce madness upon ownership. ... And opening one will not in any way unleash a terrible, ancient entity from a world of unending, dark dreams into your own` ([Announcement](https://forums.spiralknights.com/en/node/91276)), serve as a precedent for a potential scenario of going-mad-from-revelation type of narrative. The term `plucked` is specific enough for us to consider a case of prize box being extracted by an entity of material realm, with an accent on speed of the action.
+Items of Obsidian Prize Box, `Plucked from the depths of the Apocrean realm, Obsidian Prize boxes are almost certainly guaranteed to not induce madness upon ownership. ... And opening one will not in any way unleash a terrible, ancient entity from a world of unending, dark dreams into your own` ([Announcement](https://forums.spiralknights.com/en/node/91276)), serve as a precedent for a potential scenario of maddening revelation narrative. The term `plucked` is specific enough for us to consider a case of prize box being _extracted into material realm_, with an accent on speed of the action.
 
-We do not mean that the Architect had acquired Obsidian Prize Box, but rather that the act of connecting with Apocrean Realm through its artifacts seems as a plausible vector of further development and a corresponding identification of the nature of that madness, rather than being delegated to curse.
+We do not mean that the Architect had acquired Obsidian Prize Box, but rather that the act of connecting with Apocrean Realm through its artifacts seems as a plausible vector of further development and a corresponding identification of the nature of that madness, rather than being delegated to curse only.
 
-Now, as darkness of Underworld and threat of Apocrea are deeply related, the possibility of Architect being exposed to the source of this darkness would be a motivation for the construction of Clockworks. And then, further exposure now ythrough uncontrolled or malevolent means would potentially induce madness and direct awareness of Apocrea.
+Since darkness of Underworld and threat of Apocrea are related, the possibility of Architect being exposed to the darkness Sleeper warned of is a tangible possibility. Then, a further exposure now through uncontrolled or malevolent means would potentially induce madness and direct awareness of Apocrea.
 
-Those factors, the _perception of Sleeper of the Architect as traitor, reminiscent of Herex_, _Undercorp's history of striking in most vulnerable aspects of targeted civilization_, now _with involvement of diffent dimensions_, seem as conclusive enough explanation for the followed events.
+With those factors, the __perception of Sleeper of the Architect as traitor, reminiscent of Herex__, _Undercorp's history of striking in most vulnerable aspects of targeted civilization_, now _with inclusion of Apocrea_, we see as _conclusive enough_ explanation for present events.
 
-Return berifly to the themes of each of factions, this explanation, through minerals would also explain nature of pink and purple colors, as attributed to distinct elements of energy behind existence of souls without breaking an established system, _where Swarm's design has no direct connection to Apocrea's nor Underworld's designs or even curse_, with the key element to their connection being a framing of each of those designs as from in-universe perspective comprised from multiple common metaphysical elements, fusion of which results in the above complexity and separately alien nature.
+<!--Return berifly to the themes of each of factions, this explanation, through minerals would also explain nature of pink and purple colors, as attributed to distinct elements of energy behind existence of souls without breaking an established system, _where Swarm's design has no direct connection to Apocrea's nor Underworld's designs or even curse_, with the key element to their connection being a framing of each of those designs as from in-universe perspective comprised from multiple common metaphysical elements, fusion of which results in the above complexity and separately alien nature.-->
 
 ##### Mysterious Alchemy Machine
 
-The [Mysterious Alchemy Machine](https://wiki.spiralknights.com/Mysterious_Alchemy_Machine) given aforementioned context, becomes an embodiment of most events, which involve Undercorp's presence, with the exception of annual events such as [Winterfest](https://wiki.spiralknights.com/Winterfest). The mystery within this context, as well as machine's [out-of-place presence within the Arcade](https://wiki.spiralknights.com/File:Mysterious_Alchemy_Machine.png), as well as its color is resolved through the idea of being the gremlin technology, which was coupled with one of Undercorp.
+The [Mysterious Alchemy Machine](https://wiki.spiralknights.com/Mysterious_Alchemy_Machine) given aforementioned context, becomes an embodiment of most events involving Undercorp's presence, with the exception of annual events such as [Winterfest](https://wiki.spiralknights.com/Winterfest). With inclusion of Winterfest, the machisne starts to represent a refinement of symbolic and supernatural into tangible equipment.
+
+The mystery within this context, machine's [out-of-place presence within the Arcade](https://wiki.spiralknights.com/File:Mysterious_Alchemy_Machine.png), as well as its color are juxtaposed to our prior discussion of alchemy stations' [Isoran construction using Clockworks' materials](#isoran-alchemy-stations). Within currently establised system, we can attempt to explain its nature by appealing to its creation process as different from other station during their manufacture, similarly to _Isoran exploration of shadow damage_, but this would not explain the absence of recipes.
+
+The other explanaion is tied to a possibility of alchemy stations being built by gremlins which then would tie this intance to the Sanctuary in their supernatural origin.
 
 ##### The Ritual
 
-As the nature of Tinkinzar's madness was proposed to be siurced from exposure to Apocrea by Undercorp, connecting curse to multidimensional motif of Void being preent, we would like to suggest a potential solution to to the process of being exposed to this type of _destructive madness_.
+Exhausting other options during exploration of the figure of the king, we suggested his madness to be derived from Apocrean influence as the remaining eldritch being. Herein we intend to explore this interpretaion.
 
-Mainly due to lack of presence of Apocrean disciples within the narrative, - while the disciples themselves expand on Apocrea as an eldritch deity with its cult following, whose morality is seen to be beyond understanding from the perspective of anyone outsiede of the group, - they had no point to be present nor exist within an established timeline, apart from being the means the Shroud would be summoned, if we follow eldritch horror narrative.
+Mainly due to lack of presence of Apocrean disciples within the narrative, -- while the disciples themselves expand on Apocrea as an eldritch deity with its follwing, whose morality is seen to be beyond understanding from the perspective of anyone outside of the group, -- they had no presence within the established timeline nor they had any registered notable influence onto history of Cradle.
 
-If the Shroud can only be summoned, rather than appear on Apocrea's will, then this would fit with other Underworld narratives, such as Black Kats being summoned, and general notion of Underworld appearing across history. The act of summoning would require an actor within the material realm, which we are most confident to be entities which where [Obsidian Mantles](), as well as [ones to travel to the arctic regions of Cradle]().
+And yet, they present the most detailed overview of [Apocrea's vision to its fullest realization opposed to natural order](#apocreas-goal-of-negation-of-existence-part-2) within _cosmic horror narrative_.
 
-In relation to obsidian mantles, we have discussed the princples of Apocrea's influnce through deceit. This desceit constutes that the material realm is not the true reality as it is intended to be percieived, which tied to the concept of sight: `` ().
+Their loyalty to Apocrea had to stem from an initial reason, while they existed in the material realm. We have to consider a possibiluty of the shroud being summoned by cultits' means, rather than appearing on Apocrea's will.
 
-The mantles of influence and devotion related to aspects of one in servitued to Apocrea, and the mantle of rituals refered to an obscure ritual, which we initially suggested to be one used to open the Shroud.
+If the Shroud can be summoned, then it would group Apocrea to Underworld through act of summoning. This act of summoning would require an actor within the material realm which should be ones familiar with Apocrea, whether those are bearers of obsidian mantles, or [ones to travel to the arctic regions of Cradle](#operation-gelid). The latter case suggests that there are inhabitants of material realm yet serving a certain deity, therein we suggested to be Apocrea.
 
-But, as previously noted, as Apocrea, as it speaks through the mantles' descriptions, as Sleeper speaking through the Echo Stones, both speak in metaphors. But, due to the analysis of both, we are now aware, that those metaphors have corrsponding reflections in physical reality of material realm.
+In [discussion of apocrean disciples and their obsidian mantles](#apocrean-disciples) we have extracted the princple of Apocrea's influnce through _deceit_. This __deceit constitutes that the material realm is not the true reality__ _as it is intended to be percieived_. [Obsidian mantle of sight](#obsidian-mantle-of-sight) focuses on this notion. The mantles of [influence](#obsidian-mantle-of-influence) and [devotion](#obsidian-mantle-of-devotion) characterize the servitude as absolute, and the mantle of [rituals](#obsidian-mantle-of-rituals) refers to an obscure ritual.
+
+As previously noted, as Apocrea, as it speaks through the mantles' descriptions, as Sleeper speaking through the Echo Stones, both utilize metaphors, now _explicable through their supernatural origin_. This and other factor had allowed us to couple Apocrea and Sleeper as representative of a similar force yet opposite in its application and inent. Wherein Sleeper slumbers, Apocrea negates.
+
+Now [we also know](#sleepers-definition-of-a-dream-part-4) that those metaphors have corresponding reflection in physical reality of material realm.
 
 With this, the ritual described in the Obsidian Mantle of Rituals has so far undiscussed realtions to reality.
 
 `With great practice and tender care, with an eternal heart and mind so pure: sharpen the stone, sturdy the chain, welcome the night, drink the cup of kings.'` ([Obsidian Mantle of Rituals](https://wiki.spiralknights.com/Obsidian_Mantle_of_Rituals#Obsidian_Mantle_of_Rituals))
 
-Here, we would like to examine the steps of the ritual from several perspectives: how they apply if they describe an act of summoning the Shroud, and how they work if they describe a potential unknown act, which results in madness. Wether one or the other interpretation fits better, depends on the interpretation of the steps of the ritual.
+<!--We will examine the steps of the ritual from 2 perspectives:
 
-The `great practice and tender care` and `eternal heart and mind so pure` describe a character of one performing the ritual.
+- How they apply if they describe an act of summoning the Shroud;
+- How they work if they describe an unknown act which results in madness.
+
+Whether one or the other interpretation affirms itself better, also depends on the interpretation of those steps.-->
 
 ###### `great practice and tender care`
 
-First, `great practice and tender care` in abstraction is relatively self-explanatory, as they attribute amount of, either repetitions, or skill derived of them, and a attentiveness as care. This means, what ever is the result of the ritual, it must be performed carefully by one who already, seemigly, has a practiced it.
+The `great practice and tender care` and `eternal heart and mind so pure` describe a character of one performing the ritual.
 
-In terms of application to a ritual as one devised to open the Shroud, this would suggest an actor to be one familiar with it, and consequently, aware. Nefrious Imp woould fit this description, as he certainly has knowledge of more secret elements of the cosmology - to assume him not to be aware of Apocrea would not be a logical leap. Apart from him, there are no entities which would be capable or have the capacity to perform a ritual at least twice, as most of such actors would end up in the sursed or banished state in the first place, given established narrative.
+First, `great practice and tender care` in abstraction attributes amount of, either repetitions, or skill, and an attentiveness as care derived of one performaing the ritual. This means, what ever is the result of the ritual, it must be performed carefully by one who already has, seemigly, practiced it.
 
-The element of practice is also one to protect from the supposed madness, unless madness is to interpreted as not an irrational state of being, but rather one unpredictable from the perspective of one to inhabit material realm. THis definition was one we suggested within the idea of Herex being in the same state of madness as the king, as Herex's motivation still remains perticularly vague.
+In terms of application to a ritual as one devised to open the Shroud, this would suggest an actor to be one familiar with it, and consequently, aware of the act, performing it not by a mistake, but with purpose.
+
+<!--Nefrious Imp woould fit this description, as he certainly has knowledge of more secret elements of the cosmology - to assume him not to be aware of Apocrea would not be a logical leap. Apart from him, there are no entities which would be capable or have the capacity to perform a ritual at least twice, as most of such actors would end up in the sursed or banished state in the first place, given established narrative.-->
+
+The element of practice is also one to protect from the supposed madness, unless madness is to interpreted as _not an irrational state of being_, but rather one _unpredictable from the perspective of one to inhabit material realm_.
 
 ###### `eternal heart and mind so pure`
 
-With the context of Legion of Ur, motif of hearts and minds can be compared in their and Apocrea's context.
+With the context of Legion of Ur, motif of hearts and minds can be compared to one presented here, as physicality of heart and mind are changed: `cold heart` becomes `eternal heart`, `poisoned mind` is now `mind so pure`.
 
-When we have discussed torjans, their cold hearts were interpreted as physically cold due to supernatural element within the story, - as they are turned to stone, - rather than being simply cruel, which is also true of their character.
+When we have discussed trojans, their cold hearts were interpreted as physically cold due to supernatural element within the story, as they are turned to stone, rather than being cruel which is also true of their character. The poisoned minds of trojans were also discussed to be literal, as an act of deceit which had led torjans to betrayal of Guardian's Oath.
 
-The poisoned minds of trojans were also discussed to be literal, but in lesser manner - as the act of deceit had happened, which led torjans to betray Guardian's Oath and their principles.
+The same issue of interpretation applies for an eternal heart. The eternal heart and pure mind of one devoted to Apocrea might be perceived both as literal, physical properties of one performing the ritual, or they are referring to an emotional state. Given context of false reality and motif of sight it might also be read as with this exact sight, the ritual should be performed -- by one devoted to the means and ideas of Apocrea. Within this logic, pure mind would be considered as maddened outside of Apocrea's vision of reality.
 
-Contrary to them, eternal heart and pure mind, we suggest, should be perceived as literal physical properties of one performing the ritual, wether attained or inherent. This, given context of false reality and motif of sight, might also be read as with this exact sight, the ritual should be performed - by one devoted to the means and ideas of Apocrea. Within this logic, pure mind would be considered as maddened one outside of Apocrea's vision of reality.
+Those interpretation lead to a prerequisite of _an utmost devotion to the ideas_ while being unaware of their nature due to previous interpretation of pure mind. _Acolyte's journey ends with the ritual_.
 
-On the other hand, eternal heart and pure mind can be as such, with no interpretation mixed in, but, the previous quote seemingly contradicts it, as the same actor should possess qualities of `great practice and tender care`.
-
-The third option to fit whose quotes together is to consider utmost devotion to the ideas while being unaware of their nature due to previous interpretation of pure mind.
-
-Eternal heart, reminiscent of eternal energy, still, we belive, related to physical longevity of an actor, given applicatition of this term across instances, where the meaning could not be interpreted otherwise: eternal study of Scarlet Fortress, Eternal Struggle of Weight of Darkness, Eternal Orbs of Alchemy, and eternal life and damnation of Lord Vanaduke (`Little is known about the eternal Duke of the Almirian Empire` - [Monster Codex: Lord Vanaduke](https://wiki.spiralknights.com/Monstrous_Codex:_Lord_Vanaduke)), the eternal energy within the obsidian from Apocrean Realm.
-
-This further affirm previous quote of one performing the ritual as unique in its characteristics and mindset. This cahracter then, due to our proposal of king Tinkinzar being supernaturally immortal, would fit the idea of him being unaware of his actions as one to perform the ritual.
-
-On the other hand, Nefarious Imp can be characterized as such, due to the potential of devotion to Apocrea. But, as he lacks obsidian designs, but has shadow steel and curse symbolism, we do not think that this design allows or compells us to consider his devition to the means as plausible, mainly, as we do know whan Apocrean disciples look like, possessing obsidian wings and a crown. Other than that, Nefarious Imp still can be considered one to be involved in those events.
-
-With this, asnow we understand the requirements from one to perform the ritual, we can study the ritual itself.
+<!--Eternal heart, reminiscent of eternal energy of Apocrea, still, we belive, related to physical longevity of an actor, given applicatition of this term across instances, where the meaning could not be interpreted otherwise: eternal study of Scarlet Fortress, Eternal Struggle of Weight of Darkness, Eternal Orbs of Alchemy, and eternal life and damnation of Lord Vanaduke (`Little is known about the eternal Duke of the Almirian Empire` - [Monster Codex: Lord Vanaduke](https://wiki.spiralknights.com/Monstrous_Codex:_Lord_Vanaduke)), the eternal energy within the obsidian from Apocrean Realm.-->
 
 ###### `sharpen the stone`
 
-`sharpen the stone` is similar to a phrase of "sharpen the axe" - in its colloquial meaning is attributed to preparations or honing of skills. But, as there is a stone being sharpened, we think of a sharpening stone, which is the tool itself. There is also "an axe to grind", which carries a different meaning of not preparation as a primary focus, but a grudge.
+`sharpen the stone` is similar to a phrase of "sharpen the axe," in its colloquial meaning attributed to preparations or honing of one's skills. As there is a stone being sharpened, we consider the stone being the tool itself.
 
-In the Apocrean context, and in the context of a ritual, we suggest the prior, literal meaning, of obsidian, as a tool, being sharpened. Would not a refinement of the obelisk to a distinct purpose of its application for specific means as a weapon be relaed to sharpening of the axe, as both, in case of Apocrean Realm, are weapons?
+Among stones associated with Apocrea there is obsidian which when shrpened may refer to obsidian weapons. A more general interpreation of preparation seems here as more sitting since the stone is yet to be applied with a purpose, for which it is sharpened.
 
 ###### `sturdy the chain`
 
-While act of sturdying a chain remind us of a metaphor of a chain being "only as strong as its weakest link," the verb and context suggest an explicit action by a single person, one Apocrea refers in its quote.
+The chains are present for freed souls found acorss the Grasping Plateau as they were wrapping the soul prior to it being freed. This is a metaphor for a concrete act of resiliency and, therefore, preparations.
 
-Disciples are required to act on behalf of Apocrea. Within this assumption, the chain metaphor can be seen as a connection to the deity, given Lovecraftian motifs, bu also, an act of reinforcing a connecting through themselves, as means Apocrea would arrive to material realm if the Shroud is created by disciples.
-
-Here, we should also point out the role of the cultists as bieng refered as discuiples, which implies a lesson to be touch, or, an ideology to be presented - which are already aware of.
-
-In both instances, it seems to us, that a connection with Apocrea through unknown means is meant to be established or maintained.
+Disciples act on behalf of Apocrea. The chain metaphor can then be seen as a connection to the deity, given lovecraftian motifs, but also an act of reinforcing a connectinion to Apocrea as it was a connection with Spirit Mother.
 
 ###### `welcome the night`
 
 The night is associated with darkness. At that, welcoming of the night, paired with Apocrea's goals (`The daylight, the starlight; all hope is merely waiting for their dark shroud to return this cosmic play to its primordial black` - [Danford](https://forums.spiralknights.com/en/node/91276)) and metaphysics, we believe, can only be interpreted in the context of an established comsology of those 2 realms.
 
-The step describes darkness of the night being welcomed into reality in its metaphysical sense, as one we understodd from the inital analysis of graveyards and Candlestick Keep, as an explicitly dangerous type of darkness, alien for the material realm. Here we suggest the night being the Apocrea and its realm being summuned.
+The step describes darkness of the night being welcomed into reality in its metaphysical sense, as one we understood from the inital analysis of graveyards and Candlestick Keep, as an explicitly dangerous type of darkness, alien for the material realm. Here we suggest the night being the Apocrea and its realm being summuned.
 
-With this logic, the act of welocoming is consideed natural, so it is not described in greater detail with the details being described in previous steps. Or, the ritual describes an process, which is built around the act of summoning.
+With this logic, the act of welcoming is consideed natural, so it is not described in greater detail with the details being described in previous steps. Or, the ritual describes an process, which is built around the act of summoning.
 
-There is also an option of welcoming the night as an individual Apocrea refers, which is then considered an act of devotion to Apocrea, as welcoming of Apocrea not into material realm, but as an idea, an idealogy we have mentioned in previous quote. This interpretation would then shift the ritual to one of becoming Apocrean disciple, given their alieanation from the rest of reality due to Apocrea's goals.
+Since Apocrea speaks to an individual the act of welcoming the night is personal which is then considered an act of devotion to Apocrea, as welcoming of Apocrea not into material realm, but as an idea, an idealogy we have mentioned in previous quote. This interpretation would then shift the ritual to one of becoming Apocrean disciple in alieanation from the rest of reality.
 
-This act may also be metaphysical, that is involving supernatural transformation, as aspect of transformation or body horror was present within a few select instances, namely Arkus, Lord Vanaduke, Snarbolax, and Margrel. As Apocrea represents an eldritch god, we believe, there ixists a plausibility of such contcept being present here.
+This act may also be metaphysical, that is involving supernatural transformation, as aspect of transformation or body horror was present within a few select instances, namely Arkus, Lord Vanaduke, Snarbolax, and Margrel. As Apocrea is an eldritch deity, we suggest that a physical change may take place here, a shift of one's physiology.
 
-As previous quotes refer to a single entity, we suggest, that an act of welcoming the night is personalized. Those steps now seem to us as if they were describing a process of initiation of a disciple.
+This act exists as an opposite to Sleeper's nature directly, as the latter reuires protection from the darkness. This relation links the two deities as in existential oppostions to each other.
 
-In this interpretation, there is no reason for Nefarious Imp to be present in this process, as for the Architect, given his madness, it is now plausible for madness to emerge from an eldritch influence. Despite the lack of Apocrean symbolism in any relation to gremlins, this hypothetical scenraio is still worth of noting as a potential, although unlikely lead towards understanding of Architect's madness.
-
-Lastly, relation to darkness, its welcoming seems to fit thematically to inverted perception of disciples of the reality, wherein Sleeper is one being against the darkness, which further links the two deities as in existential oppostions to each other.
+We can suggest involvement of the king which would provide explain his act as treacherous, since it is detrimnetal to divinity of the Sleeper, but otherwise we conbsider it a coincidence.
 
 ###### `drink the cup of kings`
 
-The belonging of a cup to kings carries inherent symbolism, associated with kings and absolute power of a monarch. The _cup itself_ and the act of drinking, as a symbol, often refers to an experience or fate, where the _act of drinking_ is one of accepting and experiencing its trials. The cup of kings, outside of eldritch context becomes the trial, which is attributed to kings, either in its result, trial, or potentially, both.
+The belonging of a cup to kings carries inherent symbolism, associated with kings and absolute power of a monarch. The _cup itself_ and the act of drinking, as a symbol, often refers to an experience or fate, where the _act of drinking_ is one of accepting and experiencing its trials. The cup of kings, outside of eldritch context becomes the trial attributed to kings, either in its result, the trial itself, or, potentially, both.
 
-With the eldritch context, this step seems to be one on harveting or accepting the experience of the initiation as Apocrean disciple. As we keep in mind the properties of eternal heart and pure mind, in the framing of initiation, it can be considered a common requirement of one being devoted to the goal, rather than being physically immortal, but one does not exclude the other, as those elemnts wre seen to be tethered together.
+Within the eldritch context this step seems to be one on harveting or accepting the experience of the initiation as an Apocrean disciple as the main act of `welcoming the night` was completed. As we keep in mind the properties of eternal heart and pure mind, in the framing of initiation, it can be considered a common requirement of one being devoted to the goal, rather than being physically immortal, but one does not exclude the other, as those elemnts were seen to be related.
 
-As this initiation, fitting with the cosmic horror and Yog-Sothothery suggests inability to heal from this now perceived madness, we suspect this nature to be one to plague Tinkinzar, as he was exposed to it by an agent, one likely being Underworld and specifically Undercorp in order to be sustential enough for Swarm to be created as ppart of the series of events.
+A notable element may be found in the narrative of curse, as most of its primary bearer were representative leaders of their respective factions. Tinkinzar's madness as stemming from the same condition fits into the pattern, but compared to the rest, and Margrel in particular, we do not know their motivations. Lord Vanaduke may serve as an example of maddened desperation, but such conflict which would bring Margrel or Tinkinzar is absent since we do not know the context of their shift.
 
-Here we should note, that this state of madness is perceied by the rest of existence as mad, while for an entity, or deity, which opposes this worldly order, it is the natural order of perceiving reality. And, we do not think that Tinkinzar became a proper Apocrean discicple, but rather, as we pointed out in multiple contexts, this madness, which might be shared with the disciples is more reminiscnet of Herex's perception of reality.
+Those are the factor which could reveal the reason of Architect's betrayal -- as far as gather information allows to speculate, the afflication with _madness is of eldritch origin rooted in opposition to life_. If it is true, another question remain of _how such figure as the Architect became afflicted with this worldview_.
 
 #### Sleeper's Awakening
 
-As Sleeper and Architect were tethered together both through creation of Cradle, finalizing in Sleeper's awakening, so Apocrea's disciples (`Through my eyes you will see the path to ages. Pure is my gaze, free from the lies of reality'` - [Obsidian Mantle of Sight](https://wiki.spiralknights.com/Obsidian_Mantle_of_Sight#Obsidian_Mantle_of_Sight)), would possess a vision and motivation, guided by Apocrea, bound to Apocrea's destructive intent from the perspective of inhabitants of rest of reality, rather than one of Sleeper.
+As Sleeper and Architect were tethered together both through creation of Cradle, finalizing in Sleeper's awakening, paralleling Apocrea's disciples, both factions would possess a vision and motivation, guided by respective deities.
 
-As Apocrea's intent is clear, as an avatar of entropy, and as Sleeper inherits many deific and alchemical themes through Shadow Lairs and gremlins, we are suggest Sleeper's goal, achievable only with guardian civilization, as one of completing alchemical Great Work given its prevalence for gremlins up tpo the Sanctuary, ending in a state, which significantly differs from the current one - of Sleeper's awakening.
+While Apocrea's intent is direct, Sleeper inherits many deific and alchemical themes through Shadow Lairs and prior divine narratives. We suggest that Sleeper's goal is achievable only with a guardian civilization to watch over the slumber and a complettion of an alchemical Great Work finalizing in a state significantly different from the current one, characterized by Sleeper's awakening.
 
-As we have covered the state heavenly kingdom was in during its prime - located in paradise, - we would consider the final state of guardian civilization and awakened Sleeper to surpass current civilization and enter a state of transcended state of being, which corresponds to Sleeper awakening from slumber. At this state, given metaphor of slumber, it would highly likely allow Sleeper to achieve greater power and invulnerability (`` - [Echo Stone: Ironclaw Munitions Factory]()). As for the guradian civilizations, aming shich Owlites were the most successful so far, the presence of alchemical, biblical motifs makes us think of a specific ending for such civilization, one we propose to be an apotheosis.
-
-This is the end result of alchemical Great Work for an alchemist, in the form of divine Rebis, which by its nature unites the opposites, here being multitude of entities of material realm and a single deity, would be seen as less conflicting interpretation, where at its core, the opus is a secret of literal immoratlity, so apothosis being a specific, concerete event, would suffice it.
-
-Now given the duality of Spirit Mother's blessing and Vog's fires, magic from the Nameless Ream in form of the books, then common energy of minerals of dark matter and crimsonite, the most distant ends of this duality would be represented by its essence, - as Nameless Realm and the Void, - the two primordial realms, which represent the totality of existence and a lack of it.
-
-This duality then is reflected in nature of the Swarm as one to contain those properties in the form of its similarity to conceptual opposites, but common in their fundamental nature within cosmology.
+As we have covered the state heavenly kingdom was in during its prime, located in paradise, we would consider the final state of guardian civilization and awakened Sleeper to surpass current civilization and enter of _transcendence_ which would to one found among most loyal Apocrean following, bearing wings and crown of obsidian. At this awakened state Sleeper would likely achieve greater power and invulnerability from presented dangers, while the guradian civilization coupled with presence of alchemical and biblical motifs makes us think of a specific ending for such civilization, one we propose to be if not apotheosis but a positive state of being, contrasting to an oblivian of Apocrea.
 
 
 <center class="chapter-break">
@@ -10663,23 +10650,15 @@ This duality then is reflected in nature of the Swarm as one to contain those pr
 
 </SubTitleCentered>
 
-In a general premise, the story of Spiral Knights is relatively simple: a megastructure, which incorporates many different eras, societies, and civilizations from a planet it was built from, falls to a threat, born of its builders past. Throughout manifestation of this threat, the story transitions from a plot of stranded expedition exploring of new world to becoming the guardians of this world in an conflict of deity-like, eldritch beings.
+In a general premise, the story of Spiral Knights is relatively simple -- a megastructure which incorporates many different eras, societies, and civilizations from a planet it was built from, falls to a threat, born of its builders past. Throughout manifestation of this threat, the story transitions from a plot of stranded expedition exploring of new world to becoming the guardians of this world in an conflict of deity-like, eldritch beings.
 
-Then, we have proposed, that this narrative is a single instance of greater plot of a _reoccurring, multi-civilizational, interdimensional siege of reality_ focused on the planet of Cradle due to its connection to a metaphysically important realm, and actions, which had caused each of presented civilizations to fall to a threat in its different iterations, but all with a common origin and goal.
+Then we have proposed that this narrative is a single instance of greater plot of a _reoccurring, multi-civilizational, interdimensional siege of reality_ focused on the planet of Cradle due to its connection to a metaphysically important realm, and actions, which had caused each of presented civilizations to fall to a threat in its different iterations, but all with a common origin and goal. We proposed existence of metaphysics, where _souls, auras, minerals, crystal and mist energy_ are mediums for an omnipresent energy flowing through a metaphysical stack of realms from one most rich in energy to one devoid of it.
 
-In this narrative, Rebis theory is an operational principle of underlying physical laws, derived from repeated pattern found throughout Cradle's history.
+The metaphysical stack is identified by quality and quantity of energy in its most abstract form originating from the Nameless Realm, flowing into material realm, and then Underworld and the Blinding Abyss, intercepted by Apocrean Realm. The Void and Nameless Realm are two primordial conceptually opposite realms, where the void preceeds reality, it created existence with energy accumulated in the positive chaos of Nameless realm.
 
-We propose existence of metaphysics, where _souls, auras, minerals, crystal and mist energy_ are mediums for an omnipresent energy flowing through a metaphysical stack of realms from one most rich in energy to one devoid of it.
+Through those realms and their influence on Cradle we have proposed an underlying _duality of the energy medium as one derived from alchemical first matter_.
 
-The metaphysical stack is identified by quality and quantity of energy in its most abstract form originating from the Nameless Realm, flowing into material realm, Underworld, Blinding Abyss, intercepted by Apocrean Realm, and ending in the Void.
-
-The Void and Nameless Realm are two primordial conceptually opposite realms. Through their presence and influence on Cradle, we have proposed an underlying _duality of the energy medium as one derived from alchemical Prime Matter and its states_.
-
-According to it, we believe, all supernatural phenomena observed across Cradle are such energy transfers being performed across multiple aforementioned mediums, existing due to conditions on Cradle as allowing for multiple realms to be connected, amplifying said effects.
-
-Those two realms are the chaos of Prime Matter in its primordial state, from which Universe was initially created - identical to and referred as the Void; and the state of Prime Matter in which it is found at the end of the alchemical Great Work, of possessing and internal equilibrium with preservation of its duality, - the chaos of Nameless Realm.
-
-Nameless Realm and material realm are connected through the Whitespace within the Core, which was once the paradise of heavenly kingdom of Valkyries, and material realm connects to the Underworld through Graveyards and Owlite Academy by the fact of those being brought into metaphysical proximity of Underworld.
+According to it all supernatural phenomena observed across Cradle are energy transfers being performed across multiple aforementioned mediums, from minerals to fire crystals to souls, existing due to conditions on Cradle as allowing for multiple realms to be connected, amplifying said effects. In this narrative Cradle becomes this Universe's Axis Mundi, a world tree, connecting and bridging all realms of the Universe.
 
 <ListTimeline>
 
@@ -10858,7 +10837,7 @@ Nameless Realm and material realm are connected through the Whitespace within th
 
 - In this state Cradle exists for a long time, until the planet was discovered by gremlin interstellar empire.
 
-- Here, the first contact of Sleeper with the gremlin King Tinkinzar is established.
+- The first contact of Sleeper with the gremlin King Tinkinzar is established.
 
 - Sleeper reveals itself as a primordial entity, now unprotected by heavenly kingdom, yet capable of beneficial actions, allowing for a place for gremlin empire to exist, while providing divine protection and resources.
 
@@ -10888,9 +10867,8 @@ Nameless Realm and material realm are connected through the Whitespace within th
 
 - Underworld is rediscovered by gremlins, it approaches gremlins and offers their technology.
 
-- It is due to Undercorp reemerging, as gremlins were researching shadow damage - an uncommon type of damage for material realm in general, as in previous times, undercorp did provide great advancements to Cradle, with soul-sensing gates and graviton-derived electron technology.
-
-- Undercorp prepares to sabotage King Tinkinzar's reign in order to prevent Sleeper's awakening and subsequent apotheosis for the guardian civilization, cutting off possibility of Undercorp acquiring energy directly from the paradise.
+- It is due to Undercorp reemerging, as gremlins were researching shadow damage -- an uncommon type of damage for material realm in general, as in previous times, Undercorp did provide great advancements to Cradle, with soul-sensing gates and graviton-derived electron technology.
+- Undercorp prepares to sabotage King Tinkinzar's reign in order to prevent Sleeper's awakening and apotheosis for the guardian civilization, creating a possibility of Underwold to acquire energy directly from the paradise and topmost Nameless realm.
 
     Through those means, as trojans were tricked into corruption, the king and gremlins are tricked by Apocrean technology introduced by Undercorp.
 
@@ -10908,7 +10886,7 @@ Nameless Realm and material realm are connected through the Whitespace within th
 
 - Slime Generators are established, they are used to produce quicksilver while emitting poison into nearby devilite city, rendering it uninhabitable.
 
-- Haven is built by Strangers on the near side of the mountain. Behind the mountan a Clockwork Terminal is located, consisting of several gates, - Haven Arcade.
+- Haven is built by Strangers on the near side of the mountain. Behind the mountan a Clockwork Terminal is located, consisting of several gates, -- Haven Arcade.
 
 
 - Across Isoran colonies a war erupts, leading to a prolonged conflict, known as the Morai Wars. This war leaves most of the civilization in ruins. Morai create a celestial vortex to annihilate Isoran sun. This causes all parties to search an unprecedented energy source.
@@ -10917,7 +10895,7 @@ Nameless Realm and material realm are connected through the Whitespace within th
 
 
 - Through Undercorp, access to the Apocrean Realm is established.
-- King Tinkinzar is inflicted with madness, sourced from an unknown artifact from Apocrean Realm.
+- King Tinkinzar is inflicted with madness sourced from Apocrean Realm.
 - Curse is introduced to the entity of Whitespace outside of the Core, responsible for initial arrangement of Clockworks, resulting in initial creation of the Swarm.
 - The Swarm opens access to the Void from material realm in proximity of the Core.
 - The Swarm enters volume of the Core harvesting its energy in order to expand.
@@ -11310,7 +11288,7 @@ Both unconnected, diverse narratives from megastructure and setting's design pos
 
 We should also note on the eldritch and occult motifs, represented through temporary presence of Apocrea and permanent presence of Undercorp across Clockworks.
 
-Here we would not discard the alchemical interpretation, but refer to its details, such as, for example, in case of devilites - the likely sources of their inspiration as "The Key of Solomon the King." Though Apocrea and manipulation of souls in a grand narrative we observe a trope, where souls, despite their background presence, become the essential element of cosmology and a medium of energy.
+Here we would not discard the alchemical interpretation, but refer to its details, such as, for example, in case of devilites - the likely sources of their inspiration as `The Key of Solomon the King`. Though Apocrea and manipulation of souls in a grand narrative we observe a trope, where souls, despite their background presence, become the essential element of cosmology and a medium of energy.
 
 - Undercorp operates in the background as the more distinguished veiw of Underworld
 - Underworld proper presents itself through dark magic, curses, and undeath
